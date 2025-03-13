@@ -1,0 +1,403 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-347-0000-1991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992362268,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "743-nacional-estructura-organica-junta-nacional-carnes-dn19910000743-1991-04-18"
+      }
+    },
+    "content": {
+      "mecanografico": 19910000743,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 743,
+      "timestamp-m": "2012-05-09T14:32:23",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1991-04-18",
+      "standard-normativo": "DEC C 000743 1991 04 18",
+      "titulo-norma": "ESTRUCTURA ORGANICA DE LA JUNTA NACIONAL DE CARNES",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1991 04 26"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 2",
+            "id": "ABROGA A0",
+            "ref": "DEC C 000454 1970 00 00 0000 000"
+          },
+          {
+            "cr": "POR ART. 2",
+            "id": "ABROGA A1",
+            "ref": "DEC C 002034 1988 00 00 0000 000"
+          },
+          {
+            "cr": "POR ART. 5",
+            "id": "OBSERVA A2",
+            "ref": "DEC C 000435 1990 00 00 0023 000"
+          },
+          {
+            "cr": "POR ART. 5",
+            "id": "OBSERVA A3",
+            "ref": "DEC C 000435 1990 00 00 0027 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 743/1991",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2012-05-09",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE APRUEBA LA ESTRUCTURA ORGANICA DE LA JUNTA NACIONAL DE CARNES, ORGANISMO DESCENTRALIZADO DEPENDIENTE DE LA SUBSECRETARIA DE AGRICULTURA, GANADERIA Y PESCA DEL MINISTERIO DE ECONOMIA.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A ANEXO I ORGANIGRAMA",
+            "B ANEXO II OBJETIVOS",
+            "C ANEXO III RESPONSABILIDAD PRIMARIA Y ACCIONES",
+            "D ANEXO IV PLANTA",
+            "E AENXO V PRESUPUESTO"
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "reforma administrativa"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia administrativa/reforma administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "austeridad administrativa",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Junta Nacional de Carnes"
+            },
+            "preferido": {
+              "termino": "Junta Nacional de Carnes"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "estructura orgánica"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/administración centralizada/organismos del Estado/estructura orgánica"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades gubernamentales",
+                "órgano administrativo",
+                "organismos centralizados",
+                "entes públicos",
+                "función pública",
+                "organismos administrativos",
+                "organismos públicos",
+                "reparticiones nacionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal de gabinete"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/funcionarios públicos/personal de gabinete"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cobertura de vacantes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/cargos vacantes/cobertura de vacantes"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extinción de la relación funcional"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/extinción de la relación funcional"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "baja del agente",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "promoción del personal"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/derechos de los agentes de la administración pública/carrera administrativa/promoción del personal"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "derechos del empleado público",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "derechos del funcionario público",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "ingreso a la función pública",
+            "administración centralizada",
+            "austeridad administrativa (emergencia administrativa)",
+            "cargos vacantes",
+            "reforma del Estado",
+            "agentes de la administración pública",
+            "emergencia administrativa",
+            "agentes de la Administración (agentes de la administración pública)",
+            "funcionarios públicos",
+            "organismos administrativos (organismos del Estado)",
+            "personal del sector público (agentes de la administración pública)",
+            "reforma administrativa",
+            "derechos del empleado público (derechos de los agentes de la administración pública)",
+            "política económica",
+            "cobertura de vacantes",
+            "personal del Estado (agentes de la administración pública)",
+            "promoción del personal",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "organismos del Estado",
+            "relación de empleo público (empleo público)",
+            "funcionarios y empleados públicos (agentes de la administración pública)",
+            "Economía y finanzas",
+            "reparticiones nacionales (organismos del Estado)",
+            "extinción de la relación funcional",
+            "Derecho administrativo",
+            "entes públicos (organismos del Estado)",
+            "organismos centralizados (administración centralizada)",
+            "organismos públicos (organismos del Estado)",
+            "derecho financiero (Economía y finanzas)",
+            "función pública (Administración Pública)",
+            "Junta Nacional de Carnes",
+            "derecho económico financiero (Economía y finanzas)",
+            "entidades gubernamentales (organismos del Estado)",
+            "carrera administrativa",
+            "derechos del funcionario público (derechos de los agentes de la administración pública)",
+            "Administración Pública",
+            "agentes públicos (agentes de la administración pública)",
+            "derechos de los agentes de la administración pública",
+            "baja del agente (extinción de la relación funcional)",
+            "personal de gabinete",
+            "estructura orgánica",
+            "empleo público",
+            "órgano administrativo (organismos del Estado)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 023697 1989 09 01 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002476 1990 11 26 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "las Leyes 23.696 y 23.697, el programa de Reforma Administrativa  implementado  por el Decreto 2.476/90, lo propuesto por el MINISTERIO DE ECONOMIA, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002476 1990 11 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000454 1970 07 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 021740 1978 01 27 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  mediante  las  normas  legales  citadas  en  el VISTO, se declararon   respectivamente  las  emergencias  administrativa    y económica  y  que,    dado   el  estado  de  grave  desorganización administrativa que impera en  la  Administración  Nacional  resulta necesario    poner    en  marcha  un  programa  de  racionalización administrativa, el cual  se diseÑó a través del dictado del Decreto 2.476/90.\n\nQue el artículo 13 del citado  Decreto  hace  mención especial a la necesidad de reestructurar la JUNTA NACIONAL DE  CARNES, debiéndose elevar  el  proyecto  respectivo dentro de los (NOVENTA)  90  días.\n\nQue el Decreto 454 del  31  de  julio de 1970 y sus modificatorios, establece  la  estructura  vigente  en    dicho    organismo.\n\nQue  la  estructura de la JUNTA NACIONAL DE CARNES presentada  para su aprobación,  ha  sido  tramitada de acuerdo con las formalidades establecidas  por  el Decreto  2.476/90  en  su  artículo  2.\n\nQue la estructura organizativa propuesta es la mínima indispensable para cumplir  las  disposiciones  de  la Ley 21.740 y sus disposiciones reglamentarias.\n\nQue  el Comité Ejecutivo de Contralor de la Reforma Administrativa, ha tomado la intervención que le compete.\n\nQue la  presente  medida  se  dicta  en  uso  de  las  atribuciones conferidas  al  PODER  EJECUTIVO  NACIONAL  en virtud del Art.  86, inciso 1, de la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1.-  Apruébase  la  estructura  organizativa de la JUNTA NACIONAL  DE CARNES, Organismo descentralizado  dependiente  de  la SUBSECRETARIA  DE  AGRICULTURA, GANADERIA Y PESCA del MINISTERIO DE ECONOMIA, cuyo Organigrama,  Objetivos, Responsabilidades primarias y  acciones, Planta permanente,  Planta  permanente  y  gabinete  y Planilla  comparativa  de  cargos  financiados,  forman  parte  del presente Decreto como anexos I, II, III, IVa, IVb y Vb."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2.-  Deróganse los Decretos 454/70 y modificatorios, así como el Decreto N. 2.034/88."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 000435 1990 03 04 0025 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "Art.  3.-  Apruébase  el  anexo  IVc  que incluye los cargos y personal,  de  la  JUNTA  NACIONAL DE CARNES, comprendidos  en  los alcances del artículo 25 del  Decreto  435/90 y modificatorios, los que caducarán automáticamente al momento  de producirse la baja del agente. Estas bajas se comunicarán a la SUBSECRETARIA  DE  HACIENDA a fin de eliminar los cargos del Presupuesto."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4.- Apruébase la distribución de cargos y horas de cátedra que,  como  anexo  Va, forma parte integrante del presente Decreto."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5.-  Exceptúase  a  la  JUNTA  NACIONAL DE CARNES de las prescripciones establecidas en los Artículos  23  y  27 del Decreto N. 435/90, modificado por el Decreto N. 612 de fecha 2  de abril de 1990,  con  relación  a las promociones de categorías de revista  y coberturas de vacantes  dentro  de  la  Planta de Personal aprobada por  la  presente  medida  y  con  el  fin  de asegurar  el  normal funcionamiento de ese Organismo."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002476 1990 11 26 0003 000 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "Art.  6.- Dentro de los TREINTA (30) días corridos a partir de la fecha de  publicación  del  presente  Decreto, se efectuarán los movimientos de personal que sean necesarios  para la implementación de  la estructura organizativa aprobada por el  mismo.  Entretanto, se mantendrán  con  carácter  provisorio  las misiones, funciones y cargos ocupados, con su financiamiento, vigentes  a  dicha fecha de publicación,  en  los términos del Art. 3 del Decreto N.  2.476/90."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7.- El gasto que demande el presente Decreto será atendido con  imputación a los créditos vigentes de las partidas específicas del programa 127 jurisdicción 058."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - CAVALLO"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ORGANIGRAMA",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "Art.  1.-  (Nota  de  redacción)  Organigrama  -  No grabable."
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "OBJETIVOS DE LA JUNTA NACIONAL DE CARNES",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "Objetivos",
+            "texto": "1.  Lograr  y  mantener un nivel de satisfacción de la demanda interna de productos  cárnicos  y  sus derivados, compatible con el desarrollo requerido de las exportaciones.\n\n2.  Promover  las  exportaciones  de  productos    cárnicos  y  sus derivados,  a  través  de  la  investigación  y  ejecución  de  las acciones  que permitan la ampliación de los mercados  tradicionales y la captación de mercados potenciales.\n\n3. Mantener  un  adecuado  control  de  la  industria y comercio de ganados  y  carnes,  tendiente  a  lograr  un  nivel    de  calidad compatible con las exigencias del mercado interno y las regulaciones internacionales en la materia."
+          }
+        },
+        {
+          "anexo": "C",
+          "titulo-anexo": "RESPONSABILIDAD PRIMARIA Y ACCIONES",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "titulo-articulo": "GERENCIA DE ESTUDIOS ECONOMICOS Y PROMOCION",
+              "texto": "Responsabilidad primaria\n\nInvestigar,  promover  y  ejecutar  las  acciones  requeridas  para orientar  a la producción, el comercio y la industria de Ganados  y Carnes en el  logro  de  la  satisfacción de la demanda interna, la ampliación  de  los  mercados  tradicionales   y  la  captación  de mercados potenciales.\n\nAcciones\n\n1.  Realizar  estudios  económicos  y  de  mercado  orientados    a establecer  y  evaluar  las  acciones  requeridas  para ampliar los mercados   tradicionales  y  captar  mercados  potenciales.\n\n2. Efectuar  estudios  relacionados con los aspectos técnicos de la producción, industrialización,  almacenamiento  y  transporte  y el análisis  de la comercialización de ganados, carnes y subproductos, tanto interno como para la exportación.\n\n3.  Administrar    los    recursos  y  políticas  informáticas  del Organismo, desarrollando los  canales  de comunicación que permitan mantener una información actualizada de  los  mercados  actuales  y potenciales.\n\n4.  Definir,  desarrollar,  implementar  y  mantener operativos los sistemas de información estadística, requeridos para la orientación  de las actividades del organismo  y  de  los  sectores usuarios de la  actividad  pecuaria, nacional e internacional.\n\n5. Desarrollar la política institucional del Organismo, implementando los programas  promocionales  en  el  país  y  en  el extranjero,  así  como  la  divulgación  de la información y de los avances científicos y tecnológicos en materia  de ganados y carnes."
+            },
+            {
+              "numero-articulo": 2,
+              "titulo-articulo": "GERENCIA DE FISCALIZACION Y CONTROL TECNICO",
+              "texto": "Responsabilidad primaria\n\nImplementar  los  sistemas  y  métodos de control del comercio y la industria de ganados y carnes, tendientes  a  lograr  y mantener un nivel de calidad compatible con las exigencias del mercado  interno y las regulaciones internacionales en la materia.\n\nAcciones\n\n1.  Controlar en todo el ámbito del Territorio Nacional la correcta aplicación de las normas y procedimientos que hacen al cumplimiento  de la Ley 21.740, sus complementarias, ampliatorias y reglamentaciones,  a  través  del  contralor  técnico y legal de la producción,  industria  y  comercio  de  ganados  y  carnes.\n\n2.  Efectuar  el  contralor  integral  de las etapas de producción, industrialización y comercialización de  ganados  y  carnes  en  el mercado interno.\n\n3.  Fiscalizar las actividades desarrolladas por personas físicas o jurídicas,    obligadas    a  registrarse  en  el  Organismo.\n\n4.  Normalizar  y  supervisar  las    tareas   de  clasificación  y tipificación de ganados y carnes, dirigiendo las  tareas de control de calidad de carnes, productos y subproductos cárnicos  destinados al mercado interno y a la exportación.\n\n5.  Realizar  las  auditorías  internas  de  carácter  técnico  y/o administrativo  que  sea  menester  aplicar e instruir los sumarios que sean requeridos por la autoridad  máxima  del  Organismo.\n\n6.  Entender  y  practicar  en  el control de las recaudaciones que percibe el Organismo en función de  las  reglamentaciones vigentes."
+            },
+            {
+              "numero-articulo": 3,
+              "titulo-articulo": "SUBGERENCIA DE ADMINISTRACION Y FINANZAS",
+              "texto": "Responsabilidad primaria\n\nAdministrar  y  controlar  el  uso  de  los  recursos  financieros, cumplir  con  los  requerimientos  legales  de registro contable  y presupuestario  y coordinar los recursos humanos  y  los  servicios logísticos.\n\nAcciones Derivadas:\n\n1.  Elaborar  el proyecto  de  presupuesto  de  gastos  y  recursos anuales.\n\n2. Registrar y  controlar  la ejecución presupuestaria, movimientos de fondos, responsables, y patrimonio.\n\n3. Percibir las contribuciones,  tasas, multas y demás ingresos que surgen  de  la  aplicación  de las disposiciones  legales  vigentes inherentes al organismo.\n\n4. Administrar las cuentas bancarias  habilitadas,  efectuando  los cobros  y pagos del organismo ajustándose a las normas específicas.\n\n5. Efectuar  las  Compras  y  Contrataciones  de bienes y servicios ajustándose  a las disposiciones vigentes que regulan  las  mismas.\n\n6. Administrar  los  recursos humanos que integran las unidades del organismo, a fin de lograr  una  correcta  aplicación de las normas en la materia."
+            }
+          ]
+        },
+        {
+          "anexo": "D",
+          "titulo-anexo": "PLANTA",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "Art. 1.- (Nota de redacción) Planta - No grabable."
+          }
+        },
+        {
+          "anexo": "E",
+          "titulo-anexo": "PRESUPUESTO",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "Art.  1.-  (Nota  de  redacción)  Presupuesto  -  No grabable."
+          }
+        }
+      ],
+      "id-infojus": "DN19910000743"
+    }
+  }
+}

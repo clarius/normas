@@ -1,0 +1,340 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-333-0000-6991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991219494,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "333-nacional-decreto-reglamentario-ley-empleo-riesgos-trabajo-dn19960000333-1996-04-01"
+      }
+    },
+    "content": {
+      "mecanografico": 19960000333,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 333,
+      "timestamp": "2014-07-18T21:56:03",
+      "timestamp-m": "2014-07-18T21:56:03",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1996-04-01",
+      "standard-normativo": "DEC C 000333 1996 04 01",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY DE EMPLEO Y DE RIESGOS DEL TRABAJO",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1996 04 09"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 333/96",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-04-03",
+      "fecha-mod": "2014-07-18",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE DICTAN LAS DISPOSICIONES REGLAMENTARIAS DE LAS LEYES 24.013 Y 24.557, REFERIDAS AL SISTEMA UNICO DE REGISTRO LABORAL Y AL REGISTRO DE INCAPACIDADES LABORALES.",
+        "reglamenta-a": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_0",
+              "ref": "LEY C 024013 1991 11 13 0018 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_1",
+              "ref": "LEY C 024557 1995 09 13 0036 000 0000 000"
+            }
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ley de empleo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/política laboral/ley de empleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "ley nacional de empleo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Único de Registro Laboral"
+            },
+            "preferido": {
+              "termino": "Sistema Único de Registro Laboral"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "ANSSAL"
+            },
+            "preferido": {
+              "termino": "Seguridad social/derecho de los beneficios de la seguridad social/Régimen Nacional de Obras Sociales/obras sociales/seguro de salud/ANSSAL"
+            },
+            "sinonimos": {
+              "termino": [
+                "Administración Nacional del Seguro de Salud",
+                "derecho previsional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "accidentes de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "incapacidad laboral"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo/riesgos del trabajo/incapacidad laboral"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "accidentes y enfermedades de trabajo",
+                "invalidez del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "superintendencia de riesgos del trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo/riesgos del trabajo/ley sobre riesgos del trabajo/superintendencia de riesgos del trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "Régimen de Prevención y Cobertura de Riesgos del Trabajo",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Administración Nacional de la Seguridad Social"
+            },
+            "preferido": {
+              "termino": "Administración Nacional de la Seguridad Social"
+            },
+            "sinonimos": {
+              "termino": "ANSES"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección General Impositiva"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/AFIP/AFIP DGI"
+            },
+            "sinonimos": {
+              "termino": [
+                "Administración Federal de Ingresos Públicos",
+                "DGI",
+                "Administración Federal de Ingresos Públicos Dirección General Impositiva",
+                "Dirección General Impositiva"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "AFIP",
+            "ANSES (Administración Nacional de la Seguridad Social)",
+            "política laboral",
+            "decreto reglamentario",
+            "accidentes de trabajo",
+            "reglamento de ejecución (decreto reglamentario)",
+            "ley nacional de empleo (ley de empleo)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "Derecho tributario y aduanero",
+            "reglamentos",
+            "riesgos del trabajo",
+            "obras sociales",
+            "Régimen Nacional de Obras Sociales",
+            "AFIP DGI",
+            "Dirección General Impositiva (AFIP DGI)",
+            "derecho de los beneficios de la seguridad social",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "incapacidad laboral",
+            "Derecho administrativo",
+            "DGI (AFIP DGI)",
+            "ANSSAL",
+            "derecho previsional (derecho de los beneficios de la seguridad social)",
+            "accidentes y enfermedades de trabajo (accidentes de trabajo)",
+            "seguro de salud",
+            "Seguridad social",
+            "Administración Federal de Ingresos Públicos Dirección General Impositiva (AFIP DGI)",
+            "Régimen de Prevención y Cobertura de Riesgos del Trabajo (ley sobre riesgos del trabajo)",
+            "Sistema Único de Registro Laboral",
+            "superintendencia de riesgos del trabajo",
+            "Administración Nacional del Seguro de Salud (ANSSAL)",
+            "derecho del trabajo (Derecho laboral)",
+            "ley sobre riesgos del trabajo",
+            "Administración Nacional de la Seguridad Social",
+            "Administración Federal de Ingresos Públicos (AFIP)",
+            "acto administrativo",
+            "Derecho laboral",
+            "ley de empleo",
+            "invalidez del trabajador (incapacidad laboral)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024013 1991 11 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024557 1995 09 13 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "las Leyes Números 24.013, 24.557, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024013 1991 11 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024557 1995 09 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024557 1995 09 13 0036 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 024013 1991 11 13 0020 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 023660 1988 12 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 023661 1988 12 29 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que es necesario dictar las disposiciones reglamentarias de la Ley N. 24.013 en su Título II, Capítulo 2, que dispone la concentración de los registros de afiliación del trabajador a los subsistemas de la seguridad social en el SISTEMA UNICO DE REGISTRO LABORAL (S.U.R.L.), en jurisdicción del MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL.\n\nQue es necesario asimismo dictar las disposiciones reglamentarias de la Ley N. 24.557 con el fin de ejecutar lo dispuesto por su artículo 36 inciso \"f\", que establece que la SUPERINTENDENCIA DE RIESGOS DEL TRABAJO (S.R.T.) mantendrá en Registro Nacional de Incapacidades Laborales.\n\nQue, a fin de obtener el máximo de uniformidad, celeridad y eficacia en el funcionamiento de los sitemas de registración mencionados, así como el aprovechamiento más eficiente de los recursos y capacidad operativa instalada, es preciso disponer reglamentariamente una amplia coordinación de las acciones entre los entes y organismos del Estado.\n\nQue, en este contexto, resulta procedente establecer que la elaboración y administración del Padrón Base del Sistema Nacional del Seguro de Salud al igual que las registraciones correspondientes al Registro Nacional de Incapacidades Laborales se efectúen por los organismos competentes por intermedio de la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSeS), ello sin perjuicio de las responsabilidades de aquellos organismos.\n\nQue el artículo 20 de la Ley N. 24.013 establece que los entes y organismos previsionales y de asignaciones familiares, al igual que los entes del sistema de las Leyes N. 23.660 y 23.661, deberán poner a disposición del MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL los medios necesarios para la creación y organización del SISTEMA UNICO DE REGISTRO LABORAL (S.U.R.L.), siendo menester, por lo tanto, establecer las pautas bajo las cuales se hará efectiva la puesta a disposición de tales medios, ordenando esquemas análogos para los demás organismos que participen en la generación de tal sistema.\n\nQue el presente se dicta en uso de las facultades conferidas por el artículo N. 99 incisos 1 y 2 de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 023660 1988 12 29 0008 000 0009 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 023661 1988 12 29 0005 000 0006 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Art. 1: (Reglamentario del artículo 18, inciso a) de la Ley N. 24.013).\n\n1) El SISTEMA UNICO DE REGISTRO LABORAL (S.U.R.L.) tendrá a su cargo la elaboración y administración del Padrón Base del Sistema Nacional del Seguro de Salud.\n\n2) El mencionado Padrón se conformará con el registro de los beneficiarios comprendidos en los artículos 8 y 9 de la Ley N. 23.660 y los que se incorporen por aplicación de los artículos 5 y 6 de la Ley N. 23.661.\n\n3) El S.U.R.L. se encuentra facultado para dictar disposiciones generales necesarias para su conformación e integración a los demás registros que se hallen en operaciones en su ámbito o se pongan en funcionamiento con posterioridad, en los términos del artículo 19 incisos \"e\" y \"f\" de la Ley N. 24.013."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2: (Reglamentario del artículo 18, inciso a) de la Ley N. 24.013).\n\nLa ADINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSeS) llevará a cabo las operaciones administrativas e informáticas requeridas en la elaboración y actualización del Padrón mencionado en el artículo anterior, quedando facultada para emitir, en coordinación con el S.U.R.L., las normas que resultaren necesarias."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3: Facúltase a la DIRECCION GENERAL IMPOSITIVA (D.G.I.) por única vez para recoger de los empleadores la información sobre los beneficiarios del Sistema Nacional del Seguro de Salud, debiendo facilitársela a la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSeS)."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4: (Reglamentario del artículo 36, inciso f) de la Ley N. 24.557).\n\nLa SUPERINTENDENCIA DE RIESGOS DEL TRABAJO (S.R.T.) elaborará el Registro Nacional de Incapacidades Laborales previsto por el artículo 36 inciso \"f\" de la Ley N. 24.557 por intermedio de la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSeS), suministrándole a tal fin, la información pertinente."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5: Los MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL, DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS y de SALUD Y ACCION SOCIAL establecerán los mecanismos de financiamiento para atender los gastos que demanden a la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSeS) y a la DIRECCION GENERAL IMPOSITIVA (D.G.I.) las tareas indicadas en los artículos 2 y 3 del presente."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6: Facúltase al MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL a dictar las normas interpretativas y complementarias del presente Decreto."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FIRMANTES"
+      },
+      "id-infojus": "DN19960000333"
+    }
+  }
+}

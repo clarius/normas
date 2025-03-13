@@ -1,0 +1,483 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-213-0000-0102soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1430140059731,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "312-nacional-decreto-reglamentario-ley-22431-sobre-sistema-proteccion-integral-personas-discapacidad-dn20100000312-2010-03-02"
+      }
+    },
+    "content": {
+      "mecanografico": 20100000312,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 312,
+      "timestamp": "2015-04-27T09:10:18",
+      "timestamp-m": "2015-04-27T09:10:18",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2010-03-02",
+      "standard-normativo": "DEC C 000312 2010 03 02",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 22.431 SOBRE EL SISTEMA DE PROTECCION INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2010 03 08"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 312/2010",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2010-03-08",
+      "fecha-mod": "2015-04-27",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "Se reglamenta la Ley Nº 22.431 sobre el Sistema de Protección Integral de las Personas Discapacitadas.",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 12",
+        "informacion-vinculada": 1E+19,
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 022431 1981 03 16 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "discapacitados"
+            },
+            "preferido": {
+              "termino": "Derechos humanos/derechos humanos de los ancianos y personas con discapacidad/personas con discapacidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "personas con capacidades diferentes",
+                "derechos fundamentales",
+                "discapacitados",
+                "discapacidad",
+                "personas discapacitadas",
+                "minusválidos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema de Protección Integral de las Personas Discapacitadas"
+            },
+            "preferido": {
+              "termino": "Derechos humanos/derechos humanos de los ancianos y personas con discapacidad/personas con discapacidad/prestaciones básicas para personas con discapacidad/Sistema de Protección Integral de las Personas Discapacitadas"
+            },
+            "sinonimos": {
+              "termino": [
+                "personas con capacidades diferentes",
+                "discapacitados",
+                "derechos fundamentales",
+                "discapacidad",
+                "Régimen de Promoción Integral de los Discapacitados",
+                "personas discapacitadas",
+                "minusválidos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "empleo público"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "proceso de selección"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/concurso de cargos/procedimiento de selección"
+            },
+            "sinonimos": {
+              "termino": [
+                "proceso de selección",
+                "relación de empleo público",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cobertura de vacantes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/cargos vacantes/cobertura de vacantes"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal contratado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal no permanente/personal contratado"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "agentes contratados",
+                "contratados de la Administración Pública",
+                "contratación de personal",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes públicos",
+                "agentes de la Administración",
+                "contratación temporaria",
+                "personal de planta temporaria",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deber de información"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos y garantías constitucionales/derecho a la información/deber de información"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligación de informar",
+                "derecho humano a la información",
+                "garantías constitucionales",
+                "principios constitucionales",
+                "deber de informar",
+                "disposiciones constitucionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concurso de cargos",
+            "reglamento de ejecución (decreto reglamentario)",
+            "Régimen de Promoción Integral de los Discapacitados (Sistema de Protección Integral de las Personas Discapacitadas)",
+            "agentes de la administración pública",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "derecho humano a la información (derecho a la información)",
+            "personas discapacitadas (personas con discapacidad)",
+            "personal contratado",
+            "personal del sector público (agentes de la administración pública)",
+            "situaciones de revista",
+            "discapacitados (personas con discapacidad)",
+            "relación de empleo público (empleo público)",
+            "funcionarios y empleados públicos (agentes de la administración pública)",
+            "Derecho administrativo",
+            "derechos humanos de los ancianos y personas con discapacidad",
+            "personas con capacidades diferentes (personas con discapacidad)",
+            "personas con discapacidad",
+            "Administración Pública",
+            "agentes contratados (personal contratado)",
+            "derecho a la información",
+            "obligación de informar (deber de información)",
+            "minusválidos (personas con discapacidad)",
+            "acto administrativo",
+            "ingreso a la función pública",
+            "personal no permanente",
+            "contratación de personal (personal contratado)",
+            "decreto reglamentario",
+            "cargos vacantes",
+            "deber de informar (deber de información)",
+            "Derechos humanos",
+            "reglamentos",
+            "agentes de la Administración (agentes de la administración pública)",
+            "proceso de selección (procedimiento de selección)",
+            "contratados de la Administración Pública (personal contratado)",
+            "cobertura de vacantes",
+            "personal del Estado (agentes de la administración pública)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "disposiciones constitucionales (derechos y garantías constitucionales)",
+            "procedimiento de selección",
+            "función pública (Administración Pública)",
+            "Sistema de Protección Integral de las Personas Discapacitadas",
+            "principios constitucionales (derechos y garantías constitucionales)",
+            "derechos fundamentales (Derechos humanos)",
+            "agentes públicos (agentes de la administración pública)",
+            "Derecho constitucional",
+            "garantías constitucionales (derechos y garantías constitucionales)",
+            "personal de planta temporaria (personal no permanente)",
+            "derechos y garantías constitucionales",
+            "discapacidad (personas con discapacidad)",
+            "empleo público",
+            "prestaciones básicas para personas con discapacidad",
+            "deber de información",
+            "contratación temporaria (personal no permanente)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022431 1981 03 16 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente EXPJEFGABMIEX003082/03, la Ley Nº 22.431 aprobatoria del Sistema Nacional de Protección Integral de los Discapacitados y su Ley modificatoria Nº 25.689, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022431 1981 03 16 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 022431 1981 03 16 0008 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que, mediante la Ley Nº 22.431 se establece un sistema de protección integral de las personas discapacitadas, disponiéndose a través de su artículo 8º modificado por la Ley Nº 25.689, que el Estado Nacional -entendiéndose por tal los tres Poderes que lo constituyen, sus organismos descentralizados o autárquicos, los entes públicos no estatales, las empresas del Estado y las empresas privadas concesionarias de servicios públicos- está obligado a ocupar personas discapacitadas que reúnan condiciones de idoneidad para el cargo, en una proporción no inferior al CUATRO POR CIENTO (4%) de la totalidad de su personal y a establecer reservas de puestos de trabajo a ser exclusivamente ocupados por ellas.\n\nQue, asimismo establece que el porcentaje determinado será de cumplimiento obligatorio para el personal de planta permanente, para los contratados cualquiera sea la modalidad de contratación y para todas aquellas situaciones en que hubiere tercerización de servicios.\n\nQue con la finalidad de su efectivo cumplimiento establece un sistema de veeduría con participación del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL y la COMISION NACIONAL ASESORA PARA LA INTEGRACION DE PERSONAS DISCAPACITADAS.\n\nQue dicha normativa especifica que, en el supuesto que el ente que efectúe una convocatoria para cubrir puestos de trabajo no tenga relevados y actualizados sus datos sobre la cantidad de cargos cubiertos con personas con discapacidad, se considerará que incumple la obligación de ocupar la proporción mínima del CUATRO POR CIENTO (4%) pudiendo los postulantes con discapacidad hacer valer de pleno derecho su prioridad de ingreso a igualdad de mérito.\n\nQue asimismo la norma de referencia establece que, de verificarse tal situación, se considerará que los responsables de los entes incurren en incumplimiento de los deberes de funcionario público, correspondiendo idéntica sanción para los funcionarios de los organismos de regulación y contralor de las empresas privadas concesionarias de servicios públicos.\n\nQue la misma norma establece el deber del Estado de asegurar que los sistemas de selección de personal garanticen las condiciones establecidas en la normativa y provea de las ayudas técnicas y programas de capacitación y adaptación necesarios para una efectiva integración de las personas con discapacidad a sus puestos de trabajo.\n\nQue, por otra parte, el referido ordenamiento obliga a los sujetos alcanzados a priorizar, a igual costo y en la forma que establezca la reglamentación, las compras de insumos y provisiones de aquellas empresas que contraten a personas con discapacidad, situación que deberá ser fehacientemente acreditada.\n\nQue en tal sentido deviene necesario reglamentar la aplicación de la referida normativa, armonizándola con el marco vigente en materia de incorporación de personal, a efectos de preservar los derechos de las personas discapacitadas y el principio de igualdad de oportunidades y asegurar el cumplimiento de tales previsiones por parte de los funcionarios respectivos, asignando las debidas responsabilidades.\n\nQue la SUBSECRETARIA DE GESTION Y EMPLEO PUBLICO de la ex SECRETARIA DE GABINETE Y GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS, el MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL y la COMISION NACIONAL ASESORA PARA LA INTEGRACION DE PERSONAS CON DISCAPACIDAD, dependiente del CONSEJO NACIONAL DE COORDINACION DE POLITICAS SOCIALES de la PRESIDENCIA DE LA NACION han intervenido conforme les compete.\n\nQue la DIRECCION GENERAL DE ASUNTOS JURIDICOS de la SECRETARIA LEGAL Y TECNICA de la PRESIDENCIA DE LA NACION ha tomado la intervención de su competencia.\n\nQue la presente medida se dicta en virtud de las atribuciones conferidas por el artículo 99, inciso 2º de la Constitución Nacional.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022431 1981 03 16 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 001027 1994 06 29 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "LEY C 026546 2009 11 12 0007 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "titulo-articulo": "DE LA INFORMACION",
+          "texto": "Artículo 1º - Las jurisdicciones, organismos descentralizados y entidades comprendidas en el ámbito de aplicación del artículo 8º de la Ley Nº 22.431, modificado por la Ley Nº 25.689, dentro de los TREINTA (30) días hábiles de entrada en vigencia del presente decreto, deberán informar, a la SUBSECRETARIA DE GESTION Y EMPLEO PUBLICO de la SECRETARIA DE LA GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS, lo siguiente:\n\na) Cantidad de cargos cubiertos con personas con discapacidad, respecto de los totales de la planta permanente y transitoria; y b) Cantidad de personas discapacitadas contratadas bajo cualquier modalidad, respecto del total de los contratos existentes. Dicha obligación de información se funda en lo establecido por el Decreto Nº 1027/94 y resoluciones complementarias.\n\nPor su parte, la SUBSECRETARIA DE GESTION Y EMPLEO PUBLICO de la SECRETARIA DE LA GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS suministrará la pertinente información al MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL. Las Jurisdicciones, organismos descentralizados y entidades aludidas en el presente artículo deberán actualizar la información respectiva correspondiente al 31 de diciembre y al 30 de junio de cada año, dentro de los QUINCE (15) días corridos posteriores a dichos vencimientos.\n\nDentro de los TREINTA (30) días corridos de los indicados vencimientos, la SUBSECRETARIA DE GESTION Y EMPLEO PUBLICO de la SECRETARIA DE LA GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS deberá informar a los titulares del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL y de la SINDICATURA GENERAL DE LA NACION, los incumplimientos que se hubieren verificado respecto de la indicada obligación de información. Asimismo, las jurisdicciones, organismos descentralizados y entidades comprendidas en dicha obligación, deberán identificar e informar sus necesidades de puestos de trabajo vacantes o las ofertas de contratación pasibles de ser ocupados preferentemente por personas con discapacidad. Esta última información deberá remitirse a la citada Subsecretaría, en cada tramitación por la que se solicite la excepción a la prohibición a la cobertura de vacantes dispuesta por el artículo 7º de la Ley Nº 26.546, o el que lo sustituya, y en cada tramitación que se efectúe para la contratación de personal, bajo cualquier modalidad."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022431 1981 03 16 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 2,
+          "titulo-articulo": "DE LA VEEDURIA",
+          "texto": "Art. 2º - En todo proceso de selección por el que se tramite la incorporación de personal en la planta permanente, en el ámbito de aplicación del artículo 8º de la Ley Nº 22.431, modificada por su similar Nº 25.689, deberá acreditarse la veeduría prevista en el segundo párrafo de dicho artículo. Los representantes del Estado Nacional en las comisiones negociadoras de convenios colectivos de trabajo que regulen la relación de empleo en los organismos comprendidos en el artículo 8º de la Ley Nº 22.431, modificado por la Ley Nº 25.689, adoptarán las medidas necesarias para incorporar en los referidos instrumentos, las cláusulas que hagan efectivo el cumplimiento de la veeduría y de lo establecido en la indicada normativa legal."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022431 1981 03 16 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 022431 1981 03 16 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 3,
+          "titulo-articulo": "DEL INGRESO DEL PERSONAL Y DE LA CONTRATACION DEL PERSONAL",
+          "texto": "Art. 3º - En todos los procesos de selección y concursos para la cobertura de vacantes, y en las contrataciones de servicios personales, de locación de servicios o de obra intelectual, bajo cualquier modalidad, las jurisdicciones, organismos descentralizados y entidades comprendidas en el ámbito de aplicación del presente Decreto deberán efectuar la consulta previa, en la página web del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, del Registro que se confeccionará con los perfiles de los postulantes inscriptos, a los efectos de participar en el proceso de selección.\n\nAl respecto, el MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL otorgará a las jurisdicciones, organismos descentralizados y entidades antes referidas, una clave de acceso para consultar el Registro mencionado, debiendo registrar las consultas que se generaren al mismo.\n\nAsimismo, el MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL aportará su institucionalización federal, a través de sus unidades territoriales, para facilitar una mayor cobertura de captación de potenciales postulantes. Dicho servicio de empleo para personas con discapacidad podrá ser consultado por los demás entes indicados en el primer párrafo del artículo 8º de la Ley Nº 22.431, modificado por la Ley Nº 25.689, interesados en la búsqueda de postulantes para la cobertura de vacantes.\n\nLa falta de inscripción en el respectivo Registro del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, no inhibirá de modo alguno la participación de postulantes con discapacidad en los procesos de selección y concursos para la cobertura de vacantes, y contrataciones de servicios personales anteriormente descriptos, ni los derechos preferenciales atribuidos por la Ley Nº 22.431 y modificatorias."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022431 1981 03 16 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 4,
+          "texto": "Art. 4º - Para un efectivo cumplimiento de la garantía establecida en el último párrafo del artículo 8º de la Ley Nº 22.431, modificado por la Ley Nº 25.689, los organismos intervinientes en los procesos de selección de postulantes para la cobertura de vacantes, al definir y utilizar los criterios de selección que se orienten hacia las aptitudes, los conocimientos y las capacidades específicas considerados esenciales para las funciones del puesto vacante, verificarán que no sean motivo innecesario de exclusión de las personas con discapacidad, buscando garantizar el principio de no discriminación y la equiparación de oportunidades para todos los candidatos."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022431 1981 03 16 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 5,
+          "texto": "Art. 5º - La verificación del cumplimiento de las previsiones establecidas en los artículos precedentes será responsabilidad del titular del Servicio de Administración de Recursos Humanos o del área específica de contrataciones en su caso, conjuntamente con el titular de la Unidad de Auditoría Interna de la jurisdicción, organismo descentralizado o autárquico, ente público no estatal, empresa del Estado o empresa privada concesionaria de servicios públicos, los que serán solidariamente responsables, con el alcance de lo establecido en el tercer párrafo \"in fine\" del artículo 8º de la Ley Nº 22.431, modificado por la Ley Nº 25.689"
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6º - Cuando se concrete la incorporación de personas con discapacidad en planta permanente, transitoria o bajo cualquier modalidad de contratación, los organismos respectivos instrumentarán las medidas necesarias para una efectiva adaptación de los ingresantes a sus funciones de trabajo. A tal efecto, podrán requerirle a la COMISION NACIONAL ASESORA PARA LA INTEGRACION DE PERSONAS DISCAPACITADAS y al MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, la asistencia técnica y las acciones de capacitación en los organismos involucrados."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001023 2001 08 13 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 7,
+          "texto": "Art. 7º - En aquellas situaciones en que hubiere tercerización de servicios, cualquiera fuere la modalidad de contratación empleada, se encuentre o no comprendida ésta en el Régimen del Decreto Nº 1023/01 y su normativa complementaria y modificatoria, deberá incluirse en los respectivos Pliegos de Bases y Condiciones Particulares, que el proponente deberá contemplar en su oferta la obligación de ocupar, en la prestación de que se trate, a personas con discapacidad, en una proporción no inferior al CUATRO POR CIENTO (4%) de la totalidad del personal afectado a la misma."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022431 1981 03 16 0008 002 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 8,
+          "texto": "Art. 8º - Con relación a la priorización dispuesta en el Artículo 8º bis de la Ley Nº 22.431, incorporado por la Ley Nº 25.689, si se produjera un empate de ofertas, deberá considerarse en primer término aquella empresa que tenga contratadas a personas con discapacidad, situación que deberá ser fehacientemente acreditada. En el caso en que la totalidad de las empresas igualadas hubiera personal con discapacidad, se priorizará, a igual costo, las compras de insumos y provisiones de aquellas empresas que contraten o tengan en su planta de personal el mayor porcentaje de personas discapacitadas empleadas."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9º - El MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL y la SUBSECRETARIA DE GESTION Y EMPLEO PUBLICO de la SECRETARIA DE GABINETE Y GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS, estarán facultadas para dictar en forma conjunta las normas interpretativas, complementarias y aclaratorias del presente Decreto."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022431 1981 03 16 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025689 2002 11 28 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 10,
+          "texto": "Art. 10. - Invítase, a las comisiones negociadoras de convenios colectivos que regulen la relación de empleo en los organismos comprendidos en el artículo 8º de la Ley Nº 22.431, modificado por la Ley Nº 25.689, a disponer las medidas necesarias para el efectivo cumplimiento de lo establecido en dicha norma."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art. 11. - Invítase a adherir a las disposiciones del presente Decreto al HONORABLE CONGRESO DE LA NACION, al PODER JUDICIAL DE LA NACION, al MINISTERIO PUBLICO, a los GOBIERNOS PROVINCIALES y al GOBIERNO DE LA CIUDAD AUTONOMA DE BUENOS AIRES, a los respectivos PODERES LEGISLATIVOS y JUDICIALES de las PROVINCIAS y de la CIUDAD AUTONOMA DE BUENOS AIRES, a los GOBIERNOS MUNICIPALES de las PROVINCIAS y a los respectivos CONCEJOS DELIBERANTES u órganos deliberativos municipales."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art. 12. - Comuníquese, publíquese, dése a la Dirección Nacional de Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FERNANDEZ DE KIRCHNER-Fernández-Tomada-Kirchner-Manzur."
+      },
+      "id-infojus": "DN20100000312"
+    }
+  }
+}

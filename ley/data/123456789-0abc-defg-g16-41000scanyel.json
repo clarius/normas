@@ -1,0 +1,793 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g16-41000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1730809418315,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15336-nacional-regimen-energia-electrica-lns0001461-1960-09-15"
+      }
+    },
+    "content": {
+      "mecanografico": "S0001461",
+      "decreto-reglamentario": {
+        "referencia-normativa": [
+          {
+            "cr": null,
+            "id": "DECRETO_REGLAMENTARIO_0",
+            "ref": "DEC C 002073 1961 03 17 0000 000 0000 000"
+          },
+          {
+            "cr": null,
+            "id": "DECRETO_REGLAMENTARIO_1",
+            "ref": "DEC C 001398 1992 08 06 0000 000 0000 000"
+          },
+          {
+            "cr": null,
+            "id": "DECRETO_REGLAMENTARIO_2",
+            "ref": "DEC C 002743 1992 12 29 0000 000 0000 000"
+          },
+          {
+            "cr": null,
+            "id": "DECRETO_REGLAMENTARIO_3",
+            "ref": "DEC C 000974 1997 09 18 0000 000 0000 000"
+          }
+        ]
+      },
+      "numero-norma": 15336,
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-09-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015336 1960 09 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "*LEY 15.336",
+          "BUENOS AIRES, 15 DE SEPTIEMBRE DE 1960"
+        ]
+      },
+      "titulo-norma": "REGIMEN DE LA ENERGIA ELECTRICA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 09 22"
+        }
+      },
+      "sancion": "El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc. SANCIONAN CON FUERZA DE LEY",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.336",
+      "estado": "Vigente, de alcance general",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2024-11-05",
+      "fecha-mod": "2024-11-05",
+      "timestamp": "2024-11-05T09:15:30",
+      "timestamp-alta": "2024-11-05T09:15:30",
+      "timestamp-m": "2024-11-05T09:15:30",
+      "sumario": {
+        "sumario": "ECONOMIA-ENERGIA Y MINERIA-ENERGIA ELECTRICA-INDUSTRIA-CONSEJO FEDERAL DE LA ENERGIA ELECTRICA-FONDO NACIONAL DE ENERGIA ELECTRICA FONDO ESPECIAL DE DESARROLLO ELECTRICO DEL INTERIOR-ESTADO-PODER EJECUTIVO NACIONAL-Funciones-Utilidad-Pública-TRIBUTOS-IMPUESTOS- TASAS-CONTRIBUCIONES:REGALIAS HIDROELECTRICAS-OBRAS Y SERVICIOS PUBLICOS-CONCESION-ECONOMIA-COMERCIO EXTERIOR-IMPORTACIONES- EXPORTACIONES-Zonas de Electrificación-Comité Zonal de la Energía Eléctrica-HACIENDA Y FINANZAS-TESORO NACIONAL-ESTADO-PROVINCIAS- TESORERIA GENERAL DE LA NACION-Funciones-ENERGIA HIDROELECTRICA- AGUA Y ENERGIA ELECTRICA-EMPRESAS DEL ESTADO-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "industria de la electrónica"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria de la electrónica"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos industriales",
+                "industria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "energía eléctrica"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía eléctrica"
+            },
+            "sinonimos": {
+              "termino": "electricidad"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "energía hidráulica"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía eléctrica/energía hidráulica"
+            },
+            "sinonimos": {
+              "termino": [
+                "energía hidroeléctrica",
+                "electricidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio público"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios eléctricos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios eléctricos"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "servicio de energía eléctrica",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "centrales hidroeléctricas"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía eléctrica/energía hidráulica/centrales hidroeléctricas"
+            },
+            "sinonimos": {
+              "termino": [
+                "mareomotores",
+                "reservas hidroeléctricas",
+                "energía hidroeléctrica",
+                "electricidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "central nuclear"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía nuclear/central nuclear"
+            },
+            "sinonimos": {
+              "termino": [
+                "central nucleoeléctrica",
+                "reactores nucleares",
+                "energía atómica",
+                "energía nucleoeléctrica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "RED NACIONAL DE INTERCONEXIÓN"
+            },
+            "preferido": {
+              "termino": "RED NACIONAL DE INTERCONEXIÓN"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "CONSEJO FEDERAL DE LA ENERGÍA ELÉCTRICA"
+            },
+            "preferido": {
+              "termino": "CONSEJO FEDERAL DE LA ENERGÍA ELÉCTRICA"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Fondo Nacional de la Energía Eléctrica"
+            },
+            "preferido": {
+              "termino": "FONDO NACIONAL DE LA ENERGÍA"
+            },
+            "sinonimos": {
+              "termino": "Fondo Nacional de la Energía Eléctrica"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "zonas de electrificación"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía eléctrica/electrificación"
+            },
+            "sinonimos": {
+              "termino": [
+                "zonas de electrificación",
+                "electricidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "SECRETARÍA DE ENERGÍA Y COMBUSTIBLES"
+            },
+            "preferido": {
+              "termino": "SECRETARÍA DE ENERGÍA Y COMBUSTIBLES"
+            },
+            "sinonimos": {
+              "termino": "Secretaría de Estado de Energía y Combustibles"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concesión administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/concesión administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de concesión administrativa",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "declaración de utilidad pública"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación/proceso expropiatorio/declaración de utilidad pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "utilidad pública",
+                "procedimiento expropiatorio",
+                "establecimientos de utilidad nacional"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "central nucleoeléctrica (central nuclear)",
+            "central nuclear",
+            "RED NACIONAL DE INTERCONEXIÓN",
+            "energía atómica (energía nuclear)",
+            "electrificación",
+            "productos industriales (actividad industrial)",
+            "servicio de energía eléctrica (servicios eléctricos)",
+            "centrales hidroeléctricas",
+            "dominio del Estado",
+            "contrataciones del Estado (contratos administrativos)",
+            "energía nuclear",
+            "servicios públicos locales (servicio público)",
+            "SECRETARÍA DE ENERGÍA Y COMBUSTIBLES",
+            "reactores nucleares (central nuclear)",
+            "concesión administrativa",
+            "servicios públicos (servicio público)",
+            "zonas de electrificación (electrificación)",
+            "FONDO NACIONAL DE LA ENERGÍA",
+            "CONSEJO FEDERAL DE LA ENERGÍA ELÉCTRICA",
+            "procedimiento expropiatorio (proceso expropiatorio)",
+            "electricidad (energía eléctrica)",
+            "recursos energéticos",
+            "servicio público",
+            "industria (actividad industrial)",
+            "Recursos naturales",
+            "Actividades económicas",
+            "Derecho administrativo",
+            "actividad industrial",
+            "energía hidroeléctrica (energía hidráulica)",
+            "expropiación",
+            "utilidad pública (declaración de utilidad pública)",
+            "energía eléctrica",
+            "industria de la electrónica",
+            "contrato de concesión administrativa (concesión administrativa)",
+            "mareomotores (centrales hidroeléctricas)",
+            "Fondo Nacional de la Energía Eléctrica (FONDO NACIONAL DE LA ENERGÍA)",
+            "Secretaría de Estado de Energía y Combustibles (SECRETARÍA DE ENERGÍA Y COMBUSTIBLES)",
+            "servicios eléctricos",
+            "establecimientos de utilidad nacional (declaración de utilidad pública)",
+            "declaración de utilidad pública",
+            "energía hidráulica",
+            "proceso expropiatorio",
+            "energía nucleoeléctrica (energía nuclear)",
+            "contrataciones públicas (contratos administrativos)",
+            "reservas hidroeléctricas (centrales hidroeléctricas)",
+            "contratos administrativos"
+          ]
+        }
+      },
+      "generalidades": {
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 50 OBSERVACION VER ART 9 LEY 19199 (B.O. 31-8-71) OBSERVACION VER ART 1/2 LEY 21937 (B.O. 6-2-79) OBSERVACION SE ESTABLECE A LA SECRETARIA DE ENERGIA COMO AUTORIDAD DE APLICACION DE LAS LEYES VIGENTES EN MATERIA DE ENERGIA ELECTRICA E HIDROCARBUROS, POR ART 1 DEL DECRETO 432/82 (B.O. 27-8-82) OBSERVACION SUSPENSION DE APLICACION DE LAS IMPUESTOS AL CONSUMO DE ENERGIA ELECTRICA PARA LAS ZONAS DE FRONTERA,POR ART 1 LEY 22961 (B.O. 1-11-83) OBSERVACION LEY COMPLEMENTADA POR LEY 25019 (B.O 23/9/98)"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1.- Quedan sujetas a las disposiciones de la presente ley y de su reglamentación las actividades de la industria eléctrica destinadas a la generación, transformación y transmisión, o a la distribución de la electricidad, en cuanto las mismas correspondan a la jurisdicción nacional; con excepción del transporte y distribución de energía eléctrica cuando su objetivo principal fuera la transmisión de señales, palabras o imágenes, que se regirán por sus respectivas leyes especiales."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2.- A los fines de esta ley, la energía eléctrica, cualquiera sea su fuente y las personas de carácter público o privado a quienes pertenezca, se considerará una cosa jurídica susceptible de comercio por los medios y formas que autorizan los códigos y leyes comunes en cuanto no se opongan a la presente."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3.- A los efectos de la presente ley, denomínase servicio público de electricidad la distribución regular y continua de energía eléctrica para atender las necesidades indispensables y generales de electricidad de los usuarios de una colectividad o grupo social determinado de acuerdo con las regulaciones pertinentes.\n\nCorrelativamente, las actividades de la industria eléctrica destinada total o parcialmente a abastecer de energía a un servicio público serán consideradas de interés general, afectadas a dicho servicio y encuadradas en las normas legales y reglamentarias que aseguren el funcionamiento normal del mismo."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "*Art. 4.- Las operaciones de compra o venta de la electricidad de una central con el ente administrativo o con el concesionario que en su caso presta el servicio público, se reputarán actos comerciales de carácter privado en cuanto no comporten desmedro a las disposiciones de la presente ley.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Sustituido. (B.O. 16-01-92).  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0089 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5.- La energía de las caídas de agua y de otras fuentes hidráulicas, comprendidos los mares y los lagos, constituye una cosa jurídicamente considerada como distinta del agua y de las tierras que integran dichas fuentes. El derecho de utilizar la energía hidráulica no implica el modificar el uso y fines a que estén destinadas estas aguas y tierras, salvo en la medida estrictamente indispensable que lo requieran la instalación y operación de los correspondientes sistemas de obras de captación, conducción y generación, de acuerdo con las disposiciones particulares aplicables en cada caso."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6.- Declárase de jurisdicción nacional la generación de energía eléctrica, cualquiera sea su fuente, su transformación y transmisión, cuando:\n\na) Se vinculen a la defensa nacional;\n\nb) Se destinen a servir el comercio de energía eléctrica entre la Capital Federal y una o más provincias o una provincia con otra o con el territorio de Tierra del Fuego, Antártida Argentina e Islas del Atlántico Sur;\n\nc) Correspondan a un lugar sometido a la legislación exclusiva del Congreso Nacional;\n\nd) Se trate de aprovechamientos hidroeléctricos o mareomotores que sea necesario interconectar entre sí o con otros de la misma o distinta fuente, para la racional y económica utilización de todos ellos;\n\ne) En cualquier punto del país integren la Red Nacional de Interconexión;\n\nf) Se vinculen con el comercio de energía eléctrica con una nación extranjera;\n\ng) Se trate de centrales de generación de energía eléctrica mediante la utilización o transformación de energía nuclear o atómica.\n\nSerán también de jurisdicción nacional los servicios públicos definidos en el primer párrafo del artículo 3 cuando una ley del Congreso evidenciara el interés general y la conveniencia de su unificación."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7.- El Poder Ejecutivo proveerá lo conducente, dentro de las facultades que le otorga esta ley, para promover en cualquier lugar del país grandes captaciones de energía hidroeléctrica."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8.- Los aprovechamientos de las fuentes de energía hidroeléctrica promovidos por el gobierno federal o por una provincia, en los casos que los trabajos de captación de la fuerza comporten el trasvase del agua de una cuenca fluvial, lacustre o marítima a otra, afectando a más de una provincia, deberán ser autorizados por ley nacional."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9.- En cuanto se relacione con lo dispuesto en el artículo 6, el gobierno federal puede utilizar y reglar las fuentes de energía, en cualquier lugar del país, en la medida requerida para los fines a su cargo."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art. 10.- Decláranse de utilidad pública y sujetos a expropiación los bienes de cualquier naturaleza, obras, instalaciones, construcciones y sistemas de explotación, de cuyo dominio fuera indispensable disponer para el cumplimiento de los fines de esta ley y especialmente para el regular desarrollo y funcionamiento de la Red Nacional de Interconexión y/o los restantes sistemas eléctricos nacionales.\n\nEl Poder Ejecutivo hará uso de esta declaración genérica, designando a quien tendrá facultad en cada caso para promover los procedimientos judiciales de expropiación."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "*Art. 11.- En el ámbito de la jurisdicción nacional a que se refiere el artículo 6, y a los fines de esta ley, el Poder Ejecutivo nacional otorgará las concesiones y ejercerá las funciones de policía y demás atribuciones inherentes al poder jurisdiccional.\n\nLas facultades precedentes comprenden el derecho de otorgar el uso de tierras de propiedad nacional y demás lugares sometidos a la legislación exclusiva del Congreso nacional.\n\nQueda asimismo autorizado el Poder Ejecutivo nacional, según lo justifiquen las circunstancias, a disponer en aquellos contratos y operaciones que sean consecuencia de esta ley, la exención de gravámenes e impuestos nacionales vinculados a la constitución de los mismos.\n\nEn cuanto a los sistemas eléctricos provinciales, referidos en el artículo 35, inciso b) de esta ley, como también a los servicios públicos definidos en el primer párrafo del artículo 3 de la misma que fueran de jurisdicción local, serán los gobiernos provinciales los que resolverán en todo lo referente al otorgamiento de las autorizaciones y concesiones y ejercerán las funciones de policía y demás atribuciones inherentes al poder jurisdiccional.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92). Primer párrafo sustituido.  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0089 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art. 12.- Las obras e instalaciones de generación, transformación y transmisión de la energía eléctrica de jurisdicción nacional y la energía generada o transportada en las mismas no pueden ser gravadas con impuestos y contribuciones, o sujetas a medidas de legislación local que restrinjan o dificulten su libre producción y circulación. No se comprende en esta exención las tasas retributivas por servicios y mejoras de orden local."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 004408 1904 09 17 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 13,
+          "texto": "Art. 13.- Las disposiciones de la ley 4.408 (de teléfonos y radiotelegrafía) serán de aplicación subsidiaria en cuanto no esté previsto y sea compatible con la presente, sin perjuicio de las atribuciones de las autoridades locales -provinciales y municipales- en todo lo que sea materia de su respectiva competencia."
+        },
+        {
+          "numero-articulo": 14,
+          "titulo-articulo": "Concesiones y autorizaciones",
+          "texto": "*Art. 14.- El ejercicio por particulares de actividades relacionadas con la generación, transmisión y distribución de la energía eléctrica de jurisdicción nacional, cualquiera sea la fuente de energía utilizada, requiere concesión del Poder Ejecutivo en los siguientes casos:\n\na) Para el aprovechamiento de las fuentes de energía hidroeléctrica de los cursos de agua pública cuando la potencia normal que se conceda exceda de 500 kilovatios;\n\nb) Para el ejercicio de actividades destinadas al servicio público de transporte y/o distribución de electricidad.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Sustituido. (B.O. 16-01-92).  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0089 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Art. 15.- En las concesiones para aprovechamiento de las fuentes de energía hidroeléctrica de jurisdicción nacional (artículo 14, inciso a) -1), que podrán otorgarse por plazo fijo o por tiempo indeterminado, habrán de establecerse las condiciones y cláusulas siguientes:\n\n1. El objeto principal de la utilización.\n\n2. Las normas reglamentarias del uso del agua, y en particular, establecidas en su caso de acuerdo con la autoridad local: las que interesen a la navegación, a la protección contra inundaciones, a la salubridad pública, la bebida y los usos domésticos de las poblaciones ribereñas, a la irrigación, la conservación,y la libre circulación de los peces, la protección del paisaje y el desarrollo del turismo.\n\nEn estas normas se deberá tener en cuenta el siguiente orden de prioridad para el uso del agua: la bebida y los usos domésticos de las poblaciones ribereñas, el riego y luego la producción de energía.\n\n3. Las potencias características del aprovechamiento y la potencia máxima de la instalación.\n\n4. El plazo de la ejecución de los trabajos determinados en la concesión.\n\n5. El plazo de explotación de la concesión cuando ésta sea a término, el que no podrá exceder de sesenta años.\n\n6. Las condiciones bajo las cuales al término de la concesión podrán transferirse al Estado los bienes y las instalaciones.\n\n7. Las condiciones y causales de caducidad por inobservancia de las obligaciones impuestas en las concesiones a término.\n\n8. La antelación con que deberá notificarse a los interesados la revocación o la extinción de la concesión, y la forma, tiempo y condiciones en que se realizarán las transferencias de los bienes, cuando la concesión fuese por tiempo indeterminado.\n\n9. El canon que deberá abonar el concesionario en concepto de regalía por el uso de la fuente, que ingresará al Fondo Nacional de la Energía Eléctrica."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "Art. 16.- En las concesiones para el aprovechamiento de fuentes de energía hidroeléctrica de jurisdicción nacional, para los trabajos determinados en la concesión o para la explotación de la misma, el concesionario, sin perjuicio de las indemnizaciones que deba pagar a los particulares afectados, tendrá los siguientes derechos:\n\nI. De ocupar en el interior del perímetro definido por el acto de la concesión las propiedades privadas necesarias para las obras de retención o de presa del agua, y para los canales de aducción o de fuga necesarios, subterráneos o descubiertos, de acuerdo con las leyes generales y las reglamentaciones locales.\n\nII. De inundar las playas para el levantamiento necesario del nivel del agua.\n\nIII. De solicitar al Poder Ejecutivo que haga uso de la facultad que le confiere el artículo 10, cuando fuere necesaria la ocupación definitiva del dominio de terceros, y toda vez que ello no se hubiera previsto en el mismo acto constitutivo de la concesión y no fuera posible obtener el acuerdo de partes."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 17,
+          "texto": "*Art. 17.- (Nota de redacción) (DEROGADO POR LEY 24065)"
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "Art. 18.- En las concesiones de servicio público de jurisdicción nacional (artículo 14, inciso a) -2), sin perjuicio de lo dispuesto en los artículos 15 y 16 en cuanto resulte de aplicación, se establecerán especialmente:\n\n1. Las condiciones generales y especiales de la concesión y los derechos y obligaciones inherentes a la misma.\n\n2. Las condiciones de uso y ocupación del dominio del Estado con los bienes e instalaciones del concesionario, cuando fuere pertinente.\n\n3. La delimitación de la zona que el concesionario del servicio público de electricidad está obligado a atender.\n\n4. La potencia, las características y el plan de las obras e instalaciones a efectuarse, así como de sus modificaciones y ampliaciones, los que en todo momento deberán ajustarse para atender el incremento de la demanda de la zona.\n\n5. El plazo para la iniciación y terminación de las obras e instalaciones.\n\n6. Las garantías que debe prestar el concesionario según determine la reglamentación.\n\n7. Las causales de caducidad y revocación.\n\n8. Las condiciones en que se transferirán al Estado o al nuevo concesionario, según corresponda, los bienes afectados a la concesión, en el caso de caducidad, revocación o falencia.\n\n9. Las obligaciones y derechos del concesionario.\n\n10. Las condiciones, derechos u obligaciones para la interconexión de las instalaciones.\n\n11. La afectación de los bienes destinados a las actividades de la concesión y propiedad de los mismos, y en especial el régimen de las instalaciones costeadas por los usuarios.\n\n12. La forma de determinación del capital inicial.\n\n13. El sistema de justiprecio de los bienes afectados a la concesión, cuando fuere necesario para determinar las tarifas, la utilidad del concesionario o la adquisición de los mismos por el Estado.\n\n14. El derecho de constituir las servidumbres necesarias a los fines de la concesión.\n\n15. Las atribuciones del Estado de inspección, fiscalización y demás, inherentes al poder de policía.\n\n16. El régimen para la constitución de los fondos de depreciación, renovación, ampliaciones y otros que sea necesario prever.\n\n17. El régimen del suministro y venta de energía.\n\n18. El régimen tarifario.\n\n19. El régimen de infracciones y multas.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92). Inciso 8) sustituido.  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0089 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "Art. 19.- Toda cesión total o parcial de una concesión y todo cambio de concesionario requerirán para su validez la aceptación expresa de la autoridad competente."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 20,
+          "texto": "*Art. 20.- (Nota de redacción) (DEROGADO POR LEY 24065)"
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": "Código Civil",
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "CCI C 000340 1869 09 25 2350 000 0000 000 A"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "CCI C 000340 1869 09 25 2637 000 0000 000 A"
+              }
+            ]
+          },
+          "numero-articulo": 21,
+          "texto": "Art. 21.- Los aprovechamientos de la energía hidroeléctrica y cualquier otra actividad de la industria eléctrica excluídos del régimen de concesiones y autorizaciones del artículo 14, pero comprendidos en el ámbito de la jurisdicción nacional, se ejercerán con sujeción a las reglamentaciones vigentes o a dictarse.\n\nEn especial, podrán los particulares, individual o colectivamente, o agrupados en cooperativas, consorcios de usuarios y otras formas de asociación legítima, utilizar para las necesidades de sus propiedades o industrias la energía hidroeléctrica de cursos de agua pública, con la sola sujeción a dichas reglamentaciones y siempre que la potencia total instalada no exceda de quinientos kilovatios y no afecte a otros aprovechamientos, o los planes nacionales y locales de electrificación.\n\nIgualmente, los propietarios de cursos de agua privada a que se refieren los artículos 2.350 y 2.637 del Código Civil, podrán utilizar la respectiva energía hidroeléctrica para su propio uso y aun cederla a terceros, con tal que ello no revista el carácter de un servicio público."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 22,
+          "titulo-articulo": "Importación y exportación de energía eléctrica",
+          "texto": "*Art. 22.- (Nota de redacción) (DEROGADO POR LEY 24065)"
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 23,
+          "texto": "*Art. 23.- (Nota de redacción) (DEROGADO POR LEY 24065)"
+        },
+        {
+          "numero-articulo": 24,
+          "titulo-articulo": "Consejo Federal de la Energía Eléctrica",
+          "texto": "Art. 24.- Créase el Consejo Federal de la Energía Eléctrica, dependiente de la Secretaría de Energía y Combustibles, la que reglamentará su funcionamiento.\n\nEl Consejo Federal de la Energía Eléctrica cumplirá los siguientes fines:\n\na) Considerar y coordinar los planes de desarrollo de los sistemas eléctricos del país y someterlos a la aprobación de los respectivos poderes jurisdiccionales;\n\nb) Actuar como consejo asesor y consultor del Poder Ejecutivo nacional y de los gobiernos de las provincias que lo requieran, en todo lo concerniente a la industria eléctrica y a los servicios públicos de electricidad; las prioridades en la ejecución de estudios y obras; a las concesiones y autorizaciones; y a los precios y tarifas para la industria eléctrica y los servicios públicos de electricidad;\n\nc) Aconsejar las modificaciones que requiera la legislación en materia de industria eléctrica;\n\nd) Proponer las disposiciones que considere necesarias para la mejor aplicación de la presente ley y de su reglamentación."
+        },
+        {
+          "numero-articulo": 25,
+          "texto": "Art. 25.- El Consejo Federal de la Energía Eléctrica estará constituido por:\n\na) El Secretario de Energía y Combustibles, que lo presidirá, o el subsecretario en su reemplazo;\n\nb) Un representante de la Secretaría de Energía y Combustibles que será designado por el Poder Ejecutivo;\n\nc) El presidente del directorio de Agua y Energía Eléctrica, empresa del Estado;\n\nd) Un representante y un suplente por cada provincia designado por el Poder Ejecutivo, a propuesta de los respectivos gobiernos locales;\n\ne) Un representante de la Capital Federal y Territorio de Tierra del Fuego, Antártida Argentina e Islas del Atlántico Sur, que nombrará el Poder Ejecutivo.\n\nEl Poder Legislativo nacional podrá designar de entre sus miembros tres por la Cámara de Senadores y tres por la Cámara de Diputados, que podrán participar en las reuniones del consejo."
+        },
+        {
+          "numero-articulo": 26,
+          "texto": "Art. 26.- El consejo designará seis de sus miembros que constituirán un comité que será presidido por el representante de la Secretaría de Energía y Combustibles.\n\nDicho comité tendrá a su cargo:\n\na) Preparar y someter a consideración del consejo los estudios y trabajos que éste le encomiende;\n\nb) Ejercer las funciones que el consejo le delegue;\n\nc) Expedirse en todos los asuntos de carácter urgente, dando cuenta de inmediato al consejo si el caso lo requiriese o en la primera reunión ordinaria en su defecto."
+        },
+        {
+          "numero-articulo": 27,
+          "texto": "Art. 27.- Actuarán como organismos técnicos y administrativos del Consejo Federal de la Energía Eléctrica y del Comité, las dependencias que determine la Secretaría de Energía y Combustibles, de conformidad con la reglamentación que dicte para su actuación."
+        },
+        {
+          "numero-articulo": 28,
+          "texto": "*Art. 28.- El Consejo Federal de la Energía delimitará \"zonas de electrificación\" integrada cada una de ellas por la provincia o provincias que, racional y técnicamente, constituyan un núcleo energético desde el punto de vista del afianzamiento gradual del sistema eléctrico argentino o tengan, cuando se trate de dos o más provincias, una interdependencia real o potencial en la materia.\n\nEn cada zona de electrificación así constituida, funcionará un Comité Zonal de la Energía Eléctrica, dependiente del Consejo Federal y formado por los miembros titulares de las provincias de que se trate, a que se refiere el artículo 25, incisos d) y e), y por los presidentes o directores de los entes a cargo, en las mismas provincias, de los problemas locales de hidráulica y electricidad.\n\nEl Consejo Federal de la Energía será reglamentado sobre la base de reconocer y atribuir a los comités zonales una intervención informativa en todo problema de la competencia del Consejo Federal que se refiera a la respectiva zona; la aplicación del Fondo Especial de Desarrollo Eléctrico del Interior y las soluciones energéticas que juzguen de interés para la zona respectiva.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92). Ultimo párrafo sustituido.  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0089 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 29,
+          "texto": "Art. 29.- Los gastos que demande el funcionamiento del Consejo Federal de la Energía Eléctrica se atenderán con cargo al Fondo Nacional de Energía Eléctrica."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92). Incisos a), b), c), d) y f) derogados 0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 30,
+          "antecedentes": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 28-01-77). Se establecía recargo. 0000 000",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 003615 1976 12 30 0001 000"
+              },
+              {
+                "cr": "(B.O. 13-01-75). Ultimo párrafo incorporado. 0000 000",
+                "id": "ANTECEDENTES_1",
+                "ref": "LEY C 020954 1974 12 20 0018 000"
+              },
+              {
+                "cr": "(B.O. 02-05-64). Inciso b) sustituido. 0000 000",
+                "id": "ANTECEDENTES_2",
+                "ref": "LEY C 018174 1969 04 09 0005 000"
+              },
+              {
+                "cr": "(B.O. 31-12-64). Inciso e) sustituido. Vigencia especial por art. 25, rige a partir del 30-12-64. 0000 000",
+                "id": "ANTECEDENTES_3",
+                "ref": "LEY C 016656 1964 12 30 0022 000"
+              }
+            ]
+          },
+          "titulo-articulo": "Fondos eléctricos.- Fondo Nacional de la Energía Eléctrica",
+          "texto": "*Art. 30.- Créase el Fondo Nacional de la Energía Eléctrica con el fin de contribuir a la financiación de los planes de electrificación, el cual se integrará:\n\na) NOTA DE REDACCION: (INCISO DEROGADO POR LEY 24.065) b) NOTA DE REDACCION: (INCISO DEROGADO POR LEY 24.065) c) NOTA DE REDACCION: (INCISO DEROGADO POR LEY 24.065) d) NOTA DE REDACCION: (INCISO DEROGADO POR LEY 24.065) e) El Fondo Nacional de la Energía Eléctrica se constituirá por un recargo de treinta australes por kilovatio hora (A 30 Kw/h) sobre las tarifas que paguen los compradores del mercado mayorista, es decir las empresas distribuidoras y los grandes usuarios, como asimismo por los reembolsos más sus intereses de los préstamos que se hagan con los recursos del Fondo. La Secretaría de Energía tendrá la facultad de modificar el monto del referido recargo, hasta un veinte por ciento (20 %) en más o en menos, de acuerdo a las variaciones económicas que se operen en la industria con posterioridad a la fecha de entrada en vigencia de esta ley.\n\nA los fines de la determinación del recargo que constituye el Fondo Nacional de la Energía Eléctrica (FNEE), se afectará el valor antes mencionado por un coeficiente de adecuación trimestral (CAT) referido a los períodos estacionales. Dicho coeficiente de adecuación trimestral (CAT) resultará de considerar la facturación neta que efectúan los generadores por los contratos a término y spot en el Mercado Eléctrico Mayorista correspondientes al trimestre inmediato anterior al de liquidación, dividido el total de la energía (en MWh) involucrada en esa facturación, y su comparación con el mismo cociente correspondiente al trimestre mayo/julio 2003 que se tomará como base.\n\nf) NOTA DE REDACCION: (INCISO DEROGADO POR LEY 24.065) g) El Fondo será administrado por el Consejo Federal de la Energía Eléctrica (CFEE) y se destinará a:\n\n- El sesenta por ciento (60 %) para crear el Fondo Subsidiario para Compensaciones Regionales de Tarifas a Usuarios Finales, que asignará anualmente el Consejo Federal de la Energía Eléctrica (CFEE), distribuyéndolo entre las jurisdicciones provinciales que hayan adherido a los principios tarifarios contenidos en esta ley.\n\n- El cuarenta por ciento (40 %) restante para alimentar el Fondo para el Desarrollo Eléctrico del Interior. El CFEE distribuirá los fondos en función a los índices repartidores vigentes o a los que dicho Consejo determine en el futuro;\n\nh) Con donaciones, legados, aportes y otros recursos no especificados anteriormente.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92). Incisos e) y g) sustituidos. 0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0070 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 31-08-71)..",
+                "id": "OBSERVADO_POR_0",
+                "ref": "LEY C 019199 1971 08 30 0009 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 26/10/00) DE LA SECRETARIA DE ENERGIA Y MINERIA QUE FIJA MONTO DEL GRAVAMEN ESTABLECIDO EN EL ART. 70 DE LA LEY 24065.",
+                "id": "OBSERVADO_POR_1",
+                "ref": "RES C 000136 2000 10 19 0000 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 27-06-2019) POR RESOLUCION 355/2019 DE LA SECRETARIA DE GOBIERNO DE ENERGIA DEL MINISTERIO DE HACIENDA SE ESTABLECE LA MANERA DE DISTRIBUCION DEL GRAVAMEN .",
+                "id": "OBSERVADO_POR_2",
+                "ref": "RES C 000355 2019 06 25 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 1-11-2024) POR RESOLUCION DEL MINISTERIO DE ECONOMÍA SECRETARÍA DE COORDINACIÓN DE ENERGÍA Y MINERÍA SE ESTABLECE A PARTIR DEL 1 DE NOVIEMBRE DE 2024 EN PESOS UN MIL QUINIENTOS POR MEGAVATIO HORA ($ 1.500/MWh), EL VALOR DEL GRAVAMEN CREADO POR EL PRESENTE ARTICULO.",
+                "id": "OBSERVADO_POR_3",
+                "ref": "RES C 000019 2024 10 31 0001 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 31,
+          "texto": "*Art. 31.- El Fondo Nacional de la Energía Eléctrica será administrado por la Secretaría de Energía y Combustibles y se aplicará:\n\na) - El sesenta por ciento (60 %) para crear el Fondo Subsidiario para Compensaciones Regionales de Tarifas a Usuarios Finales, que asignará anualmente el Consejo Federal de la Energía Eléctrica (CFEE), distribuyendo entre las jurisdicciones provinciales que hayan adherido a los principios tarifarios contenidos en esta Ley.\n\nb) - El cuarenta por ciento (40 %) restante para alimentar el Fondo para el Desarrollo Eléctrico del Interior, el CFEE distribuirá los fondos en función a los índices repartidores vigentes o a los que dicho Consejo determine en el futuro.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Sustituido. (B.O. 09-11-84). 0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 023110 1984 09 30 0053 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 26/10/00) DE LA SECRETARIA DE ENERGIA Y MINERIA QUE FIJA MONTO DEL GRAVAMEN ESTABLECIDO EN EL ART. 70 DE LA LEY 24065",
+              "id": "OBSERVADO_POR_0",
+              "ref": "RES C 000136 2000 10 19 0000 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 32,
+          "titulo-articulo": "Fondo Especial de Desarrollo Eléctrico del Interior",
+          "texto": "*Art. 32.- Unifícanse el Fondo de Reserva de Energía Eléctrica y el de Electrificación Rural en un solo Fondo Especial de Desarrollo Eléctrico del Interior, que se integrará:\n\na) Con los excedentes de las tarifas y recargos que establezca el Poder Ejecutivo en la Capital Federal y Gran Buenos Aires;\n\nb) Con los aportes del Tesoro de la Nación que correspondan a los compromisos del Fondo de Restablecimiento Económico y otros que se determinen en la ley de presupuesto;\n\nc) Con el diez por ciento (10 %) del producido del Fondo Nacional de la Energía;\n\nd) Con el treinta y cinco por ciento (35 %) (artículo 31, inciso b) del Fondo Nacional de Energía Eléctrica.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 09-11-84). Inciso d) sustituido.  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 023110 1984 09 30 0053 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 33,
+          "texto": "Art. 33.- El Fondo Especial de Desarrollo Eléctrico del Interior será administrado por la Secretaría de Energía y Combustibles y se aplicará para:\n\na) Aportes y préstamos a las provincias para sus planes de electrificación, siempre que se encuadren en los planes aprobados con intervención del Consejo Federal de la Energía Eléctrica y no graven el consumo de electricidad para otros fines que no sean exclusivamente de desarrollo de energía eléctrica. Para acogerse a estos beneficios, las provincias deberán establecer tarifas que contemplen la amortización de tales aportes. Las sumas recaudadas en tal concepto deberán destinarse exclusivamente a la renovación, ampliación de plantas existentes o a la ejecución de redes de electrificación, o al reintegro, en su caso, de los respectivos préstamos;\n\nb) Préstamos a municipalidades, cooperativas y consorcios de usuarios de electricidad para sus obras de primer establecimiento, construcción y ampliación de centrales, redes de distribución y obras complementarias;\n\nc) Préstamos a empresas privadas de servicios públicos de electricidad para ampliación y mejoras de sus servicios en centrales de capacidad no superior a 2.000 kilovatios instalados.\n\nAl cierre de cada ejercicio los saldos anuales no utilizados se transferirán al ejercicio siguiente del mismo fondo."
+        },
+        {
+          "numero-articulo": 34,
+          "texto": "Art. 34.- La Secretaría de Energía y Combustibles distribuirá el fondo referido con la intervención del Consejo Federal de la Energía Eléctrica y lo administrará asegurando en todos los casos el retorno de los préstamos de acuerdo a las siguientes normas:\n\na) En los casos de los préstamos del artículo 33, incisos a) y b), con un interés no menor del 6 % anual y con amortización hasta quince años;\n\nb) Para los casos de los préstamos del artículo 33, inciso c), con un interés no inferior al 8 % anual y con amortización hasta cinco años.\n\nc) Gastos generales, administración, dirección técnica y asesoría, que se ajustarán a lo dispuesto por la reglamentación de la presente ley;\n\nd) Combustibles, lubricantes y en general todos los materiales cuyo consumo resulte necesario en el período correspondiente y que estén destinados a la generación, transformación, transmisión y distribución de electricidad, en su caso;\n\ne) Valor de la energía que se adquiere a terceros;\n\nf) Intereses y gastos complementarios de financiación sobre bonos y otros capitales crediticios destinados a la explotación y que hayan sido aprobados previamente por el Poder Ejecutivo. El total de dichos intereses no podrá exceder del 10 % anual sobre los respectivos capitales;\n\ng) Los demás gastos no especificados en los rubros anteriores, siempre que guarden relación de causalidad con las actividades de la explotación;\n\nh) Las pérdidas de energía por todo concepto, de acuerdo con las normas que establezca la Secretaría de Energía y Combustibles;\n\ni) Cláusulas de ajuste:\n\n1. Los costos de capital, mantenimiento y varios se ajustarán anualmente.\n\n2. Los cambios que sufra el precio de la mano de obra y de los combustibles serán reajustados dentro de los treinta (30) días de producidos, de acuerdo con las fórmulas que establezca la Secretaría de Energía y Combustibles.\n\n3. Las disminuciones de costo originadas en una mayor eficiencia técnica serán acreditadas por partes iguales a favor de los consumidores y la empresa o entidad productora, transportadora o distribuidora que lo haya originado.\n\nLos plazos de amortización precedentes podrán ampliarse hasta diez (10) años más en los siguientes casos: I) Cuando los préstamos se apliquen total o parcialmente para la ejecución de obras de electrificación rural; II) Cuando se destinen a planes que incluyan la adquisición de equipos electromecánicos y materiales eléctricos de fabricación nacional en una proporción no inferior al 80 % del total de la inversión. En estos casos para lo invertido en electrificación rural o en la compra de equipos y elementos de fabricación nacional, la tasa de interés aplicable podrá reducirse al 3 % anual."
+        },
+        {
+          "numero-articulo": 35,
+          "titulo-articulo": "Transporte y distribución de la energía eléctrica-Sistemas eléctricos",
+          "texto": "Art. 35.- Para los efectos de la presente ley se denominan:\n\na) Sistemas Eléctricos Nacionales (S.E.N.), las centrales, líneas y redes de transmisión y distribución, y obras e instalaciones complementarias -sin distinción de las personas, públicas o privadas, a quienes pertenezcan-, sometidos a la jurisdicción nacional;\n\nb) Sistemas Eléctricos Provinciales (SEP), las centrales, líneas y redes de jurisdicción provincial;\n\nc) Sistemas Eléctricos del Estado (SEE), las centrales, líneas y redes de transmisión, y obras e instalaciones complementarias, de propiedad de Estado nacional, o que él administra o explota;\n\nd) Red Nacional de Interconexión (RNI), al conjunto de sistemas eléctricos nacionales interconectados."
+        },
+        {
+          "numero-articulo": 36,
+          "texto": "Art. 36.- La Secretaría de Energía y Combustibles, con intervención del Consejo Federal de la Energía Eléctrica, tendrá a su cargo la planificación y coordinación de las obras y servicios integrantes de la Red Nacional de Interconexión y la determinación de las centrales, líneas, redes de transmisión y distribución y obras e instalaciones complementarias que integran necesaria y racionalmente la misma, cuya aprobación será efectuada por el Poder Ejecutivo.\n\nCuando se trate de captaciones hidroeléctricas utilizables mediante aprovechamientos fluviales múltiples, su planificación, estudio y coordinación quedarán supeditados a las condiciones que contemplen la racional y económica utilización de todos los recursos naturales vinculados a la cuenca hídrica."
+        },
+        {
+          "numero-articulo": 37,
+          "texto": "*Art. 37.- Todas las funciones y atribuciones de gobierno, inspección y policía, en materia de generación, transformación, transmisión y distribución de la energía eléctrica de jurisdicción nacional, serán ejercidas por la Secretaría de Energía y Combustibles, la que tendrá a su cargo:\n\na) Promover el desarrollo integral y racional funcionamiento de los Sistemas Eléctricos Nacionales (SEN), mediante la interconexión de las centrales y redes de jurisdicción nacional;\n\nb) Asegurar la libre circulación y distribución de la energía eléctrica en todo el territorio de la Nación;\n\nc) Mantener actualizado el inventario de las fuentes de energía, el catastro de las utilizaciones y la estadística de la industria eléctrica en todos sus aspectos;\n\nd) Asesorar al Poder Ejecutivo con relación al otorgamiento de las concesiones y autorizaciones para la utilización de las fuentes de energía eléctrica y para la instalación de centrales y redes de jurisdicción nacional;",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92). Incisos e) al h) suprimidos.  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 38,
+          "texto": "*Art. 38.- Nota de redacción: (Derogado por Ley 24.065)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 39,
+          "titulo-articulo": "Precios y tarifas",
+          "texto": "*Art. 39.- (Nota de redacción) (Derogado por Ley 24.065)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 40,
+          "texto": "*Art. 40.- Nota de redacción: (Derogado por Ley 24.065)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 41,
+          "texto": "*Art. 41.- Nota de redacción: (Derogado por Ley 24.065)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 42,
+          "texto": "*Art. 42.- Nota de redacción: (Derogado por Ley 24.065)."
+        },
+        {
+          "numero-articulo": 43,
+          "texto": "*Art. 43.- Las provincias en cuyos territorios se encuentren las fuentes hidroeléctricas percibirán mensualmente el doce por ciento (12%) del importe que resulte de aplicar a la energía vendida a los centros de consumo, la tarifa correspondiente a la venta en bloque determinada según los mecanismos establecidos en el artículo 39.\n\nEn el caso de que las fuentes hidroeléctricas se encuentren en ríos limítrofes entre provincias, o que atraviesen a más de una de ellas, este porcentaje del doce por ciento (12%) se distribuirá equitativamente y racionalmente entre ellas.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Sustituido. (B.O. 06-11-84).  0000 000",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 023164 1984 09 30 0001 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 31-08-71).  0000 000",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 019199 1971 08 30 0009 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 16-01-92).  0000 000",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 024065 1991 12 19 0090 000"
+            }
+          },
+          "numero-articulo": 44,
+          "texto": "*Art. 44.- Nota de redacción: (Derogado por Ley 24.065)."
+        },
+        {
+          "numero-articulo": 45,
+          "texto": "Art. 45.- Agua y Energía Eléctrica, Empresa del Estado y las sociedades en que la misma participe podrán financiar sus obras de expansión futuras o en ejecución mediante la emisión de títulos de deuda, bonos u obligaciones.\n\nLos fondos provenientes de estas financiaciones deberán aplicarse exclusivamente a obras y/o instalaciones estrictamente retributivas, en modo tal que el producido de las mismas cubra las amortizaciones e intereses de las deudas que se contraigan al amparo del presente régimen.\n\nEl Poder Ejecutivo podrá otorgar a los títulos, bonos u obligaciones que se emitan, las exenciones y franquicias impositivas acordadas o que se acuerden a los títulos, letras, bonos, obligaciones y demás papeles emitidos por la Nación, por las provincias o municipios y por los organismos o empresas descentralizadas.\n\nEl Poder Ejecutivo nacional fijará la oportunidad, tipo de interés y características financieras que considere conveniente a los fines de proceder a la emisión de los valores de que se trata. La garantía de la Nación será prestada por el Poder Ejecutivo cuando ella se considere necesaria."
+        },
+        {
+          "numero-articulo": 46,
+          "texto": "*Art. 46.- El patrimonio de Agua y Energía Eléctrica, Empresa del Estado, se integrará con todos los bienes muebles e inmuebles, ocupados o afectados en cualquier forma, modo y lugar a sus actividades, comprendidos los terrenos, edificios, obras e instalaciones, planteles y equipos, instrumentos y vehículos, fondos y demás efectos destinados a sus actividades específicas de persona jurídica de derecho privado.\n\nConsecuentemente, decláranse transferidos a la empresa los dominios sobre todos los terrenos de propiedad del Estado nacional, que ocupa o se encuentran afectados a dichas actividades, con excepción de aquellos que correspondan a obras, trabajos o servicios que se ejecutan o prestan por cuenta del gobierno nacional, cuando ellas sean totalmente de fomento y en la proporción que corresponda en las que lo sean parcialmente, o en las que respondan a finalidades múltiples.\n\nEl Poder Ejecutivo formalizará los respectivos títulos, su registro y demás recaudos pertinentes, quedando autorizado para transferir asimismo los bienes inmuebles que en lo sucesivo se requieran con iguales propósitos, conforme a los planes de acción y presupuestos anuales que apruebe, de acuerdo con las disposiciones vigentes.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 19-02-62). Se transfiere a Servicios Eléctricos del GranBuenos Aires S.A., determinados bienes que conforme al art. 46 de laLey 15.336, integran el patrimonio de Agua y Energía Eléctrica.  0000 000",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 000007 1962 01 02 0001 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 47,
+          "texto": "Art. 47.- Declárase cancelada la deuda de Agua y Energía Eléctrica, Empresa del Estado, con el Gobierno nacional, proveniente de fondos entregados a ella y a los organismos antecesores por la Tesorería General de la Nación, el Fondo Nacional de la Energía o el Fondo de Reserva de la Energía para la ejecución de obras, cualquiera sea su naturaleza, para realizar estudios o para costear déficit de explotación, así como los servicios de amortización e intereses vencidos si ellos existieran."
+        },
+        {
+          "numero-articulo": 48,
+          "texto": "Art. 48 (Transitorio).- El Consejo Federal de la Energía Eléctrica se constituirá una vez que la mitad de las provincias hayan comunicado al Poder Ejecutivo nacional su propuesta para el nombramiento de los representantes y éstos hayan sido designados.\n\nSi en el término de los treinta días las provincias no hubiesen realizado tal propuesta, el Consejo Federal de la Energía Eléctrica será integrado con el número de representantes designados.\n\nConstituído el consejo, deberá proceder dentro de los treinta días siguientes a elevar para la aprobación del Poder Ejecutivo nacional el proyecto de reglamentación de la presente ley y el proyecto de organización funcional a que ajustará su cometido."
+        },
+        {
+          "numero-articulo": 49,
+          "texto": "Art. 49.- Quedan derogadas las leyes y demás disposiciones vigentes, en cuanto se opongan a la presente ley."
+        },
+        {
+          "numero-articulo": 50,
+          "texto": "Art. 50.- Comuníquese al Poder Ejecutivo."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "GUIDO-Barraza-MONJARDIN-González."
+      },
+      "id-infojus": "LNS0001461",
+      "fecha-umod": 20241105092338
+    }
+  }
+}

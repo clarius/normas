@@ -1,0 +1,992 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g03-64000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1554829734294,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "25561-nacional-ley-emergencia-publica-reforma-regimen-cambiario-lns0004630-2002-01-06"
+      }
+    },
+    "content": {
+      "mecanografico": "S0004630",
+      "decreto-reglamentario": {
+        "referencia-normativa": [
+          {
+            "cr": null,
+            "id": "DECRETO_REGLAMENTARIO_0",
+            "ref": "DEC C 000071 2002 01 09 0000 000 0000 000"
+          },
+          {
+            "cr": "ART. 16",
+            "id": "DECRETO_REGLAMENTARIO_1",
+            "ref": "DEC C 000264 2002 02 08 0000 000 0000 000"
+          },
+          {
+            "cr": "ART. 17 (B.O. 12/12/2002)",
+            "id": "DECRETO_REGLAMENTARIO_2",
+            "ref": "DEC C 002568 2002 12 11 0000 000 0000 000"
+          }
+        ]
+      },
+      "numero-norma": 25561,
+      "timestamp": "2019-04-09T13:51:05",
+      "timestamp-m": "2019-04-09T13:51:05",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "2002-01-06",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 025561 2002 01 06",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 25.561",
+          "BUENOS AIRES, 6 de ENERO de 2002"
+        ]
+      },
+      "titulo-norma": "LEY DE EMERGENCIA PUBLICA Y DE REFORMA DEL REGIMEN CAMBIARIO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2002 01 07"
+        }
+      },
+      "sancion": "El  Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "LEY 25.561",
+      "estado": "Vigente, de alcance general",
+      "analista": "Quintana, Carolina",
+      "fecha-alta": "2002-01-08",
+      "fecha-mod": "2019-04-09",
+      "responsable": "Quintana, Carolina",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY DE EMERGENCIA PUBLICA Y DE REFORMA DEL REGIMEN CAMBIARIO-EMERGENCIA ECONOMICA-EMERGENCIA FINANCIERA-EMERGENCIAS SOCIALES-EMERGENCIA ADMINISTRATIVA-BANCOS-ENTIDADES FINANCIERAS-MERCADO CAMBIARIO-OPERACIONES BANCARIAS-DEPOSITO BANCARIO-CONVERTIBILIDAD-REGIMEN CAMBIARIO-COMISIONES BICAMERALES DE SEGUIMIENTO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "reordenamiento del sistema financiero"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia económica/emergencia financiera/reordenamiento del sistema financiero"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "corralito financiero",
+                "derecho económico financiero",
+                "reajuste del sistema financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ley de emergencia pública y de reforma del régimen cambiario"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia económica/emergencia financiera/reordenamiento del sistema financiero/ley de emergencia pública y de reforma del régimen cambiario"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "corralito financiero",
+                "derecho económico financiero",
+                "reajuste del sistema financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia económica"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia económica"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia financiera"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia económica/emergencia financiera"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencias sociales"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia administrativa"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero",
+                "austeridad administrativa"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bancos"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "entidades financieras"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras"
+            },
+            "sinonimos": {
+              "termino": "sistema bancario"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "mercado cambiario"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/mercado cambiario"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "operaciones de cambio",
+                "derecho económico financiero",
+                "régimen cambiario",
+                "mercado de cambio",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "operaciones bancarias"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/operaciones financieras/operaciones bancarias"
+            },
+            "sinonimos": {
+              "termino": [
+                "operatoria bancaria",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "depósito bancario"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/operaciones financieras/operaciones bancarias/contratos bancarios/depósito bancario"
+            },
+            "sinonimos": {
+              "termino": [
+                "operatoria bancaria",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "convertibilidad"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/convertibilidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de convertibilidad del austral",
+                "convertibilidad del peso",
+                "derecho económico financiero",
+                "régimen de convertibilidad",
+                "ley de convertibilidad",
+                "derecho financiero",
+                "convertibilidad del austral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pesificación"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia económica/emergencia financiera/reordenamiento del sistema financiero/pesificación"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "corralito financiero",
+                "derecho económico financiero",
+                "reajuste del sistema financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "régimen cambiario"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/mercado cambiario"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "operaciones de cambio",
+                "derecho económico financiero",
+                "régimen cambiario",
+                "mercado de cambio",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tipo de cambio oficial"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/mercado cambiario/tipo de cambio/tipo de cambio oficial"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "operaciones de cambio",
+                "régimen cambiario",
+                "derecho económico financiero",
+                "mercado de cambio",
+                "derecho financiero",
+                "cotización del dólar",
+                "cotización de la moneda extranjera"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contratos administrativos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tarifa de servicios públicos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/tarifa de servicios públicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "cuadro tarifario",
+                "servicios públicos locales",
+                "tarifas",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "comisiones bicamerales"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Legislativo/comisiones parlamentarias/comisiones bicamerales de seguimiento"
+            },
+            "sinonimos": {
+              "termino": [
+                "poderes públicos",
+                "comisiones legislativas",
+                "comisiones bicamerales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "despido sin justa causa"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/despido sin causa"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "despido sin justa causa",
+                "despido injustificado",
+                "despido incausado",
+                "distracto laboral",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "suspensión de despidos"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/despido sin causa/suspensión de despidos"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "despido sin justa causa",
+                "denuncia del contrato de trabajo",
+                "despido injustificado",
+                "despido incausado",
+                "distracto laboral",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización por despido"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/indemnización por despido"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "distracto laboral",
+                "indemnización por antigüedad",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización agravada"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/indemnización por despido/indemnización agravada"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "incremento de la indemnización",
+                "denuncia del contrato de trabajo",
+                "doble indemnización",
+                "indemnización duplicada",
+                "indemnización por antigüedad",
+                "distracto laboral",
+                "duplicación indemnizatoria",
+                "despido del trabajador",
+                "duplicación de la indemnización"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "distracto laboral (extinción del contrato de trabajo)",
+            "duplicación de la indemnización (indemnización agravada)",
+            "austeridad administrativa (emergencia administrativa)",
+            "emergencia administrativa",
+            "despido incausado (despido sin causa)",
+            "servicios públicos locales (servicio público)",
+            "reordenamiento del sistema financiero",
+            "duplicación indemnizatoria (indemnización agravada)",
+            "servicios públicos (servicio público)",
+            "política económica",
+            "cuadro tarifario (tarifa de servicios públicos)",
+            "indemnización duplicada (indemnización agravada)",
+            "Bienestar social",
+            "régimen de convertibilidad (convertibilidad)",
+            "reajuste del sistema financiero (reordenamiento del sistema financiero)",
+            "indemnización agravada",
+            "cotización de la moneda extranjera (tipo de cambio)",
+            "Economía y finanzas",
+            "emergencia financiera",
+            "Derecho administrativo",
+            "derecho financiero (Economía y finanzas)",
+            "doble indemnización (indemnización agravada)",
+            "comisiones bicamerales de seguimiento",
+            "derecho económico financiero (Economía y finanzas)",
+            "incremento de la indemnización (indemnización agravada)",
+            "comisiones parlamentarias",
+            "emergencia económica",
+            "ley de emergencia pública y de reforma del régimen cambiario",
+            "depósito bancario",
+            "convertibilidad del austral (convertibilidad)",
+            "despido sin justa causa (despido sin causa)",
+            "tarifa de servicios públicos",
+            "operaciones financieras",
+            "cotización del dólar (tipo de cambio)",
+            "ley de convertibilidad (convertibilidad)",
+            "operatoria bancaria (operaciones bancarias)",
+            "contrataciones públicas (contratos administrativos)",
+            "bancos",
+            "ley de convertibilidad del austral (convertibilidad)",
+            "Poder Legislativo",
+            "entidades financieras",
+            "corralito financiero (reordenamiento del sistema financiero)",
+            "mercado de cambio (mercado cambiario)",
+            "extinción del contrato de trabajo",
+            "tipo de cambio oficial",
+            "distracto (extinción del contrato de trabajo)",
+            "despido sin causa",
+            "convertibilidad",
+            "reforma del Estado",
+            "indemnización por despido",
+            "moneda",
+            "entidades bancarias (bancos)",
+            "contratos bancarios",
+            "contrataciones del Estado (contratos administrativos)",
+            "despido injustificado (despido sin causa)",
+            "contrato laboral (contrato de trabajo)",
+            "despido del trabajador (despido)",
+            "tarifas (tarifa de servicios públicos)",
+            "pesificación",
+            "operaciones bancarias",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "acción social (Bienestar social)",
+            "operaciones de cambio (mercado cambiario)",
+            "poderes públicos (poderes del Estado)",
+            "servicio público",
+            "comisiones bicamerales (comisiones bicamerales de seguimiento)",
+            "emergencias sociales",
+            "suspensión de despidos",
+            "comisiones legislativas (comisiones parlamentarias)",
+            "régimen cambiario (mercado cambiario)",
+            "poderes del Estado",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "Derecho constitucional",
+            "sistema financiero",
+            "convertibilidad del peso (convertibilidad)",
+            "denuncia del contrato de trabajo (despido)",
+            "Derecho bancario",
+            "mercado cambiario",
+            "Derecho laboral",
+            "tipo de cambio",
+            "contratos administrativos",
+            "sistema bancario (Derecho bancario)",
+            "indemnización por antigüedad (indemnización por despido)",
+            "despido"
+          ]
+        }
+      },
+      "generalidades": {
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 22 OBSERVACION: LA PRESENTE LEY SE PUBLICO EN UN NUMERO EXTRAORDINARIO DEL BOLETIN OFICIAL DEL 7/1/2002.\n\nOBSERVACION: SE ESTABLECE COMO FECHA DE ENTRADA EN VIGENCIA DE LA PRESENTE LEY EL DIA 6/1/2002, POR ART. 1 DECRETO 50/02 111(B.O. 9/01/2002) OBSERVACION: SE PRECISAN LOS ALCANCES DE LA PRESENTE LEY PARA LA CANCELACION DE LAS CUOTAS DE LOS PLANES DE AHORRO BAJO LA MODALIDAD DE CIRCULOS CERRADOS PARA LA ADJUDICACION Y ENTREGA DE AUTOMOTORES Y OTROS RODADOS, POR RESOLUCION 1/2002 DE LA INSPECCION GENERAL DE JUSTICIA (B.O. 6/02/2002) OBSERVACION: SE ESTABLECE QUE NO SE ENCUENTRAN COMPRENDIDOS EN LAS DISPOSICIONES DE LA PRESENTE LEY LAS TARIFAS DEL SERVICIO PUBLICO DE TRANSPORTE DE GAS NATURAL DESTINADO A LA EXPORTACION QUE SE REALICE A TRAVES DEL TERRITORIO NACIONAL MEDIANTE EL EMPLEO DE GASODUCTOS; LOS CONTRATOS PARA EL SERVICIO DE TRANSPORTE PARA LA EXPORTACION DE GAS NATURAL CELEBRADOS CONFORME RES N° 458 DEL ENTE NACIONAL REGULADOR DEL GAS, CUYO PRECIO HAYA SIDO PACTADO ORIGINALMETE EN MONEDA EXTRANJERA; LOS CONTRATOS DE COMPRAVENTA DE GAS NATURAL DESTINADOS A LA EXPORTACION CUYO PRECIO HAYA SIDO PACTADO ORIGINALMETE EN MONEDA EXTRANJERA, POR ART. 1 DEL DEC. 689/2002 (B.O. 02-05-2002) OBSERVACION: SE DISPONE QUE LOS CONTRATOS DE EXPORTACION POR POTENCIA FIRME Y ENERGIA ELECTRICA ASOCIADA Y LOS ACUERDOS DE COMERCIALIZACION DE GENERACION RELACIONADOS CON DETERMINADAS EXPORTACIONES, NO SE ENCUENTRAN COMPRENDIDOS EN LAS DISPOSICIONES DE LA PRESENTE, POR ART. 1 DEL DEC. 1491/2002 (B.O. 20-08-2002) OBSERVACION: LA RESOLUCION N.308 DEL MINISTERIO DE ECONOMIA TIENE EL CARACTER DE COMPLEMENTARIA E INTERPRETATIVA DE LA PRESENTE LEY Y DE LOS DECRETOS 293/02, 70/02 Y 1090/02(B.O. 20-08-2002) OBSERVACION: SE PRORROGA HASTA EL 31 DE DICIEMBRE DE 2006 LA VIGENCIA DE LA PRESENTE LEY Y SUS MODIFICATORIAS, POR ART. 1 DE LA LEY 26.077 (B.O. 10/01/2006) OBSERVACION: POR ART. 1 DE LA LEY 26.167 (B.O. 29/11/2006) SE ACLARA E INTERPRETA LA APLICACIÓN DE LA PRESENTE LEY Y DE SUS MODIFICATORIAS Y PRORROGAS OBSERVACION: SE PRORROGA HASTA EL 31/12/2007 LA VIGENCIA DE LA PRESENTE LEY, POR ART. 1 DE LA LEY 26.204 (B.O. 20/12/2006)",
+        "adherida-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "ADHERIDA_POR_0",
+            "ref": "LEY U 000067 2018 10 25 0000 000 0000 000"
+          }
+        }
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO I Declaración de emergencia pública",
+          "articulo": {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "CON C 000000 1994 08 22 0076 000 0000 000"
+              }
+            },
+            "numero-articulo": 1,
+            "texto": "*ARTICULO 1.- Declárase, con arreglo a lo dispuesto en elartículo 76 de la Constitución Nacional, la emergencia pública en materia social, económica, administrativa, financiera y cambiaria, delegando al Poder Ejecutivo Nacional las facultades comprendidas en la presente ley, hasta el 31 de diciembre de 2004, con arreglo a las bases que se especifican seguidamente:\n\n1. Proceder al reordenamiento del sistema financiero, bancario y del mercado de cambios.\n\n2. Reactivar el funcionamiento de la economía y mejorar el nivel de empleo y de distribución de ingresos, con acento en un programa de desarrollo de las economías regionales.\n\n3. Crear condiciones para el crecimiento económico sustentable y compatible con la reestructuración de la deuda pública.\n\n4. Reglar la reestructuración de las obligaciones, en curso de ejecución, afectadas por el nuevo régimen cambiario instituido en el artículo 2.",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 04-12-2003) PRIMER PARRAFO MODIFICADO",
+                "id": "MODIFICADO_POR_0",
+                "ref": "LEY C 025820 2003 11 19 0001 000 0000 000"
+              }
+            },
+            "observado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 17-12-2004) PRORROGA HASTA EL 31/12/2005 EL PLAZOESTABLECIDO EN EL PRESENTE ARTICULO.",
+                "id": "OBSERVADO_POR_0",
+                "ref": "LEY C 025972 2004 11 24 0001 000 0000 000"
+              }
+            }
+          }
+        },
+        {
+          "titulo-particion": "TITULO II Del régimen cambiario",
+          "articulo": {
+            "numero-articulo": 2,
+            "texto": "ARTICULO 2.- El Poder Ejecutivo nacional  queda facultado, por las razones de emergencia pública definidas en el artículo 1, para establecer el sistema que determinará la relación de cambio entre el peso y las divisas extranjeras, y dictar regulaciones cambiarias."
+          }
+        },
+        {
+          "titulo-particion": "TITULO III De las modificaciones a la Ley de Convertibilidad",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 025445 2001 06 21 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 3,
+              "texto": "ARTICULO 3.- Deróganse los artículos 1, 2,8, 9, 12 y 13 de la Ley N. 23.928 con las modificaciones incorporadas por la Ley N. 25.445",
+              "deroga-a": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_0",
+                    "ref": "LEY C 023928 1991 03 27 0001 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_1",
+                    "ref": "LEY C 023928 1991 03 27 0002 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_2",
+                    "ref": "LEY C 023928 1991 03 27 0008 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_3",
+                    "ref": "LEY C 023928 1991 03 27 0009 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_4",
+                    "ref": "LEY C 023928 1991 03 27 0012 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_5",
+                    "ref": "LEY C 023928 1991 03 27 0013 000 0000 000"
+                  }
+                ]
+              }
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": [
+                  {
+                    "cr": "SUSTITUYE ARTICULO",
+                    "id": "MODIFICA_A_0",
+                    "ref": "LEY C 023928 1991 03 27 0003 000 0000 000"
+                  },
+                  {
+                    "cr": "SUSTITUYE ARTICULO",
+                    "id": "MODIFICA_A_1",
+                    "ref": "LEY C 023928 1991 03 27 0004 000 0000 000"
+                  },
+                  {
+                    "cr": "SUSTITUYE ARTICULO",
+                    "id": "MODIFICA_A_2",
+                    "ref": "LEY C 023928 1991 03 27 0005 000 0000 000"
+                  },
+                  {
+                    "cr": "SUSTITUYE ARTICULO",
+                    "id": "MODIFICA_A_3",
+                    "ref": "LEY C 023928 1991 03 27 0006 000 0000 000"
+                  },
+                  {
+                    "cr": "SUSTITUYE ARTICULO",
+                    "id": "MODIFICA_A_4",
+                    "ref": "LEY C 023928 1991 03 27 0007 000 0000 000"
+                  },
+                  {
+                    "cr": "SUSTITUYE ARTICULO",
+                    "id": "MODIFICA_A_5",
+                    "ref": "LEY C 023928 1991 03 27 0010 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 4,
+              "texto": "ARTICULO 4.- NOTA DE REDACCION: (MODIFICA LEY 23.928)."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 023928 1991 03 27 0011 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "CCI C 000340 1869 09 25 0617 000 0000 000  A"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "CCI C 000340 1869 09 25 0619 000 0000 000  A"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_3",
+                    "ref": "CCI C 000340 1869 09 25 0623 000 0000 000  A"
+                  }
+                ]
+              },
+              "numero-articulo": 5,
+              "texto": "ARTICULO 5.- Mantiénese,  con las excepciones  y  alcances establecidos  en  la presente ley, la redacción dispuesta en el artículo 11 de la Ley N. 23.928, para los artículos 617, 619 y 623 del Código Civil"
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IV De la reestructuración de las obligaciones afectadas por el régimen de esta ley",
+          "segmento": [
+            {
+              "titulo-particion": "Capítulo I De las obligaciones vinculadas al sistema financiero",
+              "articulo": [
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "DNU C 001570 2001 12 01 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 6,
+                  "texto": "*ARTICULO 6.- El Poder Ejecutivo nacional dispondrá medidas tendientes a disminuir el impacto producido por la modificación de la relación de cambio dispuesta en el artículo 2° de la presente ley, en las personas de existencia visible o ideal que mantuviesen con el sistema financiero deudas nominadas en dólares estadounidenses u otras divisas extranjeras. Al efecto dispondrá normas necesarias para su adecuación.\n\nEl Poder Ejecutivo nacional podrá establecer medidas compensatorias que eviten desequilibrios en las entidades financieras comprendidas y emergentes del impacto producido por las medidas autorizadas en el párrafo precedente, las que podrán incluir la emisión de títulos del Gobierno nacional en moneda extranjera garantizados.\n\nA fin de constituir esa garantía créase un derecho a la exportación de hidrocarburos por el término de CINCO (5) años facultándose al Poder Ejecutivo nacional a establecer la alícuota correspondiente.\n\nA ese mismo fin, podrán afectarse otros recursos incluidos préstamos internacionales.\n\nEn ningún caso el derecho a la exportación de hidrocarburos podrá disminuir el valor boca de pozo, para el cálculo y pago de regalías a las provincias productoras.\n\nEl Poder Ejecutivo nacional dispondrá las medidas tendientes a preservar el capital perteneciente a los ahorristas que hubieren realizado depósitos en entidades financieras a la fecha de entrada en vigencia delDecreto 1.570/2001, reestructurando las obligaciones originarias de modo compatible con la evolución de la solvencia del sistema financiero. Esa protección comprenderá a los depósitos efectuados en divisas extranjeras.\n\nLo establecido en el párrafo anterior podrá ser implementado mediante opciones de canje de títulos de la deuda del Estado nacional.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 04-12-2003) SEGUNDO PARRAFO ELIMINADO Y ULTIMO PARRAFOINCORPORADO",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 025820 2003 11 19 0002 000 0000 000"
+                    }
+                  },
+                  "observado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "FRASE VETADA DEL SEGUNDO PARRAFO",
+                        "id": "OBSERVADO_POR_0",
+                        "ref": "DEC C 000030 2002 01 06 0001 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 16-01-2007) DERECHO DE EXPORTACION DE HIDROCARBUROS CREADO POR EL 2° PARRAFO, PRORROGADO POR EL TERMINO DE 5 AÑOS A PARTIR DE SU VENCIMIENTO.",
+                        "id": "OBSERVADO_POR_1",
+                        "ref": "LEY C 026217 2006 12 20 0001 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 28/12/2011) SE PRORROGA POR EL TERMINO DE CINCO (5) AÑOS A PARTIR DE SU VENCIMIENTO EL DERECHO DE EXPORTACION DE HIDROCARBUROS ESTABLECIDO EN EL PRESENTE.",
+                        "id": "OBSERVADO_POR_2",
+                        "ref": "LEY C 026732 2011 12 21 0001 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "DNU C 001570 2001 12 01 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 7,
+                  "texto": "ARTICULO 7.- Las deudas o saldos de las deudas originalmente convenidas con las entidades del sistema financiero en pesos vigentes al 30 de noviembre de 2001, y transformadas a dólares por el Decreto N. 1.570/2001, se mantendrán en la moneda original pactada, tanto el capital como sus accesorios. Derógase elartículo 1° del decreto 1.570/2001.\n\nLos saldos deudores de titulares de tarjetas de crédito y los débitos correspondientes a consumos realizados en el país, serán consignados en pesos y pagaderos en pesos. Sólo podrán consignarse en dólares u otras divisas, los consumos realizados fuera del país.\n\nLos saldos deudores pendientes de pago a la fecha de promulgación de la presente ley, serán cancelados en pesos a la relación de cambio UN PESO ($1)= UN DOLAR ESTADOUNIDENSE (U$S 1).",
+                  "deroga-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "DEROGA_A_0",
+                      "ref": "DNU C 001570 2001 12 01 0001 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Capítulo II De las obligaciones originadas en los contratos de la administración regidos por normas de derecho público",
+              "articulo": [
+                {
+                  "numero-articulo": 8,
+                  "texto": "ARTICULO 8 - Dispónese que a partir  de  la  sanción de la presente ley, en los contratos celebrados por la Administración  Pública bajo normas de derecho público, comprendidos entre ellos los de obras  y servicios públicos, quedan sin efecto las cláusulas de ajuste en dólar  o  en otras  divisas  extranjeras y las cláusulas indexatorias basadas en índices de precios de  otros  países y cualquier  otro mecanismo indexatorio. Los precios y tarifas resultantes de dichas cláusulas, quedan establecidos en pesos a la relación de cambio UN  PESO ($ 1) = UN DOLAR ESTADOUNIDENSE (U$S 1).",
+                  "observado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "(B.O. 20/03/2002) RES. DEL MINISTERIO DE ECONOMIA POR LA QUE SE ESTABLECEN LAS NORMAS DE PROCEDIMIENTO PARA LA RENEGOCIACION DE LOS CONTRATOS DE PRESTACION DE OBRAS Y SERVICIOS PUBLICOS",
+                        "id": "OBSERVADO_POR_0",
+                        "ref": "RES C 000020 2002 03 18 0000 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 12/11/2002) RES. DEL MINISTERIO DE ECONOMIA POR LA QUE SE ESTABLECEN NORMAS PARA LA RENEGOCIACION DE LOS CONTRATOS DE OBRAS Y SERVICIOS PUBLICOS",
+                        "id": "OBSERVADO_POR_1",
+                        "ref": "RES C 000576 2002 11 05 0000 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "numero-articulo": 9,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "*ARTICULO 9.- Autorízase al Poder Ejecutivo nacional a renegociar los contratos comprendidos en lo dispuesto en el Artículo 8 de la presente ley. En el caso de los contratos que tengan por objeto la prestación de servicios públicos, deberán tomarse en consideración los siguientes criterios:\n\n1) el impacto de las tarifas en la competitividad de la economía y en la distribución de los ingresos;\n\n2) la calidad de los servicios y los planes de inversión, cuando ellos estuviesen previstos contractualmente;\n\n3) el interés de los usuarios  y la accesibilidad de los servicios;\n\n4) la seguridad de los sistemas comprendidos; y 5) la rentabilidad de las empresas.",
+                  "observado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 22/10/2003) SE EXTIENDE HASTA EL 31/12/2004 EL PLAZO PARA LLEVAR A CABO LA RENEGOCIACION DE LOS CONTRATOS DE OBRAS Y SERVICIOS PUBLICOS",
+                      "id": "OBSERVADO_POR_0",
+                      "ref": "LEY C 025790 2003 10 01 0001 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 10,
+                  "texto": "ARTICULO 10.- Las disposiciones previstas en los artículos 8 y 9 de la presente ley, en ningún caso autorizarán a las empresas contratistas o prestadoras de servicios públicos, a suspender o alterar el cumplimiento de sus obligaciones."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Capítulo III De las obligaciones originadas en los contratos entre particulares, no vinculadas al sistema financiero",
+              "articulo": {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "CCI C 000340 1869 09 25 1198 000 0000 000  A"
+                  }
+                },
+                "numero-articulo": 11,
+                "texto": "*ARTICULO 11 - Las obligaciones de dar sumas de dinero existentes al 6 de enero de 2002, expresadas en DOLARES ESTADOUNIDENSES u otra moneda extranjera, no vinculadas al sistema financiero, cualquiera sea su origen o naturaleza, haya o no mora del deudor, se convertirán a razón de UN DOLAR ESTADOUNIDENSE (U$S 1) = UN PESO ($ 1), o su equivalente en otra moneda extranjera, resultando aplicable la normativa vigente en cuanto al Coeficiente de Estabilización de Referencia (CER) o el Coeficiente de Variación de Salarios (CVS), o el que en el futuro los reemplace, según sea el caso.\n\nSi por aplicación de los coeficientes correspondientes, el valor resultante de la cosa, bien o prestación, fuere superior o inferior al del momento de pago, cualquiera de las partes podrá solicitar un reajuste equitativo del precio. En el caso de obligaciones de tracto sucesivo o de cumplimiento diferido este reajuste podrá ser solicitado anualmente, excepto que la duración del contrato fuere menor o cuando la diferencia de los valores resultare notoriamente desproporcionada. De no mediar acuerdo a este respecto, la justicia decidirá sobre el particular. Este procedimiento no podrá ser requerido por la parte que se hallare en mora y ésta le resultare imputable. Los jueces llamados a entender en los conflictos que pudieran suscitarse por tales motivos, deberán arbitrar medidas tendientes a preservar la continuidad de la relación contractual de modo equitativo para las partes.\n\nDe no mediar acuerdo entre las partes, las mismas quedan facultadas para seguir los procedimientos de mediación vigentes en las respectivas jurisdicciones y ocurrir ante los tribunales competentes para dirimir sus diferencias.\n\nEn este caso, la parte deudora no podrá suspender los pagos a cuenta ni la acreedora negarse a recibirlos. El Poder Ejecutivo nacional queda facultado a dictar disposiciones aclaratorias y reglamentarias sobre situaciones específicas, sustentadas en la doctrina del artículo 1198 del Código Civil y el principio del esfuerzo compartido.\n\nLa presente norma no modifica las situaciones ya resueltas mediante acuerdos privados y/o sentencias judiciales.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 04-12-2003) SUSTITUIDO",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "LEY C 025820 2003 11 19 0003 000 0000 000"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO V Del canje de títulos",
+          "articulo": {
+            "numero-articulo": 12,
+            "texto": "ARTICULO 12.- Dentro del plazo y en la forma que oportunamente establezca la reglamentación, el Poder Ejecutivo nacional dispondrá los recaudos necesarios para proceder al canje de los títulos nacionales y provinciales que hubiesen sido emitidos como sustitutos de la moneda nacional de curso legal en todo el territorio del país, previo acuerdo con todas las jurisdicciones provinciales."
+          }
+        },
+        {
+          "titulo-particion": "TITULO VI De la protección de usuarios y consumidores",
+          "articulo": {
+            "numero-articulo": 13,
+            "informacion-vinculada": 1E+19,
+            "texto": "ARTICULO 13.- Facúltase al Poder Ejecutivo nacional a regular, transitoriamente, los precios de insumos, bienes y servicios críticos, a fin de proteger los derechos de los usuarios y consumidores, de la eventual distorsión de los mercados o de acciones de naturaleza monopólica u oligopólica."
+          }
+        },
+        {
+          "titulo-particion": "TITULO VII De las disposiciones complementarias y transitorias",
+          "articulo": [
+            {
+              "numero-articulo": 14,
+              "texto": "ARTICULO 14.- Invítase a las Provincias, Ciudad Autónoma de Buenos Aires y Municipios a adherir a las disposiciones de los artículos 8, 9 y 10 de la presente ley."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DNU C 001570 2001 12 01 0000 000 0000 000"
+                }
+              },
+              "observa-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "OBSERVA_A_0",
+                  "ref": "LEY C 025466 2001 08 29 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 15,
+              "texto": "ARTICULO 15.- Suspéndese la aplicación de la Ley N. 25.466, por el plazo máximo previsto en el artículo 1°, o hasta la oportunidad en que el Poder Ejecutivo nacional considere superada la emergencia del sistema financiero, con relación a los depósitos afectados por el Decreto N. 1.570/2001"
+            },
+            {
+              "observa-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "OBSERVA_A_0",
+                  "ref": "LEY C 025557 2001 12 20 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 16,
+              "texto": "*ARTICULO 16.- Suspéndese la aplicación de la Ley N. 25.557, por el término de hasta NOVENTA (90) días. Por el plazo de CIENTO OCHENTA (180) días quedan suspendidos los despidos sin causa justificada.\n\nEn caso de producirse despidos en contravención a lo aquí dispuesto, los empleadores deberán abonar a los trabajadores perjudicados el doble de la indemnización que les correspondiese, de conformidad a la legislación laboral vigente.",
+              "observado-por": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 29/05/2002) SE PRORROGA LA SUSPENSION DE LOS DESPIDOS SIN CAUSA JUSTIFICADA POR EL PLAZO DE 180 DIAS HABILES ADMINISTRATIVOS, CONTADOS A PARTIR DE SU VENCIMIENTO ORIGINARIO, POR DECRETO DE NECESIDAD Y URGENCIA.",
+                    "id": "OBSERVADO_POR_0",
+                    "ref": "DNU C 000883 2002 05 27 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 20/12/2002) NO SERA APLICABLE LO ESTABLECIDO EN LA ULTIMA PARTE DEL ARTICULO A LOS EMPLEADORES RESPECTO DE LOS NUEVOS TRABAJADORES QUE SEAN INCORPORADOS EN RELACION DE DEPENDENCIA A PARTIR DEL 1 DE ENERO DE 2003",
+                    "id": "OBSERVADO_POR_1",
+                    "ref": "DNU C 002639 2002 12 19 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 21/03/2003) SE PRORROGA LA SUSPENSION DE LOS DESPIDOS SIN JUSTA CAUSA HASTA EL 30 DE JUNIO DE 2003",
+                    "id": "OBSERVADO_POR_2",
+                    "ref": "DNU C 000662 2003 03 20 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 26/06/2003) SE PRORROGA LA SUSPENSION DE LOS DESPIDOS SIN JUSTA CAUSA HASTA EL 31 DE DICIEMBRE DE 2003",
+                    "id": "OBSERVADO_POR_3",
+                    "ref": "DNU C 000256 2003 06 24 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 06/01/2004) SE PRORROGA LA SUSPENSION DE LOS DESPIDOS SIN JUSTA CAUSA HASTA EL 31 DE MARZO DE 2004",
+                    "id": "OBSERVADO_POR_4",
+                    "ref": "DNU C 001351 2003 12 29 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 02/04/2004) SE PRORROGA LA SUSPENSION DE LOS DESPIDOS SIN JUSTA CAUSA HASTA EL 30 DE JUNIO DE 2004",
+                    "id": "OBSERVADO_POR_5",
+                    "ref": "DNU C 000369 2004 03 31 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 28/06/2004) SE PRORROGA DESDE EL 1 DE JULIO DE 2004  Y HASTA EL 31 DE DICIEMBRE DE 2004 INCLUSIVE, LA SUSPENSION DE LOS DESPIDOS SIN JUSTA CAUSA. LA DUPLICACION ALLI PREVISTA DE  LOS MONTOS INDEMNIZATORIOS, CONSISTENTE EN UN CIEN POR CIENTO  (100%) DE TALES SUMAS SE REDUCIRA A UN OCHENTA POR CIENTO (80%).",
+                    "id": "OBSERVADO_POR_6",
+                    "ref": "DNU C 000823 2004 06 23 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 28/06/2004) CUANDO LA TASA DE DESOCUPACION RESULTE INFERIOR AL DIEZ POR CIENTO (10%) QUEDARA SIN EFECTO DE PLENO DERECHO LA PRORROGA DE LO ESTABLECIDO EN EL PRESENTE, QUE SE ENCONTRARE VIGENTE EN ESE MOMENTO.",
+                    "id": "OBSERVADO_POR_7",
+                    "ref": "DNU C 000823 2004 06 23 0003 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 17/12/2004) SE PRORROGA LA SUSPENSION DE LOS DESPIDOS SIN CAUSA JUSTIFICADA HASTA QUE LA TASA DE DESOCUPACION ELABORADA POR EL INSTITUTO NACIONAL DE ESTADISTICA Y CENSO (INDEC) RESULTE INFERIOR AL 10%",
+                    "id": "OBSERVADO_POR_8",
+                    "ref": "LEY C 025972 2004 11 24 0004 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 7/1/2005) SE ESTABLECE QUE A PARTIR DEL 1 DE ENERO DE 2005 LOS EMPLEADORES EN CASO DE PRODUCIR DESPIDOS EN CONTRAVENCION A LA SUSPENSION DISPUESTA EN EL PRESENTE ARTICULO DEBERAN ABONAR UN OCHENTA POR CIENTO (80%) ADICIONAL POR SOBRE LOS MONTOS INDEMNIZATORIOS",
+                    "id": "OBSERVADO_POR_9",
+                    "ref": "DEC C 002014 2004 12 29 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 23/11/2005)  SE FIJA EN EL 50% EL ADICIONAL PREVISTO EN EL SEGUNDO PARRAFO DEL ART. 4 DE LA LEY 25.972",
+                    "id": "OBSERVADO_POR_10",
+                    "ref": "DEC C 001433 2005 11 22 0001 000 0000 000"
+                  }
+                ]
+              }
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "Capítulo XIII, Título I.",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "TOR C 011683 1998 07 13 0127 000 0000 000"
+                }
+              },
+              "numero-articulo": 17,
+              "texto": "ARTICULO 17. - Los resultados  netos negativos que tengan su origen en la aplicación del tipo de cambio a que se refiere el artículo 2° de la presente ley sobre activos  y  pasivos  en  moneda extranjera existentes  a la fecha de su sanción, sólo serán deducibles  en  el Impuesto a las  Ganancias  en la proporción de un VEINTE POR CIENTO (20%)  anual  en  cada uno de los  primeros cinco  ejercicios  que cierren con posterioridad  a  la vigencia  de la ley. Lo dispuesto precedentemente  sólo  será de aplicación para  los  sujetos cuyos ingresos anuales o patrimonio  superen  los límites establecidos en el artículo 127, Capítulo XIII, del Título  I, de la Ley N. 11.683, t.o. en 1998 y sus modificaciones."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": "SUSTITUYE ARTICULO",
+                  "id": "MODIFICA_A_0",
+                  "ref": "CPC C 017454 1981 08 18 0195 002 0000 000"
+                }
+              },
+              "numero-articulo": 18,
+              "texto": "ARTICULO 18.- NOTA DE REDACCION: (MODIFICA CODIGO PROCESAL CIVIL Y COMERCIAL)."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "ARTICULO 19.- La presente ley es de orden público. Ninguna persona puede alegar en su contra derechos irrevocablemente adquiridos. Derógase toda otra disposición que se oponga a lo en ella dispuesto."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "ARTICULO 20.- Créase a todos los efectos de esta ley la Comisión Bicameral de Seguimiento la cual deberá controlar, verificar y dictaminar sobre lo actuado por el Poder Ejecutivo. Los dictámenes en todos los casos serán puestos en consideración de ambas Cámaras.\n\nLa Comisión Bicameral será integrada por seis senadores y seis diputados elegidos por las Honorables Cámaras de Senadores y Diputados de la Nación, respetando la pluralidad de la representación política de las Cámaras. El Presidente de la Comisión será designado a propuesta del bloque político de oposición con mayor número de legisladores en el Congreso."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "CON C 000000 1994 08 22 0101 000 0000 000"
+                }
+              },
+              "numero-articulo": 21,
+              "texto": "ARTICULO 21.- El Poder Ejecutivo Nacional dará cuenta del ejercicio que hiciere de las facultades que se le delegan al finalizar su vigencia y mensualmente, por medio del Jefe de Gabinete de Ministros en oportunidad de la concurrencia a cada una de las Cámaras del Congreso, conforme a lo previsto en el artículo 101 de la Constitución Nacional"
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "ARTICULO 22.- Comuníquese al Poder Ejecutivo Nacional."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "CAMAÑO-MAQUEDA-Rollano-Oyarzún"
+          }
+        }
+      ],
+      "id-infojus": "LNS0004630"
+    }
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g52-07000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1660744845943,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "27653-nacional-alivio-fiscal-para-fortalecer-salida-economica-social-pandemia-generada-covid-19-lns0007025-2021-10-28"
+      }
+    },
+    "content": {
+      "mecanografico": "S0007025",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": null,
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "REAG01005101 2021 11 18 0000 000 0000 000"
+        }
+      },
+      "numero-norma": 27653,
+      "timestamp": "2022-08-17T10:57:16",
+      "timestamp-alta": "2021-11-11T09:51:22",
+      "timestamp-m": "2022-08-17T10:57:16",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "2021-10-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 027653 2021 10 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 27.653",
+          "BUENOS AIRES, 28 DE OCTUBRE DE 2021"
+        ]
+      },
+      "titulo-norma": "Alivio Fiscal para Fortalecer la Salida Económica y Social a la Pandemia Generada por el Covid-19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2021 11 11"
+        }
+      },
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "LEY 27.653",
+      "estado": "Vigente, de alcance general",
+      "analista": "Rocca, Adriana",
+      "enciclopedia": {
+        "texto": "Integridad y Transparencia"
+      },
+      "fecha-alta": "2021-11-11",
+      "fecha-mod": "2022-08-17",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CORONAVIRUS EMERGENCIA PUBLICA DEUDAS FISCALES CONDONACION DE DEUDAS ENTIDADES SIN FINES DE LUCRO MICRO Y PEQUEÑA EMPRESA PEQUEÑOS CONTRIBUYENTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "coronavirus"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/coronavirus"
+            },
+            "sinonimos": {
+              "termino": "COVID 19"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia pública"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/estado de emergencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "emergencia pública",
+                "acción social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deudas fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/liquidación de impuestos/deudas impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "deudas fiscales",
+                "deuda fiscal",
+                "deudas tributarias",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "condonación de deudas"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones/remisión de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "condonación de deudas",
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "entidades sin fines de lucro"
+            },
+            "preferido": {
+              "termino": "Derecho civil/personas jurídicas/personas jurídicas de carácter privado/entidades de bien público"
+            },
+            "sinonimos": {
+              "termino": [
+                "personas de existencia ideal",
+                "entidades sin fines de lucro",
+                "entidades de bien público sin fines de lucro"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "micro y pequeña empresa"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/empresa/micro y pequeña empresa"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "empresa comercial",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pequeños contribuyentes"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/tributos/impuestos/monotributo/pequeños contribuyentes"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "régimen simplificado para pequeños contribuyentes",
+                "ley de monotributo",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia sanitaria"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/emergencia sanitaria"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pandemia"
+            },
+            "preferido": {
+              "termino": "Salud pública/transmisión de enfermedades/pandemia"
+            },
+            "sinonimos": {
+              "termino": [
+                "contagio de enfermedades",
+                "enfermedades contagiosas",
+                "enfermedades transmisibles"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deudas tributarias"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/liquidación de impuestos/deudas impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "deudas fiscales",
+                "deuda fiscal",
+                "deudas tributarias",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tributos aduaneros"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros"
+            },
+            "sinonimos": {
+              "termino": [
+                "aranceles aduaneros",
+                "derechos de aduana"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regularización de deudas de los recursos de la seguridad social"
+            },
+            "preferido": {
+              "termino": "economía y finanzas/Seguridad Social/obligaciones de la seguridad social/regularización de deudas de los recursos de la seguridad social"
+            },
+            "sinonimos": {
+              "termino": "regularización de obligaciones de la seguridad social"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Aduanero",
+            "personas jurídicas de carácter privado",
+            "monotributo",
+            "coronavirus",
+            "Derecho tributario y aduanero",
+            "enfermedades",
+            "condonación de deudas (remisión de deudas)",
+            "tributos",
+            "extinción de las obligaciones",
+            "enfermedades transmisibles (transmisión de enfermedades)",
+            "emergencia pública (estado de emergencia)",
+            "deudas fiscales (deudas impositivas)",
+            "COVID 19 (coronavirus)",
+            "Bienestar social",
+            "transmisión de enfermedades",
+            "aranceles aduaneros (tributos aduaneros)",
+            "pequeños contribuyentes",
+            "derechos personales",
+            "Economía y finanzas",
+            "obligaciones personales (obligaciones)",
+            "tributos aduaneros",
+            "deudas tributarias (deudas impositivas)",
+            "derecho financiero (Economía y finanzas)",
+            "gravámenes (tributos)",
+            "derecho económico financiero (Economía y finanzas)",
+            "entidades de bien público",
+            "remisión de deudas",
+            "deuda fiscal (deudas impositivas)",
+            "obligaciones",
+            "contagio de enfermedades (transmisión de enfermedades)",
+            "régimen simplificado para pequeños contribuyentes (monotributo)",
+            "economía y finanzas",
+            "derecho público fiscal (derecho tributario)",
+            "deudas impositivas",
+            "personas de existencia ideal (personas jurídicas)",
+            "pandemia",
+            "obligaciones de la seguridad social",
+            "entidades sin fines de lucro (entidades de bien público)",
+            "emergencia sanitaria",
+            "derechos de aduana (tributos aduaneros)",
+            "regularización de obligaciones de la seguridad social (regularización de deudas de los recursos de la seguridad social)",
+            "estado de emergencia",
+            "empresa comercial (empresa)",
+            "derecho tributario",
+            "micro y pequeña empresa",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "acción social (Bienestar social)",
+            "derecho fiscal (derecho tributario)",
+            "Derecho civil",
+            "Seguridad Social",
+            "Salud pública",
+            "emergencias sociales",
+            "entidades de bien público sin fines de lucro (entidades de bien público)",
+            "enfermedades contagiosas (transmisión de enfermedades)",
+            "liquidación de impuestos",
+            "regularización de deudas de los recursos de la seguridad social",
+            "impuestos",
+            "ley de monotributo (monotributo)",
+            "empresa",
+            "obligaciones y contratos (derechos personales)",
+            "personas jurídicas"
+          ]
+        }
+      },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 16.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA:15.\n\nFECHA DE ENTRADA EN VIGENCIA: 11/11/2021.",
+        "reglamentado-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTADO_POR_0",
+            "ref": "REAG01005101 2021 11 18 0000 000 0000 000"
+          }
+        }
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TÍTULO I. Capítulo único. Condonación de deudas para entidades sin fines de lucro, micro y pequeñas empresas y personas humanas consideradas pequeños contribuyentes con deudas inferiores a cien mil pesos ($ 100.000). Cuenta fiscal cero.",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "TOR C 020628 2019 12 05 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 025054 1998 11 18 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 1,
+              "texto": "Artículo 1°- Condónanse las deudas tributarias, aduaneras y de la seguridad social, líquidas y exigibles vencidas hasta el 31 de agosto de 2021 correspondientes a:.\n\na) Las entidades comprendidas en el artículo 26, inciso e), de la ley 20.628 de impuesto a las ganancias, texto ordenado en 2019 y sus modificatorias; las cooperativas de trabajo y escolares, incluyendo las cooperativas inscriptas en el Registro Nacional de Efectores de Desarrollo Local y Economía Social; las entidades que conforman el Sistema Nacional de Bomberos Voluntarios (SNBV) previsto por la ley 25.054; las bibliotecas populares; los clubes de barrio y las entidades civiles de asistencia social, caridad, beneficencia, literarias y artística, así como aquellas organizaciones y asociaciones sin fines de lucro de pueblos originarios y las relacionadas con el fomento rural; en los términos que establezca la reglamentación;\n\nb) Micro y pequeñas empresas y personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes, incluidos monotributistas y con efecto exclusivo para las y los contribuyentes cuyas deudas tributarias, aduaneras y de la seguridad social, liquidas y exigibles, al 31 de agosto de 2021 sean inferiores a pesos cien mil ($ 100.000), consideradas en su totalidad, en los términos que determine la reglamentación."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "Art. 2°- La condonación establecida en el artículo anterior alcanza al capital adeudado, intereses resarcitorios y/o punitorios y/multas* y demás sanciones y no comprende los siguientes conceptos:.\n\na) Aportes y contribuciones destinados al Régimen Nacional de Obras Sociales;\n\nb) Las cuotas destinadas a las Aseguradoras de Riesgos del Trabajo (ART);\n\nc) Las retenciones y percepciones practicadas y no ingresadas."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 3,
+              "texto": "Art. 3°- La condonación establecida en el artículo 1º no obsta al cómputo de los aportes con destino al Sistema Integrado Previsional Argentino (SIPA) que correspondan a los trabajadores, a los efectos de los beneficios previstos en la ley 24.241 y sus modificaciones."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TÍTULO II. Alivio fiscal para el sostenimiento económico",
+          "segmento": [
+            {
+              "titulo-particion": "Capítulo I. Rehabilitación de moratorias caducas",
+              "articulo": {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "LEY C 027562 2020 08 13 0000 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 4,
+                "texto": "Art. 4°- Para el caso de las deudas emergentes de planes caducos formulados en el marco de la moratoria aprobada por la ley 27.541, de solidaridad social y reactivación productiva en el marco de la emergencia pública, y modificada por la ley 27.562, y cuando la caducidad haya acaecido hasta el 31 de agosto de 2021, amplíase de manera extraordinaria y por única vez la moratoria de regularización de obligaciones tributarias, de la seguridad social y aduaneras, prorrogándose la vigencia de las mismas, para que las y los contribuyentes y responsables de los tributos y de los recursos de la seguridad social cuya aplicación, percepción y fiscalización estén a cargo de la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, puedan mantener, sin consecuencias materiales, formales ni penales, los beneficios de dicho régimen de regularización de deudas tributarias, de la seguridad social y aduaneras y de condonación de intereses, multas y demás sanciones."
+              }
+            },
+            {
+              "titulo-particion": "Capítulo II. Ampliación de la moratoria para deudas posteriores y deudas no regularizadas",
+              "articulo": [
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 027562 2020 08 13 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 5,
+                  "texto": "Art. 5°- Amplíase la Moratoria de regularización de obligaciones tributarias, de la seguridad social y aduaneras aprobada por la ley 27.541, de Solidaridad Social y Reactivación Productiva en el Marco de la Emergencia Pública, y modificada por la ley 27.562, prorrogándose la vigencia de las mismas, para que las y los contribuyentes y responsables de los tributos y de los recursos de la seguridad social cuya aplicación, percepción y fiscalización estén a cargo de la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, puedan acogerse, por las obligaciones vencidas al 31 de agosto de 2021 inclusive o infracciones relacionadas con dichas obligaciones, a dicho régimen de regularización de deudas tributarias y de los recursos de la seguridad social y de condonación de intereses, multas y demás sanciones."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 027562 2020 08 13 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_2",
+                        "ref": "LEY C 027541 2019 12 21 0013 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_3",
+                        "ref": "TOR C 011683 1998 07 13 0037 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_4",
+                        "ref": "TOR C 011683 1998 07 13 0052 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_5",
+                        "ref": "TOR C 011683 1998 07 13 0168 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_6",
+                        "ref": "CAD C 022415 1981 03 02 0794 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_7",
+                        "ref": "CAD C 022415 1981 03 02 0797 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_8",
+                        "ref": "CAD C 022415 1981 03 02 0845 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_9",
+                        "ref": "CAD C 022415 1981 03 02 0924 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_10",
+                        "ref": "CAD C 022415 1981 03 02 0930 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_11",
+                        "ref": "CAD C 022415 1981 03 02 0932 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_12",
+                        "ref": "LEY C 027541 2019 12 21 0011 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_13",
+                        "ref": "TOR C 011683 1998 07 13 0070 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_14",
+                        "ref": "LEY C 024467 1995 03 15 0002 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 6,
+                  "texto": "Art. 6°- A los efectos de la ampliación prevista por el artículo anterior, resultarán de aplicación todas las disposiciones previstas en la ley 27.541, de Solidaridad Social y Reactivación Productiva en el Marco de la Emergencia Pública, y modificada por la ley 27.562, con las siguientes excepciones y/o consideraciones:.\n\na) Se podrán regularizar las obligaciones tributarias, de la seguridad social y aduanera vencidas al 31 de agosto de 2021, inclusive, o infracciones relacionadas con dichas obligaciones, no pudiendo reformularse planes de pago vigentes de las leyes indicadas, excepto los condicionales mencionados en el inciso c) del artículo 13 de la ley 27.541 y sus modificaciones;\n\nb) Se establece la condonación total de los intereses resarcitorios y/o punitorios previstos en los   artículos 37, 52 y 168 de la ley 11.683 (t.o. 1998) y sus modificatorias, los intereses resarcitorios y/o punitorios sobre multas y tributos aduaneros (incluidos los importes que en concepto de estímulos a la exportación debieran restituirse al fisco nacional) previstos en los artículos 794, 797, 845 y 924 de la ley 22.415 (Código Aduanero) en el importe que por el total de intereses supere el porcentaje que se indica a continuación:.\n\n1. i) Micro y Pequeñas empresas;\n\nii) Entidades sin fines de lucro y organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa;\n\ny iii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que determine la Administración Federal de Ingresos Públicos: diez por ciento (10%) del capital adeudado.\n\n2. Medianas empresas, tramos 1 y 2: treinta y cinco (35%) del capital adeudado.\n\n3. Para las y los demás contribuyentes: setenta y cinco por ciento (75%) del capital adeudado;\n\nc) El acogimiento al presente título de esta ley ampliatoria y/o modificatoria producirá la suspensión de las acciones penales tributarias y penales aduaneras en curso y la interrupción de la prescripción penal respecto de los autores o las autoras, los coautores o las coautoras y los partícipes o las partícipes del presunto delito vinculado a las obligaciones respectivas, aun cuando no se hubiere efectuado la denuncia penal hasta ese momento o cualquiera sea la etapa del proceso en que se encuentre la causa, siempre y cuando esta no tuviere sentencia firme.\n\nLa cancelación total de la deuda en las condiciones previstas en la presente, por compensación, de contado o mediante plan de facilidades de pago producirá la extinción de la acción penal tributaria o penal aduanera, en la medida que no exista sentencia firme a la fecha de cancelación. Igual efecto producirá respecto de aquellas obligaciones de idéntica naturaleza a las mencionadas, que hayan sido canceladas con anterioridad a la entrada en vigencia del presente título de esta ley ampliatoria y/o modificatoria, incluidas, en este supuesto, las inherentes al Régimen Nacional de Obras Sociales. En el caso de las infracciones aduaneras, la cancelación total producirá la extinción de la acción penal aduanera en los términos de los artículos 930 y 932 de la ley 22.415 (Código Aduanero) y sus modificatorias, en la medida en que no exista sentencia firme a la fecha de acogimiento.\n\nLa caducidad del plan de facilidades de pago implicará la reanudación de la acción penal tributaria o aduanera, según fuere el caso, o habilitará la promoción por parte de la Administración Federal de Ingresos Públicos de la denuncia penal que corresponda, en aquellos casos en que el acogimiento se hubiere dado en forma previa a su interposición. También importará el comienzo o la reanudación, según el caso, del cómputo de la prescripción penal tributaria y/o aduanera;\n\nd) Respecto a lo previsto en el último párrafo del artículo 11 de la ley 27.541, de Solidaridad Social y Reactivación Productiva en el Marco de la Emergencia Pública, modificada por la ley 27.562, establézcase que la exención y/o condonación estipulada en dicho artículo será de aplicación respecto de los conceptos mencionados en el mismo que no hayan sido pagados o cumplidos con anterioridad a la fecha de entrada en vigencia del presente título de esta ley ampliatoria y/o modificatoria y correspondan a obligaciones impositivas, aduaneras y de los recursos de la seguridad social vencidas o por infracciones cometidas al 31 de agosto de 2021;\n\ne) El beneficio de liberación de multas y demás sanciones correspondientes a infracciones formales cometidas hasta el 31 de agosto de 2021, que no se encuentren firmes ni abonadas, operará cuando con anterioridad a la fecha en que finalice el plazo para el acogimiento al presente régimen, se haya cumplido o se cumpla la respectiva obligación formal;\n\nDe haberse sustanciado el sumario administrativo previsto en el artículo 70 de la ley 11.683 (t.o. 1998) y sus modificaciones, el citado beneficio operará cuando el acto u omisión atribuido se hubiere subsanado antes de la fecha de vencimiento del plazo para el acogimiento al presente régimen.\n\nCuando el deber formal transgredido no fuese, por su naturaleza, susceptible de ser cumplido con posterioridad a la comisión de la infracción, la sanción quedará condonada de oficio, siempre que la falta haya sido cometida con anterioridad al 31 de agosto de 2021, inclusive.\n\nLas multas y demás sanciones correspondientes a obligaciones sustanciales devengadas hasta el 31 de agosto de 2021 quedarán condonadas de pleno derecho, siempre que no se encontraren firmes a la fecha de entrada en vigencia del presente título de esta ley ampliatoria y/o modificatoria y la obligación principal hubiera sido cancelada a dicha fecha.\n\nTambién serán condonados los intereses resarcitorios y/o punitorios correspondientes al capital cancelado con anterioridad a la mencionada entrada en vigencia. De tratarse de intereses resarcitorios y/o punitorios correspondientes a anticipos no ingresados, la condonación procederá cuando la declaración jurada del período fiscal correspondiente se encuentre vencida al 31 de agosto de 2021 y presentada a la fecha de vigencia de la ley;\n\nf) Los planes de facilidades de pago que disponga la Administración Federal de Ingresos Públicos para la regularización de las obligaciones tributarias, de la seguridad social y aduanera contempladas en el presente título de esta ley ampliatoria y/o modificatoria se ajustarán a las siguientes condiciones:.\n\n1. Tendrán un plazo máximo de:.\n\n1.1. i) Micro y pequeñas empresas;\n\nii) Entidades sin fines de lucro y organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa; y iii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que determine la Administración Federal de Ingresos Públicos: hasta ciento veinte (120) cuotas.\n\n1.2. Medianas empresas, tramos 1 y 2: hasta sesenta (60) cuotas.\n\n1.3. Para las y los demás contribuyentes: hasta treinta y seis (36) cuotas.\n\n1.4. La Administración Federal de Ingresos Públicos podrá segmentar la cantidad de cuotas en función a la naturaleza de la obligación adeudada y establecer plazos de espera en base a parámetros vinculados a la actividad desarrollada por las y los contribuyentes o cuestiones regionales, sectoriales o relacionadas a políticas de género.\n\n2. La primera cuota vencerá no antes del 16 de diciembre de 2021, según el tipo de contribuyente, deuda y plan de pago adherido.\n\n3. El acogimiento de los contribuyentes o las contribuyentes que revistan la condición de: i) Micro y pequeñas empresas;\n\nii) Entidades sin fines de lucro, organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa;\n\niii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que defina la Administración Federal de Ingresos Públicos; y.\n\niv) Concursados o concursadas o fallidos o fallidas, podrá contener un pago a cuenta de la deuda consolidada. Para el resto de los contribuyentes o las contribuyentes el pago a cuenta será requisito indispensable para el acceso al plan, conforme se determine en la normativa complementaria que dicte la Administración Federal de Ingresos Públicos.\n\n4. La tasa de interés será:.\n\n4.1. i) Micro y Pequeñas empresas;\n\nii) Entidades sin fines de lucro y organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa; y .\n\niii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que determine la Administración Federal de Ingresos Públicos: fija, del hasta uno y medio por ciento (1,5%) mensual, durante las doce (12) primeras cuotas resultando luego de aplicación la tasa BADLAR en moneda nacional de bancos privados.\n\n4.2. Medianas empresas, tramos 1 y 2: fija, del hasta el dos por ciento (2%) mensual, durante las seis (6) primeras cuotas resultando luego de aplicación la tasa BADLAR en moneda nacional de bancos privados.\n\n4.3. Para los demás y las demás contribuyentes: fija, del hasta tres por ciento (3%) mensual, durante las seis (6) primeras cuotas resultando luego de aplicación la tasa BADLAR en moneda nacional de bancos privados.\n\nEl contribuyente o la contribuyente podrá optar por cancelar anticipadamente el plan de pagos en la forma y bajo las condiciones que al efecto disponga la Administración Federal de Ingresos Públicos.\n\n5. La calificación de riesgo que posea el contribuyente o la contribuyente ante la Administración Federal de Ingresos Públicos no será tenida en cuenta para la caracterización del plan de facilidades de pago.\n\n6. Los planes de facilidades de pago caducarán:.\n\n6.1. Por la falta de pago de hasta seis (6) cuotas en los casos de los contribuyentes o las contribuyentes que revistan la condición de: .\n\ni) Micro y pequeñas empresas; ii) Entidades sin fines de lucro, organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa; iii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que defina la Administración Federal de Ingresos Públicos; y iv) Concursados o concursadas o fallidos o fallidas.\n\n6.2. Por la falta de pago de hasta tres (3) cuotas en los casos de los o las restantes contribuyentes.\n\n6.3. Por invalidez del saldo de libre disponibilidad utilizado para compensar la deuda.\n\n6.4. Por la falta de aprobación judicial del avenimiento en los plazos que determine la normativa complementaria a dictar.\n\n6.5. Por la falta de obtención del certificado Mipyme. No obstante, estos contribuyentes o estas contribuyentes gozarán de un plazo adicional de quince (15) días para reformular el plan en las condiciones establecidas para el resto de los contribuyentes o las contribuyentes, supuesto en el que la primera cuota vencerá no antes del 16 de diciembre de 2021.\n\n6.6. Por las demás causales previstas en los puntos 6.6. y 6.7. del artículo 13 de la ley 27.541, de Solidaridad Social y Reactivación Productiva en el Marco de la Emergencia Pública, modificada por la ley 27.562, con excepción de la prevista en el punto 6.6.1. de dicho artículo.\n\nA los efectos de la presente ley, se entiende por contribuyentes Mipyme a aquellos o aquellas que encuadren y se encuentren inscritos o inscritas como micro, pequeñas o medianas empresas, según los términos del artículo 2° de la ley 24.467 y sus modificatorias, y demás normas complementarias. A tal fin, deberán acreditar su inscripción con el certificado Mipyme, vigente al momento de presentación al régimen que se aprueba por el presente título de esta ley ampliatoria y/o modificatoria, conforme lo establecido por la Secretaría de la Pequeña y Mediana Empresa y los Emprendedores del Ministerio de Desarrollo Productivo.\n\nAquellas MiPymes que no cuenten con el referido certificado vigente al momento de la publicación de la presente ley modificatoria podrán adherir a este régimen de manera condicional, siempre que lo tramiten y obtengan hasta la fecha límite para el acogimiento al régimen que a tal efecto disponga la Administración Federal de Ingresos Públicos, inclusive.\n\nLa adhesión condicional caducará si la o el presentante no obtiene el certificado en dicho plazo. La autoridad de aplicación podrá extender el plazo para la tramitación del mismo.\n\nLas condiciones previstas para i) Micro y pequeñas empresas;\n\nii) Entidades sin fines de lucro y organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa; y .\n\niii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que determine la Administración Federal de Ingresos Públicos están previstas para el caso de las y los contribuyentes cuyas obligaciones no sean objeto de los beneficios previstos en el título I.\n\ng) Las y los agentes de retención y percepción quedarán liberados o liberadas de multas y de cualquier otra sanción que no se encuentre firme a la fecha de entrada en vigencia de la presente   ley ampliatoria y/o modificatoria, cuando exterioricen y paguen, en los términos de la presente, el importe que hubieran omitido retener o percibir, o el importe que, habiendo sido retenido o percibido, no hubieran ingresado, luego de vencido el plazo para hacerlo.\n\nDe tratarse de retenciones no practicadas o percepciones no efectuadas, los agentes de retención o percepción quedarán eximidos de responsabilidad si el sujeto pasible de dichas obligaciones regulariza su situación en los términos del presente título o lo hubiera hecho con anterioridad.\n\nRespecto de los agentes de retención y percepción, regirán las mismas condiciones suspensivas y extintivas de la acción penal previstas para los contribuyentes en general, así como también las mismas causales de exclusión previstas en términos generales."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Capítulo III. Promoción del cumplimiento de obligaciones resultantes del proceso de fiscalización",
+              "articulo": [
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 027562 2020 08 13 0000 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 7,
+                  "texto": "Art. 7°- Con efecto exclusivo para las y los contribuyentes que pretendan regularizar sumas adeudadas resultantes de la actividad fiscalizadora de la Administración Federal de Ingresos Públicos, amplíase la Moratoria de regularización de obligaciones tributarias, de la seguridad social y aduaneras aprobada por la ley 27.541, de Solidaridad Social y Reactivación Productiva en el Marco de la Emergencia Pública, y modificada por la ley 27.562, prorrogándose la vigencia de las mismas, para que las y los contribuyentes y responsables de los tributos y de los recursos de la seguridad social cuya aplicación, percepción y fiscalización estén a cargo de la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, puedan acogerse, por las obligaciones vencidas al 31 de agosto de 2021 inclusive o infracciones relacionadas con dichas obligaciones, a dicho régimen de regularización de deudas tributarias y de los recursos de la seguridad social y de condonación de intereses, multas y demás sanciones.\n\nEn esos casos, el acogimiento al presente régimen tendrá como efecto el allanamiento incondicional por las obligaciones regularizadas o, en su caso, el desistimiento de acciones, reclamos o recursos en trámite, asumiendo el responsable el pago de las costas y gastos causídicos. Asimismo, el acogimiento al régimen importará el desistimiento de todo derecho, acción o reclamo, incluso el de repetición, respecto de las obligaciones regularizadas."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 027562 2020 08 13 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_2",
+                        "ref": "TOR C 011683 1998 07 13 0037 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_3",
+                        "ref": "TOR C 011683 1998 07 13 0052 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_4",
+                        "ref": "TOR C 011683 1998 07 13 0168 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_5",
+                        "ref": "CAD C 022415 1981 03 02 0794 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_6",
+                        "ref": "CAD C 022415 1981 03 02 0797 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_7",
+                        "ref": "CAD C 022415 1981 03 02 0845 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_8",
+                        "ref": "CAD C 022415 1981 03 02 0924 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 8,
+                  "texto": "Art. 8°- A los efectos de la ampliación prevista por el artículo anterior, resultarán de aplicación, en primer lugar, todas las disposiciones previstas en el título II de la presente ley y, subsidiariamente -y en las condiciones que establezca la reglamentación-, en la ley 27.541, de Solidaridad Social y Reactivación Productiva en el Marco de la Emergencia Pública, y modificada por la ley 27.562, teniendo los planes de facilidades de pago que disponga la Administración Federal de Ingresos Públicos las siguientes características:.\n\na) Un plazo no inferior a cuarenta y ocho (48) cuotas;\n\nb) Un plazo no superior a:.\n\n1. i) Micro y Pequeñas empresas;.\n\nii) Entidades sin fines de lucro y organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa; y.\n\niii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que determine la Administración Federal de Ingresos Públicos: ciento veinte (120) cuotas.\n\n2. Medianas empresas, tramos 1 y 2: noventa y seis (96) cuotas.\n\n3. Para las y los demás contribuyentes: setenta y dos (72) cuotas.\n\nLa Administración Federal de Ingresos Públicos podrá segmentar la cantidad de cuotas en función a la naturaleza de la obligación adeudada y establecer plazos de espera en base a parámetros vinculados a la actividad desarrollada por las y los contribuyentes o cuestiones regionales, sectoriales o relacionadas a políticas de género.\n\nc) Se establece la condonación total de los intereses resarcitorios y/o punitorios previstos en los   artículos 37, 52 y 168 de la ley 11.683 (t.o. 1998) y sus modificatorias, los intereses resarcitorios y/o punitorios sobre multas y tributos aduaneros (incluidos los importes que en concepto de estímulos a la exportación debieran restituirse al fisco nacional) previstos en los artículos 794, 797, 845 y 924 de la ley 22.415 (Código Aduanero) en el importe que por el total de intereses supere el porcentaje que se indica a continuación:.\n\n1. i) Micro y Pequeñas empresas;\n\nii) Entidades sin fines de lucro y organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa; y .\n\niii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que determine la Administración Federal de Ingresos Públicos: diez por ciento (10%) del capital adeudado.\n\n2. Medianas empresas, tramos 1 y 2: veinte por ciento (20%) del capital adeudado.\n\n3. Para las y los demás contribuyentes: cuarenta por ciento (40%) del capital adeudado;\n\nd) La tasa de interés será:.\n\n1. i) Micro y Pequeñas empresas;\n\nii) Entidades sin fines de lucro y organizaciones comunitarias inscritas como fundaciones, asociaciones civiles, simples asociaciones y entidades con reconocimiento municipal y que, con domicilio propio y de sus directivos fijado en territorio nacional, no persigan fines de lucro en forma directa o indirecta y desarrollen programas de promoción y protección de derechos o actividades de ayuda social directa; y.\n\niii) Personas humanas y sucesiones indivisas que sean consideradas pequeños contribuyentes en los términos que determine la Administración Federal de Ingresos Públicos: fija, del hasta uno y medio por ciento (1,5%) mensual, durante las doce (12) primeras cuotas resultando luego de aplicación la tasa BADLAR en moneda nacional de bancos privados.\n\n2. Medianas empresas, tramos 1 y 2: fija, del hasta el dos por ciento (2%) mensual, durante las seis (6) primeras cuotas resultando luego de aplicación la tasa BADLAR en moneda nacional de bancos privados.\n\n3. Para los demás y las demás contribuyentes: fija, del hasta tres por ciento (3%) mensual, durante las seis (6) primeras cuotas resultando luego de aplicación la tasa BADLAR en moneda nacional de bancos privados.\n\nEl contribuyente o la contribuyente podrá optar por cancelar anticipadamente el plan de pagos en la forma y bajo las condiciones que al efecto disponga la Administración Federal de Ingresos Públicos."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Capítulo IV. Disposiciones comunes",
+              "articulo": [
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "TOR C 011683 1998 07 13 0168 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 9,
+                  "texto": "Art. 9°- No se encuentran sujetas a reintegro o repetición las sumas que, con anterioridad a la fecha de entrada en vigencia del presente título de esta ley ampliatoria y/o modificatoria, se hubieran ingresado en concepto de intereses resarcitorios y/o punitorios y/o multas, así como los intereses previstos en el artículo 168 de la ley 11.683 (t. o. 1998) y sus modificatorias, por las obligaciones comprendidas en el presente título."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 027541 2019 12 21 0013 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 027562 2020 08 13 0000 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 10,
+                  "texto": "Art. 10.- Establézcase la inexigibilidad de la causal de caducidad prevista en el punto 6.6.1. del inciso c) del artículo 13 de la ley 27.541, de solidaridad social y reactivación productiva en el marco de la emergencia pública, modificada por la ley 27.562 tanto para la presente ley como para dichas normas."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 027260 2016 06 29 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 027613 2021 02 24 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_2",
+                        "ref": "LEY C 027605 2020 12 04 0000 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 11,
+                  "texto": "Art. 11.- Exclúyanse de los beneficios previstos en el presente título las obligaciones derivadas de exclusiones o incumplimientos previstas en el título I del libro II de la ley 27.260 y en el título II de la ley 27.613. Asimismo, quedan excluidas de dichos beneficios las deudas originadas en concepto del aporte solidario y extraordinario para ayudar a morigerar los efectos de la pandemia creados por la ley 27.605."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TÍTULO III. Normas complementarias",
+          "articulo": [
+            {
+              "numero-articulo": 12,
+              "texto": "Art. 12.- El Poder Ejecutivo nacional, a través de la Administración Federal de Ingresos Públicos, reglamentará la presente ley dentro de los quince (15) días corridos y dictará la normativa complementaria e interpretativa necesaria para implementar las condiciones previstas en la misma, asimismo:.\n\na) Establecerá los plazos y las formas para acceder al programa de regularización que se aprueba por la presente ley modificatoria, y sus reglas de caducidad;\n\nb) Definirá condiciones diferenciales referidas a las establecidas en el presente capítulo, a fin de:.\n\n1. Estimular la adhesión temprana al mismo.\n\n2. Ordenar la refinanciación de planes vigentes.\n\nEn el ejercicio de sus facultades, dicho organismo orientará su actuación de manera tal de propender a la consecución de los cometidos perseguidos por la presente ley, entre los que cabe contar la recuperación de la actividad productiva y la preservación de las fuentes de trabajo."
+            },
+            {
+              "numero-articulo": 13,
+              "texto": "Art. 13.- Las y los contribuyentes cumplidores, a los efectos de la presente ley, gozarán de los siguientes beneficios conforme la condición tributaria que revistan:.\n\n1. Sujetos adheridos al Régimen Simplificado de Pequeños Contribuyentes. El beneficio consistirá en la exención del componente impositivo conforme la cantidad de cuotas que se detallan para cada categoría:.\n\na) Categorías A y B: seis (6) cuotas mensuales y consecutivas;\n\nb) Categorías C y D: cinco (5) cuotas mensuales y consecutivas;\n\nc) Categorías E y F: cuatro (4) cuotas mensuales y consecutivas;\n\nd) Categorías G y H: tres (3) cuotas mensuales y consecutivas;\n\ne) Categorías I, J y K: dos (2) cuotas mensuales y consecutivas;\n\nEn ningún caso el límite del beneficio podrá superar un importe total equivalente a pesos veinticinco mil ($ 25.000).\n\n2. Sujetos inscritos en el impuesto a las ganancias. El beneficio consistirá en una deducción especial conforme los siguientes términos:.\n\na) Para personas humanas y sucesiones indivisas: tendrán derecho a deducir, por un período fiscal, de sus ganancias netas un importe adicional equivalente al cincuenta por ciento (50%) del previsto en el artículo 30, inciso a) de la Ley de Impuesto a las Ganancias.\n\nEl beneficio establecido en el presente inciso no resultará de aplicación para los sujetos comprendidos en los incisos a), b) y c) del artículo 82 de la Ley de Impuesto a las Ganancias;\n\nb) Para los sujetos a que se refiere el artículo 53 que revistan la condición de micro y pequeñas empresas. Podrán optar por practicar las respectivas amortizaciones a partir del período fiscal de habilitación del bien, de acuerdo con las normas generales de la Ley de Impuesto a las Ganancias, o conforme al régimen que se establece a continuación:.\n\ni) Para inversiones realizadas en bienes muebles amortizables adquiridos, elaborados o fabricados: como mínimo en dos (2) cuotas anuales, iguales y consecutivas.\n\nii) Para inversiones realizadas en bienes muebles amortizables importados: como mínimo en tres (3) cuotas anuales, iguales y consecutivas.\n\niii) Para inversiones en obras de infraestructura: como mínimo en la cantidad de cuotas anuales, iguales y consecutivas que surjan de considerar su vida útil reducida al cincuenta por ciento (50%) de la estimada.\n\nEste beneficio de amortización será aplicable únicamente para las inversiones efectivizadas hasta el 31 de diciembre de 2022 y, una vez hecha la opción por uno de los procedimientos de amortización señalados precedentemente, el mismo deberá ser comunicado a la autoridad de aplicación, en la forma, plazo y condiciones que las mismas establezcan y deberá aplicarse -sin excepción- a todas las inversiones de capital que se realicen para la ejecución de la nueva inversión directa, incluidas aquellas que se requieran durante su funcionamiento, pudiendo optar nuevamente en caso de que se modifique el régimen impositivo aplicable.\n\nAmbos beneficios se aplicarán en las declaraciones juradas correspondientes a los ejercicios finalizados con posterioridad al 30 de diciembre de 2021. En ningún caso, la deducción prevista dará lugar a la generación de saldos a favor ni podrá trasladarse a ejercicios futuros.\n\nLos referidos beneficios fiscales no resultan acumulativos, debiéndose, cuando corresponda, optarse por alguno.\n\nSe entenderá que un contribuyente reviste la condición de cumplidor cuando al momento de entrada en vigencia de la presente norma no registre incumplimientos en la presentación de declaraciones juradas, como tampoco, en el caso de corresponder, en el pago de las obligaciones tributarias desde los períodos fiscales iniciados a partir del 1° de enero del año 2018.\n\nLa Administración Federal de Ingresos Públicos podrá ampliar los beneficios hasta en una (1) vez en base a parámetros vinculados a la actividad desarrollada por las y los contribuyentes o cuestiones regionales, sectoriales o relacionadas a cuestiones de género."
+            },
+            {
+              "numero-articulo": 14,
+              "texto": "Art. 14.- Invítase a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a adherir a este régimen, adoptando en el ámbito de sus respectivas jurisdicciones medidas similares de alivio fiscal a las previstas en la presente ley, con relación a sus impuestos y tasas."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art. 15.- La presente ley comenzará a regir a partir del día de su publicación en el Boletín Oficial de la República Argentina."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art. 16.- Comuníquese al Poder Ejecutivo nacional."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "LEDESMA ABDALA DE ZAMORA-MASSA-Fuentes-Cergnul"
+          }
+        }
+      ],
+      "id-infojus": "LNS0007025"
+    }
+  }
+}

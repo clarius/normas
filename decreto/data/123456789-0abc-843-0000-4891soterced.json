@@ -1,0 +1,247 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-843-0000-4891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410988946418,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "348-nacional-regimen-prioridades-solicitudes-servicio-telefonico-dn19840000348-1984-01-25"
+      }
+    },
+    "content": {
+      "mecanografico": 19840000348,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 348,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1984-01-25",
+      "standard-normativo": "DEC C 000348 1984 01 25",
+      "titulo-norma": "REGIMEN DE PRIORIDADES DE LAS SOLICITUDES DE SERVICIO TELEFONICO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1984 01 30"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 10",
+          "id": "ABROGA A0",
+          "ref": "DEC C 001728 1979 07 19 0000 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "ART.3  SUSTITUIDO POR ART.1 BO  85-09-13",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 001747 1985 00 00 0000 000"
+          },
+          {
+            "cr": "ART. 9 SUSTITUIDO POR ART. 3",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 001747 1985 00 00 0000 000"
+          },
+          {
+            "cr": "BO  85-09-13",
+            "id": "OBSERVADO POR2",
+            "ref": "DEC C 000799 1984 03 13 0001 000"
+          },
+          {
+            "cr": "BO  85-09-13",
+            "id": "OBSERVADO POR3",
+            "ref": "DEC C 001747 1985 09 11 0002 000"
+          },
+          {
+            "cr": "BO  85-09-11",
+            "id": "OBSERVADO POR4",
+            "ref": "DEC C 001748 1985 09 11 0000 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 348/84",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2003-04-09",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE ESTABLECE UN NUEVO REGIMEN DE PRIORIDADES PARA LA ATENCION DE SOLICITUDES DE SERVICIO TELEFONICO."
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION    LAS  DISPOSICIONES  DEL  PRESENTE  DECRETO  SON EXTENDIDAS A TODOS  LOS  ENTES QUE PRESTAN SERVICIO TELEFONICO PUBLICO EN EL TERRITORIO DEL  PAIS,  CON  EXCEPCION DEL ART.  DEL  MISMO QUE REGIRA UNICAMENTE PARA LA EMPRESA  NACIONAL  DE TELECOMUNICACIONES  POR ART. 1 DEL DEC. 799/84 B.O.  84-03-13\n\nOBSERVACION  EL  MINISTERIO  DE  OBRAS  Y  SERVICIOS  PUBLICOS FIJARA LOS APORTES QUE DEBERAN ABONAR LAS PERSONAS  COMPRENDIDAS EN EL  ART 3 DEL PRESENTE DECRETO, SUSTITUIDO POR EL ART 1 DEL DEC. 1747/85  Y  DETERMINARA  LAS  CONDICIONES DE PAGO  DE  ACUERDO  CON  LAS  PAUTAS  EN EL DEC. 1748/85.\n\nOBSERVACION A TODOS LOS EFECTOS SE CONSIDERARAN  INCLUIDAS  EN EL  ART  3 DEL DEC. 348/84 SUSTITUIDO POR EL DEC. 1748/85, LAS PERSONAS  QUE  PUEDAN  ACCEDER  AL  SERVICIO  TELEFONICO  COMO CONSECUENCIA  DE VACANTES PRODUCIDAS POR MOVIMIENTOS NATURALES QUE SE PRODUZCAN EN LAS RESPECTIVAS CENTRALES."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Empresa Nacional de Telecomunicaciones"
+            },
+            "preferido": {
+              "termino": "ENTEL"
+            },
+            "sinonimos": {
+              "termino": "Empresa Nacional de Telecomunicaciones"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio telefónico"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicios de comunicación audiovisual/telecomunicaciones/servicio telefónico"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "telefonía",
+                "servicio de telecomunicaciones",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delegación de facultades"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/facultades de la administración/facultades reglamentarias/delegación de facultades a la Administración"
+            },
+            "sinonimos": {
+              "termino": [
+                "potestad reglamentaria",
+                "potestades administrativas",
+                "función pública",
+                "facultades de la administración pública",
+                "delegación de facultades"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "derecho de conexión"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicios de comunicación audiovisual/telecomunicaciones/servicio telefónico/derecho de conexión"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "telefonía",
+                "servicio de telecomunicaciones",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Empresa Nacional de Telecomunicaciones (ENTEL)",
+            "facultades de la administración pública (facultades de la administración)",
+            "potestades administrativas (facultades de la administración)",
+            "derecho de conexión",
+            "facultades de la administración",
+            "facultades reglamentarias",
+            "servicio de telecomunicaciones (telecomunicaciones)",
+            "delegación de facultades (delegación de facultades a la Administración)",
+            "función pública (Administración Pública)",
+            "delegación de facultades a la Administración",
+            "ENTEL",
+            "medios de difusión (Comunicaciones)",
+            "Administración Pública",
+            "telecomunicaciones",
+            "telefonía (servicio telefónico)",
+            "servicios de comunicación audiovisual",
+            "potestad reglamentaria (facultades reglamentarias)",
+            "servicio telefónico",
+            "medios de comunicación (Comunicaciones)",
+            "Derecho administrativo",
+            "Comunicaciones"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "el  expediente letra S.C. Nro. 16313 año 1983, relacionado con el actual  régimen de prioridades para la liberación de solicitudes de servicios telefónico y,"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "DEC C 001728 1979 07 19 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  el  elevado  número  de  solicitudes  de  servicio  telefónico pendiente  de  instalación  hace  necesario el mantenimiento de  un régimen de prioridades.\n\nQue  el  Decreto  1728 del 19 de julio  de  1979,  que  actualmente regula sobre la materia,  no  contempla las excepciones a aplicar a la  totalidad  de los poderes y personas  que  desempeñan  las  más altas funciones  tanto en el orden nacional como provincial, por lo que deberá modificarse  ajustándolo, entre otras consideraciones, a las necesidades surgidas  de  la  organización del Estado Nacional.\n\nQue asimismo corresponde determinar  la tasa diferencial a percibir cuando  se  proceda  al  otorgamiento  de  prioridades  especiales, condicionándola  a  la  excepcionalidad con que  se  suministre  el servicio.\n\nQue la medida propuesta se  encuentra  contemplada  dentro  de  las facultades    conferidas  por  el  artículo  86,  inciso  1  de  la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.-  Establécese  para  la  liberación  rutinaria  de las solicitudes  de servicio telefónico el siguiente orden de prioridad prevaleciendo  dentro  de  las  determinaciones  de  cada  grupo la antiguedad de las mismas:\n\nGrupo 1 - Cambios de domicilio.\n\nSerán considerados conforme al orden de prelación que establece  el presente artículo.\n\nPedidos  de  nuevos  servicios  con  una antiguedad mayor de VEINTE (20)  años;  a  tal  efecto  la reclasificación  se  hará  por  año calendario vencido.\n\nGrupo 2 - Hospitales, Sanatorios,  Clínicas  Médicas,  Laboratorios de  Análisis  Medicinales,  Farmacias,  Salas de Primeros Auxilios, Médicos,  Obstétricas,  Odontólogos,  Químicos    Biólogos.\n\nGrupo  3  - Establecimientos Industriales, Entidades Financieras en general,  Comercio    en    general,   Mutualidades,  Cooperativas, Servicios Públicos, Escuelas o Instituciones  Educativas  Privadas, Diarios,  Radiodifusoras y estudios profesionales en general.\n\nPasarán a integrar  también  este  orden  de prelación, los pedidos correspondientes  a los grupos 4 y 5 que acrediten  una  antiguedad mayor de DIEZ (10)  años;  a  tal efecto la reclasificación se hará por año calendario vencido.\n\nGrupo  4  -  Camaras  de  Comercio  y/o    Industria,  Asociaciones Profesionales,  Sindicatos,  Instituciones Sociales,  Deportivas  y Culturales.\n\nGrupo 5 - Casas de familia"
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  Deberá  acordarse prioridad natural a la instalación de  servicio  en  dependencias    de  la  Administración  Nacional, Provincial y Comunal, así como en las Sedes de las Representaciones  Diplomáticas  acreditadas    en   el  país.\n\nLa  provisión de servicios con la prioridad a que se  refiere  este artículo  sólo se considerará en caso de imposibilidad de proveerlo mediante  redistribución    o    transferencia   de  los  servicios telefónicos  disponibles  afectados a la entidad solicitante;  ello deberá ser certificado en cada  caso  por  los  funcionarios  que a continuación se indican:\n\na)  Para  las  dependencias  del  Poder  Ejecutivo Nacional; por el seÑor Ministro, señores Secretarios y Secretarios de la Presidencia de la Nación.\n\nb) Para las Fuerzas Armadas; por el Jefe del  Estado Mayor Conjunto y Jefes de los Estados Mayores de cada Fuerza.\n\nc)  Para  las  necesidades  del  Congreso  de  la Nación;  por  los Presidentes de las respectivas cámaras.\n\nd) Para el Poder Judicial; por los miembros de la  Corte Suprema de Justicia  de  la  Nación,  y  para los demás órganos o dependencias judiciales, por los jueves de las  Cámaras  de Apelaciones y jueces de Primera Instancia de cada fuero.\n\ne)  Pero los órganos descentralizados y empresas  del  Estado;  por los  funcionarios  que  ejercen  la  representación  legal  de  los mismos.\n\nf) Para  las  dependencias  de  la  Municipalidad  de  la Ciudad de Buenos Aires, por el Intendente Municipal, y por el Presidente  del Concejo  Deliberante  para las correspondientes a su propio cuerpo.\n\ng) Para la Policía Federal  Argentina;  por  el  Jefe de la Policía Federal.\n\nh) Para las representaciones diplomáticas, por el  titular  de  las mismas.\n\nEn  el  orden  provincial,  la  certificación respectiva deberá ser efectuada por los funcionarios que  ejerzan  análoga representación a  la  establecida  en  la  parte  pertinente  de  los  puntos  que preceden."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "*\n\nARTICULO  3.- Facúltase a la EMPRESA NACIONAL DE TELECOMUNICACIONES para suspender  el  orden de prioridad en favor de las personas que agrupadas  en  entes  jurídicos   o  individualmente  financien  la expansión del servicio telefónico\"."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.-  Quedan  excluídos  de este régimen de prioridad, los servicios públicos que forman parte  del  plan  de expansión de los servicios  de  la  Empresa  y los servicios especiales,  como  ser:\n\nTélex, Líneas Directas Telefónicas,  Telegráficas, de Radiodifusión y de Discado Directo Internacional, quedando  facultada  la EMPRESA NACIONAL  DE  TELECOMUNICACIONES  para determinar el orden con  que debe ser atendida su habilitación."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  La  EMPRESA  NACIONAL  DE  TELECOMUNCIACIONES  podrá acordar  eventualmente  prioridad,  con respecto a las establecidas por los artículos 1 y 2, para instalaciones  a solicitantes que por su  envergadura  e  importancia  en  sus  respectivas    áreas   de influencia,    concurran   con  su  actividad  al  desenvolvimiento económico de la Nación o que  estén vinculados a la salud pública o al  progreso cultural de la comundiad,  entendiéndose  como  tales, entre otros, los siguientes:\n\nEstablecimientos Industriales y Comerciales.\n\nEmpresas de Servicios Públicos.\n\nInstituciones Bancarias y Financieras.\n\nHospitales.\n\nSanatorios.\n\nSalas de Primeros Auxilios.\n\nConsultorios Médicos.\n\nInstitutos  de Enseñanza Privada, Asilos, Hogares de Ancianos.\n\nInternados.\n\nBibliotecas.\n\nOrganizaciones    Periodísticas,    Radiodifusoras  y  Televisivas."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO    6.-  El  Secretario  de  Comunicaciones  podrá  acordar eventualmente   prioridad,  supeditándola  a  las  disponibilidades técnicas existentes, para el libramiento de solicitudes registradas  a  nombre   de  los  señores  Ministros,  Secretarios, Subsecretarios, Jefe del  Estado  Mayor  Conjunto  de  las  Fuerzas Armadas,  Jefes de los Estados Mayores de cada Fuerza, Legisladores Nacionales,    Secretarios  Generales  de  la  Presidencia  de  las Honorables Cámaras  de  Diputados  y  de  Senadores  de  la Nación, Secretarios  y Prosecretarios de las mismas, Ministros de la  Corte Suprema de Justicia  de la Nación, Procurador General de la Nación, Jueces de las Cámaras  de Apelaciones y Jueces de Primera Instancia de cada fuero, Gobernadores,  Jefe  de la Policía Federal, así como también a las solicitudes para los funcionarios  de primer nivel de la  Administración  nacional, Provincial y Comunal,  cuando  medien razones  de  servicio  y   el  respectivo  requerimiento  se  halle refrenado por los funcionarios  a  que se refiere el artículo 2 del presente."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "La asignación o reconocimiento de otras prioridades no contempladas    en    las  disposiciones  anteriores,  deberán  ser expresamente autorizadas  y  sólo  excepcionalmente,  por  el señor Secretario de Comunicaciones."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.- Las prioridades a que se refiere el artículo 6, serán de aplicación  solamente  para una línea telefónica en el domicilio particular y siempre que la  respectiva  solicitud  de provisión de servicio  se  encuentre  registrada a nombre de las personas  cuyas niveles jerárquicos se especifican."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "*\n\nARTICULO  9.-  \"Los  beneficiarios  de  las  prioridades  a  que se refieren  los  artículo  5,  6  y  7 del presente decreto abonarán, según su categoría, el cargo de instalación  que fije el MINISTERIO DE OBRAS Y SERVICIOS PUBLICOS\"."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "ARTICULO  10.-  Derógase  el  Decreto  Nro. 1728 del 19 de Julio de 1979."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "ARTICULO 11.- Facúltase a la EMPRESA NACIONAL DE TELECOMUNICACIONES    a    librar  las  solicitudes  pendientes  en trramite, de acuerdo a las dipsociciones  que  se  derogan  por  el presente,  debiendo  proceder  a  la  aplicación  de las normas que establece  este decreto a medida que se actualicen y  reclasifiquen sus registros."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "ARTICULO    12.-  Comuníquese,  publíquese,  dése  a  la  Dirección nacional del Registro Oficial y archívese"
+        }
+      ],
+      "firmantes": {
+        "firmantes": "ALFONSIN - CARRANZA"
+      },
+      "id-infojus": "DN19840000348"
+    }
+  }
+}

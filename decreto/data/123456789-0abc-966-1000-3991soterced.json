@@ -1,0 +1,842 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-966-1000-3991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990452430,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1669-nacional-reforma-estado-sistema-nacional-profesion-administrativa-dn19930001669-1993-08-09"
+      }
+    },
+    "content": {
+      "mecanografico": 19930001669,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1669,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1993-08-09",
+      "standard-normativo": "DEC C 001669 1993 08 09",
+      "titulo-norma": "REFORMA DEL ESTADO. SISTEMA NACIONAL DE LA PROFESION ADMINISTRATIVA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1993 08 13"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.669/1993",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2011-08-16",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE ESTABLECEN NORMAS PARA LA MODERNIZACION DEL ESTADO, SELECCION E INGRESO DEL PERSONAL, MEJORAMIENTO DE LA ORGANIZACION ADMINISTRATIVA DEL ESTADO, PRODUCTIVIDAD, ATENCION AL PUBLICO Y EVALUACION DE DESEMPEÑO.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A REQUISITOS PARA PROMOVER DE GRADO",
+            "B UNIDADES RETRIBUTIVAS POR NIVEL Y GRADO"
+          ]
+        },
+        "observaciones-generales": "OBSERVACION: Por arts. 9 y 10 del Dec. 846/93 se determina que el suplemento diferencial y suplementos enunciados en el art. 59 del Dec. 993/91 deberán ser aplicados en la liquidación de remuneraciones del personal comprendido en el presente."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "reforma del Estado"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Administración Pública Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/Administración Pública Nacional"
+            },
+            "sinonimos": {
+              "termino": "función pública"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Consejo asesor para la modernización del Estado"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/modernización del Estado/Consejo asesor para la modernización del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "plan nacional de modernización del Estado",
+                "derecho económico financiero",
+                "plan nacional de modernización de la administración pública",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal del sector público"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concurso de antecedentes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/concurso de cargos/concurso de antecedentes y oposición/concurso de antecedentes"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "función pública",
+                "evaluación de antecedentes"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "nombramiento"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/nombramiento"
+            },
+            "sinonimos": {
+              "termino": [
+                "nombramiento de funcionarios",
+                "nombramiento de empleados públicos",
+                "nombramiento de funcionarios públicos",
+                "relación de empleo público",
+                "función pública",
+                "designación de funcionarios",
+                "designación",
+                "designación de personal",
+                "designación de funcionarios públicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal adscripto"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal de planta permanente/personal adscripto"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "personal permanente",
+                "adscripción de personal",
+                "relación de empleo público",
+                "personal efectivo",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cobertura de vacantes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/cargos vacantes/cobertura de vacantes"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal jerárquico"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/trabajador/personal jerárquico"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "cargos directivos",
+                "asalariados",
+                "empleado",
+                "personal directivo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Nacional de la Profesión Administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/derechos de los agentes de la administración pública/carrera administrativa/escalafón/SINAPA"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "derechos del empleado público",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "Sistema Nacional de la Profesión Administrativa",
+                "derechos del funcionario público",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "adicional por productividad"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración/remuneraciones accesorias/gratificaciones/premio por producción"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "adicional por producción",
+                "adicional por productividad",
+                "sueldo",
+                "premios",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "política económica"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Premio Nacional a la Calidad"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/otorgamiento de premios/Premio Nacional a la Calidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Centro de Atención Telefónica al Usuario"
+            },
+            "preferido": {
+              "termino": "Centro de Atención Telefónica al Usuario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "banco de datos"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/banco de datos"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "base de datos",
+                "informática"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concurso de cargos",
+            "Premio Nacional a la Calidad",
+            "SINAPA",
+            "concurso de antecedentes",
+            "agentes de la administración pública",
+            "informática (tecnología de la información)",
+            "Derecho informático",
+            "política cultural",
+            "personal del sector público (agentes de la administración pública)",
+            "asalariados (trabajador)",
+            "derechos del empleado público (derechos de los agentes de la administración pública)",
+            "política económica",
+            "plan nacional de modernización del Estado (modernización del Estado)",
+            "modernización del Estado",
+            "situaciones de revista",
+            "premio por producción",
+            "tecnología de la información",
+            "personal permanente (personal de planta permanente)",
+            "remuneración",
+            "relación de empleo público (empleo público)",
+            "funcionarios y empleados públicos (agentes de la administración pública)",
+            "Economía y finanzas",
+            "Derecho administrativo",
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
+            "derecho financiero (Economía y finanzas)",
+            "Educación y Cultura (Cultura y educación)",
+            "designación de personal (nombramiento)",
+            "trabajador",
+            "derecho económico financiero (Economía y finanzas)",
+            "designación de funcionarios públicos (nombramiento)",
+            "nombramiento",
+            "designación de funcionarios (nombramiento)",
+            "derechos del funcionario público (derechos de los agentes de la administración pública)",
+            "Consejo asesor para la modernización del Estado",
+            "Administración Pública",
+            "personal efectivo (personal de planta permanente)",
+            "derechos de los agentes de la administración pública",
+            "nombramiento de empleados públicos (nombramiento)",
+            "personal directivo (personal jerárquico)",
+            "Centro de Atención Telefónica al Usuario",
+            "cargos directivos (personal jerárquico)",
+            "TIC (tecnología de la información)",
+            "cultura",
+            "sueldo (remuneración)",
+            "concurso de antecedentes y oposición",
+            "adicional por producción (premio por producción)",
+            "ingreso a la función pública",
+            "plan nacional de modernización de la administración pública (modernización del Estado)",
+            "nombramiento de funcionarios (nombramiento)",
+            "Cultura y educación",
+            "Sistema Nacional de la Profesión Administrativa (SINAPA)",
+            "reforma del Estado",
+            "personal adscripto",
+            "cargos vacantes",
+            "Administración Pública Nacional",
+            "política científica (política cultural)",
+            "agentes de la Administración (agentes de la administración pública)",
+            "contrato laboral (contrato de trabajo)",
+            "sujetos del contrato de trabajo",
+            "premios (gratificaciones)",
+            "cobertura de vacantes",
+            "personal del Estado (agentes de la administración pública)",
+            "designación (nombramiento)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "salario (remuneración)",
+            "gratificaciones",
+            "empleado (trabajador)",
+            "evaluación de antecedentes (concurso de antecedentes)",
+            "personal de planta permanente",
+            "función pública (Administración Pública)",
+            "adscripción de personal (personal adscripto)",
+            "política tecnológica (política cultural)",
+            "carrera administrativa",
+            "nombramiento de funcionarios públicos (nombramiento)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "personal jerárquico",
+            "agentes públicos (agentes de la administración pública)",
+            "adicional por productividad (premio por producción)",
+            "Derecho laboral",
+            "banco de datos",
+            "retribución (remuneración)",
+            "empleo público",
+            "base de datos (banco de datos)",
+            "escalafón",
+            "remuneraciones accesorias",
+            "contrato de trabajo en general",
+            "otorgamiento de premios"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022140 1980 01 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 001797 1980 09 01 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 001102 1981 08 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 024127 1992 08 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 001482 1990 08 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DNU C 001757 1990 09 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DEC C 002476 1991 11 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "TOD C 000993 1991 05 27 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DEC C 000647 1991 04 12 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "la Ley N. 22.140 y el Decreto N. 1.797 del 1 de setiembre de 1980 que aprueba su reglamentación; el Decreto N. 1.102 del 26 de agosto de 1981; la Ley N. 24.127; los Decretos N. 1.482 del 2 de agosto de 1990, N. 1.757 del 5  de  setiembre  de  1990, N. 2.476  del  26  de noviembre de 1991, N. 993 del 27 de mayo de 1991  y concordantes, N. 647 del 12 de abril de 1991, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "CON C 000000 1853 05 01 0016 000 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  corresponde  poner en marcha una nueva fase de la REFORMA DEL  ESTADO  para  fortalecer  la  capacidad  efectiva  del  SECTOR PUBLICO NACIONAL en el cumplimiento de sus funciones de orientación, conducción y  promoción  del  desarrollo  económico y social,  materializando  el  objetivo de una democracia humanizada.\n\nQue en este sentido, el Estado  deberá  acentuar  y  combinar  sus dimensiones éticas con una gerencia moderna y un desempeño eficaz.\n\nQue  para  ello  se  hace  necesario  convocar  y  contar  con  la colaboración  de  todos  los  sectores directamente involucrados en esta  problemática,  de modo que  la  Reforma  del  Estado  sea  el resultado de la participación de los diversos actores representativos de la  sociedad y expresión de la opinión nacional.\n\nQue  la Constitución Nacional,  en  su  Artículo  16,  plantea  la idoneidad  como requisito esencial para la admisión en los empleos, resultando  particularmente   importante  en  el  caso  del  empleo público  en razón de la estabilidad  prevista  para  el  mismo.\n\nQue sería  deseable  la  instrumentación  de sistemas de selección acorden con dicho principio constitucional en todas las administraciones públicas del país.\n\nQue la aplicación progresiva del SISTEMA NACIONAL  DE LA PROFESION ADMINISTRATIVA ha posibilitado una política de modernización  de la gestión  de los Recursos Humanos, razón por la cual es conveniente aplicar  en  forma   supletoria  los  procedimientos  de  selección previstos en dicho sistema,  para  las  situaciones  en  las que no estén establecidos procedimientos equivalentes para el ingreso  del personal permanente.\n\nQue  es  imprescindible  contar  en  un  plazo  perentorio con los funcionarios que deben ejercer los cargos con funciones ejecutivas, con el fin de optimizar la gestión del  Estado  en  las áreas involucradas.\n\nQue  es pertinente ajustar los procedimientos de convocatoria para la cobertura  de vacantes y uniformar el procedimiento de selección para todos los cargos con funciones ejecutivas.\n\nQue  se  impone    limitar    las  modificaciones  de  estructuras organizativas para consolidar el  esfuerzo  realizado en materia de racionalización administrativa.\n\nQue la experiencia adquirida en la puesta en  marcha  del  SISTEMA NACIONAL  DE LA PROFESION ADMINISTRATIVA ha demostrado la necesidad de  redefinir   y  ampliar  la  reglamentación  de  los  mecanismos incluidos en el  sistema y de fortalecer las unidades a cargo de la administración de  los  Recursos  Humanos, sin incrementar para tal fin los recursos ya asignados a las jurisdicciones.\n\nQue  es  aconsejable compensar a los  agentes  encuadrados  en  el Nivel C y D del  SISTEMA  NACIONAL  DE LA PROFESION ADMINISTRATIVA que  ejercen  la jefatura de unidades integradas  por  personal  de hasta su mismo nivel escalafonario.\n\nQue  el  mejor  planeamiento   de  las  estructuras  organizativas requiere la realización de adecuadas  descripciones  de los puestos de trabajo.\n\nQue la reforma del Estado debe avanzar en terrenos tales  como  el mejoramiento  de  la  productividad, la calidad de gestión en todos los  organismos  del sector  estatal  y  la  atención  al  público, incentivando los esfuerzos  del  personal  en  tales sentidos.\n\nQue  en virtud de las responsabilidades inherentes  a  las  tareas que ejercen los  funcionarios  con  funciones  ejecutivas de nivel superior,  es  conveniente  extremar  las  características   de  la evaluación  del desempeño, del procedimiento de selección de dichos cuadros y de  la conveniente renovación de las funciones ejercidas.\n\nQue para la adecuada  planificación  de  la carrera de los agentes comprendidos en el SISTEMA NACIONAL DE LA PROFESION ADMINISTRATIVA, es conveniente la apertura  de  grados en todos los niveles  previstos,  y  el  ajuste de los requisitos  de  promoción pertinentes.\n\nQue la COMISION TECNICA ASESORA  DE  POLITICA  SALARIAL DEL SECTOR PUBLICO, el COMITE EJECUTIVO DE CONTRALOR DE LA REFORMA ADMINISTRATIVA  y  la  COMISION PERMANENTE DE CARRERA  del  SISTEMA NACIONAL DE LA PROFESION  ADMINISTRATIVA han tomado la intervención que les compete.\n\nQue la presente se dicta en  uso  de las facultades conferidas por el  artículo  86,  incisos  1)  y 2) de la  Constitución  Nacional."
+      },
+      "segmento": [
+        {
+          "titulo-particion": "CAPITULO I MODERNIZACION DEL ESTADO",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "Art.  1:  Créase  el  CONSEJO ASESOR PARA LA MODERNIZACION DEL ESTADO (El CONSEJO), con el  objeto  de asesorar al PODER EJECUTIVO NACIONAL en la nueva etapa de la Reforma del Estado."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "Art. 2: El CONSEJO tendrá por funciones:\n\na)    Promover    los  estudios  necesarios  para  determinar  los lineamientos,  políticas    y   recomendaciones  conducentes  a  la concreción  de  la  nueva etapa de  la  Reforma  del  Estado.  b) Proponer al PODER  EJECUTIVO  NACIONAL  las  medidas que estime oportuno  y conveniente para asegurar la eficacia y  eficiencia  de los organismos del Estado."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "Art.  3:  El  CONSEJO  estará  presidido  por  el MINISTRO DEL INTERIOR  e integrado por representantes empresariales,  gremiales, sociales,  académicos,    funcionarios  nacionales  y  provinciales designados por el PRESIDENTE  DE  LA  NACION.  Estas  designaciones tendrán carácter de \"ad honorem\"."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art. 4: El CONSEJO tendrá una Secretaría Ejecutiva ejercida por el SECRETARIO  DE  LA  FUNCION PUBLICA del MINISTERIO DEL INTERIOR."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "Art.  5:  El  CONSEJO  dictará  su  Reglamento Interno y podrá constituir las comisiones que estime necesarias  para  el  logro de su objeto."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art.  6:  Los organismos de la Administración Pública Nacional centralizada y descentralizada  colaborarán  con  lo  que  les  sea requerido  por  las  autoridades de EL CONSEJO para el cumplimiento de sus responsabilidades."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art. 7: El CONSEJO elevará al PODER EJECUTIVO NACIONAL informes periódicos acerca del avance de sus tareas."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO II SELECCION E INGRESO DEL PERSONAL",
+          "articulo": [
+            {
+              "numero-articulo": 8,
+              "texto": "Art.  8:  Establécese  que  el  ingreso a los cargos de planta permanente  de la ADMINISTRACION PUBLICA  NACIONAL,  tratándose  de regímenes de  contenido escalafonario aprobados por decreto deberá, sin  excepción,    efectuarse   mediante  concurso  o  sistemas  de selección.\n\nLa Secretaría de la Función Pública  del  Ministerio  del Interior es el órgano competente para arbitrar los medios que garanticen  el estricto  cumplimiento de este artículo en todas las jurisdicciones de la Administración Pública Nacional centralizada y descentralizada."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art.  9:  Invítase a los Estados Provinciales, en la medida en que ello resulte  procedente, a aplicar instrumentos similares para el ingreso a sus respectivas Administraciones."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "Art. 10: El MINISTERIO DEL INTERIOR elevará al PODER EJECUTIVO NACIONAL,  en  el  plazo  de  TREINTA (30) días, un proyecto de Ley para su envío a consideración del  HONORABLE CONGRESO DE LA NACION, por el cual lo establecido en el Artículo  8  de  la presente norma será  de  aplicación  en  todas  las entidades y organismos  de  la Administración Pública Nacional, cualquiera  sea  la  normativa que regule el ingreso de personal."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "TOD C 000993 1991 05 27 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 11,
+              "texto": "Art. 11: Cuando las normas que regulan los distintos estatutos o escalafones  del  Personal de la Administración Pública Nacional, centralizada  o  descentralizada,    no  contemplen  procedimientos específicos de  concurso  o  selección para  la  incorporación  de recursos humanos, será de aplicación  subsidiaria el régimen fijado por el Título III del SISTEMA NACIONAL DE LA PROFESION ADMINISTRATIVA aprobado por Decreto N. 993/91."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 001102 1981 08 26 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 12,
+              "texto": "Art.  12:  Otórgase  plazo hasta el 31 de agosto de 1993, para efectuar  la  convocatoria para  la  selección  de  postulantes  al ejercicio  de  Cargos    con  Funciones  Ejecutivas  en  todas  las jurisdicciones en la que rija  el  SISTEMA NACIONAL DE LA PROFESION ADMINISTRATIVA. Si vencido dicho término  no  se hubiesen efectuado las respectivas convocatorias, las partidas asignadas  para el pago de  tales  funciones  y  las  respectivas  vacantes  de estructura, quedarán automáticamente congeladas.\n\nA  partir  de  la  fecha  mencionada,  quedarán  limitados en  sus funciones  todos  los  Directores  Nacionales o Generales  en  cuya unidad no esté convocada la mencionada  selección.  De  verificarse las  limitaciones aludidas en el párrafo anterior, no resultará  de aplicación,  respecto  del cargo involucrado, las disposiciones del Régimen de Reemplazos aprobado  por  el  Decreto N.1102 de fecha 26 de agosto de 1981.\n\nUna  vez  incorporada una función en el Nomenclador  de  Funciones Ejecutivas, el  proceso  de  selección  deberá ser convocado en un plazo  perentorio  de SESENTA (60) días contados  a  partir  de  la fecha de publicación  del  acto  respectivo.  En  caso contrario se producirán las consecuencias establecidas en el presente  artículo.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 19-01-1994). SE EXCEPTUA A LA SECRETARIA DE RECURSOS NATURALES Y AMBIENTE HUMANO DE LO ESTABLECIDO EN EL PRESENTE POR EL TERMINO DE 180 DIAS A PARTIR DEL 30/12/1993",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 002786 1993 12 30 0003 000 0000 000"
+                }
+              }
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "TOD C 000993 1991 05 27 0018 000 0000 000  A"
+                }
+              },
+              "numero-articulo": 13,
+              "texto": "*Art.  13.- Nota de redacción: Sustitúyese el Artículo 18 del Anexo I al Dec. 993/91, modificado por el Dec. 2.807/92.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. sustituido (B.O. 24-05-1994).",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000769 1994 05 12 0003 000 0000 000"
+                }
+              }
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "TOD C 000993 1991 05 27 0032 000 0000 000  A"
+                }
+              },
+              "numero-articulo": 14,
+              "texto": "Art.  14:  Nota  de redacción: Sustitúyese el Artículo 32 del Anexo  I  al  Decreto N. 993/91,  texto  según Decreto  N. 2.807/92."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO III MEJORAMIENTO DE LA ORGANIZACION ADMINISTRATIVA DEL ESTADO",
+          "articulo": [
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. derogado (B.O. 24-05-1994).",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 001545 1994 08 31 0024 000 0000 000"
+                }
+              },
+              "numero-articulo": 15,
+              "texto": "* Art. 15: (Nota de redacción) Derogado por art. 24 del Decreto N. 1545/1994."
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. derogado (B.O. 24-05-1994).",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 001545 1994 08 31 0024 000 0000 000"
+                }
+              },
+              "numero-articulo": 16,
+              "texto": "* Art. 16: (Nota de redacción) Derogado por art. 24 del Decreto N. 1545/1994."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "DEC C 002807 1992 12 29 0005 000 0000 000"
+                }
+              },
+              "numero-articulo": 17,
+              "texto": "Art.  17:  Nota  de  redacción:  Sustitúyese el Artículo 5 el Decreto N. 2.807/92."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "TOD C 000993 1991 05 27 0065 002 0000 000  A"
+                }
+              },
+              "numero-articulo": 18,
+              "texto": "Art.  18:  Nota de redacción: Incorpórase art. 65 bis al Anexo I al Decreto N. 993/91."
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. derogado (B.O. 24-05-1994).",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 001545 1994 08 31 0024 000 0000 000"
+                }
+              },
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "DEC C 001482 1990 08 02 0002 000 0000 000  A"
+                }
+              },
+              "numero-articulo": 19,
+              "texto": "* Art. 19: (Nota de redacción) Derogado por art. 24 del Decreto N. 1545/1994."
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. derogado (B.O. 24-05-1994).",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 001545 1994 08 31 0024 000 0000 000"
+                }
+              },
+              "numero-articulo": 20,
+              "texto": "* Art. 20: (Nota de redacción) Derogado por art. 24 del Decreto N. 1545/1994."
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. derogado (B.O. 24-05-1994).",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 001545 1994 08 31 0024 000 0000 000"
+                }
+              },
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "DEC C 001482 1990 08 02 0004 000 0000 000  A"
+                }
+              },
+              "numero-articulo": 21,
+              "texto": "* Art. 21: (Nota de redacción) Derogado por art. 24 del Decreto N. 1545/1994."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "TOD C 000993 1991 05 27 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "DEC C 001482 1990 08 02 0000 000 0000 000"
+                  }
+                ]
+              },
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. derogado (B.O. 24-05-1994).",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 001545 1994 08 31 0024 000 0000 000"
+                }
+              },
+              "numero-articulo": 22,
+              "texto": "* Art. 22: (Nota de redacción) Derogado por art. 24 del Decreto N. 1545/1994."
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "Art. derogado (B.O. 24-05-1994).",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 001545 1994 08 31 0024 000 0000 000"
+                }
+              },
+              "numero-articulo": 23,
+              "texto": "* Art. 23: (Nota de redacción) Derogado por art. 24 del Decreto N. 1545/1994."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IV PRODUCTIVIDAD, ATENCION AL PUBLICO Y EVALUACION DE DESEMPEÑO.",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 024127 1992 08 26 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 24,
+              "texto": "Art. 24: La SECRETARIA DE LA FUNCION PUBLICA del MINISTERIO DEL INTERIOR  en  tanto Autoridad de Aplicación del \"PREMIO NACIONAL DE CALIDAD\",  Ley  N. 24.127,   prestará   asistencia  técnica  a  los organismos  de  la  Administración Pública  que  participen  en  el mismo.\n\nAsí  también  promoverá   por  sí  o  a  través  de  terceros,  la generación, divulgación y aplicación  de conocimientos, tecnologías y experiencias en materia de calidad, productividad  y  calidad  de vida  en el trabajo en organizaciones públicas, con el propósito de impulsarlas  a  ser  autosuficientes  en  materia  de  procesos  de mejoramiento.  A tal efecto facúltase a la SECRETARIA DE LA FUNCION PUBLICA DEL MINISTERIO  DEL  INTERIOR  a  establecer un registro de firmas consultoras en la materia."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "TOD C 000993 1991 05 27 0067 000 0000 000"
+                }
+              },
+              "numero-articulo": 25,
+              "texto": "Art.  25: Créase el REGIMEN DE MEJORA DE LA PRODUCTIVIDAD para unidades organizativas  comprendidas  en  el SISTEMA NACIONAL DE LA PROFESION  ADMINISTRATIVA,  de  acuerdo  con los  lineamientos  del artículo 67 del Decreto N. 993/91."
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "Art.  26: Las unidades organizativas que opten incorporarse al régimen  establecido    en   el  artículo  anterior,  elevarán  una propuesta de mejoramiento que  redunde  en  una mayor economicidad, eficiencia,  eficacia,  y/o  productividad  de los  recursos  a  su disposición.  Esta  propuesta,  cuyos  resultados    deberán  estar intrínsecamente  referidos  a  las responsabilidades primarias  y/o actividades de la unidad, no podrá  requerir otros recursos que los asignados de manera ordinaria y corriente a la misma."
+            },
+            {
+              "numero-articulo": 27,
+              "texto": "Art. 27: La SECRETARIA DE HACIENDA del MINISTERIO DE ECONOMIA Y OBRAS  Y  SERVICIOS  PUBLICOS y la SECRETARIA DE LA FUNCION PUBLICA del MINISTERIO DEL INTERIOR  conformarán  un Comité de Evaluación y reglamentarán conjuntamente la aplicación del  Régimen  establecido en  el  Artículo 26 del presente. Se incorporará a dicho Comité  un representante  de  la  UNION  DEL  PERSONAL  CIVIL  DE  LA  NACION."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "Art. 28: Créase el Centro de Atención Telefónica al Usuario en el ámbito  de  la  SECRETARIA  DE LA FUNCION PUBLICA del MINISTERIO DEL INTERIOR."
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "Art. 29: La SECRETARIA DE LA FUNCION PUBLICA del MINISTERIO DEL INTERIOR  implementará  todas  las  medidas  tendientes  a poner en funcionamiento  el  referido Centro en un plazo no mayor de  CIENTO VEINTE  (120)  días,  a  partir  de  la  obtención  de  las  líneas telefónicas."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "Art. 30: El Centro de Atención Telefónica al Usuario dispondrá de una  base  de  datos  de  los  trámites  que se efectúan ante la Administración  Pública  Nacional  con  el  objeto    de    prestar información que  facilite la gestión del usuario. El citado Centro no recibirá ni procesará quejas o reclamos."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "Art.  31:  Los  organismos  pertenecientes a la Administración Pública  Nacional  Central y Descentralizada  estarán  obligados a comunicar en forma fehaciente  al  Centro de Atención Telefónica al Usuario todos los cambios referentes  a  los trámites que se llevan a  cabo dentro de su ámbito, en un plazo perentorio  de  DIEZ  (10) días  anteriores  a  su  entrada  en vigencia. En caso contrario no podrán hacerlos exigibles a los usuarios."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "DEC C 002807 1992 12 29 0009 000 0000 000"
+                }
+              },
+              "numero-articulo": 32,
+              "texto": "Art.  32:  Nota  de  redacción: Sustitúyese el Artículo 9 del Decreto N. 2.807/92."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "DEC C 001797 1980 09 01 0016 000 0000 000"
+                }
+              },
+              "numero-articulo": 33,
+              "texto": "Art.  33:  Nota  de redacción: Sustitúyese el Artículo 16 del Reglamento  del  Régimen Jurídico  Básico  de  la  Función  Pública aprobado por Decreto 1.797/80."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "TOD C 000993 1991 05 27 0051 000 0000 000  A"
+                }
+              },
+              "numero-articulo": 34,
+              "texto": "Art.  34:  Nota  de redacción: Sustitúyese el Artículo 51 del Anexo I al Decreto N. 993/91."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "TOD C 000993 1991 05 27 0060 000 0000 000  A"
+                }
+              },
+              "numero-articulo": 35,
+              "texto": "Art.  35:  Sustitúyese  el  Anexo  2 al SISTEMA NACIONAL DE LA PROFESION ADMINISTRATIVA, Unidades Retributivas  por Nivel y Grado, aprobado  por  el  Artículo 60 del Anexo I del Decreto  N. 993/91 y modificatorios, por  el que como Anexo 2 forma parte integrante del presente. Los grados correspondientes  a cada uno de los niveles de los agrupamientos definidos en los Artículos  10  y  12 del Anexo I del  Decreto N. 993/91 son los que se establecen en el Anexo  2  al presente decreto."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "TOD C 000993 1991 05 27 0060 000 0000 000  A"
+                }
+              },
+              "numero-articulo": 36,
+              "texto": "Art.  36:  Sustitúyese el Anexo 1, Requisitos para Promover de Grado, aprobado por el Artículo 60 del Anexo I al Decreto N. 993/91 y modificatorios por el  que  como  Anexo 1, forma parte integrante del presente."
+            },
+            {
+              "numero-articulo": 37,
+              "texto": "Art. 37: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "MENEM-CAVALLO-BELIZ"
+          }
+        }
+      ],
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I REQUISITOS PARA PROMOVER DE GRADO",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO 1",
+            "texto": "Art.  1:  REQUISITOS  PARA  PROMOVER  DE  GRADO  - NO GRABABLE."
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO II UNIDADES RETRIBUTIVAS POR NIVEL Y GRADO",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO 2",
+            "texto": "Art.  1: UNIDADES RETRIBUTIVAS POR NIVEL Y GRADO - NO GRABABLE."
+          }
+        }
+      ],
+      "id-infojus": "DN19930001669"
+    }
+  }
+}

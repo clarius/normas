@@ -1,0 +1,940 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-241-1000-5102soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1688127476709,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1142-nacional-reglamentacion-regimen-campanas-electorales-dn20150001142-2015-06-17"
+      }
+    },
+    "content": {
+      "mecanografico": 20150001142,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1142,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2015-06-17",
+      "standard-normativo": "DEC C 001142 2015 06 17",
+      "titulo-norma": "Reglamentación del Régimen de Campañas Electorales",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2015 06 18"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.142/2015",
+      "analista": "Rocca, Adriana",
+      "enciclopedia": {
+        "texto": "Integridad y Transparencia"
+      },
+      "estado": "Vigente, de alcance general",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2023-06-30",
+      "fecha-mod": "2023-06-30",
+      "timestamp": "2023-06-30T09:10:38",
+      "timestamp-alta": "2023-06-30T09:10:38",
+      "timestamp-m": "2023-06-30T09:10:38",
+      "generalidades": {
+        "sintesis": "Se reglamenta el Régimen de Campañas Electorales.",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 41"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "elecciones"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/derecho electoral/elecciones"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "actos de alcance general",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios de comunicación audiovisual"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicios de comunicación audiovisual"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "campaña electoral"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/partidos políticos/campaña electoral"
+            },
+            "sinonimos": {
+              "termino": [
+                "proselitismo político",
+                "campaña política"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "elecciones primarias abiertas simultáneas y obligatorias"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/derecho electoral/elecciones/elecciones primarias/primarias abiertas/elecciones primarias abiertas simultáneas y obligatorias"
+            },
+            "sinonimos": {
+              "termino": "PASO"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transparencia electoral"
+            },
+            "preferido": {
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia electoral"
+            },
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "representación política"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/derecho electoral/cargos electivos/representación política"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "partidos políticos"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/partidos políticos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "LEY ORGÁNICA DE LOS PARTIDOS POLÍTICOS"
+            },
+            "preferido": {
+              "termino": "LEY ORGÁNICA DE LOS PARTIDOS POLÍTICOS"
+            },
+            "sinonimos": {
+              "termino": "LEY DE DEMOCRATIZACIÓN DE LA REPRESENTACIÓN POLÍTICA, LA TRANSPARENCIA Y LA EQUIDAD ELECTORAL"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agrupación política"
+            },
+            "preferido": {
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia electoral/representación política/agrupación política"
+            },
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personería política"
+            },
+            "preferido": {
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia electoral/representación política/personería política"
+            },
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "personería jurídico-política",
+                "politicas públicas transversales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "caducidad de la personalidad política"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/partidos políticos/personalidad política/caducidad de la personalidad política"
+            },
+            "sinonimos": {
+              "termino": [
+                "caducidad de la personería jurídica del partido",
+                "personalidad jurídico política"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "afiliación partidaria"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/partidos políticos/afiliación partidaria"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "elección de autoridades partidarias"
+            },
+            "preferido": {
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia electoral/partidos políticos/autoridades partidarias/elección de autoridades partidarias"
+            },
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cámara nacional electoral"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia/Cámara de Apelaciones/cámara electoral"
+            },
+            "sinonimos": {
+              "termino": [
+                "organización del Poder Judicial",
+                "cámara nacional electoral",
+                "organización judicial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "oficialización de listas"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/derecho electoral/cargos electivos/candidatos/lista de candidatos/oficialización de listas"
+            },
+            "sinonimos": {
+              "termino": "candidato electoral"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "paridad de género"
+            },
+            "preferido": {
+              "termino": "Derechos humanos/derechos de la mujer/igualdad de género"
+            },
+            "sinonimos": {
+              "termino": [
+                "derechos fundamentales",
+                "paridad de género",
+                "derechos humanos de la mujer"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "espacios de publicidad electoral"
+            },
+            "preferido": {
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia electoral/elecciones/espacios de publicidad electoral"
+            },
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "control patrimonial de los partidos políticos"
+            },
+            "preferido": {
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia electoral/partidos políticos/financiamiento de los partidos políticos/control patrimonial de los partidos políticos"
+            },
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "CÓDIGO ELECTORAL NACIONAL"
+            },
+            "preferido": {
+              "termino": "CÓDIGO ELECTORAL NACIONAL"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "LEY ORGÁNICA DE LOS PARTIDOS POLÍTICOS",
+            "agrupación política",
+            "reglamento de ejecución (decreto reglamentario)",
+            "paridad de género (igualdad de género)",
+            "organización judicial (organización de la justicia)",
+            "elecciones",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "financiamiento de los partidos políticos",
+            "PASO (elecciones primarias abiertas simultáneas y obligatorias)",
+            "personería jurídico-política (personería política)",
+            "fortalecimiento de las instituciones",
+            "caducidad de la personería jurídica del partido (caducidad de la personalidad política)",
+            "cámara electoral",
+            "campaña electoral",
+            "integridad y transparencia",
+            "elección de autoridades partidarias",
+            "campaña política (campaña electoral)",
+            "oficialización de listas",
+            "Comunicaciones",
+            "Derecho administrativo",
+            "CÓDIGO ELECTORAL NACIONAL",
+            "autoridades partidarias",
+            "derecho electoral",
+            "politicas públicas",
+            "transparencia electoral",
+            "servicios de comunicación audiovisual",
+            "acto administrativo",
+            "control patrimonial de los partidos políticos",
+            "actos de alcance general (acto administrativo de alcance general)",
+            "medios de comunicación (Comunicaciones)",
+            "organización de la justicia",
+            "derechos políticos",
+            "Cámara de Apelaciones",
+            "políticas de Estado (politicas públicas)",
+            "politicas públicas transversales (politicas públicas)",
+            "elecciones primarias",
+            "decreto reglamentario",
+            "elecciones primarias abiertas simultáneas y obligatorias",
+            "Derechos humanos",
+            "reglamentos",
+            "espacios de publicidad electoral",
+            "caducidad de la personalidad política",
+            "derechos de la mujer",
+            "organización del Poder Judicial (organización de la justicia)",
+            "candidato electoral (candidatos)",
+            "derechos humanos de la mujer (derechos de la mujer)",
+            "personalidad jurídico política (personalidad política)",
+            "Derecho procesal",
+            "primarias abiertas",
+            "lista de candidatos",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "igualdad de género",
+            "personalidad política",
+            "medios de difusión (Comunicaciones)",
+            "afiliación partidaria",
+            "derechos fundamentales (Derechos humanos)",
+            "proselitismo político (campaña electoral)",
+            "Derecho constitucional",
+            "Estado",
+            "cargos electivos",
+            "LEY DE DEMOCRATIZACIÓN DE LA REPRESENTACIÓN POLÍTICA, LA TRANSPARENCIA Y LA EQUIDAD ELECTORAL (LEY ORGÁNICA DE LOS PARTIDOS POLÍTICOS)",
+            "representación política",
+            "cámara nacional electoral (cámara electoral)",
+            "partidos políticos",
+            "candidatos",
+            "personería política"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026215 2006 12 20 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 026522 2009 10 10 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 026571 2009 12 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 001225 2010 08 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000760 2013 06 17 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente N° S02:0155990/2014 del registro del MINISTERIO DEL INTERIOR Y TRANSPORTE, las Leyes N° 26.215, N° 26.522, N° 26.571 y N° 27.120 y sus respectivas modificatorias y complementarias, y los Decretos N° 1225 del 31 de agosto de 2010 y N° 760 del 17 de junio de 2013 , y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026215 2006 12 20 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 026522 2009 10 10 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que las Leyes N° 26.215 de Financiamiento de los Partidos Políticos y N° 26.571 de Democratización de la Representación Política, la Transparencia y la Equidad Electoral, establecen el régimen de asignación y distribución de espacios para campaña electoral en los servicios de comunicación audiovisual entre las agrupaciones políticas que participen de las elecciones primarias, abiertas, simultáneas y obligatorias y en elecciones nacionales.\n\nQue la Ley N° 26.522 y su Decreto Reglamentario regulan los Servicios de Comunicación Audiovisual en el ámbito territorial de la REPÚBLICA ARGENTINA.\n\nQue resulta necesario adoptar medidas que permitan la ejecución del régimen de campañas políticas establecido en la legislación vigente.\n\nQue ha tomado intervención el servicio jurídico competente.\n\nQue la presente medida se dicta en uso de las atribuciones emergentes del artículo 99, incisos 1 y 2 de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1° - Apruébase la reglamentación del Régimen de Campañas Electorales en los Servicios de Comunicación Audiovisual establecidas para las elecciones primarias, abiertas, simultáneas y obligatorias y para las elecciones nacionales."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2° - A los fines previstos en el Capítulo III Bis del Título III de la Ley N°\u00A026.215 y en el artículo 35 de la Ley N°\u00A026.571 y sus respectivas modificatorias y complementarias, el ENTE NACIONAL DE COMUNICACIONES (ENACOM) suministrará a la DIRECCIÓN NACIONAL ELECTORAL el listado preliminar de servicios de comunicación audiovisual, las señales nacionales inscriptas en el Registro Público de Señales y Productoras, con excepción de las de género infantil, y las señales de generación propia de los servicios de suscripción, indicando la identificación comercial o artística del servicio del que se trate, razón social, clave única de identificación tributaria (CUIT), domicilio, tipo y/o clase de servicio, área de cobertura, tiempo de programación y las especificaciones técnicas de los estándares requeridos para la emisión de los mensajes de campaña electoral.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0001 000 0000 000"
+            }
+          },
+          "reglamenta-a": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REGLAMENTA_A_0",
+                "ref": "LEY C 026215 2006 12 20 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REGLAMENTA_A_1",
+                "ref": "LEY C 026571 2009 12 02 0000 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3° - La DIRECCIÓN NACIONAL ELECTORAL publicará en su sitio web dicho listado preliminar, a los fines de que las agrupaciones políticas y/o los titulares de los servicios de comunicación audiovisual y señales enunciadas en el artículo 2° del presente decreto formulen ante el ENTE NACIONAL DE COMUNICACIONES (ENACOM) observaciones respecto de la omisión, incorporación o exclusión de servicios, dentro de los DIEZ (10) días siguientes a la fecha de la publicación. De no formularse observaciones el listado se tendrá por consentido. El ENTE NACIONAL DE COMUNICACIONES (ENACOM) recibirá, en el correo electrónico que se disponga para tal fin, las observaciones mencionadas y dictará una resolución al respecto dentro de los CINCO (5) días de interpuestas. Una vez resueltas las observaciones que hayan sido presentadas, se tendrá por definitivo el listado de medios audiovisuales y señales a afectar y deberá notificarse a la DIRECCIÓN NACIONAL ELECTORAL para su publicación en el sitio web.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 026571 2009 12 02 0035 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 026215 2006 12 20 0043 004 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 4,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 000429 2019 06 19 0003 000 0000 000"
+            }
+          },
+          "texto": "Art. 4° - Los Servicios de Comunicación Audiovisual y señales que cuenten con una programación igual o mayor a DOCE (12) horas, incorporados al listado previsto en el artículo 3º deberán ceder, en los términos de los artículos 35 de la Ley N° 26.571 y sus modificatorias y 43 quáter de la Ley N° 26.215 y sus modificatorias, el CINCO POR CIENTO (5 %) de DOCE (12) horas de programación para la difusión de mensajes de campaña electoral en Servicios de Comunicación Audiovisual para las Elecciones Primarias, Abiertas, Simultáneas y Obligatorias (P.A.S.O.) y las Elecciones Nacionales.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 30/6/2023) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000330 2023 06 29 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001225 2010 08 31 0074 000 0000 000 A"
+            }
+          },
+          "numero-articulo": 5,
+          "texto": "Art. 5° - La difusión de mensajes de campaña electoral objeto del presente no se computará como tiempo de publicidad conforme lo dispuesto en el artículo 74 del Anexo I del Decreto N° 1225 del 31 de agosto de 2010"
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026215 2006 12 20 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "Art. 6° - A los efectos de dar cumplimiento a lo estipulado en el artículo 43 septiés, de la Ley N° 26.215, se establece el horario central para los servicios televisivos del Área Metropolitana de Buenos Aires entre las 20:00 horas y las 01:00 horas y para el resto del país entre las 12:00 horas y las 14:00 horas; y se establece el horario central para los servicios de radiodifusión sonora entre las 07:00 horas y las 10:00 horas.\n\nLos mensajes de campaña electoral se emitirán en CUATRO (4) franjas horarias y el tiempo total cedido se distribuirá en las siguientes proporciones:\n\nPara los servicios televisivos y las señales obligadas por el presente Decreto:\n\nFranja 1.- de 07:00 a 11:00 horas, TREINTA POR CIENTO (30%);\n\nFranja 2.- de 11:00 a 16:00 horas, VEINTE POR CIENTO (20%);\n\nFranja 3.- de 16:00 a 20:00 horas, TREINTA POR CIENTO (30%);\n\nFranja 4.- de 20:00 a 01:00 horas, VEINTE POR CIENTO (20%);\n\nPara servicios de radiodifusión sonora:\n\nFranja 1.- de 07:00 a 11:00 horas, VEINTE POR CIENTO (20%);\n\nFranja 2.- de 11:00 a 16:00 horas, VEINTE POR CIENTO (20%);\n\nFranja 3.- de 16:00 a 20:00 horas, TREINTA POR CIENTO (30%);\n\nFranja 4.- de 20:00 a 01:00 horas, TREINTA POR CIENTO (30%);\n\nSi un servicio transmitiera efectivamente menos horas que las que abarcan las franjas descriptas en el presente artículo, los espacios asignados se emitirán acumulando su emisión en el horario de servicio."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 026571 2009 12 02 0035 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 026215 2006 12 20 0043 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 026571 2009 12 02 0034 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "LEY C 026215 2006 12 20 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 7,
+          "texto": "Art. 7° - En el caso que una provincia o la Ciudad Autónoma de Buenos Aires, celebren sus elecciones para cargos locales en forma simultánea con las elecciones nacionales, deberá indicarse en el Decreto de convocatoria tal circunstancia y su adhesión expresa al régimen del Capítulo III Bis del Título III de la Ley N° 26.215 y al artículo 35 de la Ley N° 26.571 y sus respectivas modificatorias y complementarias.\n\nEn ese caso, se entenderá que la prohibición prevista en el artículo 34 de la Ley N° 26.571 y 43 de la Ley N° 26.215 se extenderá respecto de las fórmulas de Gobernador y Vicegobernador y de Jefe y Vicejefe de Gobierno de la Ciudad Autónoma de Buenos Aires y de legisladores provinciales o de la Ciudad Autónoma de Buenos Aires."
+        },
+        {
+          "numero-articulo": 8,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 000429 2019 06 19 0004 000 0000 000"
+            }
+          },
+          "texto": "Art. 8° - El tiempo cedido en virtud del artículo 4° del presente decreto se distribuirá entre todas las agrupaciones políticas, por categoría de cargos a elegir de la siguiente manera:.\n\nElecciones Presidenciales.\n\na) Para la campaña de Presidente o Presidenta, Vicepresidente o Vicepresidenta de la Nación, y Parlamentarios y Parlamentarias del MERCOSUR por distrito Nacional, el CINCUENTA POR CIENTO (50 %);\n\nb) Para la campaña de Senadores y Senadoras Nacionales, y Parlamentarios y Parlamentarias del MERCOSUR por distrito Regional, el VEINTICINCO POR CIENTO (25 %);\n\nc) Para la campaña de Diputados y Diputadas Nacionales, y Parlamentarios y Parlamentarias del MERCOSUR por distrito Regional, el VEINTICINCO POR CIENTO (25 %).\n\nEn aquellos distritos en los que no se elija la categoría de Senadores y Senadoras Nacionales, los espacios que le corresponderían se adicionarán en partes iguales a las categorías enunciadas en los incisos a) y c) del presente apartado.\n\nElecciones Legislativas.\n\na) Para la campaña de Senadores y Senadoras Nacionales el CINCUENTA POR CIENTO (50 %);\n\nb) Para la campaña de Diputados y Diputadas Nacionales el CINCUENTA POR CIENTO (50 %).\n\nEn aquellos distritos en los que no se elija la categoría de Senadores y Senadoras Nacionales, la totalidad de los espacios se asignarán a la categoría de Diputados y Diputadas Nacionales.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 30/6/2023) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000330 2023 06 29 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 9,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 000429 2019 06 19 0005 000 0000 000"
+            }
+          },
+          "texto": "Art. 9° - En el caso en que uno o más distritos celebren Elecciones Provinciales en forma simultánea con las Elecciones Nacionales, las proporciones de distribución del tiempo cedido por los Servicios de Comunicación Audiovisual y señales serán las siguientes:.\n\nElecciones Presidenciales.\n\na) Para la campaña de Presidente o Presidenta, Vicepresidente o Vicepresidenta de la Nación, y Parlamentarios y Parlamentarias del MERCOSUR por distrito Nacional, el CUARENTA POR CIENTO (40 %);\n\nb) Para la campaña de Senadores y Senadoras Nacionales, y Parlamentarios y Parlamentarias del MERCOSUR por distrito Regional, el QUINCE POR CIENTO (15 %);\n\nc) Para la campaña de Diputados y Diputadas Nacionales, y Parlamentarios y Parlamentarias del MERCOSUR por distrito Regional, el QUINCE POR CIENTO (15 %);\n\nd) Para la campaña de Gobernador o Gobernadora y Vicegobernador o Vicegobernadora, el VEINTE POR CIENTO (20 %);\n\ne) Para la campaña de Legisladores y Legisladoras Provinciales, el DIEZ POR CIENTO (10 %).\n\nEn aquellos distritos en los que no se elija la categoría Senadores y Senadoras Nacionales, los espacios que le corresponderían se adicionarán en partes iguales a las categorías indicadas en los incisos a), c), d) y e) del presente apartado.\n\nElecciones Legislativas.\n\na) Para la campaña de Senadores y Senadoras Nacionales, el CUARENTA POR CIENTO (40 %);\n\nb) Para la campaña de Diputados y Diputadas Nacionales, el CUARENTA POR CIENTO (40 %):.\n\nc) Para la campaña de Legisladores y Legisladoras Provinciales, el VEINTE POR CIENTO (20 %).\n\nEn aquellos distritos en los que no se elija la categoría Senadores y Senadoras Nacionales, los espacios que le corresponderían se adicionarán en partes iguales a las categorías que se indican en los incisos b) y c) del presente apartado.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 30/6/2023) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000330 2023 06 29 0003 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "9 002",
+          "texto": "ARTÍCULO 9° bis.- Las agrupaciones políticas definirán internamente las proporciones en que distribuyen sus anuncios entre campañas a cargos nacionales y a cargos del MERCOSUR.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 30/6/2023) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000330 2023 06 29 0004 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art. 10. - Los servicios de comunicación audiovisual y señales afectados a la emisión de la publicidad electoral para la segunda vuelta electoral serán los mismos que fueran incluidos en los listados definitivos por el ENTE NACIONAL DE COMUNICACIONES (ENACOM) en ocasión de la primera vuelta electoral. El listado se encontrará publicado en el sitio web de la Dirección Nacional Electoral. del MERCOSUR.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0006 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "10 002",
+          "texto": "ARTÍCULO 10 bis.- El sorteo público para la asignación de la publicidad electoral en los servicios de comunicación audiovisual y señales, en el caso de una eventual segunda vuelta electoral, se realizará hasta DOCE (12) días antes de la fecha de los comicios. La campaña electoral en los servicios de comunicación audiovisual y señales comenzará DIEZ (10) días antes de la fecha de los comicios y finalizará CUARENTA Y OCHO (48) horas antes del inicio de los comicios.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0007 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art. 11. - La DIRECCIÓN NACIONAL ELECTORAL arbitrará los medios para que en caso que el alcance de un servicio supere el límite territorial de un distrito electoral, el tiempo correspondiente a las candidaturas de cada distrito se distribuya alternativamente durante los días de campaña."
+        },
+        {
+          "numero-articulo": 12,
+          "antecedentes": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 5/7/2017) ARTICULO SUSTITUIDO",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000481 2017 07 04 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+                "id": "ANTECEDENTES_1",
+                "ref": "DNU C 000429 2019 06 19 0008 000 0000 000"
+              }
+            ]
+          },
+          "texto": "Art. 12. - En el caso de Elecciones Presidenciales los Servicios de Comunicación Audiovisual de alcance nacional y las señales de alcance nacional solo emitirán publicidad para las categorías de Presidente o Presidenta y Vicepresidente o Vicepresidenta de la Nación y Parlamentarios y Parlamentarias del MERCOSUR, por distrito Nacional.\n\nEn el caso de Elecciones Legislativas, la totalidad del tiempo cedido por los Servicios de Comunicación Audiovisual de alcance nacional y las señales nacionales se dividirá, en primer lugar, entre todos los distritos en proporción al padrón electoral, y se asignará luego el tiempo resultante a cada distrito para las categorías de Diputados y Diputadas Nacionales y, eventualmente, Senadores y Senadoras Nacionales, conforme lo dispuesto en el artículo 8° de este decreto.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 30/6/2023) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000330 2023 06 29 0005 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026215 2006 12 20 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 13,
+          "texto": "Art. 13. - La determinación de tiempo para mensajes de campaña electoral para cada categoría de cargos a elegir se calculará en base a un índice resultante de lo establecido en el artículo 43 sexies de la Ley N° 26.215 y la correspondiente aplicación de los porcentajes establecidos en los artículos 8° y 9° del presente, que se adjudicará a cada agrupación política que oficialice precandidaturas o candidaturas, según el caso, para el total de la campaña electoral.\n\nDicho índice se aplicará para distribuir los espacios totales por franja horaria y por medio de comunicación a asignar a cada agrupación política."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "Art. 14. - La DIRECCIÓN NACIONAL ELECTORAL realizará el sorteo público de asignación de espacios de publicidad electoral en los servicios de comunicación audiovisual y en las señales, con una anticipación no menor a OCHO (8) días al inicio de la campaña correspondiente. La modalidad del sorteo debe garantizar la asignación equilibrada entre todas las agrupaciones políticas que compiten en cada categoría en las distintas franjas horarias durante la totalidad del período de campaña.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0009 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Art. 15. - El resultado del sorteo será publicado en el sitio web de la DIRECCIÓN NACIONAL ELECTORAL. Dicha publicación servirá de notificación fehaciente a las agrupaciones políticas. Dentro de las VEINTICUATRO (24) horas de efectuado el sorteo la DIRECCIÓN NACIONAL ELECTORAL deberá informar el resultado a la Justicia Nacional Electoral. Asimismo, la citada DIRECCIÓN NACIONAL ELECTORAL notificará al ENTE NACIONAL DE COMUNICACIONES (ENACOM) el resultado del sorteo y entregará la información necesaria. El ENTE NACIONAL DE COMUNICACIONES (ENACOM) notificará a cada servicio de comunicación audiovisual o señal al correo electrónico informado en el contacto \"publicidad electoral\" de la DECLARACIÓN JURADA ANUAL de la Resolución ex AFSCA N°\u00A01502/14.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0010 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "Art. 16. - El módulo electoral tendrá una duración de NUEVE (9) segundos para la radio; y DOCE (12) segundos para la televisión.\n\nEl tiempo máximo de emisión de mensajes de campaña electoral en una misma tanda publicitaria no podrá superar los DIEZ (10) módulos."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "Art. 17. - La duración de los mensajes de las agrupaciones políticas no podrá exceder el tiempo máximo asignado en cada tanda.\n\nSin perjuicio del tiempo total que por la distribución diaria de espacios le corresponda, no se podrá asignar a ninguna agrupación política más del CUARENTA POR CIENTO (40%) del tiempo cedido, en una misma franja horaria."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "Art. 18. - Los mensajes de campaña electoral deberán distribuirse en forma equitativa durante todo el tiempo que abarque cada franja horaria, evitando acumular y/o repetir sucesivamente mensajes de la misma agrupación política."
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "Art. 19. - Los mensajes garantizarán la accesibilidad integral de las personas con limitaciones auditivas y/o visuales, cumpliendo con la implementación de subtitulado visible y/o oculto (\"close caption\") y/o lenguaje de señas, siendo esta obligación a cargo de la agrupación política. La DIRECCIÓN NACIONAL ELECTORAL emitirá el acto administrativo correspondiente que contenga las características técnicas aplicables a los efectos del presente artículo."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "Art. 20. - Los mensajes de campaña electoral tanto en radio como en televisión deberán iniciar y terminar con la leyenda y un segmento audiovisual que oportunamente dispondrá la DIRECCIÓN NACIONAL ELECTORAL."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "Art. 21. - La DIRECCIÓN NACIONAL ELECTORAL podrá solicitar al Sistema Federal de Medición de Audiencias (SIFEMA) que efectúe el monitoreo total o parcial de los mensajes emitidos en virtud del presente régimen. En ese caso, la DIRECCIÓN NACIONAL ELECTORAL informará a la Justicia Nacional Electoral el alcance y el resultado del monitoreo."
+        },
+        {
+          "numero-articulo": 22,
+          "texto": "Art. 22. - Los gastos de producción de los mensajes, su duplicación y conexos correrán por cuenta de cada agrupación política y constarán en el correspondiente informe financiero de campaña."
+        },
+        {
+          "numero-articulo": 23,
+          "texto": "Art. 23. - El presente régimen se administrará mediante un aplicativo informático denominado \"Sistema de Administración de Campañas Electorales\" (SACE), que permitirá a la Dirección de Campañas Electorales de la DIRECCIÓN NACIONAL ELECTORAL, a las agrupaciones políticas, a los servicios de comunicación audiovisual y señales de alcance nacional y a la Justicia Nacional Electoral comunicarse y efectuar las operaciones de administración, seguimiento y control del presente régimen. Se accederá en forma remota al mencionado sistema mediante la página web de la DIRECCIÓN NACIONAL ELECTORAL.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0011 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "Art. 24. - Las agrupaciones políticas, y en caso de corresponder, las listas internas de cada agrupación política, deberán designar formalmente un responsable técnico de campaña titular y uno alterno, consignando nombre y apellido, dirección de correo electrónico y teléfono de contacto. Tal situación deberá ser informada a la Justicia Nacional Electoral y a la DIRECCIÓN NACIONAL ELECTORAL.\n\nEl responsable técnico tendrá a su cargo la operación del Sistema de Administración de Campañas Electorales (SACE) y estará legitimado para designar otros operadores y autorizado a notificarse en nombre de la agrupación política o lista interna de la agrupación política, según corresponda."
+        },
+        {
+          "numero-articulo": 25,
+          "texto": "Art. 25. - Las agrupaciones políticas, a través de sus apoderados partidarios y en caso de corresponder, los responsables técnicos de cada una de las listas de precandidatos oficializadas de una misma agrupación política deberán acreditar un correo electrónico ante la Dirección de Campañas Electorales de la DIRECCIÓN NACIONAL ELECTORAL para la notificación del usuario y contraseña segura a efectos de acceder al Sistema de Administración de Campañas Electorales.\n\nUna vez que las agrupaciones políticas se hayan notificado del usuario y la contraseña, las notificaciones que se efectúen a través del Sistema de Administración de Campañas Electorales serán plenamente válidas a todos los efectos."
+        },
+        {
+          "numero-articulo": 26,
+          "texto": "Art. 26. - La DIRECCIÓN NACIONAL ELECTORAL entregará por medio del ENTE NACIONAL DE COMUNICACIONES (ENACOM) a los servicios de comunicación audiovisual y las señales obligadas por la presente norma, una denominación de usuario y contraseña para acceder y operar el Sistema de Administración de Campañas Electorales (SACE), que será comunicada al correo electrónico informado en el contacto \"publicidad electoral\" de la DECLARACIÓN JURADA ANUAL de la Resolución ex AFSCA N°\u00A01502/14.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0012 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 27,
+          "texto": "Art. 27. - Una vez notificadas las agrupaciones políticas de los espacios de publicidad electoral que les hayan sido asignados, tendrán un plazo de hasta CUARENTA Y OCHO (48) horas inmediatamente anteriores a la franja asignada, para entregar al servicio de comunicación audiovisual y a las señales obligadas el material a emitir. Dicha entrega podrá realizarse por medios físicos o electrónicos.\n\nAsimismo en idéntico plazo las agrupaciones políticas deberán indicarlo en el Sistema de Administración de Campañas Electorales.\n\nA tal fin:\n\na) La agrupación política deberá completar por cada espacio de publicidad electoral asignado un formulario electrónico en el Sistema de Administración de Campañas Electorales con carácter de declaración jurada, consignando las especificaciones técnicas del o los mensajes que contenga cada uno de ellos, el cumplimiento de los requisitos legales, la duración, la empresa productora del o los mensajes, el medio y la franja horaria asignada. Tal operación generará un comprobante numerado denominado Certificado de Publicidad Electoral donde conste el contenido de lo declarado.\n\nb) La agrupación política remitirá al servicio de comunicación audiovisual y a las señales correspondientes el soporte del mensaje a emitir y el Certificado de Publicidad Electoral, en los tiempos establecidos en el primer párrafo del presente artículo.\n\nc) Una vez recibido el mensaje y el certificado, el servicio de comunicación audiovisual corroborará, dentro de las DOCE (12) horas, que se cumpla con las especificaciones técnicas y legales consignadas en dicho certificado, aprobándolo o rechazándolo, según corresponda.\n\nEn aquellos casos en que los mensajes no cumplan con las especificaciones establecidas, los servicios de comunicación audiovisual y las señales lo consignarán en el Sistema de Administración de Campañas Electorales y darán aviso a las agrupaciones políticas para que adecuen el mensaje a lo dispuesto en los párrafos anteriores. Los espacios de emisión perdidos por incumplimiento de las previsiones aquí establecidas, imputable a las agrupaciones políticas, no serán compensados.\n\nLos servicios de comunicación audiovisual y las señales deberán convalidar la aptitud técnica del mensaje a través del Sistema de Administración de Campañas Electorales.\n\nd) Dentro de las CUARENTA Y OCHO (48) horas de emitido el mensaje los servicios de comunicación audiovisual y las señales deberán consignarlo en el Sistema de Administración de Campañas Electorales con carácter de declaración jurada."
+        },
+        {
+          "numero-articulo": 28,
+          "texto": "Art. 28. - Los mensajes de campaña electoral deberán confeccionarse en los estándares de calidad y reglamentarios que la DIRECCIÓN NACIONAL ELECTORAL dará a conocer oportunamente mediante su página web. El incumplimiento de dichos estándares así como también la entrega del material fuera de plazo o la omisión y/o retraso de la actualización en el Sistema de Administración de Campañas Electorales importará la pérdida del derecho de emisión de ese espacio."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026522 2009 10 10 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 29,
+          "texto": "Art. 29. - La DIRECCIÓN NACIONAL ELECTORAL y el ENTE NACIONAL DE COMUNICACIONES (ENACOM) no realizarán ningún tipo de control de contenido sobre los mensajes de campaña electoral, ello sin perjuicio de las obligaciones de fiscalización que corresponden al ENTE NACIONAL DE COMUNICACIONES (ENACOM) de conformidad con las previsiones de la Ley N°\u00A026.522 y su modificatorio.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0013 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 026522 2009 10 10 0072 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 001225 2010 08 31 0000 000 0000 000 A"
+              }
+            ]
+          },
+          "numero-articulo": 30,
+          "texto": "Art. 30. - Los servicios de comunicación audiovisual y las señales deberán guardar en carácter de depositarios, por un plazo de SEIS (6) meses, copia digital de la totalidad del material emitido en los espacios de publicidad, de acuerdo a lo establecido en el artículo 72, inciso c), de la Ley N° 26.522 y en el artículo 72, incisos 6 y 7 del Anexo l del Decreto N° 1225 del 31 de agosto de 2010, para su eventual remisión ante el requerimiento del Juzgado Federal con Competencia Electoral de la jurisdicción en que se difunda el anuncio. Asimismo, el servicio de comunicación audiovisual y las señales deberán conservar copia de las Declaraciones Juradas de emisión de material, en formato digital o papel."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 026215 2006 12 20 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 026522 2009 10 10 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 026571 2009 12 02 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 31,
+          "texto": "Art. 31. - La emisión de mensajes y la omisión de trasmisión de estos en incumplimiento de lo prescripto en el presente reglamento constituirá una conducta sancionable en los términos de la Ley N°\u00A026.215, la Ley N°\u00A026.522, la Ley N°\u00A026.571, y sus respectivas modificatorias, y el Código Electoral Nacional, Ley Nº\u00A019.945 (t.o. por Decreto Nº\u00A02135 del 18 de agosto de 1983) y sus modificatorias, sin perjuicio de las multas a aplicar y las responsabilidades personales en que pudieran incurrir los responsables de tales conductas.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0014 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "31 002",
+          "texto": "ARTÍCULO 31 bis. - De acuerdo a lo normado en el artículo 64 septies del Código Electoral Nacional, Ley Nº\u00A019.945 (t.o. por Decreto Nº\u00A02135 del 18 de agosto de 1983) y sus modificatorias, la DIRECCIÓN NACIONAL ELECTORAL ejecutará las sanciones que le comunique la Cámara Nacional Electoral en razón del incumplimiento de uno o más candidatos con su obligación de participar en el debate presidencial. En tal supuesto, la DIRECCIÓN NACIONAL ELECTORAL distribuirá igualitariamente el tiempo correspondiente a las agrupaciones sancionadas entre todas aquellas que hubieran participado del debate.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0015 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "31 003",
+          "texto": "ARTÍCULO 31 ter. - Conforme a lo establecido en el artículo 31 bis y solo en caso de realizar una nueva distribución, el tope del CUARENTA POR CIENTO (40%) del tiempo cedido establecido en el artículo 17 del presente decreto quedará sin efecto. Asimismo, el tiempo para la entrega del o los mensajes de campaña política así como también la consignación del uso del espacio por parte de las agrupaciones políticas en el Sistema de Administración de Campañas Electorales (SACE), de acuerdo a lo prescripto por el artículo 27 del presente decreto, quedarán sin efecto durante los DOS (2) primeros días inmediatamente posteriores a la sanción.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0016 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "31 004",
+          "texto": "ARTÍCULO 31 quater.- Para dar cumplimiento a lo normado en el artículo 64 decies del Código Electoral Nacional, Ley Nº\u00A019.945 (t.o. por Decreto Nº\u00A02135 del 18 de agosto de 1983) y sus modificatorias, se dispone la no emisión de publicidad electoral en la totalidad de la o las franjas horarias establecidas en el artículo 6° del presente decreto que abarquen la duración del debate presidencial obligatorio, en todos los servicios de comunicación audiovisual y señales, para todas las categorías electivas. En el Sistema de Administración de Campañas Electorales (SACE) se procederá a bloquear la o las franjas afectadas para todas las categorías electivas. Los módulos comprendidos en los días y franjas en los cuales se produce el \"Debate Presidencial Obligatorio\" se perderán dejando constancia de ello en las Declaraciones Juradas emitidas por el Sistema de Administración de Campañas Electorales (SACE).",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0017 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 32,
+          "texto": "Art. 32. - A los efectos de subsanar una omisión en la emisión de uno o más mensajes de campaña electoral asignados por el presente procedimiento, la agrupación política afectada deberá poner tal circunstancia en conocimiento de la DIRECCIÓN NACIONAL ELECTORAL aportando la indicación concreta de la omisión y la prueba que la sustente.\n\nVerificada la omisión informada en base al relevamiento de las declaraciones juradas establecidas en el presente reglamento, se ordenará la inmediata emisión del mensaje omitido en la franja horaria que correspondiera.\n\nLa emisión de un mensaje electoral en una franja horaria distinta de la asignada será considerada omisión a estos efectos, será pasible del mismo tratamiento y generará responsabilidad del servicio de comunicación audiovisual."
+        },
+        {
+          "numero-articulo": 33,
+          "texto": "Art. 33. - Ante el requerimiento judicial o del ENTE NACIONAL DE COMUNICACIONES (ENACOM), los servicios de comunicación audiovisual y las señales deberán entregar dentro de las OCHO (8) horas de notificado y por la vía que se indique en el requerimiento, copia certificada del Libro de Registro de Transmisiones. Asimismo, se deberán adjuntar los comprobantes oportunamente presentados por las agrupaciones políticas, los que serán elementos probatorios ante denuncias de incumplimiento de obligaciones de emisión o violación de las prohibiciones establecidas en la legislación vigente.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0018 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 34,
+          "texto": "Art. 34. - La DIRECCIÓN NACIONAL ELECTORAL será la Autoridad de Aplicación del presente régimen, en cuyo carácter podrá realizar las verificaciones necesarias del cumplimiento del régimen que por el presente se instituye, y en ese carácter dictará las normas aclaratorias y complementarias correspondientes."
+        },
+        {
+          "numero-articulo": 35,
+          "texto": "Art. 35. - La DIRECCIÓN NACIONAL ELECTORAL solicitará a la SECRETARÍA DE COMUNICACIÓN PÚBLICA de la JEFATURA DE GABINETE DE MINISTROS la difusión de mensajes institucionales destinados a informar cuestiones relacionadas a las elecciones, desde la vigencia del presente decreto y hasta la proclamación de los candidatos electos. La DIRECCIÓN NACIONAL ELECTORAL podrá cursar, asimismo, mensajes relacionados con el proceso electoral de la Justicia Nacional Electoral y de la DIRECCIÓN NACIONAL DEL REGISTRO NACIONAL DE LAS PERSONAS dependiente del MINISTERIO DEL INTERIOR, OBRAS PÚBLICAS Y VIVIENDA.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0019 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 36,
+          "texto": "Art. 36. - Establécese como página web oficial de las elecciones nacionales y del proceso electoral a todos los efectos la correspondiente a la DIRECCIÓN NACIONAL ELECTORAL.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0020 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 37,
+          "texto": "Art. 37. - A los fines de la presente normativa, los plazos deberán computarse en días y horas corridos. Las publicaciones en la página web de la DIRECCIÓN NACIONAL ELECTORAL, las notificaciones del Sistema de Administración de Campañas Electorales (SACE), y los correos electrónicos enviados por el ENTE NACIONAL DE COMUNICACIONES (ENACOM) al contacto \"publicidad electoral\" de la DECLARACIÓN JURADA ANUAL de la Resolución ex AFSCA N°\u00A01502/14 serán consideradas notificaciones suficientes a los efectos del presente decreto.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/6/2019) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000429 2019 06 19 0021 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 38,
+          "texto": "Art. 38. - Exceptúase a las agrupaciones políticas alcanzadas por el presente Decreto de lo dispuesto en la Resolución N° 983 del 22 de Agosto de 2013 de la Autoridad Federal de Servicios de Comunicación Audiovisual (AFSCA), concordante y complementarias."
+        },
+        {
+          "numero-articulo": 39,
+          "texto": "Art. 39. - Los gastos que demande la aplicación del presente régimen serán atendidos con cargo al Presupuesto Nacional para el presente Ejercicio."
+        },
+        {
+          "numero-articulo": 40,
+          "texto": "Art. 40. - Derógase el Decreto N° 760 del 17 de Junio de 2013",
+          "deroga-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "DEROGA_A_0",
+              "ref": "DEC C 000760 2013 06 17 0000 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 41,
+          "texto": "Art. 41. - Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FERNÁNDEZ DE KIRCHNER-Fernández-Alak."
+      },
+      "id-infojus": "DN20150001142"
+    }
+  }
+}

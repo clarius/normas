@@ -1,0 +1,534 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-539-1000-2991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989568648,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1935-nacional-decreto-reglamentario-ley-8092-sobre-zona-franca-concepcion-uruguay-dn19920001935-1992-10-21"
+      }
+    },
+    "content": {
+      "mecanografico": 19920001935,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1935,
+      "timestamp-m": "2012-03-29T15:42:55",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1992-10-21",
+      "standard-normativo": "DEC C 001935 1992 10 21",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LEY 8092 SOBRE ZONA FRANCA DE CONCEPCION DEL URUGUAY",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1992 10 27"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "por art. 21 B.O.  93-11-26",
+          "id": "MODIFICADO POR0",
+          "ref": "DEC C 002409 1993 11 19 0021 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.935/1992",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2012-03-29",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "REGLAMENTACION DE LA ZONA FRANCA DE CONCEPCION DEL URUGUAY CREADA POR LEY 8092.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A ZONA FRANCA DE CONCEPCION DEL URUGUAY",
+            "B CONVENIO"
+          ]
+        },
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 008092 1910 09 30 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "zonas francas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/territorio aduanero/zonas francas"
+            },
+            "sinonimos": {
+              "termino": "área franca"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Concepción del Uruguay"
+            },
+            "preferido": {
+              "termino": "Concepción del Uruguay"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Entre Ríos"
+            },
+            "preferido": {
+              "termino": "Entre Ríos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "preferencias arancelarias"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/preferencias arancelarias"
+            },
+            "sinonimos": {
+              "termino": [
+                "aranceles aduaneros",
+                "derechos de aduana"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "exenciones impositivas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios/exenciones impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "franquicias tributarias",
+                "exenciones tributarias",
+                "derecho fiscal",
+                "exención de pago del impuesto",
+                "beneficios impositivos",
+                "derecho público fiscal",
+                "exenciones de tasas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "importación para consumo"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/importaciones/regímenes especiales de importación/destinaciones de importación/importación para consumo"
+            },
+            "sinonimos": {
+              "termino": [
+                "importación definitiva",
+                "comercio internacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "importación temporaria"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/importaciones/regímenes especiales de importación/destinaciones de importación/importación temporaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "admisión temporaria de mercaderías",
+                "comercio internacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "promoción de exportaciones"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción/promoción de exportaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reembolsos a la exportación"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/exportaciones/estímulos a la exportación/reintegros y reembolsos a la exportación"
+            },
+            "sinonimos": {
+              "termino": [
+                "reintegros a la exportación",
+                "comercio internacional",
+                "reembolsos a la exportación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "autoridad de aplicación"
+            },
+            "preferido": {
+              "termino": "Derecho civil/interpretación y aplicación de la ley/aplicación de la ley/autoridad de aplicación"
+            },
+            "sinonimos": {
+              "termino": [
+                "ámbito de aplicación",
+                "régimen aplicable",
+                "legislación aplicable",
+                "derecho aplicable",
+                "aplicación del derecho vigente",
+                "normativa aplicable",
+                "aplicación de la norma",
+                "régimen legal aplicable",
+                "ley aplicable",
+                "norma aplicable",
+                "interpretación y aplicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Aduanero",
+            "operaciones aduaneras",
+            "Derecho Tributario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "Concepción del Uruguay",
+            "legislación aplicable (aplicación de la ley)",
+            "reembolsos a la exportación (reintegros y reembolsos a la exportación)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "Derecho tributario y aduanero",
+            "comercio internacional (comercio exterior)",
+            "exención de pago del impuesto (exenciones impositivas)",
+            "política económica",
+            "zonas francas",
+            "derecho fiscal (Derecho Tributario)",
+            "franquicias tributarias (exenciones impositivas)",
+            "aranceles aduaneros (tributos aduaneros)",
+            "aplicación de la ley",
+            "estímulos a la exportación",
+            "admisión temporaria de mercaderías (importación temporaria)",
+            "Economía y finanzas",
+            "Derecho administrativo",
+            "tributos aduaneros",
+            "Entre Ríos",
+            "derecho financiero (Economía y finanzas)",
+            "reintegros a la exportación (reintegros y reembolsos a la exportación)",
+            "exenciones de tasas (exenciones impositivas)",
+            "interpretación y aplicación de la ley",
+            "derecho económico financiero (Economía y finanzas)",
+            "normativa aplicable (aplicación de la ley)",
+            "exportaciones",
+            "ámbito de aplicación (aplicación de la ley)",
+            "exenciones impositivas",
+            "reintegros y reembolsos a la exportación",
+            "importación para consumo",
+            "régimen legal aplicable (aplicación de la ley)",
+            "acto administrativo",
+            "destinaciones de importación",
+            "importaciones",
+            "política productiva",
+            "norma aplicable (aplicación de la ley)",
+            "preferencias arancelarias",
+            "territorio aduanero",
+            "promoción de exportaciones",
+            "beneficios tributarios",
+            "decreto reglamentario",
+            "regímenes especiales de importación",
+            "ley aplicable (aplicación de la ley)",
+            "área franca (zonas francas)",
+            "derechos de aduana (tributos aduaneros)",
+            "reglamentos",
+            "derecho público fiscal (Derecho Tributario)",
+            "comercio exterior",
+            "importación temporaria",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "interpretación y aplicación (interpretación y aplicación de la ley)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "aplicación de la norma (aplicación de la ley)",
+            "Derecho civil",
+            "autoridad de aplicación",
+            "importación definitiva (importación para consumo)",
+            "aplicación del derecho vigente (aplicación de la ley)",
+            "regímenes de promoción",
+            "régimen aplicable (aplicación de la ley)",
+            "beneficios impositivos (beneficios tributarios)",
+            "derecho aplicable (aplicación de la ley)",
+            "exenciones tributarias (exenciones impositivas)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 005142 1907 09 22 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 008092 1910 09 30 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el  Expediente  N.604.044/92  del registro de la SECRETARIA DE INDUSTRIA Y COMERCIO, lo dispuesto por  las  Leyes  N.5142 y 8092 y lo  propuesto  por  el  MINISTERIO DE ECONOMIA Y OBRAS Y  SERVICIOS PUBLICOS, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 008092 1910 09 30 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 005142 1907 09 22 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "TOR C 022415 1981 03 02 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  en  el año 1910 fue promulgada la Ley 8092 por la cual se autorizó al PODER  EJECUTIVO  NACIONAL para admitir en el puerto de Concepción del Uruguay una zona  franca, en idénticas condiciones a las previstas en la Ley 5142.\n\nQue  dicha medida se fundamentó en  la  necesidad  de  contar  con instrumentos   que  facilitaren  e  impulsaren  el  comercio  y  la actividad industrial  exportadora,  que  desde  entonces  un número significativo  de  países  de  distinto  grado  de  desarrollo  han utilizado.\n\nQue  la  medida  que  se  dicta  se  sustenta,  además,  en que el instrumento  de  zona  franca  mantiene  vigencia, toda vez que  la disminución  de  costos,  asociados  a  las  actividades    que  se desarrollen,    se  extienden  a  la  inversión  y  al  empleo.\n\nQue  el  citado  instrumento    es  convergente  con  la  política comercial externa, pudiendo contribuir  su  funcionamiento, como en otros  países,  a la liberación y crecimiento de  la  economía.\n\nQue de las evaluaciones  realizadas  surge  la  necesidad,  en una primera  etapa,  de  limitar  la  actividad de dicha zona franca al aspecto  comercial, de modo tal que  permita  mensurar  el  impacto sobre las  actividades que se desarrollan en el Territorio Aduanero General.\n\nQue la región  de  influencia del Puerto de Concepción del Uruguay podría  así competir con  otras  zonas  francas  instaladas  en  la región, incorporándose  plenamente  en  el  proceso  de integración regional.\n\nQue  las  particulares condiciones de la economía nacional  y  los resultados de  algunas  políticas  de  incentivos aconsejan definir más estrictamente algunas actividades y  operaciones  a desarrollar en la Zona Franca.\n\nQue el hecho de otorgarle un perfil comercial no implica  de  modo alguno  desechar  la posibilidad de desarrollar en ella actividades industriales para la  exportación,  sujetas  a  lo que surja de una política  global  sobre  zonas  francas  que  el  PODER   EJECUTIVO NACIONAL  definirá  en  un  corto  plazo, en virtud de las diversas solicitudes  existentes  generadas  por    otras    provincias.\n\nQue  el  presente decreto se dicta en ejercicio de las  facultades otorgadas  al  PODER  EJECUTIVO  NACIONAL  por  el  inciso  2)  del Artículo 86  de  la  CONSTITUCION  NACIONAL y por la Ley 5142, y de conformidad a las previsiones de los  Artículos  3,  inciso b), 590 al 599 y 765 de la Ley N.22.415 (Código Aduanero)."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "TOR C 022415 1981 03 02 0590 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "TOR C 022415 1981 03 02 0002 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Art.  1:  Para  los  efectos de este decreto reglamentario, se entenderá por:\n\na) Zona Franca: Es el ámbito  que se define en el Artículo 590 del Código Aduanero.\n\nb) Territorio Aduanero General:  Es  el ámbito que se define en el apartado 2 del Artículo 2 del citado Código.\n\nc) Territorio Aduanero Especial: Es el  ámbito que se define en el apartado 3 del Artículo 2 del mismo Código.\n\nd)  Terceros  países  u  otros  países:  Es el  ámbito  geográfico sometido  a  la  soberanía de otros países incluidos  los  exclaves constituidos a favor de otros Estados."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 008092 1910 09 30 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "Art.  2:  La Zona Franca creada por la Ley 8092, denominada en adelante  Zona  Franca   de  Concepción  del  Uruguay,  es  la  que determina el presente decreto  conforme  a lo dispuesto en el Anexo I."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3:  Autorízase a la Autoridad de Aplicación del presente régimen a incorporar  gradualmente  y por etapas, de acuerdo con lo que proponga el Organo de Administración  y  Explotación de la Zona Franca de Concepción del Uruguay, las sucesivas  habilitaciones  de la  misma  dentro  del  área de expansión establecida en el Anexo I del presente decreto.\n\nLa Autoridad de Aplicación  contará  con  SESENTA  (60)  días para expedirse al respecto; transcurrido dicho período quedará firme  la habilitación solicitada."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4: La Provincia de Entre Ríos destina para su afectación exclusiva a  la  Zona Franca de Concepción del Uruguay los terrenos de  su propiedad que  comprenden  la  totalidad  de  la  superficie demarcada  en  el  Anexo  I, que constituyen la zona inicial en que operará  la  Zona  Franca. Dichas  tierras  son  aptas,  libres  de derechos de terceros,  fuera  de  litigio  y  desocupadas, para los usos previstos en la Ley. Todo ello de acuerdo  con  lo establecido en el Convenio a ser suscripto con la Nación, que forma  parte como Anexo  II del presente decreto. Las tierras sujetas a las sucesivas habilitaciones  a  las  que  se  refiere el artículo 3, deberán ser fiscales, teniendo la Provincia de  Entre Ríos el uso y goce de las mismas, aptas, libres de derechos de  terceros,  fuera de litigio y desocupadas  para  los usos permitidos en la Ley, cuya  demarcación se consigna en el Anexo I del presente decreto."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5: El área declarada Zona Franca de Concepción del Uruguay está  definida en sus límites según el artículo 2 y será cercada de forma  de    garantizar  su  aislamiento  respecto  del  Territorio Aduanero General."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6:  Las  horas  y lugares de ingreso y egreso de la Zona Franca de Concepción del Uruguay  serán  los  determinados  por  el Organo  de  Administración  y  Explotación  de  conformidad  a  las reglamentaciones que éste dicte."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art.  7: Queda prohibido habitar transitoria o permanentemente dentro de la Zona Franca de Concepción del Uruguay."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8: Queda prohibido el ingreso de personas y/o mercaderías por lugares diferentes a los autorizados."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art.  9:  La  Autoridad  de  Aplicación  será el MINISTERIO DE ECONOMIA  Y  OBRAS  Y  SERVICIOS  PUBLICOS,  por intermedio  de  la SECRETARIA DE INDUSTRIA Y COMERCIO."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art. 10: Los demás organismos intervinientes con competencia en las  operaciones  de  la  Zona  Franca  de  Concepción  del Uruguay dictarán las disposiciones complementarias."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art.  11:  La  ADMINISTRACION  NACIONAL DE ADUANAS dictará las reglamentaciones  pertinentes,  a  los  efectos    de  facilitar  y simplificar  los  trámites  aduaneros  vinculados con el  presente."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art.  12:  La  explotación de la Zona Franca de Concepción del Uruguay será de carácter privado o mixto. Las obras de infraestructura necesarias,  correrán  por cuenta del concesionario de la Zona Franca de Concepción del Uruguay."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "Art.  13:  La  explotación  se  ofrecerá  en  concesión  y por licitación  pública  la  que  se  ajustará  a  las  condiciones que establezca  el  Organo  de  Administración  y  Explotación   en  el Reglamento  de  Funcionamiento de la Zona Franca de Concepción  del Uruguay. La licitación  y  adjudicación de la concesión deberán ser aprobadas  por  la  Autoridad  de  Aplicación,  en  un  término  no superior a los SESENTA (60) días."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "Art. 14: Invítase a la Provincia de Entre Ríos a constituir un organismo  público  en  la  órbita  del PODER EJECUTIVO PROVINCIAL, contemplando en su integración la participación  de  representantes del  mismo  y del Municipio de Concepción del Uruguay, destinado  a la administración  y explotación de la Zona Franca que se establece en el presente."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Art.  15:  El  Organo  de  Administración y Explotación tendrá básicamente las siguientes funciones:\n\na) Elaborar el Reglamento de Funcionamiento  y  elevarlo  para  su consideración a la Autoridad de Aplicación.\n\nTranscurridos  TREINTA (30) días de su elevación, salvo resolución en  contrario,  quedará   firme  la  aprobación  del  mismo.  Dicho Reglamento deberá contener el plazo, la modalidad y las condiciones de la concesión  de la explotación de la Zona Franca de Concepción del Uruguay, como también  los  términos  y  condiciones contractuales para la admisión de los usuarios.\n\nb)  Administrar  la  Zona  Franca  de  Concepción del Uruguay.\n\nc) Evaluar técnica y económicamente los  proyectos  que  presenten los  candidatos  a  la  explotación de la Zona Franca de Concepción del Uruguay.\n\nd) Adjudicar la concesión  de  explotación  de  la  Zona Franca de Concepción   del  Uruguay  con  aprobación  de  la  Autoridad    de Aplicación, y supervisar la ejecución del proyecto y el funcionamiento.\n\ne) Fiscalizar  el  cumplimiento de las obligaciones contraídas por el concesionario a cargo de la explotación.\n\nf) Servir a la Autoridad  de  Aplicación como Organo de consulta y asesoramiento permanente sobre las  actividades  de  la Zona Franca de Concepción del Uruguay.\n\ng)  Evaluar  el  impacto  regional de la Zona Franca de Concepción del  Uruguay  y  articular  su  funcionamiento    con   los  planes regionales   de  los  municipios  y  los  planes  provinciales.\n\nh) Remitir toda  información que requiera la Autoridad de Aplicaci nn."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "Art.  16: El Organo de Administración y Explotación propiciará la libre concurrencia  en  la  prestación de servicios dentro de la Zona Franca de Concepción del Uruguay."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "Art. 17: El o los concesionarios deberán:\n\na)  Realizar  las  obras  de  infraestructura en la Zona Franca de Concepción  del  Uruguay  que  sean    necesarias  para  su  normal funcionamiento,  que  formen  parte del proyecto  aprobado  por  el Organo  de  Administración  y  Explotación,    y  la  Autoridad  de Aplicación.\n\nb)   Promover  y  facilitar  el  desarrollo  de  las  operaciones, negociaciones  y  actividades  en  la Zona Franca de Concepción del Uruguay.\n\nc) Urbanizar, proyectar y construir  edificios  para las distintas actividades  permitidas  en  la  Zona  Franca  de  Concepción   del Uruguay.\n\nd)   Alquilar  a  los  usuarios  lotes  para  la  construcción  de edificios  destinados a las distintas actividades. No podrá cederse el uso de la  totalidad  del  área  de la Zona Franca de Concepción del Uruguay a un solo usuario.\n\ne) Celebrar los contratos necesarios  para  el cumplimiento de sus obligaciones.\n\nf)  Dictar y modificar su propio Reglamento Interno  de  Operación ajustado    a   la  legislación  y  reglamentaciones  vigentes.\n\ng)  Asegurar  la  prestación  de  servicios  de  agua,  luz,  gas, telecomunicaciones,    fuerza    motriz,   calor,  refrigeración  o cualquier otra clase de servicios necesarios  para  las operaciones de la Zona Franca de Concepción del Uruguay en concordancia  con lo dispuesto en el artículo 16 del presente decreto.\n\nh)  Cumplir  y  hacer  cumplir el Reglamento de funcionamiento. El concesionario será solidariamente  responsable con los usuarios que lo transgredan."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "Art.  18:  A  los  efectos  de  asegurar lo establecido en los artículos 16 y 17, inciso g), la Autoridad  de  Aplicación,  en  el término  de  NOVENTA  (90)  días  de  dictado  el presente decreto, propondrá al PODER EJECUTIVO NACIONAL, las medidas  necesarias para establecer   la  desregulación  de  los  servicios  públicos    y/o privados, prestados  en  la  Zona Franca de Concepcion del Uruguay."
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "Art. 19: El o los concesionario/s podrá/n construir edificios e instalaciones  para  alquiler  en  la Zona Franca de Concepción del Uruguay."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "Art.  20:  Los  usuarios  de  la Zona Franca de Concepción del Uruguay  deberán  constituir  una  persona    jurídica    o  llevar contabilidad    separada  de  otras  sociedades  instaladas  en  el Territorio Aduanero General o Especial."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "*Art.  21.- En la Zona Franca podrán desarrollarse actividades comerciales,  de  servicios  e industriales, esta última actividad, con el único objeto de exportar  la  mercadería  a terceros países.\n\nNo  obstante  lo  señalado  precedentemente, en la Zona  Franca  se podrán fabricar bienes de capital  que no registren antecedentes de producción en el Territorio Aduanero  General,  a fin de admitir su importación a dicho Territorio.\n\nLos  bienes  de  capital  a  que se hace referencia en  el  párrafo anterior,  a  fin de su nacionalización,  seguirán  el  tratamiento establecido en el régimen general de importación de la Nomenclatura del  Comercio  Exterior  (N.C.E.)  y  de las restantes normas tributarias que correspondan.\n\nA  los  efectos  del  cumplimiento  de  lo  previsto en el  párrafo anterior,  la  Autoridad  de  Aplicación  deberá  confeccionar   un listado   de  las  mercaderías  pasibles  de  dicho  tratamiento  y establecer  los mecanismos de autorización de importación y control que considere convenientes."
+        },
+        {
+          "numero-articulo": 22,
+          "texto": "Art.  22:  Las  operaciones desarrolladas en la Zona Franca de Concepción  del  Uruguay    no   estarán  sujetas  a  restricciones económicas  ni  depósitos previos a  las  operaciones  de  comercio internacional."
+        },
+        {
+          "numero-articulo": 23,
+          "texto": "Art.  23:  Serán aplicables a la Zona Franca de Concepción del Uruguay la totalidad  de las disposiciones de carácter impositivo y aduanero, incluidas las  de carácter represivo, con las excepciones que se establecen en el presente.\n\nLa SECRETARIA DE INGRESOS  PUBLICOS, en el término de NOVENTA (90) días de dictado el presente decreto,  propondrá  al PODER EJECUTIVO NACIONAL  las  medidas  necesarias  tendientes  a  la concesión  de exenciones  o  desgravaciones  de  los  tributos  que  gravan   los servicios  básicos  que  se  presten  dentro  de  la Zona Franca de Concepción del Uruguay.\n\nAsimismo    deberá  establecer  en  el  mismo  plazo,  el  régimen tributario a aplicar  a  las  actividades que se realicen dentro de la Zona Franca de Concepción del Uruguay."
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "Art.  24:  La  mercadería  que  ingrese  a  la  Zona Franca de Concepción  del Uruguay estará exenta de los tributos que  gravaren su importación  para consumo, vigentes o a crearse, salvo las tasas retributivas  de  servicios  efectivamente  prestados,  excepto  lo previsto en el artículo 27 del presente."
+        },
+        {
+          "numero-articulo": 25,
+          "texto": "Art.  25:  La  introducción a la Zona Franca de mercadería aun cuando proviniere del  Territorio  Aduanero  General o Especial, se considerará como si se tratare de importación."
+        },
+        {
+          "numero-articulo": 26,
+          "texto": "Art. 26: La extracción de la Zona Franca de mercadería aun con destino  al  Territorio Aduanero General o Especial, se considerará como si se tratare de exportación."
+        },
+        {
+          "numero-articulo": 27,
+          "texto": "Art. 27: Exímese del pago de la Tasa de Estadística a aquellas mercaderías  que  ingresen  desde  otro  país  a  la Zona Franca de Concepción del Uruguay."
+        },
+        {
+          "numero-articulo": 28,
+          "texto": "Art. 28: Los estímulos a la exportación que correspondan a las exportaciones  desde el Territorio Aduanero General o Especial a la Zona Franca, serán  liquidados  una  vez  que  la  mercadería fuera extraída  de dicha zona hacia otro país y dentro del  plazo  que  a este efecto  establecen  las normas generales que rigen la materia, ya sea en el estado que poseía  cuando  ingresó  a  la  misma, o en otro."
+        },
+        {
+          "numero-articulo": 29,
+          "texto": "Art.  29:  Las  exportaciones  efectuadas desde la Zona Franca hacia  terceros  países  gozarán  de  la  devolución   de  tributos efectivamente  pagados, cuando correspondan a tributos pasibles  de devolución a los  exportadores  del  Territorio  Aduanero  General."
+        },
+        {
+          "numero-articulo": 30,
+          "texto": "Art.  30: Las exportaciones efectuadas desde la Zona Franca de Concepción  del    Uruguay  no  gozarán  de  otros  incentivos  que correspondan a las exportaciones  efectuadas  desde  el  resto  del Territorio Nacional excepto los derivados de acuerdos internacionales suscriptos por la REPUBLICA ARGENTINA."
+        },
+        {
+          "numero-articulo": 31,
+          "texto": "Art.  31:  Podrán introducirse en la Zona Franca de Concepción del Uruguay toda  clase  de  mercaderías  y  servicios,  estén o no incluidos en listas de importación permitida, creadas o a  crearse, con  la  sola  excepción  de  especies  que atenten contra la moral pública,  la  sanidad vegetal o animal, la  seguridad  pública,  la preservación del  medio ambiente, la flora y la fauna y de aquellas situaciones contempladas en legislación específica."
+        },
+        {
+          "numero-articulo": 32,
+          "texto": "Art. 32: Los regímenes de importación temporaria vigentes en el Territorio  Aduanero  General,  serán  aplicables a las operaciones que se cursen bajo dicha destinación desde  o  hacia la Zona Franca de Concepción del Uruguay."
+        },
+        {
+          "numero-articulo": 33,
+          "texto": "Art. 33: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - CAVALLO"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I. ZONA FRANCA DE CONCEPCION DEL URUGUAY",
+          "segmento": {
+            "titulo-particion": "ANEXO I ZONA FRANCA DE CONCEPCION DEL URUGUAY",
+            "articulo": [
+              {
+                "numero-articulo": 1,
+                "titulo-articulo": "UBICACION  Y  LIMITES  DE LA ZONA FRANCA DE CONCEPCION DEL URUGUAY:",
+                "texto": "La Zona Franca de Concepción del Uruguay, en su etapa inicial, según  se  expresa en el artículo 2 del presente decreto, comprende una fracción  de  DOSCIENTOS  NOVENTA  Y  TRES MIL TRESCIENTOS OCHO (293.308) metros cuadrados, según figura en  el plano que obra como Anexo  III del presente, y cuya ubicación catastral  se  detalla  a continuación:\n\n##VERTICE VERTICE       ANGULO       LADO   RUMBO      LONGITUD  1          102 52'       1-2  SE 83 18'     58,50 m.\n\n2           89 49'       2-3  SO 6 53'     194,40 m.\n\n3          270 11'       3-4  SE 83 18'    150,00 m.\n\n4           89 49'       4-5  SO 6 53'     146,80 m.\n\n5          270 00'       5-6  SE 83 07'      4,50 m.\n\n6           90 00'       6-7  SE 6 53'     117,20 m.\n\n7          271 57'       7-8  SE 85 04'    326,40 m.\n\n8           88 10'       8-9  SO 6 46'     460,00 m.\n\n9           90 04'       9-10 NO 83 18'    460,00 m.\n\n10           89 56'      10-11 NE 6 46'     270,00 m.\n\n11          199 50'      11-12 NO 13 04'    403,80 m.\n\n12            147 22'      12-1  NE 19 34'    265,00 m.#/"
+              },
+              {
+                "numero-articulo": 2,
+                "titulo-articulo": "AREA DE EXPANSION",
+                "texto": "El  Area  de  Expansión prevista en el artículo 3 del presente decreto, comprende una  fracción  de  TRESCIENTOS  SETENTA Y CUATRO MIL  TRESCIENTOS  TREINTA Y SIETE (374.337) metros cuadrados  según figura en el plano  que  como  Anexo IV forma parte del presente, y cuya ubicación catastral se detalla a continuación.\n\n##VERTICE VERTICE  ANGULO      LADO      RUMBO        LONGITUD   9     89 56'     9-10     SE 83 18'      460,00 m.\n\n10    270 04'    10-11     SO 6 46'       270,00 m.\n\n11    160 10'    11-12     SE 13 04'      403,80 m.\n\n12     32 38'    12-17     NE 19 34'     1251,00 m.\n\n13     85 25'    13-14     NO 78 39'      233,20 m.\n\n14    231 56'    14-15     SO 49 25'      246,10 m.\n\n15    168 59'    15-16     SO 60 29'      304,80 m.\n\n16    129 15'    16-17     NO 68 49'      237,20 m.\n\n17     91 37'    17-18     NO 91 37'       31,00 m.\n\n18     64 27'     A-12     NO  19  34'     1281,00 m."
+              }
+            ]
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO II. CONVENIO",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO II CONVENIO",
+            "texto": "Entre  el  Presidente de la Nación Argentina, Doctor D. Carlos Saúl  Menem,  y el  Gobernador  de  la  Provincia  de  Entre  Ríos, Contador D. Mario Armando Moine, se conviene:\n\nPRIMERO:  Que  la    Provincia  de  Entre  Ríos  destina  para  la afectación exclusiva de  la  Zona Franca de Concepción del Uruguay, los terrenos de su propiedad detallados  en el ANEXO I del presente decreto, según lo previsto en los artículos  2  y  4  de esta norma\n\nSEGUNDO:  Los  mencionados inmuebles pertenecen al dominio  de  la Provincia de Entre  Ríos,  los  que  se encuentran desocupados y no están sujetos a embargos, inhibiciones  o anotaciones de litis como se comprueba con los certificados expedidos  por  el Registro de la Propiedad Inmueble.\n\nTERCERO:  La  Provincia  propondrá anexar tierras que  posean  las características indicadas en  el  artículo  4 del presente decreto, de conformidad con lo establecido en el mismo."
+          }
+        }
+      ],
+      "id-infojus": "DN19920001935"
+    }
+  }
+}

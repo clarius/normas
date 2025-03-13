@@ -1,0 +1,1384 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g94-84000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1615028720053,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "25871-nacional-politica-migratoria-argentina-lns0004849-2003-12-17"
+      }
+    },
+    "content": {
+      "mecanografico": "S0004849",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "Por art. 3º entra en vigencia a los 60 días de su publicación en el Boletín Oficial. B.O. 06/05/2010.",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 000616 2010 05 03 0001 000 0000 000"
+        }
+      },
+      "numero-norma": 25871,
+      "timestamp": "2021-03-05T21:02:00",
+      "timestamp-m": "2021-03-05T21:02:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "2003-12-17",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 025871 2003 12 17",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 25.871",
+          "BUENOS AIRES, 17 DE DICIEMBRE DE 2003"
+        ]
+      },
+      "titulo-norma": "POLITICA MIGRATORIA ARGENTINA",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2004 01 21"
+        }
+      },
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "LEY 25.871",
+      "estado": "Vigente, de alcance general",
+      "analista": "Mazza, Gustavo",
+      "fecha-alta": "2004-01-21",
+      "fecha-mod": "2021-03-05",
+      "responsable": "Mazza, Gustavo",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MIGRACIONES-EXTRANJEROS-ADMISION Y PERMANENCIA DE EXTRANJEROS-RADICACION DE EXTRANJEROS-AUTORIZACION DE RESIDENCIA PRECARIA-EXTRANJEROS RESIDENTES-EXTRANJEROS ILEGALES-EXPULSION DE EXTRANJEROS-TRABAJADOR EXTRANJERO-CONTROL MIGRATORIO-POLICIA INMIGRATORIA-TASAS RETRIBUTIVAS DE SERVICIOS MIGRATORIOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "migraciones"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "admisión y permanencia de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "radicación de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/radicación de extranjeros"
+            },
+            "sinonimos": {
+              "termino": "pedido de radicación en el país"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "autorización de residencia precaria"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros/residencia de extranjeros/autorización de residencia precaria"
+            },
+            "sinonimos": {
+              "termino": "residencia precaria"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros residentes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros/residencia de extranjeros/extranjeros residentes"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros ilegales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/extranjeros ilegales"
+            },
+            "sinonimos": {
+              "termino": [
+                "residente ilegal",
+                "inmigración clandestina",
+                "migración clandestina"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "expulsión de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros/expulsión de extranjeros"
+            },
+            "sinonimos": {
+              "termino": "extranjeros expulsados"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador extranjero"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/trabajador/trabajador migrante/trabajador extranjero"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "asalariados",
+                "trabajo migratorio",
+                "empleado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "control migratorio"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/control migratorio"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Policía Inmigratoria"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/Policía Inmigratoria"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "policía migratoria",
+                "defensa nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tasas retributivas de servicios migratorios"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/tributos/tasas/tasas retributivas de servicios migratorios"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "admisión y permanencia de extranjeros",
+            "tasas retributivas de servicios migratorios",
+            "Derecho tributario y aduanero",
+            "trabajo migratorio (trabajador migrante)",
+            "radicación de extranjeros",
+            "personal de seguridad (fuerzas de seguridad)",
+            "Defensa y seguridad",
+            "contrato laboral (contrato de trabajo)",
+            "tributos",
+            "sujetos del contrato de trabajo",
+            "fuerzas de seguridad",
+            "inmigración clandestina (extranjeros ilegales)",
+            "asalariados (trabajador)",
+            "extranjeros",
+            "derecho tributario",
+            "pedido de radicación en el país (radicación de extranjeros)",
+            "derecho fiscal (derecho tributario)",
+            "policía",
+            "trabajador extranjero",
+            "empleado (trabajador)",
+            "residencia precaria (autorización de residencia precaria)",
+            "Derecho administrativo",
+            "migración clandestina (extranjeros ilegales)",
+            "extranjeros expulsados (expulsión de extranjeros)",
+            "tasas",
+            "gravámenes (tributos)",
+            "Policía Inmigratoria",
+            "trabajador",
+            "policía migratoria (Policía Inmigratoria)",
+            "defensa nacional (Defensa y seguridad)",
+            "extranjeros ilegales",
+            "expulsión de extranjeros",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "autorización de residencia precaria",
+            "seguridad pública",
+            "control migratorio",
+            "Derecho laboral",
+            "extranjeros residentes",
+            "seguridad nacional (seguridad pública)",
+            "contrato de trabajo en general",
+            "migraciones",
+            "residente ilegal (extranjeros ilegales)",
+            "trabajador migrante",
+            "residencia de extranjeros"
+          ]
+        }
+      },
+      "generalidades": {
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 126  NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA:122  FECHA DE ENTRADA EN VIGENCIA:21/01/2004 OBSERVACION: POR DISPOSICION 1595/2010 DE LA DIRECCION NACIONAL DE MIGRACIONES DE FECHA 13/08/2010, SE ESTABLECEN LOS REQUISITOS PARA OBTENER LA ADMISION COMO RESIDENTE TRANSITORIO EN ALGUNAS DE LAS SUBCATEGORIAS CONTEMPLADAS EN EL ARTICULO 24 DE LA PRESENTE NORMA. (B.O. 19/08/2010).\n\nOBSERVACION: Art. 71: Por Resolución Conjunta 99-E/2017 del Ministerio del Interior, Obras Públicas y Vivienda y de la Dirección Nacional de Migraciones se establece que la persona que se presente a realizar el depósito de una caución real deber  acreditar identidad y se labrar  un acta donde consten sus datos personales y deber  suscribir una declaración jurada respecto del origen y licitud de los fondo.\n\nOBSERVACION: Capítulo I del Título II \"CAPITULO I DE LAS CATEGORIAS Y PLAZOS DE ADMISION\" sustituido por \"DE LAS CATEGORÍAS, REQUISITOS Y PLAZOS DE ADMISIÓN\", por art. 1 del Decreto 70/2017. B.O. 30/01/2017.\n\nOBSERVACION: Se incorpora el Capítulo I Bis del Título V, a continuación del artículo 68 por art. 9 del Decreto 70/2017. B.O. 30/01/2017.\n\nOBSERVACION:  Se incorpora dentro del Capítulo I Bis del Título V, a continuación del artículo 68, el art. 69 hasta el 69 undecies por los arts. 10 al 20 del Decreto 70/2017. B.O. 30/01/2017."
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO PRELIMINAR",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I AMBITO DE APLICACION",
+              "articulo": [
+                {
+                  "numero-articulo": 1,
+                  "texto": "ARTICULO 1° - La admisión, el ingreso, la permanencia y el egreso de personas se rigen por las disposiciones de la presente ley y su reglamentación."
+                },
+                {
+                  "numero-articulo": 2,
+                  "texto": "ARTICULO 2° - A los fines de la presente ley se entiende por \"inmigrante\" todo aquel extranjero que desee ingresar, transitar, residir o establecerse definitiva, temporaria o transitoriamente en el país conforme a la legislación vigente."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II PRINCIPIOS GENERALES",
+              "articulo": {
+                "numero-articulo": 3,
+                "texto": "ARTICULO 3° - Son objetivos de la presente ley:\n\na) Fijar las líneas políticas fundamentales y sentar las bases estratégicas en materia migratoria, y dar cumplimiento a los compromisos internacionales de la República en materia de derechos humanos, integración y movilidad de los migrantes;\n\nb) Contribuir al logro de las políticas demográficas que establezca el Gobierno Nacional con respecto a la magnitud, tasa de crecimiento y distribución geográfica de la población del país;\n\nc) Contribuir al enriquecimiento y fortalecimiento del tejido cultural y social del país:\n\nd) Garantizar el ejercicio del derecho a la reunificación familiar;\n\ne) Promover la integración en la sociedad argentina de las personas que hayan sido admitidas como residentes permanentes;\n\nf) Asegurar a toda persona que solicite ser admitida en la República Argentina de manera permanente o temporaria, el goce de criterios y procedimientos de admisión no discriminatorios en términos de los derechos y garantías establecidos por la Constitución Nacional, los tratados internacionales, los convenios bilaterales vigentes y las leyes;\n\ng) Promover y difundir las obligaciones, derechos y garantías de los migrantes, conforme a lo establecido en la Constitución Nacional, los compromisos internacionales y las leyes, manteniendo en alto su tradición humanitaria y abierta con relación a los migrantes y sus familias;\n\nh) Promover la inserción e integración laboral de los inmigrantes que residan en forma legal para el mejor aprovechamiento de sus capacidades personales y laborales a fin de contribuir al desarrollo económico y social de país;\n\ni) Facilitar la entrada de visitantes a la República Argentina para los propósitos de impulsar el comercio, el turismo, las actividades culturales, científicas, tecnológicas y las relaciones internacionales;\n\nj) Promover el orden internacional y la justicia, denegando el ingreso y/o la permanencia en el territorio argentino a personas involucradas en actos reprimidos penalmente por nuestra legislación;\n\nk) Promover el intercambio de información en el ámbito internacional, y la asistencia técnica y capacitación de los recursos humanos, para prevenir y combatir eficazmente a la delincuencia organizada trasnacional."
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO I DE LOS DERECHOS Y OBLIGACIONES DE LOS EXTRANJEROS",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DE LOS DERECHOS Y LIBERTADES DE LOS EXTRANJEROS",
+              "articulo": [
+                {
+                  "numero-articulo": 4,
+                  "texto": "ARTICULO 4° - El derecho a la migración es esencial e inalienable de la persona y la República Argentina lo garantiza sobre la base de los principios de igualdad y universalidad."
+                },
+                {
+                  "numero-articulo": 5,
+                  "texto": "ARTICULO 5° - El Estado asegurará las condiciones que garanticen una efectiva igualdad de trato a fin de que los extranjeros puedan gozar de sus derechos y cumplir con sus obligaciones, siempre que satisfagan las condiciones establecidas para su ingreso y permanencia, de acuerdo a las leyes vigentes."
+                },
+                {
+                  "numero-articulo": 6,
+                  "texto": "ARTICULO 6° - El Estado en todas sus jurisdicciones, asegurará el acceso igualitario a los inmigrantes y sus familias en las mismas condiciones de protección, amparo y derechos de los que gozan los nacionales, en particular lo referido a servicios sociales, bienes públicos, salud, educación, justicia, trabajo, empleo y seguridad social."
+                },
+                {
+                  "numero-articulo": 7,
+                  "texto": "ARTICULO 7° - En ningún caso la irregularidad migratoria de un extranjero impedirá su admisión como alumno en un establecimiento educativo, ya sea este público o privado; nacional, provincial o municipal; primario, secundario, terciario o universitario. Las autoridades de los establecimientos educativos deberán brindar orientación y asesoramiento respecto de los trámites correspondientes a los efectos de subsanar la irregularidad migratoria."
+                },
+                {
+                  "numero-articulo": 8,
+                  "texto": "ARTICULO 8° - No podrá negársele o restringírsele en ningún caso, el acceso al derecho a la salud, la asistencia social o atención sanitaria a todos los extranjeros que lo requieran, cualquiera sea su situación migratoria. Las autoridades de los establecimientos sanitarios deberán brindar orientación y asesoramiento respecto de los trámites correspondientes a los efectos de subsanar la irregularidad migratoria."
+                },
+                {
+                  "numero-articulo": 9,
+                  "texto": "ARTICULO 9° - Los migrantes y sus familiares tendrán derecho a que el Estado les proporcione información acerca de:\n\na) Sus derechos y obligaciones con arreglo a la legislación vigente;\n\nb) Los requisitos establecidos para su admisión, permanencia y egreso;\n\nc) Cualquier otra cuestión que le permita o facilite cumplir formalidades administrativas o de otra índole en la República Argentina.\n\nLa autoridad de aplicación adoptará todas las medidas que considere apropiadas para difundir la información mencionada y, en el caso de los trabajadores migrantes y sus familias, velará asimismo porque sea suministrada por empleadores, sindicatos u otros órganos o instituciones. La información requerida será brindada gratuitamente a los extranjeros que la soliciten y, en la medida de lo posible, en un idioma que puedan entender."
+                },
+                {
+                  "numero-articulo": 10,
+                  "texto": "ARTICULO 10. - El Estado garantizará el derecho de reunificación familiar de los inmigrantes con sus padres, cónyuges, hijos solteros menores o hijos mayores con capacidades diferentes."
+                },
+                {
+                  "numero-articulo": 11,
+                  "texto": "ARTICULO 11. - La República Argentina facilitará, de conformidad con la legislación nacional y provincial en la materia, la consulta o participación de los extranjeros en las decisiones relativas a la vida pública y a la administración de las comunidades locales donde residan."
+                },
+                {
+                  "numero-articulo": 12,
+                  "texto": "ARTICULO 12. - El Estado cumplimentará todo lo establecido en las convenciones internacionales y todas otras que establezcan derechos y obligaciones de los migrantes, que hubiesen sido debidamente ratificadas."
+                },
+                {
+                  "numero-articulo": 13,
+                  "texto": "ARTICULO 13. - A los efectos de la presente ley se considerarán discriminatorios todos los actos u omisiones determinados por motivos tales como etnia, religión, nacionalidad, ideología, opinión política o gremial, sexo, género, posición económica o caracteres físicos, que arbitrariamente impidan, obstruyan, restrinjan o de algún modo menoscaben el pleno ejercicio sobre bases igualitarias de los derechos y garantías fundamentales reconocidos en la Constitución Nacional, los Tratados Internacionales y las leyes."
+                },
+                {
+                  "numero-articulo": 14,
+                  "texto": "ARTICULO 14. - El Estado en todas sus jurisdicciones, ya sea nacional, provincial o municipal, favorecerá las iniciativas tendientes a la integración de los extranjeros en su comunidad de residencia, especialmente las tendientes a:\n\na) La realización de cursos de idioma castellano en las escuelas e instituciones culturales extranjeras legalmente reconocidas;\n\nb) La difusión de información útil para la adecuada inserción de los extranjeros en la sociedad argentina, en particular aquella relativa a sus derechos y obligaciones;\n\nc) Al conocimiento y la valoración de las expresiones culturales, recreativas, sociales, económicas y religiosas de los inmigrantes;\n\nd) La organización de cursos de formación, inspirados en criterios de convivencia en una sociedad multicultural y de prevención de comportamientos discriminatorios, destinados a los funcionarios y empleados públicos y de entes privados."
+                },
+                {
+                  "numero-articulo": 15,
+                  "texto": "ARTICULO 15. - Los extranjeros que sean admitidos en el país como \"residentes permanentes\" podrán introducir sus efectos personales, artículos para su hogar y automóvil, libres del pago de impuestos, recargos, tasas de importación y contribuciones de cualquier naturaleza, con los alcances y hasta el monto que determine el Poder Ejecutivo."
+                },
+                {
+                  "numero-articulo": 16,
+                  "texto": "ARTICULO 16. - La adopción por el Estado de todas las medidas necesarias y efectivas para eliminar la contratación laboral en el territorio nacional de inmigrantes en situación irregular, incluyendo la imposición de sanciones a los empleadores, no menoscabará los derechos de los trabajadores inmigrantes frente a sus empleadores en relación con su empleo."
+                },
+                {
+                  "numero-articulo": 17,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 17. - El Estado proveerá lo conducente a la adopción e implementación de medidas tendientes a regularizar la situación migratoria de los extranjeros."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LAS OBLIGACIONES DE LOS INMIGRANTES Y ATRIBUCIONES DEL ESTADO",
+              "articulo": [
+                {
+                  "numero-articulo": 18,
+                  "texto": "ARTICULO 18. - Sin perjuicio de los derechos enumerados en la presente ley, los migrantes deberán cumplir con las obligaciones enunciadas en la Constitución Nacional, los Tratados Internacionales adheridos y las leyes vigentes."
+                },
+                {
+                  "numero-articulo": 19,
+                  "texto": "ARTICULO 19. - Respecto de cualquier extranjero, la República Argentina podrá orientarlo con respecto a:\n\na) El acceso a categorías limitadas de empleo, funciones, servicios o actividades, cuando ello sea necesario en beneficio del Estado;\n\nb) La elección de una actividad remunerada de conformidad con la legislación relativa a las condiciones de reconocimiento de calificaciones profesionales adheridas fuera del territorio;\n\nc) Las condiciones por las cuales, habiendo sido admitido para ejercer un empleo, pueda luego ser autorizado a realizar trabajos por cuenta propia, teniendo en consideración el período de residencia legal en el país y las demás condiciones establecidas en la reglamentación."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO II DE LA ADMISION DE EXTRANJEROS A LA REPUBLICA ARGENTINA Y SUS EXCEPCIONES",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DE LAS CATEGORIAS Y PLAZOS DE ADMISION",
+              "articulo": [
+                {
+                  "numero-articulo": 20,
+                  "texto": "ARTÍCULO 20.-  Los extranjeros serán admitidos para ingresar y permanecer en el país en las categorías de \"residentes permanentes\", \"residentes temporarios\", o \"residentes transitorios\". Hasta tanto se formalice el trámite correspondiente, la autoridad de aplicación podrá conceder una autorización de \"residencia precaria\", que será revocable por la misma, cuando se desnaturalicen los motivos que se tuvieron en cuenta para su otorgamiento. Su validez será de hasta ciento ochenta (180) días corridos, pudiendo ser renovables hasta la resolución de la admisión solicitada, y habilitará a sus titulares para permanecer, salir y reingresar al territorio nacional, trabajar y estudiar durante su período de vigencia.\n\nLa extensión y renovación de \"residencia precaria\" no genera derecho a una resolución favorable respecto de la admisión solicitada.",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0002 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/03/2021) Denominación del Capítulo I y artículo restituidos.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Articulo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "20 002",
+                  "texto": "ARTÍCULO 20 bis.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0003 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 21,
+                  "texto": "ARTICULO 21. - Las solicitudes de ingreso al país que se peticionen en el territorio nacional o en el extranjero, deberán formalizarse en las condiciones de la presente ley."
+                },
+                {
+                  "numero-articulo": 22,
+                  "texto": "ARTICULO 22. - Se considerará \"residente permanente\" a todo extranjero que, con el propósito de establecerse definitivamente en el país, obtenga de la Dirección Nacional de Migraciones una admisión en tal carácter. Asimismo, se considerarán residentes permanentes los inmigrantes parientes de ciudadanos argentinos, nativos o por opción, entendiéndose como tales al cónyuge, hijos y padres.\n\nA los hijos de argentinos nativos o por opción que nacieren en el extranjero se les reconoce la condición de residentes permanentes. Las autoridades permitirán su libre ingreso y permanencia en el territorio."
+                },
+                {
+                  "numero-articulo": 23,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 23. - Se considerarán \"residentes temporarios\" todos aquellos extranjeros que, bajo las condiciones que establezca la reglamentación, ingresen al país en las siguientes subcategorías:\n\na) Trabajador migrante: quien ingrese al país para dedicarse al ejercicio de alguna actividad lícita, remunerada, con autorización para permanecer en el país por un máximo de tres (3) años, prorrogables, con entradas y salidas múltiples, con permiso para trabajar bajo relación de dependencia;\n\nb) Rentista: quien solvente su estadía en el país con recursos propios traídos desde el exterior, de las rentas que éstos produzcan o de cualquier otro ingreso lícito proveniente de fuentes externas.\n\nPodrá concederse un término de residencia de hasta tres (3) años, prorrogables, con entradas y salidas múltiples;\n\nc) Pensionado: quien perciba de un gobierno o de organismos internacionales o de empresas particulares por servicios prestados en el exterior, una pensión cuyo monto le permita un ingreso pecuniario regular y permanente en el país. Podrá concederse un término de residencia de hasta tres (3) años, prorrogables, con entradas y salidas múltiples;\n\nd) Inversionista: quien aporte sus propios bienes para realizar actividades de interés para el país. Podrá concederse un término de residencia de hasta tres (3) años, prorrogables, con entradas y salidas múltiples;\n\ne) Científicos y personal especializado: quienes se dediquen a actividades científicas, de investigación, técnicas, o de asesoría, contratados por entidades públicas o privadas para efectuar trabajos de su especialidad. De igual forma, directivos, técnicos y personal administrativo de entidades públicas o privadas extranjeras de carácter comercial o industrial, trasladados desde el exterior para cubrir cargos específicos en sus empresas y que devenguen honorarios o salarios en la República Argentina. Podrá concederse un término de residencia de hasta tres (3) años, prorrogables, con entradas y salidas múltiples;\n\nf) Deportistas y artistas: contratados en razón de su especialidad por personas físicas o jurídicas que desarrollan actividades en el país. Podrá concederse un término de residencia de hasta tres (3) años, prorrogables, con entradas y salidas múltiples;\n\ng) Religiosos de cultos reconocidos oficialmente, con personería jurídica expedida por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, que ingresen al país para desarrollar en forma exclusiva actividades propias de su culto. Podrá concederse un término de residencia de hasta tres (3) años, prorrogables, con entradas y salidas múltiples;\n\nh) Pacientes bajo tratamientos médicos: para atender problemas de salud en establecimientos sanitarios públicos o privados, con autorización para permanecer en el país por un año, prorrogable, con entradas y salidas múltiples. En caso de personas menores de edad, discapacitados o enfermos que por la importancia de su patología debieran permanecer con acompañantes, esta autorización se hará extensiva a los familiares directos, representante legal o curador;\n\ni) Académicos: para quienes ingresen al país en virtud de acuerdos académicos celebrados entre instituciones de educación superior en áreas especializadas, bajo la responsabilidad del centro superior contratante. Su vigencia será por el término de hasta un (1) año, prorrogable por idéntico período cada uno, con autorización de entradas y salidas múltiples;\n\nj) Estudiantes: quienes ingresen al país para cursar estudios secundarios, terciarios, universitarios o especializados reconocidos, como alumnos regulares en establecimientos educativos públicos o privados reconocidos oficialmente, con autorización para permanecer en el país por dos (2) años, prorrogables, con entradas y salidas múltiples.\n\nEl interesado deberá demostrar la inscripción en la institución educativa en la que cursará sus estudios y, para las sucesivas renovaciones, certificación de su condición de estudiante regular;\n\nk) Asilados y refugiados: Aquellos que fueren reconocidos como refugiados o asilados se les concederá autorización para residir en el país por el término de dos (2) años, prorrogables cuantas veces la autoridad de aplicación en materia de asilo y refugio lo estime necesario, atendiendo a las circunstancias que determine la legislación vigente en la materia;\n\nl) Nacionalidad: Ciudadanos nativos de Estados Parte del MERCOSUR, Chile y Bolivia, con autorización para permanecer en el país por dos (2) años, prorrogables con entradas y salidas múltiples;\n\nm) Razones Humanitarias: Extranjeros que invoquen razones humanitarias que justifiquen a juicio de la Dirección Nacional de Migraciones un tratamiento especial;\n\nn) Especiales: Quienes ingresen al país por razones no contempladas en los incisos anteriores y que sean consideradas de interés por el Ministerio del Interior y el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto."
+                },
+                {
+                  "numero-articulo": 24,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 24. - Los extranjeros que ingresen al país como \"residentes transitorios\" podrán ser admitidos en algunas de las siguientes subcategorías:\n\na) Turistas;\n\nb) Pasajeros en tránsito;\n\nc) Tránsito vecinal fronterizo;\n\nd) Tripulantes del transporte internacional;\n\ne) Trabajadores migrantes estacionales;\n\nf) Académicos;\n\ng) Tratamiento Médico;\n\nh) Especiales: Extranjeros que invoquen razones que justifiquen a juicio de la Dirección Nacional de Migraciones un tratamiento especial."
+                },
+                {
+                  "numero-articulo": 25,
+                  "texto": "ARTICULO 25. - Los extranjeros admitidos en el país como \"residentes temporarios\" o \"residentes transitorios\" podrán permanecer en el territorio nacional durante el plazo de permanencia autorizado, con sus debidas prórrogas, debiendo abandonar el mismo al expirar dicho plazo."
+                },
+                {
+                  "numero-articulo": 26,
+                  "texto": "ARTICULO 26. - El procedimiento, requisitos y condiciones para ingresar al país, según las categorías y subcategorías mencionadas, serán fijados en el Reglamento de Migraciones.\n\nSi por responsabilidad del organismo interviniente, los trámites demoraran más de lo estipulado, la Dirección Nacional de Migraciones deberá tomar todos los recaudos pertinentes a fin de evitar que los extranjeros, a la espera de la regularización de su residencia en el país, tengan inconvenientes derivados de tal demora."
+                },
+                {
+                  "numero-articulo": 27,
+                  "texto": "ARTICULO 27. - Quedan excluidos del ámbito de aplicación de esta ley, a condición de reciprocidad, los extranjeros que fueren:\n\na) Agentes diplomáticos y los funcionarios consulares acreditados en la República, así como los demás miembros de las Misiones diplomáticas permanentes o especiales y de las oficinas consulares y sus familiares que, en virtud de las normas del Derecho Internacional, estén exentos de las obligaciones relativas a la obtención de una categoría migratoria de admisión;\n\nb) Representantes y delegados, así como los demás miembros y sus familiares de las Misiones permanentes o de las Delegaciones ante los Organismos Intergubernamentales con sede en la República o en Conferencias Internacionales que se celebren en ella;\n\nc) Funcionarios destinados en Organizaciones Internacionales o Intergubernamentales con sede en la República, así como sus familiares, a quienes los Tratados en los que la República sea parte eximan de la obligación de visación consular;\n\nd) Titulares de visas argentinas diplomáticas, oficiales o de cortesía.\n\nDe no mediar Convenio o Tratado celebrado por la República, la admisión, ingreso, permanencia y egreso de los extranjeros contemplados en el presente artículo se regirán por las disposiciones que al efecto establezca el Poder Ejecutivo nacional.\n\nEn los casos previstos en el presente artículo la Dirección Nacional de Migraciones se limitará al contralor de la documentación en el momento del ingreso o del egreso, dejando constancia en la misma del carácter del ingreso; de la fecha del egreso y del plazo de permanencia en la República."
+                },
+                {
+                  "numero-articulo": 28,
+                  "texto": "ARTICULO 28. - Los extranjeros incluidos en Acuerdos o Convenios de Migraciones suscriptos por la República Argentina se regirán por lo dispuesto en los mismos y por esta ley, en el supuesto más favorable para la persona migrante. El principio de igualdad de trato no se considerará afectado por la posibilidad que tiene el Estado, conforme a los procedimientos establecidos en la Constitución y las leyes, de firmar acuerdos bilaterales de alcance general y parcial, que permitan atender fenómenos específicos, como el de la migración laboral fronteriza, ni por la posibilidad de establecer esquemas diferenciados de tratamiento entre los países que con la Argentina forman parte de una región respecto de aquellos países que resulten terceros dentro del proceso de regionalización, priorizando las medidas necesarias para el logro del objetivo final de la libre circulación de personas en el MERCOSUR."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LOS IMPEDIMENTOS",
+              "articulo": {
+                "numero-articulo": 29,
+                "informacion-vinculada": 1E+19,
+                "texto": "ARTÍCULO 29.- Serán causas impedientes del ingreso y permanencia de extranjeros al Territorio Nacional:\n\na) La presentación ante la autoridad de documentación nacional o extranjera material o ideológicamente falsa o adulterada. El hecho será sancionado con una prohibición de reingreso por un lapso mínimo de cinco (5) años;\n\nb) Tener prohibido el ingreso, haber sido objeto de medidas de expulsión o de prohibición de reingreso, hasta tanto las mismas no hayan sido revocadas o se hubiese cumplido el plazo impuesto al efecto;\n\nc) Haber sido condenado o estar cumpliendo condena, en la Argentina o en el exterior, o tener antecedentes por tráfico de armas, de personas, de estupefacientes o por lavado de dinero o inversiones en actividades ilícitas o delito que merezca para la legislación argentina pena privativa de la libertad de tres (3) años o más;\n\nd) Haber incurrido o participado en actos de gobierno o de otro tipo, que constituyan genocidio, crímenes de guerra, actos de terrorismo o delitos de lesa humanidad y de todo otro acto susceptible de ser juzgado por el Tribunal Penal Internacional;\n\ne) Tener antecedentes por actividades terroristas o por pertenecer a organizaciones nacional o internacionalmente reconocidas como imputadas de acciones susceptibles de ser juzgadas por el Tribunal Penal Internacional o por la ley 23.077, de Defensa de la Democracia;\n\nf) Haber sido condenado en la Argentina o tener antecedentes por promover o facilitar, con fines de lucro, el ingreso, la permanencia o el egreso ilegales de extranjeros en el Territorio Nacional;\n\ng) Haber sido condenado en la Argentina o tener antecedentes por haber presentado documentación material o ideológicamente falsa, para obtener para sí o para un tercero un beneficio migratorio;\n\nh) Promover la prostitución; lucrar con ello; haber sido condenado o tener antecedentes, en la Argentina o en el exterior por haber promovido la prostitución; por lucrar con ello o por desarrollar actividades relacionadas con el tráfico o la explotación sexual de personas;\n\ni) Intentar ingresar o haber ingresado al Territorio Nacional eludiendo el control migratorio o por lugar o en horario no habilitados al efecto;\n\nj) Constatarse la existencia de alguno de los impedimentos de radicación establecidos en la presente ley;\n\nk) El incumplimiento de los requisitos exigidos por la presente ley.\n\nEn el caso del inciso a) el Gobierno Federal se reserva la facultad de juzgar a la persona en la República cuando el hecho pueda relacionarse con cuestiones relativas a la seguridad del Estado, a la cooperación internacional o resulte posible vincular al mismo o a los hechos que se le imputen con otras investigaciones sustanciadas en el Territorio Nacional.\n\nLa Dirección Nacional de Migraciones, previa intervención del Ministerio del Interior, podrá admitir, excepcionalmente, por razones humanitarias o de reunificación familiar, en el país en las categorías de residentes permanentes o temporarios, mediante resolución fundada en cada caso particular, a los extranjeros comprendidos en el presente artículo.",
+                "modificado-por": {
+                  "referencia-normativa": [
+                    {
+                      "cr": "B.O. 30/01/2017. Sustituido.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0004 000 0000 000"
+                    },
+                    {
+                      "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                      "id": "MODIFICADO_POR_1",
+                      "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO III DE LOS DOCUMENTOS",
+              "articulo": [
+                {
+                  "numero-articulo": 30,
+                  "texto": "ARTICULO 30. - Podrán obtener el Documento Nacional de Identidad, los extranjeros con residencia permanente o temporaria."
+                },
+                {
+                  "numero-articulo": 31,
+                  "texto": "ARTICULO 31. - Los solicitantes de refugio o asilo, con autorización de residencia precaria, podrán obtener su Documento Nacional de Identidad una vez reconocidos como \"refugiados\" o \"asilados\" por la autoridad competente."
+                },
+                {
+                  "numero-articulo": 32,
+                  "texto": "ARTICULO 32. - Cuando se trate de extranjeros autorizados en calidad de \"residentes temporarios'' el Documento Nacional de Identidad se expedirá por el mismo plazo que corresponda a la subcategoría migratoria otorgada, renovable conforme a las prórrogas que se autoricen."
+                },
+                {
+                  "numero-articulo": 33,
+                  "texto": "ARTICULO 33. - En los casos precedentes, en el documento identificatorio a otorgarse, deberá dejarse expresa y visible constancia de:\n\na) La nacionalidad del titular;\n\nb) El carácter permanente o temporario de la residencia en el país;\n\nc) Actuación en la que se otorgó el beneficio y número de resolución;\n\nd) Plazo de la residencia autorizada y vencimiento."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO III DEL INGRESO Y EGRESO DE PERSONAS",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DEL INGRESO Y EGRESO",
+              "articulo": [
+                {
+                  "numero-articulo": 34,
+                  "texto": "ARTICULO 34. - El ingreso y egreso de personas al territorio nacional se realizará exclusivamente por los lugares habilitados por la Dirección Nacional de Migraciones, sean éstos terrestres, fluviales, marítimos o aéreos, oportunidad y lugar en que serán sometidos al respectivo control migratorio.\n\nSe podrá autorizar la entrada al país de los extranjeros que no reúnan los requisitos establecidos en la ley y su reglamentación, cuando existan razones excepcionales de índole humanitaria, interés público o cumplimiento de compromisos adquiridos por la Argentina."
+                },
+                {
+                  "numero-articulo": 35,
+                  "texto": "ARTICULO 35. - En el supuesto de arribar una persona al territorio de la República con un documento extranjero destinado a acreditar su identidad que no cumpliera las condiciones previstas en la legislación vigente, y en tanto no se trate de un reingreso motivado por un rechazo de un tercer país, se procederá al inmediato rechazo en frontera impidiéndosele el ingreso al territorio nacional.\n\nAquellos rechazos que se produjeran motivados en la presentación de documentación material o ideológicamente falsa o que contengan atestaciones apócrifas implicarán una prohibición de reingreso de cinco (5) años.\n\nSin perjuicio de los procedimientos previstos en el presente artículo, el Gobierno Nacional se reserva la facultad de denunciar el hecho ante la Justicia Federal cuando se encuentren en juego cuestiones relativas a la seguridad del Estado, a la cooperación internacional, o resulte posible vincular al mismo o a los hechos que se le imputen, con otras investigaciones sustanciadas en el territorio nacional.\n\nCuando existiera sospecha fundada que la real intención que motiva el ingreso difiere de la manifestada al momento de obtener la visa o presentarse ante el control migratorio; y hasta tanto se corrobore la misma, no se autorizará su ingreso al territorio argentino y deberá permanecer en las instalaciones del punto de ingreso. Si resultare necesario para preservar la salud e integridad física de la persona, la autoridad migratoria, reteniendo la documentación de la misma, le otorgará una autorización provisoria de permanencia que no implicará ingreso legal a la República Argentina.\n\nAsimismo se comunicará a la empresa transportadora que se mantiene vigente su obligación de reconducción hasta tanto la autorización provisoria de permanencia sea transformada en ingreso legal.\n\nSi tras la corroboración se confirmara el hecho se procederá a la inmediata cancelación de la autorización provisoria de permanencia y al rechazo del extranjero.\n\nLas decisiones adoptadas en virtud de las previsiones contenidas en los párrafos primero y segundo del presente artículo sólo resultarán recurribles desde el exterior, mediante presentación efectuada por el extranjero ante las delegaciones diplomáticas argentinas o las oficinas en el extranjero de la Dirección Nacional de Migraciones, desde donde se harán llegar a la sede central de la Dirección Nacional de Migraciones. El plazo para presentar el recurso será de quince (15) días a contar del momento del rechazo."
+                },
+                {
+                  "numero-articulo": 36,
+                  "texto": "ARTICULO 36. - La autoridad migratoria podrá impedir la salida del país a toda persona que no se encuentre en posesión de la documentación necesaria, conforme a lo dispuesto por esta ley y su reglamentación."
+                },
+                {
+                  "numero-articulo": 37,
+                  "texto": "ARTICULO 37. - El extranjero que ingrese a la República por lugar no habilitado a tal efecto, o eludiendo cualquier forma de contralor migratorio, será pasible de expulsión en los términos y condiciones de la presente ley."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LAS OBLIGACIONES DE LOS MEDIOS DE TRANSPORTE INTERNACIONAL",
+              "articulo": [
+                {
+                  "numero-articulo": 38,
+                  "texto": "ARTICULO 38. - El capitán, comandante, armador, propietario, encargado o responsable de todo medio de transporte de personas, para o desde la República, ya sea marítimo, fluvial, aéreo o terrestre, y las compañías, empresas o agencias propietarias, explotadoras o consignatarias de un medio de transporte serán responsables solidariamente de la conducción y transporte de pasajeros y tripulantes en condiciones reglamentarias."
+                },
+                {
+                  "numero-articulo": 39,
+                  "texto": "ARTICULO 39. - De igual forma y modo, los mencionados en el artículo anterior, serán responsables por el cuidado y custodia de los pasajeros y tripulantes, hasta que hayan pasado el examen de contralor migratorio y hayan ingresado en la República, o verificada la documentación al egresar."
+                },
+                {
+                  "numero-articulo": 40,
+                  "texto": "ARTICULO 40. - Al rehusar la autoridad migratoria el ingreso de cualquier persona, el capitán, comandante, armador, propietario, encargado o responsable del medio de transporte y de las compañías, empresas o agencias, quedarán obligados a reconducirla a su país de origen o procedencia, o fuera del territorio de la República en el medio de transporte en que llegó, o en caso de imposibilidad, en otro medio dentro del plazo perentorio que se le fije, siendo a su cargo los gastos que ello ocasione."
+                },
+                {
+                  "numero-articulo": 41,
+                  "texto": "ARTICULO 41. - El capitán, comandante, armador, propietario, encargado o responsable de un medio de transporte de personas al país, o desde el mismo o en el mismo, ya sea marítimo, fluvial, aéreo o terrestre, o la compañía, empresa o agencia propietaria, consignataria, explotadora o responsable, quedan obligados solidariamente a transportar a su cargo, en el plazo que se le fije, fuera del territorio argentino, o hasta el lugar de frontera, a todo extranjero cuya expulsión resuelva y su transporte disponga la autoridad migratoria, de conformidad con lo establecido en la presente ley."
+                },
+                {
+                  "numero-articulo": 42,
+                  "texto": "ARTICULO 42. - Los artículos precedentes no serán de aplicación en el supuesto de extranjeros que soliciten el status de refugio o asilo en el país; en estos casos, la obligación para las personas que describen los artículos 40 y 41 se reducirá a dar cuenta de inmediato de tal situación a la autoridad con competencia en materia de refugio y asilo."
+                },
+                {
+                  "numero-articulo": 43,
+                  "texto": "ARTICULO 43. - La obligación de transporte establecida en los artículos 40 y 41 se limitará a:\n\na) Una (1) plaza por viaje, cuando la capacidad del medio de transporte no exceda de cincuenta (50) plazas en los medios internacionales aéreos, marítimos, fluviales o terrestres y en los de carácter interno, cuando la capacidad no exceda de treinta (30) plazas;\n\nb) Dos (2) plazas cuando la capacidad del medio de transporte fuera superior a la indicada para cada caso en el inciso a);\n\nc) Cuando la expulsión se motivara en fallas en la documentación de ingreso del extranjero detectadas al momento de controlar el mismo y debiera efectivizarse con custodia, la empresa de transporte utilizada para el ingreso deberá hacerse cargo de los pasajes de ida y vuelta del personal de custodia y de los viáticos que le correspondieran.\n\nEn todos los casos deberá preverse expresamente el mecanismo de intereses que correspondiere."
+                },
+                {
+                  "numero-articulo": 44,
+                  "texto": "ARTICULO 44. - El límite dispuesto por el artículo anterior no regirá cuando las personas a transportar:\n\na) Integren un grupo familiar;\n\nb) Deban ser transportadas por la misma compañía a la cual pertenece el medio en el que ingresaron;\n\nc) Sean de la nacionalidad del país de bandera o matrícula del medio en que se efectuará el transporte."
+                },
+                {
+                  "numero-articulo": 45,
+                  "texto": "ARTICULO 45. - Las obligaciones emergentes de los artículos 40, 41, 43 y 44 serán consideradas carga pública."
+                },
+                {
+                  "numero-articulo": 46,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 46. - El incumplimiento de las disposiciones previstas en el presente Título y sus reglamentaciones, será sancionado por la Dirección Nacional de Migraciones con una multa cuyo monto será de hasta el triple de la tarifa en el medio de transporte utilizado desde el punto de origen hasta el punto de destino en territorio nacional, al valor vigente al momento de la imposición de la multa. En ningún caso las multas podrán ser inferiores al equivalente a mil doscientos diecinueve (1.219) litros de gasoil al precio subsidiado para transportistas o en ausencia de éste al más bajo del mercado para consumidor particular al día de la imposición de la multa; ni superiores al equivalente a treinta mil cuatrocientos ochenta y siete (30.487) litros de gasoil al precio subsidiado para transportistas o en ausencia de éste al más bajo del mercado para consumidor particular al día de la imposición de la multa.\n\nEn caso de mora en el pago de la multa se devengarán los correspondientes intereses."
+                },
+                {
+                  "numero-articulo": 47,
+                  "texto": "ARTICULO 47. - La sanción será aplicada solidariamente al capitán, comandante, armador, propietario, encargado o responsable del medio de transporte y a la compañía, empresa o agencia propietaria, explotadora, consignataria o responsable del mismo.\n\nEl Ministerio del Interior, a propuesta de la Dirección Nacional de Migraciones, aprobará el nomenclador regulador del monto de las multas impuestas por infracciones a las previsiones del presente título. A tal efecto se tendrán en cuenta la naturaleza de la infracción, la condición jurídica del infractor, sus antecedentes y reincidencias en las infracciones a la presente ley o su reglamentación.\n\nLa Dirección Nacional de Migraciones queda facultada a fijar la forma y modo de pago de las multas que se impongan en función de las previsiones de la presente ley."
+                },
+                {
+                  "numero-articulo": 48,
+                  "texto": "ARTICULO 48. - En los casos de incumplimiento de las obligaciones previstas en los artículos 40, 41, 43 y 44 de la presente, la autoridad de aplicación podrá disponer la interdicción provisoria de salida del territorio nacional, espacio aéreo o aguas jurisdiccionales argentinas, del medio de transporte correspondiente.\n\nLa misma se hará efectiva por medio de la Policía Migratoria Auxiliar o la Autoridad Nacional con jurisdicción sobre el transporte."
+                },
+                {
+                  "numero-articulo": 49,
+                  "texto": "ARTICULO 49. - Podrán imponerse cauciones reales en efectivo o documentarias a las empresas, compañías o agencias propietarias, consignatarias, explotadoras o responsables de cualquier medio de transporte, en garantía del cumplimiento de las obligaciones de reconducir o transportar que se dicten en virtud de lo dispuesto por la presente ley."
+                },
+                {
+                  "numero-articulo": 50,
+                  "texto": "ARTICULO 50. - La autoridad de aplicación establecerá el monto de las cauciones y las modalidades, plazos y condiciones de su prestación, así como los requisitos para su cancelación, devolución o percepción."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IV DE LA PERMANENCIA DE LOS EXTRANJEROS",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DEL TRABAJO Y ALOJAMIENTO DE LOS EXTRANJEROS",
+              "articulo": [
+                {
+                  "numero-articulo": 51,
+                  "texto": "ARTICULO 51. - Los extranjeros admitidos o autorizados como \"residentes permanentes\" podrán desarrollar toda tarea o actividad remunerada o lucrativa, por cuenta propia o en relación de dependencia, gozando de la protección de las leyes que rigen la materia. Los extranjeros admitidos o autorizados como \"residentes temporarios\" podrán desarrollarlas sólo durante el período de su permanencia autorizada."
+                },
+                {
+                  "numero-articulo": 52,
+                  "texto": "ARTICULO 52. - Los extranjeros admitidos o autorizados como \"residentes transitorios\" no podrán realizar tareas remuneradas o lucrativas, ya sea por cuenta propia o en relación de dependencia, con excepción de los incluidos en la subcategoría de \"trabajadores migrantes estacionales\", o salvo que fueran expresamente autorizados por la Dirección Nacional de Migraciones de conformidad con lo dispuesto por la presente ley o en Convenios de Migraciones suscriptos por la República Argentina. Los extranjeros a los que se le hubiera autorizado una residencia precaria podrán ser habilitados para trabajar por el plazo y con las modalidades que establezca la Dirección Nacional de Migraciones."
+                },
+                {
+                  "numero-articulo": 53,
+                  "texto": "ARTICULO 53. - Los extranjeros que residan irregularmente en el país no podrán trabajar o realizar tareas remuneradas o lucrativas, ya sea por cuenta propia o ajena, con o sin relación de dependencia."
+                },
+                {
+                  "numero-articulo": 54,
+                  "texto": "ARTÍCULO 54.-  Los extranjeros mantendrán actualizados ante la Dirección Nacional de Migraciones, por la vía y plazos que se indique en la reglamentación, los datos referidos a su domicilio, en donde se considerarán válidas todas las notificaciones.",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0005 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LAS RESPONSABILIDADES Y OBLIGACIONES DE LOS DADORES DE TRABAJO, ALOJAMIENTO Y OTROS",
+              "articulo": [
+                {
+                  "numero-articulo": 55,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 55. - No podrá proporcionarse alojamiento a titulo oneroso a los extranjeros que se encuentren residiendo irregularmente en el país.\n\nAsimismo, ninguna persona de existencia visible o ideal, pública o privada, podrá proporcionar trabajo u ocupación remunerada, con o sin relación de dependencia, a los extranjeros que residan irregularmente."
+                },
+                {
+                  "numero-articulo": 56,
+                  "texto": "ARTICULO 56. - La aplicación de la presente ley no eximirá al empleador o dador de trabajo del cumplimiento de las obligaciones emergentes de la legislación laboral respecto del extranjero, cualquiera sea su condición migratoria; asimismo, en ningún modo se afectarán los derechos adquiridos por los extranjeros, como consecuencia de los trabajos ya realizados, cualquiera sea su condición migratoria."
+                },
+                {
+                  "numero-articulo": 57,
+                  "texto": "ARTICULO 57. - Quien contrate o convenga con extranjeros que residan irregularmente en el país, la adquisición, venta o constitución de gravamen sobre bienes inmuebles, derechos o muebles registrables, o la constitución o integración de sociedades civiles o comerciales, deberá comunicarlo fehacientemente a la autoridad migratoria."
+                },
+                {
+                  "numero-articulo": 58,
+                  "texto": "ARTICULO 58. - Los actos celebrados con los requisitos formales inherentes a los mismos, aún cuando no se cumpliere con la exigencia del artículo anterior, serán considerados válidos."
+                },
+                {
+                  "numero-articulo": 59,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 59. - Quienes infrinjan las disposiciones establecidas en el artículo 55, primer párrafo de la presente, serán sancionados solidariamente con una multa cuyo monto ascenderá a veinte (20) Salarios Mínimo Vital y Móvil por cada extranjero al que se proporcione alojamiento a título oneroso.\n\nQuienes infrinjan las disposiciones establecidas en el artículo 55, segundo párrafo de la presente, serán sancionados solidariamente con una multa cuyo monto ascenderá a cincuenta (50) Salarios Mínimo Vital y Móvil por cada extranjero, carente de habilitación migratoria para trabajar, al que se proporcione trabajo u ocupación remunerada.\n\nEl monto de la sanción a imponer será de cien (100) Salarios Mínimo Vital y Móvil cuando se proporcione trabajo u ocupación remunerada a extranjeros no emancipados o menores de catorce (14) años.\n\nLa reincidencia se considerará agravante de la infracción y elevará el monto de la multa impuesta hasta en un cincuenta por ciento (50%).\n\nLa Dirección Nacional de Migraciones mediando petición del infractor que acredite falta de medios suficientes podrá excepcionalmente, mediante disposición fundada, disponer para el caso concreto una disminución del monto de la multa a imponer o autorizar su pago en cuotas. A tal efecto se merituará la capacidad económica del infractor y la posible reincidencia que pudiera registrar en la materia.\n\nEn ningún caso la multa que se imponga será inferior a dos (2) Salarios Mínimos Vital y Móvil.\n\nFacúltase al Ministerio del Interior a establecer mecanismos alternativos de sanciones a las infracciones previstas en el presente Título -De las responsabilidades de los empleadores, dadores de trabajo y alojamiento-, basadas en la protección del migrante, la asistencia y acción social."
+                },
+                {
+                  "numero-articulo": 60,
+                  "texto": "ARTICULO 60. - Las sanciones serán graduadas de acuerdo con la naturaleza de la infracción, la persona, antecedentes en la materia y en caso de reincidencia en las infracciones a la presente ley, las mismas serán acumulativas y progresivas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO V DE LA LEGALIDAD E ILEGALIDAD DE LA PERMANENCIA",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DE LA DECLARACION DE ILEGALIDAD Y CANCELACION DE LA PERMANENCIA",
+              "articulo": [
+                {
+                  "numero-articulo": 61,
+                  "texto": "ARTICULO 61. - Al constatar la irregularidad de la permanencia de un extranjero en el país, y atendiendo a las circunstancias de profesión del extranjero, su parentesco con nacionales argentinos, el plazo de permanencia acreditado y demás condiciones personales y sociales, la Dirección Nacional de Migraciones deberá conminarlo a regularizar su situación en el plazo perentorio que fije para tal efecto, bajo apercibimiento de decretar su expulsión. Vencido el plazo sin que se regularice la situación, la Dirección Nacional de Migraciones decretará su expulsión con efecto suspensivo y dará intervención y actuará como parte ante el Juez o Tribunal con competencia en la materia, a efectos de la revisión de la decisión administrativa de expulsión."
+                },
+                {
+                  "numero-articulo": 62,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTÍCULO 62.- La Dirección Nacional de Migraciones, sin perjuicio de las acciones judiciales que correspondieran deducir, cancelará la residencia que hubiese otorgado, con efecto suspensivo, cualquiera fuese su antigüedad, categoría o causa de la admisión y dispondrá la posterior expulsión, cuando:\n\na) Con la finalidad de obtener un beneficio migratorio o la ciudadanía argentina se hubiese articulado un hecho o un acto simulado o éste hubiese sido celebrado en fraude a la ley o con vicio del consentimiento o se hubiere presentado documentación material o ideológicamente falsa o adulterada;\n\nb) El residente hubiese sido condenado judicialmente en la República por delito doloso que merezca pena privativa de libertad mayor de cinco (5) años o registrase una conducta reiterante en la comisión de delitos. En el primer supuesto cumplida la condena, deberá transcurrir un plazo de dos (2) años para que se dicte la resolución definitiva de cancelación de residencia, la que se fundamentará en la posible incursión por parte del extranjero en los impedimentos previstos en el artículo 29 de la presente ley. En caso de silencio de la Administración, durante los treinta (30) días posteriores al vencimiento de dicho plazo, se considerará que la residencia queda firme;\n\nc) El beneficiario de una radicación permanente hubiese permanecido fuera del Territorio Nacional por un período superior a los dos (2) años o la mitad del plazo acordado, si se tratara de residencia temporaria, excepto que la ausencia obedeciere al ejercicio de una función pública argentina o se hubiese generado en razón de actividades, estudios o investigaciones que a juicio de la Dirección Nacional de Migraciones pudieran ser de interés o beneficiosa para la República Argentina o que mediara autorización expresa de la autoridad migratoria la que podrá ser solicitada por intermedio de las autoridades consulares argentinas;\n\nd) Asimismo será cancelada la residencia permanente, temporaria o transitoria concedida cuando se hayan desnaturalizado las razones que motivaron su concesión o cuando la instalación en el país hubiera sido subvencionada total o parcialmente, directa o indirectamente por el Estado Argentino y no se cumplieran o se violaren las condiciones expresamente establecidas para la subvención;\n\ne) El Ministerio del Interior podrá disponer la cancelación de la residencia permanente o temporaria y la expulsión de la República de todo extranjero, cualquiera sea la situación de residencia, cuando realizare en el país o en el exterior, cualquiera de las actividades previstas en los incisos d) y e) del artículo 29 de la presente.\n\nEl Ministerio del Interior dispensará el cumplimiento de la cancelación prevista en virtud del presente artículo cuando el extranjero fuese padre, hijo o cónyuge de argentino, salvo decisión debidamente fundada por parte de la autoridad migratoria.\n\nAsimismo, dicha dispensa podrá ser otorgada teniendo en cuenta el plazo de permanencia, legal inmediata anterior a la ocurrencia de alguna de las causales previstas en los incisos a) a d) del presente artículo, el que no podrá ser inferior a dos (2) años, debiendo tenerse en cuenta las circunstancias personales y sociales del beneficiario.",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0006 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "62 002",
+                  "texto": "ARTÍCULO 62 bis.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0007 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 63,
+                  "texto": "ARTÍCULO 63.- En todos los supuestos previstos por la presente ley:\n\na) La cancelación de la residencia conlleva la conminación a hacer abandono del país dentro del plazo que se fije o la expulsión del Territorio Nacional tomando en consideración las circunstancias fácticas y personales del interesado, según lo establezca la Reglamentación;\n\nb) La expulsión lleva implícita la prohibición de reingreso permanente o por un término que en ningún caso podrá ser inferior a cinco (5) años y se graduará según la importancia de la causa que la motivara. Dicha prohibición sólo podrá ser dispensada por la Dirección Nacional de Migraciones.",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0008 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 04/03/2021) Artículo restituido.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "numero-articulo": 64,
+                  "texto": "ARTICULO 64. - Los actos administrativos de expulsión firmes y consentidos dictados respecto de extranjeros que se encuentren en situación irregular, se ejecutarán en forma inmediata cuando se trate de:\n\na) Extranjeros que se encontraren cumpliendo penas privativas de libertad, cuando se hubieran cumplido los supuestos establecidos en los acápites I y II del artículo 17 de la ley 24.660 que correspondieren para cada circunstancia. La ejecución del extrañamiento dará por cumplida la pena impuesta originalmente por el Tribunal competente;\n\nb) Extranjeros sometidos a proceso, cuando sobre los mismos recayere condena firme de ejecución condicional. La ejecución del extrañamiento dará por cumplida la pena impuesta originalmente por el Tribunal competente;\n\nc) El procesamiento de un extranjero sobre el que pesa orden administrativa de expulsión firme y consentida, en cuyo caso no procederá el otorgamiento del beneficio de la suspensión del juicio a prueba o de medidas curativas, las que serán reemplazadas por la ejecución del extrañamiento, dándose por cumplida la carga impuesta al extranjero."
+                },
+                {
+                  "numero-articulo": 65,
+                  "texto": "ARTICULO 65. - Ningún extranjero o familiar suyo será privado de su autorización de residencia ni expulsado por el solo hecho de no cumplir una obligación emanada de un contrato de trabajo, a menos que el cumplimiento de esa obligación constituya condición necesaria para dicha autorización o permiso."
+                },
+                {
+                  "numero-articulo": 66,
+                  "texto": "ARTICULO 66. - Los extranjeros y sus familiares no podrán ser objeto de medidas de expulsión colectiva. Cada caso de expulsión será examinado y decidido individualmente."
+                },
+                {
+                  "numero-articulo": 67,
+                  "texto": "ARTICULO 67. - La expulsión no menoscabará por sí sola ninguno de los derechos que haya adquirido el migrante de conformidad con la legislación nacional, incluido el derecho a recibir los salarios y toda otra prestación que le pudiere corresponder."
+                },
+                {
+                  "numero-articulo": 68,
+                  "texto": "ARTICULO 68. - El interesado deberá contar con oportunidad razonable, aún después de la partida, para reclamar lo concerniente al pago de los salarios y otras prestaciones que le pudieren corresponder, así como para cumplimentar sus obligaciones pendientes. Los gastos a que dé lugar el procedimiento de expulsión de un migrante o un familiar suyo estarán a cargo de la autoridad de aplicación. Podrá exigírsele que pague sus propios gastos de viaje desde el puesto de salida hasta su lugar de destino, sin perjuicio de lo previsto en el Título III."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPÍTULO I BIS DEL PROCEDIMIENTO MIGRATORIO ESPECIAL SUMARÍSIMO.",
+              "articulo": [
+                {
+                  "numero-articulo": 69,
+                  "texto": "ARTÍCULO 69.-  A aquellos extranjeros a quienes se impidiere hacer abandono del país por disposición judicial, la autoridad de migración les concederá autorización de \"residencia precaria\"",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0010 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 002",
+                  "texto": "ARTÍCULO 69 bis.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0011 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 003",
+                  "texto": "ARTÍCULO 69 ter.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 004",
+                  "texto": "ARTÍCULO 69 quater.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0013 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 005",
+                  "texto": "ARTÍCULO 69 quinquies.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O.30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0014 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 006",
+                  "texto": "ARTÍCULO 69 sexies.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0015 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 007",
+                  "texto": "ARTÍCULO 69 septies.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado,",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0016 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 04/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 008",
+                  "texto": "ARTÍCULO 69 octies.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0017 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 009",
+                  "texto": "ARTÍCULO 69 nonies.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0018 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 010",
+                  "texto": "ARTÍCULO 69 decies.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0019 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "CPC C 017454 1981 08 18 0498 000 0000 000"
+                    }
+                  },
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "69 011",
+                  "texto": "ARTÍCULO 69 undecies.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 04/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado,",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0020 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LAS MEDIDAS CAUTELARES",
+              "articulo": [
+                {
+                  "numero-articulo": 70,
+                  "texto": "ARTÍCULO 70.- Firme y consentida la expulsión de un extranjero, el Ministerio del Interior o la Dirección Nacional de Migraciones, solicitarán a la autoridad judicial competente que ordene su retención, mediante resolución fundada, al solo y único efecto de cumplir aquélla.\n\nExcepcionalmente y cuando las características del caso lo justificare, la Dirección Nacional de Migraciones o el Ministerio del Interior podrán solicitar a la autoridad judicial la retención del extranjero aún cuando la orden de expulsión no se encuentre firme y consentida.\n\nProducida tal retención y en el caso que el extranjero retenido alegara ser padre, hijo o cónyuge de argentino nativo, siempre que el matrimonio se hubiese celebrado con anterioridad al hecho que motivara la resolución, la Dirección Nacional de Migraciones deberá suspender la expulsión y constatar la existencia del vínculo alegado en un plazo de cuarenta y ocho (48) horas hábiles. Acreditado que fuera el vínculo el extranjero recuperará en forma inmediata su libertad y se habilitará respecto del mismo, un procedimiento sumario de regularización migratoria.\n\nEn todos los casos el tiempo de retención no podrá exceder el estrictamente indispensable para hacer efectiva la expulsión del extranjero.\n\nProducida la retención, se dará inmediato conocimiento de la misma al Juzgado que hubiere dictado la orden a tal efecto.",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0021 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "numero-articulo": 71,
+                  "texto": "ARTICULO 71. - Hecha efectiva la retención de un extranjero, la autoridad de aplicación, podrá disponer su libertad provisoria bajo caución real o juratoria que fijen en cada caso, cuando no pueda realizarse la expulsión en un plazo prudencial o medien causas que lo justifiquen. Dicha decisión deberá ser puesta en conocimiento del Juez Federal competente en forma inmediata."
+                },
+                {
+                  "numero-articulo": 72,
+                  "texto": "ARTICULO 72. - La retención se hará efectiva por los organismos integrantes de la policía migratoria auxiliar, los que alojarán a los detenidos en sus dependencias o donde lo disponga la Dirección Nacional de Migraciones, hasta su salida del territorio nacional.\n\nCuando por razones de seguridad o por las condiciones personales del expulsado, se haga necesaria su custodia hasta el lugar de destino, la autoridad migratoria podrá disponerla y requerirla de la policía migratoria auxiliar. En caso de necesidad, podrá solicitar asistencia médica."
+                },
+                {
+                  "numero-articulo": 73,
+                  "texto": "ARTICULO 73. - Las personas, compañías, empresas, asociaciones o sociedades que solicitaren el ingreso, la permanencia o la regularización de la situación migratoria de un extranjero en el país, deberán presentar caución suficiente, de acuerdo a lo que establezca la reglamentación."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO VI DEL REGIMEN DE LOS RECURSOS",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DEL REGIMEN DE LOS RECURSOS",
+              "articulo": [
+                {
+                  "numero-articulo": 74,
+                  "texto": "ARTICULO 74. - Contra las decisiones de la Dirección Nacional de Migraciones que revistan carácter de definitivas o que impidan totalmente la tramitación del reclamo o pretensión del interesado y contra los interlocutorios de mero trámite que lesionen derechos subjetivos o un interés legítimo, procederá la revisión en sede administrativa y judicial, cuando:\n\na) Se deniegue la admisión o la permanencia de un extranjero;\n\nb) Se cancele la autorización de residencia permanente, temporaria o transitoria;\n\nc) Se conmine a un extranjero a hacer abandono del país o se decrete su expulsión;\n\nd) Se resuelva la aplicación de multas y cauciones o su ejecución."
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "74 002",
+                  "texto": "ARTÍCULO 74 bis.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0022 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 75,
+                  "texto": "ARTICULO 75. - Podrán ser objeto de Recurso de Reconsideración los actos administrativos que resuelvan sobre las cuestiones enumeradas precedentemente.\n\nDicho recurso se interpondrá contra los actos dictados por la Dirección Nacional de Migraciones y serán resueltos por ésta.\n\nEn el caso de que el acto hubiese sido dictado por autoridad delegada, ésta será quien resuelva, sin perjuicio del derecho de avocación de la mencionada Dirección, salvo que la delegación hubiere cesado al tiempo de deducirse el recurso, supuesto en el cual resolverá el delegante.\n\nEl Recurso de Reconsideración deberá deducirse dentro de los diez (10) días hábiles de la notificación fehaciente del acto y ante el mismo órgano que lo dictó."
+                },
+                {
+                  "numero-articulo": 76,
+                  "texto": "ARTICULO 76. - La autoridad competente deberá resolver el Recurso de Reconsideración deducido, dentro de los treinta (30) días hábiles de su interposición. Vencido dicho plazo sin que hubiere una resolución al respecto, podrá reputarse denegado tácitamente, sin necesidad de requerir pronto despacho."
+                },
+                {
+                  "numero-articulo": 77,
+                  "texto": "ARTICULO 77. - El Recurso de Reconsideración lleva implícito el Recurso Jerárquico en Subsidio en el caso de decisiones adoptadas por autoridad delegada. Conforme a ello, cuando la reconsideración hubiese sido rechazada -expresa o tácitamente- las actuaciones deberán elevarse a la Dirección Nacional de Migraciones dentro del término de cinco (5) días hábiles, de oficio - supuesto de denegatoria expresa- o a petición de parte -supuesto de silencio-.\n\nDentro de los cinco (5) días hábiles de recibida por la Dirección Nacional de Migraciones, el interesado podrá mejorar o ampliar los fundamentos del recurso."
+                },
+                {
+                  "numero-articulo": 78,
+                  "texto": "ARTICULO 78. - Los actos administrativos que resuelvan sobre las cuestiones enumeradas en el artículo 74, podrán también ser objeto del Recurso Jerárquico a interponerse ante la autoridad emisora del acto recurrido dentro de los quince (15) días hábiles de su notificación fehaciente, y será elevado de oficio y dentro del término de cinco (5) días hábiles a la Dirección Nacional de Migraciones.\n\nEl Organismo citado deberá resolver el Recurso Jerárquico dentro de los treinta (30) días hábiles contados desde la recepción de las actuaciones.\n\nLa interposición del Recurso Jerárquico no requiere la previa deducción del Recurso de Reconsideración.\n\nSi se hubiere interpuesto éste, no será indispensable fundar nuevamente el Jerárquico."
+                },
+                {
+                  "numero-articulo": 79,
+                  "texto": "ARTICULO 79. - Contra los actos dispuestos por la Dirección Nacional de Migraciones en los términos del Artículo 74, procederá a opción del interesado, el recurso administrativo de alzada o el recurso judicial pertinente."
+                },
+                {
+                  "numero-articulo": 80,
+                  "texto": "ARTICULO 80. - La elección de la vía judicial hará perder la administrativa; pero la interposición del recurso de alzada no impedirá desistirlo en cualquier estado a fin de promover la acción judicial, ni obstará a que se articule ésta una vez resuelto el recurso administrativo."
+                },
+                {
+                  "numero-articulo": 81,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 81. - El Ministro del Interior será competente para resolver en definitiva el recurso de alzada."
+                },
+                {
+                  "numero-articulo": 82,
+                  "texto": "ARTÍCULO 82.- La interposición de recursos, administrativos o judiciales, en los casos previstos en el artículo 74, suspenderá la ejecución de la medida dictada hasta tanto la misma quede firme.",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0023 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "numero-articulo": 83,
+                  "texto": "ARTICULO 83. - En los casos no previstos en este Título, serán de aplicación supletoria las disposiciones de la ley 19.549, el Decreto N° 1759/72 y sus modificaciones."
+                },
+                {
+                  "numero-articulo": 84,
+                  "texto": "ARTICULO 84. - Agotada la vía administrativa a través de los Recursos de Reconsideración, Jerárquico o Alzada, queda expedita la vía recursiva judicial.\n\nEl plazo para la interposición del respectivo recurso, será de treinta (30) días hábiles a contar desde la notificación fehaciente al interesado."
+                },
+                {
+                  "numero-articulo": 85,
+                  "texto": "ARTICULO 85. - La parte interesada podrá solicitar judicialmente se libre orden de pronto despacho, la cual será procedente cuando la autoridad administrativa hubiere dejado vencer los plazos fijados o, en caso de no existir éstos, si hubiere transcurrido un plazo que exceda lo razonable para dictaminar. Presentado el pedido, el juez debe expedirse sobre su procedencia teniendo en cuenta las circunstancias del caso y, de entenderlo procedente, requerirá a la autoridad administrativa interviniente un informe acerca de las causas de la demora invocada, fijándole para ello un plazo. La decisión judicial será inapelable.\n\nContestado el requerimiento o vencido el plazo para hacerlo sin haber obtenido la resolución pertinente, el juez resolverá lo que corresponda con relación a la mora, librando -en su caso- la orden correspondiente a fin de que la autoridad administrativa responsable despache las actuaciones en el plazo que se establezca de acuerdo con la naturaleza y complejidad del caso pendiente."
+                },
+                {
+                  "numero-articulo": 86,
+                  "texto": "ARTÍCULO 86.- Los extranjeros que se encuentren en territorio nacional y que carezcan de medios económicos, tendrán derecho a asistencia jurídica gratuita en aquellos procedimientos administrativos y judiciales que puedan llevar a la denegación de su entrada, al retorno a su país de origen o a la expulsión del territorio argentino. Además tendrán derecho a la asistencia de intérprete/s si no comprenden o hablan el idioma oficial. Las reglamentaciones a la presente, que en su caso se dicten, deberán resguardar el ejercicio del Derecho Constitucional de defensa.",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "B.O. 30/01/2017. Sustituido.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 000070 2017 01 27 0023 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "numero-articulo": 87,
+                  "texto": "ARTICULO 87. - La imposibilidad de pago de las tasas establecidas para la interposición de recursos no podrán obstaculizar el acceso al régimen de recursos establecido en el presente Título."
+                },
+                {
+                  "numero-articulo": 88,
+                  "texto": "ARTICULO 88. - La imposibilidad del pago de la tasa prevista para la interposición de los recursos, no será obstáculo para acceder al régimen recursivo previsto en el presente capítulo."
+                },
+                {
+                  "numero-articulo": 89,
+                  "texto": "ARTICULO 89. - El recurso judicial previsto en el artículo 84, como la consecuente intervención y decisión del órgano judicial competente para entender respecto de aquéllos, se limitarán al control de legalidad, debido proceso y de razonabilidad del acto motivo de impugnación."
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 05/03/2021) Artículo derogado.",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": "89 002",
+                  "texto": "ARTÍCULO 89 bis.- NOTA DE REDACCIÓN: Derogado por el DNU 138/2021 (B.O. 05/03/2021)",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "B.,O. 30/01/2017. Incorporado.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000070 2017 01 27 0025 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LA REVISION DE LOS ACTOS DECISORIOS",
+              "articulo": {
+                "numero-articulo": 90,
+                "texto": "ARTICULO 90. - El Ministerio del Interior y la Dirección Nacional de Migraciones podrán rever, de oficio o a petición de parte, sus resoluciones y las de las autoridades que actúen por delegación. Serán susceptibles de revisión las decisiones cuando se comprueben casos de error, omisión o arbitrariedad manifiesta, violaciones al debido proceso, o cuando hechos nuevos de suficiente entidad justifiquen dicha medida.",
+                "modificado-por": {
+                  "referencia-normativa": [
+                    {
+                      "cr": "(B.O. 05/03/2021) Artículo restituido.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DNU C 000138 2021 03 04 0002 000 0000 000"
+                    },
+                    {
+                      "cr": "(B.O. 30/01/2017) Artículo derogado.",
+                      "id": "MODIFICADO_POR_1",
+                      "ref": "DNU C 000070 2017 01 27 0000 000 0000 000"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO III DEL COBRO DE MULTAS",
+              "articulo": [
+                {
+                  "numero-articulo": 91,
+                  "texto": "ARTICULO 91. - Las multas que se impongan en virtud de lo dispuesto por la presente ley, deberán ser abonadas dentro del plazo, en el lugar, forma y destino que determine la reglamentación."
+                },
+                {
+                  "numero-articulo": 92,
+                  "texto": "ARTICULO 92. - Contra las resoluciones que dispongan la sanción, multa o caución, procederá el recurso jerárquico previsto en los artículos 77 y 78, o el judicial contemplado en el artículo 84 de la presente. Este último deberá interponerse acreditando fehacientemente el previo depósito de la multa o cumplimiento de la caución impuesta."
+                },
+                {
+                  "numero-articulo": 93,
+                  "texto": "ARTICULO 93. - Cuando las multas impuestas de acuerdo con la presente ley no hubiesen sido satisfechas temporáneamente, la Dirección Nacional de Migraciones, perseguirá su cobro judicial, por vía de ejecución fiscal, dentro del término de sesenta (60) días de haber quedado firmes.\n\nLa certificación emanada de dicho organismo será título ejecutivo suficiente a tales efectos.\n\nLa Justicia Federal será competente para entender en la vía ejecutiva."
+                },
+                {
+                  "numero-articulo": 94,
+                  "texto": "ARTICULO 94. - A los fines previstos en el artículo anterior, y en los casos en que deba presentarse ante jueces y tribunales, la Dirección Nacional de Migraciones tendrá personería para actuar en juicio."
+                },
+                {
+                  "numero-articulo": 95,
+                  "texto": "ARTICULO 95. - Los domicilios constituidos en las respectivas actuaciones administrativas serán válidos en el procedimiento judicial."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO IV DE LA PRESCRIPCION",
+              "articulo": [
+                {
+                  "numero-articulo": 96,
+                  "texto": "ARTICULO 96. - Las infracciones reprimidas con multas, prescribirán a los dos (2) años."
+                },
+                {
+                  "numero-articulo": 97,
+                  "texto": "ARTICULO 97. - La prescripción se interrumpirá por la comisión de una nueva infracción o por la secuela del procedimiento administrativo o judicial."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO VII COMPETENCIA",
+          "articulo": {
+            "numero-articulo": 98,
+            "texto": "ARTICULO 98. - Serán competentes para entender en lo dispuesto en los Títulos V y VI los Juzgados Nacionales de Primera Instancia en lo Contencioso Administrativo Federal o los Juzgados Federales del interior del país, hasta tanto se cree un fuero específico en materia migratoria."
+          }
+        },
+        {
+          "titulo-particion": "TITULO VIII DE LAS TASAS TASA RETRIBUTIVA DE SERVICIOS",
+          "articulo": [
+            {
+              "numero-articulo": 99,
+              "texto": "ARTICULO 99. - El Poder Ejecutivo nacional determinará los actos de la Dirección Nacional de Migraciones que serán gravados con tasas retributivas de servicios, estableciendo los montos, requisitos y modos de su percepción."
+            },
+            {
+              "numero-articulo": 100,
+              "texto": "ARTICULO 100. - Los servicios de inspección o de contralor migratorio que la Dirección Nacional de Migraciones preste en horas o días inhábiles o fuera de sus sedes, a los medios de transporte internacional que lleguen o que salgan de la República, se encontrarán gravados por las tasas que fije el Poder Ejecutivo al efecto."
+            },
+            {
+              "numero-articulo": 101,
+              "texto": "ARTICULO 101. - Los fondos provenientes de las tasas percibidas de acuerdo con la presente ley, serán depositados en el lugar y la forma establecidos por la reglamentación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IX DE LOS ARGENTINOS EN EL EXTERIOR",
+          "articulo": [
+            {
+              "numero-articulo": 102,
+              "texto": "ARTICULO 102. - El gobierno de la República Argentina podrá suscribir convenios con los Estados en los que residan emigrantes argentinos para asegurarles la igualdad o asimilación de los derechos laborales y de seguridad social que rijan en el país receptor. Dichos tratados deberán asimismo garantizar a los emigrantes la posibilidad de efectuar remesas de fondos para el sostenimiento de sus familiares en la República Argentina.\n\nEl Poder Ejecutivo podrá suspender los beneficios otorgados por la presente ley respecto de los súbditos de aquellos países que tengan establecidas restricciones para los ciudadanos argentinos allí residentes, que afecten gravemente el principio de reciprocidad."
+            },
+            {
+              "numero-articulo": 103,
+              "texto": "ARTICULO 103. - Todo argentino con más de dos (2) años de residencia en el exterior que decida retornar al país podrá introducir los bienes de su pertenencia destinados a su actividad laboral libre de derechos de importación, tasas, contribuciones y demás gravámenes, así como su automóvil, efectos personales y del hogar hasta el monto que determine la autoridad competente, hasta el monto y con los alcances que establezca el Poder Ejecutivo nacional."
+            },
+            {
+              "numero-articulo": 104,
+              "texto": "ARTICULO 104. - Las embajadas y consulados de la República Argentina deberán contar con los servicios necesarios para mantener informados a los argentinos en el exterior de las franquicias y demás exenciones para retornar al país."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO X DE LA AUTORIDAD DE APLICACION",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I AUTORIDAD DE APLICACION",
+              "articulo": [
+                {
+                  "numero-articulo": 105,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO 105. - La autoridad de aplicación de la presente ley será la Dirección Nacional de Migraciones."
+                },
+                {
+                  "numero-articulo": 106,
+                  "texto": "ARTICULO 106. - Los poderes públicos impulsarán el fortalecimiento del movimiento asociativo entre los inmigrantes y apoyarán a los sindicatos, organizaciones empresariales y a las organizaciones no gubernamentales que, sin ánimo de lucro, favorezcan su integración social, prestándoles ayuda en la medida de sus posibilidades."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LA DIRECCION NACIONAL DE MIGRACIONES",
+              "articulo": [
+                {
+                  "numero-articulo": 107,
+                  "texto": "ARTICULO 107. - La Dirección Nacional de Migraciones, será el órgano de aplicación de la presente ley, con competencia para entender en la admisión, otorgamiento de residencias y su extensión, en el Territorio Nacional y en el exterior, pudiendo a esos efectos establecer nuevas delegaciones, con el objeto de conceder permisos de ingresos; prórrogas de permanencia y cambios de calificación para extranjeros. Asimismo controlará el ingreso y egreso de personas al país y ejercerá el control de permanencia y el poder de policía de extranjeros en todo el Territorio de la República."
+                },
+                {
+                  "numero-articulo": 108,
+                  "texto": "ARTICULO 108. - La Dirección Nacional de Migraciones podrá delegar el ejercicio de sus funciones y facultades de la Dirección Nacional de Migraciones en las instituciones que constituyan la Policía Migratoria Auxiliar o en otras autoridades, nacionales, provinciales o municipales, las que actuarán conforme a las normas y directivas que aquella les imparta."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO III DE LA RELACION ENTRE DIRECCION NACIONAL DE MIGRACIONES CON OTROS ENTES Y ORGANISMOS",
+              "articulo": [
+                {
+                  "numero-articulo": 109,
+                  "texto": "ARTICULO 109. - Los Gobernadores de Provincias y el Jefe de Gobierno de la Ciudad de Buenos Aires, en su carácter de agentes naturales del Gobierno Federal, proveerán lo necesario para asegurar el cumplimiento de la presente ley en sus respectivas jurisdicciones, y designarán los organismos que colaborarán para tales fines con la Dirección Nacional de Migraciones."
+                },
+                {
+                  "numero-articulo": 110,
+                  "texto": "ARTICULO 110. - Los juzgados federales deberán comunicar a la Dirección Nacional de Migraciones sobre las cartas de ciudadanía otorgadas y su cancelación en un plazo no mayor de treinta (30) días, para que ésta actualice sus registros."
+                },
+                {
+                  "numero-articulo": 111,
+                  "texto": "ARTICULO 111. - Las autoridades competentes que extiendan certificado de defunción de extranjeros deberán comunicarlo a la Dirección Nacional de Migraciones en un plazo no mayor de quince (15) días, para que ésta actualice sus registros."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO IV DE LOS REGISTROS MIGRATORIOS",
+              "articulo": {
+                "numero-articulo": 112,
+                "texto": "ARTICULO 112. - La Dirección Nacional de Migraciones creará aquellos registros que resulten necesarios para el cumplimiento de la presente ley."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO V DE LA POLICIA MIGRATORIA AUXILIAR",
+              "articulo": [
+                {
+                  "numero-articulo": 113,
+                  "texto": "ARTICULO 113. - El Ministerio del Interior podrá convenir con los gobernadores de provincias y el Jefe de Gobierno de la Ciudad Autónoma de Buenos Aires el ejercicio de funciones de Policía Migratoria Auxiliar en sus respectivas jurisdicciones y las autoridades u organismos provinciales que la cumplirán."
+                },
+                {
+                  "numero-articulo": 114,
+                  "texto": "ARTICULO 114. - La Policía Migratoria Auxiliar quedará integrada por la Prefectura Naval Argentina, la Gendarmería Nacional, la Policía Aeronáutica Nacional y la Policía Federal, las que en tales funciones quedarán obligadas a prestar a la Dirección Nacional de Migraciones la colaboración que les requiera."
+                },
+                {
+                  "numero-articulo": 115,
+                  "texto": "ARTICULO 115. - La Dirección Nacional de Migraciones, mediante la imputación de un porcentaje del producido de las tasas o multas que resulten de la aplicación de la presente, podrá solventar los gastos en que incurrieran la Policía Migratoria Auxiliar, las autoridades delegadas o aquellas otras con las que hubiera celebrado convenios, en cumplimiento de las funciones acordadas."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO VI DELITOS AL ORDEN MIGRATORIO",
+              "articulo": [
+                {
+                  "numero-articulo": 116,
+                  "texto": "ARTICULO 116. - Será reprimido con prisión o reclusión de uno (1) a seis (6) años el que realizare, promoviere o facilitare el tráfico ilegal de personas desde, en tránsito o con destino a la República Argentina.\n\nSe entenderá por tráfico ilegal de personas, la acción de realizar, promover o facilitar el cruce ilegal de personas, por los límites fronterizos nacionales con el fin de obtener directa o indirectamente un beneficio."
+                },
+                {
+                  "numero-articulo": 117,
+                  "texto": "ARTICULO 117. - Será reprimido con prisión o reclusión de uno (1) a seis (6) años el que promoviere o facilitare la permanencia ilegal de extranjeros en el Territorio de la República Argentina con el fin de obtener directa o indirectamente un beneficio."
+                },
+                {
+                  "numero-articulo": 118,
+                  "texto": "ARTICULO 118. - Igual pena se impondrá a quien mediante la presentación de documentación material o ideológicamente falsa peticione para un tercero algún tipo de beneficio migratorio."
+                },
+                {
+                  "numero-articulo": 119,
+                  "texto": "*ARTICULO 119. - Será reprimido con prisión o reclusión de DOS (2) a OCHO (8) años el que realice las conductas descriptas en el presente capítulo empleando violencia, intimidación o engaño o abusando de la necesidad o inexperiencia de la víctima.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O 30/04/2008) ARTICULO SUSTITUIDO",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 026364 2008 04 09 0015 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 120,
+                  "texto": "ARTICULO 120. - Las penas descriptas en el presente capítulo se agravarán de tres (3) a diez (10) años cuando se verifiquen algunas de las siguientes circunstancias:\n\na) Si se hiciere de ello una actividad habitual;\n\nb) Interviniere en el hecho un funcionario o empleado público en ejercicio o en ocasión de sus funciones o con abuso de su cargo. En este caso se impondrá también inhabilitación absoluta perpetua para ejercer cargos públicos."
+                },
+                {
+                  "numero-articulo": 121,
+                  "texto": "*ARTICULO 121. - Las penas establecidas en el presente capítulo se agravarán de CINCO (5) a QUINCE (15) años cuando se hubiere puesto en peligro la vida, la salud o la integridad de los migrantes o cuando la víctima sea menor de edad; y de OCHO (8) a VEINTE (20) años cuando el tráfico de personas se hubiere efectuado con el objeto de cometer actos de terrorismo, actividades de narcotráfico o lavado de dinero.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O 30/04/2008) ARTICULO SUSTITUIDO",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 026364 2008 04 09 0016 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO XI DISPOSICIONES COMPLEMENTARIAS Y TRANSITORIAS",
+          "articulo": [
+            {
+              "numero-articulo": 122,
+              "texto": "ARTICULO 122. - La presente ley entrará en vigencia a partir de su publicación. Producida la entrada en vigor de la presente ley, sus normas serán aplicables aún a los casos que se encontraren pendientes de una decisión firme a esa fecha."
+            },
+            {
+              "numero-articulo": 123,
+              "texto": "ARTICULO 123. - La elaboración de la reglamentación de la presente ley estará a cargo de la autoridad de aplicación."
+            },
+            {
+              "numero-articulo": 124,
+              "texto": "ARTICULO 124. - Derógase la ley 22.439, su decreto reglamentario 1023/94 y toda otra norma contraria a la presente ley, que no obstante retendrán su validez y vigencia hasta tanto se produzca la entrada en vigor de esta última y su reglamentación.",
+              "deroga-a": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_0",
+                    "ref": "LEY C 022439 1981 03 23 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_1",
+                    "ref": "DEC C 001023 1994 06 29 0000 000 0000 000"
+                  }
+                ]
+              }
+            },
+            {
+              "numero-articulo": 125,
+              "texto": "ARTICULO 125. - Ninguna de las disposiciones de la presente ley tendrá por efecto eximir a los extranjeros de la obligación de cumplir con la legislación nacional ni de la obligación de respetar la identidad cultural de los argentinos."
+            },
+            {
+              "numero-articulo": 126,
+              "texto": "ARTICULO 126. - Comuníquese al Poder Ejecutivo."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "CAMAÑO-SCIOLI-Rollano-Estrada"
+          }
+        }
+      ],
+      "id-infojus": "LNS0004849"
+    }
+  }
+}

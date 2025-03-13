@@ -1,0 +1,456 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g28-86000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1740749585295,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "27553-nacional-recetas-electronicas-digitales-para-prescripcion-dispensa-medicamentos-lns0006882-2020-07-23"
+      }
+    },
+    "content": {
+      "mecanografico": "S0006882",
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "numero-norma": 27553,
+      "fecha": "2020-07-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 027553 2020 07 23",
+      "nombre-coloquial": "LEY 27.553",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 27.553",
+          "BUENOS AIRES, 23 DE JULIO DE 2020"
+        ]
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "titulo-norma": "Recetas electrónicas o digitales para la prescripción y dispensa de medicamentos",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2020 08 11"
+        }
+      },
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": null,
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 000098 2023 02 27 0000 000 0000 000"
+        }
+      },
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-02-28",
+      "fecha-mod": "2025-02-28",
+      "timestamp": "2025-02-28T10:24:09",
+      "timestamp-alta": "2025-02-28T10:24:09",
+      "timestamp-m": "2025-02-28T10:24:09",
+      "sumario": {
+        "sumario": "MEDICAMENTOS PRESCRIPCION DE MEDICAMENTOS RECETA MEDICA RECETA ELECTRONICA O DIGITAL TELEASISTENCIA EN SALUD FARMACIAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "medicamentos"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "prescripción de medicamentos"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos/suministro de medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "prescripción de medicamentos",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "receta médica"
+            },
+            "preferido": {
+              "termino": "receta médica"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "receta electrónica o digital"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos/expendio de medicamentos/receta electrónica o digital"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "comercialización de medicamentos",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "teleasistencia en salud"
+            },
+            "preferido": {
+              "termino": "Salud pública/asistencia sanitaria/asistencia médica/teleasistencia en salud"
+            },
+            "sinonimos": {
+              "termino": [
+                "atención médica",
+                "servicios médico asistenciales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "farmacias"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos/expendio de medicamentos/farmacias"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "herboristerías",
+                "droguerías",
+                "drogas",
+                "especialidades medicinales",
+                "comercialización de medicamentos",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prescripción de medicamentos (suministro de medicamentos)",
+            "servicios médico asistenciales (asistencia médica)",
+            "teleasistencia en salud",
+            "productos para la salud (medicamentos)",
+            "receta médica",
+            "herboristerías (farmacias)",
+            "Salud pública",
+            "comercialización de medicamentos (expendio de medicamentos)",
+            "drogas (medicamentos)",
+            "asistencia médica",
+            "expendio de medicamentos",
+            "suministro de medicamentos",
+            "especialidades farmacéuticas (medicamentos)",
+            "medicamentos",
+            "productos farmacéuticos (medicamentos)",
+            "asistencia sanitaria",
+            "receta electrónica o digital",
+            "productos médicos (medicamentos)",
+            "farmacias",
+            "fármacos (medicamentos)",
+            "atención médica (asistencia médica)",
+            "droguerías (farmacias)",
+            "especialidades medicinales (medicamentos)"
+          ]
+        }
+      },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 16.\n\nOBSERVACION: POR RESOLUCION 5744/24 DEL MINISTERIO DE SALUD (B.O. 3/12/2024) SE DISPONEN MEDIDAS PARA LA IMPLEMENTACION DE LA RECETA ELECTRONICA O DIGITAL.",
+        "reglamentado-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTADO_POR_0",
+            "ref": "DEC C 000098 2023 02 27 0000 000 0000 000"
+          }
+        },
+        "adherida-por": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_0",
+              "ref": "LEY V 001322 2020 09 25 0001 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_1",
+              "ref": "LEY A 008215 2020 10 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_2",
+              "ref": "LEY H 003223 2020 09 30 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_3",
+              "ref": "LEY Y 006205 2020 12 03 0000 000 0000 000"
+            },
+            {
+              "cr": "Adhesión al artículo 1, al párrafo primero del artículo 2 y a los artículos 3, 4, 11, 12 y 13",
+              "id": "ADHERIDA_POR_4",
+              "ref": "LEY N 000169 2022 08 11 0019 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_5",
+              "ref": "LEY M 009478 2023 08 30 0001 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_6",
+              "ref": "LEY W 006695 2024 09 25 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_7",
+              "ref": "LEY Z 003907 2024 11 14 0001 000 0000 000"
+            }
+          ]
+        }
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 025326 2000 10 04 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 026529 2009 10 21 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Artículo 1º- La presente ley tiene por objeto:.\n\nEstablecer que la prescripción y dispensación de medicamentos, y toda otra prescripción, solo puedan ser redactadas y firmadas a través de plataformas electrónicas habilitadas a tal fin.\n\nEstablecer que puedan utilizarse plataformas de teleasistencia en salud, en todo el territorio nacional, de conformidad con la Ley N° 25.326 de Protección de los Datos Personales y la Ley N° 26.529 de Derechos del Paciente.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/12/2023) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000070 2023 12 20 0307 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Artículo 2º- La presente ley es de aplicación para toda receta o prescripción médica, odontológica o de otros profesionales sanitarios legalmente facultados a prescribir, en los respectivos ámbitos de asistencia sanitaria y atención farmacéutica pública y privada.\n\nLos medicamentos prescriptos en recetas electrónicas o digitales deben ser dispensados en cualquier farmacia del territorio nacional, servicios de farmacia de establecimientos de salud y establecimientos del sector salud habilitados para tal fin, acorde a las disposiciones vigentes. Asimismo, se aplica para toda plataforma de teleasistencia en salud que se utilice en el país."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Artículo 3º- La Autoridad de Aplicación de la presente ley será establecida por el Poder Ejecutivo nacional, coordinando su accionar con las autoridades jurisdiccionales competentes y los organismos con incumbencia en la materia que dichas autoridades determinen.\n\nEl Poder Ejecutivo Nacional establece los plazos necesarios para alcanzar la digitalización total en prescripción y dispensación de medicamentos y toda otra prescripción, el cual no podrá superar el 1° de julio de 2024, y regular el uso de plataformas de teleasistencia en salud.\n\nEl INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS deberá ser convocado por la autoridad de aplicación a los fines de colaborar en la reglamentación que se dicte a tal efecto.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/12/2023) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000070 2023 12 20 0308 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 025326 2000 10 04 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 026529 2009 10 21 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 4,
+          "texto": "Artículo 4º- Para la implementación de la presente ley se deben desarrollar y/o adecuar los sistemas electrónicos existentes y regular su implementación para utilizar recetas electrónicas o digitales, y plataformas de teleasistencia en salud, todo lo cual debe regular el organismo que el Poder Ejecutivo nacional oportunamente establezca y los organismos que cada jurisdicción determine.\n\nAsimismo, dichos organismos son los responsables de la fiscalización de los sistemas de recetas electrónicas o digitales, y de los sistemas de plataformas de teleasistencia en salud, quienes deben garantizar la custodia de las bases de datos de asistencia profesional virtual, prescripción, dispensación y archivo. También son responsables de establecer los criterios de autorización y control de acceso a dichas bases de datos y garantizar el normal funcionamiento y estricto cumplimiento de la ley 25.326 de Protección de los Datos Personales, la ley 26.529 de Derechos del Paciente y demás normativas vigentes en la materia."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025506 2001 11 14 0000 000 0000 000"
+            }
+          },
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 017132 1967 01 24 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": 5,
+          "texto": "Artículo 5º- Modifícase el inciso 7 del artículo 19 de la ley 17.132, el que quedará redactado de la siguiente manera:\n\n7. Prescribir o certificar en recetas manuscritas, electrónicas o digitales, en las que debe constar la siguiente información en idioma nacional: nombre, apellido, profesión, número de matrícula, domicilio, número telefónico y correo electrónico cuando corresponda. Solo pueden anunciarse cargos técnicos o títulos que consten registrados en la autoridad de aplicación competente y en las condiciones que se reglamenten. Las prescripciones y/o recetas deben ser formuladas en idioma nacional, fechadas y firmadas en forma manuscrita, electrónica o digital. En caso de ser redactadas electrónicamente, la firma y demás requisitos técnicos y legales deben adecuarse a la legislación vigente. En caso de utilizar la firma digital, la misma debe adecuarse a la ley 25.506, de firma digital, adhiriendo al régimen e intermediando una autoridad certificante."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026529 2009 10 21 0000 000 0000 000"
+            }
+          },
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 017132 1967 01 24 0002 002 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "Artículo 6º- Incorpórase el artículo 2° bis al título I de la ley 17.132, el que quedará redactado de la siguiente manera:\n\nArtículo 2° bis: Se habilita la modalidad de teleasistencia para el ejercicio de la medicina, odontología y actividades de colaboración de las mismas, garantizando los derechos establecidos en la ley 26.529 de Derechos del Paciente. La teleasistencia puede desarrollarse solo para prácticas autorizadas a tal fin, de acuerdo a protocolos y plataformas aprobadas para la misma por la autoridad de aplicación."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026529 2009 10 21 0000 000 0000 000"
+            }
+          },
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 023277 1985 09 27 0003 000 0000 000"
+            }
+          },
+          "numero-articulo": 7,
+          "texto": "Artículo 7º- Modifícase el artículo 3º de la ley 23.277, el cual quedará redactado de la siguiente manera:\n\nArtículo 3º: El psicólogo puede ejercer su actividad autónoma en forma individual y/o integrando equipos interdisciplinarios, en forma privada o en instituciones públicas o privadas que requieran sus servicios.\n\nEn ambos casos pueden hacerlo a requerimiento de especialistas en otras disciplinas o de personas que voluntariamente soliciten su asistencia profesional. Pueden desarrollar el ejercicio de estas actividades a través de plataformas de teleasistencia previamente habilitadas para tal fin y autorizadas por la autoridad de aplicación, de acuerdo a protocolos y plataformas aprobadas por la misma y garantizando los derechos establecidos en la ley 26.529 de Derechos del Paciente."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 017565 1967 12 05 0009 000 0000 000"
+            }
+          },
+          "numero-articulo": 8,
+          "texto": "Artículo 8º- Modifícase el artículo 9° de la ley 17.565, el que quedará redactado de la siguiente manera:\n\nArtículo 9°: En las farmacias el expendio de drogas, medicamentos o especialidades medicinales se ajusta a las siguientes formas de acuerdo a lo que establezca la legislación vigente o determine la autoridad sanitaria:\n\n1. Expendio legalmente restringido;\n\n2. Expendio bajo receta archivada;\n\n3. Expendio bajo receta;\n\n4. Expendio libre.\n\nDeben conservarse las recetas correspondientes a los puntos 1 y 2, en formato papel o digital, durante un plazo no menor de tres (3) años, después de dicho plazo pueden ser destruidas o borradas, previa comunicación a la autoridad sanitaria."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 017565 1967 12 05 0010 000 0000 000"
+            }
+          },
+          "numero-articulo": 9,
+          "texto": "Artículo 9º- Modifícase el artículo 10 de la ley 17.565, el que quedará redactado de la siguiente manera:\n\nArtículo 10: En las farmacias deben llevarse los siguientes registros o archivos digitales habilitados por la autoridad sanitaria:\n\na) Recetario;\n\nb) Contralor de estupefacientes;\n\nc) Contralor de psicotrópicos;\n\nd) Inspecciones;\n\ne) Otros registros o archivos digitales que la autoridad competente estime pertinentes. Éstos deben ser aprobados por la autoridad sanitaria.\n\nDeben llevarse en forma legible y sin dejar espacios en blanco, sin alterar el orden de los asientos de las recetas despachadas y sin enmiendas ni raspaduras. La autoridad sanitaria puede autorizar otro sistema copiador de recetas, siempre que el mismo asegure la inalterabilidad de los asientos. En caso de que estos libros sean llevados electrónicamente, la firma y demás requisitos técnicos y legales deben adecuarse a la legislación vigente y a lo que establezca la autoridad de aplicación, asegurando la inalterabilidad de los registros."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 017818 1968 07 29 0021 002 0000 000"
+            }
+          },
+          "numero-articulo": 10,
+          "texto": "Artículo 10.- Incorpórase el artículo 21 bis a la ley 17.818, el que quedará redactado de la siguiente manera:\n\nArtículo 21 bis: En caso de que las recetas mencionadas en la presente ley sean redactadas electrónicamente, o en caso de que los registros obligatorios sean llevados electrónicamente, la firma y demás requisitos técnicos y legales deben adecuarse a la legislación vigente y a lo que establezca la autoridad de aplicación."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 019303 1971 10 11 0018 002 0000 000"
+            }
+          },
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 019303 1971 10 11 0018 002 0000 000"
+            }
+          },
+          "numero-articulo": 11,
+          "texto": "Artículo 11.- Incorpórase el artículo 18 bis a la ley 19.303, el que quedará redactado de la siguiente manera:\n\nArtículo 18 bis: En caso de que las recetas mencionadas en la presente ley sean redactadas electrónicamente, o en caso de que los registros obligatorios sean llevados electrónicamente, la firma y demás requisitos técnicos y legales deben adecuarse a la legislación especial vigente y a lo que establezca la autoridad de aplicación."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Artículo 12.- Todos los procedimientos relativos a la regulación de la prescripción, dispensa y circuitos para la provisión de estupefacientes y psicotrópicos (importación, exportación, formularios y recetarios oficiales, libros, registros o archivos obligatorios, vales y cualquier otra documentación inherente a los mismos) deben, a partir de la presente ley, ser digitalizados según los plazos y criterios fijados por la autoridad competente."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "Artículo 13.- Los sistemas aludidos en la presente ley deben contemplar el cumplimiento de todas las normativas vigentes que regulan toda la cadena de comercialización de medicamentos incluyendo los requisitos de trazabilidad de éstos y de la firma electrónica o digital. También debe contemplarse la emisión de constancia de teleasistencia, prescripción y dispensación para los pacientes, por vía informatizada o impresión de dicha constancia y la posibilidad de bloqueo por el farmacéutico cuando exista error manifiesto en la prescripción, para que el prescriptor pueda revisar, anular o reactivar según el caso.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 21/12/2023) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000070 2023 12 20 0309 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "Artículo 14.- Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Artículo 15.- El Poder Ejecutivo nacional reglamentará la presente ley dentro de los ciento veinte (120) días de su promulgación."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "Artículo 16.- Comuníquese al Poder Ejecutivo nacional."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "LEDESMA ABDALA DE ZAMORA-MASSA-Fuentes-Cergnul"
+      },
+      "id-infojus": "LNS0006882",
+      "fecha-umod": 20250228103305
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g81-02000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584437858,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "13221-nacional-arancel-boletin-oficial-lns0002018-1948-08-12"
+      }
+    },
+    "content": {
+      "mecanografico": "S0002018",
+      "numero-norma": 13221,
+      "timestamp": "2013-01-19T18:52:21",
+      "timestamp-m": "2013-01-19T18:52:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1948-08-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 013221 1948 08 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 13.221",
+          "BUENOS AIRES, 12 DE AGOSTO DE 1948"
+        ]
+      },
+      "titulo-norma": "ARANCEL DEL BOLETIN OFICIAL.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1948 08 31"
+        }
+      },
+      "sancion": "El  Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc. SANCIONAN CON FUERZA DE LEY",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 13.221",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2013-01-19",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 3"
+      },
+      "sumario": {
+        "sumario": "PRENSA Y DIFUSION-BOLETIN OFICIAL-Arancel-ESTADO-PODER EJECUTIVO NACIONAL:Facultades-- MODIFICA L. 11582"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "boletín oficial"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional/sistema de gobierno/sistema republicano/publicidad de los actos de gobierno/publicaciones oficiales/boletín oficial"
+            },
+            "sinonimos": {
+              "termino": [
+                "publicación de los actos de gobierno",
+                "información oficial",
+                "sistema republicano de gobierno",
+                "principio republicano de gobierno",
+                "principio de publicidad de los actos de gobierno",
+                "información gubernamental",
+                "régimen político"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cobro de aranceles"
+            },
+            "preferido": {
+              "termino": "cobro de aranceles"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sistema republicano",
+            "principio de publicidad de los actos de gobierno (publicidad de los actos de gobierno)",
+            "información oficial (publicidad de los actos de gobierno)",
+            "sistema republicano de gobierno (sistema republicano)",
+            "Estado Nacional",
+            "Derecho constitucional",
+            "Estado",
+            "boletín oficial",
+            "publicación de los actos de gobierno (publicidad de los actos de gobierno)",
+            "principio republicano de gobierno (sistema republicano)",
+            "publicaciones oficiales",
+            "cobro de aranceles",
+            "publicidad de los actos de gobierno",
+            "sistema de gobierno",
+            "información gubernamental (publicidad de los actos de gobierno)",
+            "régimen político (sistema de gobierno)"
+          ]
+        }
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.  -  Autorízase  al  Poder  Ejecutivo  para  que fije el arancel del Boletín Oficial."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.  - Deróganse las disposiciones de la ley 11.582 y demás en vigor que se opongan a la presente.",
+          "deroga-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "DEROGA_A_0",
+              "ref": "LEY C 011582 1932 06 08 0000 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO 3. - Comuníquese al Poder Ejecutivo."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "QUIJANO - CAMPORA - Reales - González."
+      },
+      "id-infojus": "LNS0002018"
+    }
+  }
+}

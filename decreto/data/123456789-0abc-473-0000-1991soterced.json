@@ -1,0 +1,387 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-473-0000-1991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990627590,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "374-nacional-suspension-entrega-bonos-credito-segunda-serie-dn19910000374-1991-03-06"
+      }
+    },
+    "content": {
+      "mecanografico": 19910000374,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 374,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1991-03-06",
+      "standard-normativo": "DEC C 000374 1991 03 06",
+      "titulo-norma": "SUSPENSION DE LA ENTREGA DE BONOS DE CREDITO SEGUNDA SERIE.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1991 03 12"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 1",
+            "id": "MODIFICA0",
+            "ref": "DEC C 000214 1991 01 31 0005 000"
+          },
+          {
+            "cr": "POR ART. 2",
+            "id": "MODIFICA1",
+            "ref": "DEC C 001738 1990 09 05 0003 000"
+          },
+          {
+            "cr": "POR ART. 3",
+            "id": "OBSERVA A2",
+            "ref": "DEC C 001738 1990 09 05 0000 000"
+          },
+          {
+            "cr": "POR ART. 3",
+            "id": "OBSERVA A3",
+            "ref": "DEC C 000214 1991 01 31 0000 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "B.O.  91-08-13",
+          "id": "OBSERVADO POR0",
+          "ref": "DEC C 001527 1991 08 08 0003 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 374/91",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2003-04-10",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE MODIFICAN LOS DECRETOS 1.738/90 Y 214/91 SOBRE EMISION DE BONOS DE CREDITO. SE SUSPENDE LA ENTREGA DE BONOS DE CREDITO DESTINADOS AL PAGO DE REINTEGROS, REEMBOLSOS Y DEVOLUCION DE TRIBUTOS."
+      },
+      "noticias-accesorias": {
+        "texto": "APLICACION DESDE 1991 03 06 0004 OBSERVACION: DEJASE SIN EFECTO LA SUSPENSION DE ENTREGA DE BONOS DE CREDITO DISPUESTA POR EL ART. 3 DEL PRESENTE DECRETO, POR ART. 3 DEL DEC. 1.527/91."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "banco central"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos/banco central"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deuda pública"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/deuda pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deuda interna"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/deuda pública/deuda interna"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "títulos públicos"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/títulos públicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "títulos municipales",
+                "derecho económico financiero",
+                "títulos nacionales",
+                "títulos provinciales",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bonos de crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria/extinción de la obligación tributaria/pago de tributos/bonos de crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "obligación impositiva",
+                "derecho fiscal",
+                "pago del impuesto",
+                "ingreso del gravamen",
+                "obligaciones fiscales",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reembolsos impositivos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios/reembolsos impositivos"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "beneficios impositivos",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pago del impuesto"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria/extinción de la obligación tributaria/pago de tributos"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "obligación impositiva",
+                "derecho fiscal",
+                "pago del impuesto",
+                "ingreso del gravamen",
+                "obligaciones fiscales",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "acción de repetición"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones/pago/acción de repetición"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "pago de la deuda",
+                "demanda de repetición",
+                "repetición del pago"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuesto al valor agregado"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/IVA"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "impuesto al valor agregado",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "derechos de importación"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/derechos de importación"
+            },
+            "sinonimos": {
+              "termino": [
+                "aranceles aduaneros",
+                "derechos de aduana"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "derechos de exportación"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/derechos de exportación"
+            },
+            "sinonimos": {
+              "termino": [
+                "aranceles aduaneros",
+                "derechos de aduana"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de la obligación tributaria",
+            "pago de la deuda (pago)",
+            "Derecho Aduanero",
+            "pago",
+            "Derecho Tributario",
+            "banco central",
+            "ingreso del gravamen (pago de tributos)",
+            "Derecho tributario y aduanero",
+            "tributos",
+            "extinción de las obligaciones",
+            "Obligaciones y contratos",
+            "derecho fiscal (Derecho Tributario)",
+            "aranceles aduaneros (tributos aduaneros)",
+            "Economía y finanzas",
+            "obligaciones personales (obligaciones)",
+            "reembolsos impositivos",
+            "tributos aduaneros",
+            "deuda pública",
+            "derecho financiero (Economía y finanzas)",
+            "gravámenes (tributos)",
+            "derecho económico financiero (Economía y finanzas)",
+            "deuda interna",
+            "demanda de repetición (acción de repetición)",
+            "derechos de exportación",
+            "bonos de crédito fiscal",
+            "títulos públicos",
+            "obligaciones",
+            "derechos de importación",
+            "bancos",
+            "entidades financieras",
+            "deberes fiscales (obligación tributaria)",
+            "beneficios tributarios",
+            "pago de tributos",
+            "obligaciones fiscales (obligación tributaria)",
+            "títulos provinciales (títulos públicos)",
+            "entidades bancarias (bancos)",
+            "derechos de aduana (tributos aduaneros)",
+            "derecho público fiscal (Derecho Tributario)",
+            "obligación tributaria",
+            "obligación impositiva (obligación tributaria)",
+            "títulos municipales (títulos públicos)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "IVA",
+            "acción de repetición",
+            "beneficios impositivos (beneficios tributarios)",
+            "sistema financiero",
+            "Derecho bancario",
+            "títulos nacionales (títulos públicos)",
+            "impuestos",
+            "repetición del pago (acción de repetición)",
+            "pago del impuesto (pago de tributos)",
+            "impuesto al valor agregado (IVA)",
+            "sistema bancario (Derecho bancario)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001738 1990 09 05 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000214 1991 01 31 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000173 1985 01 25 0000 000"
+            }
+          ]
+        },
+        "texto": "los Decretos N. 1.738 del 5 de setiembre de 1990, 214 del 31 de enero de 1991 y 173 del 25 de enero de 1985, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000214 1991 01 31 0001 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 001738 1990 09 05 0003 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  la difícil situación fiscal, torna imperioso modificar la fecha a partir  de  la cual los BONOS DE CREDITO cuya emisión fuera autorizada por el artículo  1  del  Decreto  N.  214 de fecha 31 de enero  de  1991,  podrán  aplicarse  al  pago  de  los derechos  de importación  o exportación de manufacturas de origen  industrial  o agropecuario.\n\nQue por la misma  circunstancia  es necesario modificar el artículo 3 del Decreto N. 1.738 de fecha 5  de  setiembre  de 1990, como así también  disponer  la  suspensión  de  la entrega de los  BONOS  DE CREDITOS  -  Segunda Serie -, cuya emisión  fuera  establecida  por dicha norma y  -  Tercera  Serie  -, emitidos conforme lo dispuesto por Decreto N. 214 de fecha 31 de enero de 1991.\n\nQue  el  PODER EJECUTIVO NACIONAL se  encuentra  facultado  por  el Artículo 86,  inciso  1  de la CONSTITUCION NACIONAL para dictar el presente decreto."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art. 1.- Nota de redacción: Sustitúyese el Art. 5 del Decreto N. 214/91."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2.- Nota de redacción: Modifícase el Art. 3 del Decreto N. 1.738/90."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3.- Suspéndese, hasta nueva disposición, la entrega de los BONOS  DE CREDITO - Segunda Serie -, cuya emisión fuera establecida por el Decreto  N.  1.738/90 y - Tercera Serie -, emitidos conforme a lo dispuesto por el  Decreto  N.  214/91,  destinados  al pago de reintegros,  reembolsos  y,  en  su  caso,  devolución de tributos."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4.-  El  BANCO  CENTRAL DE LA REPUBLICA ARGENTINA deberá hacer efectiva esta disposición  a  partir  del 6 de marzo de 1991, independientemente  de  la  fecha en que los bancos  intervinientes hayan efectuado las respectivas liquidaciones."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-CAVALLO"
+      },
+      "id-infojus": "DN19910000374"
+    }
+  }
+}

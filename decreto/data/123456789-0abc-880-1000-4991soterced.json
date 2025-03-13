@@ -1,0 +1,339 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-880-1000-4991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990117633,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1088-nacional-estructura-organica-ministerio-justicia-dn19940001088-1994-07-06"
+      }
+    },
+    "content": {
+      "mecanografico": 19940001088,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1088,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1994-07-06",
+      "standard-normativo": "DEC C 001088 1994 07 06",
+      "titulo-norma": "ESTRUCTURA ORGANICA DEL MINISTERIO DE JUSTICIA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 07 12"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART.1",
+            "id": "MODIFICA0",
+            "ref": "DEC C 000479 1990 00 00 0000 000"
+          },
+          {
+            "cr": "ANEXO Ia POR ART.2",
+            "id": "MODIFICA1",
+            "ref": "DEC C 002358 1993 00 00 0000 000"
+          },
+          {
+            "cr": "ANEXO I POR ART.3",
+            "id": "MODIFICA2",
+            "ref": "DEC C 002358 1993 00 00 0000 000"
+          },
+          {
+            "cr": "ANEXO II POR ART.4",
+            "id": "MODIFICA3",
+            "ref": "DEC C 002358 1993 00 00 0000 000"
+          },
+          {
+            "cr": "ANEXO II POR ART.5",
+            "id": "MODIFICA4",
+            "ref": "DEC C 002358 1993 00 00 0000 000"
+          },
+          {
+            "cr": "ANEXO III POR ART.6",
+            "id": "MODIFICA5",
+            "ref": "DEC C 002358 1993 00 00 0000 000"
+          },
+          {
+            "cr": "POR ART.9",
+            "id": "OBSERVA A6",
+            "ref": "DEC C 000435 1990 00 00 0027 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.088/94",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2003-04-10",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE MODIFICA LA ESTRUCTURA ORGANICA DEL MINISTERIO DE JUSTICIA.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "0000I ORGANISMOS DEL MINISTERIO DE JUSTICIA.",
+            "000II SEC. DE POLITICA PENITENCIARIA Y READAPTACION SOCIAL",
+            "00III OBJETIVOS",
+            "000IV OBJETIVOS DE LA SERETARIA DE JUSTICIA.",
+            "0000V RESPONSABILIDAD PRIMARIA Y ACCIONES",
+            "000VI PRESUPUESTO 1994."
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Administración Pública Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/Administración Pública Nacional"
+            },
+            "sinonimos": {
+              "termino": "función pública"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reforma del Estado"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "estructura orgánica"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/administración centralizada/organismos del Estado/estructura orgánica"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades gubernamentales",
+                "órgano administrativo",
+                "organismos centralizados",
+                "entes públicos",
+                "función pública",
+                "organismos administrativos",
+                "organismos públicos",
+                "reparticiones nacionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Justicia"
+            },
+            "preferido": {
+              "termino": "Ministerio de Justicia"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Justicia, Seguridad y Derechos Humanos",
+                "Ministerio de Justicia de la Nación",
+                "Ministerio de Justicia y Derechos Humanos"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "organismos centralizados (administración centralizada)",
+            "derecho financiero (Economía y finanzas)",
+            "organismos públicos (organismos del Estado)",
+            "administración centralizada",
+            "función pública (Administración Pública)",
+            "reforma del Estado",
+            "Administración Pública Nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Ministerio de Justicia de la Nación (Ministerio de Justicia)",
+            "entidades gubernamentales (organismos del Estado)",
+            "Ministerio de Justicia y Derechos Humanos (Ministerio de Justicia)",
+            "Ministerio de Justicia",
+            "Administración Pública",
+            "organismos administrativos (organismos del Estado)",
+            "estructura orgánica",
+            "política económica",
+            "Ministerio de Justicia, Seguridad y Derechos Humanos (Ministerio de Justicia)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "organismos del Estado",
+            "reparticiones nacionales (organismos del Estado)",
+            "Economía y finanzas",
+            "órgano administrativo (organismos del Estado)",
+            "Derecho administrativo",
+            "entes públicos (organismos del Estado)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000479 1990 00 00 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 001669 1993 00 00 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002358 1993 00 00 0000 000"
+            }
+          ]
+        },
+        "texto": "los Decretos N.479/90, sus modificatorios y complementarios, N 1669/93  y  N.2358/93 y lo propuesto por el MINISTERIO DE JUSTICIA, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002358 1993 11 15 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000736 1992 00 00 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que de acuerdo con una moderna concepción de la ejecución penal es  necesario    implementar    una  política  penitenciaria  y  de readaptación  social  que  oriente  y    coordine  las  actividades específicas.\n\nQue  como  consecuencia  de  ello  deviene  necesario    dotar  al MINISTERIO  DE  JUSTICIA  de una unidad organizativa, con nivel  de Secretaría  Ministerial,  a fin  de  asegurar  el  cumplimiento  de dichos objetivos y de coordinar  con  las  instituciones públicas y privadas  que  se encuentran abocadas a los distintos  aspectos  de dicha problemática.\n\nQue la modificación  de  la  estructura organizativa del MINISTERIO DE  JUSTICIA,  aprobada  por  el Decreto  N.2358  de  fecha  15  de noviembre  de  1993,  que  por  el presente  se  impulsa,  ha  sido aprobada en Acuerdo General de Ministros.\n\nQue asimismo y debido a la complejidad  de las tareas asignadas al MINISTERIO DE JUSTICIA, resulta conveniente  la  creación del cargo de  Jefe  de  Asesores  del  Gabinete  del  Ministro,  el   que  se incorporará  a la dotación asignada por el Decreto N. 736/92.\n\nQue el costo  de  la  presente  modificación  puede  ser  atendido dentro  de  los  niveles  de  crédito  asignados  para  el presente ejercicio.\n\nQue  el  COMITE EJECUTIVO DE CONTRALOR DE LA REFORMA ADMINISTRATIVA ha tomado la intervención que le compete, expidiéndose favorablemente.\n\nQue el presente  acto  se  dicta  en ejercicio de las atribuciones conferidas  por  el  artículo  86  Inciso  1)  de  la  CONSTITUCION NACIONAL."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art. 1 : Modifícase el Decreto N.479/90 y sus modificatorios y complementarios  por  el cual se establece la nómina de Secretarías y Subsecretarías del MINISTERIO DE JUSTICIA."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2  :  Sustitúyese  el  ANEXO  Ia  del Decreto N.2358/93."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3  :  Incorpórase al ANEXO I del Decreto N.2358/93, como ANEXO Ig."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4  :  Incorpórase al ANEXO II del Decreto N.2358/93, los objetivos  de  la  SECRETARIA    DE  POLITICA  PENITENCIARIA  Y  DE READAPTACION SOCIAL, y de la SUBSECRETARIA dependiente."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5 : Reemplázase en el ANEXO II del Decreto N.2358/93, la parte  correspondiente    a  los  objetivos  de  la  SECRETARIA  DE JUSTICIA."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6  : Créase la DIRECCION NACIONAL DE READAPTACION SOCIAL dependiente de  la  SUBSECRETARIA  DE  POLITICA  PENITENCIARIA Y DE READAPTACION SOCIAL, cuya Responsabilidad Primaria  y  Acciones  se incorporan al ANEXO III del Decreto N.2358/93."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art.  7 : Créase el cargo de Jefe de Asesores del Gabinete del Ministro, que  formará  parte  del  mismo  y revistará en la máxima categoría  del  escalafón  general  vigente  en  la  Administración Pública Nacional."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art.  8  :  Modifícase  la  Distribución  Administrativa  del Presupuesto  de  la Administración Nacional - Recursos Humanos - de la Jurisdicción 4000  - MINISTERIO DE JUSTICIA -, de acuerdo con el detalle que como Anexo  VI,  forma  parte  integrante  del presente Decreto."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9 : Exceptúase al MINISTERIO DE JUSTICIA de las limitaciones  establecidas  por el artículo 27 del Decreto N.435/90 sustituido por el artículo 5  de su similar N 1887/91 y el artículo 18 del Decreto N 2043/80."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art.  10.  : El gasto que demande el cumplimiento del presente Decreto, se imputará  con  cargo  a  los  créditos  de las partidas específicas asignadas al MINISTERIO DE JUSTICIA por el  Presupuesto General de la Administración Nacional vigente."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art.  11.  :  Comuníquese,  publíquese,  dése  a  la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM  -  BARRA  - CAMILION - MAZZA - RODRIGUEZ -  CARO FIGUEROA  - CAVALLO - RUCKAUF -  DI TELLA"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I. ORGANISMOS DEL MINISTERIO DE JUSTICIA.",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO I",
+            "texto": "ART.1 : NDR ANEXO NO GRABABLE."
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO  II.  SECRETARIA  DE  POLITICA  PENITENCIARIA Y READAPTACION SOCIAL",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO II",
+            "texto": "ART.1 : NDR ANEXO NO GRABABLE."
+          }
+        },
+        {
+          "anexo": "C",
+          "titulo-anexo": "ANEXO  III.  OBJETIVOS DE LA SECRETARIA DE POLITICA PENITENCIARIA Y READAPTACION SOCIAL.",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO III",
+            "texto": "ART.1 : NDR ANEXO NO GRABLABLE."
+          }
+        },
+        {
+          "anexo": "D",
+          "titulo-anexo": "ANEXO IV. OBJETIVOS DE LA SECRETARIA DE JUSTICIA.",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO IV",
+            "texto": "ART.1 : NDR ANEXO NO GRABABLE."
+          }
+        },
+        {
+          "anexo": "E",
+          "titulo-anexo": "ANEXO  V.  RESPONSABILIDAD  PRIMARIA  Y  ACCIONES  DE  LA DIRECCION NACIONAL DE READAPTACION SOCIAL.",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO V",
+            "texto": "ART. 1 :NDR ANEXO NO GRABABLE."
+          }
+        },
+        {
+          "anexo": "F",
+          "titulo-anexo": "ANEXO VI. PRESUPUESTO 1994.",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "ANEXO VI",
+            "texto": "ART.1  :  DISTRIBUCION  ADMINISTRATIVA  DEL  PRESUPUESTO DE LA ADMINISTRACION NACIONAL - RECURSOS HUMANOS ## JURISDICCION (A. C.): 4000 MINISTERIO DE JUSTICIA PROGRAMA            : 19 - CONDUCCION Y ADMINISTRACION CARGO O CATEGORIA      CANTIDAD DE         RETRIBUCION                          CARGOS            DEL CARGO AUTORIDADES SUPERIORES DEL PODER EJECUTIVO Secretario                  1              31.200 Subsecretario               1              30.000 TOTAL:                                     61.200 PERSONAL DEL SINAPA DECRETO 993/91 Asesores de Gabinete        6              80.640 (Dec: 736/92) B                           4              36.288 TOTAL:                                    116.928 TOTAL:                                    178.128"
+          }
+        }
+      ],
+      "id-infojus": "DN19940001088"
+    }
+  }
+}

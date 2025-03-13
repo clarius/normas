@@ -1,0 +1,403 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-424-0000-2202soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1658408411523,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "424-nacional-aprobacion-regimen-especial-regularizacion-obligaciones-para-operadores-servicio-transporte-automotor-relacion-multas-aplicadas-impagas-dn20220000424-2022-07-20"
+      }
+    },
+    "content": {
+      "mecanografico": 20220000424,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 424,
+      "timestamp": "2022-07-21T09:48:03",
+      "timestamp-alta": "2022-07-21T09:48:03",
+      "timestamp-m": "2022-07-21T09:48:03",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2022-07-20",
+      "standard-normativo": "DEC C 000424 2022 07 20",
+      "titulo-norma": "Aprobación de un Régimen Especial de Regularización de Obligaciones para los operadores del servicio de transporte automotor en relación con las multas aplicadas e impagas",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2022 07 21"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 424/2022",
+      "analista": "Rocca, Adriana",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2022-07-21",
+      "fecha-mod": "2022-07-21",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "Se aprueba un Régimen Especial de Regularización de Obligaciones \"Régimen de Presentación Voluntaria\" para los operadores del servicio de transporte automotor de pasajeros y pasajeras, cargas generales y cargas peligrosas de jurisdicción nacional e internacional en relación con las multas aplicadas e impagas y las presuntas infracciones constatadas con anterioridad al 31 de diciembre de 2021",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "emergencia pública"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/estado de emergencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "emergencia pública",
+                "acción social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia sanitaria"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/emergencia sanitaria"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "coronavirus"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/coronavirus"
+            },
+            "sinonimos": {
+              "termino": "COVID 19"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "multa"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/multa"
+            },
+            "sinonimos": {
+              "termino": "sanción penal"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte automotor"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte automotor"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte de pasajeros"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de pasajeros"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte público de pasajeros",
+                "transporte de personas",
+                "contrato de viaje",
+                "contrato de pasaje"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte de carga"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "transporte en contenedores",
+                "transporte de mercaderías"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte de carga peligrosa"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga/transporte de carga peligrosa"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "transporte de mercaderías peligrosas",
+                "transporte de sustancias peligrosas",
+                "transporte en contenedores",
+                "transporte de mercaderías",
+                "transporte de productos peligrosos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "refinanciación de deudas"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política económica interna/refinanciación de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "renegociación de deuda",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte de personas (transporte de pasajeros)",
+            "sanción penal (pena)",
+            "coronavirus",
+            "transporte de pasajeros",
+            "transporte de mercaderías (transporte de carga)",
+            "transporte de carga peligrosa",
+            "emergencia sanitaria",
+            "enfermedades",
+            "transporte automotor",
+            "refinanciación de deudas",
+            "política económica",
+            "estado de emergencia",
+            "emergencia pública (estado de emergencia)",
+            "transporte público de pasajeros (transporte de pasajeros)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "COVID 19 (coronavirus)",
+            "Bienestar social",
+            "acción social (Bienestar social)",
+            "Derecho penal",
+            "transporte de mercaderías peligrosas (transporte de carga peligrosa)",
+            "renegociación de deuda (refinanciación de deudas)",
+            "transporte de productos peligrosos (transporte de carga peligrosa)",
+            "pena",
+            "Economía y finanzas",
+            "transporte de sustancias peligrosas (transporte de carga peligrosa)",
+            "transporte en contenedores (transporte de carga)",
+            "contrato de viaje (transporte de pasajeros)",
+            "contrato de pasaje (transporte de pasajeros)",
+            "derecho financiero (Economía y finanzas)",
+            "Salud pública",
+            "emergencias sociales",
+            "Transporte",
+            "derecho económico financiero (Economía y finanzas)",
+            "contrato de transporte",
+            "política económica interna",
+            "multa",
+            "transporte de carga general (transporte de carga)",
+            "transporte de carga"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 012346 1937 01 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 021844 1978 08 03 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 027653 2021 10 28 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000958 1992 06 16 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DEC C 000656 1994 04 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DNU C 000260 2020 03 12 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "DNU C 000297 2020 03 19 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente N°\u00A0EX-2022-24770310-APN-MESYA#CNRT, las Leyes Nros. 12.346, 21.844, 24.653 y 27.653, los Decretos Nros. 958 del 16 de junio de 1992, 656 del 29 de abril de 1994, 260 del 12 de marzo de 2020 y 297 del 19 de marzo de 2020 y sus respectivas normas modificatorias y complementarias, la Resolución General N°\u00A05101 del 18 de noviembre de 2021 de la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS y el ACUERDO SOBRE TRANSPORTE INTERNACIONAL TERRESTRE,\u00A0y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 012346 1937 01 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 021844 1978 08 03 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000958 1992 06 16 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000656 1994 04 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DNU C 000297 2020 03 19 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DEC C 000698 1979 03 23 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "DEC C 002673 1992 12 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DEC C 000253 1995 02 21 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "DEC C 001035 2002 06 14 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_11",
+              "ref": "CON C 000000 1994 08 22 0076 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_12",
+              "ref": "DNU C 000260 2020 03 12 0001 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_13",
+              "ref": "DNU C 000167 2021 03 11 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_14",
+              "ref": "DNU C 000867 2021 12 23 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_15",
+              "ref": "REAG01005101 2021 11 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_16",
+              "ref": "TOR C 022520 1992 03 12 0021 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_17",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL\u00A0PRESIDENTE DE\u00A0LA\u00A0NACIÓN ARGENTINA DECRETA:",
+        "texto": "Que la Ley N°\u00A012.346 y su modificatoria regula el transporte de pasajeros de carácter interjurisdiccional, que comprende el que se realiza entre las Provincias o entre ellas y la Ciudad Autónoma de Buenos Aires.\n\nQue por el Decreto N°\u00A0958/92 y sus modificatorios se establece el marco regulatorio aplicable al transporte por automotor de pasajeros por carretera que se desarrolle en el ámbito de la jurisdicción nacional, que comprende el transporte interjurisdiccional entre las Provincias y la Ciudad Autónoma de Buenos Aires; entre Provincias; en los puertos y aeropuertos nacionales, entre ellos, o entre cualquiera de ellos y la Ciudad Autónoma de Buenos Aires o las Provincias; excluyendo al transporte de personas que se desarrolle exclusivamente en la Región Metropolitana de la Ciudad de Buenos Aires.\n\nQue por el Decreto N°\u00A0656/94 y sus modificatorios se establece el marco regulatorio para la prestación de servicios de transporte por automotor de pasajeros de carácter urbano y suburbano que se desarrolle en el ámbito de la Jurisdicción Nacional; considerándose tales a aquellos que se realicen en la Ciudad Autónoma de Buenos Aires o entre esta y los partidos que conforman la Región Metropolitana de Buenos Aires, así como los interprovinciales de carácter urbano y suburbano en el resto del país.\n\nQue, asimismo, oportunamente por la Ley N°\u00A021.844 se estableció que las transgresiones o infracciones a las disposiciones legales y reglamentarias en que incurran los prestatarios de servicios públicos de autotransporte sometidos al contralor y fiscalización de la autoridad nacional pertinente serán sancionadas con apercibimiento, multas, suspensión y caducidad de los permisos, de acuerdo con la reglamentación que al respecto se dicte.\n\nQue la mencionada Ley N°\u00A021.844 fue sucesivamente reglamentada mediante los Decretos Nros. 698 del 23 de marzo de 1979, 2673 del 29 de diciembre de 1992 y 253 del 3 de agosto de 1995 y sus modificatorios, por el que se aprobó el RÉGIMEN DE PENALIDADES POR INFRACCIONES A LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS EN MATERIA DE TRANSPORTE POR AUTOMOTOR DE JURISDICCIÓN NACIONAL.\n\nQue por la Ley N°\u00A024.653 se instituyó el régimen jurídico aplicable al transporte por automotor de cargas de carácter nacional e internacional, en la medida que no se encuentre reglado por Convenios Internacionales.\n\nQue por el Decreto N°\u00A01035 del 14 de junio de 2002 se aprobó la reglamentación de la Ley Nº\u00A024.653.\n\nQue, asimismo, por el artículo 2° del mencionado Decreto N°\u00A01035/02 se autorizó a la entonces SECRETARÍA DE TRANSPORTE del entonces MINISTERIO DE LA PRODUCCIÓN a aprobar un régimen de presentación voluntaria para los operadores de servicios de transporte de cargas de jurisdicción nacional con relación a las multas aplicadas impagas y a las presuntas infracciones constatadas con anterioridad a la entrada en vigencia del citado decreto, debiendo adecuarse las imputaciones en trámite y el monto de las sanciones impuestas a lo establecido en el Capítulo IV del Anexo I de dicho acto.\n\nQue en el artículo 2º del ACUERDO SOBRE TRANSPORTE INTERNACIONAL TERRESTRE (ATIT) -inscripto como Acuerdo de Alcance Parcial en el marco de la ASOCIACIÓN LATINOAMERICANA DE INTEGRACIÓN (ALADI), conforme los mecanismos del TRATADO DE MONTEVIDEO DE 1980, cuya puesta en vigencia se hizo efectiva por la Resolución Nº\u00A0263 del 16 de noviembre de 1990 de la ex-SUBSECRETARÍA DE TRANSPORTE del ex-MINISTERIO DE OBRAS Y SERVICIOS PÚBLICOS-, se estableció que el transporte internacional de pasajeros o carga solo podrá ser realizado por las empresas autorizadas, en los términos del Acuerdo y sus Anexos.\n\nQue en el inciso 1. del artículo 4º del referido Acuerdo se dispuso que se aplicarán a las empresas que efectúen transporte internacional, así como a su personal, vehículos y servicios que presten en el territorio de cada país signatario, las leyes y reglamentos vigentes, salvo las disposiciones contrarias a lo establecido en ese Acuerdo.\n\nQue en el artículo 14 de dicho Acuerdo se establece que los países signatarios podrán llegar a acuerdos bilaterales o multilaterales sobre los diferentes aspectos considerados en el mismo y, en especial, en materia de reciprocidad en los permisos, regímenes tarifarios y otros aspectos técnico-operativos, pero estos acuerdos no podrán en ningún caso contrariar los logrados en el Acuerdo referido.\n\nQue las sanciones establecidas en los Decretos Nros. 253/95 y 1035/02 y en el Segundo Protocolo Adicional sobre Infracciones y Sanciones al ACUERDO SOBRE TRANSPORTE INTERNACIONAL TERRESTRE (ATIT), inscripto como Acuerdo de Alcance Parcial en el marco de la ALADI, no poseen un fin recaudatorio sino que se aplican con el objetivo de modificar las conductas disvaliosas que constituyen transgresiones a la normativa que regula la actividad.\n\nQue por el artículo 1° de la LEY DE SOLIDARIDAD SOCIAL Y REACTIVACIÓN PRODUCTIVA EN EL MARCO DE LA EMERGENCIA PÚBLICA N°\u00A027.541 se declaró la emergencia pública en materia económica, financiera, fiscal, administrativa, previsional, tarifaria, energética, sanitaria y social, y se delegaron en el PODER EJECUTIVO NACIONAL las facultades comprendidas en dicha ley, en los términos del artículo 76 de la CONSTITUCIÓN NACIONAL, con arreglo a las bases de delegación establecidas en el artículo 2° de la referida ley, hasta el 31 de diciembre de 2020.\n\nQue el 11 de marzo de 2020 la ORGANIZACIÓN MUNDIAL DE LA SALUD (OMS) declaró el brote del virus SARS-CoV-2 como una pandemia.\n\nQue, en ese marco, a través del artículo 1° del Decreto N°\u00A0260/20 se amplió la emergencia pública en materia sanitaria establecida por la referida Ley N°\u00A027.541, por el plazo de UN (1) año, habiendo sido prorrogado dicho decreto hasta el 31 de diciembre de 2021, mediante el Decreto N°\u00A0167/21, en los términos del mismo y, posteriormente, hasta el 31 de diciembre de 2022, por el   Decreto N°\u00A0867/21, en los términos del mismo.\n\nQue, asimismo, por el Decreto N°\u00A0297/20 se estableció una medida de \"aislamiento social, preventivo y obligatorio\" en todo el país, la que fue prorrogada en diversas oportunidades, estableciéndose con posterioridad la medida de \"distanciamiento social, preventivo y obligatorio\" también por sucesivos períodos.\n\nQue dichas medidas en protección de la salud pública conllevaron restricciones a la circulación interjurisdiccional de pasajeros y pasajeras y a la movilidad en general, cuya intensidad fue variando de acuerdo a la evolución de la situación epidemiológica.\n\nQue las mismas impactaron negativamente en el sector del transporte automotor de pasajeros y pasajeras, de cargas generales y de cargas peligrosas de jurisdicción nacional, interjurisdiccional e internacional, ocasionándole dificultades económicas y financieras.\n\nQue es objetivo del ESTADO NACIONAL procurar el normal desenvolvimiento de los servicios de transporte, conservar las fuentes de trabajo y satisfacer necesidades colectivas primordiales, velando por el acceso a los mismos por parte de la población y manteniendo el nivel de la prestación y la calidad en los servicios que se brindan a los usuarios y las usuarias.\n\nQue, en función de ello, resulta necesario establecer un sistema especial para la regularización de las multas impagas e infracciones constatadas en dichos servicios que permita descuentos y plazos especiales de cumplimiento para aquellas empresas y operadores que se presenten voluntariamente a cancelar dichas deudas.\n\nQue el referido régimen deberá involucrar a las empresas de transporte automotor de pasajeros y de carga, nacionales e internacionales, en todas sus modalidades.\n\nQue para el caso de infracciones cometidas por empresas extranjeras, corresponde condicionar la posibilidad de la adhesión al régimen especial de regularización de obligaciones respecto de las infracciones constatadas y multas que mantienen con la COMISIÓN NACIONAL DE REGULACIÓN DEL TRANSPORTE, a la aplicación del Principio de Reciprocidad con los países signatarios del ACUERDO SOBRE TRANSPORTE INTERNACIONAL TERRESTRE (ATIT), verificando que el país signatario que otorgó el permiso originario al operador para efectuar el transporte por automotor de pasajeros y/o de cargas internacional otorgue las mismas facilidades y condiciones para los nacionales argentinos.\n\nQue, de conformidad con lo expuesto, corresponde aprobar un régimen especial de regularización de obligaciones, \"RÉGIMEN DE PRESENTACIÓN VOLUNTARIA\", para los operadores del servicio de transporte automotor de pasajeros y pasajeras, cargas generales y cargas peligrosas de jurisdicción nacional e internacional en relación con las multas aplicadas e impagas y las presuntas infracciones constatadas con anterioridad al 31 de diciembre de 2021.\n\nQue, a su vez, la implementación de un régimen como el señalado permite al ESTADO NACIONAL aprovechar de un modo más eficiente los limitados recursos que actualmente son destinados a efectivizar la tramitación de los expedientes administrativos derivados de las multas aplicadas y la posterior ejecución de aquellas y reelaborar las estructuras organizativas y procedimientos relacionados con los regímenes sancionatorios, de manera tal que se intensifiquen los esfuerzos para el desarrollo de tareas de prevención a la vez que la tramitación de las actuaciones sumariales sea realizada con mayor inmediatez y celeridad, así como el labrado del acta, la aplicación de la sanción y/o la ejecución de la multa.\n\nQue, a tal efecto, resulta oportuno adoptar los parámetros previstos en la Ley de Alivio Fiscal para Fortalecer la Salida Económica y Social a la Pandemia generada por el COVID-19 N°\u00A027.653, y de conformidad con lo establecido en la Resolución General N°\u00A05101/21 de la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS. Que por el artículo 21 de la Ley de Ministerios (texto ordenado por Decreto N°\u00A0438 del 12 de marzo de 1992) y sus modificatorias se establecieron las competencias del MINISTERIO DE TRANSPORTE.\n\nQue en función de ello, y en virtud de la especialidad técnica en la materia, corresponde instruir al MINISTERIO DE TRANSPORTE para que establezca las condiciones del régimen especial de regularización de obligaciones referido.\n\nQue han tomado intervención los servicios de asesoramiento jurídico competentes.\n\nQue la presente medida se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 1 de la CONSTITUCIÓN NACIONAL. Por ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTÍCULO 1°.- Apruébase un régimen especial de regularización de obligaciones, \"RÉGIMEN DE PRESENTACIÓN VOLUNTARIA\", para los operadores del servicio de transporte automotor de pasajeros y pasajeras, cargas generales y cargas peligrosas de jurisdicción nacional e internacional en relación con las multas aplicadas e impagas y las presuntas infracciones constatadas con anterioridad al 31 de diciembre de 2021."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 027653 2021 10 28 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "ARTÍCULO 2°.- Instrúyese al MINISTERIO DE TRANSPORTE a establecer, como Autoridad de Aplicación, las condiciones del \"RÉGIMEN DE PRESENTACIÓN VOLUNTARIA, así como sus modos y plazos de pago.\n\nA tal efecto, se adoptarán los parámetros previstos en la Ley de Alivio Fiscal para Fortalecer la Salida Económica y Social a la Pandemia generada por el COVID-19 N°\u00A027.653, de acuerdo con las siguientes pautas:.\n\na. Las deudas originadas en multas y/o infracciones constatadas al 31 de diciembre de 2021 se abonarán en planes especiales de pago de hasta CUARENTA Y OCHO (48) cuotas.\n\nb. Para aquellas cancelaciones totales del importe adeudado al 31 de diciembre de 2021, de pago al contado y en un plazo que no exceda los TREINTA (30) días corridos a partir de la implementación del presente régimen especial, se podrá establecer una quita de la deuda total consolidada que no exceda el SESENTA POR CIENTO (60%) del mismo.\n\nc. A los fines de acceder al plan de facilidades, deberá abonarse el CINCO POR CIENTO (5%) de la deuda total consolidada, en carácter de anticipo de pago de la deuda total consolidada.\n\nd. El monto mínimo del pago a cuenta será de PESOS CINCO MIL ($5000), excepto en aquellos casos en que la deuda total consolidada no supere este valor.\n\ne. Las cuotas serán mensuales, iguales y consecutivas. El monto mínimo del componente capital de cada cuota será de PESOS CINCO MIL ($5000), excepto en aquellos casos en que la deuda total consolidada no supere este valor.\n\nf. A los planes de pago de hasta DOCE (12) cuotas no se les podrá aplicar quitas superiores al CUARENTA POR CIENTO (40 %) de la deuda total consolidada al 31 de diciembre de 2021, y no se les calcularán intereses resarcitorios ni compensatorios adicionales. g. Para planes de pago de TRECE (13) a VEINTICUATRO (24) cuotas se aplicará como máximo una quita del CUARENTA POR CIENTO (40 %) del importe de la deuda total consolidada al 31 de diciembre de 2021 y una tasa de interés por financiación equivalente al CINCUENTA POR CIENTO (50 %) de la tasa pasiva promedio del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA.\n\nh. Para planes de pago con plazo superior a VEINTICUATRO (24) cuotas no se podrán aplicar quitas ni deducciones a la deuda total consolidada al 31 de diciembre de 2021.\n\ni. Para planes de pago con plazo superior a VEINTICUATRO (24) meses e iguales o menores a TREINTA Y SEIS (36) meses se aplicará una tasa de interés equivalente a la TASA PASIVA PROMEDIO DEL BANCO CENTRAL DE LA REPÚBLICA ARGENTINA.\n\nj. Para planes de pago con plazo superior a los TREINTA Y SEIS (36) meses se aplicará una tasa de interés equivalente a la TASA PASIVA PROMEDIO DEL BANCO CENTRAL DE LA REPÚBLICA ARGENTINA incrementada en un VEINTE POR CIENTO (20 %).\n\nk. Los sujetos que adhieran al presente régimen a través de planes de facilidades de pago podrán solicitar por única vez la cancelación anticipada total del saldo de la deuda comprendida en aquellos, a partir del mes en que se produzca el vencimiento de la segunda cuota."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTÍCULO 3°.- Los fondos provenientes de los planes especiales de regularización previstos en el artículo 2º del presente decreto así como los montos ingresados en concepto de penalidades serán percibidos por la COMISIÓN NACIONAL DE REGULACIÓN DEL TRANSPORTE."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTÍCULO 4°.- El acogimiento de los operadores al régimen establecido en el artículo 1° del presente decreto exigirá el reconocimiento liso y llano de las infracciones correspondientes y del monto total de la deuda consolidada, en las condiciones que establezcan las normas complementarias que se dicten en consecuencia del presente.\n\nEstas condiciones no podrán incluir quitas y/o descuentos que excedan en un SESENTA POR CIENTO (60 %) la deuda total consolidada por el operador al 31 de diciembre de 2021."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTÍCULO 5°.- Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FERNÁNDEZ-Manzur-Guerrera"
+      },
+      "id-infojus": "DN20220000424"
+    }
+  }
+}

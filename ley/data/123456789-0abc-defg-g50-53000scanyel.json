@@ -1,0 +1,855 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g50-53000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584322814,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23614-nacional-sistema-nacional-promocion-industrial-lns0003505-1988-08-26"
+      }
+    },
+    "content": {
+      "mecanografico": "S0003505",
+      "numero-norma": 23614,
+      "timestamp": "2013-01-19T18:52:05",
+      "timestamp-m": "2013-01-19T18:52:05",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1988-08-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023614 1988 08 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "*LEY 23.614",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1988"
+        ]
+      },
+      "titulo-norma": "SISTEMA NACIONAL DE PROMOCION INDUSTRIAL.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1988 11 08"
+        }
+      },
+      "sancion": "EL  SENADO  Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC. SANCIONAN CON FUERZA DE LEY:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.614",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2013-01-19",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 62 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA 61 FECHA DE ENTRADA EN VIGENCIA 1988 11 09 OBSERVACION VER CAPITULO 4 (SUSPENSION DE LOS REGIMENES DE PROMOCION INDUSTRIAL) LEY 23697 (B.O. 25-9-89) LEY DE EMERGENCIA ECONOMICA"
+      },
+      "sumario": {
+        "sumario": "INDUSTRIA-PROMOCION INDUSTRIAL-INSTITUYESE UN UNICO SISTEMA NACIONAL DE PROMOCION INDUSTRIAL PARA EL ESTABLECIMIENTO DE NUEVAS ACTIVIDADES INDUSTRIALES Y LA EXPANSION,RECONVENCION Y MODERNIZACION DE LAS EXISTENTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "promoción industrial"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción/promoción industrial"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "proyectos industriales",
+                "derecho económico financiero",
+                "fomento industrial",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "instalación de plantas industriales"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/radicación de industrias"
+            },
+            "sinonimos": {
+              "termino": [
+                "instalación de plantas industriales",
+                "parque industrial",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regímenes sectoriales"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción/regímenes sectoriales"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regímenes regionales"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción/regímenes regionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "beneficios tributarios"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "beneficios impositivos",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "exenciones impositivas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios/exenciones impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "franquicias tributarias",
+                "exenciones tributarias",
+                "derecho fiscal",
+                "exención de pago del impuesto",
+                "beneficios impositivos",
+                "derecho público fiscal",
+                "exenciones de tasas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "derechos de importación"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/derechos de importación"
+            },
+            "sinonimos": {
+              "termino": [
+                "aranceles aduaneros",
+                "derechos de aduana"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asistencia financiera"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/convenios de cooperación/convenios de cooperación técnica y financiera/asistencia financiera"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "régimen de asistencia financiera",
+                "acuerdo de cooperación",
+                "convenio de colaboración",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Consejo Federal de Promoción Industrial"
+            },
+            "preferido": {
+              "termino": "Consejo Federal de Promoción Industrial"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inversiones extranjeras"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/inversiones/inversiones extranjeras"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contribuciones especiales"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/contribuciones especiales"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "contribuciones",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Banco Nacional de Desarrollo"
+            },
+            "preferido": {
+              "termino": "Banco Nacional de Desarrollo"
+            },
+            "sinonimos": {
+              "termino": "BANADE"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Secretaría de Industria y Comercio Exterior"
+            },
+            "preferido": {
+              "termino": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa"
+            },
+            "sinonimos": {
+              "termino": [
+                "Secretaría de Industria y Comercio Exterior",
+                "Secretaría de Industria y Comercio",
+                "Secretaría de Estado de Industria y Comercio Interior"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "obligaciones promocionales"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción/obligaciones promocionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "obligaciones de la empresa promocionada",
+                "derecho financiero",
+                "obligaciones del beneficiario de la promoción"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "San Luis"
+            },
+            "preferido": {
+              "termino": "San Luis"
+            },
+            "sinonimos": {
+              "termino": "Provincia de San Luis"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fomento industrial (promoción industrial)",
+            "instalación de plantas industriales (radicación de industrias)",
+            "Derecho Aduanero",
+            "fisco nacional",
+            "Derecho Tributario",
+            "Banco Nacional de Desarrollo",
+            "radicación de industrias",
+            "productos industriales (actividad industrial)",
+            "Derecho tributario y aduanero",
+            "proyectos industriales (promoción industrial)",
+            "exención de pago del impuesto (exenciones impositivas)",
+            "tributos",
+            "Secretaría de Estado de Industria y Comercio Interior (Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa)",
+            "política económica",
+            "Secretaría de Industria y Comercio (Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa)",
+            "Provincia de San Luis (San Luis)",
+            "obligaciones de la empresa promocionada (obligaciones promocionales)",
+            "derecho fiscal (Derecho Tributario)",
+            "franquicias tributarias (exenciones impositivas)",
+            "aranceles aduaneros (tributos aduaneros)",
+            "industria (actividad industrial)",
+            "Economía y finanzas",
+            "Consejo Federal de Promoción Industrial",
+            "actividad industrial",
+            "contribuciones especiales",
+            "tributos aduaneros",
+            "régimen de asistencia financiera (asistencia financiera)",
+            "derecho financiero (Economía y finanzas)",
+            "San Luis",
+            "gravámenes (tributos)",
+            "exenciones de tasas (exenciones impositivas)",
+            "inversiones extranjeras",
+            "derecho económico financiero (Economía y finanzas)",
+            "convenios de cooperación técnica y financiera",
+            "regímenes regionales",
+            "crédito fiscal",
+            "exenciones impositivas",
+            "Secretaría de Industria y Comercio Exterior (Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa)",
+            "derechos de importación",
+            "política productiva",
+            "parque industrial (radicación de industrias)",
+            "beneficios tributarios",
+            "convenios de cooperación",
+            "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa",
+            "derechos de aduana (tributos aduaneros)",
+            "derecho público fiscal (Derecho Tributario)",
+            "asistencia financiera",
+            "obligaciones del beneficiario de la promoción (obligaciones promocionales)",
+            "BANADE (Banco Nacional de Desarrollo)",
+            "contribuciones (contribuciones especiales)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "obligaciones promocionales",
+            "regímenes sectoriales",
+            "Actividades económicas",
+            "regímenes de promoción",
+            "promoción industrial",
+            "beneficios impositivos (beneficios tributarios)",
+            "inversiones",
+            "acuerdo de cooperación (convenios de cooperación)",
+            "exenciones tributarias (exenciones impositivas)",
+            "convenio de colaboración (convenios de cooperación)"
+          ]
+        }
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO I  DEFINICIONES Y OBJETIVOS",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "ARTICULO 1.- Institúyese un único sistema nacional de promoción industrial para el establecimiento de nuevas actividades industriales y  la  expansión, reconvención y modernización de las existentes.  Este sistema estará constituido por  la  presente  ley,  su  decreto reglamentario  general,  las  normas  legales  que  se  sancionen en virtud  de los dispuesto por el artículo 8, un decreto de  promoción regional  de carácter sectorial,  un  decreto  de  promoción  para proyectos  prioritarios,  un  decreto para la promoción selectiva de inversiones  y reinversión de utilidades,  y  la  normativa  que  se dicte con arreglo a las disposiciones anteriores. m) Apoyar las  instalaciones  industriales  en las zonas y tareas de frontera  para  asegurar  el  establecimiento  y  arraigo    de   la población n)    Promover  proyectos  de  inversión  en  sectores  industriales específicos    que   por  su  envergadura  y  por  su  significativa importancia  en la conformación  del  perfil  industrial  del  país, adquieran carácter prioritario.  Ñ) Asegurar el  desarrollo  de  las  industrias  necesarias  para la defensa nacional. o)  Impulsar la creación y expansión o perfeccionamiento de empresas orientadas  a desarrollar exportaciones de alto valor agregado o que contribuyan a  la sustitución eficiente de importaciones, procurando no afectar la provisión  de  materias  primas  a la industria local.\n\np)  Estimular  la  renovación,  modernización  y  expansión  de  los activos fijos de las empresas industriales y en especial  incentivar la  reinversión dentro de las regiones promovidas de las utilidades en ellas generadas."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "ARTICULO  2.-  La promoción industrial se realizará mediante la utilización de los mecanismos  dispuestos  en  la  presente  ley  de manera coordinada con las pautas y orientaciones que se establezcan en la política  de  desarrollo,  su  función  consistirá  en lograr, mediante  la  aplicación  de un criterio y programado, el despliegue que armónico y dinámicamente  eficiente  de  la actividad productora en todo el territorio nacional.  Son objetivos del sistema: a) Apoyar la expansión y fortalecimiento de la industria  nacional, creando las condiciones para favorecer la inversión y la capitalización  del  sector,  una elevada tasa de crecimiento de  su producción, y el logro y mantenimiento  de  su  competitividad. b)  Priorizar la constitución y desarrollo de empresas  industriales de capital nacional. c) Procurar  la  democratización  del  poder  económico  y apoyar la expansión de las pequeñas y medianas industrias. d)  Propender  al  desarrollo  científico y tecnológico del país  a través  del estímulo al desarrollo, adaptación  e incorporación  de tecnologías  de  avanzadas y al fortalecimiento de la capacdad total de generación de tecnología,  tanto  en  la industria existente como en la que se instale. c)  Apoyar  la  reconvensión y reestructuración  de las  industrias existentes a fin de mejorar su productividad. f) Armonizar la promoción industrial con las necesidades socioeconomicas de  la  población asegurando  condiciones  de  vida dignas  y  vivienda  adecuada  al personal que empleen las empresas.\n\ng) Impulsar el pleno y eficiente  empleo  de  los  recursos humanos, cotribuir a  alcanzar niveles crecientes de ocupación  de  mano  de obra industrial  en la áreas de menor desarrollo económico relativo y propender a su capacitación técnica profesional. h) Preservar el medio  ambiente  y las condiciones adecuadas de vida de  la  contaminación  y  el  envilecimiento   a  que  puedan verse sometidas las personas y a los recursos naturales  por  la actividad industrial. i)    Tender  hacia  una  configuración  especial  de  la actividad económica  que  mediante  la  aplicación  de estímulos diferenciales revierta  las  distorciones  y  desequilibrios   actuales  de  orden económico social,  cultural  y  poblacional,  propendiendo    a  la integración económica  del  territorio  nacional y a la creación de espacios  económicos complejos capaces de disminuir  progresivamente la necesidad  de incentivos para su sostenimiento y desarrollo. j) Estimular las  inversiones  en industrias  que  den  lugar  a un máximo  aprovechamiento  de  los  recursos naturales  de  la región mediante su  industrialización en las zonas de origen, apoyando  la incorporación y  desarrollo  de tecnologías aplicadas a ese fin y la integración  vertical  de  la región,  sin  perjuicio  de estimular también  dentro  de  la  misma  región  las  inversiones  en  otras industrias de alto valor agregado. k) Desarrollar actividades en complementación  y  apoyo  con  países limítrofes  cuando  razones geoeconómicas lo hagan conveniente. l) Lograr una adecuada  complementación con los regímenes locales de promoción y apoyar el desarrollo  de  áreas y parques industriales y la instalación de empresas en los mismos."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "ARTICULO  3.-  A  los  fines  del  artículo  1, se considerarán proyectos  prioritarios  aquellos  que  por  su  magnitud    tengan potencialmente repercusiones  significativas  sobre  la  estructura económica  del  país, satisfagan  definiciones  específicas  de  la política  de  desarrollo  a nivel nacional y respondan a algunos de los criterios que se enuncian a continuación: a) Industrias intensivas en tecnología,  basadas en la investigación científica o tecnológica o en el uso intensivo  de  recursos humanos calificados. b)  Industrias  que  directa  o  indirectamente  tengan un impacto favorable en el balance de divisas del país. c)  Industrias básicas o de lento retorno del capital que requieran condiciones especiales para  la  creación  en  el  país  de  nuevas tecnologías o para la apertura de nuevos mercados."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "ARTICULO  4.-  Los  decretos  específicos  a  los  que alude el artículo 1  serán  dictados  por  el  Poder  Ejecutivo Nacional  de acuerdo  con las pautas establecidas en el artículo  2,  las  normas legales que  se  sancionen de  acuerdo  con  el  artículo  8  y las facultades acordadas por la presente ley."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULOS II  INCENTIVOS PROMOCIONALES",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I  REGIMEN DE PROMOCION REGIONAL CON CARACTER SECTORIAL",
+              "articulo": [
+                {
+                  "numero-articulo": 5,
+                  "texto": "ARTICULO  5.-  El  decreto  de  promoción regional con carácter sectorial podrá contemplar, para proyectos  acogidos  al  mismo  los siguientes estímulos: a) A los inversionistas.  Provisión  de  bonos  de  crédito fiscal nominativos y transferibles por un primer y único endoso,  por  un  monto  de hasta el 40% de la inversión estipulada  en  el  proyecto,  imputables    al  pago  de obligaciones relativas a los siguientes tributos o a los  que  en su momento lo sustituyan o complementen:  Impuesto a las Ganancias.  Impuesto sobre los capitales.  Impuesto al Patrimonio Neto.  Impuesto sobhre los Beneficios Eventuales.  Impuesto al Valor Agregado.  La tasa máxima de Beneficio por departamento o partido resultará  de sumar  a una  tasa  base  de  hasta  el  veinte por ciento (20%) un adicional  de hasta veinte puntos, que se graduará  de  acuerdo  con los coeficientes  sobre  el valor agregado a que hace referencia el artículo 8.  La imputación de estos bonos podrá  efectuarse  a partir del momento en  el que,  se acredite que se haya efectivizado la  inversión  en términos reales  y hasta  el  tercer  año  calendario  a partir del correspondiente al de la fecha de inversión y en ningún caso  podrán generar  saldo a favor de los contribuyentes. Los montos computables serán actualizables  mediante  la aplicación del índice al que alude el artículo 51, referido al mes  anterior al acto administrativo que acuerde los beneficios, de acuerdo  con  la  tabla elaborada por la Dirección  General Impositiva para el mes inmediato anterior al  de imputación de  los  bonos.  Los  bonos no computados hasta el tercer año caducarán automáticamente.  La titularidad de la inversión deberá  permanecer  en  manos  de los beneficiarios   o  sus  derechohabientes  durante  un  plazo  mínimo obligatorio de tres  años  contados  a partir de la puesta en marcha del proyecto,  caso  contrario,  se  tendrá   por  no  cumplido  el compromiso  de Inversión,  resultando  de  aplicación   las  normas enunciadas en el Artículo 48.  Si  la  titularidad  se  extendiera  a  la  totalidad  del plazo  de vigencia de los respectivos proyectos acogidos a este régimen,  los bonos adquirirán el carácter de no reintegrable.  Si luego de  cumplido  el  plazo  mínimo  de  tres  años  no  se  la mantuviere,    los   bonos  imputados  o  transferidos  deberán  ser reembolsados por los  inversionistas  en  la  medida  que  indica la siguiente tabla:  Años de mantenimiento de la Proporción a reintegrar titularidad contados a partir de la puesta en marcha.\n\n de tres (3) hasta antes de cumplido el sexto año  100 % de seis (6) hasta antes de cumplido el noveno año       60 % de nueve (9) hasta antes de la finalización del plazo   30 % Pérdida la titularidad de la inversión una vez finalizado el tercer año y antes de cumplirse el plazo de seis años contados a partir de la puerta en marcha, los montos a reintegrar deberán  ser cancelados en  seis  cuotas  anuales  iguales  y  consecutivas  a  partir   del vencimiento de este plazo;  Si  la  pérdida de la titularidad se verificará cumplido el plazo de seis años, lso montos deberán cancelarse a partir del año en el que se verificará  la pérdida,  en  tantas  cuotas  anuales  iguales  y consecutivas  como  años restaren hasta el décimo segundo contado a partir de la puesta en marcha.\n\nLos  montos a reintegrar en  todos  los  casos  serán  actualizables mediante  la  aplicación  del  régimen  que  a  tales  efectos  se establezca reglamentariamente  y  teniendo  en cuenta lo previsto en el artículo 51. b) A las Empresas  Las  empresas  titulares de los proyectos podrán  ser  beneficiarias de:\n\n1) Bonos de crédito  fiscal  no reintegrables, imputables al pago de obligaciones originadas en los  proyectos  promovidos, emergentes de los siguientes tributos o los que en su momento  los  sustituyan  o complementen:\n\n- Impuesto a las Ganancias.  - Impuesto sobre los Capitales.  - Impuesto al Valor Agregado, excepto el generado por importaciones.  Estos  bonos  serán  nominativos  e intransferibles, salvo los casos especialmente previstos en la presente ley y tendrán una preimputación por ejercicio comercial  que  limitará  su utilización para el pago de obligaciones tributarias devengadas en  cada  uno de los  ejercicios,  no  pudiendo  su  uso generar  saldos a favor del contribuyente.  Dichos bonos serán actualizables según el procedimiento  previsto en el  inciso a)  de  este  artículo.  Los  bonos no utilizados contra obligaciones devengadas  en  los  ejercicios para  los  que  fueron preimputados caducarán automáticamente.  Los  bonos  asignados  para cada  ejercicio  fiscal serán utilizables en la proporción en la que se  cumplimenten  las  unidades  de producción  comprometida.  2)  Exención parcial  del  monto  de  los  derechos  de  importación correspondientes  a  bienes  de  capital  y  sus partes y repuestos, destinados al  proyecto,  no  producidos  en  el  país,   según  se establece  en  el Nomenclador Arancelario de importación (NADI),  de acuerdo con la normativa que al  respecto formule la Secretaría de Industria y Comercio Exterior.\n\n3)  Créditos  de  mediano y largo plazo  que  aseguren  el  adecuado desenvolvimiento del  proyecto  durante  su  período de vigencia, en las condiciones  que  se  estipulen  por  vía  reglamentaria.  4) Asistencia tecnológica aplicada a la actividad  respectiva.  5)   Facilidades  para  el  aprovisionamiento  de  materias  primas, prestación de  servicios  y compra o locación de bienes del dominio del Estado.  6) Autorización para computar  en  el  IVA  la totalidad del crédito fiscal emergente por importación o compra en  el  mercado interno de bienes de capital destinados al proyecto, en el ejercicio  fiscal en el    que   el  respectivo impuesto  les  hubiera  sido  facturado."
+                },
+                {
+                  "numero-articulo": 6,
+                  "texto": "ARTICULO  6.-  Los  estímulos  promocionales  a  las empresas beneficiarias  de  este  régimen  tendrán  una duración máxima de 12 ejercicios  comerciales,  contados  a partir del  de  la  puesta  en marcha del proyecto. No obstante ello,  a  partir  del tercero, para poder gozar de los beneficios que correspondieren a  los  ejercicios subsiguientes hasta el usuario, la autoridad de concesión y  control deberá  expedir  constancia  del cumplimiento  de  los  compromisos asumidos  para  los anteriores, entendíendose que en el supuesto  de conseciones efectuadas  por el PEN o el Ministerio de Economía de la Nación la función podrá ser  delegada en la autoridad de aplicación.\n\nIdéntico requisito regirá para el goce de los beneficios correspondientes a los bienes comerciales que restaren."
+                },
+                {
+                  "numero-articulo": 7,
+                  "texto": "ARTICULO  7.-  La  cuantía  de  los  bonos  de crédito fiscal a adjudicar a las empresas titulares de proyectos promovidos  según el régimen  del presente  capítulo,  se  calculará como porcentaje del valor agregado previsto en los mismos durante  el  lapso de vigencia de  los  beneficios  o  de  la ponderación  de  uno  o  más de  sus componentes,  con  especial  consideración  de  la  nómina salarial, según  la definición que el Honorable Congreso de la Nación  efectúe de acuerdo con lo establecido en el artículo 8.  Dicha cuantía  no podrá superar el importe que resulte de aplicar el porcentaje que corresponda  según  la  localización  del  proyecto, sobre el valor agregado por éste; ni el monto total de los tributos originados por el proyecto contra los que resultaren imputables los bonos,  salvo  en  el caso contemplado en  el  artículo  10.  El decreto correspondiente  a este régimen establecerá las pautas de preimputación por ejercicio comercial a los fines de la distribución  de la cuantía total  de  bonos  resultantes  para  los proyectos.  Dicha preimputación  podrá  cubrir  el  monto  de  los tributos devengados  con anterioridad  al ejercicio de la puesta en marcha y deberá fijar pautas decrecientes  de asignación a partir de esta última."
+                },
+                {
+                  "numero-articulo": 8,
+                  "texto": "ARTICULO 8.- El Honorable Congreso de la Nación, a propuesta del Poder Ejecutivo  Nacional,  fijará las tasas máximas de incentivo a utilizar, así como los criterios  o  las  prioridades  sectoriales a las  que deberá ajustarse la promoción en las distintas zonas  y  la definición  de  \"Valor Agregado\"  o la de los componentes del mismo que, según lo previsto en el artículo  7  de la presente Ley, deberá emplearse  para  el  cálculo de los incentivos  promocionales.  A los fines de la fijación  de  las  tasas  máximas, la propuesta de estímulos diferenciales en función de los objetivos  enunciados  en el artículo  2  de la presente Ley, en especial los del inciso i), cuyos  efectos  tendrá  en cuenta  principalmente  los  siguientes criterios: a)  Mayor población con necesidades básicas  insatisfechas  respecto de la población total. b) Menor producto bruto industrial geográfico respecto del producto bruto geográfico total. c) Mayor distancia en relación al kilómetro cero. d) Menor densidad de la población. e) Mayores tasas de desempleo abierto y subempleo. f) Menor población  ocupada  en  el sector industrial respecto de la ocupación total. g) Migración neta en relación a la población total. h) Inferiores valores de las variables  indicativas  de  dotación de infraestructura.  Las    tasas   máximas  de  incentivo  sobre  valor  agregado  serán determinadas por  departamento  o partido. Para la cuantificación de las variables  expuestas  precedentemente    se   utilizarán  datos oficiales con   el  mayor  grado  de  actualización  disponible, provenientes  del INDEC  o  del  Consejo  Federal  de  Inversiones, correspondientes a cada departamento o partido. En los casos en que dichos datos no existan con  ese nivel  de desgregación, se tomarán los correspondientes a la jurisdicción provincial.  En  aquellos  casos  de departamentos colindantes  pertenecientes  a jurisdicciones  provinciales  distintas  que  presenten  similitudes estructurales, se  contemplarán factores de corrección que tiendan a homogeneizar las tasas de incentivo.  A  fin  de  garantizar  la  neutralización  de  las  distorciones  y desequilibrios  a que se hace referencia el objetivo enunciado en el inciso i) del artículo  2  de la presente ley, las tasas sobre valor agregado a asignar por departamento  o  partido  tendrán como límite inferior el valor cero para aquellos que queden definidos  como  los más  favorecidos  en  la  relación desigual que se procura corregir.\n\nAsimismo, con el objeto de  estimular el desarrollo de las tareas de frontera, se priorizará la intensidad  de  los  incentivos  para los mismas.  En materia de sectorización, se deberá priorizar el logro del  pleno empleo productivo de los recursos humanos y la industrialización  de los  recursos naturales y productos primarios en origen, así como la integración con actividades industriales existentes.",
+                  "observado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 25-09-89).",
+                      "id": "OBSERVADO_POR_0",
+                      "ref": "LEY C 023697 1989 09 01 0010 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 9,
+                  "texto": "ARTICULO  9.-  El  Poder  Ejecutivo  Nacional  deberá elevar la propuesta a  la que alude el artículo anterior, juntamente  con  el dictamen que sobre la misma formula el Consejo Federal de Promoción Industrial, creado por  el articulo 32 de esta Ley. A tales efectos este organismo contará con un  plazo máximo de cuarenta y cinco (45) días corridos, contados a partir  de  la notificación  que el Poder Ejecutivo  Nacional  deberá  hacerle  de la propuesta, entendiéndose que la falta de pronunciamiento, vencido  el  citado plazo, implica un  dictamen favorable de dicho organismo. En este último supuesto, el Poder  Ejecutivo  Nacional  quedaría  eximido de la obligación de adjuntar  el dictámen del Consejo Federal de  Promoción  Industrial, debiendo dar cuenta de tal circunstancia."
+                },
+                {
+                  "numero-articulo": 10,
+                  "texto": "ARTICULO  10.-  Cuando  un  proyecto  comprenda exportaciones u operaciones en el mercado interno exentas del  IVA,  a  los fines de la restricción  que  a  la  cuantía  asignable  de bonos impone  el artículo 7 de la presente Ley, se considerará que  el  monto  de los impuestos  contra  los que dichos bonos son imputables comprende  la suma  que  resulte  de  aplicar, al  valor  agregado  del  proyecto involucrado en las exportaciones  y operaciones  exentas,  la  tasa general  del  gravamen  vigente  al  tiempo del acto de concesión de beneficios."
+                },
+                {
+                  "numero-articulo": 11,
+                  "texto": "ARTICULO  11.-  La limitación a la que se refiere el artículo 5 inciso b) de la presente  ley  en  cuanto a la intransferibilidad de los  bonos  de crédito  fiscal, no será  de  aplicación  cuando  se verifiquen  exportaciones u   operaciones  en  el  mercado  interno exentas del IVA. En tales casos  la cuantía  de bonos transferibles resultará de la aplicación de la siguiente fórmula.  B' = (B.T'): T  B' = Cuantía de bonos que adquieren transferibilidad  en  virtud  de la exportación u operación exenta:  B'  =  Cuantía  de bonos que adquieren transferibilidad en virtud de la exportación u operación exenta;  B = Cuantía de bonos  asignados  para  el  ejercicio comercial en el que se efectúa la exportación y operación exenta;  T = Monto de Impuestos en moneda constante,  cancelable  con  bonos, que según  el  proyecto  corresponde  ingresar  por  el  ejercicio comercial  en el que se verifica la exportación y operación exenta, incluida  la  suma prevista  en  el artículo  10  in  fine;  T' = Impuesto en moneda constante que, de acuerdo con la metodología del artículo  10  de  la presente ley, corresponde a las exportaciones  u operaciones  exentas   que  se  verifiquen  en  el ejercicio comercial.\n\nEn  el  supuesto  de  exportaciones, facúltase  al  Poder  Ejecutivo Nacional a adicionar esta  promoción  a  cualquier  otra que pudiera corresponder  a  las mismas  en  virtud  de normativas de  carácter general o especial que contemplen restricciones."
+                },
+                {
+                  "numero-articulo": 12,
+                  "texto": "ARTICULO  12.-  Los  bonos sólo adquirirán transferibilidad por autorización expresa de la autoridad de concesión de los beneficios.  La asignación  de  este  nuevo  beneficio  sólo  podrá efectuarse una vez que dicha autoridad  verifique el cumplimiento de los  requisitos  que  el  decreto  correspondiente  a  este  régimen establezca, tanto en lo formal como  a  los fines de la acreditación de  las  operaciones  pertinentes.  La transferibilidad  sólo  podrá operarse  mediante  un  primer  y  único endoso. La  reglamentación establecerá plazos taxativos de tramitación  y  verificación de las solicitudes  de  tranferibilidad, vencidos los cuales se considerará aceptada la solicitud respectiva."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO 2  REGIMEN DE PROYECTOS PRIORITARIOS",
+              "articulo": [
+                {
+                  "numero-articulo": 13,
+                  "texto": "ARTICULO 13.- El decreto de promoción de proyectos prioritarios podrá contemplar,  para proyectos acogidos al mismo, los siguientes estímulos: a) A los inversionistas.  Provisión de bonos de  crédito fiscal nominativos y tranferibles por un primer y único endoso,  por  un monto de hasta treinta por ciento (30%) de la inversión estipulada  en  el  proyecto,  a  los  que les serán  aplicables  las regulaciones y limitaciones previstas en  el inciso a) del artículo 5  de  la presente ley, salvo las contenidas en su segundo párrafo. b) A las empresas.\n\nLas  Empresas titulares de los proyectos  podrán  ser  beneficiarias de:\n\n1) Bonos  de  crédito fiscal no reintegrables, imputables al pago de obligaciones originadas  en  los proyectos promovidos, emergentes de los siguientes tributos o los  que  en  su  momento los sustituyan o complementen:\n\n- Impuesto sobre los capitales.  - Impuesto a las Ganancias.  Serán  de  aplicación  respecto  de estos bonos las  limitaciones  y regulaciones  previstas para sus similares  en  el  acápite  1)  del inciso b) del artículo  5  de la presente ley, salvo la que habilita la posibilidad de su transferencia.  2) Bonos de crédito fiscal nominativo  no  reintegrables, imputables al  pago de  cualquier  impuesto  nacional y transferibles  por  un primer y único endoso, cuya utilización  quedará  habilitada  en  la medida  del  cumplimiento de los planes de exportación previstos en el proyecto.  La cuantía de estos bonos no  podrá  superar el monto que resulte de aplicar sobre el valor agregado involucrado  en  las  exportaciones, el  porcentaje que determine  el  Poder ejecutivo Nacional  de  la alicuota  del  IVA vigente  al momento  de  la  concesión  de  los beneficios. La actualización del valor de estos  bonos se practicará mediante  la  aplicación  del  régimen que  a  tales efectos    se establezca  reglamentariamente  y  teniendo en cuenta lo previsto en el artículo 51.  Facúltase al Poder Ejecutivo Nacional  a  adicionar este beneficio a cualquier otro  que pudiera corresponder por  tales  exportaciones.\n\n3) Los incentivos  previstos en los acápites 2 a 6 del inciso b) del artículo 5."
+                },
+                {
+                  "numero-articulo": 14,
+                  "texto": "ARTICULO  14.-  Los  estímulos  promocionales  a  las empresas beneficiarias   tendrán  una  duración  máxima  de  ocho  ejercicios comerciales contados  a  partir  del  de  la  puesta  en  marcha. No obstante ello, para el goce de los beneficios a partir del  segundo bienio  comercial,  se   deberá  contar  con  las  constancias  de cumplimiento de compromisos  a las  que  se  refiere el artículo 6, emitidas por la autoridad de aplicación."
+                },
+                {
+                  "numero-articulo": 15,
+                  "texto": "ARTICULO 15.- La cuantía de los bonos de crédito fiscal a que se refiere el  acápite  1) del inciso b) del artículo 13, se calculará como  porcentaje de  la suma  de  los  siguientes  conceptos:  - La inversión fija un  equipo  nacional o equipo importado, en este último caso sólo cuando no se produjera  en  el  país  o  cuando  su abastecimiento local  no  cumpla condiciones de calidad o plazos de entrega razonable.\n\n- Gastos de investigación y  desarrollo  de  tecnología aplicada que se ajusten a los objetivos de la presente ley.  En ningún caso dicho porcentaje podrá ser superior  al  que  a tales fines fije el  decreto correspondiente al presente régimen, ni  la cuantía de bonos resultante  podrá  superar el monto de los tributos correspondientes  al proyecto,  contra    los  que  los  bonos  son imputables.  El  decreto  que  regule  este  régimen  establecerá  las  pautas  y procedimientos de preimputación por ejercicio  a  los  fines  de  la distribución  de  la cuantía de los bonos. Dicha preimputación podrá cubrir el monto de  los  tributos  devengados  con  anterioridad  al ejercicio  comercial en  el  que se verifique la puesta en marcha y deberá  fijar  pautas decrecientes    a   partir  de  esta  última."
+                },
+                {
+                  "numero-articulo": 16,
+                  "texto": "ARTICULO  16.-  Los  proyectos  acogidos a este régimen deberan sujetarse a los programas de integración  de  insumos  y  partes  de producción  nacional  que  se  establezcan  en los respectivos actos administrativos  de  concesión de  beneficios,  los    que  deberán respetar los procentajes mínimos obligatorios para dicha integración  que  fije  el  decreto  correspondiente a este régimen."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO 3  REGIMEN  PARA  LA PROMOCION SELECTIVA DE INVERSIONES Y REINVERSIONES DE UTILIDADES.",
+              "articulo": [
+                {
+                  "numero-articulo": 17,
+                  "texto": "ARTICULO  17.-  El decreto que regule la promoción selectiva de inversiones  y  reinversiones  de  utilidades  podrá  contemplar  la provisión de  bonos   de  crédito  fiscal  no  reintegrables: a) A empresas que desarrollen actividades industriales, extractivas, de producción  primaria o de construcción de inmuebles, por un monto de hasta el quince  por  ciento  (15%) de la inversión que  efectivamente realicen en bienes muebles amortizables, nuevos, de origen nacional, afectados a las explotaciones en las condiciones que  fije  el  reglamento y en tanto se trate de bienes comprendidos  en  el listado  que    a  tal  efecto  establezca  la respectiva  autoridad  de concesión  con  vigencia  para  cada  año calendario.  La  autoridad de concesión de los beneficios  privilegiará  aquellas adquisiciones  enmarcadas  en  planes  y  programas  sectoriales  de reconvención  industrial  que  procuren  el  logro  de  economías de especialización  y  aglomeración, la estandarización y la mejora  en la calidad de los productos. b) A empresas industriales,  por  un  monto  de  hasta el quince por ciento  (15%)  de  la  inversión  que  efectivamente  realicen    en construcción  o  ampliación  de  vivienda destinada a su personal en relación de  dependencia, siempre que  se  trate  de  vivienda  que encuadre en las especificaciones  que  a  su  respecto se estipulen reglamentariamente  y  su provisión  al personal se  ajuste  a  las condiciones que se fijen por la misma vía. c)  A las empresas que, como consecuencia  de  normativas  de  orden nacional,   provincial  o  municipal,  deban  realizar  un  traslado forzoso de sus  instalaciones  industriales y opten por asentarse en un área de parque industrial dentro  de  la misma jurisidicción, por un monto de hasta el quince por ciento (15%)  de  la  inversión  que efectivmaente  realicen  en  inmuebles afectados  a ese fin, en las condiciones que sigue el reglamento.  Cuando las inversiones previstas en este artículo fueran  efectuadas por empresas  industriales  localizadas  en  zonas  que  resulten promocionadas por aplicación  de las disposiciones del artículo 8, los porcentajes de los incisos a)  y  b)  del  presente  artículo se incrementarán  en  la  magnitud porcentual de incentivo sobre  valor agregado  correspondiente    a    la localización  de  la  empresa."
+                },
+                {
+                  "numero-articulo": 18,
+                  "texto": "ARTICULO 18.- Los bonos de crédito fiscal a otorgar a beneficiarios  de este régimen serán nominativos e intransferibles y podrán imputarse  al pago de obligaciones relativas a los siguientes tributos o a los que  en  su  momento los sustituyan o complementen:\n\n- Impuesto a las Ganancias.  - Impuesto sobre los Capitales.  - Impuesto al Patrimonio Neto.  - Impuesto al Valor Agregado.  La imputación de estos bonos podrá  efectuarse  a partir del momento en  que se efectivice  la  inversión  o  a partir de la  fecha  de habilitación  de los  respectivos  bienes, según  lo  determine  el decreto regulador de este régimen, siendo  los  montos actualizables mediante  la  aplicación  del índice al que alude el  artículo  51 referido al mes anterior al de la efectivización de  la  inversión;\n\nde   acuerdo  con  la  tabla  elaborada  por  la  Dirección  General Impositiva para  el  mes anterior al de la imputación de los bonos.\n\nTratándose  de  explotaciones    agropecuarias,    los  bonos  serán transferibles por un primer y único endoso por un valor  de hasta el cincuenta por  ciento  (50%)  del  monto total de los mismos.  En ningún caso la imputación de estos  bonos  podrá  generar saldo a favor de los contribuyentes.  El  decreto  regulador  de  este  régimen  establecerá los plazos  y condiciones  para las respectivas imputaciones,  así  como  para  la habilitación de los bienes."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO 4 DISPOSICIONES COMUNES",
+              "articulo": [
+                {
+                  "numero-articulo": 19,
+                  "texto": "ARTICULO  19.- El decreto reglamentario general establecerá las calses de garantías  que deberán exigirse para preservar el crredito fiscal en los casos de  otorgamiento  de  bonos  de crédito fiscal a los inversionistas."
+                },
+                {
+                  "numero-articulo": 20,
+                  "texto": "ARTICULO  20.-  Cuando  razones  de  fuerza  mayor justificaran modificaciones en la preimputación de los bonos de  crédito  fiscal, las mismas  sólo  podrán  ser  dispuestas  por  la  autoridad  de aplicacinn, previa  la  intervención  de la autoridad local si ésta hubiere concedido el beneficio, excepción  hecha  de lo dispuesto en el artículo 22, segundo párrafo. En ningún caso su  aplicación podrá extenderse  más  allá  de  los tributos correspondientes  al  último ejercicio comercial comprendido en el proyecto."
+                },
+                {
+                  "numero-articulo": 21,
+                  "texto": "ARTICULO  21.-  Las  modificaciones  de  cualquier  índole  que intentarán  introducirse  a  los  proyectos  a  los  que se hubieran acordado beneficios promocionales contemplados en los  capítulos I y II  del  presente título deberán ser resueltas por la autoridad  que concedió tales  beneficios,  salvo que  se tratare de alguno de los supuestos previstos en el artículo siguiente."
+                },
+                {
+                  "numero-articulo": 22,
+                  "texto": "ARTICULO  22.- Toda modificación que implique una ampliación de los plazos de puesta  en  marcha  del mismo, deberá ser resuelta por decreto  del  Poder Ejecutivo  Nacional.    No  obstante  ello,  la autoridad de aplicación, el Ministerio de Economía  de  la  Nación y la  autoridad  local  habilitada para la concesión de los beneficios promocionales, según correspondiere,  quedan facultados para acordar una  primera  prórroga  de  la  puesta en marcha  de los  proyectos aprobados por ellos por un plazo  que  no  exceda  de  la  mitad del concedido    originariamente.    En   tales  casos  quedan  asimismo facultados para modificar la preimputación  de  los bonos de crédito fiscal correspondientes  al  proyecto  en  función de  la  prórroga concedida.  A estos fines deberán dejar constancia,  en  los  bonos emitidos, de la modificación  de  la preimputación dispuesta, en la forma  y  condiciones  que establezca  el    decreto  reglamentario general.  A los fines del tratamiento de toda modificación  que  implique  una variación en  el  costo  fiscal  del  proyecto  en términos reales, deberá  computarse la inversión real, total del proyecto  con  sus modificaciones, a efectos  de determinar  la autoridad de concesión que  corresponda. Su aprobación deberá ajustarse  a  los  requisitos formales  y  sustanciales  que  prevé esta ley para la aprobación de proyectos y el otorgamiento de beneficios."
+                },
+                {
+                  "numero-articulo": 23,
+                  "texto": "ARTICULO  23.-  Los  regímenes  de incentivos previstos en este título para un proyecto o inversión no  son  acumulables entre si ni con  los beneficios  de  otros regímenes de promoción  de  carácter nacional, generales o especiales,  incluso  aquéllos vinculados a la deuda  externa,  vigentes  o futuros, que pudieran  alcanzar  tales proyectos o inversiones.  Lo  dispuesto  precedentemente  no    será   de  aplicación  en  los siguientes casos:  1)  Respecto  de  las  normas  de  promoción de exportaciones.  2) Respecto de los beneficios previstos  en  el  artículo 17, inciso b),  en el caso  de proyectos amparados por los regímenes  de  los capítulos I y II."
+                },
+                {
+                  "numero-articulo": 24,
+                  "texto": "ARTICULO  24.- Los montos de bonos del crédito fiscal acordados según la presente  ley no constituirán materia imponible a los fines de la determinación  de  obligaciones tributarias de orden nacional, ni serán deducibles para la fijación  del  valor  impositivo de los respectivos bienes."
+                },
+                {
+                  "numero-articulo": 25,
+                  "texto": "ARTICULO  25.-  Los  proyectos  para  los  que se soliciten los beneficios  de  los  capítulos  1  y  2 del presente título  deberán prever  instalaciones  en  las  que el total  del  equipamiento  sea nuevo,  sin  uso.  La autoridad de aplicación  podrá  autorizar,  en casos de excepción,  la utlización de equipos usados cuando se trate de  equipos  importados  que  entrando  al  país  por  primera  vez, constituyan un avance tecnólogico significativo."
+                },
+                {
+                  "numero-articulo": 26,
+                  "texto": "ARTICULO  26.- Los proyectos que soliciten el acogimiento a los beneficios previstos  en  los  capítulos  1 y 2 del presente título, deberán acreditar como mínimo un aporte genuino  de  capital  propio de un  treinta  por  cento (30%)  sobre  la  inversión total.\n\nA tales fines: a)  Se  considerará  aporte  genuino  aquel que consiste  en dinero libremente  disponible o bienes muebles  o  inmuebles  afectados  al proyecto, libres de todo gravamen o pasivo. b) No se computará como capital propio.  1)  El  capital   que  provenga  de  la  utilización  de  beneficios promocionales.  2) Los fondos autogenerados  por  la beneficiaria del proyecto.\n\nEl aporte genuino de capital propio  a  que  se  refiere el presente artículo deberá integrarse con anterioridad a la puesta  en  marcha del proyecto,  salvo casos de excepción debidamente autorizados por la autoridad de aplicación,  la que en tales casos deberá fijar los plazos  especiales  a  los  que quedaré sujeta  dicha  integración."
+                },
+                {
+                  "numero-articulo": 27,
+                  "texto": "ARTICULO 27.- Los actos administrativos que concedan beneficios previstos  en  los  capítulos  1  y  2  del  presente  título,  que transgredan la normativa de los decretos que regulan los respectivos  regímenes o los requisitos establecidos por esta ley y sus  normas reglamentarias,  serán considerados  nulos  de  nulidad absoluta  y  no generarán derechos adquiridos para su beneficiarios.\n\nEl decreto reglamentario  general  establecerá  los procedimientos a seguir en tales casos."
+                },
+                {
+                  "numero-articulo": 28,
+                  "texto": "ARTICULO  28.-  Anualmente  el Poder Ejecutivo Nacional, previo dictamen del Consejo Federal de Promoción  Industrial,  incluirá  en el respectivo proyecto de ley de Presupuesto.  1)  Los  cupos  fiscales  globales  anuales  correspondientes  a los regímenes de  promoción  previsgtos  en  los  capítulos  1  a 3 del presente título.\n\n2)  La  asignación  por  jurisdicción de los cupos fiscales globales anuales correspondientes a  los  regímenes  de  los capítulos 1 y 3.\n\nLa  propuesta  del  Poder  Ejecutivo  Nacional  estará    sujeta  al requisito de que en ningún caso: a)  En  los  dos  primeros  ejercicios  presupuestarios en  los que resulte  de  aplicación  el presente artículo, la relación entre la suma  de los cupos fiscales  globales  a  que  alude  el  precedente inciso 1), neta  de  las  afectaciones  a  proyectos aprobados con anterioridad, y el PBI proyectado para el ejercicio  presupuestario, sea inferior al tres por mil (3%.): b) El monto del cupo fiscal global anual correspondinte  al  régimen del capítulo  II  exceda al treinta por ciento (30%) de la suma  de los cuapos a que alude  el  inciso  1)  del  presente artículo.\n\nLos cupos fiscales constituirán los límites máximos  dentro  de  los cuales  y mediante  la  afectación  a  los  mismos  prevista  en el artículo  41,  se podrán acordar los beneficios promocionales de los capitulos 1 a 3 del prsente título.  Los cupos anuales  que  en  definitiva se aprueban serán prorrogados automáticamente hasta tanto se  fijen  los  cupos  fiscales  para el ejercicio económico siguiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO 3  BENEFICIARIOS",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "CCI C 000340 1869 09 25 0089 000 0000 000 A"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 019549 1972 04 03 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "TOR C 011683 1978 12 01 0104 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 29,
+              "texto": "ARTICULO  29.-  Podrán ser beneficiarios de los regímenes de la presente ley, con las  limitaciones que se indican en este artículo:\n\na) Las personas físicas  domiciliadas  en  el  país  de  acuerdo  al artículo 89 del Código Civil. b) Las personas de existencia ideal, privadas o públicas, constituidas o habilitadas para operar en el país, conforme a las leyes argentinas y con domicilio legal en el territorio nacional. c) Las personas físicas que hubieran obtenido  permiso de residencia en el país en las condiciones establecidas por regímenes  especiales de fomento a la inmigración calificada. d)  Los  inversores extranjeros que constituyan el domicilio  en  el país conforme a laLey 19.549.\n\nCuando un  inversor  extranjero  resulte  beneficiario  del presente régimen, sea  en  calidad  de  inversor  o  empresa  titular de  un proyecto,   no podrá girar  utilidades  al  exterior  hasta  tanto acredite haber  invertido utilidades al margen de las comprometidas para llevar adelante cada proyecto promovido,  por un monto igual o superior  al  valor  de  los  bonos de crédito fiscal  efectivamente utilizados, sea por afectación  al  pago  de obligaciones fiscales o por  transferencia  a  terceros. No generando  o  anterior  derechos sobre el capítulo 3 de la presente ley.  En todos los casos de beneficiarios  extranjeros  será de aplicación lo establecido en elartículo 104 de la Ley 11.683, texto ordenado en 1978 y sus modificaciones."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "ARTICULO 30.- No podrán ser beneficiarios: a)  Las  personas  físicas  y las  jurídicas cuyos representantes o directores hubieren sido condenados por cualquier  tipo  de  delito económico  o contra la administración pública, no culposo, con penas privativas  de    libertad    o  inhabilitación,  mientras no  haya transcurrido  un  tiempo  igual  al    doble de  la  condena. b) Las personas físicas y las jurídicas que al tiempo de concederles  los  beneficios registraren  avales    caídos  con  la Secretaría  de  Hacienda  o incumplimiento  de  carácter  fiscal  o previsional,  o  cuando se encontrare firme una decisión judicial  o administrativa declarando  tal  incumplimiento en materia aduanera, cambiaria, impositiva, previsional o imponiendo a  dicha persona el pago de impuestos, derechos, multas o recargos y siempre que  no  se hubiere hecho efectivo dicho pago. c) Las personas que hubieren incurrido en incumplimiento injustificado    de   sus  obligaciones,  que  no  fueren meramente formales, respecto de  anteriores regímenes de promoción o contratos de  promoción industrial  o  de  promoción  de  exportaciones.  Los procesos  o sumarios pendientes por los delitos o infracciones a que se refieren  los  incisos  precedentes,  paralizarán  el trámite administrativo hasta su resolución o sentencia firme, cuando  así lo dispusiere  la  autoridad de  aplicación,  teniendo  en  cuenta  la gravedad del delito o infracción imputados."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IV  AUTORIDAD DE APLICACION Y PROCEDIMEITOS PROMOCIONALES",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "Ley de Ministerios",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 022520 1981 12 21 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 31,
+              "texto": "ARTICULO 31.- La Secretaría de Industria y Comercio Exterior será la autoridad de aplicación de la presente ley, con la intervención que por razones de competencia, laLey de Ministerioso Leyes especiales determinen para otros ministerios u organismos del Estado, con las salvedades que se establecen los artículos siguientes.\n\nA  tales  fines,  tendrá  amplias  facultades  para  superevisar  el cumplimiento  de  los  compromisos  asumidos  con  motivo    de  los beneficios promocionales acordados, así como la correcta asignación de los mismos.  Queda reserrvada  a  su  exclusiva  competencia  la interpretación  de  las disposiciones  de  esta  Ley  y  la  de los decretos  que  en  su consecuencia se dicten, en materias en las que no  existiera  pronunciamiento    del Poder  Ejecutivo  Nacional."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "ARTICULO 32.- Créase el Consejo Federal de Promoción Industrial, integrado  por un representante titular y un suplente designados por cada una de  las jurisdicciones adheridas al régimen de la presente ley,  el  que  será presidido  por  el  Secretario  de  Industria  y Comercio Exterior.  Se invitará  a  participar  del  mismo  a  tres representantes  de  la Confederación  General  del  Trabajo  de  la República  Argentina  y  tres  por  las entidades de tercer grado de jurisdicción nacional representativas  del empresariado industrial.\n\nLa  misión  de  dicho  consejo  decirle  a  que  es  de   naturaleza consultiva,  salvo  en  los casos de las funciones asignadas  en  el artículo 33, incisos c) y  e),  y en aquellos que determina el Poder Ejecutivo Nacional, siendo  obligatorio   su  dictamen  previo  al dictado de las reglamentaciones de esta ley,  así como la sanción de leyes vinculadas con la misma."
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "ARTICULO  33.-  Son funciones del consejo expedirse sobre: a) La sectorización de  la  promoción regional, así como la fijación de tasas máximas de incentivo a  acordar  dentro  de  este régimen.\n\nb)  Los cupos fiscales anuales a los que alude el artículo  28,  así como su asignación. c) Las  oposiciones  que se formulen en virtud del artículo 40 de la presente Ley y los pedidos  de  revisión a los que alude el artículo  d) Medidas de carácter general en  materia crediticia, arancelaria o de cualquier  otro  tipo  que sean adoptadas  en  el  marco  de  la política de promoción industrial. e)  Las observaciones a las que  hace  referencia  el artículo  37, inciso a), apartado a1). f) Cualquier  otra materia de orden general que a juicio del consejo sea pertinente  y  afecte  a  la  promoción industrial  en el país."
+            },
+            {
+              "numero-articulo": 34,
+              "texto": "ARTICULO  34.-  Dentro  de los treinta (30) días corridos de la promulgación de  la  presente  ley,  el  Poder  Ejecutivo  Nacional convocará a las jurisdicciones que  hayan  adherido  al  régimen  de esta  ley  a  constituir el Consejo Federal de Promoción Industrial.\n\nEl consejo cederá  sus  autoridades,  dictará  su  reglamentación  y fijará su asiento.  El  Consejo  Federal  de  Promoción  Industrial  formulará su propio presupuesto y sus gastos serán sufragados por todos  los  adherentes en la proporción que establezca dicho consejo."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "ARTICULO 35.- Los organismos nacionales y de las jurisdicciones adheridas  al régimen de la presente ley, están obligados a evacuar consultas y requerimientos  que  a los fines del cumplimiento de sus funciones formule el consejo."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 021382 1976 08 13 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 36,
+              "texto": "ARTICULO  36.- Los beneficios promocionales establecidos en los capítulos 1 y 2  del título 2 de la presente ley serán acordados por decreto del Poder Ejecutivo Nacional, cuando: a) Se trate de proyectos  en los que los montos totales de inversión excedan los ciento ochenta  millones  de  australes (A180.000.000) a precios de diciembre de 1987. b)  Cuando  el  beneficiario fuera  un inversor  extranjero  o  una empresa local de capital extranjero y corresponda por la disposición de facto 21.382 y sus modificatorias, o las normas que la sustituyan o complementen, la aprobación de la inversión al Poder Ejecutivo Nacional o resultara de aplic;ación el inciso anterior. En estos casos el proyecto deberá ser también evaludado por la autoridad de aplicación de la precitada disposición."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 021382 1976 08 13 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 37,
+              "texto": "ARTICULO 37.- Los beneficios promocionales establecidos en el título  2 de la presente  ley,  excepción  hecha  de  los  supuestos consignados    en   el artículo  anterior,  serán  acordados: a) Los del capítulo 1: a1)  Por  la jurisdicción  en  la  que  se  radique  cada  proyecto industrial acogido  a los mismos cuando el monto total de inversión no exceda de sesenta millones  de  australes (A60.000.000) a precios de diciembre de 1987. En estos casos  los organismos pertinentes de las respectivas jurisdicciones tendrán las funciones de evaluación, aprobación  y  posterior control de los respectivos proyectos:\n\nCuando se trate  de  proyectos  en  los  que  los  montos totales de inversión excedan los treinta millones de australes  (A30.000.000) a precios  de diciembre de 1987, deberá existir un dictamen  favorable de la autoridad de aplicación previo al dictado del acto administrativo  de  concesión  de  los beneficios, requisito que se estimará cumplido si transcurrido el plazo  de cuarenta y cinco (45) días corridos a partir de la fecha en la que  se le hubiere sometido el proyecto, no hubiera formulado observaciones  fundadas  a juicio del Consejo Federal de Promoción Industrial: a2)  Por  la  autoridad  de aplicación,  cuando  el  monto total de inversión  exceda  la suma de sesenta millones de autrales  (A60.000 000) a precios de diciembre  de  1987  y no resulte de aplicación el siguinete apartado: a3) Por resolución del Ministerio de Economía  de  la Nación, cuando el  monto  total  de  inversión  exceda  la  suma  de ciento  veinte millones de  australes  (A120.000.000)  a  precios de diciembre  de 1987. b) Los del capítulo 2: b1) Por la autoridad de aplicación cuando se  trate  de proyectos en los  que  los  montos  totales  de inversión no excedan los  noventa millones de australes (A90.000.000)  a precios de diciembre de 1987:\n\nb2) Por resolución del Ministerio de Economía  de  la  Nación cuando se  trate de  proyectos  en los que los montos totales de inversión superen los noventa millones  de  australes  (A90.000.000) a precios de diciembre de 1987. c)  Los del capítulo 3, por la jurisdicción de  localización  de  la Empresa, que efectué la compra o construcción:  Para  la  concesión  de los beneficiarios del capítulo 2 y cuando la concesión de  beneficios   del  capítulo  1  no  corresponda  a  la jurisdicción de localización  del  proyecto,  se  requerirá dictamen favorable de esta última, previo al dictado del acto  administrativo de  concesión  del beneficio, requisito que se estimará cumplido  si transcurrido el  plazo  de  cuarenta  y cinco  (45) días corridos a partir de la fecha en la que se le hubiera sometido el proyecto, no hubiera formulado observaciones.  Asimismo, cuando se trate de proyectos relativos a la defensa o seguridad nacional o que se localicen en zonas de seguridad o cuando su beneficiario fuera un inversor extranjero o una empresa local de capital extranjero, resultará requisito indispensable a los fines de la validez de los actos administrativos de concesión a los que alude el presente artículo la existencia, previo su dictado, de un dictamen favorable del Ministerio de Defensa o de la autoridad de aplicación de la disposición de facto21.382 y sus modificaciones, o las normas que la sustituyan o complementen, según fuera el caso. Este requisito se estimará cumplido si transcurrido el plazo de los sesenta (60) días corridos a partir de la fecha en la se les sometan los proyectos, no formularan observaciones."
+            },
+            {
+              "numero-articulo": 38,
+              "texto": "ARTICULO  38.-  El  decreto  reglamentario  general  preverá la normativa  de procedimiento  para el otorgamiento de los beneficios promocionales de los regímenes de la presente ley.  A tales fines: a)  Podrá  establecer  sistemas  especiales  de  evaluación  de las presentaciones  así  como  la  caducidad    de  las  que  no  fueran debidamente impulsadas. b)  Deberá  prever  ante  similitud  de  propuestas la  automática preferencia  por  las  efectuadas por empresas de capital nacional.\n\nc) Deberá enunciar las obligaciones  mínimas  que deberá contener el acto de concesión de beneficios, tales como personal  ocupado, monto de  inversiones  e integraciones  en términos reales, tomando  como base el índice al que alude el artículo  51 referido al mes anterior al  del  acto  administrativo  que acuerde  los   beneficios. d)  Deberá  establecer  como  procedimiento  de selección   de  los posibles  beneficiarios  del  régimen del capítulo II el de concurso público nacional o internacional."
+            },
+            {
+              "numero-articulo": 39,
+              "texto": "ARTICULO  39.- El reglamento general podrá establecer aranceles en relación al monto  de  la  inversión  prevista  en  cada proyecto destinado    a solventar  los  gastos  que  originen  el  estudio, evaluación,  verificación  y   fiscalización  de  los  respectivos proyectos, en las condiciones y bajo el  régimen que el mismo fije.\n\nTales aranceles deberán ser de magnitud razonable  y  no  exceder el seis por mil (6%.) de la inversión."
+            },
+            {
+              "numero-articulo": 40,
+              "texto": "ARTICULO  40.-  El otorgamiento de los beneficios previstos por los regímenes de los capítulos 1 y 2 del título 2 estará condicionado en todos  los  casos por  el  requisito  de  preservar condiciones equitativas de concurrencia en los mercados en los  que el proyecto prevea  participar,  de modo de no afectar indebidamente a  la  industria  ya  instalada o en proceso  de  instalación.\n\nLa autoridad habilitada  para conceder los beneficios promocionales, previo el acto administrativo  por  el  que  se acuerdan los mismos, deberá  acreditar el cumplimiento de requisitos  de  publicidad  que garanticen  la  posibilidad  de oposición  por  parte de eventuales terceros afectados, así como de cualquier otro requisito,  que a los fines  señalados el Poder Ejecutivo Nacional estime convenientemente establecer.  Idéntico  procedimiento deberá seguirse en los casos de modificaciones sustanciales al proyecto.  Dentro de los cuarenta y  cinco  (45) días corridos posteriores a su publicación, quienes consideren que un proyecto afecta indebidamente a la industria instalada  o en proceso de instalación, podrán  presentar  una oposición  fundada  ante   la  autoridad  de concesión de los beneficios, la cual dará traslado  de  la  misma al presentante  del  proyecto.  Si  este último  lo  modificara, dando satisfacción  a  las  críticas del oponente, el proyecto  modificado proseguirá su curso administrativo.  En  caso  de insistencia en el proyecto original, la autoridad de concesión elevará las actuaciones  al  Consejo  Federal  de Promoción Industrial,  que,  a estos efectos, se constituirá en Tribunal  arbitral y deberá expedir un laudo dentro de los sesenta (60) días hábiles  contados  a partir de   la  recepción  de las actuaciones,  el  que  agotará  la  vía administrativa."
+            },
+            {
+              "numero-articulo": 41,
+              "texto": "ARTICULO  41.-  El otorgamiento de los beneficios promocionales del título 2 en todos  los casos queda condicionado a la existencia, en el ejercicio presupuestario  de  su  concesión,  de  cupo  fiscal disponible.  A tales efectos será requisito imprescindible para cada otorgamiento,    la previa  imputación  al  pertinente  cupo  del respectivo costo fiscal  por parte de la Secretaría de Hacienda, la que  contará  para  hacerlo  con  un plazo  de  treinta  (30)  días corridos,  vencido  el  cual  de  no  existir manifestaciones  en contrario  por  parte  de  la  misma,  se  dará  por satisfecha  la precitada condición."
+            },
+            {
+              "numero-articulo": 42,
+              "texto": "ARTICULO 42.-  A  los  fines  indicados  en  el  artículo anterior la Secretaría de Hacienda computará como costo fiscal: a) Tratándose de los beneficios acrodados  por los capítulos 1 y 2 el que resulte de promediar el monto de los bonos de crédito  fiscal acordados,    por  el  número  de  años  de  vigencia  del proyecto beneficiado,  contados  a  partir  de  su  puesta  en  marcha. b) Tratándose de los  beneficios  acordados por el capítulo III del título  2, la  cuantía  de  bonos  de  crédito   fiscal  acordados."
+            },
+            {
+              "numero-articulo": 43,
+              "texto": "ARTICULO 43.- Una vez acrodados los beneficios promocionales, la emisión  de los  bonos  de  crédito  fiscal  será  efectuada por la Dirección  General Impositiva  en  la  forma  y  condiciones    que establezca  el  decreto reglamentario general, dentro de los treinta (30) días corridos  contados  a partir  de  la  fecha  en la que la autoridad  acuerde los beneficios le notifique la concesión  que  de los mismos.  Vencido que  fuere  el  plazo, la falta de emisión de los bonos hará que la autoridad de concesión  de  los  beneficios  queda  facultada para  exigir  la emisión  de bonos de crédito fiscal adiconales  no imputables  a  su  cupo fiscal  a  fin  de  resarcir  los  daños  y perjuicios que la demora provocare a  la  empresa  beneficiaria sin perjuicio  de  las  responsabilidades administrativas que  pudieran corresponder  al organismo fiscal. Estos  bonos adicionales  podrán ser transferidos  a  terceros  mediante  un  primer  y único endoso."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "ARTICULO 44.- La autoridad de aplicación deberá instrumentar un sistema informativo  de  proyectos acogidos al régimen de promoción industrial  que permita  conocer   los  proyectos  aprobados  y  el desarrollo  y  estado actual de cada uno  de  ellos,  así  como  el impacto fiscal que individualmente concreten.  A estos efectos las jurisdicciones  con  capacidad  de  concesión de beneficios y  control  de  ejecución  deberán suministrarle en  los plazos  y condiciones que  determine el reglamento  general: a)  Información  en relación  a  los    proyectos  aprobados. b) Copias de los certificados de cumplimiento  a  los  que  alude el artículo 6. c)  Información  relativa  a los  incumplimientos  detectados. d)  Toda  otra información adicional que la autoridad de  aplicación considere necesaria.  Asimismo la  autoridad  de  aplicación podrá requerir la cooperación de organismos nacionales, provinciales  o  municipales  a efectos de recabar información  complementaria  para  dicho sistema y efectuar sus  tareas  de control  y  evaluación  del funcionamiento  de  los distintos regímenes.\n\nLa  autoridad  de  aplicación  deberá  informar   al  Ministerio  de Economía, en los plazos y condiciones que establezca  el  reglamento general,    sobre la evolución  de  los  distintos  regímenes  que comprende la presente ley."
+            },
+            {
+              "numero-articulo": 45,
+              "texto": "ARTICULO 45.- El Banco Nacional de Desarrollo y los bancos oficiales  de provincia  actuarán  como  agentes   financieros  del sistema  de promoción industrial. El BANADE adecuará  su  acción  en materia de  política  crediticia  a  las  disposiciones que dicte el Ministerio de Economía y coordinará con la autoridad  de aplicación la    aplicación  de  dichas  normas a  la  política de  promoción industrial aprobada por el Poder Ejecutivo Nacional."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO V  INFRACCIONES Y SANCIONES",
+          "articulo": [
+            {
+              "numero-articulo": 46,
+              "texto": "ARTICULO  46.-  La  autoridad  de  aplicación  y en su caso las autoridades locales que tengan delegado el control de  ejecución  de los  proyectos beneficiados  con  los incentivos del título 2 de la presente ley, tendrán amplias facultades  para  verificar  y evaluar el  cumplimiento  de  los compromisos emergentes de los respectivos proyectos  así  como  de  las obligaciones    que  deriven  de  los correspondientes regímenes promocionales y podrán  imponer,  en  las condiciones  que  establezca  el  decreto reglamentario general, las sanciones previstas en la presente ley."
+            },
+            {
+              "numero-articulo": 47,
+              "texto": "ARTICULO  47.-  Si  la  autoridad  de  aplicación comprobará la incorrecta asignación de beneficios o el indebido  otorgamiento  de los certificados  de cumplimiento  a  que  alude el artículo 6, por parte  de  alguna  autoridad local  en  ejercicio    de  facultades delegadas,  podrá  impner  en  las condiciones  que  establezca  el decreto  reglamentario  general,  las sanciones  que hubieran  sido omitidas por parte de ésta. sin perjuicio de ello,  de  corresponder la  caducidad  de  las medidas promocionales o si se determinara  la nulidad  del  acto de  concesión,  la  autoridad  local involucrada quedará automáticamente  suspendida  en sus facultades de aprobación de nuevos proyectos hasta tanto pueda  acreditar el cobro, por parte de  los  pertinentes  organismos  fiscales,    de  las  obligaciones tributarias canceladas con los bonos de crédito fiscal indebidamente usufructuados,  así  como  de  las actualizaciones  y accesorios que pudieran corresponder.  Previo  a  la aplicación de las sanciones previstas  en  el  párrafo anterior, la autoridad de aplicación deberá ponerlas en conocimiento  de  la jurisdicción involucrada, la que contará con un plazo de cinco (5) días hábiles contados a partir de su notificación para solicitar  la  revisión  de  las  mismas  ante el Consejo  Federal  de  Promoción  Industrial,  el que deberá resolver sobre el  particular.  Los pedidos de revisión serán  resueltos  en sesión  plenaria de dicho  consejo,  a  cuyo  efecto  el  quorum  se formará con  las  dos terceras  partes de sus miembros. La decisión respectiva se adoptará por una mayoría  de  por  lo  menos  los  dos tercios  de  los  miembros  presentes,  y será  definitiva  en sede administrativa,  siendo  apelable  ante la Corte Suprema de Justicia de la Nación, dentro de los cinco (5)  días hábiles de notificada la decisión,  debiendo fundarse en el mismo  escrito  de interposición del recurso,  oportunidad  en  la  que  también  deberá ofrecerse la prueba de que intente valerse.  Si dentro de los quince (15) días hábiles de interpuesto  el  pedido de revisión,  el  Consejo  Federal  de  Promoción  Industrial no lo resolviere  en las condiciones requeridas en el párrafo  precedente, cualquiera fuese  el motivo,  la  autoridad  de  aplicación quedará habilitada  para  imponer las sanciones, sin perjuicio  del  recurso previsto en el párrafo  anterior  in fine, en las condiciones en él establecidas.  Cuando la caducidad de las medidas promocionales  a  la  nulidad del acto de concesión tuviese origen en actos emanados de una  autoridad nacional,  el Tesoro  Nacional deberá ingresar a la coparticipación tributaria  los montos de bonos  de  crédito  fiscal  indebidamente usufructuados,  hasta  tanto  pueda acreditar el cobro, por parte de los pertinentes organismos fiscales, de las obligaciones tributarias canceladas con dichos bonos, así como de las actualizaciones y accesorios que pudieran corresponder."
+            },
+            {
+              "numero-articulo": 48,
+              "texto": "ARTICULO  48.- El incumplimiento por parte de los beneficiarios de lo dispuesto por esta ley, de los regímenes que en su consecuencia se  dicten  y  de  las obligaciones emergentes del acto que otorgue los beneficios de carácter promocional, dará lugar a la aplicación de las siguientes sanciones:  En caso de incumplimiento meramente formales  y  reiterados,  multas de  hasta el uno por ciento (1%) del monto actualizado del proyecto o la inversión.\n\nEn caso de incumplimientos  no incluidos en el inciso anterior:\n\n1)  Caducidad  total  o  parcial  de  los  beneficios  promocionales otorgados, en  la  forma  que  disponga  el  decreto  reglamentario general;  2)  Multas a graduar hasta el  cien  por  ciento  (100%)  del  monto actualizado del proyecto o la inversión.  3) Pago  de  todo o parte de las obligaciones tributarias canceladas con  los bonos  de  crédito  fiscal  con  más  su  actualización  y accesorios,  según lo  establezca el decreto reglamentario general.\n\nTodas las sanciones serán  impuestas  y  ejecutadas por la autoridad que tenga a su cargo el control de su ejecución,  sin  perjuicio  de las  medidas  del acápite 3 del inciso b) del presente artículo será llevada a cabo  por  los organismos  encargados de la percepción de los  tributos  cancelados  con  los bonos de  crédito  fiscal.  En todos los casos se graduarán las  sanciones teniendo en cuenta la gravedad de  la  infracción  y  la  magnitud   del  incumplimiento, pudiendo aplicarse total o parcialmente las sanciones  previstas  en el presente artículo.\n\nProbando  que  sea  que  el  incumplimiento  se produjo por hechos u omisiones del  Estado  nacional,  provincial  o  municipal,  o  por razones de fuerza mayor según lo tipifique el decreto  reglamentario general, se procederá a revisar, mediante un procedimiento  sumario, las obligaciones impuestas a los beneficiarios.  En   el  caso  de  sanciones  económicas,  el  organismo  competente procederá a  emitir  el  correspondiente documento de deuda para su cobro por vía judicial, mediante  el  proceso  de  ejecución fiscal, una  vez que haya quedado firme la decisión que el la  impone.  Los incumplimientos  por  parte  de  las  empresas  titulares de los proyectos promovidos  no generarán para los inversionistas  de  los mismos las sanciones previstas  en los incisos a) y b) acápite 2 del presente artículo, ni la obligación  del ingreso de los tributos que la empresa titular hubiera cancelado con  bonos  de  crédito fiscal.\n\nLos  incumplimientos  de  los  inversionistas  no generarán  sanción alguna para la empresa titular del proyecto."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 019549 1972 04 03 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "TOD C 001759 1972 04 03 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 49,
+              "texto": "ARTICULO 49.-  Las  sanciones establecidas por la presente ley serán  impuestas  conforme  al   procedimiento  que  determinará  la reglamentación  y podrán apelarse  dentro  de  los  diez  (10)  días hábiles  de  la notificación  de las  mismas  por  ante  la  Cámara Nacional  de  Apelaciones  en  lo  Federal con  competencia  en  lo Contencioso Administrativo  correspondiente a la jurisdicción en que se  aplique  la  sanción,  o  interponer  previamente  los recursos administrativos que procedan.  Elegida la vía judicial, no podrán  interponerse  los  recursos  que autoriza la ley 19.549 y el reglamento aprobado por el decreto 1759/72."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 011683 1933 01 04 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 50,
+              "texto": "ARTICULO  50.-  Prescripción  a los diez (10) años las acciones para  exigir el cumplimiento de las obligaciones  emergentes  de  la presente  Ley  y  sus distintos  regímenes, o aplicar las sanciones derivadas de su incumplimiento. El  término  se contará a partir del momento en que el cumplimiento debió hacerse efectivo. La suspensión e interrupción de la prescripción  se regirá por las disposiciones de laLey 11.683."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO VI  DISPOSICIONES GENERALES Y TRANSITORIAS",
+          "articulo": [
+            {
+              "numero-articulo": 51,
+              "texto": "ARTICULO  51.-  Las  actualizaciones  previstas por esta Ley se efectuarán sobre la base de las variaciones  del  índice  de Precios al  por  Mayor  no Agropecuario Nacional que suministra el Instituto Nacional  de Estadística  y Censos  (INDEC).  La  tabla  respectiva deberá ser  elaborada  mensualmente por  la DGI y contendrá valores mensuales  para los veinticuatro (24) meses inmediatos  anteriores, valores trimestrales  promedio  por  trimestres calendario para los cuatro  (4)  años  siguientes  y valores anuales promedio para  los demás períodos y tomará como base  el índice de precios del mes para el cual se elabora la tabla."
+            },
+            {
+              "numero-articulo": 52,
+              "texto": "ARTICULO  52.-  El  derecho  de  las  jurisdicciones  a acordar beneficios promocionales y a ejercer facultades delegadas, según  lo prevé  esta ley, queda supeditado a la previa adhesión expresa a sus términos  por  parte de cada una de ellas, la que será comunicada al Poder Ejecutivo  Nacional por conducto del Ministerio del Interior y con conocimiento del Ministerio de Economía."
+            },
+            {
+              "numero-articulo": 53,
+              "texto": "ARTICULO 53.- A los  fines  de  la  presente Ley, el término \"jurisdicción\" se entenderá referido a los estados  provinciales, la Capital Federal y el Territorio Nacional."
+            },
+            {
+              "numero-articulo": 54,
+              "texto": "ARTICULO  54.- El Poder Ejecutivo Nacional elevará al Honorable Congreso de la Nación  dentro  de  los  cineto  ochenta  (180)  días corridos  a  partir  de la  promulgación  de  la  presente Ley, las propuestas a las que alude el artículo 8. En caso de  no  producirse dicha  elevación,  las  mismas  podrán ser efectuadas por el Consejo Federal de Promoción Industrial."
+            },
+            {
+              "observa-a": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "OBSERVA_A_0",
+                    "ref": "LEY C 021608 1977 07 23 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "OBSERVA_A_1",
+                    "ref": "LEY C 022021 1979 06 28 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "OBSERVA_A_2",
+                    "ref": "LEY C 022702 1982 12 29 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "OBSERVA_A_3",
+                    "ref": "LEY C 022973 1983 11 11 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 55,
+              "texto": "ARTICULO 55.- A partir de la entrada en vigencia de los decretos reglamentarios a los que alude el artículo 56, quedan derogadas las disposiciones de facto, 21.608,  22.021, 22.702 y 22.973  y sus respectivas modificaciones, sus decretos reglamentarios, resoluciones y demás normas complementarias en todos aquellos aspectos que resulten de aplicación a las actividades industriales.\n\nLa derogación  de  la  disposición  de  facto  21.608 no invalida la vigencia de  las  derogaciones  de  los  anteriores  regímenes   de promoción industrial dispuesta por la citada norma y sus precedentes.  Las  derogaciones  dispuestas en este artículo no producirán efectos respecto de acogimientos  a  los regímenes de las normas citadas o a los dictados en su consecuencia,  perfeccionados  con anterioridad a la sanción de la presente ley.  Se  entenderá  que el acogimiento se ha perfeccionado  antes  de  la fecha de la sanción  cuando  con  anterioridad  a  la misma se hayan cumplimentado  los requisitos  exigidos  por el respectivo  régimen para  considerar  configurada la iniciativa ante  la  autoridad  de aplicación u organismo competente.\n\nEn todos los casos de actos administrativos  dictados  al  amparo de las normas aludidas en el primer párrafo del presente artículo,  la autoridad  de concesión  de los beneficios mantendrá el carácter de autoridad de aplicación de los mismos."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 021608 1977 07 23 0000 000 0000 000"
+                  },
+                  {
+                    "cr": "Inciso a) y b)",
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 021608 1977 07 23 0011 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "LEY C 022021 1979 06 28 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_3",
+                    "ref": "LEY C 022702 1982 12 29 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_4",
+                    "ref": "LEY C 022973 1983 11 11 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 56,
+              "texto": "ARTICULO 56.- Dentro de los sesenta (60) días corridos de promulgada la ley prevista en el artículo 8, el Poder Ejecutivo Nacional no dictara el decreto reglamentario general de promoción regional de carácter sectorial y el decreto para la promoción selectiva de inversiones y reinversión de utilidades a que alude el artículo 1, la concesión de los beneficios de promoción regional previstos en las disposiciones de facto 21.608,  22.021, 22.702 y 22.973  queda reservada a la jurisdicción de localización del proyecto, con excepción de los supuestos previstos en elartículo 11, inciso a) y b) de la disposición de facto 21.608."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 021608 1977 07 23 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 022021 1979 06 28 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "LEY C 022702 1982 12 29 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_3",
+                    "ref": "LEY C 022973 1983 11 11 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 57,
+              "texto": "ARTICULO 57.- Los proyectos beneficiados por actos administrativos dictados o que se dictaren al amparo de los regímenes promocionales de las disposiciones de facto 21.608, 22.021, 22.702 y 22.973 cuya fecha de puesta en marcha operara con posterioridad a la sanción de la presente Ley, sólo podrán gozar de una única prórroga de la misma, acordada por la autoridad de concesión de los beneficios por un plazo de hasta trescientos sesenta y cinco (365) días corridos. Toda otra ampliación de los plazos de la fecha de puesta en marcha deberá ser resuelta por decreto del Poder Ejecutivo Nacional.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 25-09-89).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "LEY C 023697 1989 09 01 0006 000 0000 000"
+                }
+              }
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 022702 1982 12 29 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 022021 1979 06 28 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "LEY C 022973 1983 11 11 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_3",
+                    "ref": "LEY C 021608 1977 07 23 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 58,
+              "texto": "ARTICULO 58.- Los actos administrativos dictados al amparo del régimen promocional de la disposición de facto22.702 con posterioridad a la sanción de la presente Ley, en beneficio de inversiones localizadas  en  la  provincia de San Luis, deberán ajustarse a las siguientes restricciones: a)  En  ningún caso la vigencia de los beneficios podrá exceder los doce (12)  ejercicios  comerciales contados a partir de la puesta en marcha. b) Su aprobación estará  sujeta  a  los  mecanismos  de publicidad y oposición  establecidos en el artículo 40 de la presente  ley. c) En ningún caso  podrán  acordar  beneficios  tributarios  a  las empresas proveedoras de insumos. d)  En  ningún  caso  podrán  acordar  en  materia  de IVA, tasas de Liberación  para  las  operaciones  de  la empresa beneficiaria  que superen el  ochenta  por ciento (80%) de las  que  en  función  del respectivo régimen y, en  su  caso,  de  la  localización,  pudieran corresponder al proyecto. e) En todos los casos deberán prever que las máquinas afectadas  al proceso productivo  se adecuen a las previsiones del artículo 25 de la presente ley.\n\nLos actos administrativos dictados al amparo de los regímenes promocionales de las disposiciones de facto22.021 y 22.973 con posterioridad a la sanción de la presente Ley deberán ajustarse a las restricciones de los incisos b) y c) del párrafo anterior. Los dictados con posterioridad al 30 de setiembre de 1988 deberán ajustarse a la totalidad de las restricciones estipuladas en el primer párrafo del presente artículo.\n\nEl tratamiento restrictivo previsto en este párrafo será también de aplicación respecto de los actos administrativos dictados al amparo del régimen promocional de la disposición de facto 22.702 en beneficio de inversiones localizadas en la provincia de Catamarca.\n\nLos actos administrativos dictados al amparo del régimen de la disposición de facto 21.608 a partir del 30 de setiembre de 1988 deberán ajustarse a la restricción del inciso b) del primer párrafo de este artículo.  La  facultad  de  autoridad de aplicación  otorgada  a  los  poderes ejecutivos de las provincias  de Catamarca, La Rioja y San Juan para los proyectos industriales se extiende,  por  la presente Ley, hasta el 30 de setiembre de 1988."
+            },
+            {
+              "numero-articulo": 59,
+              "texto": "ARTICULO 59.- Producidas las derogaciones previstas en el artículo 55 facúltase al Poder Ejecutivo Nacional a dictar un régimen  especial,  de  carácter transitorio,  que  posibilite   el acogimiento  al  decreto  que  regule los beneficios del capítulo I, del título 2 de la presente ley,  a  empresas  que, a la entrada en vigencia  del mismo, se encontraren gozando de beneficios acordados por actos administrativos  dictados  en virtud de otros regímenes de promoción industrial de carácter regional.  La opción por dicho acogimiento implicará,  por  parte de la empresa que  lo efectúe,  la  renuncia  a  seguir  usufructuando    de  los beneficios  que  a la  misma acuerda el citado acto administrativo.\n\nEl régimen especial al que  se  refiere  el presente artículo, en lo relativo a los  incentivos  del  artículo 5 de  la  presente  Ley, limitará sus alcances a los previstos  en  su inciso b) y los mismos deberán ser fijados teniendo presente el objetivo  de  estimular las opciones y, consecuentemente, el de desincentivar la permanencia  en el  goce  de  los  beneficios  acordados  por regímenes de promoción regional  derogados.  A  estos  fines, el Poder Ejecutivo  Nacional podrá  excluir  del  goce  de  los  incentivos contemplados en  el capítulo 3 del título 2 de la presente  Ley,  total o parcialmente y en forma definitiva o temporal, a las empresas  que encontrándose en la  situación descripta en el primer párrafo de este artículo,  no hubieren hecho uso de la opción.  Los acogimientos  a  los  que  se  refiere  el  presente artículo no demandarán imputación  alguna  contra  los  cupos fiscales  de  las jurisdicciones que acuerden los beneficios."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 023548 1988 01 07 0002 000 0000 000"
+                }
+              },
+              "numero-articulo": 60,
+              "texto": "ARTICULO 60.- La imputación de bonos de crédito fiscal previstos en esta  Ley como  medio  de  pago  de impuestos coparticipables no integra el producido de la recaudación  a  que  se refiere el primer párrafo delartículo 2 de la Ley 23.548."
+            },
+            {
+              "numero-articulo": 61,
+              "texto": "ARTICULO 61.- La presente Ley entrará en vigencia a partir de su publicación en el Boletín Oficial."
+            },
+            {
+              "numero-articulo": 62,
+              "texto": "ARTICULO 62.- Comuníquese al Poder Ejecutivo Nacional."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "PUGLIESE - MARTINEZ - BRAVO - MACRIS"
+          }
+        }
+      ],
+      "id-infojus": "LNS0003505"
+    }
+  }
+}

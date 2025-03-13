@@ -1,0 +1,248 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g30-63000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1452097431790,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23789-nacional-telegrama-gratuito-para-jubilados-pensionados-trabajadores-relacion-dependencia-lns0003603-1990-06-20"
+      }
+    },
+    "content": {
+      "mecanografico": "S0003603",
+      "decreto-reglamentario": {
+        "referencia-normativa": [
+          {
+            "cr": "*Reglamenta art. 1",
+            "id": "DECRETO_REGLAMENTARIO_0",
+            "ref": "DEC C 002281 1993 11 05 0000 000 0000 000"
+          },
+          {
+            "cr": null,
+            "id": "DECRETO_REGLAMENTARIO_1",
+            "ref": "DEC C 000150 1996 02 16 0000 000 0000 000"
+          }
+        ]
+      },
+      "numero-norma": 23789,
+      "timestamp": "2016-01-06T12:10:40",
+      "timestamp-m": "2016-01-06T12:10:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1990-06-20",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023789 1990 06 20",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "*Ley 23.789",
+          "Buenos Aires, 20 de junio de 1990."
+        ]
+      },
+      "titulo-norma": "TELEGRAMA GRATUITO PARA JUBILADOS, PENSIONADOS Y TRABAJADORES EN RELACION DE DEPENDENCIA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1990 07 31"
+        }
+      },
+      "sancion": "El  Senado  y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sanción con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.789",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2016-01-06",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 6 OBSERVACION VER RESOLUCION 149/99 (B.O 7/4/99) DEL MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL QUE AMPLIA ALCANCES DEL SERVICIO DENOMINADO \"TELEGRAMA LEY 23789\"",
+        "informacion-vinculada": 1E+19
+      },
+      "sumario": {
+        "sumario": "TRABAJADORES DEPENDIENTES-JUBILADOS-PENSIONADOS-SERVICIOS GRATUITOS TELEGRAMA-CARTA DOCUMENTO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "telegrama"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/telegrafía/telegrama"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "telégrafo",
+                "radiotelegrafía",
+                "servicio radiotelegráfico",
+                "líneas telegráficas",
+                "medios de comunicación",
+                "servicio telegráfico"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "telegrama gratuito"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/telegrafía/telegrama/telegrama gratuito"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "telégrafo",
+                "radiotelegrafía",
+                "servicio radiotelegráfico",
+                "líneas telegráficas",
+                "medios de comunicación",
+                "servicio telegráfico"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilados"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones/jubilados"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensionados"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones/pensionados"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "prestación de pensión por fallecimiento",
+                "pensión por fallecimiento",
+                "jubilaciones y pensiones",
+                "derecho de pensión",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador en relación de dependencia"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/sujetos de los deberes previsionales/contribuyentes previsionales/contribuyente por derecho propio/trabajador en relación de dependencia"
+            },
+            "sinonimos": {
+              "termino": "derecho de los recursos de la seguridad social"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "recursos de la seguridad social",
+            "contribuyentes previsionales",
+            "servicio radiotelegráfico (telegrafía)",
+            "haber previsional (beneficios previsionales)",
+            "radiotelegrafía (telegrafía)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "trabajador en relación de dependencia",
+            "derecho de pensión (pensiones)",
+            "previsión social (sistema previsional)",
+            "prestación de pensión por fallecimiento (pensiones)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "sujetos de los deberes previsionales",
+            "derechos previsionales (beneficios previsionales)",
+            "telegrafía",
+            "jubilaciones",
+            "sistema previsional",
+            "líneas telegráficas (telegrafía)",
+            "contribuyente por derecho propio",
+            "Comunicaciones",
+            "pensionados",
+            "medios de difusión (Comunicaciones)",
+            "Seguridad social",
+            "servicio telegráfico (telegrafía)",
+            "telegrama",
+            "telegrama gratuito",
+            "telégrafo (telegrafía)",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "pensiones",
+            "servicio postal",
+            "jubilados",
+            "pensión por fallecimiento (pensiones)",
+            "medios de comunicación (Comunicaciones)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- Se establece en todo el territorio de la República Argentina un servicio de telegrama y carta documento para los trabajadores dependientes, los jubilados y los pensionados,  el  que será  absolutamente  gratuito  para  el remitente.  El  servicio de telegrama  tendrá las  mismas  características que  el  denominado \"colacionado\"."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024013 1991 11 13 0011 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "*ARTICULO 2.- Sólo podrán utilizarse los servicios enunciados en el artículo 1, en los siguientes casos:\n\na) por el trabajador dependiente, para cualquier comunicación dirigida a su empleador que deba efectuar vinculada con su  contrato o  relación  de trabajo, tanto  si  la  remite en forma personal o representado    por  la organización gremial  correspondiente;\n\nb) por el jubilado o pensionado, para cualquier comunicación que deba efectuar a organismos previsionales, en caso de conflicto con ellos;\n\nc) por los tres tipos de beneficiarios, para cualquier comunicación que deban efectuar a sus respectivas obras sociales, en caso de conflicto con ellas;\n\nd) El trabajador dependiente o la asociación sindical que lo represente, para enviar a la Administración Federal de Ingresos Públicos copia del requerimiento enviado a su empleador en los términos del inciso b) del artículo 11 de la Ley 24.013.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17/11/00) INCISO D) INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 025345 2000 10 19 0048 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO 3.- La oficina de Correos y Telégrafos desde la cual se despachen  los  instrumentos mencionados en esta ley, los recibirá y expedirá  sin dilación alguna,  aun  en  caso  de  dudas  sobre  la condición invocada  por el remitente o sobre el carácter del texto a remitir."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO 4.- El gasto que demande el cumplimiento de la presente ley será cargado, mediante el sistema \"sin previo pago\", a la Cuenta del Ministerio de Trabajo y Seguridad Social."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO 5 - Deróganse las leyes N 20.703 y 23.119."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO 6 - Comuníquese al Poder Ejecutivo."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "PIERRI-MENEM-Pereyra Arandía de Pérez Pardo-Flombaum."
+      },
+      "id-infojus": "LNS0003603"
+    }
+  }
+}

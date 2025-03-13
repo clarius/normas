@@ -1,0 +1,486 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-003-0000-1002soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990330780,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "300-nacional-decreto-reglamentario-ley-sistema-integrado-jubilaciones-pensiones-dn20010000300-2001-03-09"
+      }
+    },
+    "content": {
+      "mecanografico": 20010000300,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 300,
+      "timestamp-m": "2011-08-25T08:47:36",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2001-03-09",
+      "standard-normativo": "DEC C 000300 2001 03 09",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY DE SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2001 03 12"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 2",
+            "id": "MODIFICA0",
+            "ref": "DEC C 001120 1994 07 11 0001 000"
+          },
+          {
+            "cr": "POR ART. 3",
+            "id": "MODIFICA1",
+            "ref": "DEC C 001120 1994 07 11 0001 000"
+          },
+          {
+            "cr": "POR ART. 9",
+            "id": "MODIFICA2",
+            "ref": "DEC C 000055 1994 01 19 0001 000"
+          },
+          {
+            "cr": "ANEXO I, POR ART. 9",
+            "id": "DEROGA A3",
+            "ref": "DEC C 000055 1994 01 19 0000 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 300/2001",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2001-03-12",
+      "fecha-mod": "2011-08-25",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTAN LOS ARTICULOS 27, 92 Y 97 DE LA LEY 24.241 DE SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "0000IA ANEXO I. CALCULO",
+            "000IIB ANEXO II. RECALCULO"
+          ]
+        },
+        "reglamenta-a": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_0",
+              "ref": "LEY C 024241 1993 09 23 0027 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_1",
+              "ref": "LEY C 024241 1993 09 23 0092 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_2",
+              "ref": "LEY C 024241 1993 09 23 0097 000 0000 000"
+            }
+          ]
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 10 OBSERVACION: LAS MODIFICACIONES HECHAS AL DEC. 526/95 POR ARTS. 2 Y 3 DEL PRESENTE SE INCORPORAN AL DEC. 1120/94 POR SER AQUEL MODIFICATORIO DE ESTE."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "previsión social",
+                "SIJP",
+                "SIJYP"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "pensión por fallecimiento",
+                "prestación de pensión por fallecimiento",
+                "derecho de pensión",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "AFJP"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones/régimen jubilatorio/regímenes jubilatorios del SIJyP/régimen de capitalización/AFJP"
+            },
+            "sinonimos": {
+              "termino": [
+                "administradora de fondos de jubilaciones y pensiones",
+                "régimen de capitalización individual",
+                "haber previsional",
+                "régimen previsional",
+                "regímenes jubilatorios del Sistema integrado de jubilaciones y pensiones",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales",
+                "sistema de capitalización",
+                "régimen de jubilaciones y pensiones"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "haber previsional (beneficios previsionales)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "administradora de fondos de jubilaciones y pensiones (AFJP)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "derecho de pensión (pensiones)",
+            "reglamentos",
+            "previsión social (sistema previsional)",
+            "prestación de pensión por fallecimiento (pensiones)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "SIJYP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "derechos previsionales (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "Derecho administrativo",
+            "AFJP",
+            "régimen jubilatorio",
+            "regímenes jubilatorios del Sistema integrado de jubilaciones y pensiones (regímenes jubilatorios del SIJyP)",
+            "régimen de jubilaciones y pensiones (regímenes jubilatorios del SIJyP)",
+            "Sistema Integrado de Jubilaciones y Pensiones",
+            "régimen de capitalización individual (régimen de capitalización)",
+            "Seguridad social",
+            "sistema de capitalización (régimen de capitalización)",
+            "pensiones",
+            "régimen de capitalización",
+            "acto administrativo",
+            "SIJP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "regímenes jubilatorios del SIJyP",
+            "pensión por fallecimiento (pensiones)",
+            "beneficios previsionales",
+            "régimen previsional (régimen jubilatorio)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024241 1993 09 23 0027 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024241 1993 09 23 0092 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024241 1993 09 23 0097 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DNU C 001306 2000 12 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000055 1994 01 19 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "las modificaciones introducidas a los artículos 27, 92 y 97 de la Ley N. 24.241  y sus modificatorias, por el Decreto N. 1306 de fecha 29 de diciembre  de 2000, las previsiones del Decreto N. 55 de fecha 19 de enero de 1994, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024241 1993 09 23 0027 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024241 1993 09 23 0092 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024241 1993 09 23 0097 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 024557 1995 09 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DNU C 001306 2000 12 29 0037 000 0038 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DEC C 000300 1997 04 03 0002 000 0000 000"
+            },
+            {
+              "cr": "Inciso 2).",
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que con el objeto de hacer operativas las medidas dispuestas por los actuales textos de los artículos 27, 92 y 97 de la ley antes citada, es necesario dictar las  pautas  que  deberán  observarse  para  su aplicación.\n\nQue  es  necesario  imponer  la  determinación en pesos del capital complementario y del ingreso base,  en reemplazo de la valuación en cuotas  del fondo de jubilaciones y pensiones,  dada  su  eventual afectación como  consecuencia  de las fluctuaciones de los mercados financieros.\n\nQue la situación expuesta precedentemente puede producir consecuencias no deseadas sobre  los  costos  de  contratación  del seguro  colectivo  de  invalidez  y  fallecimiento en las épocas de incremento del valor cuota, o, caso contrario,  reducir los haberes de  las  prestaciones,  configurando  un efecto negativo  para  los afiliados y beneficiarios.\n\nQue en el caso del retiro transitorio por  invalidez,  por tratarse de  una  prestación  susceptible  de  extinción  en  los  casos  de rehabilitación laboral, resulta prudente adoptar, como medida  para ajustar  esa  prestación  provisoria,  tanto para la proporción del haber a cargo del Régimen Previsional Público como la correspondiente  al  Régimen  de  Capitalización,    una   variable directamente vinculada con la evolución de los salarios.\n\nQue  a  tal  fin,  es  procedente  utilizar  el  mismo  sistema  de actualización  establecido  por  la Ley de Riesgos del Trabajo, con relación  a  la  prestación  por  incapacidad    permanente  total provisoria.\n\nQue  es  necesario  introducir  un  mecanismo de compensación a los beneficiarios del retiro definitivo por  invalidez  y  pensión  por fallecimiento  del  Régimen  de  Capitalización,  que neutralice la incertidumbre generada por las fluctuaciones del mercado durante el período comprendido entre su devengamiento y la efectiva integración del capital complementario en el fondo  de jubilaciones y pensiones.\n\nQue  ese mecanismo de compensación puede asimilarse a  la  tasa  de interés  técnica  utilizada  para  el  cálculo  del capital técnico necesario,  siendo ésta equivalente a una tasa efectiva  anual  del CUATRO POR CIENTO (4%).\n\nQue, además,  debe  establecerse un mecanismo de actualización para la parte proporcional  de  las  prestaciones  a  cargo  del Régimen Previsional Público a que tienen derecho los afiliados del  Régimen de  Capitalización, según lo previsto por el artículo 27 de la  ley que se  reglamenta, acorde con el procedimiento de actualización de las prestaciones de ese régimen.\n\nQue, asimismo,  debe preverse el mecanismo de pago coordinado de la proporción del haber  a cargo del Régimen Previsional Público y del correspondiente a la Administradora  de  Fondos  de  Jubilaciones y Pensiones  o  Compañía  de  Seguros  de  Retiro, según sea el  caso.\n\nQue  es  menester  establecer con claridad los  criterios  con  que deberán atenderse los  casos  de  retiros por invalidez solicitados con  anterioridad  a  la  entrada en vigor  de  las  modificaciones introducidas por los artículos 37 y 38 del Decreto N. 1306/00 a los artículos 92 y 97 de la Ley N. 24.241  y  sus  modificatorias  como asimismo el tratamiento que se dará a los trámites de pensiones por fallecimiento, cuando la contingencia haya ocurrido con anterioridad a esa misma fecha.\n\nQue, por último,  es  necesario  disponer la derogación del Decreto N. 55/94 habida cuenta de que sus previsiones han sido recogidas por el actual texto del artículo 27 de la Ley N. 24.241 y sus modificatorias y la reglamentación  que por el presente se aprueba, con  excepción  del  punto  2  de  esa  reglamentación,  que  fuera oportunamente sustituido por el artículo  2 del Decreto N. 300/97.\n\nQue  ha  intervenido el servicio jurídico permanente del MINISTERIO DE TRABAJO, EMPLEO Y FORMACION DE RECURSOS HUMANOS.\n\nQue el presente  decreto  se dicta en ejercicio de las atribuciones emergentes del artículo 99,  inciso  2, de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 024241 1993 09 23 0051 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DNU C 001306 2000 12 29 0007 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 000526 1995 09 22 0002 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "LEY C 014236 1953 09 24 0016 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_4",
+                "ref": "LEY C 024476 1995 03 29 0001 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_5",
+                "ref": "LEY C 025321 2000 09 13 0001 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Artículo 1 - Apruébase la reglamentación  de los artículos 27, 92 y 97 de la Ley N. 24.241 y sus modificatorias.\n\nARTICULO 27.- REGLAMENTACION 1. La determinación de la invalidez de los  afiliados  que hubieran ejercido la opción por el Régimen de Reparto estará a cargo  de las Comisiones  Médicas  establecidas en el artículo 51 de la Ley N. 24. 241 y sus modificatorias.\n\n2.  Serán comunes las normas y procedimientos  aplicables  para  la obtención de los beneficios de invalidez y pensión por fallecimiento  para  todos  los  afiliados del Sistema Integrado de Jubilaciones y Pensiones.\n\n3. Los haberes de retiro por invalidez  y pensión por fallecimiento de los afiliados que ejercieron su opción por el Régimen de Reparto estarán totalmente a cargo de ese régimen.\n\n4. El cálculo de la proporción del haber de pensión por fallecimiento y de retiro por invalidez de  afiliados al Régimen de Capitalización  o  sus  derechohabientes,  a  cargo    del  Régimen Previsional Público, establecida en los apartados 1 y 3  del inciso c) del artículo 27 de la Ley N. 24.241 y sus modificatorias,  según texto del artículo 7 del Decreto N. 1306/00, se realizará de acuerdo al procedimiento  establecido  en  el  Anexo  I,  que  forma  parte integrante del presente, expresado en pesos.\n\n5.  El  recálcalo  del  capital  complementario  establecido  en el apartado  2 del inciso c) del artículo 27 de la Ley N. 24.241 y sus modificatorias,  según texto del artículo 7 del Decreto N. 1306/00, se realizará de acuerdo a  lo  establecido en el Anexo Il que forma parte integrante del presente, expresado en pesos.\n\n6. A los importes correspondientes  a  la participación del Régimen Previsional Público en los haberes de pensión por fallecimiento del afiliado en actividad y de retiro por invalidez,  prevista  en  los apartados 1 y 3 del inciso c) del artículo 27 de la Ley N. 24.241  y sus  modificatorias,  según texto del artículo 7 del Decreto N. 1306/ 00,  les serán aplicables  las  mismas  pautas  de  ajuste  que  se utilicen  para  las   prestaciones  que  dicho  régimen  otorga.\n\n7. Los  importes correspondientes a la participación en el haber de retiro transitorio  por  invalidez a cargo de la AFJP, se ajustarán conforme  las  variaciones que  experimente  el  valor  del  Módulo Previsional (MOPRE).\n\n8. Los importes  correspondientes  a  la  participación a cargo del Régimen Previsional Público, conforme el artículo que se reglamenta,  serán  girados  mensualmente  por   la  ADMINISTRACION NACIONAL  DE  LA  SEGURIDAD  SOCIAL (ANSES) a la Administradora  de Fondos de Jubilaciones y Pensiones (AFJP), o Compañía de Seguros de Retiro obligada al pago de la prestación.\n\nARTICULO 92 - REGLAMENTACION El capital complementario a ser  integrado por la AFJP, se ajustará a una tasa de interés efectiva anual  del  CUATRO  POR CIENTO (4%), por  el  período  que medie entre la fecha de devengamiento  de  la prestación y la fecha  de  su  efectiva  integración en el fondo de jubilaciones y pensiones.\n\nARTICULO 97 - REGLAMENTACION 1. A los fines de la determinación del ingreso  base se estará a lo dispuesto  en  los  apartados 1, 2, 3 y 4 de la reglamentación  del artículo 97 de la Ley N. 24.241  y sus modificatorias, contenida en el  artículo  2 del Decreto N 526 del  22  de  septiembre  de  1995.\n\n2. Se computarán con valor CERO (0) a los fines de la determinación del ingreso base,  las  rentas de referencia correspondientes a los períodos respecto de los  cuales  se hubieran ejercido los derechos previstos en los artículos 16 de la Ley N. 14.236, 1 de la Ley N. 24.476 ó 1 de la Ley N. 25.321.\n\n3. El ingreso base definido en el artículo  que se reglamenta, será expresado en pesos a los fines de la aplicación  de las previsiones de los incisos a) y b) del mismo.\n\n4. A efectos del retiro definitivo por invalidez,  el  ingreso base utilizado   para  la  determinación  del  retiro  transitorio  por invalidez  se  ajustará   conforme  las  variaciones  que  hubiera experimentado el valor del Módulo Previsional (MOPRE), hasta el mes en que se notifique a la Administradora de Fondos de Jubilaciones y Pensiones el dictamen definitivo de invalidez."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000526 1995 09 22 0002 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "Art. 2 - Deróganse los apartados  5, 6 y 7 de la reglamentación del artículo 97 de la Ley N. 24.241 y sus  modificatorias,  aprobada por el  artículo  2  del Decreto N. 526  del 22 de septiembre de  1995."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000526 1995 09 22 0002 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "Art. 3 - (Nota de Redacción) Sustituye el punto 9 de la reglamentación del  artículo 97 de la Ley N. 24.241 y sus modificatorias,  aprobada por el artículo  2  del Decreto N. 526 del 22 de septiembre de  1995."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 001306 2000 12 29 0042 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art.  4  -  La  SUPERINTENDENCIA  DE  ADMINISTRADORAS DE FONDOS  DE JUBILACIONES Y PENSIONES y LA SUPERINTENDENCIA  DE  SEGUROS  DE  LA NACION establecerán, en forma conjunta, las tablas actuariales para válidos  y  para  inválidos,  que utilizarán las administradoras de fondos de jubilaciones y pensiones (AFJP) para la determinación del capital técnico necesario definido en el artículo 93 de la Ley N. 24. 241 y sus modificatorias, las que deberán ajustarse a los criterios fijados en el artículo 108 de la  misma,  según  las modificaciones introducidas  por  el  artículo 42 del Decreto N. 1306/00.  Dichas tablas  se aplicarán a los trámites de  pensión  por  fallecimiento respecto  de  los fallecimientos ocurridos a partir del 12 de enero de 2001 inclusive,  y  a los trámites de retiro por invalidez cuyas solicitudes  se  hayan  presentado  a  partir  de  la  misma  fecha."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5 - En todos los casos  en  que  en esta norma se utilizan las expresiones \"solicitud\", \"solicitante\", \"peticionario\", \"peticionante\" y \"solicitado/a/s\", deberá  entenderse  que  se hace referencia  a la petición expresa y formal de prestación, efectuada conforme las  normas  reglamentarias  vigentes  al momento de dicho acto."
+        }
+      ],
+      "segmento": {
+        "titulo-particion": "DISPOSICIONES TRANSITORIAS",
+        "articulo": [
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DNU C 001306 2000 12 29 0027 000 0000 000"
+              }
+            },
+            "numero-articulo": 6,
+            "texto": "Art.  6  -  En  los casos de retiros por invalidez solicitados  con anterioridad al 12  de  enero  de  2001, se seguirán los siguientes criterios:\n\na.-  El  ingreso  base  se  expresará   en  cuotas  del respectivo  fondo  de  jubilaciones y pensiones, tomando  el  valor cuota del último día hábil  del mes anterior al mes de la solicitud de la prestación.\n\nb.- De emitirse dictamen definitivo por invalidez, dichas cuotas se convertirán a pesos tomando el valor cuota del último día hábil del mes anterior al de la efectiva integración del capital complementario  en  el  fondo    de  jubilaciones  y  pensiones.\n\nc.- En los casos de solicitudes  de  prestación a que se refiere el presente  artículo,  de  haberse  producido  el  fallecimiento  del peticionario con anterioridad al 12 de enero de 2001, dichas cuotas se convertirán a pesos tomando el valor  cuota  del día 11 de enero de  2001.  A  partir  de esta última fecha y hasta la  de  efectiva integración del capital  complementario en el fondo de jubilaciones y pensiones, éste se ajustará  a una tasa de interés efectiva anual del CUATRO POR CIENTO (4%).\n\nd.- En los casos de solicitudes  de  prestación a que se refiere el presente artículo, de producirse el fallecimiento  del peticionario a  partir  del 12 de enero de 2001, dichas cuotas se convertirán  a pesos tomando  el valor cuota del último día hábil del mes anterior al de su fallecimiento.  A  partir  de  esa  fecha  y  hasta  la de efectiva  integración  del  capital  complementario en el fondo de jubilaciones  y pensiones, éste se ajustará a una tasa  de  interés efectiva anual del CUATRO POR CIENTO (4%).\n\nEn  los casos previstos  en  el  presente  artículo,  los  importes correspondientes a la participación del Régimen Previsional Público prevista en el artículo 27 de la Ley N 24.241 y sus modificatorias, texto conforme el artículo 7 del Decreto N. 1306/00, quedarán expresados en pesos a las fechas indicadas en cada caso y les serán aplicables las mismas pautas de ajuste que se utilicen  para  las prestaciones  que   dicho  Régimen  otorga."
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DNU C 001306 2000 12 29 0000 000 0000 000"
+              }
+            },
+            "numero-articulo": 7,
+            "texto": "Art. 7 - En los casos en  que  el  fallecimiento  del  afiliado  en actividad haya ocurrido con anterioridad al 12 de enero de 2001, la prestación  de  referencia  del causante se expresará en cuotas del respectivo fondo de jubilaciones  y  pensiones, tomando el valor de la cuota correspondiente al último día hábil del mes anterior al de la fecha de fallecimiento, las que se  convertirán a pesos al valor cuota del 11 de enero de 2001. A partir  de  esta  última  fecha  y hasta  la  de  efectiva  integración del capital complementario por parte de la AFJP en el fondo  de  jubilaciones y pensiones, éste se ajustará a una tasa de interés efectiva anual del CUATRO POR CIENTO (4%).\n\nEn  los  casos  previstos  en el presente  artículo,  los  importes correspondientes a la participación del Régimen Previsional Público prevista en el artículo 27 de la Ley N 24.241 y sus modificatorias, texto conforme Decreto N. 1306/00, quedarán expresados en pesos al valor cuota del 11 de enero de 2001 y a partir de esa fecha les serán aplicables  las mismas pautas de ajuste  que  se  utilicen  para las prestaciones que dicho  Régimen otorga."
+          },
+          {
+            "numero-articulo": 8,
+            "texto": "Art.  8  -  Facúltase  a  la SECRETARIA  DE  SEGURIDAD  SOCIAL  del MINISTERIO DE TRABAJO, EMPLEO  Y FORMACION DE RECURSOS HUMANOS para dictar las normas complementarias  e  interpretativas  del presente decreto.  La  ADMINISTRACION  NACIONAL  DE LA SEGURIDAD SOCIAL,  la SUPERINTENDENCIA  DE ADMINISTRADORAS DE FONDOS  DE  JUBILACIONES  Y PENSIONES y la SUPERINTENDENCIA  DE  SEGUROS  DE  LA  NACION quedan facultadas   para  dictar  las  normas  que  sean  necesarias  para instrumentar las disposiciones del presente."
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000300 1997 04 03 0002 000 0000 000"
+              }
+            },
+            "numero-articulo": 9,
+            "texto": "Art. 9 - Derógase  el  Decreto N. 55/94,  excepto  el punto 2 de la reglamentación  del artículo 27, sustituido por el artículo 2  del Decreto N. 300/97."
+          },
+          {
+            "numero-articulo": 10,
+            "texto": "Art. 10. - Comuníquese, publíquese, dése a la Dirección Nacional de Registro Oficial y archívese."
+          }
+        ],
+        "firmantes": {
+          "firmantes": "DE LA RUA - Colombo - Bullrich"
+        }
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I. CALCULO DE LOS IMPORTES CORRESPONDIENTES A LA PARTICIPACION A CARGO DEL REGIMEN PREVISIONAL PUBLICO PREVISTA EN LOS APARTADOS 1 Y 3 DEL INCISO C) DEL ARTICULO 27 DE LA LEY N. 24.241 Y SUS MODIFICATORIAS, SEGUN TEXTO DEL ARTICULO 7 DEL DECRETO 1306/00.",
+          "articulo": {
+            "referencias-normativas": {
+              "referencia-normativa": [
+                {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DNU C 001306 2000 12 29 0007 000 0000 000"
+                },
+                {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_1",
+                  "ref": "DNU C 001306 2000 12 29 0000 000 0000 000"
+                }
+              ]
+            },
+            "numero-articulo": 1,
+            "texto": "Los importes correspondientes a la participación a cargo del Régimen Previsional Público  prevista  en los apartados  1  y 3 del inciso c) del artículo 27 de la Ley N. 24.241 y sus modificatorias,  según texto  del artículo 7 del Decreto N. 1306/00, correspondiente a las siguientes   prestaciones,  se calculará de acuerdo con las pautas que luego se indican:\n\n- Retiro por Invalidez, solicitado con posterioridad al 11 de enero de 2001.\n\n- Pensión por Fallecimiento del Afiliado en Actividad, correspondiente a fallecimiento ocurrido con posterioridad al 11 de enero de 2001.\n\n-  Pensión  por  Fallecimiento del beneficiario (o peticionario) de Retiro por Invalidez,  solicitado  este último con posterioridad al 11 de enero de 2001.\n\nPRESTACION DE REFERENCIA La prestación  de  referencia o prestación de referencia del causante se define según la  siguiente expresión:\n\nPR  =  IB  *  CA Donde:\n\nIB : es el Ingreso Base CA :  Condición  de aportante, siendo:\n\nCA  =  0,70 para aportantes regulares CA = 0,50 para aportantes irregulares con derecho COEFICIENTE DE PARTICIPACION El  coeficiente    de    participación  del  Régimen Previsional Público se define según las siguientes  expresiones:\n\nCP = (1963 - AN) /35 para afiliados varones CP = (1968 -  AN) /35 para afiliadas  mujeres En  donde  \"AN\"  es  al  año de nacimiento  del afiliado y 0 £ CP £ 1.\n\n1 ) Retiro Transitorio por Invalidez El importe  correspondiente  a la  participación  a cargo del Régimen Previsional Público prevista en el apartado 3 del inciso c) del artículo 27 de la Ley N. 24 241 y sus modificatorias,  según texto del Decreto N. 1306/00, estará dado por la siguiente expresión:\n\nRTI  p  =  PR  *  CP Donde:\n\nPR: es la prestación  de referencia expresada en pesos CP: es el  coeficiente de participación El  importe  correspondiente a la participación a cargo de la AFJP, estará dado por  la  siguiente expresión:\n\nRTI a = PR - RTl p Donde:\n\nPR: es la prestación de  referencia  expresada en pesos RTI  p : es el importe correspondiente a la participación  a cargo del Régimen Previsional Público prevista en el apartado 3 del inciso c) del  artículo 27 de la Ley N. 24.241 y sus modificatorias, según texto del  Decreto N. 1306/00 2) Pensión por Fallecimiento del Afiliado en Actividad El importe correspondiente a la participación a cargo del Régimen Previsional  Público prevista en el apartado 1 del inciso c) del artículo 27 de la Ley N. 24.241 y sus modificatorias, según texto del Decreto N. 1306/00, correspondiente al haber de Pensión por Fallecimiento del  Afiliado  en  Actividad, estará dado por la siguiente expresión:\n\nPFA p = PR * (CC /CTN) * CP *  COPAR Donde:  PR:  es  la prestación de referencia del causante expresada en pesos CC: es el  Capital Complementario definido en el artículo 92 de la Ley N. 24.241  y  sus  modificatorias CTN:  es el Capital Técnico Necesario definido en el artículo 93 de la Ley N. 24.241  y  sus  modificatorias CP: es el coeficiente de participación COPAR:  es el porcentaje de participación  que  le  corresponde  al derechohabiente,  conforme  lo  establecido en el artículo 98 de la Ley N. 24.241 y sus modificatorias.\n\nLa AFJP integrará el Capital Complementario  recalculado de acuerdo a lo dispuesto en el ANEXO II.\n\n3) Pensión por Fallecimiento del Beneficiario  (o  Solicitante)  de Retiro  Transitorio  por  Invalidez El importe correspondiente a la participación a cargo del Régimen Previsional  Público previsto en el apartado 1 del inciso c) del artículo 27 de la Ley N. 24.241  y sus modificatorias, según texto del Decreto N. 1306/00, correspondiente    al   haber  de  Pensión por  Fallecimiento  del Beneficiario (o Solicitante)  de  Retiro Transitorio por Invalidez, estará dado por la siguiente expresión:\n\nPFBT p = PR m * (CC/CTN) * CP  *  COPAR Donde:\n\nPR  m : es la prestación  de  referencia  del causante expresada en pesos, ajustada por MOPRE.\n\nCC: es el Capital Complementario  definido  en el artículo 92 de la Ley N. 24.241  y  sus  modificatorias CTN: es el  Capital  Técnico Necesario  definido en el artículo 93 de la  Ley  N. 24.241  y  sus modificatorias CP: es el coeficiente de participación COPAR: es el porcentaje de participación  que le corresponde al derechohabiente, conforme lo establecido en el  artículo 98 de la Ley N. 24.241 y sus modificatorias.\n\nLa AFJP integrará el Capital Complementario  recalculado de acuerdo a lo dispuesto en el ANEXO II.\n\n4) Retiro Definitivo por Invalidez El importe  correspondiente a la participación a cargo del Régimen Previsional Público  prevista  en el  apartado  1  del inciso c) del artículo 27 de la Ley N. 24.241 y sus modificatorias, según texto del Decreto N. 1306/00, correspondiente al haber de Retiro Definitivo por Invalidez, estará dado por la siguiente  expresión:\n\nRDI  p  =  PR m * (CC /CTN) * CP Donde:\n\nPR m : es la prestación de referencia expresada  en  pesos, ajustada  por MOPRE CC: es el Capital Complementario definido en el artículo 92 de la Ley N. 24.241 y sus modificatorias CTN: es el Capital Técnico Necesario definido en el artículo 93 de la Ley N. 24.241 y sus modificatorias CP: es el coeficiente  de participación La AFJP integrará el Capital Complementario recalculado  de  acuerdo a lo dispuesto en el ANEXO II.\n\n5)  Pensión  por Fallecimiento del Beneficiario (o Solicitante)  de Retiro Definitivo  por  Invalidez El  importe correspondiente a la participación a cargo del Régimen Previsional  Público  prevista en el  apartado  1 del inciso c) del artículo 27 de la Ley N. 24.241 y sus modificatorias, según texto del Decreto N. 1306/00, correspondiente al haber de Pensión por Fallecimiento  del Beneficiario (o Solicitante) de Retiro Definitivo por Invalidez, estará dado por la siguiente expresión:\n\nPFBD  p  =  RDI  p  * COPAR Donde:\n\nRDI p : es el importe correspondiente a la participación  a cargo del Régimen Previsional Público prevista en el apartado 1 del inciso c)  del artículo 27 de la Ley N. 24.241 y sus modificatorias, según texto  del  Decreto  N. 1306/00,  correspondiente  al haber de Retiro   Definitivo  por  Invalidez COPAR:  es  el  porcentaje  de participación  que  le corresponde al derechohabiente conforme a lo establecido en el artículo 98 de la Ley N. 24.241 y sus modificatorias."
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO II. RECALCULO DEL CAPITAL COMPLEMENTARIO A CARGO DE LAS AFJP",
+          "articulo": {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DNU C 001306 2000 12 29 0000 000 0000 000"
+              }
+            },
+            "numero-articulo": 1,
+            "texto": "La AFJP procederá a recalcular el Capital Técnico Necesario (CTN) para establecer el importe del Capital Complementario  que  deberá integrar, en el caso de las  siguientes prestaciones, según las pautas  que  luego se indican:\n\n- Retiro por Invalidez, solicitado con posterioridad al 11 de enero de 2001.\n\n- Pensión por Fallecimiento del Afiliado en Actividad, correspondiente a fallecimiento ocurrido con posterioridad al 11 de enero de 2001.\n\n-  Pensión  por  Fallecimiento del beneficiario (o solicitante)  de Retiro por Invalidez,  solicitado  este último con posterioridad al 11 de enero de 2001.\n\n1)  Pensión  por  Fallecimiento  del  Afiliado  en  Actividad La Prestación de Referencia del Causante a utilizar para el recálculo del Capital Técnico Necesario, expresada en pesos,  estará dada por la siguiente expresión:\n\nPR a = PR - PR * (CC/CTN) * CP Donde:\n\nPR: es la prestación  de referencia del causante, expresada en pesos, calculada a partir del Ingreso Base CC: es el Capital Complementario definido  en el artículo 92 de la Ley N. 24.241 y sus modificatorias, previa aplicación  del  artículo 27 de la Ley N. 24.241  y  sus  modificatorias CTN:  es el Capital Técnico  Necesario definido en el artículo 93 de la Ley N. 24.241 y sus modificatorias, previa  aplicación  del artículo 27 de  la  Ley  N. 24.241  y  sus modificatorias CP: es  el  coeficiente  de  participación Para el cálculo del  Capital Complementario a integrar, el saldo acumulado por aportes obligatorios  en la cuenta de capitalización individual del causante se valuará en  pesos  a  la  fecha de su fallecimiento.\n\nEl  Capital Complementario así calculado se  ajustará  a  una  tasa efectiva  anual  del  CUATRO  POR  CIENTO  (4%)  desde  la fecha de devengamiento de la prestación hasta la de efectiva integración  en el fondo de jubilaciones y pensiones respectivo.\n\n2) Pensión por Fallecimiento del Beneficiario de Retiro Transitorio por  Invalidez La Prestación de Referencia del Causante a utilizar para el recálculo del  Capital  Técnico  Necesario,  expresada  en pesos, estará dada por la siguiente expresión:\n\nPR a = PR m - PR m * (CC/CTN)  *  CP Donde:  PR  m  es  la prestación de referencia del causante, expresada en pesos, ajustada  por MOPRE CC: es el Capital Complementario definido en el artículo 92  de la Ley N. 24.241 y sus modificatorias, previa aplicación del artículo 27  de  la Ley N. 24.241  y  sus  modificatorias CTN:  es  el Capital Técnico Necesario definido en el artículo 93 de la Ley N. 24.241 y sus modificatorias, previa  aplicación del artículo 27  de la  Ley N. 24.241  y  sus modificatorias CP:  es  el coeficiente de  participación Para  el cálculo del Capital Complementario  a  integrar, el saldo acumulado por aportes obligatorios en la cuenta de  capitalización individual del  causante se valuará en pesos a la fecha  de  su fallecimiento.\n\nEl Capital  Complementario  así  calculado  se  ajustará a una tasa efectiva  anual  del  CUATRO  POR  CIENTO  (4%) desde la  fecha  de devengamiento de la prestación hasta la de efectiva  integración en el fondo de jubilaciones y pensiones respectivo.\n\n3)  Retiro  Definitivo por invalidez La Prestación de Referencia  a utilizar para el recálculo del Capital Técnico Necesario, expresada en pesos, estará dada por la siguiente expresión:\n\nPR a = PR m - RDIp Donde:\n\nPR m : es la prestación de referencia, expresada en pesos, ajustada por  MOPRE RDI  p  :  es  el importe correspondiente a la participación a cargo del Régimen Previsional  Público  prevista en el  apartado  1 del inciso c) del artículo 27 de la Ley N. 24.241  y sus modificatorias, según texto del Decreto N. 1306/00, correspondiente al  haber  de Retiro  Definitivo  por  Invalidez.\n\nPara el cálculo del  Capital  Complementario  a  integrar, el saldo acumulado  por aportes obligatorios en la cuenta de  capitalización individual se  valuará en  pesos a la fecha de devengamiento de la prestación.\n\nEl Capital Complementario así  calculado  se  ajustará  a  una tasa efectiva  anual  del  CUATRO  POR  CIENTO  (4%)  desde  la fecha de devengamiento  de la prestación hasta la de su efectiva integración en el fondo de jubilaciones y pensiones respectivo."
+          }
+        }
+      ],
+      "id-infojus": "DN20010000300"
+    }
+  }
+}

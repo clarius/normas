@@ -1,0 +1,241 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-559-1001-3891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990422730,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1955-nacional-regimen-guardias-ministerio-salud-publica-medio-ambiente-dn19831001955-1983-08-02"
+      }
+    },
+    "content": {
+      "mecanografico": 19831001955,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1955,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1983-08-02",
+      "standard-normativo": "DEC C 001955 1983 08 02",
+      "titulo-norma": "REGIMEN DE GUARDIAS DEL MINISTERIO DE SALUD PUBLICA Y MEDIO AMBIENTE",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1983 08 05"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "PUNTO    2.2.  DEL  ANEXO  POR  ART.  1.",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 000509 1986 00 00 0000 000"
+          },
+          {
+            "cr": "POR ART. 2 B.O.  86-04-22",
+            "id": "OBSERVADO POR1",
+            "ref": "DEC C 000509 1986 00 00 0000 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.955/83",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2003-04-09",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE APRUEBA EL REGIMEN DE GUARDIAS PARA LOS ESTABLECIMIENTOS ASISTENCIALES Y SANITARIOS DEL MINISTERIO DE SALUD PUBLICA Y MEDIO AMBIENTE,",
+        "anexos-decreto": {
+          "anexo-ley": "00001A REGIMEN DE GUARDIAS"
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION  LOS  PROFESIONALES  COMPRENDIDOS EN EL PUNTO 2.2.\n\nDEL ANEXO, ADQUIRIRAN  ESTABILIDAD  EN   FORMA  AUTOMATICA,  SI REUNEN LOS REQUISITOS QUE FIJA EL ART. 10 DE LA  LEY 22140, POR ART.\n\n2 DEL DEC. 509/86 B.O. 86-04-22)"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Ministerio de Salud Pública y Medio Ambiente"
+            },
+            "preferido": {
+              "termino": "Ministerio de Salud"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Salud Pública y Medio Ambiente",
+                "Ministerio de Salud y Ambiente",
+                "Ministerio de Salud y Acción Social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "establecimientos asistenciales"
+            },
+            "preferido": {
+              "termino": "Salud pública/infraestructura sanitaria/establecimientos asistenciales"
+            },
+            "sinonimos": {
+              "termino": [
+                "clínicas",
+                "establecimientos médicos",
+                "establecimientos sanitarios",
+                "salas de primeros auxilios",
+                "establecimientos de salud",
+                "hospitales",
+                "infraestructura asistencial",
+                "policlínicos",
+                "sanatorios",
+                "servicios hospitalarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "médico de guardia"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/responsabilidades especiales/ejercicio profesional/médicos/médico de guardia"
+            },
+            "sinonimos": {
+              "termino": [
+                "guardia médica",
+                "responsabilidad por daños",
+                "profesional liberal",
+                "ejercicio de profesiones liberales",
+                "profesional universitario",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "servicio de guardia médica"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "establecimientos sanitarios (establecimientos asistenciales)",
+            "establecimientos asistenciales",
+            "Ministerio de Salud y Ambiente (Ministerio de Salud)",
+            "médico de guardia",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "servicios hospitalarios (establecimientos asistenciales)",
+            "profesional universitario (ejercicio profesional)",
+            "guardia médica (médico de guardia)",
+            "responsabilidades especiales",
+            "policlínicos (establecimientos asistenciales)",
+            "actividades profesionales (ejercicio profesional)",
+            "Derecho civil",
+            "hospitales (establecimientos asistenciales)",
+            "sanatorios (establecimientos asistenciales)",
+            "salas de primeros auxilios (establecimientos asistenciales)",
+            "clínicas (establecimientos asistenciales)",
+            "infraestructura asistencial (establecimientos asistenciales)",
+            "Derecho de daños (responsabilidad civil)",
+            "profesional liberal (ejercicio profesional)",
+            "infraestructura sanitaria",
+            "Salud pública",
+            "médicos",
+            "responsabilidad por daños (responsabilidad civil)",
+            "ejercicio de profesiones liberales (ejercicio profesional)",
+            "Ministerio de Salud Pública y Medio Ambiente (Ministerio de Salud)",
+            "establecimientos médicos (establecimientos asistenciales)",
+            "Ministerio de Salud y Acción Social (Ministerio de Salud)",
+            "Ministerio de Salud",
+            "profesiones liberales (ejercicio profesional)",
+            "ejercicio de la profesión (ejercicio profesional)",
+            "ejercicio profesional",
+            "servicio de guardia médica (médico de guardia)",
+            "establecimientos de salud (establecimientos asistenciales)",
+            "responsabilidad civil"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "DEC C 011286 1965 12 10 0000 000"
+          }
+        },
+        "texto": "que mediante Decreto Nro. 11.286, del 10 de diciembre de 1965, se fijó  un régimen de pago directo por guardia a los profesionales que  desempeñasen    tal  función  en  las  unidades  sanitarias  y asistenciales dependientes  actualmente  del  Ministerio  de  Salud Pública y Medio Ambiente; y,"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 006760 1960 00 00 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 011286 1965 00 00 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  dicho  régimen  reemplazó  al  vigente  en  ese  momento, instituído  por  Decreto  Nro.  6.760/60  y  su reglamentación, que determinaba que los profesionales que cubrían  las  guardias debían concursar  expresamente con ese fin, debiendo concurrir  además  al respectivo  servicio,   los  restantes  días  de  la  semana  hasta completar su horario reglamentario.\n\nQue en los concursos a que  se refiere el considerando anterior, se presentaban  generalmente profesionales  \"ad-honórem\",  los  cuales terminado su ciclo pasaban a integrar los servicios del establecimiento,  lo  cual  conducía  a  un  aumento gradual de las dotaciones.\n\nQue  lo  expuesto  motivó  en  su  momento el dictado  del  régimen aprobado por el citado Decreto Nro. 11.286/65.\n\nQue la experiencia obtenida con el régimen  vigente de pago directo por  guardia, es evidente que afecta a los profesionales  desde  el punto  de  vista de su vínculo con el Ministerio de Salud Pública y Medio Ambiente,  debiendo  quedar  reservado exclusivamente para el reemplazo de ausencias eventuales.\n\nQue  a  ello  se suma la necesidad de mejorar  la  calidad  de  las prestaciones de  las  guardias, lo que determina fehacientemente la decisión de establecer  un  nuevo  sistema  que  asegure  la máxima eficiencia  en  la  atención  de  las  patologías  de  urgencia que demandan la atención de los Servicios de Guardia."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- Apruébase el Régimen de Guardias del Ministerio de Salud  Pública y Medio Ambiente que se establece en el Anexo I, que forma parte integrante del presente decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  El Ministerio de Salud Pública y Medio Ambiente propondrá, previa intervención  del  Ministerio  de  Economía,  las adecuaciones    orgánicas  y  presupuestarias  necesarias  para  el cumplimiento del presente decreto."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.- El Ministerio de Salud Pública y Medio Ambiente, mediante resolución  conjunta  con  la  Secretaría  General  de  la Presidencia  de  la Nación reglamentará, dentro de los SESENTA (60) días  contados  a partir  de  a  fecha  de  vigencia  del  presente decreto, las disposiciones  del  régimen aprobado por el mismo, así como determinará, teniendo en cuenta  las  características  propias de  cada establecimiento, las dotaciones de sus unidades sanitarias y asistenciales."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.-  Comuníquese;  publíquese;  dése  a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "BIGNONE - RODRIGUEZ CASTELLS"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "REGIMEN DE GUARDIAS",
+        "articulo": [
+          {
+            "numero-articulo": 1,
+            "texto": "1.-  DE LA ESTRUCTURA: En cada una de las unidades, cuando así se establezca,  funcionará  un  Servicio  de  Guardia integrado por SIETE (7) Secciones, una para cada día de la semana;  cada  sección estará  compuesta  por  los  profesionales  que  se  determine,  en función de lo especificado en el Punto 2 del presente."
+          },
+          {
+            "numero-articulo": 2,
+            "texto": "*2.- DE LOS PROFESIONALES: Los profesionales  que realicen guardias revistarán  en  uno  de  los  siguientes  grupos:\n\n2.1. Médicos  de  Planta con Función de Guardia: Estará constituído por  aquellos profesionales  que  siendo  titulares  de  un  puesto permanente, se les asigne la función de guardia.\n\n2.2. Médicos  de Guardia con o sin concurrencia al servicio: Estará constituído por  aquellos  profesionales  designados  en  cargos de planta permanente en el Servicio de Guardia.\n\n2.3.  Médicos Interinos de Guardia: Estará constituído por aquellos profesionales  que  por  necesidad  de completar la dotación de las guardias ante ausencias imprevistas,  sean  convocados  al  efecto, rigiéndose  por  las  disposiciones  del  Decreto  Nro.  11.286/65."
+          },
+          {
+            "numero-articulo": 3,
+            "texto": "3.-  DE  LAS  OBLIGACIONES  Y DERECHOS DE LOS PROFESIONALES DE GUARDIA:  Todos  los  profesionales  que  compongan  las  guardias, tendrán las mismas obligaciones y gozarán  de  los  mismos derechos que  establece  el  Régimen  Jurídico Básico de la Función  Pública (Ley Nro. 22.140)."
+          }
+        ]
+      },
+      "id-infojus": "DN19831001955"
+    }
+  }
+}

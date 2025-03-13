@@ -1,0 +1,510 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g79-96000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1647878660488,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "27637-nacional-ampliacion-regimen-zona-fria-lns0006997-2021-06-24"
+      }
+    },
+    "content": {
+      "mecanografico": "S0006997",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "(B.O. 3/8/2021)",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 000486 2021 08 02 0000 000 0000 000"
+        }
+      },
+      "numero-norma": 27637,
+      "timestamp": "2022-03-21T12:24:56",
+      "timestamp-alta": "2021-07-07T09:15:20",
+      "timestamp-m": "2022-03-21T12:24:56",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "2021-06-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 027637 2021 06 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 27.637",
+          "BUENOS AIRES, 24 DE JUNIO DE 2021"
+        ]
+      },
+      "titulo-norma": "Ampliación del Régimen de Zona Fría",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2021 07 07"
+        }
+      },
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "anexos-ley": {
+        "anexo-ley": "A ANEXO I"
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "LEY 27.637",
+      "estado": "Vigente, de alcance general",
+      "analista": "Rocca, Adriana",
+      "fecha-alta": "2021-07-07",
+      "fecha-mod": "2022-03-21",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ZONA FRIA GAS TARIFA DE SERVICIOS PUBLICOS ASIGNACION UNIVERSAL POR HIJO ASIGNACIONES FAMILIARES PENSIONES NO CONTRIBUTIVAS JUBILADOS MONOTRIBUTO SOCIAL SEGURO DE DESEMPLEO PERSONAL DE CASAS PARTICULARES EXCOMBATIENTES DE MALVINAS REDUCCION DE TARIFAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "zona fría"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/empleador/obligaciones del empleador/higiene y seguridad del trabajo/trabajo insalubre/zona fría"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "higiene y seguridad en el trabajo",
+                "higiene laboral",
+                "patrón",
+                "obligaciones del patrón",
+                "deberes del empleador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "gas"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos minerales/minería/productos mineros/hidrocarburos/gas"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria gasífera",
+                "Derecho Minero",
+                "actividad minera"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tarifa de servicios públicos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/tarifa de servicios públicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "cuadro tarifario",
+                "servicios públicos locales",
+                "tarifas",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación universal por hijo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación universal por hijo para protección social"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "asignación universal por hijo",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignaciones familiares"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones no contributivas"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones no contributivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilados"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones/jubilados"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monotributo social"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/tributos/impuestos/monotributo/monotributo social"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "régimen simplificado para pequeños contribuyentes",
+                "ley de monotributo",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "seguro de desempleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo/seguro de desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "subsidio por desempleo",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal de casas particulares"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/personal de casas particulares"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "trabajadores de casas particulares",
+                "trabajo doméstico",
+                "servicio doméstico"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "excombatientes de Malvinas"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/guerra/veteranos de guerra/excombatientes de Malvinas"
+            },
+            "sinonimos": {
+              "termino": [
+                "defensa nacional",
+                "ex combatientes de Islas Malvinas",
+                "ex combatientes de Malvinas",
+                "excombatientes",
+                "ex combatientes"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reducción de tarifas"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/tarifa de servicios públicos/modificación de tarifas/reducción de tarifas"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "cuadro tarifario",
+                "tarifas",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "asignación universal por hijo para protección social",
+            "monotributo",
+            "haber previsional (beneficios previsionales)",
+            "Derecho tributario y aduanero",
+            "asignaciones familiares",
+            "asignación universal por hijo (asignación universal por hijo para protección social)",
+            "tributos",
+            "servicios públicos locales (servicio público)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "veteranos de guerra",
+            "servicios públicos (servicio público)",
+            "cuadro tarifario (tarifa de servicios públicos)",
+            "obligaciones del patrón (obligaciones del empleador)",
+            "subsidio familiar (asignaciones familiares)",
+            "personal de casas particulares",
+            "patrón (empleador)",
+            "Derecho administrativo",
+            "adicional por cargas de familia (asignaciones familiares)",
+            "industria gasífera (gas)",
+            "monotributo social",
+            "gravámenes (tributos)",
+            "Sistema único de la seguridad social",
+            "defensa nacional (Defensa y seguridad)",
+            "Seguridad social",
+            "ex combatientes de Islas Malvinas (excombatientes de Malvinas)",
+            "gas",
+            "tarifa de servicios públicos",
+            "productos mineros",
+            "higiene y seguridad del trabajo",
+            "jubilados",
+            "régimen simplificado para pequeños contribuyentes (monotributo)",
+            "contrataciones públicas (contratos administrativos)",
+            "SUSS (Sistema único de la seguridad social)",
+            "Derecho Minero (minería)",
+            "excombatientes de Malvinas",
+            "higiene y seguridad en el trabajo (higiene y seguridad del trabajo)",
+            "hidrocarburos",
+            "modificación de tarifas",
+            "derecho público fiscal (derecho tributario)",
+            "asistencia familiar (asignaciones familiares)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "sistema integral de prestaciones por desempleo y servicio de sepelio",
+            "seguro de desempleo",
+            "previsión social (sistema previsional)",
+            "contrataciones del Estado (contratos administrativos)",
+            "subsidio por desempleo (seguro de desempleo)",
+            "recursos minerales",
+            "Defensa y seguridad",
+            "contrato laboral (contrato de trabajo)",
+            "obligaciones del empleador",
+            "sujetos del contrato de trabajo",
+            "guerra",
+            "actividades laborales",
+            "tarifas (tarifa de servicios públicos)",
+            "derechos previsionales (beneficios previsionales)",
+            "derecho tributario",
+            "jubilaciones",
+            "sistema previsional",
+            "actividad minera (minería)",
+            "derecho fiscal (derecho tributario)",
+            "servicio público",
+            "deberes del empleador (obligaciones del empleador)",
+            "Recursos naturales",
+            "minería",
+            "reducción de tarifas",
+            "desocupación (desempleo)",
+            "salario familiar (asignaciones familiares)",
+            "desempleo",
+            "servicio doméstico (personal de casas particulares)",
+            "pensiones no contributivas",
+            "ex combatientes (veteranos de guerra)",
+            "zona fría",
+            "subsidios de la Seguridad Social",
+            "excombatientes (veteranos de guerra)",
+            "sistema integral de prestaciones por desempleo (sistema integral de prestaciones por desempleo y servicio de sepelio)",
+            "trabajo insalubre",
+            "ex combatientes de Malvinas (excombatientes de Malvinas)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "trabajadores de casas particulares (personal de casas particulares)",
+            "impuestos",
+            "ley de monotributo (monotributo)",
+            "empleador",
+            "higiene laboral (higiene y seguridad del trabajo)",
+            "Derecho laboral",
+            "contratos administrativos",
+            "beneficios previsionales",
+            "trabajo doméstico (personal de casas particulares)",
+            "contrato de trabajo en general"
+          ]
+        }
+      },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 9 OBSERVACION: Por Resolución 150/22 (B.O. 21/3/2022) de la Secretaría de Energía del Ministerio de Economía se Incorporan a la totalidad de las regiones, provincias, departamentos y localidades de las subzonas IIIa, IVa, IVb, IVc, IVd, V y VI, Anexo I de la presente ley de las zonas bio-ambientales utilizadas por el (ENARGAS) que no estaban incorporadas al régimen vigente al Registro Especial De Beneficiarios De La Patagonia, La Puna y Malargue del Programa Hogar el que formará parte integrante del Registro Único de beneficiarios y beneficiarias especiales del Régimen de Zona Fría.",
+        "reglamentado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 3/8/2021)",
+            "id": "REGLAMENTADO_POR_0",
+            "ref": "DEC C 000486 2021 08 02 0000 000 0000 000"
+          }
+        }
+      },
+      "articulo": [
+        {
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "Artículo 1º- El plazo de vigencia del régimen establecido en el    artículo 75 de la ley 25.565 se prorroga hasta el 31 de diciembre de 2031."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "Artículo 2º- Sustitúyese el párrafo cuarto del artículo 75 de la    ley 25.565 que quedará redactado de la siguiente manera:\n\n\"El Poder Ejecutivo, por sí o a través de la autoridad de aplicación, queda facultado para aumentar o disminuir el nivel del recargo establecido en el presente artículo en hasta un cincuenta por ciento (50%), con las modalidades que considere pertinentes.\""
+        },
+        {
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "Artículo 3º- Para las regiones y el departamento que se enumeran en el punto a), del párrafo primero, del artículo 75 de la ley 25.565 continuarán los beneficios de la aplicación del régimen para los usuarios residenciales del servicio de gas natural por redes y gas propano indiluido por redes y todos los usuarios del servicio general P de aquellas localidades abastecidas con gas propano indiluido por redes que se apliquen en el marco de este régimen, los que serán equivalentes al cincuenta por ciento (50%) de los cuadros tarifarios plenos establecidos por el ENARGAS. La tarifa diferencial establecida en este artículo no excluirá los beneficios otorgados por otras normas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 027351 2017 04 26 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 026844 2013 03 13 0000 000 0000 000"
+              }
+            ]
+          },
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Artículo 4º- Se amplía el beneficio establecido en el punto a), del párrafo primero, del artículo 75 de la ley 25.565 a la totalidad de las regiones, provincias, departamentos y localidades de las subzonas IIIa, IVa, IVb, IVc, IVd, V y VI,    anexo I de la presente ley, de las zonas bio-ambientales utilizadas por ENARGAS, bajo norma IRAM 11603/2012, que no estaban incorporadas al régimen vigente. Las localidades que se encuentren dentro de las subzonas IIIa, IVa, IVb, IVc, IVd, V y VI, anexo I de la presente ley, y que en un futuro sean abastecidas por el servicio público de gas natural por redes y gas propano indiluido por redes obtendrán en forma automática los beneficios establecidos. Las empresas distribuidoras o subdistribuidoras zonales de gas natural por redes y gas propano indiluido deberán percibir dicha compensación por la aplicación de tarifas diferenciales a los consumos de los beneficiarios del régimen.\n\nPara las nuevas regiones, provincias, departamentos y localidades que se incorporan al régimen vigente del punto a), párrafo primero, artículo 75, de la ley 25.565, los cuadros tarifarios diferenciales para los usuarios residenciales del servicio de gas natural por redes y gas propano indiluido y todos los usuarios del servicio general P de aquellas localidades abastecidas con gas propano indiluido por redes que se apliquen en el marco de este régimen serán equivalentes al setenta por ciento (70%) de los cuadros tarifarios plenos establecidos por el ENARGAS, con la excepción de los usuarios residenciales que satisfagan alguno de los siguientes criterios de elegibilidad, a los cuales se les aplicará un cuadro tarifario equivalente al cincuenta por ciento (50%) del cuadro tarifario pleno:\n\n1. Titulares de la Asignación Universal por Hijo (AUH) y la Asignación por Embarazo.\n\n2. Titulares de Pensiones no Contributivas que perciban ingresos mensuales brutos no superiores a cuatro (4) veces el Salario Mínimo Vital y Móvil.\n\n3. Usuarios y usuarias inscriptas en el Régimen de Monotributo Social.\n\n4. Jubilados y jubiladas; pensionadas y pensionados; y trabajadores y trabajadoras en relación de dependencia que perciban una remuneración bruta menor o igual a cuatro (4) Salarios Mínimos Vitales y Móviles.\n\n5. Trabajadores y trabajadoras monotributistas inscriptas en una categoría cuyo ingreso anual mensualizado no supere en cuatro (4) veces el Salario Mínimo Vital y Móvil.\n\n6. Usuarios y usuarias que perciben seguro de desempleo.\n\n7. Electrodependientes, beneficiarios y beneficiarias de la ley 27.351..\n\n8. Usuarios y usuarias incorporadas en el Régimen Especial de Seguridad Social para Empleados de Casas Particulares de la ley 26.844..\n\n9. Exentos en el pago de ABL o tributos locales de igual naturaleza.\n\n10. Titulares de Pensión Vitalicia a Veteranos de Guerra del Atlántico Sur.\n\nLa tarifa diferencial establecida en la presente ley no excluirá los beneficios otorgados por otras normas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 027218 2015 11 25 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 5,
+          "texto": "Artículo 5º- A los consumos que realicen las entidades de bien público, de acuerdo a la ley 27.218, del servicio de gas natural por redes y gas propano indiluido por redes de la totalidad de las regiones, provincias, departamentos y localidades de las subzonas IIIa, IVa, IVb, IVc, IVd, V y VI, anexo I que se enumeran en el punto a), del párrafo primero, del artículo 75 de la ley 25.565 y en el artículo 4º de la presente ley, de las zonas bio-ambientales utilizadas por ENARGAS, bajo norma IRAM 11603/2012, se aplican los beneficios en el marco de este régimen, los que serán equivalentes al cincuenta por ciento (50%) de los cuadros tarifarios plenos establecidos por el ENARGAS.\n\nLa tarifa diferencial establecida en la presente ley no excluirá los beneficios otorgados por otras normas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "Artículo 6º- A los consumos que realicen los usuarios del servicio de gas natural por redes y gas propano indiluido por redes de la totalidad de las regiones, provincias, departamentos y localidades de las subzonas IIIa, IVa, IVb, IVc, IVd, V y VI,   anexo I que se enumeran en el punto a), del párrafo primero, del   artículo 75 de la ley 25.565 y en el párrafo primero del   artículo 4º de la presente ley, de las zonas bio-ambientales utilizadas por ENARGAS, bajo norma IRAM 11603/2012, se aplican los beneficios en el marco de este régimen, los que serán equivalentes al cincuenta por ciento (50%) de los cuadros tarifarios plenos establecidos por el ENARGAS cuando satisfagan alguno de los siguientes criterios de elegibilidad: a) Asociaciones civiles con ingresos ordinarios anuales menores a la Categoría \"G\" del Régimen del Monotributo; b) Comedores comunitarios con o sin personería jurídica, reconocidos en su jurisdicción provincial o municipal o que estén inscriptos en el Registro Nacional de Comedores y Merenderos Comunitarios de Organizaciones de la Sociedad Civil (RENACOM).\n\nLa tarifa diferencial establecida en la presente ley no excluirá los beneficios otorgados por otras normas."
+        },
+        {
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+            }
+          },
+          "numero-articulo": 7,
+          "texto": "Artículo 7º- Se amplía el beneficio establecido en el punto b), del párrafo primero, del artículo 75 de la ley 25.565 a la totalidad de las regiones, provincias, departamentos y localidades de las subzonas IIIa, IVa, IVb, IVc, IVd, V y VI,   anexo I de la presente ley, de las zonas bio-ambientales utilizadas por ENARGAS, bajo norma IRAM 11603/2012, que no estaban incorporadas al régimen vigente."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025565 2002 03 06 0075 000 0000 000"
+            }
+          },
+          "numero-articulo": 8,
+          "texto": "Artículo 8º- Se faculta al Poder Ejecutivo a ampliar los territorios mencionados en el artículo 75 de la ley 25.565 y en la presente ley, previa revisión integral cada dos (2) años como plazo máximo, con previo dictamen técnico emitido por el Ente Regulador con relación al punto a) del párrafo primero del   artículo 75 de la ley 25.565 y del párrafo primero del artículo 4º de la presente ley y la Secretaría de Energía con relación al punto b) del párrafo primero del artículo 75 de la ley 25.565 y del artículo 7º de la presente ley, los cuales deberán considerar para ello la evolución de los factores climáticos con incidencia en los mismos. A tal efecto, podrán solicitar los informes adicionales que consideren necesarios a otros organismos o autoridades competentes de las localidades que estén en análisis.\n\nEl Poder Ejecutivo remitirá su informe final al Congreso de la Nación.\n\nLa autoridad de aplicación podrá modificar o exceptuar del cumplimiento de los criterios de elegibilidad para acceder a un cuadro tarifario equivalente al cincuenta por ciento (50%) del cuadro tarifario pleno, cuando la capacidad de pago del usuario o usuaria resulte sensiblemente afectada por una situación de necesidad o vulnerabilidad social, conforme lo establezca la reglamentación.\n\nEl Poder Ejecutivo, por sí o a través de la autoridad de aplicación, queda facultado para disponer los mecanismos mediante los cuales los usuarios y las usuarias puedan renunciar al presente beneficio, con la finalidad de que lleguen exclusivamente a aquellos usuarios y a aquellas usuarias que lo necesiten."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Artículo 9º- Comuníquese al Poder Ejecutivo nacional."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "LEDESMA ABDALA DE ZAMORA-MASSA-Fuentes-Cergnul"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "ANEXO I",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO: 0",
+        "texto": "ANEXO I"
+      },
+      "id-infojus": "LNS0006997"
+    }
+  }
+}

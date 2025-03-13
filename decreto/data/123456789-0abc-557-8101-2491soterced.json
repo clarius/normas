@@ -1,0 +1,842 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-557-8101-2491soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992096597,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "118755-nacional-decreto-reglamentario-ley-12713-sobre-trabajo-domicilio-dn19421018755-1942-04-29"
+      }
+    },
+    "content": {
+      "mecanografico": 19421018755,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 118755,
+      "timestamp": "2014-07-17T21:54:55",
+      "timestamp-m": "2014-07-17T21:54:55",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1942-04-29",
+      "standard-normativo": "DEC C 118755 1942 04 29",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 12.713 SOBRE TRABAJO A DOMICILIO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1942 05 11"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "SUST. ART. 29 B.O. 44-03-31",
+          "id": "MODIFICADO POR0",
+          "ref": "DEC C 006458 1944 03 20 0001 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 118.755/42",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE ESTABLECEN LAS DISPOSICIONES Y NORMAS APLICABLES AL TRABAJO A DOMICILIO, REGLAMENTANDO LA LEY 12.713.",
+        "informacion-vinculada": 1E+19,
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 012713 1941 09 29 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/trabajador"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "asalariados",
+                "empleado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajo a domicilio"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/modalidades del contrato de trabajo/contrato de trabajo a domicilio"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "contrato de trabajo domiciliario",
+                "trabajo a domicilio",
+                "trabajo domiciliario",
+                "trabajadores a domicilio"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asociaciones sindicales"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/asociaciones sindicales"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "asociaciones gremiales",
+                "asociaciones gremiales de trabajadores"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "higiene y seguridad del trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/empleador/obligaciones del empleador/higiene y seguridad del trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "higiene y seguridad en el trabajo",
+                "higiene laboral",
+                "patrón",
+                "obligaciones del patrón",
+                "deberes del empleador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "convenios colectivos de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/negociación colectiva/convenios colectivos de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "convenciones colectivas de trabajo",
+                "convención colectiva",
+                "convenio colectivo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "salario mínimo, vital y móvil"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración/salario mínimo, vital y móvil"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario mínimo",
+                "salario",
+                "sueldo",
+                "salario mínimo vital",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "accidentes de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios/indemnización"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por daños",
+                "indemnización del daño",
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajo de menores"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/trabajo de menores"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "talleres protegidos de producción"
+            },
+            "preferido": {
+              "termino": "talleres protegidos de producción"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "procesado"
+            },
+            "preferido": {
+              "termino": "Derecho penal/proceso penal/sujetos del proceso penal/procesado"
+            },
+            "sinonimos": {
+              "termino": [
+                "juicio criminal",
+                "procedimiento penal",
+                "juicio penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "contrato laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Departamento Nacional del Trabajo"
+            },
+            "preferido": {
+              "termino": "Departamento Nacional del Trabajo"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "jurisdicción administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/procedimiento administrativo/competencia administrativa/jurisdicción administrativa"
+            },
+            "sinonimos": {
+              "termino": "proceso administrativo"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "reglamento de ejecución (decreto reglamentario)",
+            "procesado",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "sujetos del proceso penal",
+            "modalidades del contrato de trabajo",
+            "derecho colectivo del trabajo",
+            "salario mínimo, vital y móvil",
+            "daños y pérdidas (daños y perjuicios)",
+            "asalariados (trabajador)",
+            "obligaciones del patrón (obligaciones del empleador)",
+            "remuneración",
+            "Derecho administrativo",
+            "patrón (empleador)",
+            "trabajadores a domicilio (contrato de trabajo a domicilio)",
+            "competencia administrativa",
+            "juicio penal (proceso penal)",
+            "juicio criminal (proceso penal)",
+            "trabajador",
+            "proceso administrativo (procedimiento administrativo)",
+            "contrato de trabajo a domicilio",
+            "responsabilidad por daños (responsabilidad civil)",
+            "indemnización",
+            "convención colectiva (convenios colectivos de trabajo)",
+            "higiene y seguridad del trabajo",
+            "procedimiento penal (proceso penal)",
+            "acto administrativo",
+            "sueldo (remuneración)",
+            "convenciones colectivas de trabajo (convenios colectivos de trabajo)",
+            "indemnización por daños (indemnización)",
+            "responsabilidad civil",
+            "negociación colectiva",
+            "contrato de trabajo domiciliario (contrato de trabajo a domicilio)",
+            "higiene y seguridad en el trabajo (higiene y seguridad del trabajo)",
+            "decreto reglamentario",
+            "accidentes de trabajo",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "reglamentos",
+            "asociaciones gremiales de trabajadores (asociaciones sindicales)",
+            "contrato laboral (contrato de trabajo)",
+            "obligaciones del empleador",
+            "sujetos del contrato de trabajo",
+            "proceso penal",
+            "salario (remuneración)",
+            "Derecho penal",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "deberes del empleador (obligaciones del empleador)",
+            "procedimiento administrativo",
+            "Departamento Nacional del Trabajo",
+            "Derecho civil",
+            "daños y perjuicios",
+            "empleado (trabajador)",
+            "indemnización del daño (indemnización)",
+            "Derecho de daños (responsabilidad civil)",
+            "convenios colectivos de trabajo",
+            "talleres protegidos de producción",
+            "salario mínimo (salario mínimo, vital y móvil)",
+            "accidentes y enfermedades de trabajo (accidentes de trabajo)",
+            "trabajo domiciliario (contrato de trabajo a domicilio)",
+            "convenio colectivo (convenios colectivos de trabajo)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "trabajo de menores",
+            "salario mínimo vital (salario mínimo, vital y móvil)",
+            "empleador",
+            "Derecho laboral",
+            "higiene laboral (higiene y seguridad del trabajo)",
+            "jurisdicción administrativa",
+            "retribución (remuneración)",
+            "asociaciones sindicales",
+            "trabajo a domicilio (contrato de trabajo a domicilio)",
+            "contrato de trabajo en general",
+            "asociaciones gremiales (asociaciones sindicales)"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "considerando": {
+        "sancion": "EL VICE-PRESIDENTE DE LA NACION ARGENTINA EN EJERCICIO DEL PODER EJECUTIVO            DECRETA:",
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "segmento": [
+        {
+          "titulo-particion": "CAPITULO I Del campo de aplicación y definiciones",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "Art.  1.- Las disposiciones de esta reglamentación rigen en la Capital Federal.  El  Departamento Nacional del Trabajo, proyectará su  extensión a los territorios  nacionales,  de  acuerdo  con  las necesidades  y  condiciones  del trabajo a domicilio que se efectúe en los mismos. El Ministerio del  Interior invitará a los gobiernos de provincia a adoptar normas de aplicación  de  la  Ley  N. 12.713 concordantes en lo posible con las de este decreto."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "Art. 2.- A los efectos de la aplicación de este decreto y de la ley que reglamenta:\n\na) \"Trabajo  a  domicilio\", es el que se realiza en la vivienda del obrero, o en un local  elegido  por él, o en la vivienda o local de un  tallerista, para un patrono intermediario  o  tallerista;\n\nb) \"Patrono\"  es  el  que  se  dedica  a  la elaboración o venta de mercaderías, con o sin fines de lucro, y que  encarga  trabajo a un obrero a domicilio, tallerista o intermediario;\n\nc)  \"Intermediario\"  es  el  que  por  encargo  de  un patrono hace elaborar  mercadería  a  talleristas  u  obreros a domicilio;\n\nd) \"Tallerista\" es el que participando o no  en  las  tareas,  hace elaborar  con  obreros  a  su  cargo,  en  una  habitación o local, mercadería  recibida  de un patrono o intermediario,  o  mercadería adquirida por él para elaborar  por  encargo  de los mismos si esta operación se realiza como actividad accesoria de  la anterior;\n\ne)  \"Tallerista - intermediario\" es el que actúa, a  la  vez,  como tallerista y como intermediario;\n\nf) \"Dador  de  trabajo  a  domicilio\" es el patrono, intermediario, tallerista o tallerista - intermediario;\n\ng) \"Obrero a domicilio\", es  el  que,  bajo  su  propia  dirección, ejecuta  en una habitación o local elegido por él tareas destinadas a elaborar  mercaderías  por encargo de un patrono o intermediario, aun cuando se haga ayudar  en su trabajo por miembros de su familia y/o por un solo aprendiz o ayudante  extraño que trabaje a su lado.\n\nEntiéndese  por \"miembros de su familia\"  las  personas  vinculadas por  los  siguientes    parentescos:  ascendientes,  descendientes, cónyuges y hermanos. Quedan  también asimilados a esos términos los incapaces sometidos a tutela del  obrero y demás parientes hasta el cuarto grado, siempre que reciban alojamiento  y  comida del obrero a domicilio;\n\nh)  \"Aprendiz  de obrero a domicilio\", es el que, siendo  mayor  de catorce años, y menor de dieciocho, está adquiriendo el conocimiento y experiencia  del  oficio  durante  el  curso  de  la producción  y  bajo  la  dirección  de  obreros  calificados;\n\ni)  \"Ayudante  de  obrero  a domicilio\", es el que no reuniendo las características del aprendiz,  trabaja  junto al obrero a domicilio en la elaboración de la mercadería recibida  por  éste del dador de trabajo;\n\nj)  \"Artículo  elaborado a domicilio\", es todo aquel  que  ha  sido materia de trabajo a domicilio."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "Art. 3.- El intermediario será considerado como patrono que da trabajo  a  domicilio  con  relación  a los talleristas y obreros a domicilio  a  quienes  encargue  el  trabajo,    y  como  obrero  a domicilio, con relación al dador de trabajo.\n\nEl  tallerista  será  considerado  como  obrero  a  domicilio,  con relación  al  dador  de  trabajo,  y  como  patrono, sujeto  a  las obligaciones  que  le  imponen  las  leyes  del  trabajo    y  esta reglamentación,    con   relación  a  los  obreros  de  su  taller."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art.  4.-  En  los  establecimientos  públicos  o privados, de beneficencia,   de  educación  o  de  corrección  de  menores    no condenados penalmente  en que se elaboran prendas tarifadas por las comisiones  de salarios,  los  internados  recibirán  los  salarios mínimos fijados  por las comisiones respectivas. Del importe de las retribuciones podrá  deducirse,  en un porcentaje no mayor del 75%, los  gastos  de  manutención, educación  y  elementos  de  trabajo.\n\nCuando se tratara  de  incapaces,  se  depositará  el  saldo de las retribuciones  en  la  Caja Nacional de Ahorro Postal, a los  fines establecidos en el art. 3, inc. c) de la ley."
+            },
+            {
+              "numero-articulo": 5,
+              "titulo-articulo": "CAPITULO II De  la  responsabilidad  solidaria  de  patronos  e  intermediarios",
+              "texto": "Art.  5.-  Los patronos que hagan realizar tareas de trabajo a domicilio por intermediarios  o  talleristas,  serán solidariamente responsables con éstos:\n\na)  Del  pago  de  los salarios mínimos legales adeudados  por  los intermediarios  y  talleristas   a  los  obreros  empleados  en  la elaboración  de  los  artículos encargados  por  los  patronos.  La responsabilidad de éstos  limitada  en  la  forma establecida en el art.  4,  inc.  a)  de  la  ley, cesará cuando los  acreedores  del salario no denunciaran por escrito,  al  Departamento  Nacional del Trabajo,  la falta de pago antes de los veinte días corridos  desde el día en que  debió  abonarse  el  trabajo, conforme al art. 27 de esta reglamentación. Ese departamento  hará  saber  el  hecho a los interesados en el término de tres días;\n\nb)  De las indemnizaciones por accidentes del trabajo a que  fueren condenados  los  intermediarios o talleristas, con las limitaciones que establece el art. 4, inc. b) de la ley.\n\nTodo el que inicie  demanda  por  indemnización  de  accidentes del trabajo  contra  patrono  directo de la víctima, deberá comunicarlo el mismo día al Departamento  Nacional  del  Trabajo, quien, dentro de  tercero  día,  pondrá el hecho en conocimiento  del  patrono  o patronos que figuran  en  los  registros como dadores de trabajo al demandado;\n\nc) De las obligaciones establecidas  en  el  art. 32 de la ley para el  caso  de  reducción,  supresión  o  suspensión  arbitraria    o injustificada  de  trabajo  al  obrero  a domicilio o al obrero del tallerista. Las autoridades encargadas de fijar las indemnizaciones  señaladas en el artículo  mencionado  de  la  ley, juzgarán del monto  en  que  se  hará  efectiva  la responsabilidad solidaria,  teniendo  en  cuenta el porcentaje de trabajo  que  los diferentes  patronos,  en  su    caso   hubieren  encargado  a  los intermediarios  o  talleristas  responsables    por  la  reducción, supresión o suspensión de trabajo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO III De la inspección de los dadores de trabajo",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 016116 1933 00 00 0000 000"
+                }
+              },
+              "numero-articulo": 6,
+              "texto": "Art.  6.- Los patronos, intermediarios y talleristas no podrán encargar o emprender  la  ejecución  de  trabajos  a  domicilio sin estar  inscriptos  como tales en el censo de patronos que  mantiene el  Departamento  Nacional  del  Trabajo,  a  cuyo  efecto  deberán cumplir con las disposiciones  del art. 5 del decreto N. 16.116, de 16 de enero de 1933, sobre censos profesionales."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art.  7.- La habilitación para ejercer la industria, resultará automáticamente  de  él  y  se mantendrá por el cumplimiento de las disposiciones a que se refiere  el  artículo  anterior, salvo en el caso contemplado por el siguiente."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art.  8.- El Departamento Nacional del Trabajo podrá suspender la habilitación,  por un período de uno a cinco años de los dadores de trabajo que, por  su  violación  reiterada  o  grave de la ley y esta reglamentación, ofrezcan una peligrosidad que  justifique esta medida.  Contra  la  resolución  del  Departamento  Nacional    del Trabajo,    podrá  entablarse  recurso  jerárquico  administrativo, dentro de los cinco días de notificada."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art.  9.-  Una vez consentida o confirmada la suspensión de la habilitación, los  que  dieren  trabajo  a  domicilio habiendo sido alcanzados  por  la  medida,  se  considerarán  incursos    en   la infracción  determinada  por  el  art.  30  de  la  Ley  N. 12.713."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IV Del libro de contralor de los patronos e intermediarios",
+          "articulo": [
+            {
+              "numero-articulo": 10,
+              "texto": "Art.  10.-  Los  patronos  e  intermediarios que den trabajo a domicilio  llevarán  un  libro  autorizado    por  el  Departamento Nacional del Trabajo, dividido en dos secciones  o tomos designados con  las  letras  \"A\" y \"B\". El Departamento Nacional  del  Trabajo determinará los modelos  de  las  secciones  del libro, que deberán anotarse con tinta o lápiztinta sin dejar claros  y  salvando  toda enmendadura o raspadura."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art.  11.- En la sección \"A\" se anotará, en el orden en que se vayan contratando  los  servicios,  el nombre, apellido y domicilio de  las  personas a quienes se encargue  trabajo  a  domicilio,  su número de  habilitación  de libreta y la indicación de si es obrero a domicilio, intermediario  o tallerista. Además de las anotaciones señaladas se incluirán las que  determine  el  modelo  oficial  del libro."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "Art. 12.- En la sección \"B\" se anotarán, destinándose una hoja para cada  persona,  los  datos exigidos por el art. 6, de la ley y los que determine el modelo oficial del libro."
+            },
+            {
+              "numero-articulo": 13,
+              "titulo-articulo": "TITULO V Del  libro  de  contralor  de  los  talleristas  y de los obreros a domicilio que empleen aprendiz o ayudante",
+              "texto": "Art.  13.-  Los  talleristas y obreros a domicilio que empleen aprendiz  o  ayudante extraño  a  la  familia,  llevarán  un  libro especial según  modelo  autorizado por el Departamento Nacional del Trabajo, cuyas anotaciones  se  harán  en  la forma dispuesta en el art. 10, párrafo final."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO  VI  De  otras  constancias sobre realización de trabajo a domicilio",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 016116 1933 00 00 0005 000"
+                }
+              },
+              "numero-articulo": 14,
+              "texto": "Art.  14.-  No  podrá encargarse trabajo a ninguna persona, en calidad  de obrero a domicilio,  sin  que  previamente  el  patrón, intermediario  o  tallerista  comunique  su  alta  al  Departamento Nacional  del  Trabajo, en la forma establecida por el art.  5  del decreto N. 16.116  de 16 de enero de 1933. Los patronos denunciarán también  los  intermediarios    y   talleristas  que  ocupen.\n\nSobre  la  base  de  la  declaración  patronal,  y,  de  los  datos complementarios  que el Departamento Nacional  del  Trabajo  estime conveniente requerir  de  los trabajadores a domicilio interesados, se otorgará gratuitamente a  quienes  lo  soliciten  una  libreta o carnet que acredite su carácter."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art.  15.-  Excepto  en  los establecimientos que se acojan al sistema  de contralor establecido  en  el  art.  17,  el  dador  de trabajo a  domicilio  deberá  anotar  en  la libreta de cada obrero todo    encargo    que  le  encomiende,  con  las  especificaciones mencionadas en los incs.  b),  c)  y  d) del art. 6 de la Ley N. 12 713. Las anotaciones se harán con tinta  o  lápiztinta,  sin  dejar claros y salvando toda enmendadura o raspadura."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art.  16.-  Cuando  se  redujere  o  suspendiere la entrega de trabajo que hubiese sido normal para un obrero  a  domicilio,  éste tendrá  derecho  a  requerir  del  correspondiente  dador  que deje constancia  escrita,  en  su  libreta de trabajo, de los motivos  o causas de la reducción o suspensión."
+            },
+            {
+              "numero-articulo": 17,
+              "texto": "Art. 17.- Los dadores de trabajo a domicilio podrán establecer, previa  declaración  al Departamento Nacional del Trabajo de que se acogen al mismo, el siguiente  sistema  de contralor que sustituirá las anotaciones a que se refiere el art. 15.\n\na)  Al  efectuarse  cualquier  encargo de trabajo  a  domicilio  se entregará  al  obrero una boleta numerada,  en  la  que  se  dejará constancia de su  nombre  y  número  de  registro, de la cantidad y calidad del trabajo encargado, del número,  marca  o  rótulo que le corresponde y del salario prometido por el mismo, que no  podrá ser menos  del que determinen las tarifas aplicables al caso. El  dador conservará  por orden numeral, copia carbónica de todas las boletas de encargo que  expida,  y  no  podrá  retirar al obrero por ningún concepto,  la  que  éste  hubiese  recibido con  el  encargo;\n\nb)  Al  efectuarse  la  devolución  de todo  o  parte  del  trabajo encargado, se entregará al obrero una  nueva boleta de recepción de obra  y  liquidación  de  los salarios correspondientes,  que  hará referencia  al número de la  boleta  de  entrega  y  contendrá  las constancias de  cantidad,  calidad  y  precio  unitario y total del trabajo  entregado.  Lo  dispuesto  en  el  inciso  anterior  sobre numeración,  conservación  de  copias  y  retiro de las boletas  de entrega  se  aplicará  también  a las de recepción  y  liquidación, excepto  en  cuanto  estas  últimas  podrán    contener   un  talón separable,  destinado  a  recibo  de  pago que el obrero firmará  y entregará como prueba de éste al tiempo  en  que  deba percibir sus salarios."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "Art. 18.- Con respecto al trabajo que se encargue a intermediarios,  talleristas  o  talleristas intermediarios, y a su recepción y liquidación, será obligatorio  el  sistema de contralor establecido  en  el  art. 17. Cuando el Departamento  Nacional  del Trabajo lo estime necesario  o  conveniente,  podrá  adoptarlo como único,  en  sustitución del de anotación en la libreta de  trabajo."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "Art. 19.- Todo patrono podrá utilizar a prueba intermediarios, talleristas  y  obreros  a domicilio. El período de prueba no podrá extenderse  a  más  de  tres entregas.  En  este  caso,  y  por  su duración,  las  anotaciones  de  libretas  serán  reemplazadas  sin necesidad de declaración  especial,  con  las boletas que determina el art. 17."
+            },
+            {
+              "numero-articulo": 20,
+              "titulo-articulo": "CAPITULO VII De  la  individualización  de  los  artículos  que  se  elaboran  a domicilio",
+              "texto": "Art.  20.-  Cada una de las piezas o artículos que se entregue para  ser elaborada  mediante  trabajo  a  domicilio  debe  llevar, fijado en la forma que determine para cada industria y especialidad  el  Departamento  Nacional del Trabajo, un rótulo con las letras \"H a D\" (hecho a domicilio),  donde se anotarán números, letras o combinación de ambos, individualizadores  de la mercadería y  de  las  tarifas de salarios y categorías que correspondan,  los que coincidirán  con  las  anotaciones  de  los  libros, libretas y demás documentos de contralor.\n\nEn el mismo rótulo, y a continuación de las letras  P.,  I.,  T., y O. que responderán a las denominaciones \"Patrono\", \"Intermediario\",  \"Tallerista\" y \"Obrero\", se anotará el número  de orden de habilitación  o  inscripción indicada en los capítulos III y IV, que corresponda a cada  una  de esas categorías de dadores de trabajo  y  al \"obrero a domicilio\", que  haya  intervenido  en  la elaboración de  la  mercadería.  Cuando fueran varios los obreros a domicilio que hubieren intervenido  en  la  elaboración, se anotará el número del que hubiere iniciado el trabajo,  o,  en  caso de que las  tareas  se  hubieran  iniciado  simultáneamente, el número  de orden de cualquiera de los obreros.\n\nEl rótulo no podrá ser retirado hasta  que  la  mercadería  esté en poder  del consumidor. Los patronos, intermediarios, talleristas  y obreros  a  domicilio  así  como  todo  el  que  exhiba o venda una mercadería  elaborada  a  domicilio,  serán  responsables    de  la obligación  impuesta  en  este artículo mientras la mercadería esté en su poder, salvo que probare ignorar su procedencia."
+            },
+            {
+              "numero-articulo": 21,
+              "titulo-articulo": "CAPITULO VIII De la exhibición de libros y documentos",
+              "texto": "Art.  21.-  Todas  las  personas  comprendidas  en el campo de aplicación de la ley que se reglamenta, están obligadas  a  exhibir a  los  inspectores  del Departamento Nacional del Trabajo, sin  la menor demora y cada vez  que  les  sea  exigido,  todos los libros, libretas  y  documentos  establecidos  en esta reglamentación,  así como  también  las mercaderías o artículos  que  fueran  objeto  de trabajo a domicilio.\n\nSiempre que un inspector tuviese dudas acerca de si las anotaciones del  libro  a  que  se  refiere  el  art.  10  de  este reglamento,  o  de  las  libretas  o boletas de trabajo a domicilio corresponden exactamente a la naturaleza  del trabajo encomendado a un  obrero,  podrá  exigir  que  se  individualicen    los  efectos fabricados  o  elaborados, o uno de ellos si todos fuesen  iguales, mediante signos,  etiquetas  o  envolturas  que  garanticen  su  no sustitución,  y  que  se conserven en poder del patrono hasta tanto quede fijada en una nueva  inspección  técnica  la  índole real del trabajo efectuado.\n\nEsta nueva inspección tendrá lugar en el plazo máximo  de tres días hábiles,  transcurrido el cual podrá disponerse libremente  de  los efectos individualizados."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IX De las medidas de higiene y seguridad",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 009688 1915 09 29 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "DEC C 160114 1916 00 00 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 22,
+              "texto": "Art.  22.- En los locales de los talleristas se observarán las disposiciones  pertinentes  de  higiene y seguridad determinadas en los arts. 63 al 81, 84 y 85, del  decreto  reglamentario  de la Ley N. 9.688."
+            },
+            {
+              "numero-articulo": 23,
+              "texto": "Art. 23.- Sin perjuicio de las medidas indicadas en el artículo anterior,  los  inspectores  del  Departamento Nacional del Trabajo podrán intimar la adopción de medidas  de  higiene  y seguridad que consideren indispensables para los trabajadores y para  la salud de los consumidores de los artículos elaborados. De la intimación  del inspector,  el  interesado  podrá apelar dentro del tercer día ante el  presidente  del  Departamento    Nacional  del  Trabajo,  quien resolverá en definitiva. Tanto el inspector,  como el presidente de esa dependencia en caso de apelación, fijarán el  plazo  dentro del cual  deben adoptarse las medidas de higiene y seguridad intimadas.\n\nSi las  medidas no fueren adoptadas, los locales de los talleristas serán clausurados,  sin  perjuicio de las penalidades de la ley que se reglamenta."
+            },
+            {
+              "numero-articulo": 24,
+              "texto": "Art.  24.-  Cuando  el trabajo se realice en la vivienda de un obrero a domicilio y se comprobare  la  existencia de algún enfermo infectocontagioso, que pueda provocar contagios  por  medio  de los artículos  elaborados, el presidente del Departamento Nacional  del Trabajo oodenará  el  secuestro  y  desinfección de la mercadería y suspenderá  la habilitación del obrero  hasta  que  desaparezca  el peligro, notificando  la  medida  a  los  patronos o intermediarios para quienes trabaja el obrero suspendido."
+            },
+            {
+              "numero-articulo": 25,
+              "texto": "Art.  25.-  Toda  persona  ajena  a  la  familia  del obrero a domicilio  que  tenga  conocimiento  de que en las habitaciones  de éste hay un enfermo infectocontagioso,  está  obligada  a denunciar el hecho al Departamento Nacional del Trabajo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO  X  De  la  entrega y recibo de la mercadería a elaborar - Del pago",
+          "articulo": [
+            {
+              "numero-articulo": 26,
+              "texto": "Art.  26.-  Las  personas  que  entreguen  mercadería para ser elaborada  mediante trabajo a domicilio, deben hacerlo  en  días  y horas fijados  de  antemano.  El Departamento Nacional del Trabajo, determinará esos días y horas,  teniendo  en  cuenta  lo solicitado por  los  patronos,  la  naturaleza  de la industria, el número  de obreros  ocupados  y  la  cantidad de trabajo  encargado  por  cada patrono. El mismo procedimiento  se seguirá para la recepción de la mercadería elaborada."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 004661 1905 08 31 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 27,
+              "texto": "Art.  27.- Los dadores de trabajo pagarán las retribuciones en días fijados  de  antemano,  que  no  podrán exceder de dos por mes salvo  excepción  que  podrá acordar el Departamento  Nacional  del Trabajo, teniendo en cuenta  la  naturaleza  de  la  industria,  la cantidad  de  obreros  ocupados y la cantidad de trabajo encargado.\n\nEl  pago  se  efectuará en  un  período  de  horas  determinado  de antemano, el que  no  podrá  exceder  de seis por cada día de pago.\n\nCuando el día señalado para el pago coincidiera  con  día de cierre establecido  por  la  Ley N. 4.661, o con día feriado, el  pago  se efectuará, sin necesidad  de  previo aviso, al siguiente día hábil."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "Art.  28.-  El salario correspondiente a un artículo elaborado deberá abonarse dentro  de  los  quince  días  de  su terminación y entrega  al patrono. Este plazo podrá extenderse hasta  siete  días más cuando  el  artículo  hubiese sido entregado dentro de los tres días anteriores a la fecha  de  pago fijada conforme a lo dispuesto en el artículo anterior, o cuando  entre los días de pago señalados existiere un período mayor de quince días."
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "*Art.  29.- \"Cuando el pago no pudiera hacerse efectivo por no haber comparecido  el  acreedor  del  salario  el  día señalado, el dador del trabajo procederá en la siguiente forma:\n\na)  Si  el  salario no excede de veinte pesos moneda nacional  ($20 m/n.), lo retendrá  en  su  poder hasta la próxima fecha de pago en que se hará efectivo; comunicando  a  la  autoridad  de aplicación, dentro de las 48 horas, la nómina de los obreros que se  encuentren en  esta  situación.  Si en esta oportunidad el titular del salario no concurriera a percibir  sus  haberes,  su  pago se diferirá otra vez,  en  la misma forma señalada anteriormente,  para  la  próxima fecha, procediendo  ante  una  nueva  incomparencia del obrero a su depósito de la manera que se indica en  el  inciso  siguiente;\n\nb)  Si  el  salario  excede  de  dicha  cantidad, o cuando hubieren transcurrido las tres fechas de pago a que  se  refiere  el  inciso anterior  sin  que  el  acreedor  se presentare a hacer efectivo su salario, procederá a depositar el importe  adeudado  dentro  de las 48  horas en el Banco Central de la República Argentina, a la orden de la  \"Dirección  de  Administración de la Secretaría de Trabajo y Previsión\", a la que se  remitirá  el  mismo  día una liquidación y orden de pago junto con la boleta de depósito.  En  la  liquidación se  anotará el nombre, apellido y domicilio del obrero y los  datos relativos al trabajo que corresponda. La Dirección de Administración hará efectivo el pago al interesado a la presentación  de  su  libreta  de trabajo o boleta de liquidación\"."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO  XI  De las asociaciones profesionales de la industria del trabajo a domicilio",
+          "articulo": [
+            {
+              "numero-articulo": 30,
+              "texto": "Art. 30.- Las asociaciones profesionales de patronos y obreros de las  ramas  de  industria en que se realice trabajo a domicilio, no gozarán de ninguno  de  los  derechos que les atribuye la Ley N.\n\n12.713  si  no  se  someten  a  los requisitos  indicados  en  este capítulo."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "Art. 31.- Las asociaciones patronales remitirán al Departamento Nacional del Trabajo, a los efectos de su inscripción, declaraciones firmadas y selladas conteniendo;\n\na) El  nombre de la asociación, domicilio social e industria o rama de industria cuyos intereses representen;\n\nb) Fecha  de constitución y si tienen o no personería jurídica;\n\nc) Nombre y domicilio de las personas que ocupen cargos directivos; y\n\nd) Nombre o  firma  social,  por orden alfabético de los apellidos, de cada uno de los asociados, domicilio actual de sus explotaciones y número de obreros  a  domicilio,  intermediarios  o talleristas que ocupan."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "Art.  32.-  Las asociaciones obreras remitirán al Departamento Nacional del Trabajo,  a los mismos efectos, declaraciones firmadas y selladas conteniendo,  por  lo  menos, los siguientes datos:\n\na)  Nombre y domicilio de la entidad,  fecha  de  su  constitución;\n\nindustria,  rama  de industria, actividad u oficio que representen;\n\nnombre  y domicilio  actual  de  las  personas  que  ocupen  cargos directivos;   nombre  y  apellido,  por  orden  alfabético  de  los apellidos, y domicilio  últimamente  comunicado  de cada uno de los asociados que realicen trabajo a domicilio;\n\nb) Indicación, a continuación de cada nombre de los  asociados,  de su  carácter  de  simple  adherente o cotizante. Esta indicación se hará  con  las  letras  \"a\"  o  \"c\".  Se  entenderá  por  adherente cualquier asociado que se hubiere  afiliado  firmando  su adhesión, no hubiere manifestado expresamente su voluntad de retirarse  de la asociación  y  adeudare  más  de  cuatro  cuotas  mensuales; y\n\nc)  Indicación,  con letras \"T. a D.\" u \"O. de T.\", a  continuación de cada nombre de  los  asociados, de si es trabajador a domicilio, u obrero de tallerista, especificándose  la  rama  de  industria  u oficio en que trabaja."
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "Art.  33.- Las asociaciones de talleristas remitirán los datos señalados para  las  asociaciones  patronales,  con  excepción  del contemplado  en  el  inc.  d),  del  art. 31, en reemplazo del cual indicarán el nombre o firma social, por  orden  alfabético  de  los apellidos,  de  cada  uno de los asociados, domicilio actual de sus explotaciones y número de obreros de taller que ocupan."
+            },
+            {
+              "numero-articulo": 34,
+              "texto": "Art.  34.-  Las  asociaciones  a  que se refiere este capítulo remitirán  también  al  Departamento  Nacional  del  Trabajo:\n\na) Dos ejemplares de sus estatutos;\n\nb)  Indicación  de  los  grupos  o secciones  que  las  integran  y centrales a que pertenecen, en el  encuadramiento  sindical; y\n\nc)  Memoria y balance general correspondiente al último  ejercicio."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "Art. 35.- El presidente del Departamento Nacional del Trabajo, podrá, por sí o por intermedio de empleados debidamente autorizados,  revisar  los  libros y documentos de las asociaciones profesionales a los efectos de  controlar la exactitud de los datos remitidos. Los delegados de esa dependencia  podrán también asistir a las asambleas, a cuyo efecto deberá comunicarse  con tres días de anticipación el lugar, fecha y hora, de los actos correspondientes."
+            },
+            {
+              "numero-articulo": 36,
+              "texto": "Art.  36.-  Toda  modificación  de  las  autoridades  o de sus domicilios,  así como del nombre y sede social de la asociación,  y las alteraciones  en los grupos o secciones que la integren o en su encuadramiento  sindical,  será  comunicada  dentro  del  plazo  de quince días. Sin  perjuicio  de  esta  obligación,  el Departamento Nacional  del Trabajo podrá exigir, cuando lo creyera  conveniente, la actualización de todos los datos de inscripción."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 008999 1912 09 30 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 37,
+              "texto": "Art. 37.- La falta de comunicación o falseamiento de los datos exigidos  en  este  capítulo hará pasible a los que incurran en ese hecho u omisión en la  sanción  establecida  en el art. 8 de la Ley N. 8.999 y hará perder a la asociación infractora  los derechos que le acuerdan la Ley N. 12.713 y este decreto. La representación  que tenga  en las comisiones de salarios y de conciliación y arbitraje, podrá  ser  declarada  caduca  por  el  Departamento  Nacional  del Trabajo,  una  vez comprobada la falsedad de los datos comunicados.\n\nEn este caso se  completará  el  número de representantes dentro de la  comisión, mediante el procedimiento  indicado  en  el  capítulo XIV."
+            },
+            {
+              "numero-articulo": 38,
+              "titulo-articulo": "CAPITULO XII De  las  asociaciones  de  ayuda  a  los  trabajadores  a domicilio",
+              "texto": "Art. 38.- Las asociaciones de carácter no gremial, constituidas o que  se  constituyan  para ayudar a los trabajadores a domicilio, gozarán de los derechos acordados  por  el art. 41 de este decreto, siempre  que  fueran  reconocidas como tales  por  el  Departamento Nacional del Trabajo, previa  inscripción  con los siguientes datos y documentos:\n\na) Nombre de la asociación, domicilio, fecha  de  constitución,  si tiene  o  no  personería jurídica; nombre, domicilio y cargo de las personas  que ocupen  puestos  directivos,  y  nombre,  apellido  y domicilio de cada uno de los asociados;\n\nb) Estatutos,  memoria y balance general del último ejercicio;\n\nc) Todo otro dato  o  documento  que  establezca  la  autoridad  de aplicación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO  XIII De la inspección auxiliar para el cumplimiento de la ley",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 011570 1929 09 25 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 011570 1929 09 25 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 39,
+              "texto": "Art. 39.- Es función de toda comisión de salarios inspeccionar los locales  y revisar los libros para verificar las condiciones en que el trabajo  se  realice  en  la  correspondiente industria y la forma  y  puntualidad  en  que  se  efectúan  los  pagos.  Para  el ejercicio  de la misma, cada comisión  podrá  designar  uno  o  más miembros de  su  seno, los que gozarán de las facultades atribuidas por los arts. 2 y  5  de  la  Ley  N.  11.570,  a  los  empleados y representantes del Departamento Nacional del Trabajo. Los  miembros de  comisión así designados responderán ante ella y el Departamento Nacional  del  Trabajo,  por  el  buen  desempeño  de sus tareas de inspección,  que  tendrán carácter de carga pública, sin  perjuicio de serles compensados  los  gastos  y pérdidas de tiempo de trabajo que les ocasionen con imputación al fondo  del  art.  38 de la ley."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 011570 1929 09 25 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 011570 1929 09 25 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 40,
+              "texto": "Art. 40.- Las asociaciones profesionales que hayan cumplido con las  disposiciones  del  capítulo  XI,  serán  admitidas a proponer delegados inspectores que podrán ser designados por el Departamento  Nacional  del  Trabajo,  para  ejercer  funciones  de inspectores  oficiales, compensables con imputación  al  fondo  del art.  38  de  la  ley.  Toda  designación  de  esta  naturaleza  se efectuará por el  tiempo  máximo  de  un  año, pero será renovable.\n\nSalvo autorización especial del Departamento  Nacional del Trabajo, para que estos inspectores actúen separadamente  con las facultades de  los  arts.  2  y 5 de la Ley N. 11.570, sus atribuciones  serán sólo la de acompañar  y  asesorar  a los funcionarios de inspección de  dicho  departamento  en  las  visita   y  actuaciones  para  la fiscalización  del  cumplimiento  de  la  Ley  N.  12.713,  y  esta reglamentación."
+            },
+            {
+              "numero-articulo": 41,
+              "texto": "Art.  41.-  Las  asociaciones  o  entidades  de  ayuda  a  los trabajadores  a  domicilio,  inscriptas  y  reconocidas como tales, conforme  a  lo  dispuesto  en  el  capítulo  XII,  serán   también admitidas  a  proponer  auxiliares  de  inspección  que tendrán las atribuciones señaladas en el último párrafo del artículo  anterior."
+            },
+            {
+              "numero-articulo": 42,
+              "texto": "Art.  42.-  Los  miembros  de toda comisión de salarios podrán también acompañar a los inspectores  del  Departamento Nacional del Trabajo en las visitas que éstos realicen,  para el cumplimiento de la  Ley  N.  12.713  y  de  esta  reglamentación,  con  respecto  a cualquier género de trabajo a domicilio."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO  XIV  De  las  comisiones  de salarios y de conciliación y arbitraje",
+          "articulo": [
+            {
+              "numero-articulo": 43,
+              "texto": "Art.  43.- El Departamento Nacional del Trabajo, de oficio o a pedido de alguna asociación profesional de la industria correspondiente, instituirá comisiones de salarios y de conciliación  y  arbitraje para las ramas de la industria en que se realice trabajo a domicilio."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "Art. 44.- Estas comisiones se integrarán con un número igual de representantes  patronales  y  obreros,  y serán presididas por una persona  ajena a los intereses de los dos sectores,  designada  por el  presidente    del    Departamento  Nacional  del  Trabajo.  Los representantes patronales  deberán  ser  patronos o técnicos, y los representantes obreros, trabajadores en ejercicio,  en su industria respectiva.\n\nLos  gastos  y  pérdidas  de tiempo de trabajo en que incurran  con motivo de sus funciones le  serán  compensados  con  imputación  al fondo del art. 38 de la ley."
+            },
+            {
+              "numero-articulo": 45,
+              "texto": "Art.  45.-  Los miembros de las comisiones durarán dos años en sus  funciones  y podrán  ser  reelectos.  Los  suplentes  actuarán solamente en defecto  de los titulares. Cualquier miembro designado una vez instituida una  comisión, completará el período de duración de la misma."
+            },
+            {
+              "numero-articulo": 46,
+              "texto": "Art.  46.-  A  los  efectos  de  la designación de los vocales patronales  y  obreros,  cada  vez  que  se vaya  a  instituir  una comisión de salarios y de conciliación y arbitraje  el Departamento Nacional del Trabajo citará a los representantes de las asociaciones  profesionales  inscriptas  que hubieren cumplido  los requisitos  establecidos  en el capítulo XI,  y  después  de  haber escuchado la opinión de los  mismos,  decidirá  sobre  el número de vocales  que  integrarán la comisión y sobre la proporción  que  se acordará a cada  asociación  patronal u obrera en la representación de  su  sector respectivo. Para  fijar  la  proporción  en  lo  que respecta  a  las  asociaciones  patronales,  se tendrá en cuenta la importancia comercial y número de los empresarios  asociados.  Para fijarla  en  lo que respecta a las asociaciones obreras,  se tendrá en cuenta, en  primer  lugar,  el  número  de  obreros  a domicilio asociados,  cotizantes agrupados en el sindicato, y, como  elemento auxiliar de juicio,  el número de obreros a domicilio adherentes no cotizantes, así como el  número  de socios cotizantes de la rama de industria  para  la  cual  vaya a constituirse  la  comisión.\n\nLa proporción en la representación  se  hará conforme a lo resuelto por las asociaciones de cada sector cuando  hubiere  acuerdo  entre ellas."
+            },
+            {
+              "numero-articulo": 47,
+              "texto": "Art.  47.-  Resuelta la proporción en las representaciones las asociaciones  indicarán    los   nombres  de  los  vocales  de  las comisiones. El Departamento Nacional  del  Trabajo,  procederá a su designación  siempre  que  no  tuvieran  antecedentes de condena  o sobreseimiento  provisional  en  delitos  castigados    con    pena corporal."
+            },
+            {
+              "numero-articulo": 48,
+              "texto": "Art.  48.-  En  las  ramas de industria en que sea habitual el empleo  de  talleristas, las  asociaciones  profesionales  que  los agremien  estarán  representadas  en  la  comisión  respectiva.  El Departamento  Nacional  del  Trabajo  resolverá  sobre el número de representantes,  que no podrá exceder de la sexta parte  del  total de los vocales de la comisión."
+            },
+            {
+              "numero-articulo": 49,
+              "texto": "Art. 49.- Cuando se trataren en la comisión tarifas de salarios que vayan a regir en beneficio de los talleristas, los representantes  de éstos emitirán el voto dentro del sector obrero.\n\nCuando se trataren  tarifas  de  salarios  que vayan a beneficiar a los  obreros  de  los  talleristas,  los  representantes  de  éstos emitirán  el voto dentro del sector patronal.  Cuando  la  comisión actuare en funciones de conciliación y arbitraje, los representantes  de  los  talleristas  emitirán  su  voto dentro del sector  patronal  u  obrero, según que el interés que estuviere  en juego en el conflicto  individual o colectivo afectare a uno u otro sector. Cuando se suscitaren  dudas  al  respecto, el presidente de la comisión resolverá en definitiva pudiendo  decidir la abstención de los representantes de los talleristas."
+            },
+            {
+              "numero-articulo": 50,
+              "texto": "Art.  50.-  Cuando  en  alguna rama de industria en que vaya a instituirse  una  comisión  de  salarios    y   de  conciliación  y arbitraje,  no existiere asociación patronal u obrera  que  hubiere cumplido  las  prescripciones  de  este  decreto,  el  Departamento Nacional  del    Trabajo  procederá  a  integrarla  de  oficio  con patronos, técnicos u obreros de la rama respectiva."
+            },
+            {
+              "numero-articulo": 51,
+              "texto": "Art. 51.- Los vocales de las comisiones de salarios podrán ser destituidos   por  el  presidente  del  Departamento  Nacional  del Trabajo en los siguientes casos:\n\na) Que fueren  condenados por delitos castigados con pena corporal;\n\nb) Que faltaren  sin  causa  justificada  a  más  del  20%  de  las reuniones  de  la comisión, realizadas en un período de seis meses.\n\nc) Que cometieren  faltas graves en el ejercicio de las funciones a que se refiere el art. 39;\n\nd) Que se comprobare  que la asociación que representan ha falseado los datos exigidos en el  capítulo XI de esta reglamentación; y\n\nf) Que por modificaciones en  la  constitución  de las asociaciones que  representan,  o  por  decisión  de éstas haya desaparecido  el carácter representativo que determinó su designación."
+            },
+            {
+              "numero-articulo": 52,
+              "texto": "Art.  52.-  Son  funciones  de las comisiones de salarios y de conciliación y arbitraje:\n\na) Fijar el salario o retribución  mínima  que  deberá abonarse por todo  trabajo a domicilio encargado a un intermediario,  tallerista u obrero a domicilio;\n\nb) Fijar  el salario o retribución mínima que deberá abonarse a los obreros o aprendices  que  trabajan  en  la  habitación o local del tallerista;\n\nc)  Fijar  el  salario  o retribución mínima que deberá  abonar  el obrero a domicilio al ayudante  o aprendiz que trabaje con él;\n\nd)  Actuar  como  conciliadores y arbitradores  en  todo  conflicto colectivo del trabajo  que  se  suscite  en  la  respectiva rama de industria de trabajo a domicilio; y\n\ne)  Actuar  como  arbitradores,  amigables  componedores,   en  las cuestiones  que  se  susciten  entre  un  patrono y un obrero de la respectiva  rama  de  industria  de  trabajo  a domicilio,  por  la reducción,  suspensión  o  supresión  de  trabajo  conforme   a  lo dispuesto en el art. 32 de la Ley N. 12.713."
+            },
+            {
+              "numero-articulo": 53,
+              "texto": "Art. 53.- Para el ejercicio de las funciones de las comisiones de  salarios  y  de  conciliación  y  arbitraje  se  aplicarán  las disposiciones  de  los  arts.  23,  24 y 25 de la ley. Actuará como secretario  un  empleado  del Departamento  Nacional  del  Trabajo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO XV De las tarifas de salarios mínimos",
+          "articulo": [
+            {
+              "numero-articulo": 54,
+              "texto": "Art. 54.- Las tarifas o salarios mínimos establecidos no podrán modificarse antes de los dos años de aprobados, salvo circunstancias   extraordinarias  que  apreciarán  las  comisiones.\n\nMientras  no se hayan  derogado  o  modificado,  se  mantendrán  en vigencia aunque  haya  transcurrido  el  plazo  mínimo de dos años."
+            },
+            {
+              "numero-articulo": 55,
+              "texto": "Art.  55.- Aprobada una tarifa de salarios, será comunicada al Departamento  Nacional  del Trabajo, quien requerirá su publicación en el Boletín Oficial. Después  de diez días de publicada no podrán abonarse salarios inferiores a los fijados en la misma."
+            },
+            {
+              "numero-articulo": 56,
+              "texto": "Art.  56.-  Los dadores de trabajo colocarán a la vista de los trabajadores en los  talleres  de  los  talleristas y en todo lugar donde  se  entregue  o  reciba  mercadería  para  ser  elaborada  a domicilio,  así  como  en  los  lugares  de  pago, las  tarifas  de salarios mínimos aprobadas por las comisiones  de  salarios para la rama de la industria que correspondan."
+            },
+            {
+              "numero-articulo": 57,
+              "texto": "Art.  57.-  El  Departamento  Nacional del Trabajo procederá a individualizar  con  números y/o letras  las  tarifas  de  salarios aprobadas hasta la fecha  según  la  Ley  N.  10.505,  que seguirán siendo válidas mientras no se deroguen o modifiquen, y las  que  se aprueben  en  el  futuro.  Individualizará  también con números y/o letras los rubros y adicionales de cada tarifa."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO XVI De la conciliación y arbitraje",
+          "articulo": [
+            {
+              "numero-articulo": 58,
+              "texto": "Art. 58.- Cuando se suscitare un conflicto colectivo de trabajo en alguna  rama de industria de trabajo a domicilio, la comisión de salarios y de  conciliación  y arbitraje respectiva se avocará a la solución del mismo. A estos efectos  iniciará  el  procedimiento de conciliación  tratando  de  llevar  a  las  partes  a  un  convenio colectivo del trabajo que ponga fin al conflicto."
+            },
+            {
+              "numero-articulo": 59,
+              "texto": "Art.  59.-  Si  el procedimiento de conciliación fracasara, la comisión se constituirá  en árbitro e invitará a las partes a fijar los  puntos que serán materia  del  laudo.  Si  las  partes  no  se pusieran  de  acuerdo  en  las materias o cuestiones a arbitrar, la comisión  las  determinará  de   oficio,  teniendo  en  cuenta  los antecedentes del conflicto."
+            },
+            {
+              "numero-articulo": 60,
+              "texto": "Art.  60.- Los convenios colectivos del trabajo concluidos por el procedimiento  de  conciliación, y el laudo arbitral, en defecto de aquéllos, serán obligatorios  para  las partes una vez aprobados por el Poder Ejecutivo.\n\nLos  convenios  colectivos  y  los laudos aprobados  por  el  Poder Ejecutivo  podrán  ser  extendidos    por   éste,  previo  dictamen favorable de la comisión y del Departamento  Nacional  del Trabajo, a los terceros no representados en ella."
+            },
+            {
+              "numero-articulo": 61,
+              "texto": "Art.  61.-  La  duración  de  los  convenios y laudos no podrá extenderse a más de tres años, pudiendo ser  modificados  antes  de ese  plazo  por  el  procedimiento establecido para su elaboración."
+            },
+            {
+              "numero-articulo": 62,
+              "texto": "Art.  62.-  La  violación de los convenios y disposiciones del laudo  aprobados  por el  Poder  Ejecutivo,  hará  pasibles  a  los infractores de las  penalidades  establecidas  en  el art. 31 de la ley  que  se reglamenta. Las mismas penalidades serán  aplicadas  a aquellos que  dificulten con sus actos u omisiones las funciones de conciliación y arbitraje de las comisiones."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO  XVII De la reducción, suspensión o supresión arbitraria o injustificada del trabajo",
+          "articulo": [
+            {
+              "numero-articulo": 63,
+              "texto": "Art. 63.- Los obreros a domicilio, pasado el período de prueba a que  se  refiere  el art. 19, podrán reclamar ante la comisión de salarios y de conciliación  y  arbitraje  de  la respectiva rama de industria,  por  reducción,  suspensión  o supresión  arbitraria  o injustificada  de  trabajo.  La  misma acción  podrán  ejercer  los obreros de los talleristas que tengan  tres  meses de antiguedad en su empleo."
+            },
+            {
+              "numero-articulo": 64,
+              "texto": "Art. 64.- El reclamo se formulará verbalmente y se levantará un acta  de  la  exposición del reglamento, de la que se dará traslado por tres días al  demandado.  Este  contestará  el reclamo en forma verbal y actuada, en audiencia a la que comparecerán  ambas  partes y  en  la  que  podrán  alegar  todo  lo  que  crean oportuno.\n\nDentro de cuarenta y ocho horas, de celebrada esta  audiencia,  las partes  pedirán por escrito la prueba que consideren pertinente, la que deberá producirse dentro de los diez días, salvo circunstancias  excepcionales  que  apreciará  el  presidente de la comisión.\n\nProducida  la  prueba  o terminada el período para producirla,  las partes comparecerán a audiencia y alegarán lo que crean pertinente. Celebrada esta  audiencia,  se  dictará  el fallo en el término de veinte días.\n\nLas  audiencias  podrán  celebrarse  con  la  sola  presencia   del presidente  de  la  comisión  o  de  alguno  de  los  empleados del Departamento  Nacional  del  Trabajo  adscriptos  a  la misma.  Las providencias  procesales  serán  dictadas por el presidente  de  la comisión.  La  sentencia  será  pronunciada    por    la  comisión, aplicándose lo dispuesto en el art. 25 de la ley."
+            },
+            {
+              "numero-articulo": 65,
+              "titulo-articulo": "CAPITULO XVIII De las sanciones",
+              "texto": "Art. 65.- Toda infracción por hechos u omisiones a la Ley N. 12 713,  o a esta reglamentación, será penada en la forma dispuesta en el tít. IV de esa ley."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO XIX Disposiciones varias",
+          "articulo": [
+            {
+              "numero-articulo": 66,
+              "texto": "Art. 66.- Las dependencias del Estado no podrán aceptar en las licitaciones    de   artículos  a  elaborar  a  domicilio,  precios inferiores al costo corriente  de la materia prima y al valor de la mano de obra calculado de acuerdo  a  las tarifas aprobadas por las comisiones de salarios."
+            },
+            {
+              "numero-articulo": 67,
+              "texto": "Art. 67.- Las dependencias del Estado informarán al Departamento  Nacional  del  Trabajo,  dentro de tercero día, sobre las  licitaciones  adjudicadas en adquisición  de  mercaderías  que será materia de trabajo a domicilio."
+            },
+            {
+              "numero-articulo": 68,
+              "texto": "Art.  68.-  La  autoridad  de aplicación dará a publicidad los nombres  de los dadores de trabajo  que  demuestren  un  estado  de peligrosidad  por  la reiteración o gravedad de infracciones. Estos nombres serán comunicados  a  las  dependencias  del  Estado  a los fines  de  que éstas los eliminen de las listas de sus proveedores."
+            },
+            {
+              "numero-articulo": 69,
+              "texto": "Art.  69.-  El  Departamento Nacional del Trabajo podrá dictar resoluciones aclaratorias  de este decreto, las que se considerarán como formando parte del mismo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO XX Disposiciones transitorias",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 010505 1918 09 27 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 70,
+              "texto": "Art.  70.-  Las disposiciones de los capítulos III, IV, V, VI, VII y X se irán cumpliendo  por  patronos  y  obreros  dentro de un plazo  que  terminará el 30 de setiembre próximo. Hasta esta  fecha se  entenderá    que    cumplen  las  disposiciones  legales  sobre contralor, si se ajustan  a las disposiciones de la Ley derogada N.\n\n10.505, decreto reglamentario  y  resoluciones  complementarias  de esa  ley  dictadas  por  el Departamento Nacional del Trabajo.\n\nLas asociaciones que aspiren  a  gozar  de  los  derechos  que  les acuerda  la  ley  que se reglamenta y este decreto, deberán cumplir antes del 1 de junio  de  1942,  con las disposiciones establecidas en los capítulos XI y XII."
+            },
+            {
+              "numero-articulo": 71,
+              "texto": "Art. 71.- El Departamento Nacional del Trabajo podrá confirmar o renovar  las  comisiones  de  salarios  constituidas según la ley derogada,  a  los  efectos  de  ajustar  su  funcionamiento  a  las disposiciones  de  la  ley  que  se reglamenta y de  este  decreto."
+            },
+            {
+              "numero-articulo": 72,
+              "texto": "Art. 72.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "CASTILLO - CULACIATI"
+          }
+        }
+      ],
+      "id-infojus": "DN19421018755"
+    }
+  }
+}

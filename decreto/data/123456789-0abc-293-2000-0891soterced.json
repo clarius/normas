@@ -1,0 +1,507 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-293-2000-0891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989417316,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "2392-nacional-decreto-reglamentario-ley-promocion-agropecuaria-dn19800002392-1980-11-14"
+      }
+    },
+    "content": {
+      "mecanografico": 19800002392,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 2392,
+      "timestamp-m": "2012-04-23T15:24:31",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1980-11-14",
+      "standard-normativo": "DEC C 002392 1980 11 14",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY DE PROMOCION AGROPECUARIA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1980 11 21"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 2.392/1980",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2012-04-23",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 22.211 QUE ESTABLECE UN REGIMEN PROMOCIONAL DESTINADO A INCREMENTAR LA PRODUCCION AGROPECUARIA EN TIERRAS RURALES DE BAJA PRODUCTIVIDAD. SE DIVIDE AL PAIS EN ZONAS PARA DETERMINAR LOS MONTOS MAXIMOS DESGRAVABLES POR HECTAREA.",
+        "anexos-decreto": {
+          "anexo-ley": "A ZONAS"
+        },
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 022211 1980 04 23 0008 000 0009 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "actividad agropecuaria"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "promoción agropecuaria"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción/promoción agropecuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "fomento agrícola",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "zonas de frontera"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/territorio/límites de la Nación/zonas de frontera"
+            },
+            "sinonimos": {
+              "termino": "fronteras"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Jujuy"
+            },
+            "preferido": {
+              "termino": "Jujuy"
+            },
+            "sinonimos": {
+              "termino": "Provincia de Jujuy"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Salta"
+            },
+            "preferido": {
+              "termino": "Salta"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Tucumán"
+            },
+            "preferido": {
+              "termino": "Tucumán"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Catamarca"
+            },
+            "preferido": {
+              "termino": "Catamarca"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "La Rioja"
+            },
+            "preferido": {
+              "termino": "La Rioja"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Santiago del Estero"
+            },
+            "preferido": {
+              "termino": "Santiago del Estero"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Formosa"
+            },
+            "preferido": {
+              "termino": "Formosa"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Santa Fe"
+            },
+            "preferido": {
+              "termino": "Santa Fe"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Misiones"
+            },
+            "preferido": {
+              "termino": "Misiones"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Corrientes"
+            },
+            "preferido": {
+              "termino": "Corrientes"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Entre Ríos"
+            },
+            "preferido": {
+              "termino": "Entre Ríos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Córdoba"
+            },
+            "preferido": {
+              "termino": "Córdoba"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "San Luis"
+            },
+            "preferido": {
+              "termino": "San Luis"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Mendoza"
+            },
+            "preferido": {
+              "termino": "Mendoza"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "San Juan"
+            },
+            "preferido": {
+              "termino": "San Juan"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Provincia de Buenos Aires"
+            },
+            "preferido": {
+              "termino": "Provincia de Buenos Aires"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "La Pampa"
+            },
+            "preferido": {
+              "termino": "La Pampa"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Neuquén"
+            },
+            "preferido": {
+              "termino": "Neuquén"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Río Negro"
+            },
+            "preferido": {
+              "termino": "Río Negro"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Chubut"
+            },
+            "preferido": {
+              "termino": "Chubut"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Santa Cruz"
+            },
+            "preferido": {
+              "termino": "Santa Cruz"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Tierra del Fuego"
+            },
+            "preferido": {
+              "termino": "Tierra del Fuego"
+            },
+            "sinonimos": {
+              "termino": [
+                "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+                "Territorio Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Jujuy",
+            "reglamento de ejecución (decreto reglamentario)",
+            "Misiones",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "Tucumán",
+            "Corrientes",
+            "promoción agropecuaria",
+            "política económica",
+            "fronteras (límites de la Nación)",
+            "Economía y finanzas",
+            "Derecho administrativo",
+            "derecho financiero (Economía y finanzas)",
+            "Entre Ríos",
+            "San Luis",
+            "Salta",
+            "derecho económico financiero (Economía y finanzas)",
+            "La Pampa",
+            "Mendoza",
+            "La Rioja",
+            "Santa Fe",
+            "acto administrativo",
+            "política productiva",
+            "Santa Cruz",
+            "decreto reglamentario",
+            "zonas de frontera",
+            "Tierra del Fuego",
+            "ganadería (actividad agropecuaria)",
+            "reglamentos",
+            "Tierra del Fuego, Antártida e Islas del Atlántico Sur (Tierra del Fuego)",
+            "agricultura (actividad agropecuaria)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "Catamarca",
+            "Provincia de Jujuy (Jujuy)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "San Juan",
+            "Córdoba",
+            "Actividades económicas",
+            "Santiago del Estero",
+            "Neuquén",
+            "Provincia de Buenos Aires",
+            "Formosa",
+            "Chubut",
+            "regímenes de promoción",
+            "Río Negro",
+            "Derecho constitucional",
+            "Estado",
+            "territorio",
+            "actividad agropecuaria",
+            "límites de la Nación",
+            "fomento agrícola (promoción agropecuaria)",
+            "Territorio Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur (Tierra del Fuego)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 022211 1980 04 23 0000 000 0000 000"
+          }
+        },
+        "texto": "la  Ley 22.211 por la cual se establece un régimen promocional destinado  a  incrementar  la  producción  agropecuaria  en tierras rurales de baja productividad, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001848 1980 09 08 0008 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 001848 1980 09 08 0009 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 001848 1980 09 08 0025 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que por Decreto Nro. 1.848 de fecha 8 de setiembre de 1980, se dispuso  la  reglamentación  de  la  misma,  con  excepción  de los artículos 8 y 9.\n\nQue    en    consecuencia  se  hace  necesario  complementar  dicha reglamentación,  autorizando  los  montos  máximos desgravables por hectárea, conforme al tipo de explotación que  se  realice  y a los factores  limitantes  que  definen  la condición de tierras de baja productividad para las distintas regiones  del  país,  previendo un beneficio  diferencial  para  aquellas  zonas de nuestro territorio que demandan una mayor promoción, tales como  las Areas de Frontera y la Zona Patagónica, a efectos de que la mencionada  Ley  adquiera plena vigencia.\n\nQue  el  PODER EJECUTIVO NACIONAL se halla facultado a adoptar  tal decisión en  virtud  de  lo  dispuesto en el artículo 25 de aquélla"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.-  A  los efectos de determinar los montos máximos desgravables  por  hectárea,   se  divide  el  país  en  las  zonas detalladas  en el Anexo I que forma  parte  del  presente  decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO 2.- Se establecen los montos máximos desgravables, en pesos  por  hectárea,  para  los  diversos  tipos  de explotación o actividad,  para  cada  condición  limitante  y  según  las   zonas definidas    en    el  artículo  anterior.  Dichos  montos  máximos desgravables serán:\n\na) Para los Planes de  Inversión  que incluyan como única actividad alguna  de  las  indicadas  en el Anexo  II  que  forma  parte  del presente  decreto, los montos  específicamente  allí  establecidos.\n\nb) Para los  Planes de Inversión que incluyan dos o más actividades de las indicadas  en  el Anexo II, los que surjan de la ponderación de los montos establecidos  para las actividades, por la superficie asignada a cada una de ellas  en  el Plan de Inversiones. Al efecto el monto máximo desgravable será el  resultante de realizar la suma de  los  productos  del  monto asignado a  cada  actividad  por  su superficie, dividida por la  superficie  del predio sujeta al Plan.\n\nCuando  en  una misma superficie se proyecte  realizar  actividades sucesivas, solamente  se  considerará  para  la  determinación  del monto  máximo desgravable la que se realice en primer término.\n\nEn el caso  que  el  Plan  de  Inversiones contemple la realización simultánea de más de una actividad  de  las  definidas  en el Anexo II, sobre la misma superficie, se considerará para la determinación  del  monto  máximo desgravable una sola de ellas,  a elección del titular del Plan."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.- El valor máximo a desgravar por hectárea, al que se refiere el Artículo  9  de  la Ley 22.211, será el que surja del Plan  de  Inversiones  o  del establecido  de  conformidad  con  el procedimiento del Artículo  2  del  presente  decreto, el que fuere menor."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.- Se entenderá por superficie del predio sujeta al Plan, para las condiciones de:\n\na) Anegamiento,  Salinidad  y  Superficie  Boscosa  Natural,  a  la totalidad  de  la  superficie  en  la  que  se proyecte eliminar la condición limitante.\n\nb)  Aridez  y  Mejoramiento de la Utilización del  Recurso  Natural mediante  la  Aplicación  de  Tecnología,  a  la  totalidad  de  la superficie sobre  la  cual  se  proyecte  efectuar  las inversiones destinadas a incrementar la producción agropecuaria."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  Los montos máximos a los que hace referencia el Artículo  2  sólo  se  aplicarán  a  los  tipos  de  explotación  o actividades  y zonas establecidas  expresamente  en  el  Anexo  II."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO  6.-  Las  forestaciones  y  enriquecimientos  que sustituyan    total  o  parcialmente  a  las  formaciones  boscosas naturales o las  forestaciones  que se implanten en tierras rurales con definidas condiciones de aridez,  anegamiento o salinidad serán consideradas únicamente para las zonas  y especies indicadas en los Anexos II y IV del presente decreto, respectivamente."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTICULO  7.-  A  los  efectos  de  la aplicación del presente decreto se entenderá por:\n\na) AGRICULTURA: La realización de cultivos  de  cosecha, cualquiera sea  su  ciclo,  incluídos  los  forrajeros  que se destinen  a  la producción  de  semilla  o  de  pasto  para comercialización.\n\nb) GANADERIA: La realización de cualquier  producción bovina, ovina o  equina  mediante  la  utilización  de  pasturas    naturales   o artificiales.\n\nc)  RIEGO:  La  realización de cultivos con aportes artificiales de agua provenientes  del  empleo  de cualquier sistema de riego.\n\nd)  FORESTACION:  La  implantación  en   macizos  y  trincheras  de especies arbóreas en superficies no menores  a  DOS (2) hectáreas y con  la  densidad  mínima  de  plantación  establecida    para  las distintas  especies  en  el  Anexo III que forma parte del presente decreto.\n\ne)  ENRIQUECIMIENTO:  La  implantación   de  un  mínimo  de  CIENTO CINCUENTA  (150)  ejemplares de especies forestales  por  hectárea, dentro de una masa  boscosa espontánea contínua, con una superficie no inferior a CINCUENTA  (50)  hectáreas, utilizada totalmente para tal fin.\n\nf) ORDENACION FORESTAL: La realización  del  estudio  desocrático y la aplicación de las normas silviculturales emergentes  del  mismo, en una superficie boscosa espontánea contínua no inferior a las  UN MIL (1.000) hectáreas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 018575 1970 01 30 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.-  Los  Planes  de  Inversión  que  incluyan  como actividades  agricultura  o ganadería de secano, en las tierras con definidas condiciones de aridez,  deberán contemplar necesariamente el  desarrollo  integral  de  la superficie  afectada  mediante  la realización de obras de infraestructura que permitan su habilitación permanente. No se  dará  curso a planes que consideren como  única  inversión la realización de  cultivos,  o  los  gastos operativos de la actividad ganadera.\n\nEn la Zona Patagónica  y en las Areas de Frontera (Ley 18.575 y sus decretos reglamentarios)  no  se  considerará  mejoramiento  de  la utilización    del   recurso  natural  mediante  la  aplicación  de tecnología la mera adquisición de ganado."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO  9.-  Comuníquese,  publíquese,  dése  a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "VIDELA -  MARTINEZ DE HOZ"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "ZONAS",
+        "articulo": {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 018575 1970 01 30 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 000135 1977 00 00 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 000955 1979 00 00 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "DEC C 000759 1980 00 00 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_4",
+                "ref": "DEC C 000362 1976 00 00 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_5",
+                "ref": "DEC C 002630 1977 09 02 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "1.- Provincias de JUJUY, SALTA y TUCUMAN, excluída la zona 29.\n\n2.- Provincias de CATAMARCA y LA RIOJA.\n\n3.- Provincia de SANTIAGO DEL ESTERO.\n\n4.- Provincia  de  FORMOSA,  los  Departamentos  BERMEJO,  MATACOS, PATIÑO  y  RAMON  LISTA;  Provincia  del  CHACO,  los Departamentos ALMIRANTE BROWN, CHACABUCO, 12 DE OCTUBRE, FRAY JUSTO  SANTA  MARIA DE ORO, GENERAL BELGRANO, GENERAL GUEMES, INDEPENDENCIA, MAIPU  y 9 DE JULIO, excluída la zona 30.\n\n5.-  Provincia  de  FORMOSA,  los  Departamentos  FORMOSA,  LAISHI, PILAGAS, PILCOMAYO y PIRANE; Provincia del CHACO, los Departamentos   BERMEJO,  COMANDANTE  FERNANDEZ,  GENERAL  DONOVAN, LIBERTAD, LIBERTADOR  GENERAL  SAN  MARTIN,  MAYOR LUIS J. FONTANA, O'HIGGINS,  PRESIDENCIA  DE  LA  PLAZA, 1 DE MAYO,  QUITILIPI,  SAN FERNANDO, SAN LORENZO, SARGENTO CABRAL,  TAPENAGA  y  25  DE  MAYO, excluída la zona 31.\n\n6.- Provincia de SANTA FE, excluída la zona 14.\n\n7.- Provincia de MISIONES, excluída la zona 32.\n\n8.- Provincia de CORRIENTES.\n\n9.- Provincia de ENTRE RIOS, excluída la zona 14.\n\n10.-  Provincia de CORDOBA, los Departamentos CALAMUCHITA, CAPITAL, COLON,  CRUZ DEL EJE, ISCHILIN, MINAS, POCHO, PUNILLA, RIO PRIMERO, RIO  SECO,  SAN  ALBERTO,  SAN  JAVIER,  SANTA  MARIA,  SOBREMONTE, TOTORAL y TULUMBA.\n\n11.- Provincia  de CORDOBA, los Departamentos GENERAL ROCA, GENERAL SAN MARTIN, JUAREZ  CELMAN,  MARCOS  JUAREZ, PRESIDENTE ROQUE SAENZ PEÑA, RIO CUARTO, RIO SEGUNDO, SAN JUSTO,  TERCERO  ARRIBA y UNION.\n\n12.- Provincia de SAN LUIS.\n\n13.- Provincias de MENDOZA y SAN JUAN.\n\n14.-  Delta  Santafecino  y  Entrerriano  del  Paraná  (las   islas pertenecientes  a  la  Provincia  de  SANTA FE en los Departamentos CAPITAL, SAN JERONIMO, SAN LORENZO, ROSARIO  y  CONSTITUCION, y las de  la  Provincia  de  ENTRE  RIOS  en  los  Departamentos  PARANA, DIAMANTE, VICTORIA, GUALEGUAY y GUALEGUAYCHU).\n\n15.- Delta Bonaerense del RIO PARANA (las islas  de la Provincia de BUENOS  AIRES  correspondientes  a  los  Partidos  de SAN  NICOLAS, RAMALLO,  SAN  PEDRO, BARADERO, ZARATE, CAMPANA, TIGRE,  ESCOBAR  y SAN FERNANDO).\n\n16.- Provincia de  BUENOS  AIRES  en  la Zona Ribereña (Terrazas de inundación de los Ríos PARANA, PARANA DE  LAS  PALMAS y de LA PLATA ubicadas  en  los  Partidos  de  SAN NICOLAS, RAMALLO,  SAN  PEDRO, BARADERO, ZARATE, CAMPANA, ESCOBAR,  TIGRE,  AVELLANEDA  (a  partir del  Canal  Domínico),  QUILMES,  BERAZATEGUI,  ENSENADA, BERISSO y MAGDALENA.\n\n17.- Provincia de BUENOS AIRES. Todos los Partidos  excepto  los de PATAGONES  y  VILLARINO,  las  Islas  del  Delta Bonaerense del Río Paraná y la Zona Ribereña.\n\n18.-  Provincia  de  BUENOS  AIRES,  los Partidos  de  PATAGONES  y VILLARINO.\n\n19.-  Provincia  de LA PAMPA, los Departamentos  ATREUCO,  CAPITAL, CATRILO,  CONHELO,    CHAPALEUFU,  GUATRACHE,  MARACO,  QUEMUQUEMU, RANCUL, REALICO y TRENEL.\n\n20.-  Provincia  de  LA PAMPA  en  los  Departamentos  CALEU-CALEU, CURACO, CHALILEO, CHICAL  CO,  HUCAL,  LIHUEL CALEL, LIMAY MAHUIDA, LONVENTUE, PUELEN, TOAY y UTRACAN.\n\n21.- Provincia del NEUQUEN; Provincia de RIO NEGRO, los Departamentos BARILOCHE, ÑORQUINCO y PILCANIYEU,  excluída  la zona 33.\n\n22.- Provincia de RIO NEGRO, los Departamentos AVELLANEDA, EL  CUY, GENERAL  ROCA,  NUEVE  DE  JULIO,  SAN  ANTONIO,  VALCHETA  y 25 DE MAYO.\n\n23.-  Provincia  de  RIO  NEGRO,  los  Departamentos ADOLFO ALSINA, CONESA y PICHI-MAHUIDA.\n\n24.-  Provincia  del CHUBUT, los Departamentos  BIEDMA,  ESCALANTE, FLORENTINO AMEGHINO y RAWSON.\n\n25.- Provincia de SANTA CRUZ; Provincia de CHUBUT, los Departamentos CUSHAMEN,  FUTALEUFU,  GASTRE,  LANGUIÑEO,  MARTIRES, PASO  DE  INDIOS,  RIO  SENGUERR,  SARMIENTO,  TEHUELCHES y TELSEN, excluída la zona 34.\n\n26.- TIERRA DEL FUEGO.\n\n27.-  Bajos Submeridionales, comprendiendo los Departamentos  9  DE JULIO,  VERA  y OBLIGADO de la Provincia de SANTA FE, Departamentos FRAY JUSTO SANTA  MARIA  DE  ORO, MAYOR LUIS J. FONTANA, TAPENAGA y SAN FERNANDO de la Provincia del  CHACO  y  Departamentos BRIGADIER JUAN FELIPE IBARRA, GENERAL TABOADA y BELGRANO  de  la Provincia de SANTIAGO DEL ESTERO.\n\n28.- Todo el país a excepción de las zonas definidas  como  14, 15, 16, 17, 18 y 27.\n\n29.- Area de Frontera TARTAGAL (Ley 18.575 - Decreto 135/77).\n\n30.-  Area  de  Frontera JUAREZ (Ley 18.575 - Decreto 955/79).\n\n31.- Area de Frontera  CLORINDA (Ley 18.575 - Decreto 955/79).\n\n32.- Area de Frontera BERNARDO  DE  IRIGOYEN  (Ley 18.575 - Decreto 759/80).\n\n33.- Areas de Frontera CHOS MALAL y ALUMINE (Ley  18.575 - Decretos 362/76 y 759/80).\n\n34.- Areas de Frontera EPUYEN, CORCOVADO, SENGUERR,  PERITO MORENO, CALAFATE  y  RIO  TURBIO (Ley 18.575 - Decretos 362/76, 2.630/77  y 759/80)."
+        }
+      },
+      "id-infojus": "DN19800002392"
+    }
+  }
+}

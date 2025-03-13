@@ -1,0 +1,247 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-432-1000-0991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989222835,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1234-nacional-reordenamiento-organico-provisorio-ministerio-interior-dn19900001234-1990-06-28"
+      }
+    },
+    "content": {
+      "mecanografico": 19900001234,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1234,
+      "timestamp-m": "2012-05-04T16:31:20",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1990-06-28",
+      "standard-normativo": "DEC C 001234 1990 06 28",
+      "titulo-norma": "REORDENAMIENTO ORGANICO PROVISORIO DEL MINISTERIO DEL INTERIOR",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1990 07 06"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 1",
+            "id": "MODIFICA0",
+            "ref": "DEC C 000479 1990 00 00 0001 000"
+          },
+          {
+            "cr": "POR ART. 5",
+            "id": "OBSERVA A1",
+            "ref": "DEC C 001437 1982 12 06 0000 000"
+          },
+          {
+            "cr": "POR ART. 8",
+            "id": "OBSERVA A2",
+            "ref": "DEC C 001275 1981 09 08 0000 000"
+          },
+          {
+            "cr": "POR ART. 8",
+            "id": "OBSERVA A3",
+            "ref": "DEC C 000332 1982 08 12 0000 000"
+          },
+          {
+            "cr": "POR ART. 8",
+            "id": "OBSERVA A4",
+            "ref": "DEC C 001526 1986 08 28 0000 000"
+          },
+          {
+            "cr": "POR ART. 8",
+            "id": "OBSERVA A5",
+            "ref": "DEC C 000644 1989 08 31 0000 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "B.O.  91-04-19",
+          "id": "OBSERVADO POR0",
+          "ref": "DEC C 000645 1991 04 12 0002 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.234/1990",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2012-05-04",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE APRUEBA EL REORDENAMIENTO ORGANICO PROVISORIO DEL MINISTERIO DEL INTERIOR HASTA QUE SE ADOPTEN LAS NORMAS QUE DOTEN AL MISMO DE SU ESTRUCTURA ORGANICO-FUNCIONAL DEFINITIVA.",
+        "anexos-decreto": {
+          "anexo-ley": "A ANEXO I MISION DE LAS SUBSECRETARIAS"
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION    DEROGASE LA PARTE CORRESPONDIENTE AL MINISTERIO DEL INTERIOR  POR ART. 2 DEL DEC. 645/91."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Administración Pública Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/Administración Pública Nacional"
+            },
+            "sinonimos": {
+              "termino": "función pública"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio del Interior"
+            },
+            "preferido": {
+              "termino": "Ministerio del Interior y Transporte"
+            },
+            "sinonimos": {
+              "termino": "Ministerio del Interior"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "estructura orgánica"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/administración centralizada/organismos del Estado/estructura orgánica"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades gubernamentales",
+                "órgano administrativo",
+                "organismos centralizados",
+                "entes públicos",
+                "función pública",
+                "organismos administrativos",
+                "organismos públicos",
+                "reparticiones nacionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "organismos centralizados (administración centralizada)",
+            "organismos públicos (organismos del Estado)",
+            "función pública (Administración Pública)",
+            "administración centralizada",
+            "Administración Pública Nacional",
+            "Ministerio del Interior y Transporte",
+            "entidades gubernamentales (organismos del Estado)",
+            "Administración Pública",
+            "organismos administrativos (organismos del Estado)",
+            "Ministerio del Interior (Ministerio del Interior y Transporte)",
+            "estructura orgánica",
+            "organismos del Estado",
+            "reparticiones nacionales (organismos del Estado)",
+            "órgano administrativo (organismos del Estado)",
+            "Derecho administrativo",
+            "entes públicos (organismos del Estado)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "DEC C 000479 1990 03 14 0000 000 0000 000"
+          }
+        },
+        "texto": "el Decreto N. 479 del 14 de marzo de 1990, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001437 1982 12 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "TOR C 022520 1981 12 21 0009 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  por el mencionado acto administrativo se aprobó una nueva conformación  para el MINISTERIO DEL INTERIOR, resultando necesario en consecuencia,  aprobar  su  estructura  orgánico-funcional.\n\nQue la preparación y adopción de dicha estructura  podría  demandar un  período  de tiempo que exceda el adecuado para el continuado  y eficiente funcionamiento del citado Ministerio.\n\nQue  resulta  procedente    adoptar    medidas   provisionales  que posibiliten la gestión normal del MINISTERIO DEL  INTERIOR hasta la aprobación de su estructura definitiva.\n\nQue,  atento  a  la  situación descripta, es menester exceptuar  al citado  Ministerio  de  las    Normas  para  Estructuras  Orgánicas aprobadas por el Decreto N. 1.437  del 6 de diciembre de 1982.\n\nQue  la  medida  propuesta  encuentra amparo  en  las  atribuciones conferidas al PODER EJECUTIVO  NACIONAL  por el artículo 86, inciso 1)  de  la  CONSTITUCION NACIONAL y el Artículo  9  de  la  Ley  de Ministerios."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.-  (Nota  de redacción) SUSTITUYE EN EL ART. 1 DEL DECRETO  479/90,  LA  PARTE  CORRESPONDIENTE    AL  MINISTERIO  DEL INTERIOR -APARTADO II-"
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  Apruébase  el siguiente reordenamiento orgánico provisorio del MINISTERIO DEL INTERIOR -Administración Centralizada- hasta tanto se adopten  las normas que doten al mismo de su estructura orgánico-funcional definitiva:\n\nMINISTERIO DEL INTERIOR\n\n-  Dirección  General  de Planeamiento y Control  de  Gestión\n\n- Dirección Nacional de Seguridad Interior\n\nI - SUBSECRETARIA DEL INTERIOR\n\n- Dirección General de Política Legislativa.\n\n- Dirección General de Reforma Institucional\n\n- Dirección General de Provincias\n\n- Dirección General de Relaciones Económicas\n\nII  - SUBSECRETARIA DE ACCION  POLITICA  Y  DERECHOS  HUMANOS\n\n- Dirección General de Asuntos Políticos\n\n- Dirección General de Asuntos Sociales\n\n- Dirección General de Asuntos Comunitarios\n\n- Dirección General de Programación y Planeamiento\n\n- Dirección  General  de  Prevención  de  los Derechos Humanos\n\n-  Dirección  General  de  Promoción de los Derechos  Humanos\n\nIII - SUBSECRETARIA DE ASUNTOS INSTITUCIONALES\n\n- Dirección Nacional de Migraciones\n\n- Dirección Nacional Electoral\n\n- Dirección General de Política Demográfica\n\nIV - SUBSECRETARIA DE COORDINACION\n\n- Dirección General de Recursos Humanos\n\n- Dirección General de Servicios\n\n- Dirección de Despacho\n\n-  Dirección  General  del  Archivo   General  de  la  Nación\n\n- Dirección General de Sistemas\n\n- Dirección General de Contabilidad y Finanzas\n\n- Dirección de Sumarios\n\n- Dirección General de Obra Social\n\n- Dirección General de Asuntos Jurídicos\n\n- Dirección General Técnico Administrativa"
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO 3.- Apruébanse las misiones de las Subsecretarías que se detallan  en el Anexo I que forma parte integrante del presente."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO 4.- Facúltase al señor Ministro del Interior a definir provisionalmente,  hasta  la  aprobación  por  el  PODER  EJECUTIVO NACIONAL  de  la  Estructura Orgánico-funcional del MINISTERIO  DEL INTERIOR, las misiones  y  funciones de las Direcciones Nacionales, Direcciones Generales, Direcciones  y restantes organismos de dicho Departamento de Estado."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  Exceptúase  al  MINISTERIO  DEL INTERIOR de las Normas  para Estructuras Orgánicas aprobadas por Decreto  el  N.  1 437 del 6 de diciembre de 1982."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO  6.-  Las  dotaciones  de  personal de los organismos reemplazados pasarán a prestar servicios en  los que, en virtud del presente  decreto,  cumplan las misiones y funciones  de  aquéllos."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTICULO  7.-  Hasta tanto se apruebe la pertinente estructura orgánica, las misiones  y funciones, dotaciones de personal y otros recursos  de  la ex-Dirección  General  de  Política,  ex-Dirección General  de  Promoción    y  ex-Dirección  General  de  Prevención, suprimidas y/o modificadas  por  el  presente, serán absorbidos por la SUBSECRETARIA DE ACCION POLITICA Y DERECHOS HUMANOS."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO 8.- Derógase la parte correspondiente a la Administración Centralizada, de los organigramas de las estructuras  orgánicas aprobadas por los Decretos N. 1.275 de fecha 8 de setiembre  de 1981, 332 del 12 de agosto de 1982, 1.526 del 28 de agosto de 1986  y  644  del  31  de  agosto de 1989, así como el Anexo I al artículo 2 del Decreto N. 479  del  14 de marzo de 1990."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO  9.-  Establécese  un  plazo  de CUARENTA (40) días a partir de la fecha del presente decreto para  que el MINISTERIO DEL INTERIOR  eleve  a  consideración del PODER EJECUTIVO  NACIONAL  la estructura  orgánica  definitiva  de  su  respectiva  Jurisdicción, elaborada conforme a las disposiciones vigentes."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "ARTICULO  10.-  Comuníquese,  publíquese,  dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM -  MERA FIGUEROA"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "MISION  DE  LAS  SUBSECRETARIAS  DEL INTERIOR, DE ACCION POLITICA Y DERECHOS  HUMANOS, DE ASUNTOS INSTITUCIONALES  Y  DE  COORDINACION.",
+        "articulo": {
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1:\n\nI - SUBSECRETARIA DEL INTERIOR ##                             MISION:\n\nEntender  en  las  reformas  institucionales  y  de la Constitución Nacional,  en  la ejecución de planes, programas y proyectos  y  en las cuestiones que se planteen, relacionadas con las jurisdicciones provinciales  y  la  Municipalidad  de  la Ciudad de Buenos Aires.\n\nII - SUBSECRETARIA DE ACCION POLITICA Y DERECHOS HUMANOS ##                           MISION:\n\nEntender  en el establecimiento de pautas destinadas a orientar  el desarrollo  coordinado de los planes y programas referidos a cursos de acción política  y  a determinar la aplicabilidad de los mismos;\n\ncomo así también en los  asuntos relacionados con el respeto de los derechos humanos en el país  y  el  cumplimiento  de las normas que los reconocen y reglamentan, y difundir su conocimiento  a  fin  de reafirmar en la sociedad su valor y fundamento.\n\nIII - SUBSECRETARIA DE ASUNTOS INSTITUCIONALES ##                             MISION:\n\nEntender  en  la propuesta y cumplimiento de las normas referidas a la política migratoria  interna  y  externa y en la ejecución de la política  demográfica,  como así también  en  la  Ley  Electoral  y empadronamiento y en la supervisión  del  Registro  Nacional de las Personas.\n\nIV - SUBSECRETARIA DE COORDINACION ##                           MISION:\n\nEntender  en  la  compatibilización  y  coordinación  de  las áreas integrantes  de  la  Jurisdicción ministerial, en la centralización de las actividades de  apoyo,  necesarias  para  el  funcionamiento interno,  en los actos de carácter patriótico, las efemérides,  los feriados, la  custodia  de  emblemas  y símbolos nacionales y en el uso de emblemas y símbolos extranjeros  y  en  la  supervisión  del Archivo General de la Nación y de la Obra Social."
+        }
+      },
+      "id-infojus": "DN19900001234"
+    }
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-692-1100-9491soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989379542,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "11296-nacional-decreto-reglamentario-ley-12981-sobre-trabajadores-relacion-dependencia-dn19490011296-1949-05-12"
+      }
+    },
+    "content": {
+      "mecanografico": 19490011296,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 11296,
+      "timestamp": "2014-07-17T21:54:58",
+      "timestamp-m": "2014-07-17T21:54:58",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1949-05-12",
+      "standard-normativo": "DEC C 011296 1949 05 12",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 12981 SOBRE TRABAJADORES EN RELACION DE DEPENDENCIA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1949 05 17"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "DEROGA POR ART. 29",
+          "id": "ABROGA A0",
+          "ref": "DEC C 029509 1947 00 00 0000 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 11.296/49",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 12981 SOBRE CONDICIONES DE TRABAJO Y SALARIOS DE LOS ENCARGADOS DE CASAS DE RENTAS.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 012981 1947 04 18 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador en relación de dependencia"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/sujetos de los deberes previsionales/contribuyentes previsionales/contribuyente por derecho propio/trabajador en relación de dependencia"
+            },
+            "sinonimos": {
+              "termino": "derecho de los recursos de la seguridad social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "encargados de casas de renta"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/encargados de casas de renta"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "encargados y ayudantes de casas de renta",
+                "porteros",
+                "encargados de edificios de propiedad horizontal",
+                "trabajadores de casas de renta"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jornada de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/jornada de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "horas de trabajo",
+                "jornada legal de trabajo",
+                "jornada laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "licencia ordinaria"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/vacaciones y licencias especiales/vacaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "vacaciones anuales pagas",
+                "licencia ordinaria",
+                "licencia anual ordinaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "condiciones laborales"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/empleador/obligaciones del empleador/higiene y seguridad del trabajo/condiciones de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "higiene y seguridad en el trabajo",
+                "higiene laboral",
+                "patrón",
+                "condiciones laborales",
+                "ambiente de trabajo",
+                "obligaciones del patrón",
+                "deberes del empleador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "vivienda"
+            },
+            "preferido": {
+              "termino": "Bienestar social/vivienda"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "antigüedad"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/cómputo de servicios/antigüedad"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "prueba de servicios",
+                "tiempo de servicio",
+                "reconocimiento de servicios",
+                "tiempo de servicios",
+                "tiempo trabajado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "libreta de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/ingreso al trabajo/libreta de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asociaciones sindicales"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/asociaciones sindicales"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "asociaciones gremiales",
+                "asociaciones gremiales de trabajadores"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cesantía"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/régimen disciplinario administrativo/sanciones disciplinarias administrativas/cesantía"
+            },
+            "sinonimos": {
+              "termino": [
+                "medidas disciplinarias (administrativo)",
+                "relación de empleo público",
+                "sanciones disciplinarias (administrativo)",
+                "facultades disciplinarias (administrativo)",
+                "función pública",
+                "cesantía del empleado público"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "condiciones laborales (condiciones de trabajo)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "derecho colectivo del trabajo",
+            "trabajador en relación de dependencia",
+            "cesantía",
+            "jornada laboral (jornada de trabajo)",
+            "encargados de edificios de propiedad horizontal (encargados de casas de renta)",
+            "licencia anual ordinaria (vacaciones)",
+            "reconocimiento de servicios (cómputo de servicios)",
+            "Bienestar social",
+            "obligaciones del patrón (obligaciones del empleador)",
+            "encargados de casas de renta",
+            "vacaciones y licencias especiales",
+            "relación de empleo público (empleo público)",
+            "remuneración",
+            "tiempo de servicios (cómputo de servicios)",
+            "libreta de trabajo",
+            "patrón (empleador)",
+            "Derecho administrativo",
+            "cesantía del empleado público (cesantía)",
+            "jornada legal de trabajo (jornada de trabajo)",
+            "Seguridad social",
+            "Administración Pública",
+            "porteros (encargados de casas de renta)",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "higiene y seguridad del trabajo",
+            "ingreso al trabajo",
+            "vivienda",
+            "acto administrativo",
+            "prueba de servicios (cómputo de servicios)",
+            "tiempo trabajado (antigüedad)",
+            "sueldo (remuneración)",
+            "tiempo de servicio (antigüedad)",
+            "jornada de trabajo",
+            "higiene y seguridad en el trabajo (higiene y seguridad del trabajo)",
+            "contribuyentes previsionales",
+            "recursos de la seguridad social",
+            "cómputo de servicios",
+            "decreto reglamentario",
+            "reglamentos",
+            "asociaciones gremiales de trabajadores (asociaciones sindicales)",
+            "contrato laboral (contrato de trabajo)",
+            "ambiente de trabajo (condiciones de trabajo)",
+            "obligaciones del empleador",
+            "régimen disciplinario administrativo",
+            "sujetos del contrato de trabajo",
+            "sanciones disciplinarias (administrativo) (sanciones disciplinarias administrativas)",
+            "actividades laborales",
+            "facultades disciplinarias (administrativo) (régimen disciplinario administrativo)",
+            "sujetos de los deberes previsionales",
+            "vacaciones anuales pagas (vacaciones)",
+            "acción social (Bienestar social)",
+            "salario (remuneración)",
+            "contribuyente por derecho propio",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "deberes del empleador (obligaciones del empleador)",
+            "licencia ordinaria (vacaciones)",
+            "vacaciones",
+            "condiciones de trabajo",
+            "función pública (Administración Pública)",
+            "medidas disciplinarias (administrativo) (sanciones disciplinarias administrativas)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "trabajadores de casas de renta (encargados de casas de renta)",
+            "encargados y ayudantes de casas de renta (encargados de casas de renta)",
+            "empleador",
+            "Derecho laboral",
+            "higiene laboral (higiene y seguridad del trabajo)",
+            "empleo público",
+            "retribución (remuneración)",
+            "asociaciones sindicales",
+            "horas de trabajo (jornada de trabajo)",
+            "sanciones disciplinarias administrativas",
+            "antigüedad",
+            "contrato de trabajo en general",
+            "asociaciones gremiales (asociaciones sindicales)"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "el  proyecto  elevado por el Ministerio de Trabajo y Previsión"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 013263 1948 09 17 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  la Ley 23.263, sancionada por el Honorable Congreso de la Nación el 17 de septiembre de 1948, introduce diversas modificaciones    a   la  Ley  12.981,  que  establece  condiciones generales de trabajo y  salarios  mínimos  para  los  encargados de casas de renta y personal asimilado;\n\nQue  corresponde  dictar  las normas reglamentarias con sujeción  a las cuales habrán de aplicarse  las  disposiciones de la Ley 12.981 reformada por la Ley 13.263;\n\nPor ello y en uso de las facultades acordadas  por el art. 83, inc. 2 de la Constitución Nacional,"
+      },
+      "articulo": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 013263 1948 09 17 0000 000 0000 000"
+          }
+        },
+        "numero-articulo": 1,
+        "texto": "Art.  1.-  La Ley N. 12.981 modificada por la Ley N. 13.263 se aplicará de acuerdo  con  las  normas  establecidas  en la presente reglamentación  a  todas  las  personas  que se encuentren  en  las condiciones previstas por el artículo 2 de dicha ley."
+      },
+      "segmento": [
+        {
+          "titulo-particion": "DEFINICIONES",
+          "articulo": [
+            {
+              "numero-articulo": 2,
+              "texto": "Art. 2.- A los efectos de la aplicación de este Decreto y de la ley que reglamenta, se considerará:\n\n1) Encargado  de  casa  de  renta: a toda persona que trabaje en un inmueble desempeñando en forma  habitual y exclusiva por cuenta del propietario o usufructuario las tareas  de  cuidado,  vigilancia  y demás  servicios accesorios del mismo, cualquiera fuera la forma de su retribución,  como  así  también  a  las  que  poseyendo libreta otorgada a su nombre, no trabajen exclusivamente para  un empleador en   inmuebles  que  reditúen  más  de  $1.000  mensuales,  y  sean complementarios  en  sus  tareas  por  familiares que habiten en el mismo.\n\n2) Ayudante de encargado: al trabajador  que  preste servicios bajo la dirección de un encargado de casa de renta,  secundando al mismo en  las  tareas  de  atención y vigilancia que se encuentren  a  su cargo.\n\n3)  Ascensorista:  al  trabajador  destinado  exclusivamente  a  la atención de los ascensores.\n\n4)  Peón:  al  trabajador  auxiliar    del  encargado  o  ayudante, destinado  a  las tareas de limpieza y atención  de  los  servicios accesorios y a  aquellos  destinados a efectuar las reparaciones en el inmueble que por su poca importancia no requieran conocimientos especializados.\n\nQuedan comprendidos en esa categoría  los jardineros ocupados en el cuidado,  limpieza  y atención de los jardines  existentes  en  los inmuebles  a que se refiere  la  ley,  en  relación  permanente  de dependencia y en forma no intermitente.\n\nIgualmente revestirán  este carácter los trabajadores que se ocupen en forma permanente por  cuenta  de  un  empleador en la limpieza y atención  de  los  departamentos  u oficinas en  los  edificios  de renta.\n\n5) Empleador: a) al propietario o usufructuario  de  uno  o  varios inmuebles destinados a producir renta.\n\nb)  a  las  empresas  dedicadas a la administración de propiedades.\n\nc) al encargado de casa  de  renta en los casos de que las personas a que se refiere el 3er. párrafo  del  inciso  4,  actuaren bajo su dependencia.\n\nd)  a  las personas que alquilen un inmueble con el fin  de  lucrar con su locación."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "Art.  3.-  Los  menores  de edad ocupados en cualquiera de las tareas enumeradas en el artículo  anterior  estarán  amparados  por las  disposiciones  de  la  ley, sin perjuicio del cumplimiento por los empleadores de las leyes  protectoras  del  trabajo de menores."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DE LA JORNADA Y DESCANSOS",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 011544 1929 08 29 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 4,
+              "texto": "Art.  4.- La jornada de trabajo de los peones, ascensoristas y jardineros se ajustará a los términos de la Ley 11.544."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "Art.  5.- En la Capital Federal el descanso diario establecido en el artículo  3  de  la  ley  se hará efectivo a partir de las 21 horas hasta las 7 horas del día subsiguiente.  Durante  este  lapso deberán    permanecer    cerrados  los  edificios  si  no  mediaren circunstancias  imprevistas    o  autorización  del  Ministerio  de Trabajo y Previsión."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DLE C 001740 1975 00 00 0000 000"
+                }
+              },
+              "numero-articulo": 6,
+              "texto": "Art.  6.-  El  otorgamiento  de las vacaciones anuales se hará efectivo, de acuerdo con el régimen  del  Decreto-Ley  1.740/45, en cuanto no haya sido modificado por la Ley 12.981."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DE LA ESTABILIDAD",
+          "articulo": [
+            {
+              "numero-articulo": 7,
+              "texto": "Art.  7.-  En  los  casos en que el empleador prescindiese por cualquier causa, de los servicios  de  un  empleado  u  obrero que gozare  de  uso de habitación, sin acordarle el término de preaviso que establece  el  artículo 6 de la ley, deberá concederle un plazo de treinta días para  el  desalojo.  Cuando  se  diere preaviso, el plazo  a  que se refiere el párrafo anterior integrará  el  término legal respectivo."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art. 8.- Para determinar la existencia de enfermedad contagiosa crónica  a  que  se  refiere el artículo 5, inciso c) de la ley, se requerirá dictamen previo  de autoridad médica nacional, provincial o municipal competente en el lugar de trabajo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DE LA DETERMINACION DE LAS REMUNERACIONES",
+          "articulo": [
+            {
+              "numero-articulo": 9,
+              "texto": "Art.  9.-  Para la determinación de las remuneraciones mínimas fijadas por el art.  7 de la ley se tomará en cuenta la renta bruta de la finca, incluyendo  a  tal efecto lo percibido por alquiler de todas las dependencias que formen  parte del edificio. En los casos en que parte de la finca se encuentre  ocupada  por  el propietario de  la  misma  o  por  otras  personas  que no abonen alquiler,  la autoridad de aplicación determinará el respectivo  valor  locativo, tomando    en  consideración  la  naturaleza  del  inmueble  y  los alquileres abonados  por  viviendas  análogas del  mismo edificio."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "Art.  10.-  A  los efectos de la fijación de remuneraciones se considerarán edificios  con  servicios  centrales  los  que  tengan cualquiera  de  los  servicios  mencionados en el art. 7 de la ley."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art. 11.- Cuando el empleador provea de habitación al personal enumerado  en el art. 13 de la ley, se asignará a la misma un valor no inferior a $60.- En los casos  en  que no le fuera posible al empleador proporcionar el uso de habitación,  el  complemento  en dinero que deberá abonar en sustitución del mismo no podrá ser inferior  a  dicha  suma. Los valores a que se refieren los parágrafos anteriores se considerarán parte integrante de la remuneración."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "Art. 12.- En lo concerniente a los salarios mínimos establecidos  en  la  ley,  los ayudantes de encargados de casas de renta a que se refiere el art.  2,  2do. parágrafo de la misma y el artículo 2, inciso 2 de esta reglamentación,  quedan  equiparados a los serenos, peones de limpieza y ascensoristas."
+            },
+            {
+              "numero-articulo": 13,
+              "texto": "Art. 13.- Los aumentos periódicos establecidos en el art. 8 de la ley  se  harán  sobre las remuneraciones mínimas establecidas en el art. 7 de la misma,  de  acuerdo  con  los períodos trienales de antiguedad que tenga el beneficiario y con  la limitación en cuanto al  máximo  que  el  mismo  establece.  En  los  casos  en  que  el trabajador  gozare  de  una  remuneración  mayor  que  la   que  le corresponde  por  la  aplicación  de  este  artículo  se  mantendrá aquélla.\n\nLa antiguedad del personal que ha prestado servicios para un  mismo empleador  en distintos inmuebles se computará a partir del día  en que comenzó a hacerlo en el primero de ellos.\n\nEn  los casos  de  transferencia  del  inmueble  la  antiguedad  se computará  a  partir  de  la  fecha en que comenzó a trabajar en el mismo,  salvo  de  que con  motivo  de  la  transferencia  hubiera existido ruptura del contrato  de  trabajo  con las indemnizaciones legales y comienzo de uno nuevo.\n\nPara calcular la antiguedad del suplente que  trabaje por cuenta de un  mismo  empleador  en distintos inmuebles se computará  cada  26 días de trabajo efectivo como un mes de antiguedad."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DE LOS INSTRUMENTOS DE CONTRALOR",
+          "articulo": [
+            {
+              "numero-articulo": 14,
+              "texto": "Art. 14.- La libreta de trabajo para el personal de encargados de casas  de  renta  y  asimilados se confeccionará según el modelo oficial  que  apruebe  el  Ministerio  de  Trabajo  y  Previsión  y contendrá, además de las constancias  enumeradas  en el artículo 18 de la ley, las siguientes:\n\n1).- Número de orden.\n\n2).- Transcripción de la Ley N. 12.981 reformada por  la  Ley N. 13 263 y de la presente reglamentación.\n\n3).- Fotografía del empleado u obrero.\n\n4).-  Nombre,  apellido,  nacionalidad,  estado  civil  y firma del mismo.\n\n5).-  Número  de  la cédula de identidad o libreta de enrolamiento.\n\n6).-  Número  de inscripción  en  la  sección  correspondiente  del Instituto Nacional de Previsión Social.\n\n7).- Indicación  de  los días y horas de comienzo y terminación del descanso semanal."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art.  15.-  Las  respectivas  asociaciones  profesionales  con personería  gremial  podrán intervenir, en nombre de sus afiliados, en  las  gestiones  de  obtención   de  las  libretas  de  trabajo."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art.  16.-  El  Registro  General  de  Colocaciones llevará un índice, de numeración correlativa a la de las  libretas de trabajo, en el que se inscribirán las referencias consignadas  en las mismas y  las  modificaciones  que se introdujeren posteriormente.  En  el mismo registro se inscribirán  las fechas de comienzo y terminación de los períodos anuales de vacaciones a cuyo efecto los empleadores  deberán  comunicarlas   con  15  días de  antelación."
+            },
+            {
+              "numero-articulo": 17,
+              "texto": "Art.  17.-  La libreta de trabajo tendrá carácter de documento habilitante personal  e  intransferible no pudiendo ser retenida en ningún caso por el empleador."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "Art. 18.- El Registro General de Colocaciones, de acuerdo a las constancias  del  certificado  de trabajo expedido por el empleador que exige el art. 15, inc. d) de  la  ley, determinará la categoría del beneficiario, debiendo otorgar distintos  tipos  de libretas de trabajo para cada una de las categorías de trabajadores comprendidos  en  el  artículo 2 de la ley y art. 2 de la  presente reglamentación.\n\nLos documentos a que se  refieren  los  incisos a) y b) del art. 15 de la ley, no serán renovados cuando el trabajador  siga  bajo  las órdenes  de  un  mismo empleador o continúe desempeñando sus tareas en un mismo inmueble,  aun cuando hubiera mediado transferencia del mismo o cambio de administración."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "Art.  19.- Los empleadores deberán colocar en lugar visible de la finca, sin  perjuicio  de  las  constancias  en  la  libreta  de trabajo,  una  planilla  de  horarios  que  será  registrada por la autoridad de aplicación y en la que anotarán las horas  de comienzo y  terminación  de  las tareas del personal comprendido en la  ley, como así también de los  descansos  acordados  durante la jornada y del descanso semanal."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "Art. 20.- Las modificaciones que eventualmente se introdujeren con respecto  a las constancias enunciadas en el artículo anterior, se  inscribirán    en  la  libreta  de  trabajo  y  se  comunicarán igualmente a la autoridad de aplicación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DE LA COMISION PARITARIA",
+          "articulo": [
+            {
+              "numero-articulo": 21,
+              "texto": "Art. 21.- Los delegados de los trabajadores y de los empleadores  que integren la Comisión Paritaria a que se refiere el art. 19 de la  ley, en número de 2 titulares y 2 suplentes por cada representación,  serán nombrados por resolución del señor Ministro de Trabajo y Previsión a propuesta de las respectivas organizaciones profesionales:  para  los trabajadores, la que tenga personería gremial y sea numéricamente  más  representativa  en  la actividad  de  que  se  trata  y para los empleadores, la que reúna esta última condición.\n\nLos delegados suplentes integrarán  la  Comisión  Paritaria en caso de  ausencia,  impedimento,  renuncia, remoción o fallecimiento  de los delegados titulares."
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "Art.  22.-  Los  delegados  deberán  reunir  las  siguientes condiciones:\n\na) Ser mayor de 22 años.\n\nb) Tener  certificado  de  buena conducta expedido por la autoridad policial del lugar del trabajo.\n\nc) No tener antecedentes de  condena  en  delito reprimido con pena corporal.\n\nd)  Para  los  delegados  obreros se requerirá  ser  trabajador  en ejercicio en la actividad de  referencia.  Se  considerará cumplida esta  condición cuando el trabajador se haya desempeñado  bajo  las órdenes  de  un empleador hasta un período no mayor de dos años con anterioridad a la fecha de su proposición."
+            },
+            {
+              "numero-articulo": 23,
+              "texto": "Art.  23.-  Los  delegados  durarán dos años en sus funciones, salvo las causas de remoción a que  se  refiere  el art. 22 de esta reglamentación,  pudiendo  ser reelegidos. Dos meses  antes  de  la caducidad de los mandatos, deberán  formularse  las propuestas para la  integración  de la Comisión Paritaria en el período  siguiente.\n\nCada una de las representaciones  tendrá  un voto, debiendo decidir el Presidente en caso de empate en las votaciones."
+            },
+            {
+              "numero-articulo": 24,
+              "texto": "Art.  24.-  Los  delegados  que integren la Comisión Paritaria podrán  ser removidos de sus funciones  por  resolución  del  señor Ministro  de  Trabajo  y  Previsión  en  los siguientes casos:\n\na) Si fueren condenados por delitos castigados con pena corporal.\n\nb) Si cometieren faltas graves en el ejercicio  de  sus  funciones.\n\nc)  Si  faltaren  sin  causa  justificada  a  más  del  20%  de las reuniones  de  la  Comisión,  realizadas  en un período de 6 meses.\n\nd)  Si por modificaciones en la constitución  de  las  asociaciones que representan,  o  por decisión de éstas, hubiera desaparecido el carácter representativo que determinó su designación."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 005013 1948 00 00 0000 000"
+                }
+              },
+              "numero-articulo": 25,
+              "texto": "Art. 25.- La Comisión deberá constituirse a los sesenta días de la firma  de  la  presente reglamentación, a cuyo término cesará en sus funciones la Comisión  Paritaria  nombrada  por  Decreto  N.  5 013/48."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DE LA AUTORIDAD DE APLICACION Y SANCIONES",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 013263 1948 09 17 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 26,
+              "texto": "Art. 26.- El Ministerio de Trabajo y Previsión y sus Delegaciones  Regionales en las respectivas jurisdicciones, tendrán a su cargo la aplicación  y  vigilancia  del  cumplimiento  de  las disposiciones de la Ley 12.981 modificatoria de la Ley N. 13.263  y de la presente Reglamentación."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 011570 1929 09 25 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 27,
+              "texto": "Art.  27.-  El juzgamiento de las infracciones se efectuará de conformidad con el  procedimiento  instituido, por la Ley N. 11.570 en la Capital Federal y los similares  existentes  en  jurisdicción provincial."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "Art. 28.- Se considerarán infracciones al artículo 6 de la ley todos  los  casos  en  que  se  prescinda  de  los  servicios de un trabajador por causas distintas de las denunciadas en  el  artículo 5 de la misma.\n\nEn los casos en que la legitimidad de la cesantía fuere cuestionada    judicialmente,    la  aplicación  de  las  sanciones previstas por el artículo 22 de la  ley,  se  hará  efectiva por el magistrado,  cuando  así  corresponda al  dictar la sentencia  que ponga fin al litigio.\n\nDe  las  penalidades  aplicadas  se dará cuenta  al  Ministerio  de Trabajo y Previsión, ingresando los  importes  respectivos al fondo especial instituido por el artículo 23."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DISPOSICIONES VARIAS",
+          "articulo": [
+            {
+              "numero-articulo": 29,
+              "texto": "Art.  29.-  Derógase  el  Decreto número 29.509/47 y toda otra disposición que se oponga al presente."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "Art. 30.- Comuníquese, publíquese, dése a la Dirección General del Registro Nacional y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "PERON - FREIRE"
+          }
+        }
+      ],
+      "id-infojus": "DN19490011296"
+    }
+  }
+}

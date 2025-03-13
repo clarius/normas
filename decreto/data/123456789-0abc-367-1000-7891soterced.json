@@ -1,0 +1,623 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-367-1000-7891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990242944,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1763-nacional-programa-jerarquizacion-institucional-academico-enseanza-superior-dn19870001763-1987-11-05"
+      }
+    },
+    "content": {
+      "mecanografico": 19870001763,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1763,
+      "timestamp": "2014-07-17T21:57:48",
+      "timestamp-m": "2014-07-17T21:57:48",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1987-11-05",
+      "standard-normativo": "DEC C 001763 1987 11 05",
+      "titulo-norma": "PROGRAMA DE JERARQUIZACION INSTITUCIONAL Y ACADEMICO DE LA ENSEÑANZA SUPERIOR",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1988 04 04"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 3",
+          "id": "OBSERVA A0",
+          "ref": "DEC C 000922 1984 03 20 0000 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "B.O.  88-12-06",
+            "id": "OBSERVADO POR0",
+            "ref": "DEC C 001729 1988 00 00 0001 000"
+          },
+          {
+            "cr": "B.O.  88-12-06",
+            "id": "OBSERVADO POR1",
+            "ref": "DEC C 001729 1988 00 00 0002 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.763/1987",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE ESTABLECE EL PROGRAMA DE JERARQUIZACION INSTITUCIONAL Y ACADEMICO DE LA ENSEÑANZA SUPERIOR, DEPENDIENTE DEL MINISTERIO DE EDUCACION",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A NORMAS GENERALES DE LOS REGLAMENTOS ORGANICOS",
+            "B INSTITUTOS NACIONALES DE ENSEÑANZA SUPERIOR"
+          ]
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION  Se  delega  en  el  secretario  de  educación  la facultad  de  prorrogar plazos establecidos en los Arts 5 y 10 por Art. 1 Dec. 1729/88.\n\nOBSERVACION Se  delega  la  facultad  de modificar el anexo II incluyendo  y  excluyendo establecimientos  por  Art.  2  Dec.\n\n1729/88."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Ministerio de Educación y Justicia"
+            },
+            "preferido": {
+              "termino": "Ministerio de Educación"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Educación y Justicia",
+                "Ministerio de Educación, Ciencia y Tecnología",
+                "Ministerio de Cultura y Educación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Secretaría de Cultura y Educación"
+            },
+            "preferido": {
+              "termino": "Secretaría de Cultura y Educación"
+            },
+            "sinonimos": {
+              "termino": "Secretaría de Estado de Cultura y Educación"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Programa de Jerarquización Institucional y Académica"
+            },
+            "preferido": {
+              "termino": "Programa de Jerarquización Institucional y Académica"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "educación superior"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos/educación superior"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "enseñanza superior"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "establecimientos educacionales"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "establecimientos educativos",
+                "institutos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "perfeccionamiento docente"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/docentes/carrera docente/perfeccionamiento docente"
+            },
+            "sinonimos": {
+              "termino": [
+                "maestros",
+                "Educación y Cultura",
+                "personal docente",
+                "docencia"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "universidades nacionales"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales/universidades/universidades nacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "establecimientos educativos",
+                "institutos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "centro de estudiantes"
+            },
+            "preferido": {
+              "termino": "centro de estudiantes"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Estatuto del Docente"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/docentes/Estatuto del Docente"
+            },
+            "sinonimos": {
+              "termino": [
+                "maestros",
+                "Educación y Cultura",
+                "personal docente",
+                "docencia"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "establecimientos educativos (establecimientos educacionales)",
+            "docentes",
+            "escuelas (establecimientos educacionales)",
+            "Cultura y educación",
+            "institutos educativos (establecimientos educacionales)",
+            "Estatuto del Docente",
+            "enseñanza superior (educación superior)",
+            "instituciones educativas (establecimientos educacionales)",
+            "Secretaría de Estado de Cultura y Educación (Secretaría de Cultura y Educación)",
+            "establecimientos educacionales",
+            "educación superior",
+            "establecimientos de enseñanza (establecimientos educacionales)",
+            "centro de estudiantes",
+            "universidades nacionales",
+            "personal docente (docentes)",
+            "carrera docente",
+            "Programa de Jerarquización Institucional y Académica",
+            "infraestructura educativa",
+            "maestros (docentes)",
+            "Ministerio de Cultura y Educación (Ministerio de Educación)",
+            "Ministerio de Educación",
+            "colegios (establecimientos educacionales)",
+            "Educación y Cultura (Cultura y educación)",
+            "docencia (docentes)",
+            "institutos incorporados a la enseñanza oficial (establecimientos educacionales)",
+            "Ministerio de Educación y Justicia (Ministerio de Educación)",
+            "educación",
+            "perfeccionamiento docente",
+            "niveles educativos",
+            "universidades",
+            "Ministerio de Educación, Ciencia y Tecnología (Ministerio de Educación)",
+            "Secretaría de Cultura y Educación"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 014473 1958 09 12 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000922 1984 03 26 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "lo  establecido  en  el Estatuto del Docente (Ley Nro. 14.473) sobre la enseñanza superior  y  en  el  Decreto  Nro.  922/84  cuya ampliación  se  propicia  con el dictado de la norma en análisis, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "DEC C 000922 1984 03 26 0000 000 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que es propósito del GOBIERNO NACIONAL jerarquizar la enseñanza de nivel  superior  promoviendo  el  mejoramiento  cualitativo,  la diversificación  de  su  oferta y la participación de los distintos estamentos en su gobierno.\n\nQue  dicha jerarquización asegurará  el  cumplimiento  de  la  alta función  que  los establecimientos destinados a esa enseñanza deben realizar en la  formación  de  los  cuadros docentes, técnicos y de artístas que los nuevos tiempos exigen.\n\nQue  asimismo tal acción deberá contemplar  la  articulación  entre los distintos  componentes de la educación post-secundaria del país y con los otros niveles del sistema educativo.\n\nQue tal jerarquización  coadyuvará  como factor central en el mejor funcionamiento de las instituciones de  referencia,  en  la  medida que  sirva  de  base  para  el  acceso  a las diferentes cátedras y cargos de aquellos profesionales más idóneos  para  la cobertura de los mismos.\n\nQue  se  hace  necesario jerarquizar los cuadros docentes  de  esos institutos donde  la  mayoría de las designaciones se han realizado sin el cumplimiento estricto  de las disposiciones del Estatuto del Docente.\n\nQue  tal  situación  ha determinado  que  el  mayor  porcentaje  de docentes  actuantes a la  fecha  sean  interinos,  dificultando  la formación de los Consejos Directivos.\n\nQue el ingreso  a la docencia en el nivel superior debe hacerse por concurso público, de oposición y antecedentes.\n\nQue por Decreto Nro.  922  del  20  de  marzo de 1984 se facultó al MINISTERIO DE EDUCACION Y JUSTICIA para normalizar  los  institutos de enseñanza superior de su dependencia.\n\nQue las experiencias realizadas en el marco del mencionado  decreto en materia de Consejos Consultivos hacen aconsejable la participación  de  los  distintos  estamentos en el gobierno de los institutos.\n\nQue  la participación de dichos estamentos  significará  un  avance importante    en  la  transformación  y  jerarquización  del  Nivel Superior.\n\nQue  la  medida  a  dictarse  tiene  fundamento  en  la  atribución conferida  por  el  artículo   86,  inciso  1  de  la  Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.-  Establécese  el  Programa  de  Jerarquización Institucional  y  Académico  de  la Enseñanza Superior, dependiente del MINISTERIO DE EDUCACION Y JUSTICIA,  de  acuerdo con las normas que se mencionan en el Anexo I y las demás que  se  expresan  en el presente decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  El  programa  de Jerarquización Institucional y Académica se aplicará en los establecimientos  que  se mencionan en el Anexo II del presente decreto."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.- Amplíanse las facultades otorgadas al MINISTERIO DE EDUCACION Y JUSTICIA  por el Decreto Nro. 922 del 20 de marzo de 1984, con la aplicación de  las normas establecidas en el presente."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO 4.- Confiérese a los Rectores o Directores Normalizadores  de los establecimientos comprendidos en el presente decreto, las siguientes atribuciones;\n\na) Representar al  Instituto  o  unidad académica equivalente.\n\nb) Presidir el Consejo Directivo Provisorio  y  convocar a sesiones ordinarias y extraordinarias participando de las  mismas  con voz y voto.\n\nc)  Ejercer  las  funciones  administrativas  y  disciplinarias con arreglo a las reglamentaciones vigentes.\n\nd) Proponer al MINISTERIO DE EDUCACION Y JUSTICIA  la  convocatoria a  concurso  para  cubrir  la  titularidad  de  cátedras  y  cargos docentes así como los jurados que tendrán a su cargo la sustanciación de los mismos.\n\ne)  Adoptar  las  decisiones y medidas necesarias para la ejecución de  las  resoluciones   emanadas  del  MINISTERIO  DE  EDUCACION  Y JUSTICIA y del Consejo Directivo Provisorio.\n\nf) Garantizar el funcionamiento  de  los  centros  de  estudiantes.\n\ng) Ejercer la jurisdicción disciplinaria.\n\nh)  Determinar  la  época  de  exámenes  y  número  de turnos.\n\ni)  Resolver  cualquier  cuestión  de  carácter  urgente  y   grave debiendo  informar  posteriormente al Consejo Directivo Provisorio.\n\nj) Firmar los diplomas de los graduados.\n\nk) Cualquier otra atribución  que  no esté expresamente reservada a otro organismo ni a autoridades superiores."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO 5.- Durante la aplicación del Programa de Jerarquización    Institucional    y    Académica,  los  institutos comprendidos  en  el  mismo  se regirán por las  disposiciones  del presente decreto y las resoluciones  que se dicten en consecuencia, debiendo  proponer  en el plazo de CIENTO  OCHENTA  (180)  días  el Reglamento  Orgánico  en    concordancia  a  las  Normas  Generales establecidas en el Anexo I de  este  decreto,  para  su aprobación."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO  6.-  Créase  en el ámbito de cada establecimiento de enseÑanza superior comprendido  en  el presente decreto, un Consejo Directivo Provisorio que estará compuesto  por el Rector o Director Normalizador, CUATRO (4) miembros designados  por la Superioridad a propuesta  del  Rector  o  Director  Normalizador  de    entre  los vicerrectores  o  vicedirectores,  regentes  y  asesores, SEIS  (6) docentes, CUATRO (4) estudiantes y UN (1) graduado.  Para  elegir a los  representantes  de los diferentes claustros deberá efectuarse, en  cada  caso,  una  votación   secreta  y  obligatoria,  pudiendo participar, para elegir y ser elegidos,  quienes  se  encuentren en condiciones    según   las  Normas  Generales  de  los  Reglamentos Orgánicos."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTICULO 7.- Son atribuciones del Consejo Directivo Provisorio las siguientes:\n\na) Asesorar  sobre  la  propuesta de Jurados procediendo de acuerdo con las normas de concursos.\n\nb)  Emitir  opinión  sobre  lo  actuado  por  los  jurados  de  los concursos y recibir y dar curso  a  las presentaciones y/o reclamos que pudieran originarse por tal motivo.\n\nc)  Crear  una  comisión  en la época prevista  por  el  calendario escolar, a fin de elaborar  el  listado de aspirantes a interinatos y suplencias.\n\nd) Elaborar propuestas de planes  de  estudio  para  su elevación a las instancias ministeriales correspondientes.\n\ne) Coadyuvar a la coordinación entre los departamentos  y  al  buen funcionamiento de la gestión académica.\n\nf)  Emitir  opinión  sobre  pedidos de licencia de personal docente relacionado  con  su  perfeccionamiento    y   actualización.\n\ng) Elaborar el proyecto de Reglamento Orgánico  de  acuerdo con las normas  generales  contenidas  en el Anexo I del presente  Decreto.\n\nh) Intervenir como tribunal de disciplina  del  personal  docente y de  los  alumnos cuando corresponda. En el primer caso asumirá  las funciones  que  el  Estatuto  del  Docente  atribuya  a la Junta de Disciplina."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.-  El  Rector o Director Normalizador designará, a propuesta del Consejo Directivo  Provisorio, una Comisión Honoraria de  Asesoramiento  integrada  por  personalidades  e  instituciones vinculadas al quehacer del instituto."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO 9.- A los fines de dar por cumplidos los objetivos del Programa    de   jerarquización  institucional  y  Académica,  será menester que cada  unidad  educativa haya cubierto el CINCUENTA POR CIENTO (50%) de los cargos titulares  por  concurso. Cuando razones especiales lo aconsejen, mediante resolución  ministerial  fundada, se  podrá exceptuar a los institutos del porcentaje mínimo exigido."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "ARTICULO  10.-  El  Programa de Jerarquización Institucional y Académica a que se refiere  el  presente  decreto se cumplirá en el plazo  de  UN  (1)  año,  a  contar  desde la vigencia  del  mismo, quedando  facultada la SECRETARIA DE EDUCACION  del  MINISTERIO  DE EDUCACION Y  JUSTICIA para prorrogar en un año más ese plazo si las circunstancias así lo hicieren necesario."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 014473 1958 09 12 0139 000 0000 000"
+            }
+          },
+          "numero-articulo": 11,
+          "texto": "ARTICULO 11.- A los fines de la sustanciación de los concursos se aplicará  lo normado por el artículo 139 y su reglamentación del Estatuto del Docente (Ley Nro. 14.473)."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "ARTICULO 12.- Créase una Comisión integrada por los Directores Nacionales   de  Educación  Superior,  de  Educación  Especial,  de Educación Artística  y de Educación Física, Deportes y Recreación y el Presidente del Consejo  Nacional de Educación Técnica, presidida por el Secretario de Educación  y  coordinada  por el Subsecretario de Gestión Educativa, encargada del seguimiento  y  coordinación de acciones del Programa de Jerarquización Institucional  y  Académica establecida por este decreto."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "ARTICULO  13.- Los aspectos que hacen al funcionamiento de los Institutos  Nacionales   de  Enseñanza  Superior  y  que  no  estén expresamente determinados  por  este  decreto  y  sus anexos, serán elaborados  y  resueltos  por  la  SECRETARIA  DE  EDUCACION    del MINISTERIO  DE EDUCACION Y JUSTICIA, previo dictamen de la Comisión creada por el artículo12."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "ARTICULO 14.- A los fines de la elección del Consejo Directivo Provisorio,  el  Rector o Director Normalizador designará una Junta Electoral  integrada  por  DOS  (2)  profesores,  UN  (1)  auxiliar docente y UN  (1) estudiante. La Junta Electoral será presidida por el Rector o Director  Normalizador  quien  tendrá  voto  en caso de empate."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "ARTICULO 15.- Para la elección de representantes docentes en el Consejo  Directivo  Provisorio,  el  padrón  se  integrará  con los docentes    y    auxiliares  docentes  titulares  e  interinos  del Instituto."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "ARTICULO 16.- Los apoderados de las listas, en la elección del Consejo  Directivo  Provisorio,  deberán reunir los requisitos para integrar el padrón respectivo."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "ARTICULO  17.-  Comuníquese,  publíquese,  dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "ALFONSIN-NOSIGLIA"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "NORMAS  GENERALES  DE LOS REGLAMENTOS ORGANICOS PARA LOS INSTITUTOS NACIONALES DE ENSEÑANZA SUPERIOR",
+          "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO: 32",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO  1:  SOBRE  LA  MISION,  LOS  FINES  Y OBJETIVOS  DE  LOS INSTITUTOS NACIONALES DE ENSEÑANZA SUPERIOR.",
+              "articulo": [
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 014473 1958 09 12 0135 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 1,
+                  "texto": "ARTICULO  1.-  Los Institutos Nacionales de Enseñanza Superior son  instituciones  educativas    destinadas   a  la  formación  de profesores, al perfeccionamiento técnico-docente  del  personal  en ejercicio  y  a la investigación de los problemas vinculados con la docencia (Estatuto  del  Docente,  artículo 135), a la formación de docentes, técnicos y artistas, así como  al  desarrollo de planes y programas que tengan que ver con la actualización y el perfeccionamiento de los docentes."
+                },
+                {
+                  "numero-articulo": 2,
+                  "texto": "ARTICULO  2.-  Tienen como fines comunes a otras instituciones similares del Estado Argentino, los siguientes:\n\na)  Impartir  la  enseñanza  superior  con  carácter  científico  y humanista  para  formar   educadores,  artistas,  investigadores  y técnicos  con  amplia  capacidad    para   investigar,  integrar  y transmitir  los  datos  de la cultura nacional  y  universal.\n\nAsumir la responsabilidad de su quehacer en términos de colaboración  y  mejoramiento  social  permanente,  promoviendo  el respeto  mutuo  y  el    trabajo  cooperativo  entre  docentes,  no docentes, estudiantes y graduados.\n\nb)  Educar  en  el espíritu de  las  libertades  democráticas,  los derechos  humanos,   la  soberanía  y  la  independencia  nacional, contribuyendo con su  acción a la confraternidad de los pueblos, la paz y el uso adecuado de  los recursos, para el mejoramiento de los niveles de vida.\n\nc)  Garantizar  la  más  amplia   libertad  de  juicio,  criterios, doctrinas  y  orientaciones  filosóficas   en  el  dictado  de  las cátedras."
+                },
+                {
+                  "numero-articulo": 3,
+                  "texto": "ARTICULO  3.-  Tienen  como  objetivos  particulares:\n\na) Formar  docentes  para los distintos niveles y especialidades de la educación, de acuerdo  con  los  requerimientos  del  país.\n\nb)  Formar  técnicos  y  artistas  con  alto nivel de capacitación, destinados  a  cubrir  la  demanda  regional  y  nacional  para  la industria, el comercio, las artes y otros.\n\nc)  Actuar  como  centro  de  perfeccionamiento docente  por  sí  o sucribiendo convenios con terceros.\n\nd) Desarrollar programas de formación  permanente  para sus propios cuadros docentes y no docentes, sus graduados y los  miembros de la comunidad.\n\ne)  Desarrollar acciones tendientes a incentivar la realización  de experiencias  e investigaciones sobre los asuntos vinculados con su función específica,  atendiendo a las necesidades e intereses de la comundiad en la que se hallan insertos."
+                },
+                {
+                  "numero-articulo": 4,
+                  "texto": "ARTICULO  4.-  Los Institutos Nacionales de Enseñanza Superior funcionarán  bajo  la  dependencia    directa  de  los  respectivos organismos de conducción del área."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO   2  A  LA  DIRECCION  DE  LOS  INSTITUTOS  NACIONALES  DE ENSEÑANZA SUPERIOR.",
+              "articulo": [
+                {
+                  "numero-articulo": 5,
+                  "texto": "ARTICULO  5.-  La  dirección  de  los Institutos Nacionales de Enseñanza  Superior  se  constituirá  con  representantes   de  los siguientes    estamentos:    docentes,   estudiantes  y  graduados."
+                },
+                {
+                  "numero-articulo": 6,
+                  "texto": "ARTICULO  6.-  La  dirección  será  ejercida  por  el Consejo Directivo y el Rector o Director.\n\na) Del Consejo Directivo.\n\nEn  el  padrón  de estudiantes se incribirán todos aquellos alumnos regulares, excepto  los alumnos de promer año quienes deberán tener una antiguedad mínima  de  SIETE  (7)  meses como alumnos regulares del instituto.\n\nEn el padrón de graduados se podrán inscribir  todos  los egresados del instituto respectivo.\n\nQuien revista la condición de doble integración de claustro  deberá optar  por  figurar en el padrón de uno solo de ellos. Los padrones permanecerán  abiertos  todo  el  año,  salvo los TREINTA (30) días anteriores a la elección."
+                },
+                {
+                  "numero-articulo": 7,
+                  "texto": "ARTICULO 7.- El Consejo Directivo estará integrado por OCHO (8) docentes,  SEIS  (6)  estudiantes,  DOS (2) graduados y el Rector o Director quien presidirá sus sesiones  y  tendrá  voto  en  caso de empate."
+                },
+                {
+                  "numero-articulo": 8,
+                  "texto": "ARTICULO  8.- Las vacantes que se produjeren antes de la fecha de renovación, serán  cubiertas  por  los  suplentes  en  el  orden respectivo.  Si  por  sucesivas  vacantes  o  ausencias  quedara el Consejo desintegrado y agotado el número de suplentes, el  Rector o Director  convocará  a  elecciones  dentro de los SESENTA (60) días siguientes."
+                },
+                {
+                  "numero-articulo": 9,
+                  "texto": "ARTICULO 9.- Los docentes, estudiantes y graduados que integran el Consejo  Directivo  no  podrán  invocar mandato de su estamento."
+                },
+                {
+                  "numero-articulo": 10,
+                  "texto": "ARTICULO  10.-  De  su  duración:  Los  representantes de cada estamento  durarán  en sus funciones con arreglo  a  lo  siguiente:\n\n- docentes: TRES (3) años,\n\n- estudiantes: UN (1) año,\n\n- egresados: DOS (2) años."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 022838 1983 06 23 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 11,
+                  "texto": "ARTICULO  11.-  De  su elección: Serán electos de la siguiente manera:\n\na)  El Rector o Director con  conocimiento  del  Consejo  Directivo convocará  en  forma  conjunta o alternada con TREINTA (30) días de antelación como mínimo para la elección de:\n\na) OCHO (8) consejeros docentes titulares y CUATRO (4) suplentes,\n\nb) SEIS (6) consejeros  estudiantiles  y  TRES  (3) suplentes,\n\nc)  DOS  (2)  consejeros  graduados  y  DOS  (2)  suplentes.\n\nb)  Deberá  constituirse  una Junta Electoral de CINCO (5) miembros presidida por el Rector o Director  cuyos  integrantes  serán:  DOS (2)  docentes  titulares,  DOS  (2)  estudiantes  y UN (1) egresado propuestos  por  los respectivos claustros. El cargo  en  la  Junta Electoral  es  incompatible    con  la  integración  de  listas  de candidatos.\n\nc) La Junta Electoral será designada  por  el  Rector  o Director y tendrá  a  su cargo en única instancia todo lo relativo al  proceso electoral, deberá  resolver  las  impugnaciones  y  oficializar las listas antes de la iniciación del comicio. Aplicará supletoriamente el Régimen Electoral Nacional.\n\nd)  Para la oficialización de cada una de las listas de  candidatos deberá presentarse:\n\n- Acpetación fehaciente de los integrantes (titular y suplente).\n\n- Patrocinadores  en  cantidad  no  inferior al DOS POR CIENTO (2%) del padrón respectivo.\n\n- Orden de prelación de los candidatos  titulares y suplentes.\n\n-  UN  (1)  apoderado,  el  que será representante  ante  la  Junta Electoral, quien no podrá integrar  lista  alguna  y  deberá reunir los mismos requisitos que para ser candidato.\n\ne) La Junta Electoral otorgará a cada lista un número identificativo,  sin  perjuicio  del  emblema, sigla o denominación que desee utilizar.\n\nf) La elección se hará por lista completa,  careciendo de valor las tachas o substituciones.\n\ng)  El  orden de preferencia de los candidatos,  para  el  caso  de mayoría y  minoría,  estará  dado  por  el  orden que tienen en las listas.\n\nh) Las representaciones de docentes, estudiantes  y graduados serán adjudicadas  adoptándose el sistema D'Hont instituído  por  la  Ley Electoral Nro. 22.838.\n\ni)  En cada instituto  se  confeccionarán  en  forma  separada  los padrones de docentes, estudiantes y graduados.\n\nEn el  padrón  de  docentes  se  inscribirán todos los profesores y auxiliares docentes titulares del instituto.\n\nEn el padrón de estudiantes se inscribirán  todos  aquellos alumnos regulares, excepto los alumnos de primer año quienes  deberán tener una  antiguedad  mínima  de  SIETE (7) meses como alumnos regulares del instituto. En el padrón de  graduados se podrán inscribir todos los egresados del instituto respectivo.\n\nQuien revista la condición de doble  integración de claustro deberá optar por figurar en el padrón de uno  solo  de ellos. Los padrones permanecerán  abiertos  todo  el año, salvo los TREINTA  (30)  días anteriores a la elección.\n\nj) El sufragio será secreto y obligatorio.\n\nSe considerará falta grave la omisión  o  defecto en la emisión del voto.\n\nLos electores que incurran en la omisión del  voto  serán  pasibles de las siguientes sanciones:\n\n-  Los  profesores:  serán  apercibidos  con anotación en su legajo personal.\n\n-  Los  graduados: serán eliminados del padrón  por  DOS  (2)  años consecutivos.\n\n- Los estudiantes:  no podrán rendir examen en el turno suguiente a la fecha de la elección.\n\nTodo infractor podrá  intentar  la  justificación  de  su omisión o defecto  ante  el  Rector,  quien  decidirá, con apelación ante  el Consejo Directivo."
+                },
+                {
+                  "numero-articulo": 12,
+                  "texto": "ARTICULO 12.- De su funcionamiento.\n\n1)  Será  convocado  y  presidido  por  el  Rector o Director.\n\n2) Se reunirá en sesiones ordinarias durante  el  año  lectivo, por lo menos UNA (1) vez al mes y en sesiones extraordinarias  cada vez que  sea  convocado  por el Rector o Director o a pedido de por  lo menos SEIS (6) de sus miembros.\n\n3)  Las  sesiones  serán    públicas,  salvo  expresa  decisión  en contrario de la mayoría. El Consejo  podrá  invitar a concurrir o a participar sin voto en las sesiones a toda persona  vinculada a los asuntos del instituto.\n\n4) Se designará un Secretario de Actas.\n\n5)  En  la  primera  citación,  para  adoptar resoluciones  válidas sesionará  con  la  presencia  de  la mitad  más  UNO  (1)  de  sus miembros.  En  la  segunda  citación  podrá    sesionar  y  adoptar resoluciones válidas con los miembros presentes,  cualquiera  fuere su  número, siempre que hubieren sido convocados todos sus miembros y comunicado  el  orden  del  día.  El Secretario certificará en el acta el cumplimiento de estos requisitos  y no podrá tratar asuntos que no estén incluídos en el orden del día.\n\n6) Las decisiones del Consejo se adoptarán  por  la  mitad  más UNO (1)  de los votos de los Consejeros presentes. El Rector o Director tendrá derecho a voto sólo en caso de empate.\n\n7) Los miembros del Consejo están obligados a concurrir puntualmente  a  sus sesiones y a desempeñar las comisiones que les encomienden.\n\n8) El consejero que  no  asistiere a TRES (3) sesiones consecutivas o CINCO (5) alternados, sin  aviso  previo  o sin causa debidamente justificada,  cesará  en  su  cargo  sin necesidad  de  declaración alguna debiéndose dar cuenta de la vacante  en  la  próxima sesión.\n\n9) Los Vicerrectores o Vicedirectores y Regentes podrán  asistir  a las reuniones del Consejo Directivo con voz y sin voto."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 014873 1959 10 15 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 13,
+                  "texto": "ARTICULO 13.- De sus deberes y atribuciones.\n\n1)  Elegir  al Rector o Director y Vicerrector o Vicedirector.\n\n2) Designar los  miembros  de  los  Jurados  intervinientes  en los concursos  para  la  selección  del  personal titular en cátedras y aprobar o rechazar la actuación de los jurados.\n\n3)  Elaborar  un  listado  anual  de mérito  de  los  aspirantes  a interinatos  y  suplencias  por  asignaturas,  con  arreglo  a  las disposiciones vigentes.\n\n4) Proponer modificaciones al Reglamento Orgánico.\n\n5) Proponer la creación de nuevas  carreras  o modificaciones a los planes en vigencia.\n\n6)  Aprobar  los  programas  y planificaciones de  las  asignaturas presentadas por los departamentos.\n\n7) Contribuir con el Vicerrector  o  Vicedirector  en  la  tarea de coordinación interdepartamental.\n\n8)  Emitir  opinión  sobre  pedidos de licencia de personal docente relacionados  con  su  perfeccionamiento    y  actualización.\n\n9) Aconsejar al Rector o Director la concesión  de  adscripciones a cátedras.\n\n10) Aprobar e impulsar las acciones de actualización y perfeccionamiento  docente  a  desarrollar  por el Instituto.\n\n11) Proponer la reubicación del personal docente  en disponibilidad de  acuerdo  con  el  artículo  20  del Estatuto del Docente.\n\n12)  Resolver  las  equivalencias de materias  aprobadas  en  otros establecimientos de enseñanza superior.\n\n13) Constituir Comisiones  Especiales,  con  representantes  de los distintos   estamentos,  e  incorporar  los  especialistas  que  la cuestión  requiera,    para   elaborar  distintos  proyectos.\n\n14) Considerar las inquietudes  o  cuestiones  planteadas  por  los distintos  estamentos  que  integran la comunidad educativa de cada Instituto.\n\n15) Pronunciarse respecto de  diferentes  asuntos  que  el Rector o Director decidiera someter a su consideración.\n\n16)  Garantizar  el  funcionamiento  de los Centros de Estudiantes.\n\n17) Decidir los recursos de apelación  que  se  interpongan  contra las resoluciones que adopte el Rector o Director.\n\nb) Del Rector o Director"
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 014473 1958 09 12 0137 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 14,
+                  "texto": "ARTICULO  14.-  De las condiciones para ser Rector o Director:\n\nDeberá reunir las mismas  que para ser profesor del Instituto y las exigidas por el artículo 137 del Estatuto del Docente."
+                },
+                {
+                  "numero-articulo": 15,
+                  "texto": "ARTICULO 15.- De su elección: El Rector o Director será elegido por  el  Consejo Directivo en sesión especial. En caso de no contar con  la totalidad  de  los  miembros,  transcurrida  UNA  (1)  hora después  de  la  fijada  para  la  iniciación,  se incorporarán los respectivos  suplentes  -según  corresponda  a  cada  lista-  hasta completar  el  número  total  de  miembros,  sin  el  cual no podrá funcionar el órgano elector.\n\nSi  ningún candidato obtuviere como mínimo las dos terceras  partes de los  votos emitidos, se repetirá la elección con los DOS (2) más votados.  Si ninguno de los candidatos obtuviere el número de votos precedentemente  establecido,  se incorporará el órgano elector, al único  fin  de votar por UNO (1) de  los  DOS  (2)  candidatos,  el primer  suplente   representante  de  cada  uno  de  los  TRES  (3) estamentos. En este  caso,  el  Rector  o  Director será electo por simple mayoría, no computándose los votos en  blanco.  El voto será secreto y obligatorio.\n\nLa  sesión  no  se podrá levantar ni pasar a cuarto intermedio  sin haber sido elegido el Rector o Director."
+                },
+                {
+                  "numero-articulo": 16,
+                  "texto": "ARTICULO  16.-  De  su duración: Durará CUATRO (4) años en sus funciones  y podrá ser reelegido  UNA  (1)  sola  vez  en  períodos consecutivos."
+                },
+                {
+                  "numero-articulo": 17,
+                  "texto": "ARTICULO 17.- De su situación de revista e incompatibilidades:\n\nMientras  dure  en  sus  funciones  sólo podrá ejercer el número de horas  cátedra que fije el régimen de  incompatibilidades  vigente, pero mantendrá  la  situación  de  revista  anterior a la que podrá volver una vez finalizado a su mandato."
+                },
+                {
+                  "numero-articulo": 18,
+                  "texto": "ARTICULO 18.- De sus deberes y atribuciones:\n\n1)  Cumplir  y hacer cumplir el Estatuto del Docente, el Reglamento Orgánico, las  reglamentaciones  vigentes  y  las  resoluciones del Consejo Directivo.\n\n2)  Ejercer  la  dirección  técnico-docente  y  administrativa  del Instituto.\n\n3) Representar al Instituto.\n\n4) Convocar y presidir las reuniones del Consejo  Directivo y votar en caso que se produzca empate.\n\n5)  Convocar  y dirigir las reuniones de carácter parcial  o  total del personal del Instituto.\n\n6) Aplicar al personal  docente  las  sanciones  dispuestas  por el Consejo   Directivo  de  acuerdo  con  las  normas  vigentes.\n\n7) Designar  con carácter interino o suplente al personal propuesto por el Consejo Directivo.\n\n8) Poner en vigencia  anualmente  los  programas analíticos de cada asignatura aprobados por el Consejo Directivo.\n\n9) Firmar juntamente con el Secretario los  certificados y diplomas respectivos.\n\nc) Del Vicerrector o Vicedirector."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 014473 1958 09 12 0137 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 19,
+                  "texto": "ARTICULO  19.-  De  las  condiciones  para  ser  Vicerrector o Vicedirector:  Deberá  reunir las mismas que para ser profesor  del Instituto y las exigidas  por  el  artículo  137  del  Estatuto del Docente."
+                },
+                {
+                  "numero-articulo": 20,
+                  "texto": "ARTICULO  20.-  De  su  elección:  Se  realizará conforme a lo prescripto para la elección del Rector o Director."
+                },
+                {
+                  "numero-articulo": 21,
+                  "texto": "ARTICULO  21.-  De  su duración: Durará CUATRO (4) años en sus funciones  y podrá ser reelegido  UNA  (1)  sola  vez  en  períodos consecutivos."
+                },
+                {
+                  "numero-articulo": 22,
+                  "texto": "ARTICULO 22.- De su situación de revista e incompatibilidades:\n\nMientras  dure  en  sus  funciones, sólo podrá ejercer el número de horas  cátedra que fije el  régimen  de  incompatibilidad  vigente, pero mantendrá  la  situación  de  revista  anterior a la que podrá volver una vez finalizado su mandato."
+                },
+                {
+                  "numero-articulo": 23,
+                  "texto": "ARTICULO 23.- De sus deberes y atribuciones:\n\n1)  Colaborar con el Rector o Director en el gobierno del Instituto y reemplazarlo  en  el  ejercicio  de  sus funciones cuando éste no pudiere ejercerlas por cualquier causa.  Ejercerá las funciones del Rector  o Director por el tiempo que dure el  impedimento  de  este último, asumiendo  dicho  ejercicio  sin  necesidad  de  resolución previa.\n\n2)  En  caso  de  ser  definitiva  la  ausencia o imposibilidad que afecta  al  Rector  o  Director  para el ejercicio  del  cargo,  el Vicerrector o Vicedirector convocará  inmediatamente  dentro  de un plazo  no  mayor  de TREINTA (30) días al Consejo Directivo para la elección del Rector  o  Director,  hasta  completar  el  respectivo mandato.\n\nEn  ausencia  del Vicerrector o Vicedirector ejercerá sus funciones el Consejo Decano docente.\n\n3) Ejercer las  funciones  que el Rector o Director expresamente le delegue.\n\n4)  Participar en la preparación  de  anteproyectos  de  planes  de estudio, programas, etc.\n\n5) Fijar los horarios de clases y exámenes.\n\n6) Convocar  periódicamente  a  reunión  de  Jefes de Departamento.\n\n7)  Coordinar  las  actividades  de los distintos  departamentos  e informar periódicamente al Consejo Directivo.\n\n8)  Asesorar  sobre  el  desarrollo global  del  proceso  enseñanza aprendizaje.\n\nd) Del Regente."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 014473 1958 09 12 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 24,
+                  "texto": "ARTICULO  24.- De las condiciones para ser Regente: El Regente de los institutos  deberá ser designado por concurso, en la forma y condiciones determinadas  en  el  Estatuto del Docente, respecto de los profesores titulares."
+                },
+                {
+                  "numero-articulo": 25,
+                  "texto": "ARTICULO 25.- De las funciones del Regente:\n\na)  Colaborar con el Rector o Director y Vicerrector o Vicedirector en los aspectos técnico-docentes.\n\nb) Intervenir  en la programación y organización de las actividades de actualización  y perfeccionamiento docente y extensión cultural.\n\nc) Participar en el  asesoramiento, evaluación y seguimiento de los estudios del alumno.\n\nd) Supervisar las actividades  del  personal  docente auxiliar y de biblioteca en el turno de su competencia.\n\ne)  Colaborar  con  las  autoridades  del  establecimiento   en  la fijación de horarios de clases y exámenes.\n\ne) De los Departamentos y Jefes de Departamento."
+                },
+                {
+                  "numero-articulo": 26,
+                  "texto": "ARTICULO 26.- De su constitución: En cada Instituto se formarán Departamentos  integrados por los profesores de las asignaturas del plan de estudios  que,  en  razón  de  afinidad  de  su  contenido, constituyan un área educativa.\n\nCada  Departamento  tendrá  UN  (1) jefe titular y UN (1) suplente."
+                },
+                {
+                  "numero-articulo": 27,
+                  "texto": "ARTICULO  27.-  De  su elección: El Jefe titular y el suplente serán elegidos por simple  mayoría  entre los docentes y auxiliares docentes  titulares  e  interinos del departamento.  Los  interinos deberán registrar como mínimo  SEIS  (6)  meses de antiguedad en el Instituto"
+                },
+                {
+                  "numero-articulo": 28,
+                  "texto": "ARTICULO  28.-  De  su duración: El Jefe titular y el suplente durarán DOS (2) años en sus  funciones  y  podrán ser reelegidos en UNA (1) sola vez en períodos consecutivos."
+                },
+                {
+                  "numero-articulo": 29,
+                  "texto": "ARTICULO  29.-  De  las  funciones  de los Departamentos:\n\n1) Asesorar al Consejo Directivo, por intermedio  de  su  jefe,  en los  asuntos técnico-docentes relacionados con el Departamento a su cargo.\n\n2)  Analizar   los  programas  presentados  por  los  profesores  y elevarlos, fundamentando  su  opinión, al Consejo Directivo para su aprobación.\n\n3)  Coordinar el desarrollo de las  asignaturas  del  Departamento.\n\n4) Unificar  criterios  pedagógicos y organizativos con el resto de los Departamentos.\n\n5)  Proponer seminarios, trabajos  de  investigación  y  grupos  de estudio.\n\n6)  Proponer  horarios  de  clases  y  exámenes  al  Vicerrector  o Vicedirector."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Disposiciones transitorias",
+              "articulo": [
+                {
+                  "numero-articulo": 30,
+                  "texto": "ARTICULO 30.- Las presentes disposiciones transitorias cesan al constituirse  los  Consejos  Directivos  según las normas generales precedentes."
+                },
+                {
+                  "numero-articulo": 31,
+                  "texto": "ARTICULO  31.- En la primera elección que se realice en virtud de las disposiciones  contenidas  en  el  presente  Anexo, no serán aplicadas  las normas que el mismo establece para la reelección  de autoridades."
+                },
+                {
+                  "numero-articulo": 32,
+                  "texto": "ARTICULO  32.-  En  aquellos  Institutos  donde  por cualquier circunstancia  no  puede constituitse el claustro de graduados,  el Consejo Directivo se  constituirá  con  NUEVE  (9) docentes y SIETE (7) estudiantes. Hasta tanto se incorporen los graduados,  integran el  Consejo Directivo, como miembros plenos, el primer suplente  de la mayoría en la lista de Docentes y de Estudiantes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "INSTITUTOS NACIONALES DE ENSEÑANZA SUPERIOR",
+          "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO: 12",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "titulo-articulo": "CAPITAL FEDERAL",
+              "texto": "*Dirección Nacional de Educación Artística.\n\n-  Escuela  Superior  de  Bellas Artes \"Ernesto de la Cárcova\"\n\n- Escuela Nacional de Bellas  Artes  \"Prilidiano  Pueyrredón\"\n\n- Escuela Nacional de Arte Dramático \"Antonio Cunill Cabanellas\"\n\n- Escuela Nacional de Danzas \"María Ruanova\"\n\n-  Conservatorio  Nacional  de  Música \"Carlos López Buchardo\"\n\n- Escuela Nacional de Cerámica.\n\n*Dirección Nacional de Educación Especial\n\n-  Instituto  Nacional  Superior  del    Profesorado  de  Educación Especial\n\n*Consejo Nacional de Educación Técnica\n\n-  Instituto  Nacional  Superior  del  Profesorado    Técnico\n\n*  Dirección  Nacional  de  Educación Física, Deportes y Recreación\n\n-  Instituto  Nacional  de Educación  Física  \"Dr.  Enrique  Romero Brest\"\n\n- Instituto Nacional de Educación  Física  \"Prof. Federico Dickens\"\n\n-  Instituto  Nacional  de  Deportes  de  Capital    Federal\n\n* Dirección Nacional de Educación Superior\n\n-  Instituto  Nacional  Superior  del  Profesorado en Lenguas Vivas \"Juan Ramón Fernández\"\n\n- Instituto Nacional Superior del Profesorado  de Formación Docente \"Juan B. Justo\"\n\n-   Instituto  Nacional  Superior  del  Profesorado  \"Joaquín    V.\n\nGonzález\"\n\n-  Instituto   Nacional  Superior  del  Profesorado  en  Jardín  de Infantes \"Sara C. de Eccleston\""
+            },
+            {
+              "numero-articulo": 2,
+              "titulo-articulo": "PROVINCIA DE BUENOS AIRES",
+              "texto": "* Dirección Nacional de Educación Física, Deportes y Recreación\n\n-  Instituto  Nacional  de  Educación  Física  de  Avellaneda\n\n-  Instituto  Nacional  de Educación Física \"Gral. Manuel Belgrano\" de San Fernando\n\n* Dirección Nacional de Educación Superior\n\n-  Instituto  Nacional  Superior   del  Profesorado  en  Jardín  de Infantes de Moreno"
+            },
+            {
+              "numero-articulo": 3,
+              "titulo-articulo": "PROVINCIA DE SANTA FE",
+              "texto": "* Dirección Nacional de Educación Artística\n\n-  Escuela  Nacional  de Títeres y Teatro de Rosario, Santa Fe\n\n* Dirección Nacional de  Educación  Física,  Deportes  y Recreación\n\n-  Instituto  Nacional  de  Educación Física \"Prof. César Vázquez\", Santa Fe\n\n* Dirección Nacional de Educación Superior\n\n-  Instituto  Nacional  Superior    del   Profesorado  de  Rosario."
+            },
+            {
+              "numero-articulo": 4,
+              "titulo-articulo": "PROVINCIA DE ENTRE RIOS",
+              "texto": "* Dirección Nacional de Educación Física, Deportes y Recreación\n\n-  Instituto  Nacional  de  Educación Física \"Dr. José B. Zubiaur\", Gualeguay\n\n* Dirección Nacional de Educación Superior\n\n- Instituto Nacional Superior del Profesorado, Paraná"
+            },
+            {
+              "numero-articulo": 5,
+              "titulo-articulo": "PROVINCIA DE RIO NEGRO",
+              "texto": "* Dirección Nacional de Educación Artística\n\n-   Instituto  Nacional  de  Profesorado  de  Arte  de  Gral.  Roca"
+            },
+            {
+              "numero-articulo": 6,
+              "titulo-articulo": "PROVINCIA DE MENDOZA",
+              "texto": "* Dirección Nacional de Educación Física, Deportes y Recreación\n\n-  Instituto Nacional de Educación Física \"Dr. Jorge Coll\", Mendoza\n\n* Dirección Nacional de Educación Superior\n\n-  Instituto    Nacional  Superior  del  Profesorado  de  Tupungato"
+            },
+            {
+              "numero-articulo": 7,
+              "titulo-articulo": "PROVINCIA DE CORDOBA",
+              "texto": "* Dirección Nacional de Educación Superior\n\n-  Instituto  Nacional  Superior  del  Profesorado  de  Bell  Ville \"Mariano Moreno\"\n\n-  Instituto  Nacional  Superior  del  Profesorado  de  Villa María"
+            },
+            {
+              "numero-articulo": 8,
+              "titulo-articulo": "PROVINCIA DE JUJUY",
+              "texto": "* Dirección Nacional de Educación Superior\n\n-  Instituto  Nacional  Superior del Profesorado de San Salvador de Jujuy"
+            },
+            {
+              "numero-articulo": 9,
+              "titulo-articulo": "PROVINCIA DE CATAMARCA",
+              "texto": "* Dirección Nacional de Educación Física, Deportes y Recreación\n\n- Instituto Nacional de Educación Física de Catamarca"
+            },
+            {
+              "numero-articulo": 10,
+              "titulo-articulo": "PROVINCIA DEL CHUBUT",
+              "texto": "* Dirección Nacional de Educación Física, Deportes y Recreación\n\n-  Instituto  Nacional  de  Educación  Física \"Prof. Fidel A. Pérez Moreno\" de Comodoro Rivadavia."
+            },
+            {
+              "numero-articulo": 11,
+              "titulo-articulo": "PROVINCIA DE SAN JUAN",
+              "texto": "* Dirección Nacional de Educación Física, Deportes y Recreación\n\n- Instituto Nacional de Educación Física, San Juan"
+            },
+            {
+              "numero-articulo": 12,
+              "titulo-articulo": "PROVINCIA DE SANTIAGO DEL ESTERO",
+              "texto": "* Dirección Nacional de Educación Especial\n\n-    Instituto  Nacional  Superior  del  Profesorado  de  Educación Especial \"Dr. Arturo Illia\", Santiago del Estero"
+            }
+          ]
+        }
+      ],
+      "id-infojus": "DN19870001763"
+    }
+  }
+}

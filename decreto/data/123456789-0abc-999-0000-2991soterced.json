@@ -1,0 +1,1060 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-999-0000-2991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990072966,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "999-nacional-reglamento-administrativo-regulatorio-obras-sanitarias-nacion-dn19920000999-1992-06-18"
+      }
+    },
+    "content": {
+      "mecanografico": 19920000999,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 999,
+      "timestamp": "2014-07-18T21:53:47",
+      "timestamp-m": "2014-07-18T21:53:47",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1992-06-18",
+      "standard-normativo": "DEC C 000999 1992 06 18",
+      "titulo-norma": "REGLAMENTO ADMINISTRATIVO REGULATORIO DE OBRAS SANITARIAS DE LA NACION.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1992 06 30"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 5",
+            "id": "DEROGA A0",
+            "ref": "DEC C 009022 1963 10 10 0000 000"
+          },
+          {
+            "cr": "POR ART. 5",
+            "id": "DEROGA A1",
+            "ref": "DEC C 001333 1974 04 30 0000 000"
+          },
+          {
+            "cr": "POR ART. 5",
+            "id": "DEROGA A2",
+            "ref": "DEC C 000173 1989 02 07 0000 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "ART. 3 MODIFICADO (B.O. 98-02-05)",
+          "id": "MODIFICADO POR0",
+          "ref": "DEC C 000146 1998 01 30 0019 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 999/92",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2014-07-18",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE APRUEBA EL REGLAMENTO ADMINISTRATIVO REGULATORIO DE LOS DISTINTOS ASPECTOS DE LOS SERVICIOS PUBLICOS DE PROVISION DE AGUA POTABLE Y DESAGUES CLOACALES DE COMPETENCIA DE OBRAS SANITARIAS DE LA NACION.",
+        "anexos-decreto": {
+          "anexo-ley": "0000IA MARCO REGULATORIO"
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION: EL PRESENTE DECRETO SE PUBLICA SIN ANEXO II"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Obras Sanitarias de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios/obras sanitarias/Obras Sanitarias de la Nación"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicios públicos",
+                "OSN",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "desagües pluviales",
+                "contrataciones públicas",
+                "Administración General de Obras Sanitarias de la Nación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "obras públicas"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública/obras públicas"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios sanitarios"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "desagües pluviales",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agua potable"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios/servicio de agua corriente"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicio de agua potable",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "suministro de agua potable",
+                "desagües pluviales",
+                "contrataciones públicas",
+                "agua potable",
+                "abastecimiento de agua potable",
+                "aguas corrientes",
+                "provisión de agua potable"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "desagües cloacales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "desagües pluviales",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de obra pública"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "protección del consumidor"
+            },
+            "preferido": {
+              "termino": "Derecho comercial/lealtad comercial/defensa del consumidor"
+            },
+            "sinonimos": {
+              "termino": "protección del consumidor"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contaminación de aguas"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección del medio ambiente/contaminación ambiental/contaminación de aguas"
+            },
+            "sinonimos": {
+              "termino": [
+                "preservación del medio ambiente",
+                "medio ambiente",
+                "contaminación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio de limpieza de aguas"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección del medio ambiente/contaminación ambiental/contaminación de aguas/servicio de limpieza de aguas"
+            },
+            "sinonimos": {
+              "termino": [
+                "preservación del medio ambiente",
+                "medio ambiente",
+                "depuración de aguas",
+                "contaminación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "privatizaciones"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/sujetos de derecho administrativo/empresas del Estado/privatizaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "empresas públicas",
+                "sociedades del Estado",
+                "empresa privatizada"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "defensa del consumidor",
+            "contaminación ambiental",
+            "abastecimiento de agua potable (servicio de agua corriente)",
+            "empresas públicas (empresas del Estado)",
+            "empresa privatizada (privatizaciones)",
+            "desagües cloacales (servicios sanitarios)",
+            "obras sanitarias",
+            "aguas corrientes (servicio de agua corriente)",
+            "sociedades del Estado (empresas del Estado)",
+            "contrataciones del Estado (contratos administrativos)",
+            "Obras Sanitarias de la Nación",
+            "servicio de agua potable (servicio de agua corriente)",
+            "Derecho comercial",
+            "servicios públicos locales (servicio público)",
+            "contrato de obra pública",
+            "sujetos de derecho administrativo",
+            "servicios públicos (servicio público)",
+            "Administración General de Obras Sanitarias de la Nación (Obras Sanitarias de la Nación)",
+            "protección del medio ambiente",
+            "desagües pluviales (servicios sanitarios)",
+            "servicio público",
+            "lealtad comercial",
+            "Derecho administrativo",
+            "suministro de agua potable (servicio de agua corriente)",
+            "medio ambiente (Derecho ambiental)",
+            "preservación del medio ambiente (protección del medio ambiente)",
+            "empresas del Estado",
+            "Derecho ambiental",
+            "privatizaciones",
+            "OSN (Obras Sanitarias de la Nación)",
+            "obras públicas",
+            "contaminación (contaminación ambiental)",
+            "servicio de agua corriente",
+            "servicios sanitarios",
+            "provisión de agua potable (servicio de agua corriente)",
+            "depuración de aguas (servicio de limpieza de aguas)",
+            "servicio de limpieza de aguas",
+            "contrataciones públicas (contratos administrativos)",
+            "agua potable (servicio de agua corriente)",
+            "contaminación de aguas",
+            "contratos administrativos",
+            "protección del consumidor (defensa del consumidor)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 002074 1990 10 03 0003 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002074 1990 10 03 0020 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 001443 1991 07 31 0005 000 0000 000"
+            }
+          ]
+        },
+        "texto": "lo dispuesto en el ANEXO I de la Ley N. 23.696 y los artículos 3 y 20  del Decreto N. 2.074 del 3 de octubre de 1990 y  del Decreto N. 1.443 del 31 de julio de 1991, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 002074 1990 10 03 0020 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 001105 1989 10 20 0000 000 0000 000"
+            },
+            {
+              "cr": "MINISTERIO DE OBRAS Y SERVICIOS PUBLICOS",
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "RES C 000097 1991 04 16 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que a través de las normas referidas se dispuso la concesión de los  servicios de distribución y comercialización, y la consecuente operatividad  de  las  plantas  de producción y tratamiento para la atención de dichos servicios prestados  actualmente  por la empresa Obras  Sanitarias  de la Nación. Que, asimismo, en el marco  de  la Ley N. 23.696, el artículo  20 del Decreto N. 2.074/90 prescribió que la  Autoridad  de  Aplicación  debía   elevar  al  PODER  EJECUTIVO NACIONAL  el proyecto de reglamento administrativo  regulatorio  de las prestaciones,  la  fiscalización y  control y la protección al usuario  y  a  los  bienes  del  Estado, con relación  al  servicio público que se proyecta otorgar en concesión.\n\nQue la Ley N. 23.696 y su decreto reglamentario N. 1.105  del 20 de octubre  de 1989 han fijado las pautas básicas a que debe ajustarse el  reglamento    administrativo   mencionado  en  el  considerando anterior.\n\nQue el reglamento o \"marco regulatorio\"  debe  prever, entre otras materias,  las  condiciones  de la prestación del servicio  por  el Concesionario, las atribuciones  del  Ente Regulador vinculadas con la  concesión  de  los servicios, los deberes  y  atribuciones  del Concesionario, la protección  de  los derechos de los usuarios, los requisitos de calidad del servicio,  el  régimen tarifario, el pago de los servicios, los planes de expansión  de  los  servicios  y el régimen de los bienes de la concesión.\n\nQue  la  COMISION  TECNICA DE PRIVATIZACION DE OBRAS SANITARIAS DE LA NACION (Resolución  M.  O  y S. P. N.97 del 16 de abril de 1991) en cumplimiento de su cometido,  ha  confeccionado  el  proyecto de reglamento  que  contempla  adecuadamente los aspectos mencionados, por lo que corresponde su aprobación.\n\nQue a partir de la creación  del  ENTE TRIPARTITO, dispuesta en el ANEXO  I de la Ley N. 23.696, la SECRETARIA  DE  OBRAS  PUBLICAS  Y COMUNICACIONES,  la  EMPRESA  OBRAS  SANITARIAS  DE  LA  NACION, la PROVINCIA  DE  BUENOS  AIRES  y  la  MUNICIPALIDAD DE LA CIUDAD  DE BUENOS  AIRES,  con  fecha  10 de febrero  de  1992  celebraron  un convenio  con  el objeto de fijar  las  pautas  de  organización  y funcionamiento del  mencionado  Ente,  por  lo que corresponde, con miras a su puesta en vigencia, que dicho convenio  sea aprobado por el    PODER    EJECUTIVO  NACIONAL  en  jurisdicción  nacional.\n\nQue la presente  medida se dicta en uso de las atribuciones de los artículos 86, incisos  1 y 2 de la Constitución Nacional y 11, 15 y concordantes de la Ley N. 23.696."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "Art.  1: Apruébase el reglamento administrativo regulatorio de los distintos  aspectos  de  los servicios públicos de provisión de agua  potable  y  desagües  cloacales    de  competencia  de  OBRAS SANITARIAS  DE  LA  NACION,  que  se  otorgarán   en  Concesión  de conformidad con  lo dispuesto en el ANEXO I de la Ley  N.  23.696, que  como  ANEXO I forma  parte  integrante  del  presente  decreto."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000776 1992 05 12 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "Art.  2: Ratifícase el convenio de fecha 10 de febrero de 1992 celebrado entre  la  SECRETARIA DE OBRAS PUBLICAS Y COMUNICACIONES, la  EMPRESA OBRAS SANITARIAS  DE  LA  NACION,  el  GOBIERNO  DE LA PROVINCIA  DE  BUENOS  AIRES  y  la  MUNICIPALIDAD  DE LA CIUDAD DE BUENOS  AIRES  que,  como  ANEXO  II,  forma  parte integrante  del presente  decreto,  con  excepción  de  los artículos  3  inciso  b asterisco,\"la  contaminación hídrica\", y séptimo  incisos  c  y  e, respectivamente,  dada su oposición con lo dispuesto por el Decreto N. 776 de fecha 12 de mayo de 1992."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "* Art.  3:  Los representantes de la jurisdicción nacional en el Directorio del ENTE  TRIPARTITO  serán  nombrados por la SECRETARIA DE RECURSOS NATURALES  Y DESARROLLO SUSTENTABLE DE LA PRESIDENCIA DE LA NACION."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023696 1989 08 17 0014 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art.  4:  Póngase  el  presente en conocimiento de la COMISION BICAMERAL creada en el ámbito  del  HONORABLE CONGRESO DE LA NACION por el artículo 14 de la Ley N. 23.696."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5: Deróganse los Decreto Nros. 9.022 del 10 de octubre de 1963, 1.333 del  30 de abril de 1974 y 173 del 7 de febrero de 1989."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-CAVALLO"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "ANEXO I MARCO REGULATORIO PARA LA CONCESION DE LOS SERVICIOS DE PROVISION DE AGUA POTABLE Y DESAGUES CLOACALES",
+        "segmento": [
+          {
+            "titulo-particion": "CAPITULO I GENERAL",
+            "articulo": [
+              {
+                "numero-articulo": 1,
+                "texto": "ARTICULO  1:  DEFINICION  DEL  SERVICIO.  El  servicio público regulado  por  el  presente  Marco  Regulatorio se define  como  la captación y potabilización, transporte, distribución y comercialización  de  agua  potable;  la   colección,  tratamiento, disposición y comercialización de desagües  cloacales, incluyéndose también  aquellos  efluentes  industriales que el  régimen  vigente permita se viertan al sistema cloacal."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 013577 1949 09 29 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "DEC C 001443 1991 07 31 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_2",
+                      "ref": "DEC C 002074 1990 10 03 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_3",
+                      "ref": "DEC C 000358 1992 02 27 0000 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 2,
+                "texto": "ARTICULO  2:  AMBITO  DE  APLICACION. Se define como ámbito de aplicación al territorio integrado  por  la  Capital  Federal y los partidos  de  Almirante  Brown, Avellaneda, Esteban Echeverría,  La Matanza, Lanús, Lomas de Zamora,  Morón,  San Fernando, San Isidro, San  Martín,  Tres  de  Febrero,  Tigre  y  Vicente  López,  de  la provincia  de  Buenos  Aires, coincidente con la  jurisdicción  que corresponde a la Empresa  Obras Sanitarias de la Nación, y según lo establecido en la Ley 13.577  y  sus  modificatorias y los Decretos 1.443/91, 2.074/90 y 358/92."
+              },
+              {
+                "numero-articulo": 3,
+                "texto": "ARTICULO  3:  OBJETIVOS.  Los  objetivos  del  presente  marco establecen  lineamientos  generales  que han de particularizarse en los documentos contractuales respetando  los  principios enmarcados en  este  Artículo.  De  acuerdo a ello se definen  los  siguientes objetivos:\n\na)  Garantizar  el  mantenimiento  y  promover  la  expansión  del sistema  de provisión de  agua  potable  y  desagües  cloacales  e industriales.b)  Establecer  un  sistema normativo que garantice la calidad   y  continuidad  del  servicio    público    regulado.\n\nc) Regular  la  acción  y  proteger  adecuadamente  los  derechos, obligaciones  y  atribuciones de los Usuarios, del Concedente,  del Concesionario y del Ente Regulador.\n\nd) Garantizar la  operación  de  los  servicios que actualmente se prestan  y de los que se incorporen en el  futuro  en  un  todo  de acuerdo a  los  niveles  de  calidad y eficiencia que se indican en este marco.\n\ne) Proteger la salud pública,  los  recursos  hídricos  y el medio ambiente."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "LEY C 013577 1949 09 29 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_2",
+                      "ref": "DLE C 014160 1945 06 28 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_3",
+                      "ref": "LEY C 018593 1970 02 06 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_4",
+                      "ref": "LEY C 020324 1973 04 27 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_5",
+                      "ref": "DLE C 020686 1956 11 16 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_6",
+                      "ref": "LEY C 021066 1975 09 23 0000 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 4,
+                "texto": "ARTICULO  4:  DEFINICIONES.  A  los  efectos  del presente, se entiende por:\n\na)  Ente  Regulador:  El Ente creado por la Ley 23.696,  integrado por Obras Sanitarias de  la  Nación, la provincia de Buenos Aires y la Municipalidad de la Ciudad  de  Buenos Aires, tal como se regula en el Capítulo III del presente.\n\nb) Concedente: el Poder Ejecutivo Nacional.\n\nc) Concesionario: el o los responsables  de  la  prestación de los servicios de agua potable y desagües cloacales en el  área regulada por este Marco Regulatorio.\n\nd) Usuarios: las personas físicas o jurídicas que reciban  o estén en   condiciones  de  recibir  del  Concesionario  el  servicio  de provisión de agua potable y desagües cloacales.\n\ne) Ley  orgánica de OSN: la Ley 13.577 y sus modificatorias, Leyes 14.160, 18.593, 20.324, 20.686 y 21.066.\n\nf) Plan de  Mejoras  y  Expansión:  está constituido por las metas cuantitativas y cualitativas que un Concesionario  debe  alcanzar y que  forman parte  del  Contrato  de  Concesión  y  de  los planes aprobados por el Ente Regulador.\n\ng)  Area  Regulada:  el  área  de  aplicación  del  presente Marco Regulatorio, según lo establecido en el Artículo 2.\n\nh) Area Servida de Agua Potable: el territorio dentro  del cual se presta  efectivamente,  el  servicio  de  provisión de agua potable.\n\ni) Area Servida de Desagües Cloacales: el  territorio  dentro  del cual  se  presta  efectivamente, el servicio de desagües cloacales, pluviocloacales e industriales,  según lo previsto en el Artículo 1.\n\nj)  Area de Expansión: el territorio  comprendido  dentro  de  los límites  del Area Regulada en el cual se aprueben planes de mejoras y  expansión    de  los  servicios  que  preste  el  Concesionario.\n\nCumplidos y ejecutados  estos  planes,  el  Area  de  Expansión  se convierte  en  Area  Servida  de  Agua Potable o Desagües Cloacales según corresponda.\n\nk)  Area  Remanente:  el territorio comprendido  dentro  del  área regulada y que no cuenta  con servicios ni se halla incluida en los planes de expansión. Presentados  y  aprobados estos planes el Area Regulada se convierte en Area de Expansión  según  corresponda.\n\n1) Area Nueva: El territorio situado fuera del Area  Regulada que, previa autorización del Poder Ejecutivo Nacional, en el  futuro  se incorpore a ella."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 013577 1949 09 29 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 5,
+                "texto": "ARTICULO  5: REGIMEN DE AREAS. El régimen jurídico en cada una de  las  áreas  descriptas  en  el  Artículo  precedente,  será  el siguiente:\n\na) Area Regulada:  Dentro  del  Area  Regulada  el  Ente Regulador ejercerá  sus  atribuciones,  de  acuerdo  con  lo previsto  en  el Capítulo III del presente y la Ley Orgánica de OSN  en  lo que ésta resulte  aplicable;  y  el Concesionario podrá ejercer los derechos que emerjan del Contrato de Concesión.\n\nb) Area Servida de Agua  Potable:  En  el  Area  Servida  de  Agua Potable,  los  Concesionarios  tendrán  los derechos y obligaciones que surjan del presente, del Contrato de  Concesión  y  de  la  Ley Orgánica de OSN en tanto ésta resulte aplicable.\n\nc)  Area  Servida  de  Desagües  Cloacales:  En el Area Servida de Desagües  Cloacales,  los  Concesionarios tendrán  los  derechos  y obligaciones que surjan del  presente,  del Contrato de Concesión y de  la  Ley  Orgánica  de OSN en tanto ésta resulte  aplicable.\n\nd) Area de Expansión: En  el  Area  de  Expansión el Concesionario ejecutará los planes de mejoras y expansión  que  el Ente Regulador haya aprobado, de acuerdo con el mecanismo previsto  en el Contrato de  Concesión y en este Marco Regulatorio. El Ente Regulador  podrá igualmente  aprobar  Planes  de  Mejoras  y  Expansión no previstos originariamente,    en  tanto  ello  no  implique  disminuir    las obligaciones comprometidas  en  la  materia por el Concesionario en el Contrato de Concesión.\n\nEl territorio que se declare Area de  Expansión  no deberá excluir zonas dentro de sus límites. La inclusión de áreas  ya servidas por terceros  podrá realizarse previo acuerdo entre el Concesionario  y los mismos.  El  Ente  Regulador  estará  facultado  en  caso de no arribarse  a  un acuerdo a disponer la inclusión de dichas áreas  y la incorporación  de  las  obras  e  instalaciones  allí existentes cuando medie causa fundada en la preservación de la salud  pública, de los recursos naturales y del medio ambiente.\n\nSin  perjuicio  de ello, y con autorización del Concesionario  los Usuarios podrán construir  y  operar por sí o por terceros sistemas de  captación y distribución de  agua  potable  y  de  colección  y tratamiento  de  desagües  cloacales.  Los  pedidos de autorización deberán ser resueltos por el Concesionario dentro  del plazo máximo de 90 días corridos desde su presentación, prorrogable fundadamente  por  única  vez y por un período igual. Vencido  este plazo si el Concesionario no  se  hubiere  expedido la solicitud de autorización  se  considerará,  salvo aprobación  técnica  denegada otorgada automáticamente.  En  este    caso,   la  responsabilidad emergente  para  el  Concesionario  será  la misma que  si  hubiese otorgado la autorización expresamente.\n\nLos sistemas autorizados por el Concesionario  deberán contar además con el conocimiento y aprobación técnica del mismo,  según  las normas  aplicables,  pudiendo ser inspeccionadas por éste. En todos los casos será de estricta aplicación el presente Marco Regulatorio y la competencia del Ente Regulador.\n\nLas  autorizaciones  que  otorgue  el  Concesionario  deberán  ser comunicadas al Ente Regulador.  Los  rechazos  del Concesionario de autorizaciones  y/o  solicitudes  de aprobaciones técnicas  deberán ser  razonables  y  justificados y podrán  ser  recurridos  en  los términos  del  Artículo  72  del  presente  Marco  Regulatorio.\n\nLos derechos sobre  los  sistemas  construidos  por los Usuarios o terceros,  de  conformidad  con  los  párrafos anteriores,  tendrán carácter  precario y cesarán al momento  en  que  el  Concesionario esté en condiciones,  de acuerdo a las disposiciones del presente y del Contrato de Concesión,  de  hacerse  cargo de la explotación de las mismas y la prestación efectiva del servicio,  en  los términos de la autorización conferida.\n\nLa  vigencia  de  las  autorizaciones previstas en este inciso  no podrá extenderse más allá  de  la  fecha  prevista  en  el  Plan de Mejoras  y Expansión del servicio para su prestación por parte  del Concesionario.  De  lo contrario deberá implementarse el sistema de subconcesión previsto en el Artículo 30.\n\nEn el período durante  el  cual  el  servicio sea prestado por los Usuarios  o por  terceros,  la  responsabilidad    respecto    del cumplimiento    del    Marco  Regulatorio  será  solidaria  con  el Concesionario.\n\nLas  autorizaciones  expresas    que   confiera  el  Concesionario establecerán  el  mecanismo  de reconocimiento  y  compensación  de gastos efectuados por los Usuarios  o  terceros  en  relación  a la construcción  o  prestación  del  servicio,  sin perjuicio de otras disposiciones aplicables al mismo.\n\ne)  Area Remanente: Los Usuarios tendrán derecho  a  solicitar  al Concesionario  la autorización para construir y operar por sí o por terceros  sistemas  de  provisión  de  agua  potable  y/o  desagües cloacales,  con  los  alcances  de la definición del Artículo 1, en las  condiciones  establecidas  en  este    Marco  Regulatorio.\n\nLos  pedidos  de  autorización  deberán  ser  resueltos    por  el Concesionario dentro del plazo máximo de 90 días corridos desde  su presentación  prorrogable  fundadamente  por  única  vez  y  por un período igual.\n\nSi  el  Concesionario  no se expidiera en el plazo citado o negara la autorización, los Usuarios  podrán  recurrir  al Ente Regulador, en  los  términos  del Artículo 72 del presente Marco  Regulatorio, quien deberá resolver.  La autorización sólo podrá ser denegada por razones  de  protección  de  la  salud  pública,  de  los  recursos hídricos o del medio ambiente.\n\nLas autorizaciones deberán  ser comunicadas al Ente Regulador. Los proyectos y obras y su consecuente  habilitación  deberán  respetar las  normas  técnicas  aplicables  al  Concesionario  y  podrán ser inspeccionadas por éste.\n\nf)  Area  no  Regulada:  Fuera del Area Regulada, el Concesionario deberá  operar  y  mantener  los    sistemas   de  OSN  actualmente existentes en el marco de la Ley 13.577.\n\nPodrá también construir, operar y mantener de  conformidad con las normas  locales  aplicables,  las  disposiciones  de  este    Marco Regulatorio  y  del Contrato  de  Concesión, instalaciones para la provisión al Area Regulada de servicios  de agua potable y desagües cloacales. En estos casos el Ente Regulador ejercerá la competencia correspondiente."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO II CONCESION DEL SERVICIO",
+            "articulo": [
+              {
+                "numero-articulo": 6,
+                "texto": "ARTICULO  6:  CONDICIONES  DE  PRESTACION. El servicio público definido  en  el  Capítulo  I  será  prestado  obligatoriamente  en condiciones  que aseguren su continuidad,  regularidad,  calidad  y generalidad de  manera tal que se asegure su eficiente prestación a los Usuarios y la protección del medio ambiente."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 7,
+                "texto": "ARTICULO  7:  SISTEMA  DE CONCESION. Se empleará el sistema de Concesión  de  servicio  público.  El  régimen  jurídico  de  dicha Concesión será el establecido en la Ley 23.696 y normas reglamentarias, el presente  Marco  Regulatorio  y  el  Contrato de Concesión.  Supletoriamente  serán  de  aplicación  los  principios generales    del    contrato  de  Concesión  de  servicio  público."
+              },
+              {
+                "numero-articulo": 8,
+                "texto": "ARTICULO 8: AUTORIDAD CONCEDENTE. La Concesión del servicio será otorgada por el Poder Ejecutivo Nacional."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 000674 1989 05 24 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 9,
+                "texto": "ARTICULO  9:  ALCANCES  DE  LA  PRESTACION  DEL  SERVICIO.  El Concesionario  deberá  extender,  mantener  y  renovar cuando fuere necesario las redes externas, conectarlas y prestar  el servicio en las  condiciones  establecidas  en  el Artículo 6, a todo  inmueble habitado comprendido dentro de las Areas  Servidas  y  de Expansión de acuerdo con lo establecido en los respectivos planes  de mejoras y   expansión  del  servicio. La  obligatoriedad  regirá  para  el servicio  público  contra  incendios y también para la provisión de agua potable utilizada en la  elaboración  de  bienes,  siempre que esto  último resulte técnicamente viable, sin afectar negativamente el suministro a otros Usuarios.\n\nLos efluentes  industriales  sólo  podrán  ser  vertidos  a la red cloacal  con consentimiento del Concesionario. Deberán ajustarse  a las normas  aplicables  relativas  a  la  calidad, concentración de sustancias y volumen, de acuerdo a lo indicado  en  el Anexo B. Las restricciones  deberán ser fijadas por el Concesionario  dentro  de lo establecido en  este  Marco  Regulatorio  y con intervención del Usuario solicitante.\n\nLas restricciones fijadas por el Concesionario  para  la  conexión de  desagües industriales a la red cloacal sólo podrán referirse  a la  capacidad   hidráulica  de  transporte  y  evacuación  de  las instalaciones existentes.\n\nLas normas de vertido  serán fijadas por la Secretaría de Recursos Naturales y Ambiente Humano  y  las  que rijan inicialmente deberán ser especificadas en el Contrato de Concesión  de  acuerdo al Anexo B (Dto. 674/89).\n\nLos  acuerdos  que  celebre  el  Concesionario  serán  puestos  en conocimiento del Ente."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 013512 1948 09 30 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 10,
+                "texto": "ARTICULO  10:  OBLIGATORIEDAD  DE  LA  CONEXION Y DEL PAGO DEL SERVICIO.  Los propietarios, consorcios de propietarios,  según  la Ley 13.512,  poseedores  y  tenedores de inmuebles que se hallen en las  condiciones  del  Artículo    anterior,  estarán  obligados  a instalar a su cargo los servicios domiciliarios  internos de agua y desagüe  cloacal y a mantener en buen estado las instalaciones.\n\nEstarán,  asimismo,  obligados al pago de la conexión domiciliaria y  del  servicio  con  arreglo  a  las  disposiciones  del  régimen tarifario.\n\nCuando el inmueble estuviere  deshabitado  podrán  solicitar la no conexión o la desconexión del servicio.\n\nUna  vez  que el servicio de agua potable esté disponible  en  las condiciones establecidas  en  el  Artículo  6  y  ello  haya  sido notificado a los propietarios, consorcios de propietarios según  la Ley  13.512,  poseedores  o  tenedores,  los  inmuebles respectivos deberán ser conectados al servicio.\n\nDentro  de  una  secuencia  de  trabajo que permita  minimizar  la interrupción del abastecimiento de  agua,  el Concesionario deberá, previo aviso al Usuario, aislar toda otra fuente  de  provisión  de agua.\n\nNo  podrán  conectarse  al  servicio  público  de provisión de agua potable otras fuentes que no estén bajo supervisión del concesionario  y  que  no alcancen las normas de calidad  vigentes."
+              },
+              {
+                "numero-articulo": 11,
+                "texto": "ARTICULO 11: FUENTES ALTERNATIVAS DE AGUA POTABLE. En caso que el  Usuario  quisiera  mantener  una  fuente  alternativa  de  agua potable  deberá solicitarlo al Concesionario, quien podrá permitir, con arreglo a  las  normas  vigentes, la utilización de esa fuente siempre que no exista riesgo para  la  salud pública, la protección de  la  fuente  de  agua  o  el servicio público  que  presta.  Las autorizaciones que se confieran  a  este  efecto, serán registradas por el Concesionario.\n\nLas denegatorias podrán ser recurridas ante  el Ente Regulador por los interesados en los términos del Artículo 72  del presente Marco Regulatorio.  En ambos casos el Ente Regulador controlará  y  podrá modificar la decisión del Concesionario."
+              },
+              {
+                "numero-articulo": 12,
+                "texto": "ARTICULO 12: DESAGUES CLOACALES ALTERNATIVOS. Desde el momento en  que  el  servicio  de  desagües  cloacales  esté disponible en las condiciones  previstas  en  el  Artículo  6  y  tenga    suficiente capacidad  para  transportar y tratar los efluentes hasta el  lugar de su vertimiento,  los  desagües  cloacales deberán ser conectados al mismo por el Concesionario, y los  tanques  sépticos y todo otro desagüe  cloacal alternativo deberán ser cegados.  Dichos  desagües comprenden  también  los  de  este  tipo producidos en inmuebles no residenciales.\n\nEn caso que el Usuario quisiera mantener  el  desagüe alternativo, deberá  solicitarlo al Concesionario, quien podrá,  con  arreglo  a las normas  vigentes,  permitirlo siempre que no exista riesgo para la salud pública, la protección  de los recursos hídricos, el medio ambiente o el servicio público que presta.\n\nLas  autorizaciones  que  se  confieran    a  este  efecto,  serán registradas por  el  Concesionario.  Las denegatorias  podrán  ser recurridas ante el Ente Regulador en los  términos  del Artículo 72 del  presente  Marco Regulatorio. En ambos casos el Ente  Regulador controlará  y  podrá   modificar  la  decisión  del  Concesionario."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO III ENTE REGULADOR",
+            "articulo": [
+              {
+                "numero-articulo": 13,
+                "texto": "ARTICULO  13: CONTROL. El Concesionario y el servicio que éste preste estarán bajo  el  control y regulación del Ente Regulador de acuerdo  con  las atribuciones  que  se  fijan  en  este  capítulo."
+              },
+              {
+                "numero-articulo": 14,
+                "texto": "ARTICULO 14: COMPETENCIA TERRITORIAL. El Ente Regulador tendrá competencia  dentro  de  toda  el  Area Regulada, y, fuera de ella, donde existan instalaciones operadas  por  el Concesionario para la prestación del servicio, o conexiones vinculadas  al sistema objeto de la Concesión."
+              },
+              {
+                "numero-articulo": 15,
+                "texto": "ARTICULO 15: NATURALEZA JURIDICA. El Ente Tripartito de Obras y Servicios  Sanitarios  se  constituye  como entidad autárquica, con capacidad de derecho público y privado."
+              },
+              {
+                "numero-articulo": 16,
+                "texto": "ARTICULO 16: LEGISLACION APLICABLE. El Ente Regulador se regirá en  su    gestión   financiera,  patrimonial  y  contable  por  las disposiciones del presente  Marco Regulatorio y los reglamentos que dicte, bajo las sujeciones establecidas  en  el  Artículo 18 inciso a)."
+              },
+              {
+                "numero-articulo": 17,
+                "texto": "ARTICULO 17: FACULTADES Y OBLIGACIONES. El Ente Regulador tiene como  finalidad  ejercer  el  poder  de  policía  y de regulación y control en materia de prestación del servicio público  de provisión de   agua  potable  y  desagües  cloacales  en  el  Area  Regulada, incluyendo  la  contaminación  hídrica  en  lo  que  se  refiere al control y fiscalización del Concesionario como agente contaminante,  de  conformidad  con lo  establecido  en este Marco Regulatorio.\n\nEn  tal  sentido  tendrá  a  su  cargo asegurar la calidad de  los servicios,  la  protección de los intereses  de  la  comunidad,  el control, fiscalización  y  verificación  del  cumplimiento  de  las normas vigentes, y del Contrato de Concesión.\n\nA  tal efecto posee las siguientes facultades y obligaciones:\n\na) Cumplir  y  hacer cumplir el Marco Regulatorio y el Contrato de Concesión del servicio  público  de  provisión  de  agua  potable y desagües  cloacales  y  sus  normas complementarias, realizando  un eficaz control y verificación  de  la  Concesión y de los servicios que el Concesionario preste a los Usuarios.\n\nb)  Aprobar  a  propuesta  del  Concesionario  un  \"Reglamento  de Usuarios\" que contenga las normas  regulatorias  de  los trámites y reclamaciones  de  los  Usuarios de conformidad con las previsiones del Anexo D y los principios  de  celeridad,  economía, sencillez y eficacia de los procedimientos.\n\nc)  Requerir  del  Concesionario  los  informes  necesarios   para efectuar  el  control  de  la Concesión, en la forma prevista en el Contrato de Concesión.\n\nd) Dar publicidad general,  de  los  planes  de  expansión  y  los cuadros tarifarios aprobados.\n\ne)  Aprobar  los  planes de mejoras y expansión del servicio en el área de la Concesión.\n\nf)  Controlar  que el  Concesionario  cumpla  con  los  planes  de mejoras y expansión  aprobados y los planes de inversión, operación y mantenimiento que éste  haya  propuesto  para satisfacer en forma eficiente las metas del servicios y su expansión.\n\ng)  Analizar  y  expedirse  acerca  del  informe    anual  que  el Concesionario  deberá  presentar, dar a publicidad sus conclusiones y  adoptar  las  medidas  que   contractualmente  correspondan.\n\nh) Atender los reclamos de los  Usuarios por deficiente prestación del  servicio, o excesos en la facturación,  en  los  términos  del inciso g) del Artículo 34.\n\ni) Producir  en todo reclamo interpuesto una decisión fundada.\n\nj) Verificar la  procedencia  de  las revisiones y ajustes que, en términos del Artículo 48 deban aplicarse a  los valores tarifarios.\n\nk) Aprobar los cuadros tarifarios y precios de  los  servicios  que preste el Concesionario.\n\nl)  Verificar que el Concesionario cumpla con el régimen tarifario vigente  y  toda  otra obligación de índole comercial que surja del presente  Marco  Regulatorio   y  del  Contrato  de  Concesión.\n\nm) Refrendar obligatoriamente  a  pedido  del  Concesionario,  las liquidaciones o certificados de deuda.\n\nn)  Intervenir en las decisiones relacionadas con la rescisión del Contrato  de  Concesión,  el  rescate  o  la  prórroga de la misma, elevando sus  conclusiones  fundadas  al PODER EJECUTIVO  NACIONAL.\n\no)  Aplicar  al Concesionario, las sanciones  establecidas  en  el Contrato de Concesión  por  incumplimientos a sus obligaciones. Las sanciones pecuniarias revertirán  al Usuario, debiéndose incluir en el  plan  anual siguiente como inversiones  adicionales  o  rebajas tarifarias,  en  cuyo  caso  ese  hecho se deberá especificar en la facturación al Usuario.\n\np) Requerir al PODER EJECUTIVO NACIONAL  la  intervención cautelar del  Concesionario  cuando,  por culpa de éste, se  den  causas  de extrema gravedad y urgencia que  afecten  el buen servicio y pongan en peligro la salubridad de la población.\n\nk)  Controlar  al  Concesionario  en  todo lo que  se  refiera  al mantenimiento de las instalaciones afectadas  al  servicio,  que se le  transfieran  o  sean  adquiridas  por  éste  con  motivo  de la Concesión, de acuerdo con los términos del Contrato de Concesión  y lo  establecido en el Capítulo X del presente, sin que las acciones que realice  el  Ente Regulador puedan interferir en la gestión del Concesionario.\n\nr) Aprobar, a pedido  del Concesionario, aquellos bienes que deban ser afectados a expropiación  o  servidumbre  para  la extensión de los servicios.\n\ns)  Mantener  rigurosamente la confidencialidad de la  información comercial  que obtenga  del  Concesionario,  sin  perjuicio  de  lo establecido en el inciso c) de este Artículo.\n\nt) Controlar  y,  eventualmente,  revisar,  las  autorizaciones  y denegatorias  otorgadas  por  el  Concesionario  en el marco de los Artículos 5, incisos d) y e), 11 y 12.\n\nu) En general, realizar todos los demás actos que  sean necesarios para  el  cumplimiento  de  sus funciones y los objetivos  de  este Marco  Regulatorio, de las normas  reglamentarias  y  disposiciones contractuales aplicables.\n\nLas facultades  enumeradas precedentemente no podrán ser ejercidas de  manera  tal que  interfieran  u  obstruyan  la  prestación  del servicio, ni  signifique  la  subrogación del Ente Regulador en las funciones propias del Concesionario, en particular, la determinación  de  los medios que  permitan  la  obtención  de  los resultados exigidos y comprometidos respectivamente."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "DLE C 023354 1956 12 31 0084 000 0084 000  A"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "DLE C 023354 1956 12 31 0085 000 0085 000  A"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_2",
+                      "ref": "DLE C 023354 1956 12 31 0136 000 0136 000  A"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_3",
+                      "ref": "DEC C 001883 1991 09 17 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_4",
+                      "ref": "TOR C 001759 1991 09 17 0094 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 18,
+                "texto": "ARTICULO  18:  CONTROLES  ADMINISTRATIVOS.  El  Ente Regulador estará sometido a los siguientes controles:\n\na) De auditoría y legalidad. El control de auditoría  y  legalidad del  Ente  Regulador  estará a cargo del Tribunal de Cuentas de  la Nación, con arreglo a lo  dispuesto en los Artículos 84, 85 y 136 y concordantes  de  la  Ley  de  Contabilidad  de  la  Nación  y  los funcionarios  del  Ente  Regulador    quedarán    sometidos  a  las responsabilidades  emergentes  del  Artículo 90 y concordantes  del mismo cuerpo normativo.\n\nb)  Jerárquico.  Contra las decisiones  del  Ente  Regulador,  los particulares  sean  Usuarios   o  no  y  el  Concesionario,  podrán interponer Recurso de Alzada ante  el  PODER EJECUTIVO NACIONAL, en los términos del Artículo 94 del Reglamento  del Decreto 1.759/72 T.O. 1991, aprobado por Decreto 1.883/91."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 022140 1980 01 18 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 19,
+                "texto": "ARTICULO  19:  DIRECTORIO.  El  Ente Regulador será dirigido y administrado por un Directorio de seis  miembros representantes del Poder Ejecutivo Nacional, de la Provincia  de  Buenos  Aires  y  la Municipalidad  de  la  Ciudad  de  Buenos Aires, respectivamente, a razón de dos integrantes por cada uno.\n\nLos miembros del Directorio deberán  reunir  los  requisitos  para ser   funcionario  público  y  contar  con  probada  experiencia  e idoneidad  acordes  a  las  actividades que deban cumplir, rigiendo las incompatibilidades de la Ley 22.140."
+              },
+              {
+                "numero-articulo": 20,
+                "texto": "ARTICULO  20:  ELECCION  DEL  PRESIDENTE Y VICEPRESIDENTE. Las autoridades  del  Ente  Regulador  serán   elegidas  de  entre  los miembros  del Directorio con mandato por un  (1)  año  y  en  forma rotativa entre las jurisdicciones representadas.\n\nEl Presidente  ejercerá  la  representación  legal  y,  en caso de impedimento  o  ausencia  transitoria,  será  reemplazado  por  el Vicepresidente."
+              },
+              {
+                "numero-articulo": 21,
+                "texto": "ARTICULO  21:  COMISION ASESORA. El Ente Regulador contará con una Comisión Asesora  ad-honorem,  integrada  por representantes de las  Asociaciones o Entidades ligadas a temas Sanitarios  o  a  los Usuarios.\n\nEn los  supuestos  de emprendimientos, construcciones, concesiones o implementación de cualquier  otra  acción  en jurisdicción de los partidos de la provincia de Buenos Aires comprendidos  en  el  Area Regulada,  deberá  invitarse  a formar parte de esta comisión, a un representante  de  cada  jurisdicción    involucrada,    que  podrá participar  en  el examen y asesoramiento atinente a las cuestiones que la afecten."
+              },
+              {
+                "numero-articulo": 22,
+                "texto": "ARTICULO  22: DURACION DEL MANDATO. El mandato de los miembros del Directorio se  extenderá  por  seis  (6)  años y su designación podrá  ser  renovada  por  un  solo  período de idéntica  duración."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 001798 1980 09 01 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 23,
+                "texto": "ARTICULO  23:  REMOCION. Los miembros del Directorio solamente podrán  ser removidos  con  justa  causa.  Será  de  aplicación  el Decreto 1.798/80,  sólo en relación con los representantes del PODER EJECUTIVO NACIONAL."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 013577 1949 09 29 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "LEY C 021499 1977 01 17 0000 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 24,
+                "texto": "ARTICULO 24: FACULTADES DEL DIRECTORIO. El Directorio del Ente Regulador tendrá las siguientes atribuciones:\n\na)  Establecer  el  presupuesto  anual  de  gastos  y  cálculo  de recursos.\n\nb) Confeccionar anualmente la memoria y balance.\n\nc)  Aprobar  la  organización  del  Ente  Regulador  y  dictar  el reglamento interno.\n\nd)  Efectuar   las  contrataciones  para  satisfacer  sus  propias necesidades.\n\ne) Contratar y  remover  al personal del Ente Regulador, fijándole sus  funciones  y  remuneraciones.    Las   remuneraciones  de  los Directores  serán  fijadas por el PODER EJECUTIVO  NACIONAL  o  por quien éste designe.\n\nf) Administrar los  bienes  que  integren  el  patrimonio del Ente Regulador.\n\ng) Celebrar arreglos judiciales o extrajudiciales y transacciones.\n\nh)  Otorgar  poderes  generales  y  especiales  y  revocarlos.\n\ni) Aprobar las gestiones y actividades que realice el Concesionario  cuando  actúe  como  sujeto  expropiante,  en    los términos de la Ley N. 13.577 y de la Ley N. 21.499.\n\nj)  Autorizar  al  Concesionario  a  constituir  restricciones  al dominio  y  servidumbre,  en  los términos del Código Civil y de la Ley N. 13.577.\n\nk) En general, realizar todos  los  actos jurídicos que hagan a su objeto."
+              },
+              {
+                "numero-articulo": 25,
+                "texto": "ARTICULO  25:  RECURSOS.  Los recursos del Ente Regulador para cubrir  sus costos de funcionamiento  serán  los  siguientes:\n\na) Los aportes  que  realicen  cada  una de las partes integrantes b) Una suma fija que el Concesionario  de los servicios sanitarios de  OBRAS  SANITARIAS  DE  LA  NACION recaudará  periódicamente,  a través  del  sistema  tarifario, explicitando  claramente  en  cada factura  el  monto  correspondiente   y  el  destino  asignado.\n\nc) Tasas o derechos especiales por el  control de la contaminación hídrica exclusivamente del Concesionario.\n\nd)  El  importe  de  los  derechos de inspección  y  retribuciones similares que establezca por los  servicios  especiales que preste.\n\ne)  Las  donaciones y legados sin cargo y que sean  aceptados.\n\nf) Cualquier  otro  ingreso  que  previeren  las  leyes  o  normas especiales, o de aportes privados específicos."
+              },
+              {
+                "numero-articulo": 26,
+                "texto": "ARTICULO  26:  PRESUPUESTO.  El  presupuesto anual de gastos y recursos del Ente Regulador deberá ser equilibrado."
+              },
+              {
+                "numero-articulo": 27,
+                "texto": "ARTICULO  27:  RECLAMOS Y DEMAS TRAMITES. Todas las cuestiones sometidas a conocimiento  del  Ente  Regulador deberán sustanciarse con la mayor celeridad posible, garantizando  el derecho de defensa de  los  particulares  y  del  Concesionario  cuando   corresponda."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO IV CONCESIONARIO",
+            "articulo": [
+              {
+                "numero-articulo": 28,
+                "texto": "ARTICULO  28:  REQUISITOS.  El  Concesionario y los eventuales Subconcesionarios  deberán  contar con probada  experiencia  en  la prestación de servicios de agua  potable  y  desagües  cloacales, y con  la  suficiente  y  específica  capacidad técnica y financiera, para prestar el servicio objeto de la Concesión."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 021499 1977 01 17 0002 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "LEY C 013577 1949 09 29 0058 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_2",
+                      "ref": "CCI C 000340 1869 09 25 2611 000 2611 000  A"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_3",
+                      "ref": "CCI C 000340 1869 09 25 3082 000 3082 000  A"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_4",
+                      "ref": "LEY C 013577 1949 09 29 0025 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_5",
+                      "ref": "LEY C 013577 1949 09 29 0028 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_6",
+                      "ref": "LEY C 002797 1891 09 02 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_7",
+                      "ref": "LEY C 004198 1903 08 22 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_8",
+                      "ref": "LEY C 023410 1986 09 30 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_9",
+                      "ref": "DLE C 014160 1945 06 28 0059 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 29,
+                "texto": "ARTICULO  29: DEBERES Y ATRIBUCIONES. Sin perjuicio de los que el Contrato de Concesión  le reconozca, el Concesionario tendrá los siguientes deberes y atribuciones:\n\na) Realizar todas las tareas  indicadas en  el  Artículo  N. 1 del presente,   de   acuerdo  con  las  disposiciones  de  este  Marco Regulatorio  y  los    términos   del  Contrato  de  Concesión.\n\nb) Preparar planes de operación,  inversión  y mejoras y expansión en   los  términos  previstos  en  el  Contrato  de  Concesión.\n\nc) Celebrar  convenios  con  personas y entidades internacionales, nacionales, provinciales o municipales,  públicas  o  privadas para el cumplimiento de sus fines.\n\nd)  Actuar  como  sujeto expropiante en los términos del  Artículo N. 2 de la Ley N. 21.499  y Artículo N. 58 de la Ley N. 13.577, para lo cual deberá requerir, aprobación  previa  del  Ente  Regulador.\n\ne)  Solicitar  la  constitución  de  restricciones  al  dominio  y servidumbres  por parte del Ente Regulador en los términos  de  los Artículos N. 2.611,  N. 3.082,  siguientes y concordantes del Código Civil  y  de  la Ley Orgánica de OBRAS SANITARIAS DE LA NACION.\n\nf) Construir,  operar  y/o  mantener  instalaciones fuera del Area Regulada para la provisión de servicios  de agua potable y desagües cloacales  según el Contrato de Concesión y  las  disposiciones  de este Marco Regulatorio.\n\ng) Efectuar  propuestas  al  Ente  Regulador  relativas al régimen tarifario y a cualquier aspecto de la Concesión.\n\nh)  Administrar y mantener los bienes afectados  al  servicio,  en las condiciones  que  se  establecen  en  el  Capítulo  X  y  en el Contrato de Concesión.\n\ni)  Acordar  con  las empresas prestatarias de servicios públicos, instituciones o particulares  el  uso  común  del suelo o subsuelo, cuando  sea necesario  para la construcción y explotación  de  las obras previstas y los planes aprobados.\n\nEn  caso  que  fuera necesario  remover  o  adecuar  instalaciones existentes y no lograre acuerdo para ello, requerirá la intervención del  Ente  Regulador, en los términos del Artículo 25 de  la  Ley Orgánica de OSN, a efectos  de  resolver  el  conflicto planteado.\n\nLos costos  que  estos  trabajos  demanden  serán  abonados por el Concesionario,  salvo  expreso  pacto  en contrario. La remoción  o adecuación de las instalaciones operadas  por el Concesionario será a costa de quienes la soliciten.\n\nj)  Publicar  información de manera tal que  los  Usuarios  puedan tener conocimiento  general sobre los planes de mejoras y expansión de la red operada y del servicio.\n\nk) En los casos de los  Artículos  10,  11  y  12 del presente, el Concesionario  podrá proceder de oficio a la anulación  de  fuentes alternativas de  captación o recepción de agua o desagües cloacales respectivamente. En  caso  de  oposición, podrá requerir el auxilio de la fuerza pública con intervención  del  Ente  Regulador  en los términos del Artículo 28 de la Ley Orgánica de OSN.\n\nNo  será  de  aplicación  a  la  Concesión  el segundo párrafo del Artículo 28 de la Ley Orgánica de OSN.\n\n1)    Cuando  se  comprueben  deficiencias  en  las  instalaciones conectadas  al  sistema  que  perturben la normal prestación de los servicios  u  ocasionen perjuicios  a  terceros,  el  Concesionario podrá,  previa intimación,  disponer  el  corte  del  servicio.\n\nm) Cuando  se  detecten  infracciones  cometidas por los Usuarios, que ocasionen la contaminación de los cursos  de agua o sus fuentes naturales  o  perjudiquen  sus  servicios  y/o  instalaciones,   el Concesionario  deberá  intimar  el cese de la infracción fijando un plazo al efecto. En caso de negativa  o  incumplimiento  del  plazo establecido,  podrá  requerir  al  Ente Regulador autorización para eliminar  la  causa de la polución, que  afecte  al servicio,  sin perjuicio de las sanciones  y  resarcimientos  que correspondieren.\n\nEn  caso  de negativa u omisión del Ente Regulador,  podrá  acudir directamente  ante el Juez competente, solicitando la aplicación de las Leyes 2797  y  4198,  de  la  Ley Orgánica de OSN y las medidas precautorias que correspondan. Ello sin perjuicio de la responsabilidad  del  Ente Regulador  por  los  perjuicios  que  su actitud pudiera ocasionar  sobre  los  bienes  y  el  servicio.\n\nn)  Cobrar  las  tarifas  por  los  servicios  prestados,  en  los términos   de  los  Capítulos  VII  y  VIII  del  presente,  y  las modalidades    que    establezca   el  Contrato  de  Concesión.\n\no) Con autorización previa del Ente  Regulador podrá comercializar exceso  de  producción  de  agua  potable  o  capacidad  cloacal  y productos del tratamiento de efluentes cloacales  o  agua  cruda  o realizar  otras actividades comerciales o industriales expresamente previstas  en  el  Contrato de  Concesión,  siempre  que  ello  no signifique un  perjuicio a los Usuarios. Las utilidades que perciba el Concesionario  en  razón de estas actividades deberán beneficiar también a los Usuarios  a través de las tarifas o planes de mejoras y expansión.\n\np) Presentar anualmente  al  Ente  Regulador,  de  acuerdo  con el Contrato  de  Concesión,  un  informe  detallado de las actividades desarrolladas  y  las planificadas para el  año  siguiente,  y  del cumplimiento de los  planes  de  mejoras y expansión aprobados.\n\nSin perjuicio de este informe, el Concesionario deberá proporcionar al Ente Regulador la  información que éste le requiera de conformidad a lo establecido en el inciso  c)  del  Artículo 17.\n\nq)  Condonar,  quitar,  otorgar plazos de gracia y novar la  deuda derivada de la Ley 23.410  modificatoria  de la Ley Orgánica de OSN y sus normas reglamentarias.\n\nr)  El Concesionario podrá captar aguas superficiales  de  ríos  y cursos  de  agua  nacionales  o provinciales, y aguas subterráneas, para  la  prestación  de  los  servicios  concesionados,  sin  otra limitación que su uso racional, y sin cargo alguno.\n\ns) El Concesionario podrá utilizar  la vía pública, cumplimentando las  normas aplicables.  Asimismo,  ocupar  el  subsuelo  para  la instalación de cañerías, conductos y otras  obras  o construcciones afectadas al servicio, sin cargo alguno.\n\nt) El Concesionario podrá ejercer previa aprobación  del  Ente las facultades  de  OSN,  reconocidas  por la Ley 14.160 (artículo 59), para la obtención, libre de todo cargo  y gravamen, de los terrenos o fuentes de provisión de agua, que pertenezcan  a  los  Municipios del Area Regulada de la Pcia. de Buenos Aires.\n\nu)  El  Concesionario  tendrá  derecho al vertido de los efluentes cloacales a los cursos de agua sin  cargo alguno y de acuerdo a las normas indicadas en el Capítulo VI."
+              },
+              {
+                "numero-articulo": 30,
+                "texto": "ARTICULO  30: SUBCONCESION. El Concesionario podrá subconceder el servicio definido  en el Artículo 1 del presente si concurriesen las siguientes circunstancias y requisitos:\n\na)  Deberá  existir  autorización  previa  del  Ente  Regulador  y aprobación posterior del contrato de Subconcesión.\n\nb)  No podrán otorgarse  subconcesiones  fuera  de  las  Areas  de Expansión o Remanente.\n\nc) El  servicio  otorgado  en  Subconcesión deberá ser provisto de acuerdo a las mismas normas de calidad  exigidas  al  Concesionario principal.\n\nd) El Subconcesionario deberá llevar una contabilidad absolutamente    independiente    de    la  del  Concesionario.\n\ne) El Subconcesionario estará sometido a  los  mismos  controles y obligaciones  establecidos  en  el  presente  y  en el Contrato  de Concesión para el Concesionario.\n\nf)  La  facturación  anual total de los servicios que  se  den  en Subconcesión no podrá exceder  del veinticinco por ciento (25 %) de la facturación anual del Concesionario.\n\ng) En ningún caso la Subconcesión  deberá  permitir  desvirtuar el Contrato  de  Concesión  en  sus  aspectos económicos, técnicos  ni jurídicos.\n\nh) En todos los casos el Concesionario  mantendrá la plena y total responsabilidad  emergente  de  la operación  y  mantenimiento  del servicio subconcedido.\n\nEl Ente Regulador estará facultado  para  declarar la extinción de la  Subconcesión  en  aquellos  casos  en  que  se    compruebe  el incumplimiento de alguna de las condiciones mencionadas precedentemente."
+              },
+              {
+                "numero-articulo": 31,
+                "texto": "ARTICULO  31:  PROCEDIMIENTOS  DE  CONTRATACION. Los contratos celebrados  por  el  Concesionario  deberán  incluir  una  cláusula estipulando  expresamente  la  posibilidad  del  Concedente   o  el continuador del  servicio  de  continuar los contratos vigentes al momento de la extinción de la Concesión, cualquiera fuere su causa.\n\nLos  contratos  de  bienes,  servicios o locaciones  de  obra  que celebre el Concesionario deberán  ser  realizados previa licitación u  otro  procedimiento competitivo  comparable,  cuando  el  monto contractual  o  el monto anual de contrataciones  similares  exceda los diez millones de pesos ($ 10.000.000.-).\n\nEn estos casos,  como  requisitos mínimos el Concesionario deberá:\n\na) Publicar un aviso en un  medio  y forma adecuados, detallando la contratación  prevista  y la fecha para  la  cual  se  requiere  la prestación, e invitando a  cualquier persona a ofertar los bienes o servicios requeridos.\n\nb)  Otorgar  la  debida consideración  a  las  ofertas  recibidas, procurando que la contratación  sea  a  precio razonable y el menor entre las ofertas admisibles."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO V DE LA PROTECCION DE LOS USUARIOS",
+            "articulo": [
+              {
+                "numero-articulo": 32,
+                "texto": "ARTICULO  32:  DERECHO  GENERICO. Todas las personas físicas o jurídicas que habiten o estén  establecidas  en el ámbito descripto en el Artículo 2 tienen derecho a la provisión  de  agua  potable y desagües  cloacales  de  acuerdo con las pautas establecidas en  el presente."
+              },
+              {
+                "numero-articulo": 33,
+                "texto": "ARTICULO 33: USUARIOS REALES Y POTENCIALES. Son Usuarios reales quienes  se  encuentren  comprendidos dentro de alguna de las Areas Servidas, y son Usuarios potenciales  quienes estén comprendidos en las Areas de Expansión y Remanente."
+              },
+              {
+                "numero-articulo": 34,
+                "texto": "ARTICULO  34:  DERECHOS  DE  LOS USUARIOS REALES. Los Usuarios reales gozan de los siguientes derechos,  sin  que esta enumeración deba considerarse limitativa:\n\na)  Exigir  al  Concesionario  la  prestación  de  los   servicios conforme a los niveles de calidad establecidos en el presente  y en el  Contrato  de  Concesión,  y  a reclamar ante el mismo si así no sucediera.\n\nb) Recurrir ante el Ente Regulador,  cuando  el nivel del servicio sea  inferior  al  establecido,  y  el  Concesionario   no  hubiera atendido el reclamo a que se refiere el inciso anterior,  para  que le ordene a éste la adecuación del mismo a los términos contractuales.\n\nc)   Recibir  información  general  sobre  los  servicios  que  el Concesionario  preste,  en  forma suficientemente detallada para el ejercicio de sus derechos como Usuarios.\n\nd)  Ser informados con antelación  suficiente  de  los  cortes  de servicios programados por razones operativas.\n\ne) Reclamar  ante el Concesionario cuando se compruebe que éste no cumple con los planes de expansión y metas fijadas.\n\nf) Exigir al Concesionario  que  haga conocer el régimen tarifario aprobado y sus sucesivas modificaciones,  con la debida antelación.\n\ng)  Reclamar  ante  el  Concesionario,  cuando    se    produjeran alteraciones  en  las  facturas  que  no  coincidan  con el régimen tarifario   publicado,    conforme   a  los  lineamientos  básicos establecidos en el Anexo D.\n\nh) Recibir las facturas con la debida antelación a su vencimiento.  A tal efecto el Concesionario  deberá  remitirlas  en tiempo propio y  por  medio idóneo. En caso de no ser recibidas las facturas,  subsiste la obligación  de  pagar  en  la  fecha  de  su vencimiento.  A  tal efecto, toda factura deberá indicar claramente la fecha del vencimiento subsiguiente.\n\ni) Denunciar ante  el  Ente Regulador cualquier conducta irregular u omisión del Concesionario  o  sus agentes que pudiera afectar sus derechos, perjudicar los servicios o el medio ambiente."
+              },
+              {
+                "numero-articulo": 35,
+                "texto": "ARTICULO 35: DERECHOS DE LOS USUARIOS POTENCIALES. Los Usuarios potenciales  gozan  de  los  derechos  reconocidos  a  los Usuarios actuales,  en  los incisos c) y e) del Artículo precedente,  y  los que surgen del Artículo 5, según corresponda."
+              },
+              {
+                "numero-articulo": 36,
+                "texto": "ARTICULO 36: OFICINA DE RECLAMOS. A todo los efectos indicados en los  Artículos  anteriores  el Concesionario, en cada una de las jurisdicciones  en  que  tenga  habilitadas  oficinas  comerciales, deberá habilitar oficinas atendidas  por  personal competente en la materia,  en  las  que  puedan  ser  recibidos  y   tramitados  las consultas  y  los reclamos de los Usuarios. Será considerada  falta en el servicio  la  deficiente  atención  al  público por parte del Concesionario.\n\nEl  Ente  Regulador  deberá  contar  también  con una  oficina  de reclamos en su sede, que sólo atenderá los casos  previstos  en los incisos b), c), d) e i) del Artículo 34."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO VI CALIDAD DEL SERVICIO",
+            "articulo": [
+              {
+                "numero-articulo": 37,
+                "texto": "ARTICULO  37:  REQUERIMIENTOS  GENERALES. La provisión de agua potable y desagües cloacales constituyen  un  servicio  público que debe  ser  desarrollado  complementariamente  procurando evitar  la instalación  de sistemas cloacales sin la instalación  de  sistemas de provisión de agua potable.\n\nEl Ente deberá  analizar  el plan de mejoras y expansión propuesto por  el  Concesionario  verificando    el    cumplimiento  de  esta disposición en cada área que se incorpore al sistema."
+              },
+              {
+                "numero-articulo": 38,
+                "texto": "ARTICULO  38:  PROGRAMA  BASICO.  El  objetivo  central  es la provisión  de  agua  potable  y  desagües  cloacales  a  niveles de servicio  considerados  apropiados para los Usuarios, entendiéndose por  tales  los  definidos en  el  Artículo  42  del  presente.\n\nAl respecto el Concesionario  deberá  presentar al Ente Regulador, tal  como se establezca en el Contrato de  Concesión,  el  programa referente  al  modo  de  alcanzar  y  mantener  dichos  niveles  de servicio.    Estos    programas  estarán  basados  en  estudios  de necesidades del servicio  llevados a cabo por el Concesionario y de acuerdo a los requerimientos  fijados en el Contrato de Concesión y acordados con el Ente Regulador.\n\nSi por razones de orden práctico  no  imputables al Concesionario, sumadas a la necesidad de mejorar los sistemas  existentes, y luego del análisis detallado del concesionario, resultara la imposibilidad  de alcanzar inmediatamente los niveles  de  servicio apropiados, el Ente  Regulador  podrá otorgar permisos con carácter excepcional  e  indicando  un plazo  determinado  para  operar  con niveles de servicio de menores exigencias."
+              },
+              {
+                "numero-articulo": 39,
+                "texto": "ARTICULO  39:  PROVISION DE INFORMACION. El Concesionario debe llevar registros del servicio prestado y tomar muestras suficientes que  permitan  establecer si los servicios de provisión de agua y desagües cloacales se están operando y manteniendo correctamente,  de  acuerdo  a  las  disposiciones  de  este  Marco Regulatorio y del Contrato  de  Concesión.  Estos  registros  deben estar  disponibles  para  las  inspecciones que  el Ente Regulador desee  practicar  y  deberán  ser  recopilados  de manera  tal  que permitan proveer regularmente al Ente Regulador de  la  información necesaria  y  suficiente  para verificar lo indicado en el Artículo 42 y para comprobar que la  gestión  es  llevada  a  cabo de manera prudente y de acuerdo a los planes acordados."
+              },
+              {
+                "numero-articulo": 40,
+                "texto": "ARTICULO  40:  CERTIFICACION Y VERIFICACION DE INFORMACION. La información  provista  anualmente  por  el  Concesionario  al  Ente Regulador deberá  ser  acompañada  por  un  certificado  que deberá precisar  si  dicha información es reflejo de la gestión llevada  a cabo por el Concesionario.  Este certificado deberá ser firmado por auditores técnicos y financieros  designados por el Concesionario y aceptados por el Ente Regulador. El  Concesionario  deberá  prestar su  colaboración  a  los  auditores en toda investigación razonable tendiente a verificar la precisión  y suficiencia de la información provista,  los  métodos  utilizados  y  pasos    seguidos  para  la producción  de  esa información y en toda otra actividad  tendiente al eficiente control  y  regulación de los servicios prestados.\n\nNada  de  lo  previsto  en  este   Artículo  deberá  requerir  del Concesionario  la realización de tareas  que  estén  razonablemente fuera de su control  o  que impliquen un avance sobre sus derechos."
+              },
+              {
+                "numero-articulo": 41,
+                "texto": "ARTICULO 41: INFORMACION A LOS USUARIOS. El Concesionario debe informar  a  los  Usuarios sobre los niveles de calidad de servicio existente, los niveles apropiados y los programas para alcanzarlos.  Esta información  será  publicada  periódicamente  en material de libre distribución."
+              },
+              {
+                "numero-articulo": 42,
+                "texto": "ARTICULO  42: NIVELES DE SERVICIO APROPIADOS. Sin perjuicio de lo establecido en  el  Contrato  de  Concesión  y todo otro acuerdo entre  el  Concesionario  y  el  Ente  Regulador,  los  niveles  de servicio apropiados serán los siguientes:\n\na)  Cobertura  de  los servicios. Es objetivo de la Concesión  que los  servicios  de  agua    potable   y  desagües  cloacales  estén disponibles  en los plazos y con los alcances  que  se  fijen en el Contrato  de  Concesión  para  los  habitantes  de  las ciudades  y pueblos del Area Regulada.\n\nb)  Calidad  de agua potable. El agua que el Concesionario  provea deberá cumplir  con los requerimientos técnicos según se detalla en el Anexo A.\n\nEl Concesionario  deberá  establecer, mantener, operar y registrar un régimen de muestreo regular  y  para  emergencias, tanto de agua cruda como agua en tratamiento y tratada,  a  efectos  de controlar el  agua  a  todo  lo  largo  del  sistema de provisión. Las normas aplicables al régimen de muestreo de  agua  se incluyen en el Anexo B.\n\nEn  caso  de  producirse una falla de calidad por  encima  de  los límites  tolerables,  el  Concesionario  deberá  informar  al  Ente Regulador  de  inmediato,  describiendo  las  causas, indicando las medidas y proponiendo las acciones necesarias que  llevará  a  cabo para  restablecer  la  calidad  del  agua.\n\nc)  Presión de agua. El objetivo  general al que el Concesionario deberá tender es  a mantener, sin ser éste un valor absoluto, una presión disponible de 10 metros de columna de agua medida en la conexión de los inmuebles servidos.\n\nEste  requerimiento  no implica la obligación de tomar  mediciones de presión en todas o alguna  conexión  en  particular del sistema.\n\nLa  carga  deberá  poder  ser  establecida por cálculos  o  modelos matemáticos disponibles para su  consulta  por  el Ente Regulador y verificados  por  mediciones  de  campo.\n\nEl  Concesionario   podrá requerir  y  el  Ente  Regulador aprobar valores menores de presión disponible en zonas designadas, si por razones  técnicas  el servicio pudiera ser provisto satisfactoriamente con  una  presión de agua inferior.\n\nEl  Concesionario  deberá  controlar  y  restringir  las presiones máximas  en el sistema de manera de evitar daños a terceros  y  de reducir las pérdidas  de agua. La responsabilidad del Concesionario en cuanto a daños o roturas  por  alta  presión podrá limitarse por la necesidad de mantener en operación sistemas  antiguos,  donde la reducción  de  presión  pueda  no resultar razonable o técnicamente practicable.\n\nd) Continuidad del abastecimiento.  El  servicio  de  provisión de agua deberá, en condiciones normales, ser continuo, sin interrupciones  regulares  debida a deficiencias en los sistemas  o capacidad  inadecuada,  garantizando   la  disponibilidad  de  agua durante las veinticuatro horas del día.\n\ne)  Interrupciones  del abastecimiento.  El  Concesionario  deberá minimizar los cortes en  el  servicio  de  abastecimiento  de  agua potable a los Usuarios, restituyendo la prestación ante interrupciones  no  planificadas  en el menor tiempo posible dentro de  las  previsiones del Contrato de  Concesión. El  Concesionario deberá informar  a  los Usuarios afectados sobre cortes programados con la suficiente antelación, previendo un servicio de abastecimiento  de  emergencia   si  la  interrupción  debiera  ser prolongada, de  acuerdo  a  lo  establecido   en  el  Contrato  de Concesión.\n\nf)  Tratamiento  de  efluentes cloacales. El Concesionario  deberá adecuar el sistema de tratamiento  de efluentes a las normas que se incluyen  en  el  Anexo  B  y  en el Contrato  de  Concesión.\n\nEn los casos de sistemas que no  incluyan tratamiento primario y/o secundario de efluentes cloacales,  se deberá ajustar el cronograma de implementación de mejoras del Anexo B.\n\nToda nueva instalación independiente de la red troncal perteneciente  a OSN deberá contemplar  el  tratamiento  secundario incluido el de barros  y  otros  residuos contaminantes, resultando de aplicación las normas de calidad  indicadas  en el Anexo B.\n\nA  partir  de  la vigencia del presente marco el Concesionario  no podrá recibir barros  u  otros  residuos  contaminantes  en  la red troncal de colectores como método de disposición.\n\nQueda  establecido  que  estas  normas serán de aplicación a todas las plantas de tratamiento de efluentes  cloacales  que  se  hallen instaladas en el Area Regulada.\n\ng)    Calidad   de  efluentes  cloacales.  Los  efluentes  que  el Concesionario vierta  al  sistema  hídrico,  deberá cumplir con las normas de calidad y requerimientos que se detallan  en  el Anexo B, diferenciando su aplicación de acuerdo al sistema de tratamiento  y su grado de implementación.\n\nEl  Concesionario  deberá establecer, mantener, operar y registrar un régimen de muestreo  regular  y de emergencias, de los efluentes vertidos  en  los  distintos  puntos  del    sistema.   Las  normas aplicables al régimen de muestreo se incluyen en el Anexo  C.\n\nEl    Concesionario  deberá  recibir  las  descargas  de  líquidos cloacales   e    industriales  de  camiones  atmosféricos  en  las instalaciones habilitadas  por  el  Ente Regulador. La recepción de estos  líquidos  o residuos industriales  estará  limitada  por  la semejanza a la composición  con  líquidos cloacales; y para ello el Concesionario  podrá realizar los análisis  que  crea  convenientes para preservar las  instalaciones y demás elementos de conducción y tratamiento.\n\nEn  caso  de producirse  algún  inconveniente  en  el  sistema  de tratamiento que  provoque  el  incumplimiento  de  las  normas, el Concesionario  deberá  informar  al  Ente  Regulador  de  inmediato describiendo  las  causas que lo generan y proponiendo las acciones necesarias que llevará  a  cabo  para  restablecer  la  calidad  de efluentes y la confiabilidad del sistema.\n\nh)  Inundaciones  por  desagües cloacales. El Concesionario deberá operar, limpiar, reparar,  reemplazar  y  extender  el  sistema  de desagües cloacales de manera de minimizar el riesgo de inundaciones  provocadas  por  deficiencias del  sistema  que sólo podrán  ser justificadas excepcionalmente mediante decisión fundada del Ente Regulador.\n\ni) Atención  de  consultas y reclamos de Usuarios. El Concesionario deberá atender las  consultas  y reclamos de los Usuarios dentro de un plazo razonablemente reducido  y  de  una  manera  sustancial  y satisfactoria,    de   acuerdo  al  Contrato  de  Concesión.\n\nTodas estas normas y las  incluidas  en  los  Anexos  A  y  B  del presente  Marco  Regulatorio  podrán ser modificadas por organismos nacionales con incumbencia en el  tema,  para  lo cual se requerirá la modificación expresa de estas normas."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO VII REGIMEN TARIFARIO",
+            "articulo": [
+              {
+                "numero-articulo": 43,
+                "texto": "ARTICULO 43: REGIMEN. El régimen tarifario será establecido en el Contrato  de  Concesión,  donde  se  precisarán  los  siguientes puntos:\n\na) Régimen Tarifario inicial b)  Programas  y  pautas  de revisiones periódicas y Mecanismo  de Revisión.\n\nLas  revisiones  previstas serán  resueltas  de  acuerdo  con  las previsiones de los  Artículos siguientes, y con la intervención del Ente Regulador."
+              },
+              {
+                "numero-articulo": 44,
+                "texto": "ARTICULO  44: PRINCIPIOS GENERALES. El régimen tarifario de la Concesión para la  provisión  de  los  servicios  de agua potable y desagües    cloacales  se  ajustará  a  los  siguientes  principios generales: a)  Propenderá  a  un  uso  racional  y eficiente de los servicios  brindados  y  de  los  recursos  involucrados   para  su prestación.\n\nb)  Posibilitará  un equilibrio consistente entre la oferta  y  la demanda  de servicios.    El  Concesionario  no  podrá  restringir voluntariamente la oferta de servicios.\n\nc)  Atenderá  a  objetivos  sanitarios    y   sociales  vinculados directamente con la prestación.\n\nd)  Los precios y tarifas tenderán a reflejar el  costo  económico de la  prestación  de  los  servicios  de  agua  potable y desagües cloacales  incluyendo  el  margen de beneficio del Concesionario  e incorporando  los costos emergentes  de  los  planes  de  expansión aprobados. e) Permitirá  que  los  valores  tarifarios  aplicados a algunos   segmentos  de  Usuarios  equilibren  el  costo  económico precisado  en  el  inciso  d),  de  otros  grupos  de  usuarios del sistema.\n\nEl  monto  resultante  de  las  tarifas  facturadas a los Usuarios deberá permitir al Concesionario, cuando éste opere eficientemente, obtener ingresos suficientes  para  satisfacer  los costos  implícitos  en  la  operación, mantenimiento y expansión de los servicios prestados."
+              },
+              {
+                "numero-articulo": 45,
+                "texto": "ARTICULO  45:  ESTRUCTURAS  TARIFARIAS.  El  sistema tarifario básico  estará  compuesto por un régimen que incorpora  el  consumo medido, posibilitando  que existan algunas categorías de Usuarios a los cuales se les aplica  un  sistema tarifario de cuota fija.\n\nEl  régimen  tarifario  de  consumo   medido  será  de  aplicación obligatoria en los siguientes casos:\n\na) Usuarios no residenciales.\n\nb) Ventas de agua \"en bloque\".\n\nc) A opción del Concesionario, en los  casos no comprendidos en a) y b).\n\nd) A opción de los Usuarios en los casos  no  comprendidos en a) y b).\n\nEl  régimen  tarifario de cuota fija será aplicable  a  todos  los Usuarios  no  comprendidos    en   los  acápites  anteriores.\n\nLas opciones establecidas en los incisos  c) y d) respectivamente, podrán  ser ejercidas por única vez y en cualquier  momento  dentro del período  de la Concesión, en el marco de las condiciones que se establezcan.\n\nEn los casos  en  que el Concesionario no pueda dar cumplimiento a la implementación inmediata  del  régimen tarifario medido, el ENTE REGULADOR autorizará por única vez,  el otorgamiento de un plazo de dos (2) años para dicho cumplimiento.  Durante  ese  lapso  será de aplicación el régimen tarifario de cuota fija.\n\nCumplido el plazo, el Concesionario incorporará a los Usuarios  al régimen  tarifario  de  consumo  medido,  y si no existiese la real medición  de  los  consumos,  sólo  podrá facturar  el  cargo  fijo establecido para cada categoría."
+              },
+              {
+                "numero-articulo": 46,
+                "texto": "ARTICULO  46:  FIJACION  DE  TARIFAS  Y  PRECIOS.  Los cuadros tarifarios  y  precios  aplicables  a  los servicios que preste  el Concesionario inicialmente se fijarán en  el  Contrato de Concesión y  luego  serán  propuestos  por  éste como parte esencial  de  los planes de mejoras y expansión que se  sometan  a  la aprobación del Ente  Regulador  en  el  marco  de  las  revisiones periódicas  que establezca el contrato. Todo ello sin perjuicio  de  las revisiones extraordinarias que correspondieren."
+              },
+              {
+                "numero-articulo": 47,
+                "texto": "ARTICULO  47:  REGULACION.  El  Ente  Regulador  ejercerá  la regulación  tarifaria  en  base al análisis que él mismo realice de los planes de mejoras y expansión  que  el  Concesionario  presente periódicamente.  La variable de regulación tarifaria será el  monto de ingresos que el  Concesionario  reciba  por  los  servicios  que preste  en  función  del número de Usuarios servidos en cada año, y las  condiciones de eficiencia  que  se  propongan  en  cada  plan."
+              },
+              {
+                "numero-articulo": 48,
+                "texto": "ARTICULO 48: MODIFICACIONES. El régimen tarifario y los cuadros de precios  y  tarifas se revisarán y modificarán de acuerdo con lo normado en el presente, a cuyo efecto:\n\nSe definen como  revisiones periódicas las derivadas de los planes de expansión aprobados  por  el Ente Regulador, como consecuencia y parte  esencial  de  la propuesta  de  mantenimiento,  operación  y expansión que el Concesionario  prepare  para  satisfacer o mejorar las metas de calidad y cobertura del servicio que  se  especifiquen en el Contrato de Concesión.\n\nSerán    revisiones    extraordinarias   las  derivadas  de:\n\na) La variación significativa de costos del  Concesionario,  y  de acuerdo  con  las  normas  contenidas  en el Contrato de Concesión.\n\nb)  Las derivadas de cambios sustanciales  e  imprevistos  en  las condiciones de  prestación  de  los  servicios  y en las normas de calidad  de  agua  potable  o  desagües  cloacales.  Asimismo,  los cambios justificados en la relación entre inversiones  en activos y costos de operación del servicio.\n\nc)  Cuando  en condiciones de eficiencia haya conflicto entre  los objetivos establecidos  en  el  Artículo  44  y  lo  reglado  en el Artículo  47 se podrá, a requerimiento del Concesionario o del Ente Regulador,  realizar una revisión excepcional, siendo de aplicación lo establecido en el Contrato de Concesión.\n\nd) Cuando se  proponga otro régimen que permita lograr incrementos de eficiencia y  signifique  una mejor aplicación de los principios del Artículo 44.\n\nEsta revisión no deberá ser un medio de penalizar al Concesionario por beneficios pasados  y/o  logrados en la operación de  los  servicios  ni  tampoco  deberá  ser usada  para  compensar déficit incurridos derivados del riesgo empresarial  ni  convalidar ineficiencias en la prestación de los servicios."
+              },
+              {
+                "numero-articulo": 49,
+                "texto": "ARTICULO  49:  COBRO DEL SISTEMA DE MEDICION. El Concesionario tendrá derecho al cobro  de  todo  trabajo  y  actividad  vinculada directamente  con  la  instalación  de  un  sistema  de medición de consumo  de  agua a los Usuarios incluidos en el régimen  tarifario de  consumo medido  según  se  detalla  en  el  Artículo  45.\n\nTambién  tendrá  este  derecho  cuando  el sistema sea instalado a pedido de un Usuario comprendido en el régimen  tarifario  de cuota fija,  en  uso  de la opción establecida en el Artículo 45 y previa conformidad expresa del Usuario.\n\nEn  el  caso en que  el  sistema  sea  instalado  por  opción  del Concesionario,  todos  los  costos resultantes serán a su exclusivo cargo, debiéndose sólo notificar  al  Usuario  que el Concesionario ejercerá el derecho previsto en el régimen tarifario."
+              },
+              {
+                "numero-articulo": 50,
+                "texto": "ARTICULO 50: NORMA GENERAL. Es norma general de la Concesión en materia  tarifaria  que el Concesionario tendrá derecho al cobro de todo trabajo y actividad  vinculada  directa  o  indirectamente con los  servicios  prestados,  al  cobro  de las tasas de  conexión  y desconexión, al cobro por la provisión de  agua potable y servicios de  desagüe  cloacal  en  bloque y al cobro de todo  otro  concepto establecido  en el Contrato  de  Concesión,  con  excepción  de  lo establecido en el Artículo 49."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO VIII PAGO DE LOS SERVICIOS",
+            "articulo": [
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 013577 1949 09 29 0044 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "CPC C 017454 1981 08 18 0604 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_2",
+                      "ref": "CPC C 017454 1981 08 18 0605 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 51,
+                "texto": "ARTICULO  51:  OBLIGACIONES Y FACULTADES DEL CONCESIONARIO. El Concesionario será el  encargado  y  responsable  del  cobro de los servicios. A tal efecto, las facturas, liquidaciones o certificados  de  deuda  que  emita  por  los  servicios que preste tendrán fuerza ejecutiva, de acuerdo con lo que  prevé  el Artículo 44  de  la  Ley  Orgánica  de OSN, y su cobro judicial se efectuará mediante el procedimiento de  ejecución  fiscal  legislado  en  los Artículos  604,  605  y  concordantes  del  Código Procesal Civil y Comercial de la Nación."
+              },
+              {
+                "numero-articulo": 52,
+                "texto": "ARTICULO  52:  CORTE  DEL  SERVICIO.  El  Concesionario estará facultado  para proceder, previo aviso e intimación  fehaciente  de pago, al corte  de  los  servicios por atrasos de cuando menos tres períodos en el pago del importe  fijado por la respectiva tarifa, y sin perjuicio del pago de los intereses o multas que correspondieren. Deberá, en todo momento,  tenerse en consideración la protección de la salud pública.\n\nEsta  facultad  podrá  ser ejercida también respecto  de  Usuarios públicos."
+              },
+              {
+                "numero-articulo": 53,
+                "texto": "ARTICULO  53: OBLIGATORIEDAD A CARGO DE LOS ENTES PUBLICOS. La Nación, la Provincia  de  Buenos  Aires  y las municipalidades, los entes  públicos  descentralizados  y  las  empresas    del   Estado cualquiera sea la forma jurídica que adopten, estarán sujetos  a lo dispuesto  en este Capítulo y abonarán las tarifas correspondientes a los servicios que reciban."
+              },
+              {
+                "numero-articulo": 54,
+                "texto": "ARTICULO 54: EXENCIONES Y SUBSIDIOS. Sin perjuicio de aquellos servicios  que según el Contrato de Concesión el Concesionario deba prestar gratuitamente,  en  caso  que  el  Poder Ejecutivo Nacional dispusiera  exenciones  y  subsidios explícitos,  ellos  estarán  a cargo del Tesoro Nacional."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 013512 1948 09 30 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "LEY C 013577 1949 09 29 0039 000 0042 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_2",
+                      "ref": "LEY C 013577 1949 09 29 0072 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_3",
+                      "ref": "LEY C 013577 1949 09 29 0074 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 55,
+                "texto": "ARTICULO 55: OBLIGADOS AL PAGO. Estarán obligados al pago:\n\na)  El  propietario del inmueble o consorcio de propietarios según la Ley 13.512, según corresponda.\n\nb) El poseedor  o  tenedor,  durante  el  período de la posesión o tenencia, y limitado únicamente a los servicios  de  suministro  de agua  y  desagües  cloacales  o  industriales recibidos por la red.\n\nc)  No será de aplicación al Concesionario  lo  dispuesto  en  los Artículos  39,  40,  41  y  42  de  la  Ley  Orgánica  de OSN.\n\nd) Se mantienen las facultades establecidas en los Artículos  72 y 74  de  la  Ley  Orgánica  de OSN, exclusivamente en lo relativo al cobro de servicios."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO IX PLANES DE EXPANSION DE LOS SERVICIOS",
+            "articulo": [
+              {
+                "numero-articulo": 56,
+                "texto": "ARTICULO  56:  APROBACION DE PLANES DE MEJORAS Y EXPANSION. El Ente  Regulador  aprobará   los  planes  periódicos  de  mejoras  y expansión según el siguiente  procedimiento,  y de forma tal que no se  perjudiquen los cronogramas y lineamientos establecidos  en  el Contrato de Concesión.\n\na) El  Concesionario  elaborará  proyectos  de  planes  periódicos detallados   que  contemplen  consultas  a  los  Usuarios,  a  las Autoridades locales  y  nacionales  y  al  Ente  Regulador.  Dichos proyectos  deberán  contener  los  montos  de  inversión previstos, objetivos  y  metas  a alcanzar en las condiciones  fijadas  en  el Contrato de Concesión. El Ente Regulador aprobará estas presentaciones.\n\nb) Si el Ente Regulador no aprobara estos planes o el Concesionario  no  aceptara    las  modificaciones  propuestas  sin perjuicio de la conveniencia de  que  la  controversia  se resuelva por juicio de árbitros o amigables componedores, según lo  acuerden las  partes  -  se  recurrirá  a lo previsto en el Capítulo XII del presente.\n\nEl primer plan y los aspectos generales  de  los  planes previstos para  todo  el  período de la Concesión, estarán contenidos  en  el Contrato de Concesión."
+              },
+              {
+                "numero-articulo": 57,
+                "texto": "ARTICULO  57: MODIFICACION DE LOS PLANES. Los planes aprobados obligarán al Concesionario,  y  su  incumplimiento será considerado falta grave.\n\nA  pedido  del Concesionario o del Ente  Regulador  y,  existiendo causas  extraordinarias  y  debidamente  justificadas,  los  planes aprobados  podrán  ser  modificados mediante resolución fundada del Ente Regulador que no altere  el  equilibrio  de la Concesión y sin perjuicio de lo establecido en el último párrafo  del  Artículo 17."
+              },
+              {
+                "numero-articulo": 58,
+                "texto": "ARTICULO 58: OPOSICION DE LAS AUTORIDADES LOCALES. Cuando algún municipio  o  autoridad  local  impidiera la realización de un plan aprobado, el Concesionario deberá  hacerlo saber al Ente Regulador, y  éste  deberá  arbitrar  los  medios  que  sean  necesarios  para solucionar el impedimento."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO X REGIMEN DE BONOS",
+            "articulo": [
+              {
+                "numero-articulo": 59,
+                "texto": "ARTICULO 59: DEFINICION DE LOS BIENES COMPRENDIDOS. Los bienes de que  trata  el  presente y que deben contemplarse en el Contrato de  Concesión son aquellos  que  el  Concesionario  recibe  con  la transferencia  de  la  empresa.  Quedan  alcanzados  igualmente los bienes que el Concesionario adquiera o construya con el  objeto  de cumplir  sus  obligaciones  derivadas  del  Contrato  de Concesión."
+              },
+              {
+                "numero-articulo": 60,
+                "texto": "ARTICULO  60: ALCANCES. Los bienes cuya tenencia se transfiere al Concesionario  forman  un  conjunto  que  se  denomina unidad de afectación.  Aquellos  bienes  que  el Concesionario incorpore  con posterioridad en cumplimiento del Contrato  integrarán dicha unidad de afectación."
+              },
+              {
+                "numero-articulo": 61,
+                "texto": "ARTICULO  61:  ADMINISTRACION.  El  Concesionario  tendrá  la administración  de  los  bienes  afectados al servicio que reciba o sean  adquiridos  por éste para ser  incorporados  al  servicio  de acuerdo con lo establecido  en  este  Marco  Regulatorio  y  en  el Contrato de Concesión.\n\nLos supuestos de disposición de bienes por parte del Concesionario  deberán estar previstos en el Contrato de Concesión, junto con las reglas  de procedimiento y control de la realización."
+              },
+              {
+                "numero-articulo": 62,
+                "texto": "ARTICULO 62: MANTENIMIENTO. Todos los bienes involucrados en el servicio  deberán  mantenerse en buen estado de conservación y uso, realizándose  las  renovaciones    periódicas,    disposiciones   y adquisiciones que correspondan según la naturaleza y características  de  cada  tipo  de  bien  y  las  necesidades  del servicio,  considerando  cuando  resultara apropiado incorporar las innovaciones tecnológicas que surgiesen convenientes."
+              },
+              {
+                "numero-articulo": 63,
+                "texto": "ARTICULO 63: RESPONSABILIDAD. El Concesionario será responsable,  ante  el  Estado  Nacional  y  los  terceros,  por la correcta  administración  y disposición de los bienes afectados  al servicio, así como por todas  las obligaciones y riesgos inherentes a  su  operación,  administración,   mantenimiento,  adquisición  y construcción, con los alcances que se  estipulen  en el Contrato de Concesión."
+              },
+              {
+                "numero-articulo": 64,
+                "texto": "ARTICULO 64: RESTITUCION. Será sin cargo, a la extinción de la Concesión,  la transferencia al Estado Nacional de todos los bienes afectados al  servicio,  sea  que  se  hubieren  transferido con la Concesión o que hubieren sido adquiridos o construidos  durante  su vigencia.\n\nSe  exceptúa  de  lo  dispuesto  en  el  párrafo anterior aquellos bienes  que hubieran  sido  enajenados y/o sustituidos  por  otros durante la vigencia de la Concesión.\n\nLos bienes deberán ser entregados  en  buenas condiciones de uso y explotación considerando al servicio como  un  sistema integral que deberá   ser  restituido  en  correcto  estado  de  funcionamiento."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO XI EXTINCION DE LA CONCESION",
+            "articulo": [
+              {
+                "numero-articulo": 65,
+                "texto": "ARTICULO 65: CAUSAS. La Concesión se extinguirá por vencimiento del  plazo  contractual,  por rescisión o rescate de los servicios, según lo que se establezca en el Contrato de Concesión."
+              },
+              {
+                "numero-articulo": 66,
+                "texto": "ARTICULO 66: AUTORIDADES COMPETENTES. La rescisión del contrato y el  rescate  de  los servicios deberán ser resueltos por el PODER EJECUTIVO  NACIONAL,   con  la  intervención  del  Ente  Regulador."
+              },
+              {
+                "numero-articulo": 67,
+                "texto": "ARTICULO  67:  PRORROGA.  Al término de la Concesión, el PODER EJECUTIVO NACIONAL podrá disponer  su  prórroga por doce (12) meses desde  su  extinción únicamente cuando no  exista  un  operador  en condiciones de  asumir  la  prestación  de  los  servicios. En tal supuesto  el  Concesionario  estará  obligado  a continuar  con  la operación  del servicio en los términos vigentes  del  Contrato  de Concesión. Vencido  este  plazo,  y no  existiendo  aún  un  nuevo operador,  se podrá extender esta prórroga de común acuerdo con  el Concesionario."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO XII SOLUCION DE CONFLICTOS",
+            "articulo": [
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 019549 1972 04 03 0023 000 0000 000"
+                  }
+                },
+                "numero-articulo": 68,
+                "texto": "ARTICULO 68: DECISIONES DEL ENTE REGULADOR. Las decisiones del Ente Regulador  dictadas  dentro  de  los límites de su competencia gozan  de  los caracteres propios de los  actos  administrativos  y obligan al Concesionario.\n\nContra las  mismas  son  procedentes  los  remedios y recursos que correspondan  por aplicación de la Ley Nacional  de  Procedimientos Administrativos  y  su  Reglamento,  sin  perjuicio  del derecho de iniciarse   demanda  judicial.  Será  alzada  el  Poder  Ejecutivo Nacional.\n\nLas  decisiones  que  adopte  el  Directorio  del  Ente  Regulador agotarán  la  vía administrativa en los términos del Artículo 23 de la Ley 19.549."
+              },
+              {
+                "numero-articulo": 69,
+                "texto": "ARTICULO  69:  FUERO  CONTENCIOSO ADMINISTRATIVO. En todos los juicios en que sea parte el  Ente  Regulador  serán competentes los Tribunales  Federales  que  correspondan  según  la    materia    y territorio."
+              },
+              {
+                "numero-articulo": 70,
+                "texto": "ARTICULO  70: ARBITRAJE. Todos los conflictos no derivados del ejercicio del Poder  de Policía establecido por el Artículo 17, que se susciten entre el Ente  Regulador  y el Concesionario podrán ser resueltos por vía de árbitros o amigables  componedores, a elección de las partes."
+              },
+              {
+                "numero-articulo": 71,
+                "texto": "ARTICULO 71: FUERZA MAYOR. Para el caso que por razones de caso fortuito   o  fuerza  mayor,  el  Concesionario  viera  alterado  o desequilibrado  el  normal  desarrollo  del  Contrato  de Concesión deberá  comunicarlo  al  Ente Regulador y deberá proponer al  PODER EJECUTIVO NACIONAL las medidas  necesarias  para  lograr  el normal desarrollo  del Contrato de Concesión, o la extinción del mismo  si no existiera alternativa de normalizarlo."
+              },
+              {
+                "numero-articulo": 72,
+                "texto": "ARTICULO  72:  RECLAMOS DE LOS USUARIOS. Todos los reclamos de los  Usuarios  relativos  al  servicio  o  a  las  tarifas  deberán deducirse directamente ante el Concesionario.\n\nContra las decisiones  o  falta de respuesta del Concesionario los Usuarios  podrán  interponer ante  el  Ente  Regulador  un  recurso directo dentro del  plazo  de  treinta  (30) días corridos a partir del rechazo tácito o explícito de la notificación  del  rechazo del reclamo  por  parte  del  Concesionario. Se considerará tácitamente denegado  un  reclamo  cuando  el  Concesionario  no hubiese  dado respuesta  dentro  de  los  treinta  (30)  días  de  presentado  el reclamo.  El  Ente  dispondrá   de  treinta  (30)  días  desde  que recibiera el recurso para resolver.\n\nEl  Ente  Regulador,  antes  de  resolver,   deberá  solicitar  al Concesionario  los  antecedentes  del  reclamo  y  cualquier   otra información que  estimase  necesaria al efecto, fijándole un plazo razonable y acompaÑándole copia  del  recurso.  En  oportunidad  de responder,  el Concesionario podrá también exponer su opinión sobre el reclamo.\n\nA todos los  demás  efectos  de la apertura de esta vía recursiva, como de su tramitación en sede  del  Ente Regulador, será aplicable la Ley Nacional de Procedimientos Administrativos  y su Reglamento.\n\nLas  decisiones del Ente Regulador obligarán al Concesionario,  sin perjuicio  de  lo  dispuesto en el Artículo 68. No será obligatorio agotar  esta  vía  recursiva    para    demandar  judicialmente  al Concesionario."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO XIII NORMAS COMPLEMENTARIAS Y TRANSITORIAS",
+            "articulo": [
+              {
+                "numero-articulo": 73,
+                "texto": "ARTICULO 73: INCORPORACION DE AREAS NUEVAS. La incorporación de Areas  Nuevas  al  régimen establecido en el presente, se producirá mediante convenio entre  la  Municipalidad  respectiva  y  el  Ente Regulador."
+              },
+              {
+                "numero-articulo": 74,
+                "texto": "ARTICULO 74: USUARIOS FUERA DEL AREA REGULADA. El Concesionario podrá  contratar  o  mantener, con autorización del Ente Regulador, la prestación de servicios  de  agua potable o desagües cloacales a personas o comunidades no comprendidas  en  el  área  regulada, sin perjuicio de lo establecido en el inciso o) de Artículo  29. Dichos servicios se regularán por los respectivos contratos."
+              },
+              {
+                "numero-articulo": 75,
+                "texto": "ARTICULO 75: VIGENCIA. El presente Marco Regulatorio entrará en vigencia  a  partir  de  la  firma del Contrato de Concesión de los servicios prestados por la empresa  OBRAS  SANITARIAS DE LA NACION."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 000776 1992 05 12 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 76,
+                "texto": "ARTICULO  76:  CONTAMINACION  HIDRICA.  La  gestión  del  Ente Regulador  y  del  Concesionario  en  orden  al cumplimiento de las obligaciones  emergentes  de  las  normas de contaminación  hídrica estará  sujeta  a  la  regulación  de  la  SECRETARIA  DE  RECURSOS NATURALES Y AMBIENTE HUMANO en los términos  del  Decreto  N.776 de fecha 12 de mayo de 1992."
+              },
+              {
+                "numero-articulo": 77,
+                "titulo-articulo": "ANEXO A NORMAS MINIMAS DE CALIDAD DE AGUA PRODUCIDA Y LIBRADA AL SERVICIO",
+                "texto": "ARTICULO  77:  Nota  de redacción: CUADROS - NO GRABABLES"
+              },
+              {
+                "numero-articulo": 78,
+                "titulo-articulo": "ANEXO B NORMAS PARA DESAGUES CLOACALES",
+                "texto": "ARTICULO 78: Nota de redacción: CUADRO - NO GRABABLE"
+              },
+              {
+                "numero-articulo": 79,
+                "titulo-articulo": "ANEXO C SISTEMA Y FRECUENCIA DE EXTRACCION DE MUESTRAS",
+                "texto": "En  este  Anexo se incluye el sistema de toma de muestras para control de calidad  que  debe  realizar  el  Concesionario tanto de agua  cruda  y  potabilizada  librada al consumo como  de  líquidos cloacales  que  el  Concesionario  vierte  a  cursos  de  agua.\n\nTambién se han reglamentado  las  normas de efluentes industriales que  el Concesionario puede efectuar  por  sí,  para  preservar  el sistema  de  conducción  cloacal  y  eventualmente, los sistemas de tratamiento primario y secundario.\n\na) AGUA I) AGUA CRUDA DE TOMA SUPERFICIAL ** Plaguicida (cada 3 meses) ** Análisis químicos + DBO + OC + HC  + fenoles (cada 4 meses) ** Análisis químicos + metales pesados  +  fenoles + hidrocarburos + detergentes (mensuales) ** Análisis bacteriológico (diario) ** Datos básicos; pH, turbiedad, alcalinidad  (cada  2  horas) II) AGUA CRUDA DE TOMA SUBTERRANEA ** Análisis químico (semestral) ** Análisis bacteriológico (trimestral) III) AGUA POTABILIZADA EN LA SALIDA DE ESTABLECIMIENTO POTABILIZADOR **  Datos  básicos;  pH, turbiedad, alcalinidad (cada 2 horas) ** Análisis bacteriológico (cada 2 horas) ** Análisis químicos +  DBO  + OC + HC + fenoles + metales pesados (una vez al mes) IV)  AGUA  POTABILIZADA  EN  EL  SISTEMA    DE    DISTRIBUCION **    Análisis    bacteriológico:   muestra  mensual  cada  10.000 habitantes en radio de agua y desagües.\n\nLos  puntos de muestreo en red se dividirán  en  fijos  (escuelas, hospitales, oficinas públicas) y variables que cubran proporcionalmente toda el área servida.\n\n** Análisis  químicos:  En todas las oportunidades que se efectúan análisis bacteriológicos se medirá Cloro Residual.\n\nEn  un  20% de las muestras  se  medirán  además,  turbiedad,  pH, dureza,  residuo    conductimétrico,  amoníaco,  nitrito,  nitrato, hierro, manganeso, etc.\n\nb) DESAGUES CLOACALES Se determinará la totalidad  de  los  parámetros  indicados en las normas para desagües cloacales e industriales.\n\nI) Desagüe a colectora (3 veces al año) II) Desagües a cuerpos receptores (2 veces al año) Todas las frecuencias deberán ser aumentadas cuando  la  necesidad del servicio lo requiera."
+              },
+              {
+                "numero-articulo": 80,
+                "titulo-articulo": "ANEXO D LINEAMIENTOS BASICOS PARA EL \"REGLAMENTO DE USUARIOS\"",
+                "texto": "1. OBJETO El  objeto  del  Reglamento  del  Usuario es establecer las pautas sobre  las cuales el Concesionario conducirá  su  relación  con  el Usuario.\n\n2. CONTENIDO El Reglamento  del  Usuario  deberá  informar  sobre  el  servicio provisto  por  el  Concesionario,  los  términos  y condiciones que rigen  el  servicio  y  dónde y cómo se puede obtener asistencia  y ayuda.  A  tal efecto, comprenderá  tres  (3)  secciones  y  deberá contener como mínimo la siguiente información:\n\n2.1 Sección I - General a) Descripción  de  la  naturaleza  del  servicio  provisto por el Concesionario en el marco de la Concesión.\n\nDeberá incluir:\n\n* Delimitación del área servida * Normas  a cumplir por el Concesionario respecto de  calidad  de agua, muestreo  de  agua,  presión  y  caudal  de  agua, calidad de efluentes,    interrupciones    del   servicio  y  emergencias.\n\n* Responsabilidad del Usuario por la integridad de sus instalaciones internas.\n\nb) Procedimiento para la conexión del  servicio  al  Usuario  y su precio.\n\nDeberá describir:\n\n*  Obligaciones  del Concesionario respecto de conexiones a nuevos Usuarios.\n\n* Cargo de infraestructura,  costo  de conexión y procedimiento de su cálculo.\n\n* Financiamiento no menor de 24 meses.\n\nc) Procedimiento para la desconexión  del servicio al Usuario y su precio (no incluye el caso de desconexión  por falta de pago de las facturas).\n\nDeberá detallar:\n\n* Derecho a desconexión del Usuario.\n\n* Responsabilidad de preaviso por parte del  Usuario  de  dos  (2) días.\n\n* Cargo de desconexión y plazo para su pago.\n\nd)  Descripción  de las tarifas facturadas a Usuarios Públicos, su forma de cálculo y  precios  vigentes  (tasas  fijas y por servicio medido).\n\ne) Descripción de los métodos de pago vigentes.\n\nDeberá incluir:\n\n* Lugares habilitados para el pago de la tarifa.\n\n*  Facilidades de pago en caso que la facturación  se  realice  en intervalos mayores a un bimestre.\n\nf)  Descripción  de  los  procedimientos  para  tender  preguntas, dudas,  reclamos  y  quejas  sobre  el  servicio  prestado  por  el Concesionario  (Información  detallada  sobre  el  entrenamiento  a recibir  por los empleados del Concesionario designados a este fin).\n\nDeberá incluir:\n\n* Lugares donde realizar reclamos.\n\n* Teléfonos disponibles para realizar reclamos.\n\n*  Plazos  máximos  para  responder  reclamos  y  preguntas  (días hábiles):\n\n Sobre Sobre facturación incorrecta                    (20) Pedidos de formas de pago alternativas          (10) Reclamos  sobre  niveles  de  servicio          (10) si requieren investigaciones por terceros o inspección de las instalaciones del Usuario)    (20)  * Obligación del Concesionario de  inspeccionar gratuitamente  las   instalaciones  en  casos  de  baja  presión  o insuficiente caudal de agua potable.\n\n*  Obligación  del  Concesionario    de  realizar  una  inspección gratuita  en el mismo día de recibida una  denuncia  sobre  calidad del  agua  que    constituya  un  peligro  para  la  población.\n\n* Facturación incorrecta  a  Usuarios con servicio por tasa fija y Usuarios con servicio medido:\n\nEl Concesionario estará obligado  a recibir, registrar y contestar los reclamos.\n\nDeducido  el  reclamo, y hasta su resolución,  el  Usuario  podrán mantener el servicio  y  no  podrá  ser  requerido  de  pago por la factura  reclamada,  si se aviniese a pagar el monto de la  última factura  consentida o de la  misma  factura  reclamada,  como  pago provisorio  y  a  cuenta  hasta  tanto  se resuelva su reclamo.\n\nSi se rechazara el reclamo, deberá pagarse  el  monto adeudado con más los intereses compensatorios que correspondan.\n\nCon  posterioridad,  el  Usuario  podrá  recurrir  ante   el  Ente Regulador  la decisión del Concesionario, lo cual no suspenderá  la obligación de pago.\n\nSi se comprobase  el  error,  el  Concesionario  deberá emitir una nueva   factura  y  fijar  un  adecuado  plazo  para  su  pago.\n\nEl Concesionario  deberá  compensar  el pago de la primera factura inmediata posterior y las subsiguientes  con lo que se haya abonado en  exceso por errores en la facturación, incluidos  los  intereses compensatorios.\n\n* Competencia  del  Ente  Regulador  en el proceso de reclamos por disputas en las siguientes áreas:\n\n** Procedimiento y precio de conexión al servicio.\n\n** Desconexión del servicio ** Niveles de servicio ** Facturación g)  Descripción  de  pasos a seguir por el  Usuario  en  casos  de emergencia.\n\nh)  Disponibilidad  y  reglamentación    de   servicio  medido  de suministro de agua.\n\ni)  Descripción  de cómo identificar agentes autorizados  a  hacer inspecciones y reparaciones de las instalaciones.\n\nObligación de los agentes de presentar un carnet de identificación y llevar uniforme reconocido.\n\nj) Facilidades en la  forma  de  pago  para  grupos especiales (ej. pagos  por  correspondencia  para  el  Usuario  imposibilitado   de movilizarse por cuenta propia).\n\nk)  Asistencia  y  asesoramiento  gratuito  que  el  Concesionario pudiese  brindar  en  relación  al correcto diseño, construcción  y mantenimiento de las instalaciones internas.\n\nl) Cualquier otra información en  el  contexto de esta sección que el Concesionario creyera apropiada.\n\n2.2 Sección II - Incumplimiento en los  Pagos  y  Desconexión  del Servicio a) Procedimiento  por incumplimiento en los pagos de las facturas.\n\nb) Procedimiento para la desconexión del servicio por incumplimiento en los pagos de las facturas.\n\nLa descripción del mismo deberá incluir:\n\n* Preaviso al Usuario  de  como mínimo siete (7) días a no ser que se compruebe incumplimiento del  Usuario  de  pagos  intimados  por resolución  judicial  o  sobre  los  que  exista  acuerdo  entre el Usuario  y  el  concesionario  a  raíz  de  una  mora anterior.\n\n*  Obligación del Concesionario de intentar llegar  a  un  acuerdo razonable  con  el  Usuario  para  el  pago del monto adeudado.\n\n* Circunstancias que impiden la desconexión:\n\nSi hay acuerdo entre las partes sobre el  pago  del monto adeudado.\n\nSi  el  Usuario comunica al Concesionario que disputa  las  razones para la desconexión  y  hasta  tanto  éste  no  se  expida sobre la misma.    Si  la  deuda  corresponde  a  un  Usuario  anterior.\n\nPor orden  del  Ente Regulador o del Ministerio de Salud Pública y Acción  Social de suspender  transitoriamente  la  desconexión.\n\nc) Información  complementaria  para  proveer  guía al Usuario con dificultades  de  pago de la factura, con el objeto  de  evitar  la desconexión del servicio.\n\nd) Cualquier otra  información  en el contexto de esta sección que el Concesionario creyera apropiada.\n\n2.3 Sección III - Fugas de agua y  Fallas  de  Medidor en Servicio Medido a)  Descripción  del  alcance de responsabilidad del  Usuario  con servicio medido en el caso  de  fugas  de  agua no identificadas en las instalaciones internas del Usuario o incorrecto  funcionamiento del medidor.\n\nA  este  efecto se considerará instalación interna a toda  cañería situada aguas  abajo del medidor de agua del domicilio en cuestión, por la cual es responsable el Usuario.\n\nb)  Deberá  informarse    al   Usuario  sobre  los  procedimientos descriptos en 2.3 c), d), e) y f).\n\nc)  Al  momento  de la instalación  de  un  medidor  de  agua,  el Concesionario deberá  inspeccionar  las  instalaciones internas del Usuario  para  establecer la presencia de fugas  significativas  en las mismas.\n\nSi como resultado  de  dicha inspección se detectara una fuga, el Concesionario deberá solicitar  al  Usuario a repararla a costa del Usuario. Si el Usuario no realizara la reparación, el Concesionario podrá facturarles por el  volumen  de  agua consumido determinado por lectura del medidor.\n\nd)  Sujeto  a  2.3  c),  en  el  caso que después de instalado  un medidor  de agua  una  lectura posterior  del  mismo  indicara  un consumo inusualmente alto  que  pudiera ser atribuido a una fuga en las  instalaciones  internas, y que  el  Concesionario  descubriera dicha fuga, deberá corregirse  la  factura  considerando el consumo de  dicho período como el consumo del período  inmediato  anterior, siempre  y  cuando el Usuario efectuare la reparación de la pérdida dentro de un  plazo razonable especificado por el Concesionario. En caso de no contarse  con  un  historial de consumo, se facturará de acuerdo al consumo típico de un domicilio similar.\n\nEl Concesionario no deberá corregir  la  factura cuando la pérdida fuera causada por negligencia reiterada y comprobada  por parte del Usuario.\n\ne)  En  el  caso  que  una  lectura de medidor indicara un consumo inusualmente  alto  que pudiera  ser  atribuido  a  una  falla  del medidor, el Concesionario  tendrá  la  obligación  de determinar, a pedido  del  Usuario, el correcto funcionamiento del mismo.  Si  se comprobare que  el  medidor no estuviese funcionando correctamente, el costo de la inspección  correrá  a  cargo del Concesionario y la factura deberá corregirse considerando el  consumo de dicho período como  el  consumo del período inmediato anterior.  En  caso  de  no contarse con  un  historial  de consumo, se facturará de acuerdo al consumo típico de un domicilio similar.\n\nf)  Cuando  se realizara la corrección  de  la  factura  según  lo descripto en 2.3  d)  y e) deberá corregirse con el mismo mecanismo la  facturación  por  desagües  cloacales,  si  correspondiere.\n\n3. REVISIONES 3.1  El  Reglamento  del  Usuario  deberá  ser  revisado  con  una frecuencia no menor de  una  vez  cada  tres años, o si y cuando el Ente  Regulador lo requiriera, pero no más  de  una  vez  por  año.\n\nDeberá  analizarse  la  eficacia  del  Reglamento en el pasado y la necesidad de su adecuación.\n\n3.2  A  este  efecto  el  Concesionario  deberá   elevar  al  Ente Regulador para su evaluación un informe conteniendo las modificaciones propuestas al Reglamento del Usuario.  Dentro de los sesenta  (60)  días corridos de recibido dicho informe, y  mediante consulta previa con el Concesionario, el Ente Regulador especificará cuáles  modificaciones  hayan  sido  aprobadas.  Si el Ente  Regulador  no  se  expidiera  acerca del informe citado en el lapso   estipulado,  todas  las  modificaciones    propuestas    se considerarán aprobadas.\n\n4. PUBLICACION Y DISPONIBILIDAD 4.1 El Concesionario deberá:\n\na) Enviar  una  copia  del  Reglamento  revisado al Ente Regulador  b) Llamar a la atención del público sobre  la existencia del mismo y de cada una de las revisiones sustanciales  realizadas e informar cómo podrá ser inspeccionada u obtenida una copia  actualizada.\n\nc)  Mantener  una  copia  actualizada  en cada una de las  oficinas comerciales.\n\nd)  Entregar o enviar una copia actualizada,  sin  cargo,  a  toda persona que la solicitare."
+              }
+            ]
+          }
+        ]
+      },
+      "id-infojus": "DN19920000999"
+    }
+  }
+}

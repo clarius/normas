@@ -1,0 +1,320 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-837-1000-0991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992263763,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1738-nacional-emision-bonos-credito-dn19900001738-1990-09-05"
+      }
+    },
+    "content": {
+      "mecanografico": 19900001738,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1738,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1990-09-05",
+      "standard-normativo": "DEC C 001738 1990 09 05",
+      "titulo-norma": "EMISION DE BONOS DE CREDITO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1990 09 10"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ARTS. 1, 2 Y 4",
+          "id": "OBSERVA A0",
+          "ref": "DEC C 001333 1989 11 29 0000 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "MODIFICA ART. 3 B.O. 91-03-12",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 000374 1991 03 06 0002 000"
+          },
+          {
+            "cr": "B.O. 91-03-12",
+            "id": "OBSERVADO POR1",
+            "ref": "DEC C 000374 1991 03 06 0003 000"
+          },
+          {
+            "cr": "B.O.  91-08-13",
+            "id": "OBSERVADO POR2",
+            "ref": "DEC C 001527 1991 08 08 0002 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.738/90",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2010-11-03",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "EL BANCO CENTRAL DE LA REPUBLICA ARGENTINA PROCEDERA A EMITIR UNA NUEVA SERIE DE BONOS DE CREDITO POR UN MONTO DE HASTA UN BILLON DE AUSTRALES VALOR NOMINAL."
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION: LOS BONOS CUYA EMISION SE DISPONE POR EL ART. 1 DEL DEC. 1.527/91 SERAN OFRECIDOS EN CANJE DE LOS BONOS DE CREDITO EMITIDOS POR LOS DECRETOS 1.333 DEL 29-10-89, EL 1.738 DEL 5-9-90 Y EL 214 DEL 31-1-91, POR ART. 2 DEL DEC. 1.527/91.\n\nOBSERVACION: SUSPENDESE HASTA NUEVA DISPOSICION LA ENTREGA DE BONOS DE CREDITOS - SEGUNDO SERIE - EMITIDOS CONFORME LO DISPUESTO POR EL PRESENTE, POR ART. 3 DEL DEC. 374/91."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "banco central"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos/banco central"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deuda pública"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/deuda pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deuda interna"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/deuda pública/deuda interna"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "títulos públicos"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/títulos públicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "títulos municipales",
+                "derecho económico financiero",
+                "títulos nacionales",
+                "títulos provinciales",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bonos de crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria/extinción de la obligación tributaria/pago de tributos/bonos de crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "obligación impositiva",
+                "derecho fiscal",
+                "pago del impuesto",
+                "ingreso del gravamen",
+                "obligaciones fiscales",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reembolsos impositivos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios/reembolsos impositivos"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "beneficios impositivos",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia económica"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/reforma del Estado/emergencia económica"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "emergencia pública",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de la obligación tributaria",
+            "beneficios tributarios",
+            "Derecho Tributario",
+            "reforma del Estado",
+            "banco central",
+            "pago de tributos",
+            "títulos provinciales (títulos públicos)",
+            "obligaciones fiscales (obligación tributaria)",
+            "entidades bancarias (bancos)",
+            "ingreso del gravamen (pago de tributos)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "obligación tributaria",
+            "obligación impositiva (obligación tributaria)",
+            "política económica",
+            "títulos municipales (títulos públicos)",
+            "emergencia pública (emergencia económica)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho fiscal (Derecho Tributario)",
+            "Economía y finanzas",
+            "reembolsos impositivos",
+            "derecho financiero (Economía y finanzas)",
+            "deuda pública",
+            "derecho económico financiero (Economía y finanzas)",
+            "deuda interna",
+            "emergencia económica",
+            "beneficios impositivos (beneficios tributarios)",
+            "bonos de crédito fiscal",
+            "títulos públicos",
+            "sistema financiero",
+            "Derecho bancario",
+            "títulos nacionales (títulos públicos)",
+            "bancos",
+            "pago del impuesto (pago de tributos)",
+            "entidades financieras",
+            "sistema bancario (Derecho bancario)",
+            "deberes fiscales (obligación tributaria)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 000296 1990 02 13 0005 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 023697 1989 09 01 0087 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 023697 1989 09 01 0020 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 001333 1989 11 29 0001 000"
+            }
+          ]
+        },
+        "texto": "el Decreto N. 296 de fecha 13 de Febrero de 1990, cuyo Artículo 5 dispuso:  En  el  supuesto  en  que  en  ejercicio de la facultad otorgada  por  el  Art.  87 de la Ley N. 23.697  se  prorrogase  la medida  que autoriza el Art.  20  de  la  misma,  el  pago  de  los importes  correspondientes a los reintegros, reembolsos, devolución de tributos  y  beneficios  a  los  que  se  refiere  el Art. 1 del Decreto  N. 1.333/89  que  se  devenguen  desde  el  26  de  Marzo, inclusive,   hasta  el  25  de  Setiembre  del  corriente  año,  se efectuará mediante  la  entrega de BONOS DE CREDITO que se emitirán en  una o varias series con  las  mismas  características  que  las originariamente previstas en dicho Decreto, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 000435 1990 03 04 0008 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 023697 1989 09 01 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 001333 1989 11 29 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que por el Artículo 8 del Decreto N. 435 de fecha 4 de Marzo de 1990  se  dispuso  prorrogar a partir de su vencimiento, los plazos de CIENTO OCHENTA (180)  días fijados en la Ley N. 23.697 para cada una  de  las  medidas específicas  dispuestas  en  la  misma.\n\nQue consecuentemente,  se  hace necesario emitir una nueva serie de BONOS DE CREDITO con las mismas características que las originariamente previstas, en  el  Decreto  N. 1.333 de fecha 29 de Noviembre de 1989.\n\nQue  el  PODER  EJECUTIVO  NACIONAL se encuentra facultado  por  el Artículo 86, inciso 1 de la  CONSTITUCION  NACIONAL  para dictar el presente decreto."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- El BANCO CENTRAL DE LA REPUBLICA ARGENTINA, en su carácter  de  AGENTE  FINANCIERO DEL GOBIERNO NACIONAL, procederá a emitir, a solicitud de  la  SUBSECRETARIA  DE  HACIENDA,  una nueva serie  de  BONOS  DE  CREDITO  por  un  monto de hasta UN BILLON DE AUSTRALES VALOR NOMINAL (vAn 1.000.000.000.000.-),  con  las mismas características  que  las  originariamente previstas por el Decreto N. 1.333 de fecha 29 de Noviembre de 1989 y con fecha de emisión 26 de Marzo de 1990."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO 2.- La nueva serie de BONOS DE CREDITO se aplicará al pago de los importes correspondientes a los reintegros, reembolsos,  devolución  de  tributos  y  beneficios  a  los que se refiere  el  Artículo  1  del Decreto N. 1.333/89, que se devenguen desde el 26 de Marzo, inclusive,  hasta  el  25  de  Setiembre  del corriente año."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000173 1985 01 25 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "*ARTICULO  3.-  Los  BONOS  DE  CREDITO  emitidos de acuerdo con lo dispuesto por el Decreto N. 1.738/90 podrán  aplicarse íntegramente al  pago  de  los  derechos  de  importación  o exportación de  las manufacturas  de  origen  industrial  o  agropecuario,   para  cuya determinación  se  utilizará  el  Anexo  al  Decreto  N.  173/85  y complementarios,    hasta    la  fecha  del  presente  Decreto.  La aplicación  de  los  citados  BONOS  DE  CREDITO  al  pago  de  los referidos derechos podrá reiniciarse  a partir del 25 de septiembre de 1991."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO 4.- Mantienen vigencia los restantes aspectos a que se refiere  el  Decreto  N. 1.333/89,  no modificados por el presente."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  Comuníquese,  publíquese,  dése  a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-GONZALEZ"
+      },
+      "id-infojus": "DN19900001738"
+    }
+  }
+}

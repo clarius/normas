@@ -1,0 +1,613 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g28-50000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1475501117225,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20216-nacional-regulacion-servicios-postales-internos-internacionales-lns0000582-1973-03-16"
+      }
+    },
+    "content": {
+      "mecanografico": "S0000582",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": null,
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 000151 1974 01 16 0000 000 0000 000"
+        }
+      },
+      "numero-norma": 20216,
+      "timestamp": "2016-10-03T09:05:13",
+      "timestamp-m": "2016-10-03T09:05:13",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-03-16",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020216 1973 03 16",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 20.216",
+          "BUENOS AIRES, 16 DE MARZO DE 1973"
+        ]
+      },
+      "titulo-norma": "REGULACION DE LOS SERVICIOS POSTALES INTERNOS E INTERNACIONALES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 03 23"
+        }
+      },
+      "sancion": "En  uso  de  las  atribuciones  conferidas  por  el  artículo  5 del Estatuto de la Revolución Argentina, EL  PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.216",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2016-10-03",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 55"
+      },
+      "sumario": {
+        "sumario": "SERVICIOS PUBLICOS-COMUNICACIONES-CORREOS Y TELEGRAFOS-Ambito de Aplicación-Monopolio Postal-Excepciones-Inviolabilidad y Secreto Postal:ADUANA-Servicios de Correos-Correspondencia Pública en General-Encomiendas Postales-Valores Declarados-Franqueo-TARIFAS POSTALES-Envíos Postales-TRIBUTOS:Exención-Inembargabilidad- Servicios Especiales-Servicios Monetarios-Prohibiciones- Responsabilidades:PRESCRIPCION-Infracciones-Sanciones-DERECHO PROCESAL-PROCEDIMIENTO CIVIL Y COMERCIAL-CODIGO PROCESAL CIVIL Y COMERCIAL DE LA NACION-EJECUCION FISCAL-- DEROGA L. 816"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "correos"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monopolio postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos/monopolio postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "secreto postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos/secreto postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "franqueo postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos/franqueo postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tasa postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos/tasa postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "envío postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos/envío postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "franqueo postal",
+            "tasa postal",
+            "servicio postal",
+            "envío postal",
+            "secreto postal",
+            "medios de difusión (Comunicaciones)",
+            "correos",
+            "medios de comunicación (Comunicaciones)",
+            "monopolio postal",
+            "Comunicaciones"
+          ]
+        }
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO I DISPOSICIONES ORGANICAS",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "ARTICULO  1-  Los  servicios postales, internos e internacionales se regirán por las disposiciones  de  la  presente  ley,  los convenios postales internacionales y la legislación y los reglamentos  que  en su consecuencia se dicten."
+          }
+        },
+        {
+          "titulo-particion": "TITULO II DEL MONOPOLIO POSTAL",
+          "articulo": [
+            {
+              "numero-articulo": 2,
+              "texto": "*Artículo  2.- Queda exclusivamente reservado al Estado la admisión, transporte y entrega de:\n\na) Las comunicaciones  escritas, grabadas o realizadas por cualquier otro procedimiento asimilable  que  se  encuentren  cerradas,  y las abiertas que tengan carácter actual y personal;\n\nb)   Todo  sobre  o  pliego  cerrado  provisto  de  dirección;\n\nc) Los  remitentes  de los envíos mencionados en los incisos a) y b) deben inexcusablemente  utilizar  los  servicios postales que presta el Estado, no pudiendo distribuirlos por su cuenta.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "Sustituido. (B.O. 31-10-75).",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 021138 1975 09 30 0001 000 0000 000"
+                }
+              },
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "*Artículo 3.- Se exceptúan  de las disposiciones contenidas en el artículo 2 a los envíos mencionados cuando:\n\na) Se remitan entre localidades sin servicio de correos;\n\nb) Circulen entre lugares uno de ellos sin servicio de correos;\n\nc) Contengan documentación referente a  las  cargas  que conducen, y que llevan sin mediar remuneración alguna los capitanes  y  patrones de  buques,  los pilotos y comandantes de aeronaves, los conductores de vehículos y otros acarreadores;\n\nd) Los conduzcan  los ejecutores del servicio público de transporte, con documentación interna de la empresa;\n\ne)  Los  expidan  los  jueces,  relacionados  con  la  justicia  que administran.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "*ARTICULO  4.-  1)  Cuando  existan  razones de fuerza mayor u otras causas  que  afecten  la  regularidad  del    servicio   postal,  la Administración    de  Correos  podrá  encargar  temporariamente    a particulares  la  ejecución  total  o  parcial  del  servicio.\n\n2) Podrá asimismo autorizar  a  terceros  la  admisión, transporte y entrega de comunicaciones o envíos sujetos a monopolio  postal según lo  previsto  en  el  artículo  2  de  esta  Ley,  cuando los mismos requieran  un  tratamiento que no pueda ser brindado por  aquélla  a través  de  sus  servicios  generales.  Las  autorizaciones  deberán asegurar a la Administración  de  Correos  un  ingreso  cuyo importe resultará   de  aplicar  a  los  envíos  admitidos  por  el  tercero autorizado,  la  tasa  establecida  en  el servicio oficial para las comunicaciones  cerradas  no  sujetas  a  controles    ni  servicios especiales.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "Sustituido. (B.O. 31-05-79).",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 022005 1979 05 24 0001 000 0000 000"
+                }
+              },
+              "observado-por": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 16-06-93). Se suprime la tasa postal.",
+                    "id": "OBSERVADO_POR_0",
+                    "ref": "DEC C 001187 1993 06 10 0002 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 16-06-93).",
+                    "id": "OBSERVADO_POR_1",
+                    "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                  }
+                ]
+              }
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "*Articulo  5.Cuando  existan  indicios  de  violación  al  monopolio postal, la Administración de Correos está facultada, al solo  efecto de  su  verificación, para revisar estaciones, medios de transporte, vehículos  de  cualquier clase y todo otro lugar público, y, dado el caso, podrá proceder  al secuestro de envíos o continentes sobre los que recaigan sospechas de violación al monopolio. En lo concerniente al transporte  aéreo,  son  de  aplicación  las  normas legales  y  técnicas aeronáuticas y se procederá con la intervención de la autoridad  aeronáutica, a cuyas indicaciones deberá ajustarse.\n\nLa autoridad aeronáutica  podrá prohibir el transporte en aeronaves, de envíos que ofrezcan motivos  suficientes  para suponer que puedan significar  riesgo  para  la  actividad  aeronáutica  o  que  no  se conformen a las normas aeronáuticas.\n\nSi hubiere necesidad de revisar locales y  habitaciones  privadas  o continentes,  solicitará  la  correspondiente  orden  judicial.\n\nLa  fuerza pública estará obligada a prestar el apoyo que  le  fuere requerido,   en  las  circunstancias  determinadas  en  el  presente artículo.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO III DE LA INVIOLABILIDAD Y DEL SECRETO POSTAL",
+          "articulo": [
+            {
+              "numero-articulo": 6,
+              "texto": "ARTICULO  6-  La  inviolabilidad  de los envíos postales, importa la obligación  de  no  abrirlos,  apoderarse   de  ellos,  suprimirlos, dañarlos o desviarlos intencionalmente de su  curso,  ni  tratar  de conocer  su  contenido,  así  como  de  no  hacer trascender quienes mantienen relaciones entre sí o dar ocasión para  que  otros cometan tales infracciones.\n\nTodo  empleado  o  persona  afectada  al  servicio, está obligada  a prestar  juramento  de  guardar  estrictamente  el  secreto  postal."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "ARTICULO  7-  Sin  embargo,  la  Administración  de Correos se halla facultada para:\n\na)  Examinar el contenido de los envíos no cerrados,  a  efectos  de comprobar   que  no  circulen  en  infracción  a  las  disposiciones vigentes;\n\nb) Abrir los  envíos  caídos en rezago, según las prescripciones del artículo 20, inciso 2) de la presente ley;\n\nc) Remitir para la intervención de las autoridades correspondientes, los envíos  sobre  los  que  exista la evidencia o presunción  de  que  contienen  mercaderías  pasibles   de  derechos aduaneros u otras cargas fiscales;\n\nd) Interceptar el curso de los envíos postales solicitados  por  los jueces competentes;\n\ne) Interceptar los envíos de circulación prohibida;\n\nf)  Tratar los envíos que cursen en lugares afectados por epidemias, enfermedades    infecto-contagiosas    o   cualquier  otro  tipo  de contaminación,  de  acuerdo  con lo que determinen  las  autoridades sanitarias competentes."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "ARTICULO  8-  Los  funcionarios  de  Aduanas  y agentes de autoridad competente  para  investigar fraudes fiscales, tendrán  intervención en la Administración de Correos para cumplir su cometido específico. El alcance  de  esta intervención quedará involucrado en las obligaciones determinadas  en  el  último párrafo del artículo 6 de esta ley."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IV SERVICIO DE CORREOS",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I De la correspondencia pública en general",
+              "articulo": {
+                "numero-articulo": 9,
+                "texto": "*Articulo 9. La correspondencia  de  cuya  admisión,  transporte  y entrega  se hace cargo la Administración de Correos, comprende a las comunicaciones  escritas,  grabadas  o realizadas por cualquier otro procedimiento asimilable, cerradas o abiertas.\n\nSe  asimilan a la correspondencia, los  envíos  conteniendo  objetos diversos  que  la  Administración  de Correos determine aceptar como tales.",
+                "observado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 16-06-93).",
+                    "id": "OBSERVADO_POR_0",
+                    "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                  }
+                }
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO II De las encomiendas postales",
+              "articulo": {
+                "numero-articulo": 10,
+                "texto": "*Articulo 10. Se admitirá  como  encomienda  postal las mercaderías productos u otras cosas muebles, condicionados  a los requisitos que determine  la  legislación  vigente y la reglamentación  respectiva.",
+                "observado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 16-06-93).",
+                    "id": "OBSERVADO_POR_0",
+                    "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                  }
+                }
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO III De los valores declarados",
+              "articulo": {
+                "numero-articulo": 11,
+                "texto": "ARTICULO 11.-  Es obligatorio declarar el valor del contenido en los envíos en que se  incluya  papel moneda, alhajas, monedas metálicas, objetos preciosos o valores al portador."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO IV Del franqueo y las tasas postales",
+              "articulo": [
+                {
+                  "numero-articulo": 12,
+                  "texto": "ARTICULO  12-  El  franqueo  es  previo  y  obligatorio y se realiza mediante  la  adhesión  de  sellos  postales  o por  cualquier  otro procedimiento que establezca la reglamentación."
+                },
+                {
+                  "numero-articulo": 13,
+                  "texto": "ARTICULO  13- Todos los servicios prestados por la Administración de Correos son  a  título  oneroso.  Quedan exceptuados los que utilice dicha Administración en cumplimiento  de  sus propias funciones, así como también gozarán del beneficio de gratuidad  las  impresiones en relieve  y  grabaciones  para  uso de ciegos en las condiciones  que determine la reglamentación.\n\nLos usuarios podrán expedir sin  franqueo  los  envíos postales cuya exención  de pago se hubiere establecido en Leyes  especiales.\n\nLas tasas respectivas  serán  cargadas  a los organismos que en cada caso corresponda."
+                },
+                {
+                  "numero-articulo": 14,
+                  "informacion-vinculada": 1E+19,
+                  "texto": "ARTICULO   14-  La  emisión  de  sellos  y  demás  valores  postales ordinarios,  extraordinarios  o especiales con sobrecargo para fines determinados, será dispuesta por  el  Poder Ejecutivo a propuesta de la Administración de Correos."
+                },
+                {
+                  "numero-articulo": 15,
+                  "texto": "ARTICULO  15.-  Los sellos y demás valores postales los expenderá la administración  de    correos,  a  través  de  sus  oficinas  o  por intermedio de personas  ajenas  a  ella, debidamente autorizadas, en las condiciones que fije la reglamentación."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO V De  la  admisión,  transporte  y  entrega  de  los  envíos  postales",
+              "articulo": [
+                {
+                  "numero-articulo": 16,
+                  "texto": "ARTICULO  16-  La  Administración de Correos está obligada a aceptar los  envíos  que  le  confíen  los  usuarios,  condicionados  a  los requisitos que determine  la legislación vigente y la reglamentación respectiva."
+                },
+                {
+                  "numero-articulo": 17,
+                  "texto": "ARTICULO  17-  El  envío postal pertenecerá al expedidor hasta tanto no haya sido entregado  al  destinatario o a persona autorizada para recibirlo."
+                },
+                {
+                  "numero-articulo": 18,
+                  "texto": "ARTICULO  18-  El  transporte  de  los  envíos  postales  se hará de acuerdo con las siguientes normas:\n\n1)  Todas  las  empresas  de  transporte  de superficie que realicen servicios  en  el  país,  están  obligadas  a  recibir,  conducir  y entregar  los  despachos postales y, eventualmente,  transportar  al personal  a  cargo   de  los  mismos,  cuando  así  lo  requiera  la Administración  de  Correos.    La   entrega  deberá  ser  efectuada inmediatamente  después de su llegada  al  punto  de  destino.\n\nLa Administración  convendrá  con  las personas o empresas a las que se encargue la conducción, las condiciones  de operatividad y formas de retribución, cuando no estuvieren obligadas a hacerlo gratuitamente por la presente ley, su contrato  de  concesión u otra disposición legal.\n\nLa  recepción,  conducción y entrega de despachos postales  por  las empresas de transporte  aéreo,  y  las retribuciones que ellas hayan de  percibir, se ajustarán a las normas  y  política  aeronáutica  y secundariamente  -en  lo  que  fuere  compatible-  a  la legislación postal y general.\n\n2)  Las  empresas  del  servicio público de transporte automotor  de pasajeros,  cualquiera  sea   su  jurisdicción,  están  obligadas  a recibir,  conducir  y  entregar  gratuitamente,  hasta  QUINCE  (15) kilogramos de envíos postales por  viaje,  entre  cada  uno  de  los puntos que toquen en su recorrido.\n\n3)  Los buques con privilegio de paquete postal tienen la obligación de  recibir    y   conducir  gratuitamente  los  envíos  postales  y entregarlos en los  puntos  de  escala  a  que vayan dirigidos.\n\nToda empresa o agente de vapores o en su defecto  los  capitanes  de buques,  están  obligados  a  hacer  conocer  a la Administración de Correos,  con  la  debida anticipación, el día y hora  de  arribo  y salida de los mismos a los puertos de escala.\n\n4)  Los  vehículos  de    superficie  afectados  específicamente  al transporte de envíos postales tendrán prioridad en el estacionamiento, carga y descarga,  tanto  dentro de las poblaciones como fuera de ellas, para lo cual serán caracterizados  en  la forma que establezca la reglamentación.\n\n5)  Las  personas  que tengan a su cargo la conducción de los envíos postales  no  podrán ser  detenidas  durante  el  desempeño  de  sus funciones,  a menos  que  fueran  hallados  en  flagrante  delito  o existiera orden de captura en su contra.\n\n6) Cuando en  los  casos del párrafo anterior o por causas de fuerza mayor se produjera interrupción  en  el transporte o la distribución de  los  envíos  postales, será obligación  de  las  autoridades  de seguridad, del transportista,  del distribuidor o de los vecinos del lugar, arbitrar los medios necesarios  para  hacerlos  llegar  a  la oficina de Correos más próxima.\n\n7)  Los  medios  de  transporte  de  superficie  de  propiedad de la Administración  de  Correos,  están  eximidos del pago de  patentes, tasas o cualquier otro gravamen nacional,  provincial  o  municipal, son inembargables y no están sujetos a secuestro.\n\n8)  Los  vehículos  terrestres contratados por la Administración  de Correos,  no  podrán ser  embargados  ni  secuestrados  durante  sus recorridos  y  estarán  exentos  del  pago  de  derechos  de  peaje, pontazgo u otros  gravámenes similares, mientras estén realizando el transporte de envíos postales.\n\n9) Los aeródromos públicos  del Estado Nacional, de las Provincias y de  las  Municipalidades,  acordarán  permanencia  a  las  aeronaves pertenecientes a la Administración  de  Correos,  en las condiciones preferenciales que establezca la legislación aérea."
+                },
+                {
+                  "numero-articulo": 19,
+                  "texto": "ARTICULO 19.- La entrega de los envíos confiados a la Administración de Correos,  se  efectuará  en  las  condiciones  que  en  cada caso determine la reglamentación."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO VI De los envíos caídos en rezago",
+          "segmento": [
+            {
+              "titulo-particion": "TITULO V DE LOS SERVICIOS ESPECIALES",
+              "articulo": {
+                "numero-articulo": 20,
+                "texto": "ARTICULO 20.- 1) Los envíos postales en los que haya imposibilidad de ser entregados, luego  de  finalizado el plazo en rezago que fije la  reglamentación,  serán  destruídos   por  la  Administración  de Correos.\n\n2)  Se  exceptúan  de  este  procedimiento  aquellos   que  por  sus características  se  presuma  que  contienen  objetos  de  valor   o documentos.  Tales  elementos  se deberán entregar al destinatario o remitente  si  al  ser  abiertos  apareciese    información  que  lo permitiera.  En  caso contrario, la Administración  de  Correos  los podrá  subastar,  transferir    a  instituciones  de  bien  público, ingresarlos a su patrimonio o darles  el  destino  que establezca la reglamentación.  El  producto de las subastas, deducidos  todos  los gastos y gravámenes, así  como  el  dinero  hallado, pasará a formar parte de la renta postal."
+              }
+            },
+            {
+              "titulo-particion": "TITULO V DE LOS SERVICIOS ESPECIALES",
+              "articulo": {
+                "numero-articulo": 21,
+                "texto": "ARTICULO  21-  La  Administración de Correos determinará a través de su reglamentación, los servicios especiales a prestar."
+              }
+            },
+            {
+              "titulo-particion": "TITULO VI DE LOS SERVICIOS MONETARIOS",
+              "articulo": {
+                "numero-articulo": 22,
+                "texto": "ARTICULO 22.- 1) La Administración  de  Correos  emitirá  giros postales, nominativos,  expresados  en  moneda  argentina  de  curso legal,  pagaderos  a la vista, de las clases y hasta los importes  y términos de validez  que  se  establezcan.  Será  responsable de los giros que emita hasta que hayan sido pagados a sus  beneficiarios  o se opere su caducidad.\n\n2)  El  pago  de  los  giros  se  podrá  hacer  a  las instituciones financieras autorizadas que presentaren los títulos  para  su  cobro por  intermedio  de cámaras compensadoras bancarias u otros sistemas similares, a las cuales  se  haya  adherido conforme a los convenios que a tal efecto se suscriban.\n\n3) Los importes correspondientes a los  giros  caducos  ingresarán a la renta postal.\n\n4)  El  secreto  de las operaciones relacionadas con el servicio  de giros  es inviolable.  Sólo  podrá  informarse  sobre  éstos  a  sus tomadores  o  beneficiarios  o  a  instancia  escrita  de  autoridad judicial competente."
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO VII DE LAS PROHIBICIONES",
+          "articulo": [
+            {
+              "numero-articulo": 23,
+              "texto": "ARTICULO  23-  Está  prohibida  la  expedición y circulación por las oficinas de correos, de cualquier tipo  de  escrito,  ilustración  y objetos  de carácter inmoral o delictuoso. Comprobada la circulación clandestina  de los mismos en jurisdicción postal, deberá procederse a su comiso y destrucción."
+            },
+            {
+              "numero-articulo": 24,
+              "texto": "*ARTICULO  24-  Está  prohibida  la expedición y circulación por las oficinas  de  correos  de todo tipo de  impresos  que  impliquen  la comisión o la instigación de delitos.\n\nCuando esa circulación ponga  en  peligro  grave, claro y actual los bienes  jurídicos  penalmente  protegidos,  los    impresos    serán retirados  de  la  circulación  por  las  autoridades  postales, que dentro   de  las  veinticuatro  horas  darán  intervención  al  juez competente, el que deberá expedirse en igual plazo.\n\nCuando  no    mediaren   esas  circunstancias  de  peligrosidad,  la autoridad postal se limitará  a  poner  a los hechos en conocimiento del juez competente.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "Sustituido. (B.O. 29-06-84).",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 023066 1984 06 06 0001 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 25,
+              "texto": "*Articulo   25.Se  prohibe  escribir  o  incluir  comunicaciones  de carácter actual  y  personal  en  las  encomiendas  y  demás  envíos postales    que   no  estén  destinados  por  la  reglamentación  al intercambio de comunicaciones  de  ese carácter, así como incluir en las piezas de correspondencia sujetas  a  una tasa menor, envíos que tengan  fijada una tasa mayor, salvo que se  encuentren  franqueados en las condiciones que determine la reglamentación.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "ARTICULO  26-  La  reglamentación  establecerá  la nómina de objetos cuya  circulación  por  correo  esté prohibida, por contravenir  las normas que condicionan su admisión  o  por  significar  riesgos para medios    u   objetos  relacionados  con  su  transporte  o  guarda."
+            },
+            {
+              "numero-articulo": 27,
+              "texto": "ARTICULO  27- Cuando la autoridad postal presumiera la existencia de elementos de  circulación  prohibida  en  envíos  postales cerrados, podrá  realizar  la apertura con el consentimiento y  presencia  del impositor o destinatario  o  a  su  inmediata  devolución en caso de negativa.  Si  del  procedimiento  surgiera  la evidencia  de  tales elementos,  se ajustará su contenido conforme a  esta  ley  y  a  lo dispuesto en la reglamentación."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "ARTICULO    28-  Prohíbese,  en  actividades  y  bienes  públicos  y privados,  el    uso   de  palabras,  términos,  colores,  emblemas, uniformes,  formularios,    útiles  y  todo  otro  elemento  de  uso exclusivo  de  la Administración  de  Correos,  que  determinará  la reglamentación,  y  que  induzca a confundirlos con la prestación de los servicios postales oficiales."
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "ARTICULO  29-  En  los casos de posesión o tenencia de elementos del correo para fines ajenos  al  servicio, la Administración de Correos dispondrá su inmediato rescate  por  la autoridad postal, debiéndose requerir  de la autoridad judicial la orden  de  allanamiento  y  el auxilio de  la  fuerza  pública cuando fuese menester, sin perjuicio de las sanciones legales a que haya lugar."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO VIII DE LAS RESPONSABILIDADES",
+          "articulo": [
+            {
+              "numero-articulo": 30,
+              "texto": "ARTICULO 30- La Administración de Correos solamente se responsabiliza  por  la pérdida, extravío, destrucción, expoliación, despojo o avería intencional  que  sufran los envíos postales que se le confíen.\n\nLa reglamentación fijará un régimen  de indemnizaciones que guardará determinada relación con su franqueo."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "ARTICULO 31- No habrá lugar a indemnización cuando:\n\n1)   El  interesado  no  haya  formulado  reclamación  en  el  plazo establecido en el artículo siguiente;\n\n2) Se  trate  de  envíos  postales  que se hallen en violación a las disposiciones vigentes;\n\n3) El hecho que origine el perjuicio  sea  imputable  al expedidor o al  destinatario,  o  por vicio propio de la cosa o inherente  a  su naturaleza;\n\n4) Los envíos se admitan a riesgo del remitente;\n\n5) En los casos fortuitos o de fuerza mayor;\n\n6)  El destinatario haya  otorgado  recibo  sin  formular  objeción."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "ARTICULO    32-  La  acción  para  interponer  reclamación  o  pedir rectificaciones  de  cuentas y operaciones, prescribe por UN (1) año a contar desde el día  siguiente al que se requirió el servicio o se formuló la cuenta u operación.  La  prescripción  se  interrumpe por las   gestiones  administrativas  realizadas  por  los  interesados.\n\nReconocido  el  derecho  por  la Administración de Correos, el mismo prescribe  a su vez por UN (1) año  a  contar  de  su  notificación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IX DE LAS SANCIONES PENALES ADMINISTRATIVAS",
+          "articulo": [
+            {
+              "numero-articulo": 33,
+              "texto": "ARTICULO  33-  La  Administración de Correos aplicará las multas que correspondan por infracciones  a la presente ley. La multa obliga al condenado a pagar a la Administración  de  Correos  una  cantidad de dinero que será fijada en portes. El monto de UN (1) porte  será  el que  corresponda  al  franqueo  mínimo  interno  de una comunicación cerrada."
+            },
+            {
+              "numero-articulo": 34,
+              "texto": "ARTICULO  34-  Serán  reprimidos  con  multa  de CIEN (100) a UN MIL (1000) portes:\n\na) Los remitentes de envíos postales impuestos  en  infracción  a lo establecido en el artículo 11 de esta ley;\n\nb)Los  que  en  envíos con declaración de valor, declaren un importe menor que el incluído  o  menor  valor  que  el  real de los objetos remitidos;\n\nc) La declaración fraudulenta, por un importe superior  al  incluído o  de  un  valor  más  elevado  al  de  los  objetos remitidos;\n\nd)  Los  que  franqueen  correspondencia u otros envíos  con  sellos postales usados."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "ARTICULO  35-  Serán  reprimidos con multa de DOSCIENTOS (200) a DOS MIL (2000) portes, los  que  vendieren  timbres  o  formularios  con sellos  postales  impresos,  destinados al pago del franqueo u otras prestaciones,  por  mayor valor  que  el  indicado  en  los  mismos."
+            },
+            {
+              "numero-articulo": 36,
+              "texto": "*Articulo   36.Serán  reprimidos  con  multa  de  UN  MIL  (1000)  a CINCUENTA MIL  (50.000)  portes, los que infrinjan las disposiciones del artículo 2 de esta ley.\n\nDicha multa podrá elevarse  al  doble,  si  la conducción se hiciere por intermedio de alguna empresa de las que utilice la Administración de Correos para el transporte  de los envíos o con la complicidad de agentes postales.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 37,
+              "texto": "*Articulo  37.Todo  el que enviase o depositase envíos en infracción al artículo 2 de la presente  ley,  será reprimido con multa de CIEN (100) hasta DIEZ MIL (10.000) portes.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": "37 002",
+              "texto": "*ARTICULO   37  bis.-  El  autorizado  que  abandonare  o  cumpliere deficientemente  el servicio comprendido en las autorizaciones a que se refiere el artículo  4. inciso 2, de esta ley, será reprimido con multa de CINCO MIL (5.000) a CIEN MIL (100.000) portes.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "Sustituido. (B.O. 31-05-79).",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 022005 1979 05 24 0002 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 38,
+              "texto": "*Articulo  38.Serán  reprimidos  con  multa de DOSCIENTOS (200) a UN MIL    (1000)  portes,  los  que  se opusieren  o  dificultaren  los procedimientos  determinados  en  el  artículo    5   de  esta  ley.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 39,
+              "texto": "ARTICULO  39-  Serán  reprimidos  con  multa  de  UN  MIL  (1000)  a VEINTICINCO  MIL  (25.000)  portes,  las  empresas  de transporte de superficie  que  sin  causa  justificada  no  cumplieren  con    las obligaciones  a  que  se hallan sujetas en virtud del artículo 18 de esta ley."
+            },
+            {
+              "numero-articulo": 40,
+              "texto": "ARTICULO  40-  Serán  reprimidos  con multa de SETECIENTOS CINCUENTA (750) a DIEZ MIL (10.000) portes, los  que  no dieren cumplimiento a la obligación impuesta por el artículo 18, inciso  6)  de  esta ley."
+            },
+            {
+              "numero-articulo": 41,
+              "texto": "ARTICULO  41-  Se reprimirán con multa de DOSCIENTOS (200) a DOS MIL (2000) portes, los  que infrinjan las prohibiciones previstas en los artículos 23 y 24 de la presente ley."
+            },
+            {
+              "numero-articulo": 42,
+              "texto": "*Articulo  42.Serán  reprimidos  con  multa  de  CIEN (100) a UN MIL (1000) portes, los que infrinjan las prohibiciones  contenidas en el artículo 25 de esta ley.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 16-06-93).",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001187 1993 06 10 0007 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 43,
+              "texto": "ARTICULO  43-  Serán  reprimidos con multa de CIEN (100) a VEINTEMIL (20.000) portes, los que  infrinjan  las  disposiciones previstas en el artículo 26 de esta ley."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "ARTICULO  44-  Se  reprimirán con multa de CIEN (100) a CINCO MIL (5 000) portes, los que  expidieren  por  la  Administración de Correos objetos  que  por  su  mal  acondicionamiento, dado  su  naturaleza, puedan dañar a las personas o  a  los envíos postales, sin perjuicio del  comiso  o  destrucción  de los objetos  cuando  correspondiere."
+            },
+            {
+              "numero-articulo": 45,
+              "texto": "ARTICULO  45-  Se  reprimirán con multa de UN MIL (1000) a CINCO MIL (5.000) portes, a quienes  infrinjan  las prohibiciones previstas en los artículos 28 y 29 de la presente ley."
+            },
+            {
+              "numero-articulo": 46,
+              "texto": "ARTICULO  46-  Toda  otra infracción a las disposiciones de esta ley que no tuviere sanción  determinada, será reprimida con multa que no exceda de CINCO MIL (5.000) portes."
+            },
+            {
+              "numero-articulo": 47,
+              "texto": "ARTICULO  47-  En  caso de reincidencia, las multas establecidas por la presente ley podrán  elevarse  al doble del máximo fijado en cada caso."
+            },
+            {
+              "numero-articulo": 48,
+              "texto": "ARTICULO  48-  El  importe  de  las  multas  que  se  percibiere por aplicación de las penas contenidas en la presente ley,  ingresará  a la renta postal."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 017454 1967 09 20 0604 000 0605 000"
+                }
+              },
+              "numero-articulo": 49,
+              "texto": "ARTICULO 49.- El cobro de las multas se hará efectivo por el procedimiento que establecen los artículos 604 y 605 del Código Procesal, Civil y Comercial de la Nación, sirviendo de suficiente título la certificación de deuda expedida por la autoridad competente."
+            },
+            {
+              "numero-articulo": 50,
+              "texto": "ARTICULO    50-   Cuando  se  estuviere  ante  hechos  reiterados  o concurrentes,  se  fijará   una  suma  única  como  sanción  de  las infracciones  comprobadas,  sin    perjuicio    del  derecho  de  la Administración de Correos para exigir el monto íntegro  de todos los daños y perjuicios ocasionados."
+            },
+            {
+              "numero-articulo": 51,
+              "texto": "ARTICULO  51-  La  prescripción  de  las  acciones  y  de  las penas establecidas  en  la presente ley se operará a los TRES (3) años  de cometida la infracción  o de notificada la resolución que imponga la sanción,  respectivamente.  La  comisión  de  una  nueva  infracción durante ese tiempo interrumpe la prescripción."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO X DISPOSICIONES FINALES DISPOSICION TRANSITORIA",
+          "articulo": [
+            {
+              "numero-articulo": 52,
+              "texto": "ARTICULO  52- El Poder Ejecutivo, con intervención del Ministerio de Obras  y  Servicios    Públicos  -Comunicaciones-,  reglamentará  la presente  ley  dentro  de los  NOVENTA  (90)  días  de  su  sanción."
+            },
+            {
+              "numero-articulo": 53,
+              "texto": "ARTICULO  53-  Hasta tanto se dicte el decreto reglamentario de esta ley, continuarán  en  vigencia  las  normas legales y reglamentarias existentes que no se opongan a la presente."
+            },
+            {
+              "numero-articulo": 54,
+              "texto": "ARTICULO 54- Deróganse, a partir del dictado del decreto reglamentario, la Ley 816 y sus modificatorias.",
+              "deroga-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "DEROGA_A_0",
+                  "ref": "LEY C 000816 1876 10 04 0000 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 55,
+              "texto": "ARTICULO  55-  Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "LANUSSE - Coda - Rey - Gordillo -"
+          }
+        }
+      ],
+      "id-infojus": "LNS0000582"
+    }
+  }
+}

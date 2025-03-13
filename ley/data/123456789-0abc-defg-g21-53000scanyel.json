@@ -1,0 +1,609 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g21-53000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1709576349229,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23661-nacional-creacion-sistema-nacional-seguro-salud-lns0003512-1988-12-29"
+      }
+    },
+    "content": {
+      "mecanografico": "S0003512",
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "numero-norma": 23661,
+      "fecha": "1988-12-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023661 1988 12 29",
+      "nombre-coloquial": "Ley 23.661",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "*LEY 23.661",
+          "BUENOS AIRES, 29 DE DICIEMBRE DE 1988"
+        ]
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "titulo-norma": "CREACION DEL SISTEMA NACIONAL DE SEGURO DE SALUD",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1989 01 20"
+        }
+      },
+      "decreto-reglamentario": {
+        "referencia-normativa": [
+          {
+            "cr": null,
+            "id": "DECRETO_REGLAMENTARIO_0",
+            "ref": "DEC C 000576 1993 04 01 0000 000 0000 000"
+          },
+          {
+            "cr": "(B.O. 3/1/01) REGLAMENTA ART.24 INCISO B) Y C)",
+            "id": "DECRETO_REGLAMENTARIO_1",
+            "ref": "DEC C 001305 2000 12 29 0002 000 0000 000"
+          }
+        ]
+      },
+      "sancion": "EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDO EN CONGRESO, ETC. SANCIONAN CON FUERZA DE LEY",
+      "analista": "Quirino, Maria Rosa",
+      "responsable": "Quirino, Maria Rosa",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2024-03-04",
+      "fecha-mod": "2024-03-04",
+      "timestamp": "2024-03-04T15:15:06",
+      "timestamp-alta": "2024-03-04T15:15:06",
+      "timestamp-m": "2024-03-04T15:15:06",
+      "sumario": {
+        "sumario": "SEGURIDAD SOCIAL OBRAS SOCIALES MEDICAMENTOS RETENCION INDEBIDA DE APORTES Y CONTRIBUCIONES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "obras sociales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/derecho de los beneficios de la seguridad social/Régimen Nacional de Obras Sociales/obras sociales"
+            },
+            "sinonimos": {
+              "termino": "derecho previsional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "medicamentos"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "retención indebida de aportes y contribuciones"
+            },
+            "preferido": {
+              "termino": "Derecho penal/régimen penal tributario/delitos de los recursos de la seguridad social/apropiación indebida de recursos de la seguridad social"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen penal tributario y previsional",
+                "apropiación indebida de aportes y contribuciones",
+                "falta de ingreso de aportes retenidos",
+                "retención indebida de aportes y contribuciones",
+                "retención indebida de recursos de la Seguridad Social",
+                "régimen penal tributario y de los recursos de la seguridad social",
+                "delitos relativos a los recursos de la seguridad social",
+                "delitos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "productos para la salud (medicamentos)",
+            "drogas (medicamentos)",
+            "Régimen Nacional de Obras Sociales",
+            "obras sociales",
+            "delitos relativos a los recursos de la seguridad social (delitos de los recursos de la seguridad social)",
+            "apropiación indebida de recursos de la seguridad social",
+            "derecho de los beneficios de la seguridad social",
+            "Derecho penal",
+            "falta de ingreso de aportes retenidos (apropiación indebida de recursos de la seguridad social)",
+            "delitos previsionales (delitos de los recursos de la seguridad social)",
+            "régimen penal tributario",
+            "régimen penal tributario y de los recursos de la seguridad social (régimen penal tributario)",
+            "Salud pública",
+            "derecho previsional (derecho de los beneficios de la seguridad social)",
+            "retención indebida de aportes y contribuciones (apropiación indebida de recursos de la seguridad social)",
+            "Seguridad social",
+            "especialidades farmacéuticas (medicamentos)",
+            "medicamentos",
+            "delitos de los recursos de la seguridad social",
+            "retención indebida de recursos de la Seguridad Social (apropiación indebida de recursos de la seguridad social)",
+            "productos farmacéuticos (medicamentos)",
+            "apropiación indebida de aportes y contribuciones (apropiación indebida de recursos de la seguridad social)",
+            "régimen penal tributario y previsional (régimen penal tributario)",
+            "productos médicos (medicamentos)",
+            "fármacos (medicamentos)",
+            "especialidades medicinales (medicamentos)"
+          ]
+        }
+      },
+      "generalidades": {
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 53.\n\nOBSERVACION VER LEY 24.455 (B.O. 8-3-95) POR EL CUAL INCLUYE DENTRO DE LAS PRESTACIONES DE LA LEY 23.660 LA COBERTURA ENFERMOS DE SIDA Y DROGADICCION.\n\nOBSERVACION SE DISPONE LA ACTUALIZACION DE REGISTROS Y PADRONES DE OBRAS SOCIALES Y AGENTES DEL SEGURO COMPRENDIDOS EN ESTA LEY POR ART. 1 RES. 516/99 DE LA SUPERINTENDENCIA DE SERVICIO DE SALUD DEL 9-12-99 (B.O. 3-1-2000).\n\nOBSERVACION: POR DECRETO 446/00 SE ESTABLECEN NORMAS EN RELACION A OPCIONES DE OBRAS SOCIALES (B.O. 6/6/00).\n\nOBSERVACION VER RES. 2025/00, DEL 30-6-00, DE LA ADMINISTRACION DE PROGRAMAS ESPECIALES QUE ESTABLECE PARA LOS BENEFICIARIOS DE ESTA LEY EL \"PROGRAMA DE PREVENCION DE LA TRANSMISION VERTICAL DE LA ENFERMEDAD VIH-SIDA PARA LA EMBARAZADA Y EL NIÑO\" (B.O. 4-7-00) .\n\nOBSERVACION: CREACION DEL REGISTRO DE ENTIDADES ADHERIDAS AL SISTEMA NACIONAL DEL SEGURO DE SALUD POR RES. 246/00 DE LA SUPERINTENDENCIA DE SERVICIOS DE SALUD (B.O. 01-08-00).\n\nOBSERVACION: POR RESOLUCION 2300/00 DE LA ADMINISTRACION DE PROGRAMAS ESPECIALES SE ESTABLECE SISTEMA DE INFORMACION A CUMPLIMENTAR POR LOS AGENTES DEL SEGURO DE SALUD, RESPECTO DE LOS BENEFICIARIOS DE ESTA LEY, INVOLUCRADOS EN DETERMINADAS PATOLOGIAS QUE CONCEDEN DERECHOS A PETICIONAR EN LOS TERMINOS DE LAS RES. 1/98 Y 400/99 (B.O. 23/8/00).\n\nOBSERVACION: POR RESOLUCION 2219/23 DE LA SUPERINTENDENCIA DE SERVICIOS DE SALUD (B.O. 7/11/2023) SE ESTABLECE QUE CUANDO SE HACE REFERENCIA A PERSONAS CON DISCAPACIDAD DEBERA INTERPRETARSE ACORDE A LOS TERMINOS ESTABLECIDOS POR LA CONVENCION SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD, GARANTIZANDO LA PERSPECTIVA DE DERECHOS HUMANOS Y CUANDO SE HACE REFERENCIA A LOS VOCABLOS INCAPACITADO Y/O PERSONAS DISCAPACITADAS DEBE ENTENDERSE DE ACUERDO A TODAS LAS ACEPCIONES QUE CORRESPONDEN A PERSONAS CON DISCAPACIDAD.\n\nOBSERVACION: POR RESOLUCION 232/24 DE LA SUPERINTENDENCIA DE SERVICIOS DE SALUD (B.O. 4/3/2024) SE MODIFICA LA DENOMINACION DEL REGISTRO NACIONAL DE OBRAS SOCIALES (RNOS) POR LA DE REGISTRO NACIONAL DE AGENTES DEL SEGURO (RNAS)."
+      },
+      "segmento": [
+        {
+          "titulo-particion": "CAPITULO I DEL AMBITO DE APLICACION",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "ARTICULO 1.- Créase el Sistema nacional del Seguro de Salud, con los alcances de un seguro social, a efectos de procurar el pleno goce del derecho a la salud para todos los habitantes del pais sin discriminación social, económica, cultural o geográfica. El seguro se organizará dentro del marco de una concepción integradora del sector salud donde la autoridad pública afirme su papel de conducción general del sistema y las sociedadas intermedias consoliden su participación en la gestión directa de las acciones, en consonancia con los dictados de una democracia social moderna."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "ART. 2.- El seguro téndrá como objetivo fundamental proveer el otorgamiento de prestaciones de salud igualitarias, integrales y humanizadas, tendientes a la promoción, protección, recuperación y rehabilitación de la salud, que respondan al mejor nivel de calidad disponible y garanticen a los beneficiarios la obtención del mismo tipo y nivel de prestaciones eliminando toda forma de discriminación en base a un criterio de justicia distributiva.\n\nSe consideran agentes del seguro a las obras sociales nacionales, cualquiera sea su naturaleza o denominación, las obras sociales de otras jurisdicciones, las entidades incorporadas al inciso i) del artículo 1° de la Ley N° 23.660 y demás entidades que adhieran al sistema que se constituye, las que deberán adecuar sus prestaciones de salud a las normas que se dicten y se regirán por lo establecido en la presente ley, su reglamentación y la ley de Obras Sociales, en lo pertinente.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 21/12/2023) Ultimo párrafo sustituido.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DNU C 000070 2023 12 20 0295 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "ART. 3.- El seguro adecuará sus acciones a las politicas que se dicten e instrumenten a través del Ministerio de Salud y Acción Social.\n\nDichas politicas estarán encaminadas a articular y coordinar los servicios de salud de las obras sociales, de los establecimientos públicos y de los prestadores privados en un sistema de cobertura universal, estructura pluralista y participativa y administración descentralizada que responda a la organización federal de nuestro país. Se orientarán también a asegurar adecuado control y fiscalización por parte de la comunidad y afianzar los lazos y mecanismos de solidaridad nacional que dan fundamento al desarrollo de un seguro de salud."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "ART. 4.- La Secretaria de Salud de la Nación promoverá la descentralización progresiva del seguro en las jurisdicciones provinciales, la Municipalidad de la Ciudad de Buenos Aires, y el territorio nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur.\n\nA ese efecto, las funciones, atribuciones y facultades que la presente ley otorga a la Secretaría de Salud de la Nación y a la Administración Nacional del Seguro de Salud podrán ser delegadas en las aludidas jurisdicciones mediante la celebración de los convenios correspondientes."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO II DE LOS BENEFICIARIOS",
+          "articulo": [
+            {
+              "numero-articulo": 5,
+              "texto": "ART. 5.- Quedan incluidos en el seguro:\n\na) Todos los beneficiarios comprendidos en la Ley 23.660.\n\nb) Los trabajadores autónomos comprendidos en el régimen nacional de jubilaciones y pensiones, con las condiciones, modalidades y aportes que fija la reglamentación y el respectivo régimen legal complementario en lo referente a la inclusión de productores agropecuarios.\n\nc) Las personas que, con residencia permanente en el país, se encuentren sin cobertura médico-asistencial por carecer de tareas remuneradas o beneficios previsionales, en las condiciones y modalidades que fije la reglamentación.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 21/12/2023) Inciso a) sustituido.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DNU C 000070 2023 12 20 0296 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "ART. 6.- El personal dependiente de los gobiernos provinciales y sus municipalidades y los jubilados, retirados y pensionados del mismo ámbito no serán incluídos obligatoriamente en el seguro. Sin embargo podrá optarse por su incorporación parcial o total al seguromediante los correspondientes convenios de adhesión.\n\nLos organismos que brinden cobertura asistencial al personal militar y civil de las fuerzas armadas y de seguridad y el organismo que brinde cobertura asistencial al personal del Poder Legislativo de la nación y/o a los jubilados, retirados y pensionados de dichos ámbitos podrán optar por su incorporación total o parcial al seguro mediante los correspondientes convenios de adhesión."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO III DE LA ADMINISTRACION DEL SEGURO",
+          "articulo": [
+            {
+              "numero-articulo": 7,
+              "texto": "ART. 7.- La autoridad de aplicación del seguro será la Secretaría de Salud de la nación. en su ámbito, funcionará la Administración nacional del Seguro de Salud (ANSSAL), como entidad estatal de derecho público con personalidad jurídica y autarquía individual, financiera y administrativa.\n\nEn tal carácter está facultada para ejecutar el ciento por ciento (100%) de los ingresos genuinos que perciba.\n\nLa fiscalización financiera patrimonial de la Administración Nacional del Seguro de Salud, prevista en la Ley de Contabilidad, se realizará exclusivamente a través de las rendiciones de cuentas y estados contables, los que serán elevados mensualmente al Tribunal de Cuentas de la Nación."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "ART. 8.- Corresponde a los agentes del seguro y a las entidades que adhieran al mismo el cumplimiento de las resoluciones que adopten la Secretaría de Salud de la nación y la ANSSAL en ejercicio de las funciones, atribuciones y facultades otorgadas por la presente ley."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "ART. 9.- La ANSSAL tendrá la competencia que le atribuye la presente ley en lo concerniente a los objetivos del seguro, promoción e integración del desarrollo de las prestaciones de salud y la conducción y supervisión del sistema establecido."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "ART. 10.- La ANSSAL eswtará a cargo de un directorio integrado por un (1) presidente y catroce (14) directores. El presidente tendrá rango de subsecretario y será designado or el Poder ejecutivo Nacional, a propuesta del Ministerio de Salud y Acción social. Los directores serán siete (7) en representación del Estado nacional, cuatro (4) en representación de los trabajadores organziados en la Confederación General del Trabajo, uno (1) en representación de los empleadores y uno (1) en representación del Consejo Federal de Salud. lEste último tendrá como obligación presentar, como mínimo dos (2) vecesa al año, un informe sobre la gestión del Seguro y la administración del Fondo Solidario de Redistribución.\n\nLos directores serán designados por la Secretaria de Salud de la nación, en forma directa para los representantes del Estado, a propuesta de la Confederación General del Trabajo los representantes de los trabajadores organizados, el del Consejo Federal de Salud a propuesta del mismo, y a propuesta de las organizaciones que nuclean a los demás sectores, de acuerdo con el procedimiento que determine la reglamentación."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "ART. 11.- Los directores durarán dos (2) años en sus funciones, podrán ser nuevamente designados por otros períodos de ley y gozarán de la retribución que fije el Poder ejecutivo nacional.\n\nDeberán ser mayores de edad, no tener inhabilidades ni incompatibilidades civiles o penales. lSerán personal y solidariamente responsables por los actos y hechos ilícitos en que pudieran incurrir con motivo y en ocasión del ejercicio de sus funciones. en caso de ausencia o impedimento del presidente, será reemplazado por uno de los directores estatales, según el orden de prelación de su designación."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "ART. 12.- Corresponde al presidente:\n\na) Representar a la ANSSAL en todos sus actos\" b) Ejercer las funciones, facultades y atribuciones y cumplir con los deberes y obligaciones establecidos en la presente ley, su reglamentación y disposiciones que la complementen;\n\nc) Convocar y presidir las reuniones del directorio en las que tendrá voz y voto el que prevalecerá en caso de empate;\n\nd) Invitar a participar, con voz pero sin voto, a un representante de sectores interesados, no representados en el directorio, cuando se traten temas específicos de su área de acción;\n\ne) Convocar y presidir las reuniones del consejo asesor y de la comisión, permanente de concertación, que crea la presente ley;\n\nf) Aplicar apercibimientos y multas de hasta cuatro (4) veces el monto mínimo, según lo establecido en el artículo 43 de la presente ley;\n\ng) intervenir en lo atinente a la estructura orgánica funcional y dotación de personal del organismo;\n\nh) Adoptar todas las medidas que, siendo competencia del directorio, no admitan dilación, sometiéndolas a la consideración en la sesión inmediata;\n\ni) Delegar funciones en otros miembros del directorio o empleados superiores del organismo."
+            },
+            {
+              "numero-articulo": 13,
+              "texto": "ART. 13.- Corresponde al directorio:\n\na) Dictar su reglamento interno;\n\nb) Intervenir en la elaboración del presupuesto anual de gastos, cálculo de recursos y cuenta de inversiones y elaborar la memoria y balance al finalizar cada ejercicio;\n\nc) Designar a los síndicos y fijarles su remuneración;\n\nd) Asignar los recursos del Fondo Solidario de Redistribución dictando las normas para el otorgamiento de subsidios, préstamos y subvenciones;\n\ne) Intervenir en la elaboración y actualización ;de los instrumentos utilizados para la regulación de efectores y prestadores;\n\nf) Dictar las normas que regulen las distintas modalidades en las relaciones contractuales entre los agentes del seguro y los prestadores;\n\ng) Autorizar inscripciones y cancelaciones en el Registro Nacional de Agentes del Seguro;\n\nh) Aplicar las sanciones previstas en el artículo 43 de la presente ley;\n\ni) Delegar funcines en el presidente por tiempo determinado;\n\nj) Aprobar la estructura orgánica funcional, dictar el estatuto, escalafón y fijar la retribución de los agentes de la ANSSAL;\n\nk) Designar, promover, remover y suspender al personal de la Institución."
+            },
+            {
+              "numero-articulo": 14,
+              "texto": "ART. 14.- En el ámbito de la ANSSAL, funcionará un Consejo Asesor que tendrá por cometido asesorarlo sobre los temas vinculados con la organización y funcionamiento del seguro y proponer iniciativas encuadradas en sus objetivos fundamentales.\n\nEstará integrado por los representes de los agentes del seguro, de las entidades adherentes inscriptas como tales, de las entidades representativas mayoritarias de los prestadores y representantes de las jurisdicciones que hayan celebrado los convenios que establece el artículo 48.\n\nPodrán integrarlo además representantes de sectores interesados, no representados en el directorio de la ANSSAL, a propuesta del propio Consejo Asesor, con el carácter y en las condiciones que determine la reglamentación.\n\nEl Consejo Asesor elaborará su reglamento de funcionamiento el que será aprobado por el directorio de la ANSSAL.\n\nLos integrantes del Consejo Asesor no percibirán remuneración por parte de la ANSSAL."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IV DE LOS AGENTES DEL SEGURO",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "Ley de Obras Sociales",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 023660 1988 12 29 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 15,
+              "texto": "ARTÍCULO 15.- Las entidades comprendidas en la Ley N° 23.660 serán agentes naturales del seguro, así como aquellas otras obras sociales que adhieran al régimen de la presente ley.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 21/12/2023) Artículo sustituido.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DNU C 000070 2023 12 20 0297 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "ART. 16.- Las entidades mutuales podrán integrarse al seguro, suscribiendo los correspondientes convenios de adhesión con la Secretariái de Salud de la nación. En tal caso las mutuales se inscribirán el el Registro Nacional de Agentes del Seguro tienen respecto de sus beneficiarios y del sistema."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "Ley de Obras Sociales",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 023660 1988 12 29 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 17,
+              "texto": "ART. 17.- La ANSSAL, llevará un Registro Nacional de agentes del Seguro, en el que inscribirá:.\n\na) A las entidades comprendidas en la Ley N° 23.660.\n\nb) A las asociaciones de obras sociales;\n\nc) A otras obras sociales que adhieran el régimen de la presente ley;\n\nd) A las entidades mutuales incriptas en las condiciones del artículo anterior.\n\nFormalizada la inscripción expedirá un certificado que acredita la calidad de agente del seguro.\n\nLa inscripción, habilitará el agente para aplicar los recursos destinados a las prestaciones de salud, previstos en la Ley N° 23.660.",
+              "modificado-por": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 21/12/2023) Inciso a) sustituido.",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DNU C 000070 2023 12 20 0298 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 21/12/2023) Ultimo párrafo sustituido.",
+                    "id": "MODIFICADO_POR_1",
+                    "ref": "DNU C 000070 2023 12 20 0299 000 0000 000"
+                  }
+                ]
+              }
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "ART. 18.- Los agentes del seguro, cualquiera sea su naturaleza, dependencia y forma de administración, deberán presentar anualmente a la ANSSAL para su aprobación, en el tiempo y forma que establezca la reglamentación;\n\na) El programa de prestaciones médico-asistenciales para su beneficiarios;\n\nb) El presupuesto de gastos y recursos para la ejecución del mencionado programa.\n\nLa ANSSAL resolverá dentro de los treinta (30) días hábiles inmediatos a su presentación la aprobación, observaciones o rehazo de las proposiciones referidas en los inciso precedentes.\n\nTranscurrido el plazo antes señalado sin resolución expresa, se considerarán aprobadas las propuestas.\n\nAsimismo deberán enviar para conocimiento y registro de la ANSSAL;\n\n1. La memoria general y balance de ingresos y egresos financieros del período anterior.\n\n2. Copia legalizada de todos los contratos de prestaciones que celebre durante el mismo período."
+            },
+            {
+              "numero-articulo": 19,
+              "informacion-vinculada": 1E+19,
+              "texto": "ART. 19.- La ANSSAL designará síndicos que tendrán por cometido la fiscalización y control de los actos de los órganos y funcionarios de los agentes del seguro vinculados con el cumplimiento de las normas y disposiciones de la presente ley y su reglamentación.\n\nEstas sindicaturas serán colegiadas y cada una de ellas podrá abarcar más de un agente del seguro.\n\nSu actuación será rotativa con un máximo de cuatro años de funciones en un mismo agente del seguro.\n\nLos síndicos podrán ser removidos por ANSSAL y percibirán la remuneración que la misma determine, con cargo a su presupuesto.\n\nLa ANSSAL establecerá las normas referidas a las atribuciones y funcionamiento de la sindicatura.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 17/4/00) RESOLUCION DE LA SUPERINTENDENCIA DE SERVICIOS DE SALUD QUE DESIGNA JUNTAS DE SINDICOS",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "RES C 000088 2000 03 31 0000 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "ART. 20.- Las resoluciones de los órganos de conducción deberán ser notificados a la sindicatura dentro de los cinco (5) días hábiles de producidas. Esta, en igual plazo deberá expedirse y en caso de efectuar observaciones las mismas deberán ser fundadas y podrán ser recurridas ante la ANSSAL de acuerdo al siguiente procedimiento.\n\n1.- En el término de cinco (5) días hábiles subsiguients a la notificación de la observación, el agente del seguro elevará a la ANSSAL la actuación observada y los fundamentos para su insistencia, sin que ello implique la suspensión de la ejecutoriedad de la resolución cuestionada.\n\n2.- El directorio de la ANSSAL deberá resolver la cuestión planteada dentro de los diez (10) días hábiles de recepcionadas las actuaciones, notficando al agnete la decisión adoptada, la que será irecurrible en sede administrativa.\n\nVencido el plazo antes mencionado, y no mediando resolución expresa, quedará firme el acto observado.\n\nLa sindicatura podrá asistir a las sesiones del órgano conductivo del agente del seguro, con voz pero sin voto, y sus opiniones deberán constar en las respectivas actas.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 17/4/00) RESOLUCION DE LA SUPERINTENDENCIA DE SERVICIOS DE SALUD QUE DESIGNA JUNTAS DE SINDICOS",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "RES C 000088 2000 03 31 0000 000 0000 000"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO V DE LA FINANCIACION",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "Ley de Obras Sociales",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 023660 1988 12 29 0005 000 0000 000"
+                }
+              },
+              "numero-articulo": 21,
+              "texto": "ART. 21.- El Sistema Nacional del Seguro de Salud, para garantizar las prestaciones a que se refiere el artículo 2 de la presente ley, contará con:.\n\na) La cobertura de prestaciones que tienen que dar a sus beneficiarios las entidades comprendidas en la Ley N° 23.660.\n\nb) Los aportes que se determinen en el Presupuesto General de la Nación, discriminados por jurisdicción adherida, y los de éstas, con destino a la incorporación de la población sin cobertura y carente de recursos. A tal efecto, y a partir de la fecha de promulgación de la presente ley, se creará en el ámbito de la Secretaria de Salud, dependiente del Ministerio de Salud y Acción social, una cuenta especial, a través de la cual se recepcionarán las contribuciones del Tesoro nacional con destino al Fondo Solidario de Redistribución, como contrapartida de lo que las jurisdicciones adheridas aporten en igual sentido en sus respectivos ámbitos, dándose apertura a las partidas necesrias en el presupuesto de gastos de dicha Secretaría.\n\nLa base de cálculo que deberá tenerse en cuenta en la elaboración del Presupuesto General de la nación para dotar de recursos a la cuenta antes indicada, será el equivalente al cincuenta por ciento (50%) del valor promedio del ingreso por aprotes y contribuciones que, por cada beneficiario obligado, recibieran las obras sociales de las jurisdicciones adheridas durante sus respectivos ejercicios presupuestarios del año inmediato anterior, a valores constantes, multiplicado por la población sin cobertura y carente de recursos que se estime cubrir en sus respectivos ámbitos por período presupuestario. El cincuenta por ciento (50%) que corresponde aportar a las jurisdicciones adheridas se considerará cumplido con lo invertido en sus presupuestos de salud para la atención de carenciados de sus respectivos ámbitos. En dicho presupuesto deberá individualizarse la partida originada para atender a carenciados.\n\nEl convenio de adhesión previsto en el artíuclo 48, siguientes y concordantes establecerá, a su vez, la responsabilidad de las partes y los mecanismos de transferencia; c) El aporte del Tesoro Nacional que, según las necesidades adicionales de financiación del seguro, determine el Presupuesto General de la Nación; d) Con las sumas que ingresen al Fondo Solidario de Redistribución.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 21/12/2023) Inciso a) sustituido.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DNU C 000070 2023 12 20 0300 000 0000 000"
+                }
+              }
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 023660 1988 12 29 0016 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 022269 1980 08 15 0013 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 22,
+              "antecedentes": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O 6/06/00) INCISO A) SUSTITUIDO",
+                    "id": "ANTECEDENTES_0",
+                    "ref": "DNU C 000446 2000 06 02 0017 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 13-03-2002) INC. A) SUSTITUIDO.",
+                    "id": "ANTECEDENTES_1",
+                    "ref": "DNU C 000486 2002 03 12 0022 000 0000 000"
+                  }
+                ]
+              },
+              "informacion-vinculada": 1E+19,
+              "texto": "*ART. 22.- En el ámbito de la ANSSAL funcionará, bajo su admistración y como cuenta especial, un Fondo Solidario de Redistribución; que se integrará con los siguientes recursos:.\n\na) los previstos en la Ley N° 23.660 y sus modificaciones.\n\nb) El cincuenta por ciento (50%) de los recursos de distinta naturaleza a que se refiere la última parte del artículo 16 de la Ley de Obras Sociales;\n\nc) Los reintegros de los préstamos a que se refiere el art. 24 de la presente ley;\n\nd) Los montos reintegrados por apoyos financieros que se revoquen con más su actualización e intereses;\n\ne) El producido de las multas que se apliquen en virtud de la presente ley;\n\nf) Las rentas de las inversiones efectuadas con recursos del propio fondo;\n\ng) Los subsidios, subvenciones, legados y donaciones y todo otro recurso que corresponda ingresar al Fondo Solidario de Redistribución;\n\nh) Los aportes que se establezcan en el Presupuesto General de la Nación, según lo indicado en los incisos b) y c) del artículo 21 de la presente ley;\n\ni) (Nota de redacción) (Derogado por Ley 24.189).\n\nj) Los aportes que se convengan con las obras sociales de las jurisdicciones, con las asociaciones mutuales o de otra naturaleza que adhieran al sistema;\n\nk) Los saldos del Fondo de Redistribución creado por el artículo 13 de la ley 22.269, así como los créditos e importes adeudados al mismo.\n\nTexto conforme modificación por Ley 24.189",
+              "modificado-por": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 13-01-93). Inciso i) derogado.",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "LEY C 024189 1992 12 16 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 21/12/2023) Inciso a) sustituido.",
+                    "id": "MODIFICADO_POR_1",
+                    "ref": "DNU C 000070 2023 12 20 0301 000 0000 000"
+                  }
+                ]
+              },
+              "observado-por": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O 26/10/99) SE EXCLUYE DEL PRESUPUESTO DE LA ADMINISTRACION NACIONAL A PARTIR DEL 1/1/2000 AL FONDO SOLIDARIO DE REDISTRIBUCION",
+                    "id": "OBSERVADO_POR_0",
+                    "ref": "DNU C 001215 1999 10 22 0007 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 02-04-2003) LA SUSTITUCION DEL INC. A), DISPUESTA POR DEC. 486/2002, DEBERA CONSIDERARSE COMO DEFINITIVA.",
+                    "id": "OBSERVADO_POR_1",
+                    "ref": "DNU C 000741 2003 03 28 0004 000 0000 000"
+                  }
+                ]
+              }
+            },
+            {
+              "numero-articulo": 23,
+              "texto": "ART. 23.- La recaudación y fiscalización de los aportes, contribuciones y recursos de otra naturaleza destinados al Fondo Solidario de Redistribución lo hará la ANSSAL directamente o a través de la Dirección Nacional de Recaudación Previsional, conforme a lo que determine la reglamentación, sin perjuicio de la intervención de organismos provinciales o municipales que correspondieren.\n\nEn caso de que la recaudación se hiciere por la Dirección Nacional de Recaudación Previsional, la ANSSAL podrá controlar y fiscalizar directamente a los obligados el cumplimiento del pago con el Fondo Solidario de Redistribución."
+            },
+            {
+              "numero-articulo": 24,
+              "informacion-vinculada": 1E+19,
+              "texto": "*ART. 24.- Los recursos del Fondo Solidario de Redistribución serán destinados por la ANSSAL;\n\na) Los establecidos en el inciso b) del artículo 21 de la presente ley, para brindar apoyo financiero a las jurisdicciones adheridas, con destino a la incorporación de las personas sin cobertura y carentes de recursos, de conformidad con lo establecido en el artículo 49 inciso b) de la presente ley;\n\nb) Los demás recursos:\n\n1.- Para atender los gastos administrativos y de funcionamiento de la ANSSAL con un límite de hasta el cinco por ciento (5%) que podrá ser elevado hasta el seis por ciento (6%) por decreto del Poder Ejecutivo, en cada período presupuestario, a propuesta fundada del directorio de la ANSSAL.\n\n2.- Para su distribución automática entre los agentes en un porcentaje no menor al setenta por ciento (70%), deducidos los recursos correspondientes a los gastos admiistrativos y de funcionamiento de la ANSSAL, con el fin de subsidiar a aquéllos que, por todo concepto, perciban menores ingresos promedio por beneficiario obligado, con el propósito de equiparar niveles de cobertura obligatoria, según la reglamentación que establezca la ANSSAL.\n\n3.- Para apoyar financieramente a los agentes del seguro, en calidad de préstamos, subvenciones y subsidios, de conformidad con las normas que la ANSSAL dicte al efecto.\n\n4.- Para la financiación de planes y programas de salud destinados a beneficiarios del seguro.\n\n5.- Los excedentes del fondo correspondiente a cada ejercicio serán distribuidos entre los agentes del seguro, en proporción a los montos con que hubieran contribuido durante el mismo período, en las condiciones que dicte la ANSSAL y exclusivamente para ser aplicados al presupuesto de prestaciones de salud.",
+              "observado-por": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O 26/10/99) APARTADO 1 DEL INCISO B DEROGADO",
+                    "id": "OBSERVADO_POR_0",
+                    "ref": "DNU C 001215 1999 10 22 0008 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O 6/06/00) ARTICULO SUSTITUIDO, PERO DICHA SUSTITUCION HA SIDO REEMPLAZADA POR ART. 3 DEL DECRETO 1140/00 (B.O. 5/12/00)",
+                    "id": "OBSERVADO_POR_1",
+                    "ref": "DNU C 000446 2000 06 02 0019 000 0000 000"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO VI DE LAS PRESTACIONES DEL SEGURO",
+          "articulo": [
+            {
+              "numero-articulo": 25,
+              "texto": "ART. 25.- Las prestaciones del seguro serán otorgadas de acuerdo con las poltticas nacionales de salud, las que asegurarán la plena utilización de los servicios y capacidad instalada existente y estarán basadas en la estrategia de la atención primaria de la salud y descentralización operativa, promoviendo la libre elección de los prestadores por parte de los beneficiarios, donde ello fuere posible."
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "ART. 26.- Los agentes del seguro mantendrán y podrán desarrollar los servicios propios existentes en la actualidad. Para desarrollar mayor capacidad instalada deberán adecuarse a las normativas que la ANSSAL y la Secretaría de Salud de la Nación establezcan.\n\nAsimismo articularán sus programas de prestaciones médico asistenciales con otras entidades del seguro, procurando su efectiva integración en las acciones de salud con las autoridads sanitarias que corrspondan. En tal sentido, los servicios propios de los agentes del seguro estarán disponibles para los demás beneficarios del sistema, de acuerdo con las normas generales que al respecto establezca la Secretaría de Salud de la nación o el directorio de la ANSSAL, y las particulares de los respectivos convenios."
+            },
+            {
+              "numero-articulo": 27,
+              "texto": "ART. 27.- Las prestaciones de salud serán otorgadas por los agentes del seguro según las modalidades operativas de contratación y pago que normalice la ANSSAL de conformidad a lo establecido en los artículos 13, inciso f) y 35 de esta ley, las que deberán asegurar a sus beneficiarios servicios accesibles, suficientes y oportunos."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "ART. 28.- Los agentes del seguro deberán desarrollar un programa de prestaciones de salud, a cuyo efecto la ANSSAL establecerá y actualizará periódicamente, de acuerdo a lo normado por la Secretaría de Salud de la nación, las prestaciones que deberán otorgarse obligatoriamente, dentro de las cuales deberán incluirse todas aquéllas que requieran la rehabilitación de las personas discapacitadas, Asimismo, deberán asegurar la cobertura de medicamentos que las aludidas prestaciones requieran."
+            },
+            {
+              "numero-articulo": 29,
+              "informacion-vinculada": 1E+19,
+              "texto": "ART. 29.- La ANSSAL llevará un Registro Nacional de Prestadores que contraten con los agentes del seguro, que será descentralizado progresivamente por jurisdicción, a cuyo efecto la ANSSAL convendrá la delegación de sus atribuciones en los organismos que correspondan. La inscripción en dicho registro será requisito indispensable para que los prestadores puedan celebrar contrato con los agentes del seguro.\n\nDeberán inscribirse en el Registro Nacional de Prestadores:\n\na) Las personas físicas, individualmente o asociada con otras:\n\nb) Los establecimientos y organismos asistenciales públicos y privados;\n\nc) Las obras sociales, agnetes del seguro, cooperativas o mutualidades que posean establecimientos asistenciales;\n\nd) Las asociaciones que representen a profesionales de la salud o a establecimientos asistenciales que contraten servicios en nombre de sus miembros;\n\ne) Las entidades y asociaciones privadas que dispongan de recursos humanos y físicos y sean prestadores directos de servicios médico asistenciales.\n\nCada prestador individual, sea persona física, establecimiento o asociación, no podrá figurar más de una vez en el Registro.\n\nNo podrán inscribirse en el Registro ni recibir pago por prestaciones otorgadas al seguro, las personas o entidades que ofrezcan servicios a cargo de terceros."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "ART. 30.- Los hospitales y demás centros asistenciales dependientes de la Ciudad de Buenos Aires y del territorio nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur, se incorporarán al seguro en calidad de prestadores, en las condiciones que determina la reglamentación."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "ART. 31.- La Secretaría de Salud de la Nación establecerá las definiciones y normas de acreditación y categorización para profesionales y establecimientos asistenciales sobre cuya base la ANSSAL fijará los requisitos a cumplir por parte de las personas o entidades que se inscriban en el Registro Nacional de Prestadores.\n\nLa aplicación de dichas normas así como su adaptación a las realidades locales, serán convenidas por la Secretaría de Salud de la nación con las jurisdicciones adheridas."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "ART. 32.- La inscripción en el Registro Nacional de Prestadores implicará para los prestadores la obligación de respetar las normas y valores retributivos que rijan las contrataciones con los agentes del seguro, mantener la prestación del Servicio en las modalidades convenidas durante el lapso de inscripción y por un tiempo adicional de sesenta (60) días corridos y ajustarse a las normas que en ejercicio de sus facultades, derechos y atribuciones establezca la ANSSAL."
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "ART. 33.- Las prestaciones de salud garantizadas por la presente ley, que sean comprometidas por los prestadores de servicio durante el lapso y según las modalidades convenidas con los agentes del Seguro, se consideran servicio de asistencia social de interés público.\n\nLa interrupción de las prestaciones convenidas -sin causa justificada- se considerará infracción en los términos del inciso b) del artículo 42 de la presente ley."
+            },
+            {
+              "numero-articulo": 34,
+              "texto": "ART. 34.- La Secretaría de Salud de la Nación aprobará las modalidades, los nomencladores y valores retributivos para la contratación de las prestaciones de salud, los que serán elaborados por la ANSSAL."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "ART. 35.- A los fines dispuestos precedentemente, funcionará en el ámbito de la ANSSAL la Comisión Permanente de Concertación, que será presidida por uno de sus directores e integrada por representantes de los agentes del seguro y de las entidades representativas mayoritarias de los prestadores en el ámbito nacional o provincial, cuyo número y proporción fijará el directorio de la ANSSAL.\n\nLa Comisión Permanente de Concertación participará en la elaboración de las normas y procedimientos a que se ajustará la prestación de servicios y las modalidades y valores retributivos.\n\nLa ANSSAL dictará el reglamento de funcionamiento de la citada comisión, el que preverá la constitución ;de subcomisiones y la paticipación de la autoridad sanitaria correspondiente.\n\nEn los casos que la Comisión Permanente de Concertación deba considerar aspectos relativos a distintas ramas profesionales y actividades de atención de la salud podrá integrar, con voz pero sin voto, al correspondiente representante para el tratamiento del tema.\n\nLa Comisión Permanente de Concertación funcionará como paritaria periódica a los efectos de la actualización de los valores retributivos.\n\nCuando no se obtengan acuerdos el presidente de la ANSSAL actuará como instancia de conciliación y si subsistiera la diferencia laudará el ministro de Salud y Acción Social."
+            },
+            {
+              "numero-articulo": 36,
+              "texto": "ART. 36.- La política en materia de medicamentos será implementada por el Ministerio de Salud y Acción Social de acuerdo con las atribuciones que al efecto determina la legislación vigente."
+            },
+            {
+              "numero-articulo": 37,
+              "texto": "ART. 37.- Las normas referidas al régimen de prestaciones de salud del seguro serán de aplicación para las entidades mutuales que adhieran al régimen de la presente ley."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO VII DE LA JURISDICCIÓN, INFRACCIONES Y PENALIDADES",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "Ley de Obras Sociales",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 023660 1988 12 29 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 38,
+              "texto": "ART. 38.- La ANSSAL y los agentes del seguro estarán sometidos exclusivamente a la jurisdicción federal, pudiendo optar por la correspondiente justicia ordinaria cuando fueren actoras. El sometimiento de los agentes del seguro a la justicia ordinaria estará limitado a su actuación como sujeto de derecho en los términos dispuestos en la Ley de Obras Sociales."
+            },
+            {
+              "numero-articulo": 39,
+              "texto": "ART. 39.- La ANSSAL y los agentes del seguro estarán exentos del pago de tasas y contribuciones nacionales y de la Municipalidad de la Ciudad de Buenos Aires. El Poder Ejecutivo nacional gestionará una exención similar de los gobiernos provinciales."
+            },
+            {
+              "numero-articulo": 40,
+              "texto": "ART. 40.- A instancia de la ANSSAL, previo traslado por diez (10) días hábiles al agente del seguro cuestionado, la Secretaría de Salud de la nación podrá requerir al Poder Ejecutivo Nacional la intervención de la entidad cuando se produzcan en ella acciones u omisiones que por su carácter o magnitud impidan o alteren su funcionamiento en cuanto a las prescripciones de la presente ley.\n\nAl mismo tiempo la ANSSAL deberá disponer los mecanismos sumarios que permitan la continuidad y normalización de las prestaciones de salud."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "Ley de Obras Sociales",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 023660 1988 12 29 0019 000 0000 000"
+                }
+              },
+              "numero-articulo": 41,
+              "texto": "ART. 41.- Será reprimido con prisión de un mes a seis años el obligado que dentro de los quince (15) días corridos de intimado formalmente no depositare los importes previstos en los incisos b), d) y e) del artículo 19 de la Ley de Obras Sociales, destinados al Fondo Solidario de Redistribución.\n\nCuando se tratare de personas jurídicas, sociedades, asociaciones y otras entidades de derecho privado, fallidos o incapaces, la pena corresponderá a los directores, gerentes o representantes responsables de la omisión.\n\nLos órganos de recaudación establecidos en la presente ley y los agentes del seguro deberán formular la denuncia correspondiente o asumir el carácter de parte querellante en las causas penales que se sustancien conmotivo de lo dispuesto en este artículo.\n\nLa justicia federal sera competente para conocer sobre los delitos previstos en el presente artículo."
+            },
+            {
+              "numero-articulo": 42,
+              "texto": "ART. 42.- Se considera infracción: a) La violación de las disposiciones de la presente ley y su reglamentación, las normas que establezcan la Secretaría de Salud de la Nación, la ANSSAL y las contenidas en los estatutos de los agentes del seguro; b) La violación por parte de los prestadores de las condiciones contenidas en las contrataciones de los servicios; c) La negativa de un ataque del seguro a proporcionar la documentación informativa y demás elementos de juicio que la ANSSAL o los síndicos requieran en el ejercicio de sus funciones, derechos y atribuciones; d) El incumplimiento de las directivas impartidas por las autoridades de aplicación; e) La no presentación en tiempo y forma de los programas, presupuestos, balances y memorias generales y copia de los contratos celebrados, a que hace referencia el artículo 18 de la presente ley."
+            },
+            {
+              "numero-articulo": 43,
+              "texto": "ART. 43.- Las infracciones previstas en el artículo anterior acarrearán las siguientes sanciones:\n\na) Apercibimiento;\n\nb) Multa desde una (1) vez el monto del haber mínimo de jubilación ordinaria del régimen nacional de jubilaciones y pensiones para Trabajadores en relación de dependencia, vigente al momento de hacerse efectiva la multa, y hasta cien (100) veces, dicho monto.\n\nLa multa se aplicará por cada incumplimiento comprobado a los agentes del seguro;\n\nC) Suspensión de hasta un año a cancelación de la inscripción en el Registro Nacional de Prestadores.\n\nPara la aplicación de cada una de las sanciones y su graduación se tendrán en cuenta la gravedad y reiteración de las infracciones."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "ART. 44.- El juzgamiento de las infracciones previstas en el artículo anterior se hará conforme al procedimiento que establezca la ANSSAL que deberá asegurar el derecho de defensa y el debido proceso.\n\nLa suspensión o cancelación de inscripción en el Registro Nacional de Prestadores que se menciona en el artículo anterior tendrá efecto para todos los agentes del seguro."
+            },
+            {
+              "numero-articulo": 45,
+              "texto": "ART. 45.- Sólo serán recurridas las sanciones previstas en los incisos b) y c) del artículo 43 de la presente ley, dentro de los diez (10) días hábiles de notificadas, fehacientemente y en domicilio legal del agente del seguro o del prestador.\n\nSerá irrecurrible la sanción de multa que no exceda de cuatro (4) veces el monto mínimo fijado en el inciso b) de dicho artículo.\n\nSerá competente para conocer el recurso la Cámara Federal que corresponda de acuerdo con el domicilio del recurrente.\n\nEl recurso se deducirá ante la Secretaría de Salud de la Nación con la expresión de su fundamento, interpuesto el recurso las actuaciones se elevarán inmediatamente al tribunal correspondiente, pudiendo en el mismo acto, la Secretaría de Salud de la Nación, contestar los agravios del recurrente."
+            },
+            {
+              "numero-articulo": 46,
+              "texto": "ART. 46.- La ANSSAL podrá delegar en las jurisdicciones que hayan adherido al seguro la sustanciación de los procedimientos a que den lugar las infracciones previstas en el artículo 42 de la presente ley y otorgarles su representación en la tramitación de los recursos judiciales que se interpongan contra las anciones que aplique."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "CPC C 017454 1981 08 18 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 47,
+              "texto": "ART. 47.- El cobro judicial de los aportes, contribuciones, recargos, intereses y actualización adeudados al Fondo Solidario de Redistribución y de las multas estagblecidas por la presente ley, se hará por la vía de ejecución fiscal prevista en el Código de Procedimientos Civil y Comercial de la Nación, sirviendo de suficiente título ejecutivo el certificado de deuda expedido por el presidente de la ANSSAL. Las acciones para el cobro de los créditos indicados en el párrafo anterior, prescribirán a los diez (10) años."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO VIII DE LA PARTICIPACION DE LAS PROVINCIAS",
+          "articulo": [
+            {
+              "numero-articulo": 48,
+              "texto": "ART. 48.- Las jurisdicciones que adhieran al Sistema administrarán el seguro dentro de su ámbito, a cuyo efecto celebrarán los respectivos convenios con la Secretaría de Salud de la Nación.\n\nLa adhesión de las distintas jurisdicciones implicará la articulación de sus planes y programas con lo que la autoridad de aplicación establezca, y el cumplimiento de las normas técnicas y administrativas del seguro, sin perjuicio de la adecuación que se requiera para su utilización local."
+            },
+            {
+              "numero-articulo": 49,
+              "texto": "ART. 49.- La adhesión al Sistema Nacional del Seguro de Salud implicará para las distintas jurisdicciones: a) incorporar en su ámbito, en las condiciones que se hayan determinado según lo previsto en el inciso b) del artículo 5 de la presente ley, a los trabajadores autónomos del régimen nacional con residencia permanente en la jurisdicción que no sean beneficiarios de otros agentes del seguro, y a los pertenecientes a los regímenes de su respectivo ámbito, si los hubiere; b) Incorporar en su ámbito a las personas indicadas en el inciso c) del artículo 5 de la presente ley, a cuyo efecto recibirán apoyo financiero del Tesoro nacional a través del Fondo Solidario de Redistribución por un monto igual al que la provincia aporte a esta finalidad.\n\nEste apoyo financiero se hará efectivo con los recursos de la cuenta especial a que hace referencia el inciso b) del artíuclo 21 de la presente ley, en forma mensual, en función de la población que se estime cubrir y con sujeción a las demás condiciones que se establezcan en los respectivos convenios; c) Administrar sobre la base de las normas generales del sistema, el Registro de Prestadores para la provincia, a cuyo fin establecerá las normas particulares y complementarias que resulten menester. d) Aplicar en su ámbito las normas de acreditación y categorización para profesionales y establecimientos de salud que serán requisito para la inscripción en el Registro Nacional de Prestadores; e) Participar en el Fondo Solidario de Redistribución a través del organismo que se determine, efectuando las contribuciones previstas en al inciso i) del artículo 22 de la presente ley y recibiendo los apoyos financieros referidos en el artículo 24 de esta ley; f) Esteblecre y coordinar dentro de su ámbito una subcomisión de la Comisión Permanente de Concertación sujeta a la aprobación de ésta, con representantes de los agentes del seguro y de los prestadores propuestos por sus organizaciones representativas mayoritarias g) Suministrar la información que le sea requerida por la ANSSAL en relación con la administración y desarrollo en su ámbito del Sistema Nacional del Seguro de Salud; h) Ejercer las demás facultades, atribuciones a funciones que se le deleguen según el convenio de adhesión y cumplir con las obligaciones que le imponga el mismo."
+            },
+            {
+              "numero-articulo": 50,
+              "texto": "ART. 50.- Las jurisdicciones que asuman la administración del Sistema Nacional del Seguro de Salud en su respectivo ámbito determinarán el organismo a cuyo cargo estarán dichas funciones."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IX DISPOSICIONES TRANSITORIAS",
+          "articulo": [
+            {
+              "numero-articulo": 51,
+              "texto": "ART. 51.- Las autoridades de la ANSSAL asumirán sus funciones en un plazo máximo e improrrogable de noventa (90) días corridos a partir de la promulgación de la presente ley, lapso dentro del cual el Poder Ejecutio reglamentará el artículo 10. Mientras tanto, las funciones y atribuciones previstas para la ANSSAL serán asumidas por el Instituto Nacional de Obras Sociales (INOS)."
+            },
+            {
+              "numero-articulo": 52,
+              "texto": "ART. 52.- Los directores que a partir de la sanción de esta ley sean designados para integrar el directorio de la ANSSAL cesarán automáticamente el día 10 de diciembre de 1989. Podrán ser designados nuevamente por el plazo y en las demás condiciones establecidas en los artículos 10 y 11 de la presente."
+            },
+            {
+              "numero-articulo": 53,
+              "texto": "ARTICULO 53.- Comuníquese al Poder Ejecutivo."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "PUGLIESE - MARTINEZ - BRAVO - MACRIS"
+          }
+        }
+      ],
+      "id-infojus": "LNS0003512"
+    }
+  }
+}

@@ -1,0 +1,764 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-321-7000-8691soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1732114212535,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "7123-nacional-decreto-reglamentario-ley-17565-sobre-ejercicio-actividad-farmaceutica-dn19680007123-1968-11-15"
+      }
+    },
+    "content": {
+      "mecanografico": 19680007123,
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 7123,
+      "fecha": "1968-11-15",
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DEC C 007123 1968 11 15",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 17.565 SOBRE EL EJERCICIO DE LA ACTIVIDAD FARMACEUTICA",
+      "nombre-coloquial": "DECRETO NACIONAL 7.123/1968",
+      "lugar-emision": "BUENOS AIRES",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 11 27"
+        }
+      },
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2024-11-20",
+      "fecha-mod": "2024-11-20",
+      "timestamp": "2024-11-20T11:44:17",
+      "timestamp-alta": "2024-11-20T11:44:17",
+      "timestamp-m": "2024-11-20T11:44:17",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 17.565 SOBRE EJERCICIO DE LA FARMACIA Y, HABILITACION DE LOS ESTABLECIMIENTOS CORRESPONDIENTES, ETC.",
+        "anexos-decreto": {
+          "anexo-ley": "A ANEXO"
+        },
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 017565 1967 12 05 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "actos de alcance general",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "SECRETARÍA DE SALUD"
+            },
+            "preferido": {
+              "termino": "SECRETARÍA DE SALUD"
+            },
+            "sinonimos": {
+              "termino": "SECRETARÍA DE ESTADO DE SALUD PÚBLICA"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Salud pública"
+            },
+            "preferido": {
+              "termino": "Salud pública"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "farmacéuticos"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/responsabilidad civil/responsabilidades especiales/ejercicio profesional/farmacéuticos"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "profesional liberal",
+                "obligaciones y contratos",
+                "profesional universitario",
+                "ejercicio de profesiones liberales",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "título habilitante"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/responsabilidad civil/responsabilidades especiales/ejercicio profesional/habilitación profesional/título profesional"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "profesional liberal",
+                "obligaciones y contratos",
+                "profesional universitario",
+                "ejercicio de profesiones liberales",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "título habilitante",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "expendio de medicamentos"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos/expendio de medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "comercialización de medicamentos",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "expendio bajo receta"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos/expendio de medicamentos/expendio bajo receta"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "comercialización de medicamentos",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "farmacias"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos/expendio de medicamentos/farmacias"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "herboristerías",
+                "droguerías",
+                "drogas",
+                "especialidades medicinales",
+                "comercialización de medicamentos",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "medicamentos"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "drogas"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "COMISIÓN NACIONAL DE FARMACOPEA ARGENTINA"
+            },
+            "preferido": {
+              "termino": "COMISIÓN NACIONAL DE FARMACOPEA ARGENTINA"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "veterinarios"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/responsabilidad civil/responsabilidades especiales/ejercicio profesional/veterinarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "médicos veterinarios",
+                "responsabilidad por daños",
+                "profesional liberal",
+                "obligaciones y contratos",
+                "profesional universitario",
+                "ejercicio de profesiones liberales",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "productos para la salud (medicamentos)",
+            "habilitación profesional",
+            "herboristerías (farmacias)",
+            "decreto reglamentario",
+            "comercialización de medicamentos (expendio de medicamentos)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "COMISIÓN NACIONAL DE FARMACOPEA ARGENTINA",
+            "drogas (medicamentos)",
+            "título profesional",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "profesional universitario (ejercicio profesional)",
+            "expendio de medicamentos",
+            "SECRETARÍA DE SALUD",
+            "reglamentos",
+            "responsabilidades especiales",
+            "médicos veterinarios (veterinarios)",
+            "SECRETARÍA DE ESTADO DE SALUD PÚBLICA (SECRETARÍA DE SALUD)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "actividades profesionales (ejercicio profesional)",
+            "droguerías (farmacias)",
+            "expendio bajo receta",
+            "derechos personales",
+            "Derecho civil",
+            "farmacéuticos",
+            "Derecho administrativo",
+            "profesional liberal (ejercicio profesional)",
+            "Derecho de daños (responsabilidad civil)",
+            "Salud pública",
+            "veterinarios",
+            "responsabilidad por daños (responsabilidad civil)",
+            "ejercicio de profesiones liberales (ejercicio profesional)",
+            "especialidades farmacéuticas (medicamentos)",
+            "medicamentos",
+            "productos farmacéuticos (medicamentos)",
+            "título habilitante (título profesional)",
+            "profesiones liberales (ejercicio profesional)",
+            "ejercicio de la profesión (ejercicio profesional)",
+            "ejercicio profesional",
+            "acto administrativo",
+            "productos médicos (medicamentos)",
+            "farmacias",
+            "fármacos (medicamentos)",
+            "actos de alcance general (acto administrativo de alcance general)",
+            "especialidades medicinales (medicamentos)",
+            "obligaciones y contratos (derechos personales)",
+            "responsabilidad civil"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 017565 1967 12 05 0000 000 0000 000"
+          }
+        },
+        "texto": "la sanción de la Ley 17.565 que establece normas para el ejercicio de la profesión farmacéutica, y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que la Secretaría de Salud Pública ha proyectado la correspondiente reglamentación,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1.- Apruébase el adjunto cuerpo de disposiciones reglamentarias de la ley 17.565 a los efectos de su aplicación en jurisdicción federal."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Artículo 2.- Facúltase a la Secretaría de Estado de Salud Pública para dictar las normas reglamentarias, complementarias, aclaratorias o interpretativas que requiera la aplicación del decreto reglamentario que se aprueba por el presente."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Artículo 3.- El presente decreto será refrendado por el señor ministro de Bienestar Social y firmado por el señor secretario de Estado de Salud Pública."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Artículo 4.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "Onganía-Baver-Holmberg"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "Reglamentación",
+        "articulo": [
+          {
+            "numero-articulo": 1,
+            "antecedentes": {
+              "referencia-normativa": [
+                {
+                  "cr": "(B.O. 22/01/2024) Párrafos Incorporados",
+                  "id": "ANTECEDENTES_0",
+                  "ref": "DEC C 000063 2024 01 19 0003 000 0000 000"
+                },
+                {
+                  "cr": "(B.O. 22/4/2024) PRIMER FARRAFO INCORPORADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                  "id": "ANTECEDENTES_1",
+                  "ref": "DEC C 000345 2024 04 19 0007 000 0000 000"
+                }
+              ]
+            },
+            "texto": "Artículo 1.- La venta y despacho de especialidades médicas que requieran recetas deben realizarse desde la farmacia, en presencia de un farmacéutico responsable (Director Técnico y/o farmacéutico auxiliar). Su venta y entrega al paciente podrá ser acordada por canales electrónicos determinados por la farmacia, mediante traslado al lugar que este disponga a su conveniencia, debiéndose garantizar que el traslado se realice de modo seguro conforme los requisitos aplicables y los que la Autoridad Sanitaria establezca a tal efecto.\n\nLas farmacias podrán anexar, además de las actividades que establece la ley, la venta de productos destinados a la higiene o estética de las personas, así como de aquellos a los que se les asignen propiedades profilácticas, desinfectantes, insecticidas u otras análogas, sometidos al control de la Autoridad de Aplicación en materia de Salud Pública.\n\nLos medicamentos de venta libre y los mencionados productos anexos a la actividad farmacéutica, a los fines de su comercialización, pueden exponerse en las góndolas del establecimiento y ser ubicados o exhibidos de modo tal que conserven inalteradas sus propiedades fisicoquímicas y el público general pueda acceder directamente a ellos sin necesidad de intermediarios.\n\nEl expendio de medicamentos de venta libre, cuando fuera en góndolas, deberá sujetarse a las siguientes condiciones:.\n\na) Las góndolas deben ser correctamente señalizadas y b) Los medicamentos deben ser ofrecidos en caja cerrada, con su respectivo prospecto y exclusivamente a personas mayores de DIECIOCHO (18) años. La edad del adquiriente será constatada con el Documento Nacional de Identidad al momento de efectuar el pago.\n\nEn los establecimientos que no estén habilitados como farmacias, la comercialización de medicamentos de condición de expendio de venta libre estará limitada a los antiácidos y los analgésicos.\n\nLa Autoridad de Aplicación estará facultada a ampliar el listado de medicamentos de venta libre habilitados en los referidos establecimientos.\n\nLa mencionada Autoridad de Aplicación podrá establecer otros requisitos para asegurar que las especialidades medicinales indicadas conserven inalteradas sus propiedades fisicoquímicas.",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 20/11/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 001024 2024 11 19 0001 000 0000 000"
+              }
+            }
+          },
+          {
+            "numero-articulo": 2,
+            "texto": "Artículo 2.- A los efectos de su aplicación en la Capital Federal, Territorio Nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur, de la ley que se reglamenta, será competente la Secretaría de Estado de Salud Pública.\n\nLa Secretaría de Estado de Salud Pública a través de sus organismos competentes autorizará, a título precario, la instalación de botiquines de Farmacia en el Territorio Nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur, de acuerdo con el petitorio mínimo que determine, los que se limitarán al expendio de especialidades medicinales envasadas.\n\nEs incompatible la coexistencia, en la misma localidad, de botiquines de farmacia con farmacias, y los permisos previamente acordados caducarán de pleno derecho, a los 6 meses de la instalación de una farmacia."
+          },
+          {
+            "numero-articulo": 3,
+            "texto": "Artículo 3.- Toda persona física o jurídica que desee instalar una farmacia deberá solicitar la habilitación ante la Secretaría de Estado de Salud Pública, cumpliendo con los requisitos que ésta establezca en cuanto a condiciones higiénico - sanitarias y de seguridad del local, laboratorios, instalaciones, equipos, instrumental, elementos de laboratorio, drogas, reactivos, productos químicos, preparaciones oficiales, sueros y vacunas. En la solicitud deberán hacerse constar los datos que a continuación se detallan, siendo causal de suspensión y/o denegatoria del trámite la omisión, no cumplimiento o falsedad de los mismos:\n\na) Nombre de la farmacia.\n\nb) Nombre o razón social, de acuerdo a lo requerido por el art. 14 de la ley y la presente reglamentación.\n\nc) Ubicación de la farmacia y su domicilio legal.\n\nd) Datos de identificación del director técnico.\n\ne) Declaración relacionada con el tipo y ramas de actividad que se imprimirán al establecimiento.\n\nCumplimentados estos requisitos la Secretaría de Estado de Salud Pública inspeccionará el local y las instalaciones y, si correspondiere, otorgará la pertinente habilitación. A las farmacias en vías de instalación, ampliación y/o reforma, la Secretaría de Estado de Salud Pública podrá conceder habilitaciones parciales y/o provisorias por un plazo no mayor de 90 días, siempre que a su juicio se cumplan las condiciones mínimas exigibles para asegurar las adecuadas prestaciones.\n\nLa Secretaría de Estado de Salud Pública establecerá la nómina de medicamentos o especialidades medicinales de que deberán disponer las farmacias en forma permanente.\n\nCuando la Secretaría de Estado de Salud Pública intervenga un producto o suspenda su venta, las farmacias estarán obligadas a retirarlo de la venta denunciando la cantidad que posean, como asimismo, si lo mantendrán en depósito u optarán por devolverlo al laboratorio de origen, debiendo en este caso remitir a la Secretaría de Estado de Salud Pública fotocopia del remito correspondiente."
+          },
+          {
+            "numero-articulo": 4,
+            "texto": "Artículo 4.- Sin reglamentación."
+          },
+          {
+            "numero-articulo": 5,
+            "texto": "Artículo 5.- Las farmacias que se dediquen también a preparar recetas de acuerdo a la técnica homeopática deberán poseer un laboratorio exclusivamente destinado a tal fin aislado de las demás dependencias y del laboratorio destinado a la preparación de recetas con técnica alopática; cuyas características, instrumental, elementos y petitorio mínimo será fijado por la Secretaría de Estado de Salud Pública."
+          },
+          {
+            "numero-articulo": 6,
+            "texto": "Artículo 6.- A los efectos del artículo que se reglamenta, considérase:.\n\na) despacho nocturno en casos de urgencia, el que les sea requerido a las farmacias, aunque no se hallen de turno. b) 'turnos', los que cumplan las farmacias además de su horario habitual de atención al público. La Autoridad Sanitaria confeccionará la lista de turnos de farmacias, estableciendo los días calendarios respectivos, solo para los turnos nocturnos o para días feriados que se hayan establecido de modo obligatorio conforme lo estime conveniente, debiendo adoptar las providencias necesarias para su más adecuada y amplia difusión.",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0008 000 0000 000"
+              }
+            }
+          },
+          {
+            "numero-articulo": 7,
+            "texto": "Artículo 7.- En los rótulos de botellas, frascos, paquetes, cajas, etc., con que se despachen al público fórmulas magistrales deberá figurar el nombre, apellido y título del director técnico de la farmacia; debiéndose hacer el despacho a nombre de éste, con indicación del domicilio de la farmacia, número de orden que le correspondiere en el libro recetario, nombre del facultativo y transcripción completa de la fórmula prescripta."
+          },
+          {
+            "numero-articulo": 8,
+            "texto": "Artículo 8.- La Secretaría de Estado de Salud Pública establecerá la nómina de las sustancias que deberán conservarse en las condiciones establecidas por el artículo que se reglamenta."
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 027553 2020 07 23 0000 000 0000 000"
+              }
+            },
+            "numero-articulo": 9,
+            "antecedentes": {
+              "referencia-normativa": {
+                "cr": "(B.O. 28/02/2023) Artículo sustituido",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000098 2023 02 27 0005 000 0000 000"
+              }
+            },
+            "texto": "Artículo 9.- A los efectos del artículo que se reglamenta considéranse:.\n\na) Productos de \"expendio legalmente restringido\", aquellos que contengan sustancias estupefacientes o psicotrópicas y deban -de acuerdo a las normas legales vigentes- ser prescriptos en formularios oficializados y conforme al modelo aprobado por el MINISTERIO DE SALUD, a través de la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT).\n\nb) Productos de \"expendio bajo receta archivada\", aquellos que el MINISTERIO DE SALUD, a través de la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), considere que deban ser despachados al público con tales requisitos.\n\nPara la prescripción en recetas electrónicas y/o digitales deberá cumplirse con los requisitos establecidos en la Ley N° 27.553 y su Reglamentación.\n\nLas recetas electrónicas y/o digitales deberán ser asentadas en el archivo digital puesto a disposición para tal fin una vez despachadas y firmadas electrónica y/o digitalmente por el farmacéutico que realizó la dispensa, acorde la forma y procedimiento que establezca el MINISTERIO DE SALUD.\n\nAnálogo procedimiento deberá seguir el Director Técnico y/o farmacéutico auxiliar con las fórmulas magistrales que despache, siempre que su composición se integre por las sustancias establecidas bajo la presente condición de venta, y deberá agregar al envase -tal como lo dispone el MINISTERIO DE SALUD para los productos elaborados en establecimientos industriales farmacéuticos- la leyenda \"Este medicamento debe ser usado exclusivamente bajo prescripción y vigilancia médica y no puede repetirse sin nueva receta\". Los que no se ajusten a esta exigencia serán comisados y los responsables de su elaboración serán pasibles de las sanciones que fija la ley.\n\nc) Productos de \"expendio bajo receta\", aquellos que el MINISTERIO DE SALUD, a través de la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), considere que deban ser despachados al público con tales requisitos.\n\nLos Directores Técnicos y/o farmacéuticos auxiliares están obligados a firmar electrónica o digitalmente las recetas, cuando ellas contengan fórmulas magistrales y oficiales, siendo responsables de su correcta preparación.\n\nCuando en la receta se encuentre omitido el tamaño de la presentación o contenido del envase, se deberá despachar la de menor contenido.\n\nd) Los productos de \"expendio libre\" son aquellos que el MINISTERIO DE SALUD, a través de la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), haya autorizado con tales características.",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0009 000 0000 000"
+              }
+            }
+          },
+          {
+            "numero-articulo": 10,
+            "antecedentes": {
+              "referencia-normativa": {
+                "cr": "(B.O. 28/02/2023) Artículo sustuido",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000098 2023 02 27 0006 000 0000 000"
+              }
+            },
+            "texto": "Artículo 10.- Los registros y los archivos digitales a los que hace referencia el artículo que se reglamenta deberán ser llevados al día y ser puestos a disposición y exhibidos, en los casos que corresponda, a los Inspectores de la Autoridad Sanitaria, a su requerimiento.\n\nEl registro recetario deberá firmarlo el Director Técnico de la farmacia diariamente al final de la última receta, garantizando su seguridad, inalterabilidad e integralidad.\n\nLa Autoridad de Aplicación determinará y actualizará los requisitos y contenidos mínimos que deberán llevar todos los archivos digitales mencionados en el artículo que se reglamenta.\n\nCada farmacia deberá garantizar la existencia de libros digitales o electrónicos de recetario, contralor de estupefacientes, contralor de psicotrópicos y de inspecciones, conforme al cronograma que la Autoridad de Aplicación establezca; contando con respaldo sustituto hasta tanto este se encuentre disponible en soporte digital o electrónico.",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0010 000 0000 000"
+              }
+            }
+          },
+          {
+            "numero-articulo": 11,
+            "texto": "Artículo 11.- A los efectos del artículo que se reglamenta entiéndese por propaganda o publicidad la efectuada en chapas, carteles, circulares, avisos periodísticos o radiales, televisados o cualquier otro medio que sirva a tales fines.\n\nLa Secretaría de Estado de Salud Pública no dará curso a ninguna solicitud de autorización de propaganda a efectuarse en las farmacias, que contenga referencias de carácter encomiástico de productos medicinales.\n\nQueda excluida del requisito de la aprobación previa, aquella propaganda que se limite a anunciar el nombre, la dirección y el teléfono de la farmacia, el cumplimiento del servicio de turno obligatorio y la prestación del servicio nocturno voluntario.\n\nLas farmacias deberán anunciarse con la denominación con que fueron habilitadas por la Secretaría de Estado de Salud Pública, no pudiendo utilizar términos encomiásticos o superlativos, ni inducir con los mismos a error con respecto a su naturaleza, o atribuirse carácter de farmacia de Obra Social, mutual o similares.\n\nTampoco podrán inducir al público a utilizar determinados laboratorios de análisis clínicos o recibir material para análisis en la farmacia."
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 017132 1967 01 24 0000 000 0000 000"
+              }
+            },
+            "numero-articulo": 12,
+            "texto": "Artículo 12.- Las farmacias que deseen prestar el servicio de aplicación de inyecciones subcutáneas o intramusculares deberán obtener previamente autorización de los organismos competentes de la Secretaría de Estado de Salud Pública, y se realizará bajo la vigilancia y responsabilidad del director técnico de la misma, quien deberán informar a la citada Secretaria de Estado el o los nombres de las personas encargadas de efectuarlo.\n\nPodrán aplicar inyecciones en las farmacias los farmacéuticos y las personas facultadas por la ley 17.132.\n\nLa farmacia autorizada está obligada a prestar el servicio dentro del horario normal de sus tareas.\n\nLa aplicación se hará sólo mediante expresa indicación médica, que el paciente deberá acreditar previamente.\n\nLas especificaciones de la receta, fecha de aplicación, nombre y número de matrícula del profesional que la indicó, nombre y domicilio del paciente; deberán hacerse constar en el libro registro encuadernado y foliado, y rubricado por los organismos competentes de la Secretaría de Estado de Salud Pública, con la firma, en cada caso, de la persona que realizó la aplicación:\n\nlibro que deberá ser llevado al día y puesto a disposición y exhibido a los inspectores de la Secretaría de Estado de Salud Pública, a su requerimiento.\n\nSi el enfermo presentase un envase que no ofreciera suficientes garantías de seguridad, el director técnico podrá negar que se efectuó la aplicación."
+          },
+          {
+            "numero-articulo": 13,
+            "texto": "Artículo 13.- Sin reglamentación."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 14,
+            "texto": "Artículo 14.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nA los efectos de obtener la autorización de instalación de una farmacia los interesados deberán presentar a la Secretaría de Estado de Salud Pública la documentación pertinente que acredite la titularidad de la propiedad.\n\nEn todos los casos los contratos de sociedad que se formalicen, cuyo objeto sea la propiedad de una farmacia, así como sus modificaciones o cesión de derechos, deberán:\n\na) Ser formalizados por escritura pública.\n\nb) Ser sometidos a la aprobación previa de la Secretaria de Estado de Salud Pública, la que expedirá constancia de la misma.\n\nc) Ser inscriptos ante la Justicia Comercial.\n\nEl incumplimiento de los requisitos anteriormente enunciados los hará pasibles de la suspensión y/o denegatoria del trámite de habilitación.\n\nCuando alguna de las sociedades a que se refiere el artículo que se reglamenta entre en estado de disolución, tal circunstancia deberá ser comunicada de inmediato a la Secretaría de Estado de Salud Pública. Esta obligación compete tanto a los socios, sean o no farmacéuticos como a los representantes legales de la misma:\n\npero cumplida por uno de ellos, liberará a los demás de efectuarla. Si otras razones legales no determinan la clausura inmediata de la farmacia, la misma se hará indefectiblemente a los 90 días corrido de ocurridas las causales de disolución que para las sociedades prevén las disposiciones legales vigentes.\n\nLas sociedades a que alude el inc. c) del artículo que se reglamenta serán autorizadas por la Secretaría de Estado de Salud Pública para la instalación de una farmacia. En ningún caso los farmacéuticos podrán transferir a terceros no farmacéuticos los intereses o cuotas que posean en la sociedad o asociarlos a su parte alícuota o similar por cualquier medio de efectiva aportación de capitales. De comprobarse violaciones a lo antedicho, podrá la Secretaría de Estado de Salud Pública proceder a la clausura de la farmacia y a la inhabilitación del farmacéutico.\n\nEl farmacéutico único propietario de una farmacia deberá ser el director técnico de la misma. Cuando se trate de sociedades entre farmacéuticos, uno de ellos deberá ser el director técnico de la farmacia.\n\nLas sociedades propietarias de farmacias, cualquiera sea su especie, existentes a la fecha, cuya forma societaria no se ajuste a lo dispuesto por la ley 17.565, deberán encuadrarse en lo preceptuado por la misma en el plazo de 1 año."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 15,
+            "texto": "Artículo 15.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nLas farmacias encuadradas en el art. 14, inc. d) de la ley que se reglamenta las habilitará la Secretaría de Estado de Salud Pública, quedando prohibido desarrollar en ellas otras actividades que las específicas, las que deberán ser realizadas sin propósitos comerciales o fines de lucro.\n\nEn ningún caso estas farmacias podrán conceder sus beneficios a personas que no acrediten fehacientemente su condición de afiliados o beneficiarios de la entidad propietaria. La Secretaría de Estado de Salud Pública independientemente de la fiscalización técnica de su funcionamiento está facultada para examinar los libros y la documentación contable probatoria de la propiedad y del desenvolvimiento económico financiero que demande la actividad de este tipo de farmacias y dictar las disposiciones reglamentarias y complementarias que sean necesarias para el más adecuado cumplimiento de sus finalidades.\n\nEstas farmacias en ningún caso podrán ser entregadas en concesión, locación o explotadas en sociedad con terceros, sea en forma declarada o encubierta. Cuando se comprobara transgresión a esta norma, la Secretaría de Estado de Salud Pública procederá a la inmediata clausura del establecimiento, sin perjuicio de las sanciones que pudieran aplicarse, según el caso."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 16,
+            "texto": "Artículo 16.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nVencido el término que acuerda el artículo reglamentario, los derecho habientes deberán optar por transferir la farmacia o constituir una sociedad con un farmacéutico, conforme a lo estipulado por el art. 14, inc. c) de la ley 17.565 y la presente reglamentación. En todos los casos deberá obtenerse la pertinente habilitanción de la Secretaría de Estado de Salud Publica."
+          },
+          {
+            "numero-articulo": 17,
+            "texto": "Artículo 17.- Para inscribir sus títulos y obtener la matriculación, los interesados deberán:\n\na) Presentar el diploma original, habilitación o reválida debidamente legalizados;\n\nb) Presentar comprobante de identidad;\n\nc) Registrar su firma en la Secretaría de Estado de Salud Pública.\n\nEn los casos que los organismos competentes de la Secretaría de Estado de Salud Pública lo crean conveniente, podrán solicitar fotocopia autenticada del título original y recabar los antecedentes y verificaciones que estimen necesarios el organismo otorgante del Título."
+          },
+          {
+            "numero-articulo": 18,
+            "texto": "Artículo 18.- Ningún farmacéutico director técnico de una farmacia podrá abandonar sus funciones sin que se haya hecho cargo de las mismas el director técnico que lo reemplace."
+          },
+          {
+            "numero-articulo": 19,
+            "texto": "Artículo 19.- Sin reglamentación."
+          },
+          {
+            "numero-articulo": 20,
+            "texto": "Artículo 20.- Sin reglamentación."
+          },
+          {
+            "numero-articulo": 21,
+            "texto": "Artículo 21.- La Secretaría de Estado de Salud Pública a través de sus organismos competentes podrá autorizar, a título precario, en el Territorio Nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur, a farmacéuticos a realizar análisis clínicos en laboratorios anexados a las farmacias, debiendo fijar las condiciones higiénico - sanitarias del local y el petitorio mínimo de instrumental, aparatos, útiles de labor y reactivos de que deberán estar dotados y verificar periódicamente su cumplimiento.\n\nLos farmacéuticos autorizados podrán realizar únicamente análisis fisicoquímicos."
+          },
+          {
+            "numero-articulo": 22,
+            "texto": "Artículo 22.- La incapacidad a que alude el artículo que se reglamenta será determinada por una Junta Médica Constituida por un médico designado por la Secretaría de Estado de Salud Pública, quien presidirá la Junta; otro designado por la Facultad de Medicina de la Universidad de Buenos Aires, a solicitud de la Secretaría de Estado de Salud Pública y otro que podrá designar el interesado. Las decisiones de la Junta Médica se tomarán por simple mayoría de votos.\n\nLa Junta Médica deberá reunirse, practicar los exámenes y expedirse dentro de los 10 días hábiles de su integración, plazo que por razones fundadas podrá ser prorrogado a 20 días.\n\nLa ausencia del médico de parte no impedirá el cometido de la Junta."
+          },
+          {
+            "numero-articulo": 23,
+            "texto": "Artículo 23.- Sin reglamentación."
+          },
+          {
+            "numero-articulo": 24,
+            "texto": "Artículo 24.- Los productos medicinales comisados quedarán a disposición de la Secretaría de Estado de Salud Pública durante el término de 180 días a partir de la fecha que la medida aplicada quede firme y sea publicada, a efectos de que terceros acreedores de buena fe puedan hacer valer sus derechos ante la justicia por montos que se le adeudaren, mediante embargos preventivos y/o cualquier otra medida, de carácter judicial susceptible de hacerse efectiva sobre los productos intervenidos, en cuyo caso los productos medicinales quedarán sujetos a decisión judicial.\n\nSi vencido el plazo de 180 días no se interpusiere medida alguna por parte de terceros acreedores de buena fe, los productos medicinales pasarán en propiedad a la Secretaría de Estado de Salud Pública."
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 017132 1967 01 24 0000 000 0000 000"
+              }
+            },
+            "numero-articulo": 25,
+            "antecedentes": {
+              "referencia-normativa": {
+                "cr": "(B.O. 12/4/2023) INCISO C) SUSTITUIDO",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000185 2023 04 04 0001 000 0000 000"
+              }
+            },
+            "texto": "Artículo 25.- El Director Técnico de la farmacia está obligado a:.\n\na) practicar los ensayos y comprobaciones destinados a determinar la pureza de las drogas, productos químicos y preparaciones oficiales que se utilizan en la farmacia bajo su dirección y a eliminar los que no reúnan aquella condición;\n\nb) preparar las fórmulas magistrales;\n\nc) vigilar que en la farmacia bajo su dirección solo se acepten las recetas extendidas por las personas autorizadas por la Ley Nº 17.132 a efectuarlas, así como por todo médico veterinario matriculado, veterinario matriculado ante la autoridad jurisdiccional competente según lo establezca la normativa vigente.\n\nd) adoptar los recaudos necesarios para la adecuada conservación de las drogas y medicamentos;\n\ne) mantener en la farmacia bajo su dirección, actualizados y en condiciones, todos los elementos que determine la Autoridad Sanitaria, de acuerdo a lo dispuesto en el artículo 3º de esta Reglamentación.",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0011 000 0000 000"
+              }
+            }
+          },
+          {
+            "numero-articulo": 26,
+            "texto": "Artículo 26.- Al ausentarse el director técnico de la farmacia, cerrará con su firma el libro recetario indicando la hora en que lo hace, debiendo adoptar idénticos recaudos al reintegrarse a sus funciones.\n\nSi durante estas ausencias el despacho al público queda a cargo de auxiliares de despacho, deberá exhibirse sobre el mostrador y en la vidriera un aviso en el que se indique que el farmacéutico está ausente, indicando la hora que regresará.\n\nLos farmacéuticos auxiliares deberán exponer su título en la farmacia donde se desempeñen, y en caso de ejercer en más de una farmacia deberán exhibir en una su diploma y en la o las restantes, la constancia de su matriculación expedida por la Secretaría de Estado de Salud Pública, la que deberá renovarse con cada cambio de establecimiento.\n\nA los fines del inc. b) del artículo que se reglamenta, se consideran auxiliares de despacho:\n\na) Los estudiantes de las facultades de Farmacia y Bioquímica y/o Escuelas de Farmacia de Universidades oficiales o privadas habilitadas por el Estado Nacional, que hayan aprobado las materias básicas de su carrera.\n\nb) Los farmacéuticos con títulos extranjeros legalizados, que no hayan revalidado en el país.\n\nc) Los que posean títulos otorgados por escuelas reconocidas por la Secretaría de Estado de Salud Pública.\n\nd) Los idóneos de farmacia, dependientes idóneos u auxiliares de farmacia inscriptos en la Secretaría de Estado de Salud Pública con anterioridad a la promulgación de la ley que se reglamenta."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 27,
+            "texto": "Artículo 27.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nEstablécese que el límite máximo para las ausencias del director técnico de una farmacia es el de 1 año. En todos los casos el farmacéutico reemplazante deberá asumir, con la pertinente intervención de la Secretaría de Estado de Salud Pública, el carácter de director técnico.\n\nEl cierre voluntario de las farmacias no podrá exceder de 15 días, plazo que la Secretaría de Estado de Salud Pública podrá autorizar se extienda a 30 días, si estima justificadas las razones que a tal efecto deberán serle sometidas oportunamente a su consideración.\n\nDurante los cierres temporarios las farmacias conservarán la obligación de mantener actualizado el anuncio de los turnos de guardia, conforme a lo establecido en el art. 6 de la ley que se reglamenta."
+          },
+          {
+            "numero-articulo": 28,
+            "texto": "Artículo 28.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 29,
+            "texto": "Artículo 29.- Los inspectores de la Secretaría de Estado de Salud Pública recogerán para su análisis, especialidades medicinales, muestras de drogas, productos químicos, preparaciones oficiales y de recetas que se encuentren preparadas o se manden preparar especialmente, adoptando los recaudos que la misma establezca para la recolección de las muestras.\n\nLos análisis serán realizados por los organismos competentes de la Secretaría de Estado de Salud Pública o aquellos otros que la misma determine y su resultado comunicado al farmacéutico, quien caso de disconformidad podrá solicitar en el plazo de 5 días de notificado, nuevo análisis, pudiendo requerir sea realizado en su presencia o en la del profesional que designe en su reemplazo.\n\nPara este análisis deberá utilizarse la muestra testigo que se habrá conservado.\n\nLas divergencias que al respecto pudieran suscitarse serán sometidas a la Comisión Nacional de la Farmacopea Argentina."
+          },
+          {
+            "numero-articulo": 30,
+            "texto": "Artículo 30.- En la preparación de recetas que prescriban productos de origen orgánico los directores técnicos de las farmacias deberán, a requerimiento de la Secretaría de Estado de Salud Pública, declarar el método de preparación que utilizan y serán responsables de la composición y actividad de los mismos.\n\nLes está prohibido a los directores técnicos de farmacias:\n\na) Despachar recetar magistrales que no estén en condiciones científicas y técnicas de preparar.\n\nb) Tener en existencia fórmulas magistrales previamente confeccionadas.\n\nc) Desarrollar en escala industrial la fabricación de especialidades medicinales o cosméticas."
+          },
+          {
+            "numero-articulo": 31,
+            "texto": "Artículo 31.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 32,
+            "texto": "Artículo 32.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 33,
+            "texto": "Artículo 33.- Sin reglamentación."
+          },
+          {
+            "numero-articulo": 34,
+            "texto": "Artículo 34.- Toda persona física o jurídica que desee instalar una droguería deberá solicitar la habilitación previa ante la Secretaría de Estado de Salud Pública, cumpliendo con los requisitos que ésta establezca en cuanto a condiciones higiénico - sanitarias y de seguridad del local, laboratorio de control de calidad, instrumental, útiles y equipos.\n\nEn la solicitud deberán hacerse constar los datos que a continuación se detallan, siendo causal de suspensión y/o denegatoria del trámite la omisión, no cumplimiento o falsedad de los mismos:\n\na) Nombre de la droguería.\n\nb) Nombre o razón social, consignando los datos que permitan la identificación de sus propietarios o en el caso de sociedades comerciales, el de sus representantes legales y de que la misma se encuentra inscripta ante la Justicia Comercial.\n\nc) Ubicación de la droguería y su domicilio legal.\n\nd) Datos de identificación del Director Técnico.\n\ne) Declaración relacionada con el tipo y ramas de actividad que imprimirá al establecimiento.\n\nCumplimentados estos requisitos la Secretaría de Estado de Salud Pública inspeccionará el local y las instalaciones y, si correspondiere, otorgará la pertinente habilitación.\n\nA las droguerías en vías de instalación, ampliación y/o reforma, la Secretaría de Estado de Salud Pública podrá conceder habilitaciones parciales y/o provisorias por un plazo no mayor de 90 días siempre que a su juicio se cumplan las condiciones mínimas exigibles para asegurar las adecuadas prestaciones.\n\nUna vez otorgadas la habilitación, las droguerías no podrán introducir modificación alguna en su denominación y/o razón social, en el establecimiento, o incorporar nuevas actividades de elaboración, producción o fraccionamiento, sin autorización previa de la Secretaría de Estado de Salud Pública.\n\nLas droguerías están obligadas a tener existencia permanente de las drogas y especialidades farmacéuticas necesarias para el normal funcionamiento de las farmacias.\n\nCuando la Secretaría de Estado de Salud Pública intervenga un producto o suspenda su venta, las droguerías estarán obligadas a retirarlo de la venta denunciando la cantidad que posean, como, asimismo, si lo mantendrán en depósito u optarán por devolverlo al laboratorio de origen, debiendo en este caso, remitir a la Secretaría de Estado de Salud Pública, fotocopia del remito correspondiente.\n\nLos representantes de firmas extranjeras elaboradoras de productos cuya venta esté autorizada en el país, podrán establecer depósitos de los mismos al solo efecto de su distribución y venta al por mayor, debiendo solicitar la autorización previa de la Secretaría de Estado de Salud Pública, la que establecerá los requisitos y podrá acordarla cona quella exclusiva finalidad. El representante podrá realizar únicamente gestiones administrativas y/o comerciales, debiendo quedar la manipulación de los productos a cargo de un farmacéutico director técnico.\n\nLos titulares de las droguerías y depósitos y los directores técnicos deberán comunicar a la Secretaría de Estado de Salud Pública, cualquier modificación en la dirección técnica, a los efectos de obtener la correspondiente autorización.\n\nNingún director técnico de una droguería podrá abandonar sus funciones sin que se haya hecho cargo de las mismas el director técnico que lo reemplace."
+          },
+          {
+            "numero-articulo": 35,
+            "texto": "Artículo 35.- Sin perjuicio de las obligaciones establecidas por la ley que se reglamenta, el director técnico de la droguería deberá permanecer en el establecimiento y dirigir personalmente y bajo su responsabilidad las tareas inherentes al fraccionamiento de drogas y/o preparación de medicamentos o preparaciones oficiales."
+          },
+          {
+            "numero-articulo": 36,
+            "texto": "Artículo 36.- Las droguerías podrán exclusivamente despachar al público recetas en las que se prescriban medicamentos oncológicos o de tratamientos especiales que se encuentren listados por la autoridad de aplicación.",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/01/2024) Artículo Sustituido",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000063 2024 01 19 0004 000 0000 000"
+              }
+            }
+          },
+          {
+            "numero-articulo": 37,
+            "texto": "Artículo 37.- El director técnico de la droguería será responsable de la pureza y legitimidad de las drogas que fraccione y de los medicamentos que elabore. En cuanto a las especialidades medicinales, su responsabilidad se limitará a su legitimidad, procedencia y conservación.\n\nCuando la droga o medicamento sea comercializado sin modificación del envase original, la responsabilidad de su calidad será del fabricante o fraccionador de la que se eximirá solamente cuando se compruebe que ha sido mantenida en deficientes condiciones de conservación o en contravención con las especificaciones de rotulación.\n\nLos inspectores de la Secretaría de Estado de Salud Pública recogerán para su análisis muestras de las especialidades medicinales, drogas que tengan en existencia o de medicamentos que elaboren las droguerías, adoptando los recaudos que la misma establezca para la recolección de las muestras.\n\nLos análisis serán realizados por los organismos competentes de la Secretaría de Estado de Salud Pública o aquellos otros que la misma determine y su resultado comunicado al director técnico de la droguería, quien en caso de disconformidad podrá solicitar en el plazo de 5 días de notificado, nuevo análisis, pudiendo requerir sea realizado en su presencia o en la del profesional que designe en su reemplazo. Para este análisis deberá utilizarse la muestra testigo que se habrá conservado.\n\nLas divergencias que al respecto pudieran suscitarse, serán sometidas a la Comisión Nacional de la Farmacopea Argentina."
+          },
+          {
+            "numero-articulo": 38,
+            "texto": "Artículo 38.- Sin perjuicio de lo preceptuado en el artículo que se reglamenta los directores técnicos de droguerías están obligados a rotular las drogas que fraccionen con las siguientes constancias:\n\na) Nombre científico de la droga.\n\nb) Sinónimo, si lo tiene.\n\nc) Origen.\n\nd) Nombre del fabricante.\n\ne) Número de partida de fraccionamiento y/o elaboración.\n\nf) Fecha de vencimiento, si la tuviera.\n\ng) Característica de pureza, de acuerdo a la Farmacopea Argentina.\n\nDe no figurar en ésta, consignar a qué farmacopea responde o a qué certificado de autorización.\n\nh) Número de protocolo de análisis.\n\ni) Peso neto o volumen neto de la droga.\n\nj) Indicación de toxicidad o uso peligroso e indicaciones a seguir en casos de envenenamientos.\n\nk) Indicación del medio o forma de conservar la droga para que no sufra alteraciones.\n\nl) Nombre y dirección de la droguería.\n\nm) Nombre del director técnico.\n\nLas drogas de uso farmacéutico deben ajustarse en cuanto a su calidad a las normas de la Farmacopea Argentina. Cuando se trate de una droga no codificada en ésta, deberá ajustarse a la farmacopea de origen y, si se tratara de una nueva droga, deberá estar previamente autorizado su uso y comercialización por la Secretaría de Estado de Salud Pública.\n\nLa comprobación de la falta de calidad de la droga de acuerdo a las especificaciones de su rotulación las hará pasibles de decomiso, sin perjuicio de las demás penalidades que correspondiere aplicar."
+          },
+          {
+            "numero-articulo": 39,
+            "texto": "Artículo 39.- Sin Reglamentación."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 40,
+            "texto": "Artículo 40.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nLos libros a que hace referencia el artículo que se reglamenta serán habilitados por la Secretaría de Estado de Salud Pública cumplimentando los requisitos que ésta establezca y en todos los casos los datos que en ellos se consignen deberán estar avalados con la firma del director técnico de la droguería."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 41,
+            "texto": "Artículo 41.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nToda persona física o jurídica que desee instalar una herboristería deberá solicitar la habilitación previa ante la Secretaría de Estado de Salud Pública, cumpliendo con los requisitos que ésta establezca en cuanto a condiciones higiénico - sanitarias y de seguridad de los locales destinados a depósito y fraccionamiento. En las solicitudes deberán hacerse constar los datos que a continuación se detallan, siendo causal de suspensión y/o denegatoria del trámite la omisión, no cumplimiento o falsedad de los mismos:\n\na) Nombre de la herboristería.\n\nb) Nombre o razón social, consignando los datos que permitan la identificación de sus propietarios o en el caso de sociedades comerciales el de sus representantes legales y de que la misma se encuentre inscripta ante la Justicia Comercial.\n\nc) Ubicación de la herboristería y su domicilio legal.\n\nd) Datos de identificación del director técnico.\n\nCumplimentados estos requisitos, la Secretaría de Estado de Salud Pública inspeccionará el local y las instalaciones y, si correspondiere otorgará la pertinente habilitación.\n\nA las herboristerías en vías de instalación, ampliación y/o reforma, la Secretaría de Estado de Salud Pública podrá conceder habilitaciones parciales y/o provisorias por un plazo no mayor de 90 días, siempre que a su juicio se cumplan las condiciones mínimas exigibles para asegurar las adecuadas prestaciones.\n\nUna vez otorgada la habilitación, las herboristerías no podrán introducir modificación alguna en su denominación y/o razón social, en el establecimiento, o incorporar nuevas actividades, sin autorización previa de la Secretaría de Estado de Salud Pública.\n\nLas herboristerías están obligadas a tener existencia permanente de yerbas medicinales en cantidad que justifique su carácter de mayorista.\n\nLos titulares de las herboristerías y los directores técnicos deberán comunicar a la Secretaría de Estado de Salud Pública cualquier modificación en la dirección técnica, a los efectos de obtener la correspondiente autorización."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 42,
+            "texto": "Artículo 42.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nEl director técnico de la herboristería será responsable de la pureza y legitimidad de las yerbas que fraccione o expenda, debiendo permanecer en el establecimiento y dirigir personalmente y bajo su responsabilidad, las tareas inherentes al fraccionamiento de las yerbas.\n\nSin perjuicio de lo preceptuado en el artículo que se reglamenta, los directores técnicos de las herboristerías están obligados a rotular las yerbas que fraccionen o expendan, con las siguientes constancias:\n\na) Nombre, en idioma nacional, de la yerba, pudiendo agregar la denominación científica de la misma.\n\nb) Sinónimo, si lo tiene.\n\nc) Origen.\n\nd) Peso neto de la yerba.\n\ne) Indicación del medio o forma de conservar la yerba para que no sufra alteraciones.\n\nf) Indicación de toxicidad o uso peligroso o indicaciones a seguir en caso de envenenamiento, si la naturaleza de la yerba lo justificare.\n\ng) Nombre y dirección de la herboristería.\n\nh) Nombre del director técnico.\n\nQueda prohibida toda rotulación en clave o consignando usos, indicaciones terapéuticas o dosis.\n\nLa comprobación de la falta de calidad o legitimidad de la yerba de acuerdo a las especificaciones de su rotulación las hará pasibles de decomiso, sin perjuicio de las demás penalidades que correspondiere aplicar.\n\nLes está prohibido a las herboristerías elaborar preparados con mezclas de yerbas medicinales."
+          },
+          {
+            "numero-articulo": 43,
+            "texto": "Artículo 43.- Sin Reglamentación."
+          },
+          {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 22/4/2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DEL 1 DE JULIO DE 2024",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000345 2024 04 19 0012 000 0000 000"
+              }
+            },
+            "numero-articulo": 44,
+            "texto": "Artículo 44.- NOTA DE REDACCION: DEROGADO POR DECRETO 345/24 .\n\nEl libro a que hace referencia el artículo que se reglamenta será habilitado por la Secretaría de Estado de Salud Pública, cumplimentando los requisitos que ésta establezca y, en todos los casos, los datos que en ellos se consignen deberán estar avalados con la firma del director técnico de la herboristería.\n\nLos inspectores de la Secretaría de Estado de Salud Pública recogerán para su análisis, muestras de las yerbas que tengan en existencia las herboristerías, adoptando los recaudos que la misma establezca para la recolección de las muestras.\n\nLos análisis serán realizados por los organismos competentes de la Secretaría de Estado de Salud Pública o aquellos otros que la misma determine y su resultado comunicado al director técnico de la herboristería, quien en caso de disconformidad podrá solicitar en el plazo de 5 días de notificado, nuevo análisis, pudiendo requerir sea realizado en su presencia o en la del profesional que designe en su reemplazo. Para este análisis deberá utilizarse la muestra testigo que se habrá conservado."
+          },
+          {
+            "numero-articulo": 45,
+            "texto": "Artículo 45.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 46,
+            "texto": "Artículo 46.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 47,
+            "texto": "Artículo 47.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 48,
+            "texto": "Artículo 48.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 49,
+            "texto": "Artículo 49.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 50,
+            "texto": "Artículo 50.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 51,
+            "texto": "Artículo 51.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 52,
+            "texto": "Artículo 52.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 53,
+            "texto": "Artículo 53.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 54,
+            "texto": "Artículo 54.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 55,
+            "texto": "Artículo 55.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 56,
+            "texto": "Artículo 56.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 57,
+            "texto": "Artículo 57.- Sin Reglamentación."
+          },
+          {
+            "numero-articulo": 58,
+            "texto": "Artículo 58.- Sin Reglamentación."
+          }
+        ]
+      },
+      "id-infojus": "DN19680007123",
+      "fecha-umod": 20241120115012
+    }
+  }
+}

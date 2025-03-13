@@ -1,0 +1,465 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-334-0000-4991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992085338,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "433-nacional-decreto-reglamentario-sobre-sistema-integrado-jubilaciones-pensiones-dn19940000433-1994-03-24"
+      }
+    },
+    "content": {
+      "mecanografico": 19940000433,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 433,
+      "timestamp": "2014-07-17T22:00:31",
+      "timestamp-m": "2014-07-17T22:00:31",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1994-03-24",
+      "standard-normativo": "DEC C 000433 1994 03 24",
+      "titulo-norma": "DECRETO REGLAMENTARIO SOBRE EL SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 03 28"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "Sustituye  a partir del 1-8-94, la Tabla I del Anexo I (B.O. 94-08-04)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 001262 1994 07 29 0001 000"
+          },
+          {
+            "cr": "Sustituye a partir del 1-8-94, la Tabla VII del Anexo I (B.O. 94-08-04)",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 001262 1994 07 29 0002 000"
+          },
+          {
+            "cr": "DEROGA APART. E) DEL INC. 2 DE LA REGLAMENTACION DEL ART. 2 (B.O. 97-08-04)",
+            "id": "MODIFICADO POR2",
+            "ref": "DEC C 000701 1997 07 30 0001 000"
+          },
+          {
+            "cr": "DEROGA ACAPITE 2.4 DE LA TABLA VII DEL ANEXO I (B.O. 97-08-04)",
+            "id": "MODIFICADO POR3",
+            "ref": "DEC C 000701 1997 07 30 0001 000"
+          },
+          {
+            "cr": "SUSTITUYE PUNTO 3 DE LA TABLA VII DEL ANEXO I (B.O. 97-08-04)",
+            "id": "MODIFICADO POR4",
+            "ref": "DEC C 000701 1997 07 30 0002 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 433/1994",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTAN LOS ARTS. 2, 3, 4, 6, 7, 8 Y 9 DE LA LEY N. 24 241, DEL SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES.",
+        "anexos-decreto": {
+          "anexo-ley": "A ACTIVIDADES DE TRABAJADORES AUTONOMOS"
+        },
+        "observaciones-generales": "CANTIDAD DE DOCUMENTOS QUE COMPONEN LA NORMA 7",
+        "reglamenta-a": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_0",
+              "ref": "LEY C 024241 1993 09 23 0002 000 0004 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_1",
+              "ref": "LEY C 024241 1993 09 23 0006 000 0009 000"
+            }
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "previsión social",
+                "SIJP",
+                "SIJYP"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aportes previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/aportes y contribuciones previsionales/aportes previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "aportes jubilatorios",
+                "derecho de los recursos de la seguridad social",
+                "obligaciones previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "pensión por fallecimiento",
+                "prestación de pensión por fallecimiento",
+                "derecho de pensión",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador autónomo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/sujetos de los deberes previsionales/contribuyentes previsionales/contribuyente por derecho propio/trabajador autónomo"
+            },
+            "sinonimos": {
+              "termino": "derecho de los recursos de la seguridad social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "afiliación del trabajador"
+            },
+            "preferido": {
+              "termino": "Seguridad social/derecho de los beneficios de la seguridad social/afiliación previsional/afiliados previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho previsional",
+                "afiliación del trabajador"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "contribuyentes previsionales",
+            "trabajador autónomo",
+            "recursos de la seguridad social",
+            "afiliación previsional",
+            "aportes y contribuciones previsionales",
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "haber previsional (beneficios previsionales)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "derecho de pensión (pensiones)",
+            "reglamentos",
+            "previsión social (sistema previsional)",
+            "prestación de pensión por fallecimiento (pensiones)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "sujetos de los deberes previsionales",
+            "SIJYP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "obligaciones previsionales (aportes y contribuciones previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones",
+            "derecho de los beneficios de la seguridad social",
+            "contribuyente por derecho propio",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "Derecho administrativo",
+            "afiliados previsionales",
+            "derecho previsional (derecho de los beneficios de la seguridad social)",
+            "aportes previsionales",
+            "Sistema Integrado de Jubilaciones y Pensiones",
+            "Seguridad social",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "pensiones",
+            "afiliación del trabajador (afiliados previsionales)",
+            "acto administrativo",
+            "SIJP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "pensión por fallecimiento (pensiones)",
+            "beneficios previsionales",
+            "aportes jubilatorios (aportes previsionales)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+          }
+        },
+        "texto": "la Ley N 24.241 y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "TOR C 018037 1976 11 16 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "TOR C 018038 1980 03 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 002104 1993 10 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000333 1993 03 03 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "TOR C 020744 1976 05 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DEC C 001078 1984 04 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "LEY C 023041 1983 12 22 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  resulta  necesario  reglamentar  las normas de aplicación relativas  al  hecho  y  la base imponible correspondientes  a  los aportes  y  contribuciones con  destino  al  Sistema  Integrado  de Jubilaciones  y  Pensiones,  contenidas  en  la  Ley  N.24.241.\n\nQue la Ley N.18.037 (texto ordenado 1976) prevé que la  afiliación y    pago  de  aportes  y  contribuciones  correspondientes  a  los trabajadores  en relación de dependencia, son obligatorios a partir de los DIECISEIS  (16)  años de edad, en tanto que la Ley N.18.038 (texto ordenado 1980) dispone que la afiliación de los trabajadores autónomos es obligatoria  a  partir  de la misma edad, pero  que  los  aportes  son  exigibles  recién  a  partir  de  los DIECIOCHO (18) años.\n\nQue  en  cambio la Ley N.24.241 establece que la incorporación  al régimen de  la  misma,  tanto  para los trabajadores en relación de dependencia  como los autónomos,  es  obligatoria  y  con  pago  de aportes y contribuciones,  a  partir  de los DIECIOCHO (18) años de edad.\n\nQue la circunstancia señalada plantea  el  problema  de cuál es la situación  previsional  de  los  trabajadores  mayores de DIECISEIS (16) años de edad, pero menores de DIECIOCHO (18)  años,  que  a la fecha  de  entrada  en  vigor  del  Libro I de la Ley N.24.241,  se encuentren afiliados al régimen de la  Ley N.18.037 (texto ordenado 1976) o de la Ley N.18.038 (texto ordenado 1980).\n\nQue, en consecuencia, corresponde prever  esa  situación  tratando de  conciliar  los  intereses  en  juego  y  la preservación de los derechos en curso de adquisición.\n\nQue  el artículo 2, inciso b) de la precitada  ley,  establece  la incorporación  obligatoria  en  carácter  de  autónomos de aquellos trabajadores que ejerzan alguna de las actividades  indicadas en la misma,  resultando  aconsejable  la  aplicación  al  caso  de    lo establecido  en los artículos 11 y 12 del Decreto N.2104, del 18 de octubre de 1993.\n\nQue el artículo  2,  inciso  d),  punto  1,  de  la  Ley N.24.241, determina  qué socios de diversos tipos societarios no se  incluyen obligatoriamente  en  el  inciso  a)  del referido artículo, siendo necesario aclarar que se trata de aquellos  que  sin  perjuicio  de prestar  servicios  en  relación  de  dependencia  con la sociedad, deben    aportar   obligatoriamente  como  trabajadores  autónomos, primando  su  condición  de  socios  mayoritarios,  comanditados  o componentes de  sociedades  de  familia,  civiles, irregulares o de hecho.\n\nQue asimismo, corresponde definir como voluntaria  la inclusión en carácter de autónomos de aquellos socios forzosamente  comprendidos en  las  previsiones del artículo 2, inciso a), de conformidad  con lo  dispuesto   por  el  punto  2  del  ya  citado  inciso  d).\n\nQue resulta necesario  establecer  la  forma  en  que las personas aludidas  en  el  artículo  3  de  la  Ley N.24.241 concretar n  su incorporación  voluntaria al Sistema Integrado  de  Jubilaciones  y Pensiones.\n\nQue también es menester  permitir  la  incorporación  voluntaria al Sistema Integrado de Jubilaciones y Pensiones, con las obligaciones  y  beneficios  que corresponden  a  los trabajadores autónomos,  de  aquellas personas físicas, menores de  CINCUENTA  Y CINCO (55) años que  no  realicen  actividad lucrativa alguna, y de los socios de sociedades de cualquier  tipo,  que  no se encuentren incluidos  obligatoriamente en los incisos a) o b) del  artículo 2.\n\nQue corresponde  determinar  con  precisión qué organismo tendrá  a su cargo la tramitación de las excepciones  a que alude el artículo 4 de la Ley N.24.241.\n\nQue  los artículos 6 y 7 de la norma mencionada  definen  la  base imponible  para  el  ingreso de los aportes y contribuciones de los trabajadores en relación  de  dependencia, debiendo extenderse a la misma, las prescripciones del Decreto  N.333,  del  9  de  marzo de 1993.\n\nQue  el artículo 8 de la referida Ley N.24.241  establece que  los trabajadores    autónomos   efectuar n  los  aportes  previsionales obligatorios, sobre los niveles  de  renta de referencia calculados en  base  a categorías que fijar n las normas  reglamentarias.\n\nQue en tal sentido,  los  montos  de  las  categorías  actualmente vigentes  se  ajustan  a  los par metros mencionados en el artículo citado en el p rrafo anterior,  con  los  límites que se indican en el considerando siguiente.\n\nQue de acuerdo con lo estipulado en el artículo 9 de la Ley N. 24.241 debe establecerse, respecto de la base imponible correspondiente a las categorías, un límite mínimo equivalente a TRES (3) veces el valor del Aporte Medio Previsional Obligatorio y un máximo equivalente a VEINTE (20) veces el citado mínimo.\n\nQue se impone especificar las actividades que corresponden a cada una de las categorías sobre las cuales deben efectuar sus aportes los trabajadores autónomos.\n\nQue razones de equidad aconsejan, respecto de los trabajadores autónomos titulares de empresas unipersonales, recategorizarlos en función de la cantidad de dependientes que ocupen, debiéndose fijar a tal efecto categorías que reflejen su real capacidad contributiva.\n\nQue para estimular  el  tránsito  e  incorporación  a  la economía formal,  es conveniente  determinar que los trabajadores autónomos que perciban ingresos brutos  anuales  inferiores  al equivalente a VEINTICUATRO  (24)  veces  el  valor  del  Aporte Medio Previsional Obligatorio,  podrán mediante la presentación  de  una  declaración jurada  solicitar  la  imputación  de  su  crédito  aplicándolo  al ejercicio    siguiente,   sin  perjuicio  del  derecho de  aportar voluntariamente por su categoría  de revista, y de su obligación de obtener la Clave Unica de Identificación  Tributaria (C.U.I.T.). En consecuencia, debe establecerse que los períodos  por los que no se aportare no generarán derechos a las prestaciones establecidas  por la Ley N. 24.241.\n\nQue  a los efectos de la aplicación de los límites mínimo y máximo de remuneraciones  sujetas  a aportes y contribuciones establecidos por el artículo 9 de la Ley N. 24.241,  debe  determinarse  con claridad  qué conceptos  corresponde    computar  por  separado  y contemplar las diferentes formas de pago de  las  remuneraciones  a los trabajadores.\n\nQue  especial  consideración  merece,  en  lo relativo al tope del Aporte Medio Previsional Obligatorio, el sueldo anual complementario, atento su particular forma de  pago  establecida en las Leyes N. 20.744 (texto ordenado 1976), 23.041 y Decreto  N.1078 del 6 de abril de 1984.\n\nQue    asimismo    debe  contemplarse  la  situación  de  aquellos trabajadores cuyas remuneraciones,  conforme  las  normas legales o convencionales, resultan inferiores al valor de TRES  (3)  veces el Aporte  Medio  Previsional  Obligatorio  que  establece  el aludido artículo 9.\n\nQue  también, razones de política recaudatoria aconsejan autorizar a la DIRECCION  GENERAL  IMPOSITIVA  a  percibir  en la fuente, los aportes con destino al régimen de trabajadores autónomos,  mediante la  celebración  de  convenios  o  creando  figuras  de  agentes de retención,    respecto  de  determinadas  actividades,  imputándose eventuales excedentes  a  la  cancelación  de deudas para con dicho régimen.\n\nQue  idénticas  razones  a  las  indicadas  en  el    considerando anterior, ameritan  facultar  a la DIRECCION GENERAL IMPOSITIVA  a modificar las condiciones de pago  establecidas en el inciso a) del artículo  5  del  Decreto N.2104/93, adaptándolas  a  la  capacidad contributiva de los  trabajadores  autónomos  de  menores ingresos.\n\nQue,  consecuentemente,  corresponde permitir a los obligados  que oportunamente no hubieran consolidado  sus  deudas  en  el  plan de facilidades de pago, acogerse al mismo en los pagos, condiciones  y modalidades  que fije la DIRECCION GENERAL IMPOSITIVA, la que queda facultada a modificar  los  requisitos  establecidos  en el segundo párrafo del artículo  2  del  precitado Decreto  N.2104/93.\n\nQue  el  presente    se  dicta  en  ejercicio  de  las  facultades conferidas en el artículo  86,  incisos  1  y  2 de la CONSTITUCION NACIONAL."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "TOR C 018037 1976 11 16 0002 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "TOR C 018038 1980 03 31 0006 000 0000 000"
+              },
+              {
+                "cr": "MINISTERIO DE BIENESTAR SOCIAL",
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "RES C 000212 1978 03 08 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "DEC C 000056 1994 01 19 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_4",
+                "ref": "DEC C 000333 1993 03 03 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Art. 1.- Apruébase la reglamentación de los artículos 2, 3, 4, 6, 7, 8 y 9 de la Ley N. 24.241.\n\nARTICULO 2: REGLAMENTACION.\n\n1.1. Los menores de DIECIOCHO (18) años de edad, que a la fecha de entrada en vigor del Libro I de la Ley N. 24.241 desempeñaren actividades en relación de dependencia incluidas en el artículo 2 de la Ley N. 18.037 (texto ordenado 1976), quedarán obligatoriamente comprendidos en el régimen de la ley citada en el primer término, con obligatoriedad de efectuar el aporte personal que determinan los artículos 11 y concordantes de la Ley N. 24.241.\n\nEn este supuesto, los empleadores quedan exentos a partir de la fecha antes indicada de la contribución a su cargo, hasta tanto el trabajador cumpla DIECIOCHO (18) años de edad.\n\n1.2. Los menores de DIECIOCHO (18) años de edad, que a la fecha de entrada en vigor del Libro I de la Ley N. 24.241 hubieran hecho efectiva por acto formal y expreso la afiliación al régimen de jubilaciones y pensiones para trabajadores autónomos, de conformidad con el artículo 6, párrafo primero de la Ley N. 18.038 (texto ordenado 1980) y sus modificatorias, quedarán obligatoriamente comprendidos en el régimen de la ley citada en primer término, con obligatoriedad de efectuar el aporte personal que determinan los artículos 11 y concordantes de la Ley N. 24.241, salvo que antes del 16 de agosto de 1994 optaren por quedar desafiliados. Una vez ejercitada esta opción, la misma será irrevocable, y la obligación de efectuar el aporte personal nacer a partir de la fecha en que cumpla DIECIOCHO (18) años de edad.\n\nLos servicios autónomos prestados sin obligatoriedad de aportes entre los DIECISEIS (16) y DIECIOCHO (18) años de edad, no serán computables a los fines de la determinación del haber de la Prestación Básica Universal ni de la Prestación Compensatoria a que se refieren los artículos 19 y siguientes y 23 y siguientes de la Ley N. 24.241.\n\n2. Se consideran trabajadores autónomos comprendidos en el inciso b) del artículo que se reglamenta, aquellos contribuyentes que desarrollen las actividades que a título enunciativo se enumeran, en tanto cumplan con las modalidades que en cada caso se indican, sin perjuicio de su posible condición de dependientes en otras actividades:\n\na) Artistas y músicos: Aquellos que interpretan un papel protagónico, coprotagónico, de reparto y extras en obras cinematográficas, teatrales, televisivas y radiofónicas, así como los directores de orquesta, solistas e integrantes de conjuntos musicales u orquestas, en tanto asuman el riesgo económico propio del ejercicio de sus respectivas profesiones.\n\nb) Profesionales de la salud: Los profesionales que presten sus servicios, a pacientes asociados a organizaciones de medicina prepaga, fundaciones, obras sociales o mutuales, sea en sus propios consultorios o en locales provistos por las citadas entidades o por centros asistenciales contratados a tal efecto, en tanto perciban solamente el honorario abonado por los pacientes por ellos atendidos o una parte proporcional del mismo, y asuman el riesgo económico propio del ejercicio libre de su profesión.\n\nSin perjuicio del encuadramiento dispuesto en el párrafo anterior los profesionales que presten servicios en guardias internas o ambulatorias u otras funciones que impliquen una relación de dependencia, serán también contribuyentes en tal carácter, respecto a los recursos de la seguridad social.\n\nc) Fleteros: Los transportistas terrestres de carga que, aportando el vehículo, presten a título oneroso los servicios de fletes, en forma exclusiva o para más de un cargador, por cuenta propia o de otro que actúe como principal, asumiendo el riesgo económico inherente al ejercicio libre de la actividad.\n\nd) Jugadores de fútbol: Los jugadores de fútbol que militen en clubes excluidos del convenio de corresponsabilidad gremial aprobado por la Resolución N. 212 del 8 de marzo de 1978 del MINISTERIO DE BIENESTAR SOCIAL, que intervengan en torneos organizados por la Asociación del Fútbol Argentino, ligas provinciales, regionales y/o locales.\n\ne) NOTA DE REDACCION: Derogado por art. 1 del Dec. 701/97.\n\n3. Los socios indicados en el inciso d), apartado 1 del artículo 2 de la Ley N. 24.241, son aquellos que no se incluyen obligatoriamente en el inciso a) de dicho artículo, sin perjuicio de prestar servicios en relación de dependencia con la sociedad, debiendo aportar obligatoriamente como trabajadores autónomos, categorizados en el punto 4 del inciso b) del precitado artículo 2, en tanto no estuvieren comprendidos en los puntos  1,  2  y 3 de este último inciso.\n\n4. Los socios a los que hace referencia el inciso d), apartado 2 del artículo que se reglamenta son aquellos que por encontrarse en relación de dependencia con la sociedad -excluidos los supuestos del inciso d) apartado 1- tributan obligatoriamente en tal condición, pudiendo asimismo aportar voluntariamente con las obligaciones y beneficios que corresponden a los incluidos en el artículo 2, inciso b).\n\nARTICULO 3: REGLAMENTACION.\n\n1. Las personas mencionadas en el artículo 3 de la Ley N. 24.241 que decidan incorporarse voluntariamente al Sistema Integrado de Jubilaciones y Pensiones, deberán ejercer la opción prevista en el artículo 30 de la ley citada en forma directa ante la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL o incorporarse a una Administradora de Fondos de Jubilaciones y Pensiones en la forma establecida por el Decreto N. 56 del 19 de enero de 1994. No regirán respecto de las personas precedentemente aludidas, los plazos establecidos en el citado decreto.\n\n2. La incorporación al Sistema Integrado de Jubilaciones y Pensiones es voluntaria para toda persona física menor de CINCUENTA Y CINCO (55) años, con las obligaciones y beneficios que corresponden a los trabajadores autónomos definidos en el artículo 2, inciso b), aunque no realizare actividad lucrativa alguna o se encontrare comprendida en otro régimen jubilatorio, sin perjuicio de la afiliación que corresponda a dicho régimen.\n\n3. La afiliación voluntaria subsiste y genera la obligación de aportar mientras no se denuncie su cese ante la autoridad de aplicación, sin perjuicio de la caducidad de la misma cuando se adeudaren SEIS (6) mensualidades consecutivas de aportes.\n\n4. Los socios de sociedades de cualquier tipo, menores de CINCUENTA Y CINCO (55) años, que no se encuentren incluidos obligatoriamente en los incisos a) o b) del artículo 2 de la Ley N. 24.241, podrán incorporarse voluntariamente al Sistema Integrado de Jubilaciones y Pensiones, con las obligaciones y beneficios que correspondan a los mencionados en el referido inciso b).\n\nARTICULO 4: REGLAMENTACION.\n\nLa solicitud de excepción establecida por el artículo 4 de la Ley N. 24.241 deberá ser formulada por el interesado o su empleador ante la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL, la que tendrá a su cargo la tramitación y resolución de la misma.\n\nARTICULOS 6 y 7: REGLAMENTACION.\n\nSon de aplicación las prescripciones del Decreto N. 333 del 3 de marzo de 1993, con excepción de lo dispuesto en su artículo 2 inciso c).\n\nARTICULO 8: REGLAMENTACION.\n\n1. Los trabajadores autónomos efectuarán los aportes establecidos en los Artículos 10 y 11 de la ley, sobre la base de las categorías que, con sus montos de renta imponible mensual expresados en cantidades del Módulo Previsional (MOPRE), se detallan en el Anexo I, que se aprueba y forma parte del presente decreto.\n\nLos trabajadores autónomos que realicen actividades penosas o riesgosas por las cuales les corresponda un régimen previsional diferenciado, deberán ingresar un aporte adicional del TRES POR CIENTO (3%) sobre el monto de la categoría que les corresponda.\n\nFacúltase a la SECRETARIA DE SEGURIDAD SOCIAL dependiente del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL a dictar las normas complementarias que permitan compatibilizar las categorías que se disponen en este punto con las anteriormente vigentes, a los fines del cálculo de los haberes previsionales.\n\n2. Las actividades que deban encuadrarse en cada una de las categorías referidas en el punto 1 son las que se establecen en el Anexo II, que se aprueba y forma parte del presente decreto.\n\nFacúltase a la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA Y PRODUCCION, a establecer los códigos de actividad que deberán consignar los trabajadores autónomos en las oportunidades que a tal efecto determine, así como a dictar las normas complementarias que considere necesarias a los fines dispuestos en este apartado.\n\n3. Los trabajadores autónomos que durante un ejercicio anual hubieran obtenido beneficios netos inferiores al TREINTA POR CIENTO (30%) de sus ingresos brutos, podrán encuadrarse - durante todo el ejercicio anual siguiente- en la categoría inmediata inferior en aportes a la que les correspondería de conformidad con lo dispuesto por el Anexo I del presente decreto. A los fines indicados en este punto se entiende por beneficio neto al ingreso bruto menos los gastos necesarios para obtenerlo. Facúltase a la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS a dictar las normas complementarias que considere necesarias a los fines dispuestos en este apartado.\n\n4. Los trabajadores autónomos que desarrollen algunas de las actividades previstas en el Artículo 2º, inciso b) de la Ley Nº 24.241 y sus modificaciones, que como consecuencia de las mismas perciban ingresos brutos anuales inferiores al equivalente a TREINTA Y SEIS (36) veces el valor del Módulo Previsional (MOPRE), podrán, mediante la presentación de una declaración jurada, solicitar la imputación del crédito proveniente de los aportes ingresados durante el ejercicio anual aplicándolo al ejercicio siguiente, sin perjuicio del derecho de aportar voluntariamente por su categoría de revista y de sus obligaciones de obtener la Clave Unica de Identificación Tributaria (C.U.I.T.) y de darse de alta como trabajadores autónomos.\n\nNo serán considerados a ninguno de los efectos establecidos por la Ley Nº 24.241 y sus modificaciones, en materia de prestaciones, los períodos sobre los que, de acuerdo con el procedimiento establecido en este punto, no corresponda ingresar aportes y respecto de los cuales se solicite su imputación a un ejercicio futuro. Facúltase a la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, a dictar las normas complementarias que considere necesarias a los fines dispuestos en este punto.\n\nARTICULO 9: REGLAMENTACION.\n\n1. Para la aplicación de los límites mínimo y máximo establecidos por el artículo 9 de la Ley N. 24.241, en el cálculo de los aportes y contribuciones serán computadas en forma mensual las remuneraciones devengadas a favor del trabajador, con independencia de la modalidad de pago que pudiere haber sido acordada entre las partes. A los referidos fines la suma que se abone al trabajador en concepto de adelanto de vacaciones deberá ser computada  en  forma  separada  de  los  demás  conceptos  que conforme  el artículo 6 de la citada ley, constituyen remuneración.\n\n2. Para el cálculo de los aportes y contribuciones integrantes de la Contribución Unica de la Seguridad Social, correspondientes a cada cuota semestral del sueldo anual complementario, será de aplicación un límite a la base imponible equivalente al CINCUENTA POR CIENTO (50 %) del tope vigente para las remuneraciones mensuales establecidas en el artículo 9 de la Ley N. 24.241. En el caso de liquidaciones proporcionales del sueldo anual complementario y de las vacaciones no gozadas, la base imponible a considerar en el cálculo de aportes y contribuciones no podrá ser superior al monto que resulte de ponderar el proporcional diario del tope vigente para las remuneraciones mensuales, por la cantidad de días por los que corresponda el pago de tales conceptos.\n\n3. Cuando conforme a disposiciones  legales o normas contenidas en convenios  colectivos  o  a  las  retribuciones    normales  de  la actividad de que se trate, la remuneración efectivamente  percibida por  el trabajador sea inferior al equivalente a TRES (3) veces  el valor  del  Aporte  Medio  Previsional  Obligatorio,  los aportes y contribuciones correspondientes se calcularán sobre la  base  de dicha remuneración.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "REGLAMENTACION ART. 8 SUSTITUIDA (B.O. 15-12-2006).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 001866 2006 12 12 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 024241 1993 09 23 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 002104 1993 10 18 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 2,
+          "texto": "Art. 2.- El valor de la renta imponible mensual correspondiente a la categoría \"C' (C Prima)\" establecido en el punto 1 y lo dispuesto en el punto 3 de la reglamentación del artículo 8 de la Ley N. 24.241 aprobada por el presente, así como las Tablas I y VII contenidas en el Anexo I de este decreto, modificatorias en lo que corresponda de sus similares del Anexo II del Decreto N. 2104/93, regirán desde el día 1 inclusive del mes de su publicación oficial."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3.- Autorízase a la DIRECCION GENERAL IMPOSITIVA a percibir en la fuente, los aportes con destino al régimen de trabajadores autónomos, mediante la celebración de convenios o creando figuras de agentes de retención, respecto de actividades que lo justifiquen, imputándose eventuales excedentes a la cancelación de deudas para con dicho régimen."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002104 1993 10 18 0005 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art. 4.- Facúltase a la DIRECCION GENERAL IMPOSITIVA a modificar los requisitos de pago establecidos en el inciso a) del artículo 5 del Decreto N. 2104/93, respecto de los trabajadores autónomos que, al 30 de setiembre de 1993, revistaban en una categoría inferior a la categoría \"E\"."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002104 1993 10 18 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 5,
+          "texto": "Art. 5.- Los obligados aludidos en el artículo anterior, que al 14 de febrero de 1994 no hubieran consolidado sus deudas en el plan de facilidades de pago, podrán acogerse al mismo en los plazos, condiciones y modalidades que fije la DIRECCION GENERAL IMPOSITIVA, la que queda facultada a modificar los requisitos establecidos en el segundo párrafo del artículo 2 del precitado Decreto N. 2104/93."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6.- La SECRETARIA DE SEGURIDAD SOCIAL del MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL queda facultada para dictar las normas complementarias e interpretativas del presente decreto en lo que sea materia de su competencia."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - CAVALLO -  CARO FIGUEROA"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "ANEXO I. ACTIVIDADES DE TRABAJADORES AUTONOMOS",
+        "articulo": [
+          {
+            "numero-articulo": 1,
+            "texto": "TABLA I Dirección, administración o conducción de cualquier empresa, organización, establecimiento o explotación con fines de lucro, o sociedad comercial o civil, aunque por esas actividades no obtengan retribución, utilidad o ingreso alguno.\n\n1. Personas comprendidas.\n\n1.1. Componentes de sociedades comerciales y civiles regulares o irregulares.\n\n1.2. Titulares de empresas unipersonales o componentes de sociedades de hecho, en ambos casos, que ocupen personal.\n\n1.3. Componentes de sociedades de hecho que no ocupen personal.\n\n2. Categorías mínimas.\n\n2.1. Componentes del punto 1.1.\n\nHasta 10 trabajadores ocupados D De 11 a 20 trabajadores ocupados E Más de 20 trabajadores ocupados F A los efectos de determinar la categoría de revista, el trabajador autónomo deberá considerar la suma del personal ocupado por la totalidad de las sociedades en las que ejerza su función.\n\n2.2. Componentes del punto 1.2.\n\nDe 1 a 3 trabajadores ocupados B De 4 a 6 trabajadores ocupados C De 7 a 10 trabajadores ocupados D Más de 10 trabajadores ocupados E Los socios de sociedades de hecho se encuadran en la categoría que les corresponda, considerando a tal fin como cantidad de trabajadores ocupados, la que resulte de dividir la totalidad de dependientes de la sociedad, por el número de socios. Si de dicha operación aritmética surgieran decimales, éstos serán despreciados, salvo cuando el resultado sea inferior a UNO (1), en cuyo caso se considerará UN (1) trabajador ocupado.\n\n2.3 Componentes del punto 1.3.\n\nSe encuadran individualmente en la categoría que les corresponda, acorde a la actividad que desempeñan en la sociedad, conforme Tablas II a VI.\n\n3. Compatibilización con las Tablas II a VI:\n\nLos afiliados que en ejercicio de una misma actividad, por aplicación de lo establecido en el punto 2. quedaran comprendidos en una categoría diferente a la que les corresponda según las Tablas II a VI, tributarán por la que resulte superior.\n\nLo expuesto es sin perjuicio del encuadramiento que pudiera corresponderles por ejercicio de actividades simultáneas.\n\n4. Códigos de actividad.\n\n ACTIVIDAD                     CODIGO  Agrícola                        002  Comercial                       000  Edificación                     005  Espectáculos Públicos           009 Financiera, administración      007  Forestal                        011  Ganadera                        003  Industrial                      001  Minería                         008  Pesquera                        004  Telecomunicaciones              010  Transporte                      006",
+            "modificado-por": {
+              "referencia-normativa": {
+                "cr": "Sustituido. (B.O. 06-12-2004).",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 001712 2004 12 02 0001 000 0000 000"
+              }
+            }
+          },
+          {
+            "numero-articulo": 2,
+            "texto": "TABLA II Profesión  desempeñada  por  graduado en universidad nacional o en universidad provincial o privada,  autorizada para funcionar por el Poder  Ejecutivo,  o  por quien tenga especial  habilitación  legal para  el ejercicio de profesión  universitaria  reglamentada.\n\n1. Personas comprendidas.\n\nProfesionales o habilitados.\n\n2. Categorías mínimas.\n\nANTIGUEDAD EN EL EJERCICIO           CATEGORIA         Hasta 3 años                        A      Del 4 año al 10 año                    B          Más de 10 años                     D 3. Códigos de Actividad.          ACTIVIDAD                         CODIGO   ABOGADO                                   051   ACTUARIO                                  074   AGRIMENSOR                                048   ANALISIS CLINICOS                         114   ANALISTA DE SISTEMAS                      126   ARQUITECTOS                               034   ASISTENTE SOCIAL                          123   BACTERIOLOGO                              023   BIBLIOTECARIO                             056   CALIGRAFO PUBLICO                         076   COMPUTADOR CIENTIFICO                     028   CONTADOR PUBLICO                          073   CONTADOR Y PERITO CONTABLE                077   DR. DRA. EN CIENCIAS JURIDICAS Y S.       093   DR. EN CIENCIAS ECONOMICAS                071   DR. EN CIENCIAS NATURALES                 046   DR. EN CIENCIAS POLITICAS                 079   DR. EN CIENCIAS QUIMICAS                  042   DR. EN FILOSOFIA Y LETRAS                 054   DR. EN MEDICINA                           025   DR. EN QUIMICA                            043   DR. LIC. EN PSICOPEDAGOGIA                027   DR. EN CIENCIAS BIOLOGICAS                018   DR. EN CIENCIAS BIOQUIMICAS               019   DR. EN CIENCIAS FARMACEUTICAS             021   DR. EN FARMACIA Y BIOQUIMICA              016   ESCRIBANO                                 052   ESTADISTICO (TUCUMAN UNIVERS.)            078   ETNOLOGO                                  039   FARMACEUTICO                              015   FISIOTERAPEUTA                            128   FONOAUDIOLOGIA                            022   GEOLOGOS                                  059   INGENIERO AERONAUTICO                     064   INGENIERO AGRONOMO                        032   INGENIERO CIVIL                           031   INGENIERO ELECTRICISTA                    038   INGENIERO ELECTROMECANICO                 036   INGENIERO ELECTROTECNICO                  063   INGENIERO EN MINAS                        125   INGENIERO TECNICO EN ECONOMIA             044   INGENIERO EN TELEC. Y VARIOS              045   INGENIERO FORESTAL                        062   INGENIERO HIDRAULICO                      066   INGENIERO INDUSTRIAL                      041   INGENIERO MECANICO                        047   INGENIERO METALURGICO                     065   INGENIERO NAVAL Y MEC.                    037   INGENIERO QUIMICO                         033   INGENIERO TEXTIL                          067   KINESIOLOGO                               013   LIC. EN ADMINISTRACION                    061   LIC. EN ANTROPOLOGIA                      098   LIC. EN ASESORIA DE EMPRESAS              092   LIC. EN ASTROLOGIA/ASTRONOMIA             088   LIC. EN BELLAS ARTES                      121   LIC. EN BIOLOGIA                          082   LIC. EN CARTOGRAFIA                       118   LIC. EN CIENCIAS DE LA EDUCACION          099   LIC. EN CIENCIAS DE LA INFORMACION        117   LIC. EN CIENCIAS FISICAS                  030   LIC. EN CIENCIAS PENALES                  094   LIC. EN COOPERATIVISMO COMERCIAL          122   LIC. EN ECONOMIA                          072   LIC. EN FINAN. Y ORGANIZ. DE EMPRESAS     057   LIC. EN GEOFISICA                         089   LIC. EN GEOGRAFIA                         097   LIC. EN GEOPOLITICA/GEOQUIMICA            084   LIC. EN HISTORIAS DE LAS ARTES            116   LIC. EN LENGUAS Y LIT. CLASICAS           096   LIC. EN MATEMATICAS                       068   LIC. EN METEOROLOGIA                      083   LIC. EN PALEONTOLOGIA                     085   LIC. EN PSICOLOGIA                        024   LIC. EN PUBLICIDAD                        081   LIC. EN QUIMICA                           049   LIC. EN RELACIONES HUMANAS                095   LIC. EN RELACIONES PUBLICAS               058   LIC. EN SOCIOLOGIA                        069   LIC. EN ZOOLOGIA                          087   LIC. FARMACOLOGIA EXPERIMENTAL            115   LIC. EN PALEOBOTANICA                     086   LICENCIADO EN ENFERMERIA                  040   LICENCIADO EN HISTORIA                    129   LICENCIADO EN TURISMO                     127   MUSEOLOGO                                 120   NOTARIO                                   055   NUTRICIONISTA DIETISTA                    112   OBSTETRA                                  014   ODONTOLOGO                                012   OPTICO                                    026   PODOLOGO                                  091   PROCURADOR                                053   QUIMICO                                   035   RADIOLOGO                                 113   TEOLOGO                                   119   TOPOGRAFO                                 029   TRADUCTOR PUBLICO                         075   VETERINARIO                               017"
+          },
+          {
+            "numero-articulo": 3,
+            "texto": "TABLA III Producción y/o cobranza de seguros, reaseguros capitalización y préstamo o similares.\n\n1. Personas comprendidas:\n\nProductores y/o cobradores que ejerzan actividades para más de una compañía.\n\n2. Categorías mínimas.\n\nDurante los diez (10) primeros años de actividad.                                    B A partir del undécimo (11) año de actividad.                                       C 3. Códigos de Actividad.      ACTIVIDAD                             CODIGO     PRODUCTORES DE SEGUROS                    740"
+          },
+          {
+            "numero-articulo": 4,
+            "texto": "TABLA IV Actividades dirigidas a satisfacer necesidades directas de quien las reclama, cumplidas sin capital o con capital mínimo.\n\n1. Personas comprendidas.\n\nTitulares que ejerzan individualmente la actividad.\n\n2. Códigos de actividad y Categorías mínimas.\n\nDESCRIPCION ACTIVIDAD         CODIGO      CATEGORIA   ACOPIADORES Y COSECHADORES       162            A   AFILADORES DE HERRAMIENTAS   CUCHILL.,ETC.                    475            A   AGRICULTORES                     101            A   ALAMBRADORES RURALES             163            A   ALBAILES                        401            A   ALQUILER DE CABALLOS BICICLETAS,   ETC.                             285            A   APARADORES                       352            A   APICULTORES                      135            A   ARBORICULTORES                   107            A   ARMEROS                          476            A   ARRIEROS Y/O RESEROS             161            A   AVICULTORES                      134            A   BORDADORAS Y/O LENCERAS          311            A   CALESITA                         286            A   CAMISEROS CAMISERAS              310            A   CANASTEROS Y/O MIMBREROS/RAS     333            A   CAEROS                           110            A   CAZADORES                        181            A   CEMENTISTAS                      403            A   CHANGADORES                      981            A   CHAPISTAS                        474            A   CLOAQUISTAS                      834            A   COCHEROS DE PLAZA                905            A   COCINEROS                        804            A   COLOCADORES MOSAICOS AZULEJOS   Y SIMIL                          408            A   COMISIONISTAS CORREDORES   COBRADORES                       703            A   CONTRATISTAS DE VIAS            111            A   COPISTAS                         643            A   CORBATEROS CORBATERAS            306            A   CORSETERAS                       309            A   COSTURERAS                       307            A   CIUDADORES DE BAÑOS Y TOILETTES  803            A   CUIDADORES DE VEHICULOS          921            A   CURTIDORES                       354            A   DECORADORES EN METALES           472            A   DESHOLLINADORES                  835            A   DIBUJANTES                       721            A   EMPAPELADORES                    409            A   ENCOLADORES                      438            A   ENFERMERAS ENFERMEROS            764            A   ESCULTORES                       723            A   ESQUILADORES                     137            A   ESTAMPADORES ESTAMPADORAS        373            A   ESTERILLADORES                   437            A   FLORICULTORES                    106            A   FRENTISTAS                       411            A   FRUTICULTORES                    103            A   GRABADORES EN METALES            473            A   GRANJEROS CRIADORES DE ANIMALES   DOMESTICOS                       132            A   HILANDEROS HILANDERAS            372            A   JARDINEROS Y/O PODADORES         108            A   LADRILLEROS Y/U HORNEROS         416            A   LANCHEROS                        951            A   LAVANDERAS Y/O PLANCHADORAS      831            A   LEÑADORES                        109            A   LETRISTAS                        722            A   LUSTRADORES DE CALZADO           833            A   LUSTRADORES DE MUEBLES           440            A   LUSTRADORES DE PISOS ENCERADORES 439            A   MANDADEROS                       912            A   MANUALIDADES EN GENERAL          331            A   MOZOS                            805            A   OTRAS TAREAS RURALES             198            A   OTROS PROFESORES PARTICULARES    746            A   OTROS TRABAJ. DE SERVIC. DE   HIGIENE LIM.                     898            A   OTROS TRABAJADORES DE LA   CONSTRUCCION                     492            A   OTROS TRABAJADORES DE LOS   METALES                          494            A   PANTALONERAS                     308            A   PARQUETISTAS                     407            A   PEQUEOS PRODUCTORES   AGROPECUARIOS                    138            A   PESCADORES                       182            A   PICAPEDREROS                     405            A   PINTORES                         406            A   PISCICULTORES                    136            A   POCEROS                          402            A   PROFESORES PARTIC. BORDAD.   COSTURAS, ETC.                   744            A   PROFESORES PARTIC. DE CULTURA   GENERAL                          745            A   PROFESORES PARTICULARES MUSICA   BAILES                           743            A   QUINTEROS, HORTICULTORES,   CHACAREROS                       102            A   REMALLADORES REMALLADORAS        374            A   REPARTIDORES SIN VEHICULO        911            A   RURALES TRABAJADORES SIN   ESPECIFICAR                      199            A   SERENOS                          801            A   SILLEROS                         434            A   SOMBREREROS SOMBRERERAS          305            A   TABACALEROS                      105            A   TALLISTAS EN MADERA              436            A   TAMBEROS                         133            A   TECHISTAS                        415            A   TEJEDORES TEJEDORAS              371            A   TORNEROS                         471            A   TRABAJ. DE LA CONSTRUCC. SIN   ESPECIFICAR                      496            A   TRABAJ. EN METALES SIN   ESPECIFICAR                      498            A   TRABAJ. SERVICIOS HIGIENE LIMP.   SIN ESPECIFICAR                  899            A   TRADUCTORES                      711            A   VENDEDORES AMBULANTES NO   ESPECIFICADOS                    298            A   VIGILANCIA                       712            A   VITICULTORES                     104            A   YESEROS                          404            A   ZAPATEROS ZAPATERAS              351            A   ZURCIDORES ZURCIDORAS            304            A"
+          },
+          {
+            "numero-articulo": 5,
+            "texto": "TABLA V Cualquier  actividad lucrativa no comprendida en tablas I, II, III y IV.\n\n1. Personas comprendidas.\n\nTrabajadores  que ejerzan actividades en forma individual o con la participacin de familiares no dependientes.\n\n2. Códigos de actividad y Categorías mínimas.\n\nDESCRIPCION ACTIVIDAD           CODIGO     CATEGORIA    ACEITERIAS                      211           B    ACTIVIDADES LIBERALES SIN    ESPECIFICAR                     799           B    ADMINISTRADORES                 710           B    AFINADORES DE INSTRUMENTOS    MUSICALES                       785           B    AGENTES TEATRALES               503           B    ARMERIAS Y/O CUCHILLERIAS       259           B    ARTISTAS TEATRALES Y/O    CINEMATOGRFICOS.                501           B    ASERRADEROS                     433           B    ASESORES Y/O INFORMANTES        704           B    BARES RESTAUR. PIZZER.    BUFETERIAS RECREOS              283           B    BICICLETERIAS                   263           B    BOBINADORES                     487           B    CAFETERIAS Y/O VTA. TE YERBAS    ETC.                            212           B    CARBONERIAS Y/O VTA. COMBUST.    FORRAJES                        231           B    CARNICERIAS Y/O VTA. DE    EMBUTIDOS                       203           B    CARPINTEROS                     431           B    CARTONEROS                      662           B    CERRAJEROS                      468           B    CHOFERES AUTOS EXCURSION        904           B    CHOFERES AUTOS REMISE           903           B    COLCHONEROS                     332           B    COLECTIVEROS                    901           B    COMBINADORES DE PELICULAS       581           B    COMERCIOS NO ESPECIFICADOS      299           B    COMPOSITORES MUSICALES          504           B    CONFECCIONISTAS NO    ESPECIFICADOS                   398           B    CONFITERIAS Y PANADERIA         208           B    CONSTRUCTORES                   741           B    CONTRATISTAS                    706           B    CIUDADORES DE CABALLOS DE    CARRERAS                        552           B    DECORADORES DE AMBIENTES        724           B    DESPACHANTES DE ADUANA          709           B    DESPENSA Y/O ALMACENES          206           B    DISTRIB. REPRESENTANTES    CONSIGNATARIOS                  708           B    DISTRIBUIDORES DE DIARIOS Y    REVISTAS                        725           B    DROGUERIAS                      260           B    EBANISTAS                       432           B    ELECTRICISTAS EN GENERAL        485           B    ENCUADERNADORES                 621           B    ESCRITORES                      531           B    FABRICACION ART. DE CUERO       353           B    FABRICACION Y REPARACION DE    MUÑECAS                         334           B    FABRICANTES DE BOLSAS SOBRES    DE PAPEL                        661           B    FABRICANTES DE ESCOBAS          441           B    FARMACIA                        761           B    FERRETERIA Y PINTURERIA         253           B    FIDEERIAS Y/O PASTELERIAS       209           B    FLORERIA                        234           B    FOTOGRAFOS  REVELADORES         641           B    FUNDIDORES                      466           B    FUTBOLISTA NO ALCANZADO POR    CONVENIO AFA                    506           B    GALVANIZADORES                  469           B    GARAGISTAS                      922           B    GOMERIA                         252           B    HELADERIAS                      213           B    HERREROS                        463           B    HOJALATEROS                     464           B    HOTELES HOSPEDAJES HOSTERIAS    PENSIONES                       284           B    IMPRENTEROS                     601           B    INSTALADOR DE ARTEFACTOS A GAS    CALE. ETC.                      410           B    INSTRUMENTISTA                  770           B    INTERMEDIARIOS DE TRAMITES Y/O    GESTORES                        702           B    JOCKEYS                         551           B    JOYERIA RELOJERIA               255           B    JUGUETERIAS                     264           B    LAMINADORES                     467           B    LECHEROS Y/O VTA. PROD. LACTEOS 201           B    LIBRERIA Y PAPELERIA            258           B    LITOGRAFO                       602           B    LOCUTORES LOCUTORAS             502           B    MANICURAS MANICUROS             767           B    MAQUILLADORES MAQUILLADORAS     768           B    MARMOLEROS                      412           B    MARROQUINEROS                   355           B    MARTILLEROS Y/O REMATADORES     701           B    MASAJISTAS                      765           B    MAT. DE CONSTRUCCION CORRALONES 251           B    MATRICEROS                      470           B    MECANICOS                       461           B    MECANICOS DENTISTAS             762           B    MODISTAS                        302           B    MUEBLERIAS                      256           B    OPTICAS                         270           B    OTRAS ACTIVIDADES LIBERALES     798           B    OTROS CONFECCIONISTAS           396           B    OTROS TEXTILES                  397           B    OTROS TIPOS DE COMERCIOS        297           B    OTROS TRABAJ. EN ESPECTACULOS    PUBLICOS                        598           B    OTROS TRABAJADORES DE LA    ELECTRICIDAD                    495           B    OTROS TRABAJADORES DE LA MADERA 493           B    OTROS TRABAJADORES DEL PAPEL    697           B    OTROS TRABAJADORES DEL    TRANSPORTE                      998           B    OTROS TRABAJADORES GRAFICOS     696           B    PAJARERIA                       238           B    PARAG ERIAS                     257           B    PEDICUROS PEDICURAS             766           B    PELETEROS PELETERAS             303           B    PELUQUEROS PEINADORES/RAS       769           B    PERFUMERIA Y VTA. ART. TOCADOR  237           B    PERIODISTAS                     604           B    PERITOS CONTABLES               707           B    PESCADERIA                      204           B    PINTORES ARTISTICOS             532           B    PLOMEROS                        414           B    POLLEROS Y/O VTA. PROD. DE    GRANJA                          202           B    PUBLICISTAS Y/O PROPAGAND. Y    PROMOTORAS                      742           B    PULIDORES                       465           B    RADIOTECNICOS                   486           B    RETRATISTAS                     642           B    ROTISERIA FIAMBRERIA QUESERIA   207           B    SANTERIAS                       265           B    SASTRES                         301           B    SEMILLERIAS Y/O VTA. PLANTAS    233           B    SEPULTUREROS Y/O CUIDADORES DE    NICHOS                          802           B    SOLDADORES                      462           B    TALABARTEROS                    356           B    TAPICEROS                       435           B    TASADORES                       705           B    TAXIMETRISTAS MUJERES           902           B    TECNICO EN REFRIGERACION        488           B    TEXTILES NO ESPECIFICADOS       399           B    TIENDAS Y/O MERCERIAS           261           B    TINTOREROS TINTORERAS           832           B    TIPOGRAFO                       603           B    TRABAJ. DE LA ELECTRICID.    SIN ESPECIFICAR                 499           B    TRABAJ. DE LA MADERA    SIN ESPECIFICAR                 497           B    TRABAJ. DEL TRANSPORTE    SIN ESPEICFICAR                 999           B    TRABAJ. ESPECTAC. PUBLICOS    SIN ESPECIFICAR                 599           B    TRABAJADORES DEL PAPEL    SIN ESPECIFICAR                 699           B    TRABAJADORES GRAFICOS    SIN ESPECIFICAR                 698           B    TRANSPORTE ESCOLAR              916           B    TRANSPORTISTAS Y/O FLETEROS     906           B    VERDULERIA Y FRUTERIA           205           B    VIDRIEROS                       413           B    VINERIAS Y VTA. BEBIDAS         210           B    VTA. CIGARRILLOS BILLETES DE    LOTERIA                         235           B    VTA. DE ART. DEL HOGAR Y BAZAR  254           B    VTA.DE ART.MUSICALES DISCOS ETC 269           B    VTA. DE ART. PARA CABALLER.    DAMAS Y/O NIÑOS                 266           B    VTA. DE ART. PARA DEPORTES      271           B    VTA. DE AUTOMOTORES Y/O    REPUESTOS                       268           B    VTA. DE CARTERAS VALIJAS Y/O    ART. DE CUERO                   267           B    VTA. DE DIARIOS Y REVISTAS      236           B    VTA. DE HIELO                   232           B    VTA. DE LANAS Y ART. DE PUNTO   272           B    VTA. DE MANIES POCHOCLOS ETC.   229           B    VTA. DE MIEL                    214           B    VTA. DE SODA                    215           B    ZAPATERIAS Y/O  ZAPATILLERIAS   262           B"
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": [
+                {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+                },
+                {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_1",
+                  "ref": "LEY C 024241 1993 09 23 0002 000 0000 000"
+                }
+              ]
+            },
+            "numero-articulo": 6,
+            "texto": "TABLA VI Afiliaciones Voluntarias.\n\n1. Personas comprendidas.\n\nMiembros  de  consejos  de  administración  de cooperativas que no perciban retribución alguna por esas funciones,  socios no gerentes de  sociedades de responsabilidad limitada, síndicos  de  cualquier sociedad  y  fiduciarios;  y  los  socios minoritarios de cualquier sociedad,    que  realicen  en  la  misma sociedad,    actividades especialmente    remuneradas    que   configuren  una relación  de dependencia; titulares de condominios  y  de  sucesiones  indivisas que  no  ejerzan  la  dirección, administración o conducción de  la explotación común; miembros  del  clero y de comunidades religiosas pertenecientes al culto católico o  a  otros  cultos;  personas que ejerzan  las  actividades  de  la  Tabla  II  y  que  por  ellas se encontraren  obligatoriamente  comprendidas  en uno o más regímenes jubilatorios    provinciales  para  profesionales  como    asimismo aquellos que ejerzan  una  profesión  no  académica  autorizada con anterioridad  a  la promulgación de la Ley N.24.241; amas  de casa.\n\nToda persona física menor de 55 (cincuenta y cinco) años aunque no realizare actividad lucrativa alguna o se encontrare comprendida  en  otro  régimen jubilatorio,  sin  perjuicio  de  la afiliación que corresponda a dicho régimen.\n\nLos socios de sociedades de cualquier tipo, menores de cincuenta y cinco (55) años, que no se encuentren incluidos obligatoriamente en los incisos a) o b) del artículo 2 de la Ley N. 24.241.\n\n2. Categoría mínima para todas las actividades:\n\n3. Códigos de Actividad.\n\n   ACTIVIDAD                          CODIGO   AMAS DE CASA                         090   DIREC. DE CONSEJOS DE ADMINISTRACION 050   MIEMBROS DEL CLERO                   080   TITULARES DE CONDOMINIOS Y   SUCESIONES                           070   RENTISTAS                            020   OTROS AFILIADOS VOLUNTARIOS          100"
+          },
+          {
+            "numero-articulo": 7,
+            "texto": "TABLA VII  Afiliaciones diferenciales.\n\n1. Personas comprendidas.\n\nPropietarios de autos de alquiler, taxistas no propietarios que no se encuentren vinculados a través de  una relación  de  dependencia ni subordinación económica, transportistas  de  carga  unipersonales o  socios  de sociedades de  hecho  que realicen tal actividad.\n\n2. Categorías mínimas:\n\n2.1. Propietarios autos alquiler.\n\n Sin personal o con hasta 3 trabajadores ocupados:       B' De 4 a 6 trabajadores ocupados:                         C' De 7 a 10 trabajadores ocupados:                        D' Más de 10 trabajadores  ocupados:                       E'  2.2  Taxistas  no propietarios que no se  encuentren  vinculados a través de una relación de dependencia ni subordinación económica.\n\n2.3 Transportistas  de  carga  unipersonales  o sociedades de hecho que realizan tal actividad.\n\n Sin personal o con hasta 3 trabajadores ocupados.      B'  De 4 a 6 trabajadores ocupados                         C' De 7 a 10 trabajadores ocupados                        D' Más de 10 trabajadores ocupados                        E'  Los socios de sociedades de hecho se encuadran en la categoría que les corresponda, considerando a tal fin como cantidad de trabajadores ocupados, la que resulte de dividir la totalidad de dependientes de la sociedad por el número de socios. Si de dicha operacion aritmética surgieran decimales, éstos serán despreciados, salvo cuando el resultado sea inferior a UNO (1), en cuyo caso se considerar UN (1) trabajador ocupado.\n\n2.4 NOTA DE REDACCION: Derogado por art. 1 del Dec. 701/97.\n\n*3. Códigos de actividad  ACTIVIDAD                              CODIGO  Propietarios de autos de alquiler y taxistas  no propietarios que no se encuentren  vinculados a través de una relación de dependencia ni subordinación económica                          907 Transportistas de carga unipersonales o socios de  sociedades de hecho que realicen tal actividad      909"
+          }
+        ]
+      },
+      "id-infojus": "DN19940000433"
+    }
+  }
+}

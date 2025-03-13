@@ -1,0 +1,584 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g56-94000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1476727834576,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "26058-nacional-ley-educacion-tecnico-profesional-lns0004965-2005-09-07"
+      }
+    },
+    "content": {
+      "mecanografico": "S0004965",
+      "numero-norma": 26058,
+      "timestamp": "2016-10-17T14:15:46",
+      "timestamp-m": "2016-10-17T14:15:46",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "2005-09-07",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 026058 2005 09 07",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 26.058",
+          "BUENSO AIRES, 7 DE SEPTIEMBRE DE 2005"
+        ]
+      },
+      "titulo-norma": "LEY DE EDUCACION TECNICO PROFESIONAL.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2005 09 09"
+        }
+      },
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "LEY 26.058",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2005-09-09",
+      "fecha-mod": "2016-10-17",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EDUCACION-EDUCACION TECNICA-EDUCACION MEDIA-EDUCACION SUPERIOR-CONSEJO NACIONAL DE EDUCACION, TRABAJO Y PRODUCCION-COMISION FEDERAL DE EDUCACION TECNICO PROFESIONAL-FONDO NACIONAL PARA LA EDUCACION TECNICO PROFESIONAL-EDUCACION TECNICO PROFESIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "ley de educación técnico profesional"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/modalidades educativas/educación técnica/ley de educación técnico profesional"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuela técnica",
+                "Educación y Cultura",
+                "formación técnica",
+                "enseñanza técnica",
+                "educación técnico profesional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación"
+            },
+            "sinonimos": {
+              "termino": "Educación y Cultura"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación técnica"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/modalidades educativas/educación técnica"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "escuela técnica",
+                "formación técnica",
+                "enseñanza técnica",
+                "educación técnico profesional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación media"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos/educación secundaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "nivel secundario",
+                "enseñanza secundaria",
+                "escuela secundaria",
+                "colegio secundario",
+                "Educación y Cultura",
+                "educación media",
+                "enseñanza media"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación superior"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos/educación superior"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "enseñanza superior",
+                "nivel terciario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Consejo Nacional de Educación, Trabajo y Producción"
+            },
+            "preferido": {
+              "termino": "Consejo Nacional de Educación, Trabajo y Producción"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Comisión Federal de Educación Técnico Profesional"
+            },
+            "preferido": {
+              "termino": "Comisión Federal de Educación Técnico Profesional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Fondo Nacional para la Educación Técnico Profesional"
+            },
+            "preferido": {
+              "termino": "Fondo Nacional para la Educación Técnico Profesional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "educación técnico profesional"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/modalidades educativas/educación técnica"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "escuela técnica",
+                "formación técnica",
+                "enseñanza técnica",
+                "educación técnico profesional"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "educación media (educación secundaria)",
+            "Comisión Federal de Educación Técnico Profesional",
+            "educación técnico profesional (educación técnica)",
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "educación secundaria",
+            "enseñanza superior (educación superior)",
+            "enseñanza técnica (educación técnica)",
+            "nivel terciario (educación superior)",
+            "colegio secundario (educación secundaria)",
+            "escuela técnica (educación técnica)",
+            "Consejo Nacional de Educación, Trabajo y Producción",
+            "nivel secundario (educación secundaria)",
+            "educación",
+            "escuela secundaria (educación secundaria)",
+            "modalidades educativas",
+            "educación superior",
+            "formación técnica (educación técnica)",
+            "ley de educación técnico profesional",
+            "niveles educativos",
+            "Fondo Nacional para la Educación Técnico Profesional",
+            "enseñanza secundaria (educación secundaria)",
+            "educación técnica",
+            "enseñanza media (educación secundaria)"
+          ]
+        }
+      },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 57",
+        "informacion-vinculada": 1E+19
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO I OBJETO, ALCANCES Y AMBITO DE APLICACION",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "ARTICULO 1º - La presente ley tiene por objeto regular y ordenar la Educación Técnico Profesional en el nivel medio y superior no universitario del Sistema Educativo Nacional y la Formación Profesional."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "ARTICULO 2º - Esta ley se aplica en toda la Nación en su conjunto, respetando los criterios federales, las diversidades regionales y articulando la educación formal y no formal, la formación general y la profesional en el marco de la educación continua y permanente."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "ARTICULO 3º - La Educación Técnico Profesional, es un derecho de todo habitante de la Nación Argentina, que se hace efectivo a través de procesos educativos, sistemáticos y permanentes.\n\nComo servicio educativo profesionalizante comprende la formación ética, ciudadana, humanístico general, científica, técnica y tecnológica."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "ARTICULO 4º - La Educación Técnico Profesional promueve en las personas el aprendizaje de capacidades, conocimientos, habilidades, destrezas, valores y actitudes relacionadas con desempeños profesionales y criterios de profesionalidad propios del contexto socio-productivo, que permitan conocer la realidad a partir de la reflexión sistemática sobre la práctica y la aplicación sistematizada de la teoría."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "ARTICULO 5º - La Educación Técnico Profesional abarca, articula e integra los diversos tipos de instituciones y programas de educación para y en el trabajo, que especializan y organizan sus propuestas formativas según capacidades, conocimientos científico-tecnológicos y saberes profesionales."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO II FINES, OBJETIVOS Y PROPOSITOS",
+          "articulo": [
+            {
+              "numero-articulo": 6,
+              "texto": "ARTICULO 6º - La Ley de Educación Técnico Profesional tiene como propios los siguientes fines y objetivos:\n\na) Estructurar una política nacional y federal, integral, jerarquizada y armónica en la consolidación de la Educación Técnico Profesional.\n\nb) Generar mecanismos, instrumentos y procedimientos para el ordenamiento y la regulación de la Educación Técnico Profesional.\n\nc) Desarrollar oportunidades de formación específica propia de la profesión u ocupación abordada y prácticas profesionalizantes dentro del campo ocupacional elegido.\n\nd) Mejorar y fortalecer las instituciones y los programas de educación técnico profesional en el marco de políticas nacionales y estrategias de carácter federal que integren las particularidades y diversidades jurisdiccionales.\n\ne) Favorecer el reconocimiento y certificación de saberes y capacidades así como la reinserción voluntaria en la educación formal y la prosecución de estudios regulares en los diferentes niveles y modalidades del Sistema Educativo.\n\nf) Favorecer niveles crecientes de equidad, calidad, eficiencia y efectividad de la Educación Técnico Profesional, como elemento clave de las estrategias de inclusión social, de desarrollo y crecimiento socio-económico del país y sus regiones, de innovación tecnológica y de promoción del trabajo docente.\n\ng) Articular las instituciones y los programas de Educación Técnico Profesional con los ámbitos de la ciencia, la tecnología, la producción y el trabajo.\n\nh) Regular la vinculación entre el sector productivo y la Educación Técnico Profesional.\n\ni) Promover y desarrollar la cultura del trabajo y la producción para el desarrollo sustentable.\n\nj) Crear conciencia sobre el pleno ejercicio de los derechos laborales."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "ARTICULO 7º - La Educación Técnico Profesional en el nivel medio y superior no universitario tiene como propósitos específicos:\n\na) Formar técnicos medios y técnicos superiores en áreas ocupacionales específicas, cuya complejidad requiera la disposición de competencias profesionales que se desarrollan a través de procesos sistemáticos y prolongados de formación para generar en las personas capacidades profesionales que son la base de esas competencias.\n\nb) Contribuir al desarrollo integral de los alumnos y las alumnas, y a proporcionarles condiciones para el crecimiento personal, laboral y comunitario, en el marco de una educación técnico profesional continua y permanente.\n\nc) Desarrollar procesos sistemáticos de formación que articulen el estudio y el trabajo, la investigación y la producción, la complementación teórico- práctico en la formación, la formación ciudadana, la humanística general y la relacionada con campos profesionales específicos.\n\nd) Desarrollar trayectorias de profesionalización que garanticen a los alumnos y alumnas el acceso a una base de capacidades profesionales y saberes que les permita su inserción en el mundo del trabajo, así como continuar aprendiendo durante toda su vida."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "ARTICULO 8º - La formación profesional tiene como propósitos específicos preparar, actualizar y desarrollar las capacidades de las personas para el trabajo, cualquiera sea su situación educativa inicial, a través de procesos que aseguren la adquisición de conocimientos científico-tecnológicos y el dominio de las competencias básicas, profesionales y sociales requerido por una o varias ocupaciones definidas en un campo ocupacional amplio, con inserción en el ámbito económico-productivo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO III ORDENAMIENTO Y REGULACION DE LA EDUCACION TECNICO PROFESIONAL",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DE LAS INSTITUCIONES DE EDUCACION TECNICO PROFESIONAL",
+              "articulo": [
+                {
+                  "numero-articulo": 9,
+                  "texto": "ARTICULO 9º - Están comprendidas dentro de la presente ley las instituciones del Sistema Educativo Nacional que brindan educación técnico profesional, de carácter nacional, jurisdiccional y municipal, ya sean ellas de gestión estatal o privada; de nivel medio y superior no universitario y de formación profesional incorporadas en el Registro Federal de Instituciones de Educación Técnico Profesional, a saber:\n\na) Instituciones de educación técnico profesional de nivel medio.\n\nb) Instituciones de educación técnico profesional de nivel superior no universitario.\n\nc) Instituciones de formación profesional. Centros de formación profesional, escuelas de capacitación laboral, centros de educación agraria, misiones monotécnicas, escuelas de artes y oficios, escuelas de adultos con formación profesional, o equivalentes."
+                },
+                {
+                  "numero-articulo": 10,
+                  "texto": "ARTICULO 10. - Las instituciones que brindan educación técnico profesional, en el marco de las normas específicas establecidas por las autoridades educativas jurisdiccionales competentes, se orientarán a:\n\na) Impulsar modelos innovadores de gestión que incorporen criterios de calidad y equidad para la adecuación y el cumplimiento a nivel institucional de los objetivos y propósitos de esta ley. b) Desarrollar modalidades regulares y sistemáticas de evaluación institucional.\n\nc) Ejecutar las estrategias para atender las necesidades socio-educativas de distintos grupos sociales establecidas en los programas nacionales y jurisdiccionales, y desarrollar sus propias iniciativas con el mismo fin.\n\nd) Establecer sistemas de convivencia basados en la solidaridad, la cooperación y el diálogo con la participación de todos los integrantes de la comunidad educativa.\n\ne) Contemplar la constitución de cuerpos consultivos o colegiados donde estén representadas las comunidades educativas y socio-productivas.\n\nf) Generar proyectos educativos que propicien, en el marco de la actividad educativa, la producción de bienes y servicios, con la participación de alumnos y docentes en talleres, laboratorios u otras modalidades pedagógico-productivas."
+                },
+                {
+                  "numero-articulo": 11,
+                  "texto": "ARTICULO 11. - Las jurisdicciones educativas tendrán a su cargo los mecanismos que posibiliten el tránsito entre la educación técnico profesional y el resto de la educación formal, así como entre los distintos ambientes de aprendizaje de la escuela y del trabajo."
+                },
+                {
+                  "numero-articulo": 12,
+                  "texto": "ARTICULO 12. - La educación técnico profesional de nivel superior no universitario será brindada por las instituciones indicadas en el artículo 9º y permitirá iniciar así como continuar itinerarios profesionalizantes. Para ello, contemplará: la diversificación, a través de una formación inicial relativa a un amplio espectro ocupacional como continuidad de la educación adquirida en el nivel educativo anterior, y la especialización, con el propósito de profundizar la formación alcanzada en la educación técnico profesional de nivel medio."
+                },
+                {
+                  "numero-articulo": 13,
+                  "texto": "ARTICULO 13. - Las instituciones de educación técnico profesional de nivel medio y nivel superior no universitario estarán facultadas para implementar programas de formación profesional continua en su campo de especialización."
+                },
+                {
+                  "numero-articulo": 14,
+                  "texto": "ARTICULO 14. - Las autoridades educativas de las jurisdicciones promoverán convenios que las instituciones de educación técnico profesional puedan suscribir con las Organizaciones No Gubernamentales, empresas, empresas recuperadas, cooperativas, emprendimientos productivos desarrollados en el marco de los planes de promoción de empleo y fomento de los micro emprendimientos, sindicatos, universidades nacionales, Institutos Nacionales de la Industria y del Agro, la Secretaría de Ciencia y Tecnología, la Comisión Nacional de Energía Atómica, los institutos de formación docente, otros organismos del Estado con competencia en el desarrollo científico-tecnológico, tendientes a cumplimentar los objetivos estipulados en la presente  ley. El Poder Ejecutivo reglamentará los mecanismos adecuados para encuadrar las responsabilidades emergentes de los convenios."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LA VINCULACION ENTRE LAS INSTITUCIONES EDUCATIVAS Y EL SECTOR PRODUCTIVO",
+              "articulo": [
+                {
+                  "numero-articulo": 15,
+                  "texto": "ARTICULO 15. - El sector empresario, previa firma de convenios de colaboración con las autoridades educativas, en función del tamaño de su empresa y su capacidad operativa favorecerá la realización de prácticas educativas tanto en sus propios establecimientos como en los establecimientos educativos, poniendo a disposición de las escuelas y de los docentes tecnologías e insumos adecuados para la formación de los alumnos y alumnas. Estos convenios incluirán programas de actualización continua para los docentes involucrados."
+                },
+                {
+                  "numero-articulo": 16,
+                  "texto": "ARTICULO 16. - Cuando las prácticas educativas se realicen en la propia empresa, se garantizará la seguridad de los alumnos y la auditoría, dirección y control a cargo de los docentes, por tratarse de procesos de aprendizaje y no de producción a favor de los intereses económicos que pudieran caber a las empresas. En ningún caso los alumnos sustituirán, competirán o tomarán el lugar de los trabajadores de la empresa."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO III DE LA FORMACION PROFESIONAL",
+              "articulo": [
+                {
+                  "numero-articulo": 17,
+                  "texto": "ARTICULO 17. - La formación profesional es el conjunto de acciones cuyo propósito es la formación socio-laboral para y en el trabajo, dirigida tanto a la adquisición y mejora de las cualificaciones como a la recualificación de los trabajadores, y que permite compatibilizar la promoción social, profesional y personal con la productividad de la economía nacional, regional y local. También incluye la especialización y profundización de conocimientos y capacidades en los niveles superiores de la educación formal."
+                },
+                {
+                  "numero-articulo": 18,
+                  "texto": "ARTICULO 18. - La formación profesional admite formas de ingreso y de desarrollo diferenciadas de los requisitos académicos propios de los niveles y ciclos de la educación formal."
+                },
+                {
+                  "numero-articulo": 19,
+                  "texto": "ARTICULO 19. - Las ofertas de formación profesional podrán contemplar la articulación con programas de alfabetización o de terminalidad de los niveles y ciclos comprendidos en la escolaridad obligatoria y post-obligatoria."
+                },
+                {
+                  "numero-articulo": 20,
+                  "texto": "ARTICULO 20. - Las instituciones educativas y los cursos de formación profesional certificados por el Registro Federal de Instituciones de Educación Técnico Profesional y el Catálogo Nacional de Títulos y Certificaciones podrán ser reconocidos en la educación formal."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO IV DEFINICION DE OFERTAS FORMATIVAS",
+              "articulo": [
+                {
+                  "numero-articulo": 21,
+                  "texto": "ARTICULO 21. - Las ofertas de educación técnico profesional se estructurarán utilizando como referencia perfiles profesionales en el marco de familias profesionales para los distintos sectores de actividad socio productivo, elaboradas por el INET en el marco de los procesos de consulta que resulten pertinentes a nivel nacional y jurisdiccional."
+                },
+                {
+                  "numero-articulo": 22,
+                  "texto": "ARTICULO 22. - El Consejo Federal de Cultura y Educación aprobará para las carreras técnicas de nivel medio y de nivel superior no universitario y para la formación profesional, los criterios básicos y los parámetros mínimos referidos a: perfil profesional, alcance de los títulos y certificaciones y estructuras curriculares, en lo relativo a la formación general, científico-tecnológica, técnica específica y prácticas profesionalizantes y a las cargas horarias mínimas. Estos criterios se constituirán en el marco de referencia para los procesos de homologación de títulos y certificaciones de educación técnico profesional y para la estructuración de ofertas formativas o planes de estudio que pretendan para sí el reconocimiento de validez nacional por parte del Ministerio de Educación, Ciencia y Tecnología."
+                },
+                {
+                  "numero-articulo": 23,
+                  "texto": "ARTICULO 23. - Los diseños curriculares de las ofertas de educación técnico profesional que se correspondan con profesiones cuyo ejercicio pudiera poner en riesgo de modo directo la salud, la seguridad, los derechos o los bienes de los habitantes deberán, además, atender a las regulaciones de los distintos ejercicios profesionales y sus habilitaciones profesionales vigentes cuando las hubiere reconocidas por el Estado nacional."
+                },
+                {
+                  "numero-articulo": 24,
+                  "texto": "ARTICULO 24. - Los planes de estudio de la Educación Técnico Profesional de nivel medio, tendrán una duración mínima de seis (6) años. Estos se estructurarán según los criterios organizativos adoptados por cada jurisdicción y resguardando la calidad de tal Servicio Educativo Profesionalizante."
+                },
+                {
+                  "numero-articulo": 25,
+                  "texto": "ARTICULO 25. - Las autoridades educativas jurisdiccionales, sobre la base de los criterios básicos y parámetros mínimos establecidos en los  artículos anteriores, formularán sus planes de estudio y establecerán la organización curricular adecuada para su desarrollo, fijando los requisitos de ingreso, la cantidad de años horas anuales de cada oferta de educación técnico profesional de nivel medio o superior no universitario y la carga horaria total de las ofertas de formación profesional."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO V TITULOS Y CERTIFICACIONES",
+              "articulo": [
+                {
+                  "numero-articulo": 26,
+                  "texto": "ARTICULO 26. - Las autoridades educativas jurisdiccionales en función de los planes de estudios que aprueben, fijarán los alcances de la habilitación profesional correspondiente y el Ministerio de Educación, Ciencia y Tecnología otorgará la validez nacional y la consiguiente habilitación profesional de los títulos, en el marco de los acuerdos alcanzados en el Consejo Federal de Cultura y Educación."
+                },
+                {
+                  "numero-articulo": 27,
+                  "texto": "ARTICULO 27. - El Consejo Federal de Cultura y Educación acordará los niveles de cualificación como marco dentro del cual se garantizará el derecho de cada trabajador a la evaluación, reconocimiento y certificación de los saberes y capacidades adquiridos en el trabajo o por medio de modalidades educativas formales o no formales."
+                },
+                {
+                  "numero-articulo": 28,
+                  "texto": "ARTICULO 28. - Las autoridades educativas de las jurisdicciones organizarán la evaluación y certificación de los saberes y las capacidades adquiridas según los niveles de cualificación establecidos por el Consejo Federal de Cultura y Educación."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IV MEJORA CONTINUA DE LA CALIDAD DE LA EDUCACION TECNICO PROFESIONAL",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DE LOS DOCENTES Y RECURSOS",
+              "articulo": [
+                {
+                  "numero-articulo": 29,
+                  "texto": "ARTICULO 29. - El Ministerio de Educación, Ciencia y Tecnología concertará en el Consejo Federal de Cultura y Educación la implementación de programas federales de formación continua que aseguren resultados igualmente calificados para todas las especialidades, que actualicen la formación de los equipos directivos y docentes de las instituciones de educación técnico profesional, y que promuevan la pertinencia social, educativa y productiva de dichas instituciones."
+                },
+                {
+                  "numero-articulo": 30,
+                  "texto": "ARTICULO 30. - El Ministerio de Educación, Ciencia y Tecnología concertará en el Consejo Federal de Cultura y Educación la implementación de modalidades para que:\n\ni) los profesionales de nivel superior universitario o no universitario egresados en campos afines a las diferentes ofertas de educación técnico profesional, puedan realizar estudios pedagógicos -en instituciones de educación superior universitaria o no universitaria- que califiquen su ingreso y promoción en la carrera docente;\n\nii) los egresados de carreras técnico profesionales de nivel medio que se desempeñen en instituciones del mismo nivel, reciban actualización técnico científica y formación pedagógica, que califiquen su carrera docente."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II DEL EQUIPAMIENTO",
+              "articulo": {
+                "numero-articulo": 31,
+                "texto": "ARTICULO 31. - El Ministerio de Educación, Ciencia y Tecnología, a través del Instituto Nacional de Educación Tecnológica y con participación jurisdiccional, en forma gradual, continua y estable, asegurará niveles adecuados de equipamiento para talleres, laboratorios, entornos virtuales de aprendizaje u otros, de modo que permitan acceder a saberes científico técnicos - tecnológicos actualizados y relevantes y desarrollar las prácticas profesionalizantes o productivas en las instituciones de educación técnico profesional."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO III DEL ORDENAMIENTO Y ORGANIZACION DEL SERVICIO EDUCATIVO",
+              "articulo": [
+                {
+                  "numero-articulo": 32,
+                  "texto": "ARTICULO 32. - En función de la mejora continua de la calidad de la educación técnico profesional créase, en el ámbito del Instituto Nacional de Educación Tecnológica, el Registro Federal de Instituciones de Educación Técnico Profesional y el Catálogo Nacional de Títulos y Certificaciones y establécese el proceso de la Homologación de Títulos y Certificaciones. Dichos instrumentos, en forma combinada, permitirán:\n\na) Garantizar el derecho de los estudiantes y de los egresados a la formación y al reconocimiento, en todo el territorio nacional, de estudios, certificaciones y títulos de calidad equivalente.\n\nb) Definir los diferentes ámbitos institucionales y los distintos niveles de certificación y titulación de la educación técnico profesional.\n\nc) Propiciar la articulación entre los distintos ámbitos y niveles de la educación técnico-profesional.\n\nd) Orientar la definición y el desarrollo de programas federales para el fortalecimiento y mejora de las instituciones de educación técnico profesional."
+                },
+                {
+                  "numero-articulo": 33,
+                  "texto": "ARTICULO 33. - El Ministerio de Educación, Ciencia y Tecnología, a través del Instituto Nacional de Educación Tecnológica y con participación jurisdiccional, tendrá a su cargo la administración del Registro Federal de Instituciones de Educación Técnico Profesional, del Catálogo Nacional de Títulos y Certificaciones y del proceso de Homologación de Títulos y Certificaciones."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO IV REGISTRO FEDERAL DE INSTITUCIONES DE EDUCACION TECNICO PROFESIONAL",
+              "articulo": [
+                {
+                  "numero-articulo": 34,
+                  "texto": "ARTICULO 34. - El Registro Federal de Instituciones de Educación Técnico Profesional es la instancia de inscripción de las instituciones que pueden emitir títulos y certificaciones de Educación Técnico Profesional. Estará integrado por las instituciones de Educación Técnico Profesional que incorporen las jurisdicciones, conforme a la regulación reglamentaria correspondiente.\n\nLa información de este registro permitirá:\n\ni) diagnosticar, planificar y llevar a cabo planes de mejora que se apliquen con prioridad a aquellas escuelas que demanden un mayor esfuerzo de reconstrucción y desarrollo;\n\nii) fortalecer a aquellas instituciones que se puedan preparar como centros de referencia en su especialidad técnica; y iii) alcanzar en todas las instituciones incorporadas los criterios y parámetros de calidad de la educación técnico profesional acordados por el Consejo Federal de Cultura y Educación."
+                },
+                {
+                  "numero-articulo": 35,
+                  "texto": "ARTICULO 35. - El Ministerio de Educación, Ciencia y Tecnología, a través del Instituto Nacional de Educación Tecnológica y con participación jurisdiccional, implementará para las instituciones incorporadas al Registro Federal de Instituciones de Educación Técnico Profesional programas de fortalecimiento institucional, los cuales contemplarán aspectos relativos a formación docente continua, asistencia técnica y financiera."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO V CATALOGO NACIONAL DE TITULOS Y CERTIFICACIONES",
+              "articulo": [
+                {
+                  "numero-articulo": 36,
+                  "texto": "ARTICULO 36. - El Catálogo Nacional de Títulos y Certificaciones, organizado en función de las familias y perfiles profesionales adoptadas para la definición de las ofertas formativas según el artículo 22 de la presente, es la nómina exclusiva y excluyente de los títulos y/o certificaciones profesionales y sus propuestas curriculares que cumplen con las especificaciones reguladas por la presente ley para la educación técnico profesional. Sus propósitos son evitar la duplicación de titulaciones y certificaciones referidas a un mismo perfil profesional, y evitar que una misma titulación o certificación posean desarrollos curriculares diversos que no cumplan con los criterios mínimos de homologación, establecidos por el Consejo Federal de Cultura y Educación."
+                },
+                {
+                  "numero-articulo": 37,
+                  "texto": "ARTICULO 37. - El Ministerio de Educación, Ciencia y Tecnología, a través del Instituto Nacional de Educación Tecnológica, garantizará que dicho catálogo actúe como un servicio permanente de información actualizada sobre certificaciones y títulos y sus correspondientes ofertas formativas."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO VI HOMOLOGACION DE TITULOS Y CERTIFICACIONES",
+              "articulo": [
+                {
+                  "numero-articulo": 38,
+                  "texto": "ARTICULO 38. - Los títulos de técnicos medios y técnicos superiores no universitarios y las certificaciones de formación profesional podrán ser homologados en el orden nacional a partir de los criterios y estándares de homologación acordados y definidos por el Consejo Federal de Cultura y Educación, los cuales deberán contemplar aspectos referidos a: perfil profesional y trayectorias formativas."
+                },
+                {
+                  "numero-articulo": 39,
+                  "texto": "ARTICULO 39. - El Ministerio de Educación, Ciencia y Tecnología, a través del Instituto Nacional de Educación Tecnológica y con participación jurisdiccional, garantizará el desarrollo de los marcos y el proceso de homologación para los diferentes títulos y/o certificaciones profesionales para ser aprobados por el Consejo Federal de Cultura y Educación."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO VII DE LA IGUALDAD DE OPORTUNIDADES",
+              "articulo": {
+                "numero-articulo": 40,
+                "texto": "ARTICULO 40. - El Ministerio de Educación, Ciencia y Tecnología implementará acciones específicas para garantizar el acceso, permanencia y completamiento de los trayectos formativos en la educación técnico profesional, para los jóvenes en situación de riesgo social o con dificultades de aprendizaje. Dichas acciones incluirán como mínimo los siguientes componentes:\n\ni) Materiales o becas específicas para solventar los gastos adicionales de escolaridad para esta población, en lo que respecta a insumos, alimentación y traslados;\n\nii) Sistemas de tutorías y apoyos docentes extraclase para nivelar saberes, preparar exámenes y atender las necesidades pedagógicas particulares de estos jóvenes. Asimismo, se ejecutarán una línea de acción para promover la incorporación de mujeres como alumnas en la educación técnico profesional en sus distintas modalidades, impulsando campañas de comunicación, financiando adecuaciones edilicias y regulando las adaptaciones curriculares correspondientes, y toda otra acción que se considere necesaria para la expansión de las oportunidades educativas de las mujeres en relación con la educación técnico profesional."
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO V DEL GOBIERNO Y ADMINISTRACION DE LA EDUCACION TECNICO PROFESIONAL",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I DISPOSICIONES GENERALES",
+              "articulo": {
+                "numero-articulo": 41,
+                "texto": "ARTICULO 41. - El gobierno y administración de la Educación Técnico Profesional, es una responsabilidad concurrente y concertada del Poder Ejecutivo nacional, de los Poderes Ejecutivos de las provincias y del Gobierno de la Ciudad Autónoma de Buenos Aires, en orden a los principios de unidad nacional, democratización, autonomía jurisdiccional y federalización, participación, equidad, intersectorialidad, articulación e innovación y eficiencia."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO II DE LAS FUNCIONES DEL MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA",
+              "articulo": {
+                "numero-articulo": 42,
+                "texto": "ARTICULO 42. - El Ministerio de Educación, Ciencia y Tecnología, deberá establecer con el acuerdo del Consejo Federal de Cultura y Educación:\n\na) La normativa general de la educación técnico profesional dentro del marco de la presente ley, con el consenso y la participación de los actores sociales.\n\nb) Los criterios y parámetros de calidad hacia los cuales se orientarán las instituciones que integren el Registro Federal de Instituciones de Educación Técnico Profesional.\n\nc) La nómina de títulos técnicos medios y técnicos superiores y de certificaciones de formación profesional que integrarán el Catálogo Nacional de Títulos y Certificaciones.\n\nd) Los criterios y estándares para la homologación de los títulos técnicos medios y técnicos superiores y de certificaciones de formación profesional.\n\ne) Los niveles de cualificación referidos en el  artículo 27."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO III DEL CONSEJO FEDERAL DE CULTURA Y EDUCACION",
+              "articulo": {
+                "numero-articulo": 43,
+                "texto": "ARTICULO 43. - El Consejo Federal de Cultura y Educación tendrá las siguientes funciones y responsabilidades:\n\na) Acordar los procedimientos para la creación, modificación y/o actualización de ofertas de educación técnico profesional.\n\nb) Acordar los perfiles y las estructuras curriculares, y el alcance de los títulos y certificaciones relativos a la formación de técnicos medios y técnicos superiores no universitarios y a la formación profesional.\n\nc) Acordar los criterios y parámetros de calidad hacia los cuales se orientarán las instituciones que integren el Registro Federal de Instituciones de Educación Técnico Profesional y los criterios y parámetros para la homologación de los títulos técnicos medios y técnicos superiores no universitarios y de las certificaciones de formación profesional.\n\nd) Acordar los procedimientos de gestión del Fondo Nacional para la Educación Técnico Profesional y los parámetros para la distribución jurisdiccional."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO IV DE LAS AUTORIDADES JURISDICCIONALES",
+              "articulo": {
+                "numero-articulo": 44,
+                "texto": "ARTICULO 44. - Las autoridades jurisdiccionales tendrán las siguientes atribuciones:\n\na) Establecer el marco normativo y planificar, organizar y administrar la educación técnico profesional en las respectivas jurisdicciones, en el marco de los acuerdos alcanzados en el seno del Consejo Federal de Cultura y Educación.\n\nb) Generar los mecanismos para la creación de consejos provinciales, regionales y/o locales de Educación, Trabajo y Producción como espacios de participación en la formulación de las políticas y estrategias jurisdiccionales en materia de educación técnico profesional.\n\nc) Participar en la determinación de las inversiones en equipamiento, mantenimiento de equipos, insumos de operación y desarrollo de proyectos institucionales para el aprovechamiento integral de los recursos recibidos para las instituciones de Educación Técnico Profesional, financiadas con el Fondo establecido por la presente  ley en su artículo 52."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO V DEL INSTITUTO NACIONAL DE EDUCACION TECNOLOGICA",
+              "articulo": {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 022317 1980 10 31 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 45,
+                "texto": "ARTICULO 45. - Reconócese en el ámbito del Ministerio de Educación, Ciencia y Tecnología al Instituto Nacional de Educación Tecnológica para cumplir con las siguientes responsabilidades y funciones:\n\na) Determinar y proponer al Consejo Federal de Cultura y Educación las inversiones en equipamiento, mantenimiento de equipos, insumos de operación y desarrollo de proyectos institucionales para el aprovechamiento integral de los recursos recibidos para las Instituciones de Educación Técnico Profesional, financiadas con el Fondo establecido por la presente ley en su artículo 52.\n\nb) Promover la calidad de la educación técnicoprofesional para asegurar la equidad y la adecuación permanente de la oferta educativa a las demandas sociales y productivas a través de la coordinación de programas y proyectos en acuerdo con las pautas establecidas por el Consejo Federal de Cultura y Educación. Desarrollar los instrumentos necesarios para la evaluación de la calidad de las ofertas de Educación Técnico Profesional e intervenir en la evaluación.\n\nc) Llevar a cabo el relevamiento y sistematización de las familias profesionales, los perfiles profesionales y participar y asesorar en el diseño curricular de las ofertas de Educación Técnico Profesional.\n\nd) Ejecutar en el ámbito de su pertinencia acciones de capacitación docente.\n\ne) Desarrollar y administrar el Registro Federal de Instituciones de Educación Técnico Profesional, el Catálogo Nacional de Títulos y Certificaciones y llevar a cabo el proceso de Homologación de Títulos y Certificaciones.\n\nf) Administrar el régimen de la ley 22.317 del Crédito Fiscal."
+              }
+            },
+            {
+              "titulo-particion": "CAPITULO VI DEL CONSEJO NACIONAL DE EDUCACION, TRABAJO Y PRODUCCION CREACION",
+              "articulo": [
+                {
+                  "numero-articulo": 46,
+                  "texto": "ARTICULO 46. - Créase el Consejo Nacional de Educación, Trabajo y Producción, sobre la base del Consejo Nacional de Educación - Trabajo, como órgano consultivo y propositivo en las materias y cuestiones que prevé la presente ley, cuya finalidad es asesorar al Ministro de Educación, Ciencia y Tecnología en todos los aspectos relativos al desarrollo y fortalecimiento de la educación técnico profesional. El Instituto Nacional de Educación Tecnológica del Ministerio de Educación, Ciencia y Tecnología ejercerá la Secretaría Permanente del mencionado organismo."
+                },
+                {
+                  "numero-articulo": 47,
+                  "titulo-articulo": "FUNCIONES",
+                  "texto": "ARTICULO 47. - Las funciones del Consejo Nacional de Educación, Trabajo y Producción son:\n\na) Gestionar la colaboración y conciliar los intereses de los sectores productivos y actores sociales en materia de educación técnico profesional.\n\nb) Promover la vinculación de la educación técnico profesional con el mundo laboral a través de las entidades que cada miembro representa, así como la creación de consejos provinciales de educación, trabajo y producción.\n\nc) Proponer orientaciones para la generación y aplicación de fuentes de financiamiento para el desarrollo de la educación técnico profesional.\n\nd) Asesorar en los procesos de integración regional de la educación técnico profesional, en el MERCOSUR u otros acuerdos regionales o bloques regionales que se constituyan, tanto multilaterales como bilaterales."
+                },
+                {
+                  "numero-articulo": 48,
+                  "titulo-articulo": "INTEGRACION",
+                  "texto": "ARTICULO 48. - El Consejo Nacional de Educación, Trabajo y Producción estará integrado por personalidades de destacada y reconocida actuación en temas de educación técnico profesional, producción y empleo, y en su conformación habrá representantes del Ministerio de Educación, Ciencia y Tecnología, Ministerio de Trabajo, Empleo y Seguridad Social, Ministerio de Economía y Producción, del Consejo Federal de Cultura y Educación, de las cámaras empresariales - en particular de la pequeña y mediana empresa -, de las organizaciones de los trabajadores, incluidas las entidades gremiales docentes, las entidades profesionales de técnicos, y de entidades empleadoras que brindan educación técnico profesional de gestión privada. Los miembros serán designados por el Ministro de Educación, Ciencia y Tecnología, a propuesta de los sectores mencionados, y desempeñarán sus funciones \"ad honorem\" y por tiempos limitados."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO VII COMISION FEDERAL DE EDUCACION TECNICO PROFESIONAL",
+              "articulo": [
+                {
+                  "numero-articulo": 49,
+                  "texto": "ARTICULO 49. - Créase la Comisión Federal de Educación Técnico Profesional con el propósito de garantizar los circuitos de consulta técnica para la formulación y el seguimiento de los programas federales orientados a la aplicación de la presente ley, en el marco de los acuerdos del Consejo Federal de Cultura y Educación. El Instituto Nacional de Educación Tecnológica ejercerá la coordinación de la misma. Para el seguimiento del proceso, resultados e impacto de la implementación de la presente ley, la Comisión Federal articulará:\n\ni) Con el organismo con competencia en información educativa los procedimientos para captar datos específicos de las instituciones educativas;\n\nii) Con el INDEC, los procedimientos para captar información a través de la Encuesta Permanente de Hogares sobre la inserción ocupacional según modalidad de estudios cursados."
+                },
+                {
+                  "numero-articulo": 50,
+                  "texto": "ARTICULO 50. - Esta Comisión estará integrada por los representantes de las provincias y del Gobierno de la Ciudad Autónoma de Buenos Aires, designados por las máximas autoridades jurisdiccionales respectivas, siendo sus funciones \"ad honorem\"."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO VI FINANCIAMIENTO",
+          "articulo": [
+            {
+              "numero-articulo": 51,
+              "texto": "ARTICULO 51. - Es responsabilidad indelegable del Estado asegurar el acceso a todos los ciudadanos a una educación técnico profesional de calidad. La inversión en la educación técnico profesional se atenderá con los recursos que determinen los presupuestos Nacional, Provinciales y de la Ciudad Autónoma de Buenos Aires, según corresponda."
+            },
+            {
+              "numero-articulo": 52,
+              "texto": "ARTICULO 52. - Créase el Fondo Nacional para la Educación Técnico Profesional que será financiado con un monto anual que no podrá ser inferior al CERO COMA DOS POR CIENTO (0,2%) del total de los Ingresos Corrientes previstos en el Presupuesto Anual Consolidado para el Sector Público Nacional, que se computarán en forma adicional a los recursos que el Ministerio de Educación, Ciencia y Tecnología tiene asignados a otros programas de inversión en escuelas.\n\nEste Fondo podrá incorporar aportes de personas físicas y jurídicas, así como de otras fuentes de financiamiento de origen nacional o internacional."
+            },
+            {
+              "numero-articulo": 53,
+              "texto": "ARTICULO 53. - Los parámetros para la distribución entre provincias y la Ciudad Autónoma de Buenos Aires y los procedimientos de gestión del Fondo Nacional para la Educación Técnica Profesional se acordarán en el Consejo Federal de Cultura y Educación. Los recursos se aplicarán a equipamiento, mantenimiento de equipos, insumos de operación, desarrollo de proyectos institucionales y condiciones edilicias para el aprovechamiento integral de los recursos recibidos."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 022317 1980 10 31 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 54,
+              "texto": "ARTICULO 54. - Reconócese en el ámbito del Ministerio de Educación, Ciencia y Tecnología al Instituto Nacional de Educación Tecnológica como órgano de aplicación de la Ley 22.317 y modificatorias."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO VII NORMAS TRANSITORIAS Y COMPLEMENTARIAS",
+          "articulo": [
+            {
+              "numero-articulo": 55,
+              "texto": "ARTICULO 55. - El Ministerio de Educación, Ciencia y Tecnología concertará con el Consejo Federal de Cultura y Educación, un procedimiento de transición para resguardar los derechos de los estudiantes de las instituciones de educación técnico profesional, hasta tanto se completen los procesos de ingreso al Registro Federal de Instituciones de Educación Técnico Profesional y de construcción del Catálogo Nacional de Títulos y Certificaciones."
+            },
+            {
+              "numero-articulo": 56,
+              "texto": "ARTICULO 56. - Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adecuar su legislación educativa en consonancia con la presente ley."
+            },
+            {
+              "numero-articulo": 57,
+              "texto": "ARTICULO 57. - Comuníquese al Poder Ejecutivo."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "CAMAÑO-SCIOLI-Rollano-Estrada"
+          }
+        }
+      ],
+      "id-infojus": "LNS0004965"
+    }
+  }
+}

@@ -1,0 +1,593 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g49-72000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1457459256757,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22421-nacional-proteccion-conservacion-fauna-silvestre-lns0002794-1981-03-05"
+      }
+    },
+    "content": {
+      "mecanografico": "S0002794",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": null,
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 000666 1997 07 18 0000 000 0000 000"
+        }
+      },
+      "numero-norma": 22421,
+      "timestamp": "2016-03-08T13:32:50",
+      "timestamp-m": "2016-03-08T13:32:50",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1981-03-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022421 1981 03 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.421",
+          "BUENOS AIRES, 5 DE MARZO DE 1981"
+        ]
+      },
+      "titulo-norma": "PROTECCION Y CONSERVACION DE LA FAUNA SILVESTRE.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1981 03 12"
+        }
+      },
+      "sancion": "En  uso  de  las  atribuciones  conferidas  por  el  artículo  5 del Estatuto    para    el  Proceso  de  Reorganización  Nacional,  EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.421",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2016-03-08",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 37",
+        "informacion-vinculada": 1E+19
+      },
+      "sumario": {
+        "sumario": "FAUNA-RECURSOS NATURALES-Fauna silvestre-Protección-Conservación- Repoblación-Aprovechamiento-Interés Público-ESTADO-PODER JUDICIAL- ORGANIZACION JUDICIAL-COMPETENCIA-Ambito de Aplicación-Habitantes: Obligaciones-DERECHO PROCESAL-PROCEDIMIENTO CIVIL Y COMERCIAL- Prohibiciones-ECONOMIA-COMERCIO INTERIOR-COMERCIO EXTERIOR- TRANSPORTE-Documentación:Requisitos-Permiso:Obligatoriedad- GANADERIA-SANIDAD ANIMAL-PROMOCION AGROPECUARIA-INSTITUTO-NACIONAL DE TECNOLOGIA AGROPECUARIA:Funciones-Autoridad de Aplicación:Funciones-DERECHO PENAL:Delito-Infracción-Sanción-DEROGA L. 13908"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fauna silvestre"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección de la flora y fauna silvestre"
+            },
+            "sinonimos": {
+              "termino": [
+                "conservación de la fauna",
+                "medio ambiente",
+                "protección de la fauna",
+                "flora silvestre",
+                "fauna silvestre",
+                "protección de las especies"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "productos de la fauna silvestre"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/productos de la fauna silvestre"
+            },
+            "sinonimos": {
+              "termino": [
+                "derivados de la fauna silvestre",
+                "subproductos de la fauna silvestre"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte interprovincial"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte interno"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte interjurisdiccional",
+                "transporte aéreo interno",
+                "transporte interprovincial",
+                "tráfico interjurisdiccional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impacto ambiental"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/desarrollo sustentable/impacto ambiental"
+            },
+            "sinonimos": {
+              "termino": "medio ambiente"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "hábitat"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección de la flora y fauna silvestre/hábitat"
+            },
+            "sinonimos": {
+              "termino": [
+                "conservación de la fauna",
+                "protección de la fauna",
+                "flora silvestre",
+                "medio ambiente",
+                "fauna silvestre",
+                "protección de las especies",
+                "protección del habitat"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "caza"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/caza"
+            },
+            "sinonimos": {
+              "termino": [
+                "caza comercial",
+                "caza deportiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "permisos de caza"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/caza/permisos de caza"
+            },
+            "sinonimos": {
+              "termino": [
+                "caza comercial",
+                "caza deportiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Servicio Nacional de Sanidad Animal"
+            },
+            "preferido": {
+              "termino": "Salud pública/política sanitaria/control sanitario/sanidad animal/Servicio Nacional de Sanidad Animal"
+            },
+            "sinonimos": {
+              "termino": [
+                "policía sanitaria",
+                "medidas sanitarias",
+                "SENASA",
+                "vigilancia sanitaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sanidad animal"
+            },
+            "preferido": {
+              "termino": "Salud pública/política sanitaria/control sanitario/sanidad animal"
+            },
+            "sinonimos": {
+              "termino": [
+                "policía sanitaria",
+                "medidas sanitarias",
+                "vigilancia sanitaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reservas faunísticas"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección de la flora y fauna silvestre/reservas naturales/reservas faunísticas"
+            },
+            "sinonimos": {
+              "termino": [
+                "santuarios de fauna",
+                "reservas de fauna",
+                "conservación de la fauna",
+                "protección de la fauna",
+                "flora silvestre",
+                "medio ambiente",
+                "estaciones de cría",
+                "fauna silvestre",
+                "áreas de repoblamiento",
+                "protección de las especies"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cotos de caza"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/caza/cotos de caza"
+            },
+            "sinonimos": {
+              "termino": [
+                "caza comercial",
+                "caza deportiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "especies protegidas"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección de la flora y fauna silvestre/especies protegidas"
+            },
+            "sinonimos": {
+              "termino": [
+                "especies amenazadas",
+                "especies en extinción",
+                "conservación de la fauna",
+                "especies exóticas",
+                "protección de la fauna",
+                "flora silvestre",
+                "medio ambiente",
+                "fauna silvestre",
+                "protección de las especies",
+                "especies nativas",
+                "especies autóctonas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contaminación ambiental"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección del medio ambiente/contaminación ambiental"
+            },
+            "sinonimos": {
+              "termino": [
+                "preservación del medio ambiente",
+                "medio ambiente",
+                "contaminación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "comercio ilegal de animales"
+            },
+            "preferido": {
+              "termino": "Derecho ambiental/protección de la flora y fauna silvestre/comercio ilegal de animales"
+            },
+            "sinonimos": {
+              "termino": [
+                "conservación de la fauna",
+                "protección de la fauna",
+                "flora silvestre",
+                "medio ambiente",
+                "fauna silvestre",
+                "protección de las especies"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "política sanitaria",
+            "comercio ilegal de animales",
+            "contaminación ambiental",
+            "cotos de caza",
+            "hábitat",
+            "caza deportiva (caza)",
+            "sanidad animal",
+            "productos de la fauna silvestre",
+            "transporte interno",
+            "fauna silvestre (protección de la flora y fauna silvestre)",
+            "medidas sanitarias (control sanitario)",
+            "preservación del medio ambiente (protección del medio ambiente)",
+            "medio ambiente (Derecho ambiental)",
+            "permisos de caza",
+            "transporte interprovincial (transporte interno)",
+            "contrato de transporte",
+            "Servicio Nacional de Sanidad Animal",
+            "especies exóticas (especies protegidas)",
+            "policía sanitaria (control sanitario)",
+            "caza comercial (caza)",
+            "impacto ambiental",
+            "tráfico interjurisdiccional (transporte interno)",
+            "protección de la flora y fauna silvestre",
+            "especies nativas (especies protegidas)",
+            "especies autóctonas (especies protegidas)",
+            "transporte aéreo interno (transporte interno)",
+            "reservas faunísticas",
+            "derivados de la fauna silvestre (productos de la fauna silvestre)",
+            "santuarios de fauna (reservas faunísticas)",
+            "transporte interjurisdiccional (transporte interno)",
+            "SENASA (Servicio Nacional de Sanidad Animal)",
+            "protección de las especies (protección de la flora y fauna silvestre)",
+            "protección de la fauna (protección de la flora y fauna silvestre)",
+            "control sanitario",
+            "flora silvestre (protección de la flora y fauna silvestre)",
+            "conservación de la fauna (protección de la flora y fauna silvestre)",
+            "protección del medio ambiente",
+            "Recursos naturales",
+            "subproductos de la fauna silvestre (productos de la fauna silvestre)",
+            "reservas de fauna (reservas faunísticas)",
+            "vigilancia sanitaria (control sanitario)",
+            "Salud pública",
+            "especies protegidas",
+            "especies en extinción (especies protegidas)",
+            "Derecho ambiental",
+            "Transporte",
+            "áreas de repoblamiento (reservas faunísticas)",
+            "estaciones de cría (reservas faunísticas)",
+            "especies amenazadas (especies protegidas)",
+            "contaminación (contaminación ambiental)",
+            "desarrollo sustentable",
+            "caza",
+            "protección del habitat (hábitat)",
+            "reservas naturales"
+          ]
+        }
+      },
+      "segmento": [
+        {
+          "titulo-particion": "CAPITULO I DE LA CONSERVACION DE LA FAUNA.",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "ARTICULO  1.  -  Declárase de interés público la fauna silvestre que temporal o permanentemente  habita  el  Territorio  de la República, así  como  su protección, conservación, propagación, repoblación  y aprovechamiento racional.\n\nTodos los habitantes  de  la  Nación  tienen el deber de proteger la fauna silvestre, conforme a los reglamentos que para su conservación  y manejo dicten las autoridades  de  aplicación.  Cuando el cumplimiento de este deber causare perjuicios, fehacientemente comprobados,  los  mismos  deberán ser indemnizados por la vía administrativa, por el Estado Nacional o los provinciales en sus respectivas jurisdicciones, de conformidad con las  disposiciones  que  dictarán  al  efecto  las autoridades  de aplicación.\n\nEn    jurisdicción   nacional,  en  caso  de  desestimarse  total  o parcialmente  los  reclamos    formulados,  los  interesados  podrán recurrir ante el Juez Federal competente,  interponiendo  y fundando recurso  de apelación  dentro  de  los QUINCE (15) días hábiles  de notificados en la resolución respectiva."
+            },
+            {
+              "numero-articulo": 2,
+              "informacion-vinculada": 1E+19,
+              "texto": "ARTICULO  2.  -  En  la  reglamentación y aplicación de esta ley las autoridades  deberán  respetar  el  equilibrio  entre  los  diversos beneficios económicos,  culturales,  agropecuarios,  recreativos  y estéticos que  la fauna  silvestre  aporta al hombre, pero dando en todos los casos la debida prelación a  la  conservación  de la misma como criterio rector de los actos a otorgarse."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "ARTICULO  3.  -  A  los  fines  de  esta  Ley  se entiende por fauna silvestre:\n\n1)  Los animales que viven libres e independientes  del  hombre,  en ambientes naturales o artificiales.\n\n2) Los  bravíos  o  salvajes  que  viven bajo control del hombre, en cautividad o semicautividad.\n\n3) Los originalmente domésticos que,  por  cualquier  circunstancia, vuelven  a la  vida  salvaje  convirtiéndose  en  cimarrones.  Quedan  excluídos  del  régimen  de  la  presente  Ley los  animales comprendidos  en las leyes sobre pesca. La autoridad  jurisdiccional de aplicación acordará  con  la  SECRETARIA  DE  ESTADO DE INTERESES MARITIMOS  la división  correspondiente  en  los  casos    dudosos."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "ARTICULO  4.  -  Se  ajustarán a las disposiciones de esta Ley y sus reglamentos, la caza,  hostigamiento,  captura  o destrucción de sus crías, huevos,  nidos  y  guaridas,  tenencia, posesión,  tránsito, aprovechamiento, comercio y transformación  de  la fauna silvestre y sus productos o subproductos."
+            },
+            {
+              "numero-articulo": 5,
+              "informacion-vinculada": 1E+19,
+              "texto": "ARTICULO  5. - La autoridad Nacional de aplicación podrá prohibir la importación,  introducción  y radicación de ejemplares vivos, semen, embriones, huevos para incubar  y  larvas  de  cualquier especie que puedan   alterar  el equilibrio  ecológico,  afectar    actividades económicas  o  perturbar  el cumplimiento de los fines de esta Ley."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "ARTICULO  6. - Queda prohibido dar libertad a animales silvestres en cautiverio,  cualquiera  fuese  la  especie o los fines perseguidos, sin la previa conformidad de la autoridad  de aplicación, nacional o provincial según corresponda."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "ARTICULO  7.  -  Queda  igualmente  prohibido  introducir  desde  el exterior productos y subproductos, manufacturados o no, de aquellas especies de  la fauna  silvestre  autóctona  cuya  caza,  comercio, tenencia,  posesión  y transformación se hallen vedadas en toda  la región de su hábitat natural,  sin  permiso  previo  de la autoridad nacional de aplicación.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 25/04/2012) POR RES. 793/12 DE LA SECRETARIA DE AMBIENTE Y DESARROLLO SUSTENTABLE SE MODIFICA LA RES. 348/10 RELACIONADA CON LA CLASIFICACION DE AVES AUTOCTONAS CONFORME AL ORDENAMIENTO ESTABLECIDO EN EL DECRETO 666/97",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "RES C 000793 2012 04 16 0001 000 0000 000"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO II DEL APROVECHAMIENTO DE LA FAUNA SILVESTRE.",
+          "articulo": {
+            "numero-articulo": 8,
+            "texto": "ARTICULO 8. - Ajustándose a las disposiciones legales y reglamentarias nacionales  y  provinciales el propietario del campo podrá aprovechar la fauna silvestre  que  lo  habita  transitoria  o permanentemente,  debiendo protegerla  y  limitar  racionalmente su utilización para asegurar la conservación de la misma."
+          }
+        },
+        {
+          "titulo-particion": "CAPITULO III COMERCIO INTERPROVINCIAL E INTERNACIONAL",
+          "articulo": [
+            {
+              "numero-articulo": 9,
+              "texto": "ARTICULO 9. - A los fines del transporte y del comercio interprovincial,  el propietario, administrador, poseedor o tenedor a cualquier título legítimo  del fundo,  proveerá  al cazador de un documento  donde  conste el producto de la caza, el que  intervendrá la autoridad competente.\n\nSi por cualquier circunstancia  el  cazador no pudiere obtener dicho documento, lo solicitará a la autoridad  competente  más próxima, la que lo otorgará siempre que acredite haber cazado dentro  del  fundo con  el  debido  permiso de  las personas mencionadas en el párrafo anterior,  en  la  forma  que prescriban   los  reglamentos  de  la autoridad de aplicación."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "ARTICULO  10.  -  La  documentación  que  ampare  el transporte y el comercio internacional  o  interprovincial  de  los  productos    y subproductos  de  la fauna  silvestre,  será  uniforme  en  toda la República,  y  de acuerdo con la reglamentación que dictará el PODER EJECUTIVO NACIONAL."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "ARTICULO  11.  -  Con  la  venta  o cesión a cualquier título de los animales de caza y sus productos y  subproductos,  se  transferirán los documentos que los amparen."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "ARTICULO  12.  - Realizada cualquier transformación de los productos de  la caza  u  operaciones    de  comercio  que  requieran  nuevos documentos,  las autoridades  los  proveerán   a  sus  dueños  para acreditar legítima posesión, previa presentación  y anulación de los que amparaban el producto originario.\n\nEn  todos  los  casos,  al  ingresar  a  jurisdicción federal  o  al realizarse actos de comercio internacional  o interprovincial, estos documentos  serán presentados  por  sus  dueños ante  la  autoridad nacional de aplicación, a los fines de su fiscalización."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IV DEL AMBIENTE DE LA FAUNA SILVESTRE Y SU PROTECCION",
+          "articulo": [
+            {
+              "numero-articulo": 13,
+              "texto": "ARTICULO  13.  -  Los  estudios de factibilidad y proyectos de obras tales como desmonte,  secado  y  drenaje  de  tierras  inundables, modificaciones de cauce de  río,  construcción de diques y embalses, que  puedan causar transformaciones  en  el  ambiente  de  la  fauna silvestre,  deberán  ser consultados  previamente a las autoridades nacionales  o  provinciales competentes  en    materia   de  fauna."
+            },
+            {
+              "numero-articulo": 14,
+              "texto": "ARTICULO  14.  -  Antes de autorizar el uso de productos venenosos o tóxicos que contengan  sustancias  residuales  nocivas,  en especial los  empleados para  la  destrucción  de  aquellos invertebrados  o plantas  que  son  el alimento  natural  de determinadas  especies, deberán  ser  previamente consultadas las autoridades  nacionales  o provinciales competentes en materia de fauna silvestre."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO V DE LA CAZA.",
+          "articulo": [
+            {
+              "numero-articulo": 15,
+              "texto": "ARTICULO  15.  -  A  los efectos de esta Ley, entiéndase por Caza la acción ejercida por el  hombre,  mediante  el  uso de artes, armas y otros medios apropiados, persiguiendo o apresando  ejemplares  de la fauna    silvestre  con el  fin  de  someterlos  bajo  su  dominio, apropiárselos    como    presa, capturándolos,  dándoles  muerte  o facilitando estas acciones a terceros."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "ARTICULO  16.  -  El  PODER  EJECUTIVO  NACIONAL  y  cada Provincia, establecerán  por vía reglamentaria las limitaciones a  la  práctica de la caza por  razones de protección y conservación de las especies o de seguridad pública.\n\nSerá  requisito  indispensable    para    practicar  la  caza:  a)  Contar  con la autorización del propietario  o  administrador  o poseedor o tenedor  a  cualquier  título  legítimo  del  fundo;\n\nb)  Haber  obtenido  la  licencia correspondiente, previo examen  de capacitación. Esta licencia la expedirán las autoridades jurisdiccionales de aplicación  o  las entidades públicas o privadas en las que aquellas podrán delegar esta  función  en  la  forma  que determine  el  decreto reglamentario. Las licencias expedidas por la Nación o por las  provincias  adheridas  al régimen  de la presente Ley,  de  conformidad  con  las  disposiciones  de  la misma  y  su reglamentación,   tendrán  validez  en  todo  el  territorio  de la República. Las provincias  no  adheridas podrán celebrar convenios a tales efectos.\n\nEl PODER EJECUTIVO NACIONAL establecerá,  por vía de reglamentación, los requisitos indispensables para expedir  la licencia de caza. Las provincias conservan competencia propia para  legislar o reglamentar sobre  las  demás modalidades  relativas  al otorgamiento  de  esta licencia,  así  como también acerca de todo lo  concerniente  a  los permisos  de  caza    dentro   de  sus respectivas  jurisdicciones."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO VI DE LA SANIDAD, MANEJO Y PROMOCION DE LA FAUNA SILVESTRE",
+          "articulo": [
+            {
+              "numero-articulo": 17,
+              "texto": "ARTICULO    17.  -  El  control  sanitario  de  la  fauna  silvestre proveniente del  exterior,  y  la  que fuera objeto de comercio o de tránsito internacional  o interprovincial,  será  ejercido  por  el SERVICIO NACIONAL DE SANIDAD  ANIMAL,  de  acuerdo con las leyes que reglan su competencia y funcionamiento.\n\nEn el supuesto que la fauna silvestre tenga  por hábitat territorios provinciales, el control sanitario será ejercido  por  los servicios de las respectivas provincias, pudiendo actuar el SERVICIO  NACIONAL DE  SANIDAD ANIMAL  en  los casos en que las provincias interesadas así lo soliciten."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "ARTICULO  18.  -  El  INSTITUTO  NACIONAL DE TECNOLOGIA AGROPECUARIA realizará la investigación y extensión  para  el  manejo de la fauna silvestre, atendiendo a las necesidades señaladas por  la  autoridad nacional  de aplicación  de esta Ley y coordinando sus programas  a través  de  los CONSEJOS PROVINCIALES  DE  TECNOLOGIA  AGROPECUARIA."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "ARTICULO  19.  -  La  autoridad  nacional de aplicación y las de las provincias adheridas al régimen de  la presente Ley, deberán adoptar -con el objeto de promover la protección, conservación y aprovechamiento de la fauna silvestre- medidas para fomentar, entre otras, las siguientes actividades;\n\na)  Preferentemente el establecimiento de  reservas,  santuarios,  o criaderos de  fauna silvestre autóctona con fines conservacionistas  b) El establecimiento  de  cotos  cinegéticos  oficiales y privados, jardines zoológicos  y  reservas faunísticas con fines  deportivos, culturales y/o recreativos  turísticos,  que  podrán tener propósito de lucro.\n\nc)  La crianza en cautividad de especies silvestres,  con  fines  de explotación económica."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "ARTICULO  20.  -  En  caso  de que una especie de la fauna silvestre autóctona se halle en peligro  de  extinción  o  en  grave retroceso numérico,  el  PODER EJECUTIVO  NACIONAL deberá adoptar medidas  de emergencia  a  fin de asegurar su repoblación  y  perpetuación.  Las provincias prestarán  su  colaboración  y la autoridad de aplicación nacional  aportará  los  recursos  pertinentes, pudiendo  disponer también  la  prohibición de la caza, del comercio interprovincial  y de la exportación  de  los  ejemplares  y  productos  de  la especie amenazada."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO VII DE LAS AUTORIDADES DE APLICACION.",
+          "articulo": [
+            {
+              "numero-articulo": 21,
+              "texto": "ARTICULO  21.  - El PODER EJECUTIVO NACIONAL y los de las provincias determinarán las  autoridades  que  tendrán a su cargo la aplicación de las disposiciones de esta Ley en sus  respectivas jurisdicciones."
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "ARTICULO   22.  -  Serán  funciones  de  la  autoridad  nacional  de aplicación:\n\na) Administrar  los  fondos  destinados  al cumplimiento de esta Ley por el Presupuesto General de la Nación;\n\nb) Armonizar la protección y conservación  de la fauna silvestre con el uso y aprovechamiento de los recursos naturales  que  constituyen su medio de vida;\n\nc)  Coordinar  con  los  demás  organismos oficiales competentes  el establecimiento de normas para:\n\n1) El uso de productos químicos;\n\n2)  La  eliminación  de  desechos  industriales  y  otros  elementos perjudiciales;\n\n3) La prevención de la contaminación  o de la degradación ambiental, en grado nocivo para la vida silvestre.\n\nd) Promover, por intermedio de instituciones  oficiales  o privadas, la preparación de profesionales especializados en la administración y manejo  de la  fauna  silvestre,  técnicos  guarda  faunas, guías cinegéticos, inspectores y todo otro personal necesario  a los fines de esta Ley;\n\ne)  Organizar  y  mantener  actualizado  el Registro de Infractores;\n\nf) Proponer la celebración de acuerdos internacionales e interjurisdiccionales, relativos  a  la  fauna    silvestre;   g)   Cooperar  con  organismos  internacionales  interesados  en  la promoción y defensa de la fauna silvestre;\n\nh) Programar y coordinar la realización de estudios e investigaciones científicas  y técnicas sobre este recurso natural, con instituciones oficiales y privadas, nacionales e internacionales;\n\ni)  Promover  y  ejecutar,  en  coordinación    con  los  organismos competentes provinciales, la extensión y divulgación conservacionista;\n\nj)  Fiscalizar  el comercio internacional e interprovincial  de  los productos de  la fauna  silvestre  en  todo  el  territorio  de  la República;\n\nk) Fiscalizar la  importación  y  la  exportación  de  los  animales silvestres,   de  sus  productos,  subproductos  y  demás  elementos biológicos previstos por el artículo 5;\n\nl) Señalar al  INSTITUTO  NACIONAL  DE  TECNOLOGIA  AGROPECUARIA las necesidades previstas en el artículo 18.\n\nAsimismo,  la autoridad nacional de aplicación queda facultada  para otorgar subsidios  a las provincias que se adhieran al régimen de la presente ley, para contribuir  a  la instalación y funcionamiento de las áreas de protección previstas en  el  artículo 19 inciso a), así como para las tareas de investigación, conservación  y  manejo de la fauna    silvestre    autóctona  a realizarse  en  los  respectivos territorios."
+            },
+            {
+              "numero-articulo": 23,
+              "texto": "ARTICULO   23.  -  Serán  funciones  de  la  autoridad  nacional  de aplicación en los lugares sujetos a su jurisdicción exclusiva:\n\na) Ejecutar la  política  nacional  establecida  en  esta  Ley.\n\nb)  Fijar  los  programas  inherentes  a  la  fauna  silvestre.\n\nc)  Ejercer  la  administración  y  el manejo de la fauna silvestre.\n\nd)  Reglamentar  el ejercicio de las actividades  cinegéticas.  e)  Fiscalizar la posesión,  comercio,  tránsito,  transformación  y producción de  animales  de  la  fauna  silvestre,  sus  productos, subproductos y derivados, manufacturados o no."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO VIII DE LOS DELITOS Y SUS PENAS",
+          "articulo": [
+            {
+              "numero-articulo": 24,
+              "texto": "ARTICULO  24.  -  Será  reprimido con prisión de UN (1) mes a UN (1) año y con inhabilitación  especial  de  hasta  TRES (3) años, el que cazare  animales  de la  fauna  silvestre  en  campo ajeno  sin  la autorización establecida en al Artículo 16, inciso a)."
+            },
+            {
+              "numero-articulo": 25,
+              "texto": "ARTICULO  25.  -  Será  reprimido con prisión de DOS (2) meses a DOS (2) años y con inhabilitación  especial  de  hasta CINCO (5) años el que cazare animales de la fauna silvestre cuya captura o comercialización  estén  prohibidas  o vedadas  por   la  autoridad jurisdiccional de aplicación.\n\nLa  pena  será  de  CUATRO (4) meses a TRES (3) años de prisión  con inhabilitación especial  de  hasta DIEZ (10) años cuando el hecho se cometiere de modo organizado o  con  el  concurso  de TRES (3) ó más personas  o  con armas, artes o medios prohibidos por  la  autoridad jurisdiccional de aplicación."
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "ARTICULO  26.  -  Será  reprimido con prisión de DOS (2) meses a DOS (2) años y con inhabilitación  especial  de  hasta CINCO (5) años el que cazare animales de la fauna silvestre utilizando  armas, artes o medios  prohibidos  por  la autoridad jurisdiccional de aplicación."
+            },
+            {
+              "numero-articulo": 27,
+              "texto": "ARTICULO  27.  -  Las penas previstas en los artículos anteriores se aplicarán también al  que  a  sabiendas  transportare,  almacenare, comprare, vendiere, industrializare  o de cualquier modo pusiere en el  comercio  piezas, productos o subproductos  provenientes  de  la caza furtiva o de la depredación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IX DE LAS INFRACCIONES Y SANCIONES",
+          "articulo": [
+            {
+              "numero-articulo": 28,
+              "texto": "ARTICULO  28.  - Las infracciones que se cometan en violación de las disposiciones de  esta Ley y sus reglamentaciones, serán sancionadas con:\n\na) Multa de SETENTA  MIL  PESOS  ($70.000.-) a CINCUENTA MILLONES DE PESOS (50.000.000.-), la que llevará  aparejada  el  comiso  de  los animales, pieles,  cueros,  lanas,  pelos,  plumas, cuernos y demás productos, subproductos  y derivados en infracción.  En  todos  los casos  se  decomisarán las  armas  o  artes  empleadas,  cartuchos, trampas y otros instrumentos utilizados  para cometer la infracción.\n\nEl  destino de los animales y objetos decomisados  será  establecido en las disposiciones reglamentarias.\n\nb) Suspensión  de  UN  (1)  mes  a  DOS (2) años o cancelación de la licencia de  caza  deportiva,  sanciones  que  serán  graduadas  de acuerdo a la naturaleza y gravedad  de  la  infracción, el perjuicio causado y los antecedentes del infractor.\n\nc)  Suspensión,  inhabilitación  o  clausura  de  los    locales   o comercios, como  asimismo  suspensión o cancelación de licencias de caza comercial. En todos los  casos  podrán  ser de UN (1) año hasta CINCO  (5)  años  y  se aplicarán  sólo  a  los reincidentes.  Los montos establecidos en el inciso a) se actualizarán semestralmente  por  la SECRETARIA  DE  ESTADO  DE   AGRICULTURA  Y GANADERIA DE LA NACION, sobre la base de la variación  del Indice de los  Precios  Mayoristas  Nivel  General, elaborado por el Instituto Nacional de Estadística y Censos.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 8/1/01) INCISO A), SE FIJAN EN $300 A $500.000 EL IMPORTE DE LAS MULTAS PREVISTAS EN EL PRESENTE ARTICULO.",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 001290 2000 12 29 0001 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "ARTICULO  29.  -  Las  sanciones serán impuestas por la autoridad de aplicación,  previo sumario  que  asegure  el  derecho  de  defensa, conforme al procedimiento  que  se  fije  en cada jurisdicción.\n\nContra las decisiones administrativas que impongan  sanciones  podrá interponerse  recurso  de apelación, al solo efecto devolutivo, ante la autoridad judicial competente,  dentro  de  los CINCO (5) días de su notificación. El recurso deberá presentarse y  fundarse  ante  el órgano  que la dictó. En jurisdicción nacional conocerán del recurso las respectivas cámaras federales de apelación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO X ATRIBUCIONES DISPOSICIONES GENERALES, AMBITO DE APLICACION",
+          "articulo": [
+            {
+              "numero-articulo": 30,
+              "texto": "ARTICULO  30.  - La autoridad jurisdiccional de aplicación designará agentes públicos  investidos  con  atribuciones  para  controlar  el cumplimiento  de esta Ley, los que podrán ser honorarios o rentados.\n\nEstos agentes, en el ejercicio de sus funciones, quedan especialmente facultados para:\n\na) Sustanciar el  acta de comprobación de la infracción y proceder a su formal notificación.\n\nb) Secuestrar los instrumentos  y  objetos de la infracción así como los documentos que habiliten al infractor.\n\nc) Detener e inspeccionar vehículos.\n\nd) Inspeccionar los locales de comercio, almacenamiento, preparación, elaboración, crianza, servicios  de  transporte  y todo otro  lugar  de  acceso público,  en  donde  se  hallen  o pudieren encontrarse   animales  de  la fauna  silvestre,  sus  productos  y subproductos.\n\ne) Inspeccionar  los  campos  y  cursos  de  agua privados, moradas, casas habitaciones y domicilios, previa autorización del propietario  u  ocupante legítimo;  en  los  casos    de   negativa injustificada    o    cuando  no resultare  posible  obtener  dicha autorización, será necesaria  orden  de allanamiento  expedida  por juez competente.\n\nf)  Requerir  colaboración  de  la  fuerza  pública  toda vez que lo estime necesario.\n\ng)  Clausurar  preventivamente  los establecimientos comerciales  en que se hubiere cometido la infracción,  dando  cuenta de inmediato a la autoridad jurisdiccional de aplicación.\n\nh)  Portar  armas  y  proceder  a  la  detención  de  los  presuntos infractores, cuando realicen tareas de vigilancia como  guardafaunas dentro de reservas, estaciones o santuarios ecológicos."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "ARTICULO  31. - EL PODER EJECUTIVO NACIONAL dispondrá lo necesario a fin de hacer  conocer  a los educandos las disposiciones de esta Ley y la significación de la  protección  y  conservación  de  la  fauna silvestre en general, invitando a los gobiernos de las provincias  a hacer lo propio."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "ARTICULO  32. - EL PODER EJECUTIVO NACIONAL suscribirá convenios con las provincias   a  fin  de  uniformar  los  diversos  sistemas  de documentación local  sobre  fauna  silvestre  entre  sí y con el que rige para el comercio interprovincial y en territorio  federal;  así como  armonizar los regímenes de caza, protección y veda vigentes en el territorio de cada provincia."
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "ARTICULO 33. - EL PODER EJECUTIVO NACIONAL promoverá la concertación,  con  las autoridades  provinciales, del ejercicio de las  facultades constitucionales concurrentes  a  los  fines  de  la aplicación de esta Ley."
+            },
+            {
+              "numero-articulo": 34,
+              "texto": "ARTICULO  34.  -  Todas las disposiciones de la presente Ley regirán en los lugares sujetos  a  la  jurisdicción  exclusiva  del GOBIERNO NACIONAL, así como el comercio internacional e interprovincial  y en las  provincias  que  se adhieran  al  régimen  de la misma. En las provincias no adheridas regirán los artículos 1, 20,  24,  25, 26, y 27."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "*ARTICULO  35.  -  En los Parques Nacionales, Monumentos Naturales y Reservas Nacionales, en todo lo concerniente a la fauna silvestre, regirán la legislación específica para esas áreas y los artículos 3º, 16, inciso a), 24, 25, 26 y 27 de la presente ley.\n\nEn el ámbito de las áreas protegidas administradas por la Administración de Parques Nacionales, será exclusivamente el citado organismo, en su calidad de autoridad administrativa de aplicación, el responsable de dictar las normas complementarias y aclaratorias sobre la protección y manejo de la fauna silvestre y de establecer las prohibiciones previstas en los    artículos 25 y 26 de la presente ley.\n\nLas disposiciones de este artículo se aplicarán también en las reservas naturales estrictas y en las reservas naturales silvestres y educativas, administradas por el Estado nacional a través de la Administración de Parques Nacionales.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 9/1/2008) ARTICULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 026447 2008 12 03 0001 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 36,
+              "texto": "ARTICULO 36. - Derógase la Ley 13.908.",
+              "deroga-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "DEROGA_A_0",
+                  "ref": "LEY C 013908 1950 07 19 0000 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 37,
+              "texto": "ARTICULO   37.  -  Comuníquese,  publíquese,  dese  a  la  Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "VIDELA  -  Harguindeguy  -  Rodriguez  Varela  -  Martínez  de  Hoz."
+          }
+        }
+      ],
+      "id-infojus": "LNS0002794"
+    }
+  }
+}

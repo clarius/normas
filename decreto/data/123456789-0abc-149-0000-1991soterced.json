@@ -1,0 +1,494 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-149-0000-1991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992207897,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "941-nacional-decreto-reglamentario-ley-convertibilidad-austral-dn19910000941-1991-05-16"
+      }
+    },
+    "content": {
+      "mecanografico": 19910000941,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 941,
+      "timestamp": "2014-07-17T21:58:45",
+      "timestamp-m": "2014-07-17T21:58:45",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1991-05-16",
+      "standard-normativo": "DEC C 000941 1991 05 16",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY DE CONVERTIBILIDAD DEL AUSTRAL.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1991 05 17"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 10",
+          "id": "MODIFICA0",
+          "ref": "DEC C 000529 1991 03 27 0008 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "ART. 5  (B.O. 92-12-10)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 002289 1992 12 10 0001 000"
+          },
+          {
+            "cr": "B.O.  93-09-27",
+            "id": "OBSERVADO POR1",
+            "ref": "DEC C 001936 1993 09 15 0006 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 941/91",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY DE CONVERTIBILIDAD DEL AUSTRAL, EN LO CONCERNIENTE A LAS CONTRATACIONES DEL SECTOR PUBLICO.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 023928 1991 03 27 0000 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION: SE ACLARA QUE LA MODIFICACION HECHA AL ART.\n\n5 POR ART. 1 DEL DEC. 2289/92, SOLO ES DE APLICACION A AQUELLAS DEUDAS ACTUALIZADAS HASTA EL 1 DE ABRIL DE 1991 POR LAS LEYES 21.391 Y  21.392, Y CON CARACTER SUPLETORIO EN TODOS LOS DEMAS CASOS QUE HAYAN DISPUESTO OTRA TASA DE INTERES PARA EL CASO DE MORA EN LOS PAGOS, POR ART. 6 DEL DEC 1936/93."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "convertibilidad del austral"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/convertibilidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de convertibilidad del austral",
+                "convertibilidad del peso",
+                "derecho económico financiero",
+                "ley de convertibilidad",
+                "régimen de convertibilidad",
+                "derecho financiero",
+                "convertibilidad del austral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contratos administrativos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "prestación de servicios"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/relación de dependencia/prestación de servicios"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "relación de trabajo",
+                "relación laboral",
+                "personal en relación de dependencia"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de obra pública"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contratación directa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/selección del cocontratante/contratación directa"
+            },
+            "sinonimos": {
+              "termino": [
+                "procedimientos de selección del contratista",
+                "adjudicación directa",
+                "selección del contratista",
+                "contrataciones del Estado",
+                "trato privado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "mayores costos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública/mayores costos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas",
+                "variación de costos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "actualización monetaria"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/clasificación de las obligaciones/obligaciones de dar/obligaciones de dar sumas de dinero/actualización monetaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "ajuste por inflación",
+                "repotenciación",
+                "capital revalorizado",
+                "indexación",
+                "obligaciones personales",
+                "prestaciones dinerarias",
+                "obligaciones dinerarias",
+                "deudas de dinero",
+                "capital actualizado",
+                "deudas dinerarias"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "intereses"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/clasificación de las obligaciones/obligaciones de dar/obligaciones de dar sumas de dinero/intereses"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "prestaciones dinerarias",
+                "obligaciones dinerarias",
+                "deudas de dinero",
+                "interés bancario",
+                "deudas dinerarias"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pago"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones/pago"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "pago de la deuda"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "plazo"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/clasificación de las obligaciones/obligaciones a plazo/plazo"
+            },
+            "sinonimos": {
+              "termino": [
+                "término",
+                "obligaciones personales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Banco Hipotecario Nacional"
+            },
+            "preferido": {
+              "termino": "Banco Hipotecario Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Fondo Nacional de la Vivienda"
+            },
+            "preferido": {
+              "termino": "Fondo Nacional de la Vivienda"
+            },
+            "sinonimos": {
+              "termino": "FONAVI"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "vivienda"
+            },
+            "preferido": {
+              "termino": "Bienestar social/vivienda"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "pago de la deuda (pago)",
+            "pago",
+            "prestación de servicios",
+            "reglamento de ejecución (decreto reglamentario)",
+            "ajuste por inflación (actualización monetaria)",
+            "clasificación de las obligaciones",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "obligaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "selección del cocontratante",
+            "extinción de las obligaciones",
+            "obligaciones de dar sumas de dinero",
+            "relación de trabajo (relación de dependencia)",
+            "relación laboral (relación de dependencia)",
+            "adjudicación directa (contratación directa)",
+            "mayores costos",
+            "Bienestar social",
+            "régimen de convertibilidad (convertibilidad)",
+            "capital actualizado (actualización monetaria)",
+            "Obligaciones y contratos",
+            "término (plazo)",
+            "Economía y finanzas",
+            "obligaciones personales (obligaciones)",
+            "Derecho administrativo",
+            "derecho financiero (Economía y finanzas)",
+            "deudas de dinero (obligaciones de dar sumas de dinero)",
+            "repotenciación (actualización monetaria)",
+            "derecho económico financiero (Economía y finanzas)",
+            "personal en relación de dependencia (relación de dependencia)",
+            "indexación (actualización monetaria)",
+            "prestaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "convertibilidad del austral (convertibilidad)",
+            "interés bancario (intereses)",
+            "obligaciones",
+            "ley de convertibilidad (convertibilidad)",
+            "deudas dinerarias (obligaciones de dar sumas de dinero)",
+            "vivienda",
+            "acto administrativo",
+            "contrataciones públicas (contratos administrativos)",
+            "ley de convertibilidad del austral (convertibilidad)",
+            "procedimientos de selección del contratista (selección del cocontratante)",
+            "variación de costos (mayores costos)",
+            "decreto reglamentario",
+            "capital revalorizado (actualización monetaria)",
+            "convertibilidad",
+            "contratación directa",
+            "moneda",
+            "reglamentos",
+            "contrataciones del Estado (contratos administrativos)",
+            "contrato laboral (contrato de trabajo)",
+            "contrato de obra pública",
+            "obligaciones a plazo",
+            "intereses",
+            "relación de dependencia",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "acción social (Bienestar social)",
+            "Fondo Nacional de la Vivienda",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "selección del contratista (selección del cocontratante)",
+            "FONAVI (Fondo Nacional de la Vivienda)",
+            "plazo",
+            "obligaciones de dar",
+            "contrato de trabajo",
+            "derecho del trabajo (Derecho laboral)",
+            "Banco Hipotecario Nacional",
+            "sistema financiero",
+            "convertibilidad del peso (convertibilidad)",
+            "actualización monetaria",
+            "Derecho laboral",
+            "trato privado (contratación directa)",
+            "contratos administrativos",
+            "contrato de trabajo en general"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 023928 1991 03 27 0000 000 0000 000"
+          }
+        },
+        "texto": "lo dispuesto por la Ley N. 23.928,"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023928 1991 03 27 0009 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 023928 1991 03 27 0008 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000529 1991 03 27 0008 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "CCI C 000340 1869 09 25 0622 000 0622 000  A"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "CCI C 000340 1869 09 25 0623 000 0623 000  A"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que resulta necesario reglamentar su aplicación en el ámbito de las  contrataciones  del sector público en curso de ejecución.\n\nQue, en lo pertinente,  la  presente  reglamentación  se aplicará a las diversas modalidades de las contrataciones del sector  público.\n\nQue dado el cambio drástico de las normas aplicables al régimen  de la  moneda  y  su  correlato  en  la  disminución sustancial de los costos  financieros, corresponde su desagregación  respecto  a  los precios convertidos  a  australes  nominales  al 1 de abril de 1991 por  aplicación del art. 9 de la Ley N. 23.928,  liquidando  en  lo sucesivo    a   los  contratistas  y  proveedores  la  compensación financiera correspondiente al plazo de pago.\n\nQue respecto a las  obras  de  vivienda  que reciben financiamiento total  o  parcial  del  BANCO  HIPOTECARIO  NACIONAL  o  del  FONDO NACIONAL  DE LA VIVIENDA, cabe dar un tratamiento  adecuado  a  las condiciones  de  su  operatoria,  de  modo  que  los  precios topes utilizados en sus contrataciones sean uniformes para cada  tipo  de obra,  respetándose los descuentos que respecto a los precios topes hayan efectuado los contratistas en sus ofertas.\n\nQue debe  contemplarse  asimismo  la  eventualidad  de continuar en condiciones precarias  durante un breve lapso, aquellos  contratos que  respondan  a  satisfacer    necesidades  impostergables  o  se refieran a la prestación de servicios  esenciales  en los casos que se  produzca  su  rescisión, ello hasta tanto se realice  la  nueva contratación.\n\nQue, finalmente, debe  aclararse el alcance del art. 8 de la Ley N. 23.928 y del art. 8 del  Decreto  N. 529/91, para aventar toda duda que pudiera suscitarse acerca del respeto  del principio de la cosa juzgada.  Cuando en la ley y en el decreto citados  se  dispone  la manera  de  proceder   respecto  a la  aplicación  de  la  reforma monetaria a obligaciones  reconocidas  judicialmente,  se parte del supuesto de la inexistencia, en el momento del cumplimiento  de  la sentencia, de la moneda de la especie contenida en el pronunciamiento  judicial;  ya  que a partir del 1 de abril de 1991 es imposible jurídicamente aplicar  indexación  alguna  al  austral convertible.  Cabe  pues  precisar  que  los jueces, sin alterar el contenido económico de su decisorio pasado  en  autoridad  de  cosa juzgada,  podrán  reconocer  a favor del acreedor, intereses en las condiciones  dispuestas en los  artículos  622  y  623  del  Código Civil.\n\nQue la presente  medida  se dicta en uso de las atribuciones que le confieren  los  incisos 1 y  2  del  art.  86  de  la  Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 023696 1989 08 17 0001 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 000529 1991 03 27 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- La Administración Pública Nacional, centralizada y descentralizada,  incluidas  las  empresas,  haciendas y organismos descriptos  en  el  artículo 1 de la Ley N. 23.696,  así  como  los concesionarios de obras  o  de servicios públicos, aplicarán la Ley N. 23.928 a todos los contratos  alcanzados por dicha norma, en las condiciones establecidas en el decreto  N.  529/91  y  las  que  se establecen en el presente decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO 2.- Todos los trabajos ejecutados hasta el 31 de marzo de 1991,  hayan  sido  o  no certificados hasta esa misma fecha, se calcularán en base a los mecanismos  previstos  originalmente hasta el  1  de abril de 1991, y se convertirán a australes  nominales  a una relación  de  UNO (1)  a UNO (1), cualquiera fuere la fecha en que corresponda su pago."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.-  Igualmente  se  procederá  con  las mercaderías recibidas  provisionalmente,  los  servicios  prestados,   u  otras obligaciones  cumplidas  hasta  el  31  de  marzo  de  1991 por los contratistas.  Ello  cuando,  de  acuerdo  a  las demás condiciones contractuales, corresponda su pago."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.-  Todas  las prestaciones que deban cumplirse con posterioridad al 1 de abril de 1991, se ajustarán a las condiciones  previstas  en  la    ley.  Los  precios  en  australes nominales, fijos e invariables a partir  de  ese  momento serán los que resulten de realizar la conversión correspondiente  mediante la aplicación de los arts. 7, 9 y 10 de la Ley N. 23.928. A  los fines prácticos  las  autoridades  facultadas  en cada organismo para  la suscripción  de  contratos  remitirán  a los  contratistas,    con anterioridad  al 30 de junio de 1991, un listado de los precios que se aplicarán a  partir  del  1  de  abril  de  1991.  Cuando en las contrataciones existan ítems  o renglones parciales, el  precio  de los  mismos  se  determinará  en base a la proporción que tenían al mes de marzo de 1991 sobre el monto  total  del  contrato, aplicada sobre  el  monto  del  contrato  convertido a australes  nominales."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "*ARTICULO 5.- Para realizar la comparación prevista en el art. 9 de la  ley  N. 23.928  deberá utilizarse como base el monto total del contrato pendiente  de  ejecución  al  31 de marzo de 1991, con todos  los  rubros  que  componen el precio, incluidos  los  gastos generales y financieros que  correspondan,  a  precios en australes correspondientes al mes de mayo de 1990, reexpresado  en dólares al precio  promedio que tuvo en el citado mes. En caso de existir  una renegociación  posterior  al  mes  de  mayo  de  1990 que involucre precios, respecto a éstos se considerará como fecha  de  origen  la que  corresponda  a la citada renegociación. Cuando el valor origen del contrato fuese posterior al mes de mayo de 1990, se considerará  el  mes    que  corresponda  para  la  comparación  y conversión dispuesta por el artículo  9 de  la Ley N. 23.928.\n\nCuando  en  el  precio  no  estuviera  contenida  la   compensación financiera por el plazo de pago, deberá agregarse dicha compensación  conforme  a  la  metodología  contractual,  para   el cálculo del valor base.\n\nDicho  valor  base  será expresado en dólares estadounidenses según lo dispuesto por el artículo  9  de  la  Ley N. 23.928. Este último monto, representativo del saldo faltante de  la  obra, se comparará con el valor del contrato pendiente de ejecución al  31 de marzo de 1991  actualizado  hasta  esa fecha de conformidad a la metodología prevista en el contrato con  anterioridad  a  la  reforma dispuesta por  la  Ley N. 23.928, eliminando del precio la incidencia  de  la compensación  financiera  por  el  plazo  de  pago que en cada caso corresponda.  Cuando  no  estuvieren  desagregados    los    costos financieros,  se  adoptarán  a  tal efecto las fórmulas matemáticas que  disponga  la  autoridad  de  aplicación    para  efectuar  esa desagregación.\n\nLa conversión del precio sin costos financieros de las prestaciones  pendientes de  ejecución se efectuará  adoptando  el menor que resulte de la comparación  realizada  de conformidad a lo aquí dispuesto.\n\nA  partir  del  1  de  abril de 1991 se reconocerá a los  contratos celebrados  por  los  organismos   o  personas  mencionados  en  el artículo  1,  una compensación financiera  por  el  plazo  de  pago previsto en el  contrato en base a la serie de tasas de interés que a este fin publique  el BANCO CENTRAL DE LA REPUBLICA ARGENTINA, de conformidad al método  de  cálculo  que  disponga la  autoridad de aplicación.\n\nLos  intereses  moratorios  que correspondan por los pagos  que  se hubieran realizado o que se realicen  fuera de término a partir del 1 de abril de 1991, se calcularán conforme  al promedio de tasas de interés pasivas mensuales para operaciones en  pesos que publica el BANCO  CENTRAL  DE  LA  REPUBLICA  ARGENTINA,  de  acuerdo    a  su comunicado N. 14.290 del 5 de agosto de 1991."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO 6.- Cuando existan diferentes mecanismos o fórmulas de variaciones  de  costos  para  los  diversos  ítems    o partes que componen  la  contratación,  deberán utilizarse para la comparación establecida en el art. 9 de la  Ley N. 23.928, los que correspondan a la parte del contrato pendiente  de  ejecución  al 31 de marzo de 1991,  a los efectos de determinar el monto total de  lo  faltante."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTICULO  7.-  Similares  criterios  a  los  previstos para la regulación  de  las  obras,  se  adoptarán  para  los contratos  de suministros y de prestación de servicios."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000529 1991 03 27 0006 000 0000 000"
+            }
+          },
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.- La conversión monetaria de las obras que reciban financiamiento total  o parcial del BANCO HIPOTECARIO NACIONAL o el FONDO NACIONAL DE LA VIVIENDA,  se  realizará  de  conformidad a lo previsto en el presente artículo. El BANCO HIPOTECARIO  NACIONAL  o la  SUBSECRETARIA  DE VIVIENDA Y ORDENAMIENTO AMBIENTAL convertirán a australes nominales  los  precios  topes  que  regirán  para  las contrataciones  a  partir  del 1 de abril de 1991. El monto de cada contrato en curso de ejecución  surgirá  de deducir del precio tope correspondiente,  el  descuento  que  sobre  el  mismo  se  hubiere acordado  oportunamente.  A este fin deberán determinar  un  precio tope uniforme para cada tipo de vivienda, siguiendo un procedimiento similar al establecido  en  el artículo 6 del Decreto 529/91."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO 9.- Cuando se produzca la rescisión de los contratos a los  que  se  refiere  este  decreto,  se  procederá  a  una  nueva contratación  en  el  supuesto  de subsistir la necesidad dentro de los TRES (3) meses contados a partir  de  la fecha de rescisión. En el caso de rescisión de contratos que respondan  a  la satisfacción de  necesidades  impostergables  o  se  refieran  a  servicios    o prestaciones esenciales que por su naturaleza no puedan interrumpirse,  la  autoridad administrativa resolverá fundadamente su continuación en forma  precaria  a  cargo  de  los contratistas, hasta   que  un  nuevo  contratista  inicie  sus  prestaciones    o transcurran  CUATRO (4) meses computados desde la rescisión, lo que ocurriese en primer  término.  Estas resoluciones serán comunicadas dentro de los cinco días de adoptadas  al TRIBUNAL DE CUENTAS DE LA NACION o a la SINDICATURA GENERAL DE EMPRESAS  PUBLICAS,  al órgano de  control  interno  y al Ministro competente en cuya jurisdicción actúe el organismo o persona  de que se trate. Los servicios, obras o  suministros  que  se  lleven  a  cabo   durante  el  período  de prestación  precaria  se  liquidarán a los precios  que  según  los contratos  hubieran  correspondido    al   mes  de  marzo  de  1991 convertidos UNO (1) a UNO (1) a australes nominales,  deducidos los costos  financieros  que  estuvieren  incorporados  en  ellos,   de conformidad  al  método establecido en el presente decreto, con más la  compensación  financiera   correspondiente  al  plazo  de  pago previsto."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "ARTICULO  10.- NOTA DE REDACCION: Agrega segundo párrafo al art. 8 del Decreto 529/91."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "ARTICULO 11.- Invítase a las Provincias, a la MUNICIPALIDAD DE LA CIUDAD  DE  BUENOS  AIRES,  a  las Municipalidades del resto del país y a los organismos internacionales  de  los  que  la REPUBLICA ARGENTINA  es  parte respecto a sus contrataciones en australes,  a adherir a los términos del presente."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "ARTICULO  12.-  Comuníquese,  publíquese,  dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-CAVALLO"
+      },
+      "id-infojus": "DN19910000941"
+    }
+  }
+}
