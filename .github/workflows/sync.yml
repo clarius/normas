@@ -2,6 +2,12 @@
 name: sync
 on:
   workflow_dispatch:
+    inputs:
+      syncArgs:
+        description: 'Additional arguments for sync command (e.g. --force)'
+        required: false
+        type: string
+        default: ''
   schedule:
     - cron: "0 22 * * 1-5"
 
@@ -45,10 +51,10 @@ jobs:
         run: dotnet tool update -g dotnet-openlaw --source https://clarius.blob.core.windows.net/nuget/index.json          
 
       - name: 🔄 leyes
-        run: openlaw sync --dir ./ley --tipo Ley --jurisdiccion Nacional --changelog ${{ runner.temp }}/openlaw.md
+        run: openlaw sync --dir ./ley --tipo Ley --jurisdiccion Nacional --changelog ${{ runner.temp }}/openlaw.md ${{ github.event.inputs.syncArgs }}
 
       - name: 🔄 decretos
-        run: openlaw sync --dir ./decreto --tipo Decreto --jurisdiccion Nacional --changelog ${{ runner.temp }}/openlaw.md --appendlog
+        run: openlaw sync --dir ./decreto --tipo Decreto --jurisdiccion Nacional --changelog ${{ runner.temp }}/openlaw.md --appendlog ${{ github.event.inputs.syncArgs }}
 
       - name: 🚀 pull request
         uses: peter-evans/create-pull-request@v7
