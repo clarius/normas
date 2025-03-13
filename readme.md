@@ -10,7 +10,7 @@ Actualización automática de lunes a viernes a las 22hs, incorporadas (merged) 
 Para evitar el merge automático, un pull-request puede asignarse a uno o más revisores.
 
 Los documentos están organizados por el tipo de norma en las carpetas `ley` y `decreto`. Cada norma esta en un archivo 
-individual en formato markdown, por ejemplo la [Ley Antimafias](ley/123456789-0abc-defg-g14-87000scanyel.md). 
+individual en formato markdown, por ejemplo la [Ley Antimafias](ley/LNS0007841.md). 
 
 ## Documentos
 
@@ -33,7 +33,7 @@ Artículo 1º-
 
 El contenido de la norma, utiliza el formato `mardown` básico, sólo conteniendo indicadores de cabeceras (#, ##, etc.) para 
 título y capítulos/secciones de la norma, y anchors/links sobre cada artículo para poder crear vínculos directos específicos, 
-como por ejemplo [ley/LNS0007841.md#6](https://github.com/clarius/normas/blob/main/ley/LNS0007841.md#6) 
+como por ejemplo [ley/LNS0007841.md#6](ley/LNS0007841.md#6) 
 para el artículo 6.
 
 GitHub provee automáticamente una tabla de contenidos y links directos a todas las secciones del documento, por ejemplo 
