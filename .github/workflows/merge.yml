@@ -1,0 +1,33 @@
+# Cierra PRs de sync/docs que llevan 12+ horas abiertas
+name: merge
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * 2-6"
+
+env:
+  DOTNET_NOLOGO: true
+
+defaults:
+  run:
+    shell: pwsh
+
+permissions: 
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest 
+    steps:
+      - name: 🤖 defaults
+        uses: devlooped/actions-bot@v1
+        with:
+          name: ${{ secrets.BOT_NAME }}
+          email: ${{ secrets.BOT_EMAIL }}
+          gh_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🚀 merge
+        run: |
+            gh pr list -l docs --json number,assignees --jq '.[] | select(isempty(.assignees.[])) | .number' --repo ${{ github.repository }} | `
+            %{ gh pr merge $_ --rebase --delete-branch --repo ${{ github.repository }} }
