@@ -27,40 +27,28 @@ YAML
 
 <a id="1"></a>
 Artículo 1º- 
-
-<!-- 
-YAML
--->
 ```
 
 ### Contenido
 
 El contenido de la norma, utiliza el formato `mardown` básico, sólo conteniendo indicadores de cabeceras (#, ##, etc.) para 
 título y capítulos/secciones de la norma, y anchors/links sobre cada artículo para poder crear vínculos directos específicos, 
-como por ejemplo [ley/123456789-0abc-defg-g14-87000scanyel.md#6](https://github.com/clarius/normas/blob/main/ley/123456789-0abc-defg-g14-87000scanyel.md#6) 
+como por ejemplo [ley/LNS0007841.md#6](https://github.com/clarius/normas/blob/main/ley/LNS0007841.md#6) 
 para el artículo 6.
 
 GitHub provee automáticamente una tabla de contenidos y links directos a todas las secciones del documento, por ejemplo 
-[CAPÍTULO IV Decomiso anticipado](ley/123456789-0abc-defg-g14-87000scanyel.md#cap%C3%ADtulo-iv-decomiso-anticipado), la que 
+[CAPÍTULO IV Decomiso anticipado](ley/LNS0007841.md#cap%C3%ADtulo-iv-decomiso-anticipado), la que 
 se hace visible al hacer click en el ícono correspondiente:
 
-![image](https://github.com/user-attachments/assets/d6709674-3bb6-402b-99dc-913254b339a3)
+![image](https://github.com/user-attachments/assets/842fb140-e898-4dd6-ac6f-c6e2b861b72b)
 
 ### Metadata
 
-Las secciones en formato YAML (denominadas front-matter y popularizadas por [Jekyll](https://jekyllrb.com/docs/front-matter/) y
-[GitHub](https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter)) cumplen dos propósitos utilizando 
-un mismo formato: 
+La seccion en formato YAML (denominada front-matter y popularizadas por [Jekyll](https://jekyllrb.com/docs/front-matter/) y
+[GitHub](https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter)) permite visualizar rápidamente metadata básica de una norma en GitHub en formato de tabla al inicio del documento  como puede verse en la captura de la seccion anterior.
 
-- Al inicio: permite visualizar rápidamente metadata básica de una norma en GitHub en formato de table al inicio del documento,
-  como puede verse en la captura de la seccion [contenido](#contenido).
+Esta metadata no es normativa, se encuentra en español y provee información útil como el link directo a la fuente de datos de la norma en el sistema [SAIJ](https://www.saij.gob.ar), como el caso de la [Ley Antimafias](https://www.saij.gob.ar/LNS0007841). Esta sección utiliza el separador markdown estándard 
+`---` al inicio y fin de la sección.
 
-  Esta sección no es normativa, se encuentra en español y provee información útil como links directos a la fuente de 
-  datos de la norma en el sistema [SAIJ](https://www.saij.gob.ar), como el caso de la [Ley Antimafias](https://www.saij.gob.ar/LNS0007841).
-  Esta sección utiliza el separador markdown estándard `---` al inicio y fin de la sección.
-
-- Al final: metadata normativa de [OpenLaw](https://github.com/clarius/OpenLaw) para consumo programático, usando
-  delimitador de HTML `<!--` y `-->` al inicio y fin de la sección respectivamente. La elección de este delimitador
-  (también estándard en front-matter, pero no tan común en documentos markdown) obedece a poder ocultarla automáticamente
-  cuando se visualiza un documento en GitHub, mejorando su legibilidad.
-
+La metadata completa de un articulo se encuentra en la carpeta `data/[Id].json`. El `Id` puede extraerse programaticamente 
+del YAML front-matter. Por ejemplo, ver metadata completa de la [Ley Antimafias](ley/data/123456789-0abc-defg-g14-87000scanyel.json).
