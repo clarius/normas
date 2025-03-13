@@ -1,0 +1,266 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-040-1002-3791soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990319769,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1040-nacional-decreto-nacional-ley-19988-validez-nacional-titulos-oficiales-oficiales-establecimientos-educacionales-provinciales-dn19732001040-1973-12-31"
+      }
+    },
+    "content": {
+      "mecanografico": 19732001040,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1040,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1973-12-31",
+      "standard-normativo": "DEC C 001040 1973 12 31",
+      "titulo-norma": "DECRETO NACIONAL DE LEY 19988 DE VALIDEZ NACIONAL DE TITULOS OFICIALES Y NO OFICIALES DE ESTABLECIMIENTOS EDUCACIONALES PROVINCIALES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1974 01 09"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 7",
+          "id": "OBSERVA A0",
+          "ref": "DEC C 000086 1973 00 00 0000 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.040/73",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2003-04-07",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "Se  reglamenta  la validez en el orden nacional de los títulos docentes expedidos por  establecimientos  educativos  provinciales.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 019988 1972 11 30 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "establecimientos educacionales"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "establecimientos educativos",
+                "institutos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reválida del título"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/responsabilidades especiales/ejercicio profesional/habilitación profesional/título profesional/reválida del título"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "profesional liberal",
+                "ejercicio de profesiones liberales",
+                "profesional universitario",
+                "profesiones liberales",
+                "actividades profesionales",
+                "título habilitante",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "reconocimiento del título"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "docentes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/docentes"
+            },
+            "sinonimos": {
+              "termino": [
+                "maestros",
+                "Educación y Cultura",
+                "personal docente",
+                "docencia"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "docentes",
+            "establecimientos educativos (establecimientos educacionales)",
+            "habilitación profesional",
+            "decreto reglamentario",
+            "escuelas (establecimientos educacionales)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "Cultura y educación",
+            "título profesional",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "institutos educativos (establecimientos educacionales)",
+            "profesional universitario (ejercicio profesional)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "reglamentos",
+            "instituciones educativas (establecimientos educacionales)",
+            "establecimientos educacionales",
+            "responsabilidades especiales",
+            "establecimientos de enseñanza (establecimientos educacionales)",
+            "acto administrativo de alcance general",
+            "personal docente (docentes)",
+            "actividades profesionales (ejercicio profesional)",
+            "reglamento administrativo (reglamentos)",
+            "Derecho civil",
+            "infraestructura educativa",
+            "maestros (docentes)",
+            "reconocimiento del título (reválida del título)",
+            "reválida del título",
+            "Derecho administrativo",
+            "Derecho de daños (responsabilidad civil)",
+            "profesional liberal (ejercicio profesional)",
+            "colegios (establecimientos educacionales)",
+            "Educación y Cultura (Cultura y educación)",
+            "docencia (docentes)",
+            "institutos incorporados a la enseñanza oficial (establecimientos educacionales)",
+            "responsabilidad por daños (responsabilidad civil)",
+            "ejercicio de profesiones liberales (ejercicio profesional)",
+            "educación",
+            "título habilitante (título profesional)",
+            "profesiones liberales (ejercicio profesional)",
+            "ejercicio de la profesión (ejercicio profesional)",
+            "ejercicio profesional",
+            "acto administrativo",
+            "responsabilidad civil"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DLE C 019988 1972 00 00 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000086 1973 00 00 0000 000"
+            }
+          ]
+        },
+        "texto": "el Decreto-Ley N. 19.988/72 y el Decreto N. 86/73,"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000086 1973 00 00 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DLE C 019988 1972 00 00 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  el  Decreto N. 86/73, establece tramitaciones complejas y lentas para determinar  la  validez  y  la  competencia en el orden nacional  de  los  títulos docentes expedidos por  establecimientos educativos de las provincias.\n\nQue el mencionado régimen  contradice  el  verdadero  espíritu  del Decreto-Ley N. 19.988/72.\n\nQue  con  el  propósito  de  confirmar en los hechos los principios federalistas reconocidos en nuestra  Carta Fundamental, el Gobierno Ncional  transmitió  a  las  Provincias, en  el  seno  del  Consejo Federalsu inquietud y decidido  proposito  de  dar  solución  a las dificultades que surgen del Decreto N. 86/73.\n\nQue  en  consecuencia  y atento a la opinión favorable que despertó en las Provincias el enunciado  objetivo de la Nación, aparece como necesaria  la implantación de un nuevo  régimen  que  reemplace  al Decreto numero  86/73, en todo lo que se oponga el cumplimiento del espíritu y los fines del Decreto-Ley 19.988/72.\n\nQue  con el propósito  de  considerar  sin  demora  los  diferentes aspectos  de la reglamentación vigente conviene regular desde ahora en una primera  modificación  inmediata  del  Decreto  N. 86/73, lo relativo  a  tramitaciones  vinculadas con la validez y competencia de los títulos docentes fijándose  al  mismo tiempo la obligación y plazo  pertinentes, destinados a resolver  con  criterios  analogos las cuestiones  vinculadas con los títulos provinciales técnicos no docentes que constituyen  igualmente  un  problema tratado en forma incompleta e insatisfactoria por dicho decreto.\n\nPor ello y de conformidad con lo propuesto  por  el  señor Ministro de Cultura y Educación."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1.-  El  Ministerio  de  Cultura y Educación considerará válido  en  el orden nacional los títulos  docentes  expedidos  por establecimientos  educativos  de las provincias que en cada caso el organismo  provincial competente  determine  de  conformidad con el Decreto-Ley número 19.988/72"
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2.-  Los  títulos  docentes  mencionados  en el artículo anterior, deberán contener por lo menos:\n\na)  Nombre  del  establecimiento  que  lo otorga y su jurisdicción.\n\nb)  Nombre  y  apellido  y datos de identidad  del  egresado.\n\nc) Constancia de su validez  mediante  la  inserción de la leyenda \"Estudios  con la validez establecida por el  Decreto-Ley  Nacional N. 19.988/72, y régimen provincial concordante\".\n\nd) Firma de  las  autoridades  que expiden el título y legalización del  mismo  por  parte  del  organismo  jurisdiccional  competente."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3.- La validez de los títulos docentes provinciales tendrá plena  vigencia  en  el  orden  nacional  al quedar satisfechos los requisitos del artículo precedente."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4.-  La  competencia  asignada  por cada provincia a los títulos docentes por ella expedidos será suficiente  a  los efectos de  su  inscripción  en las Juntas de Clasificación de Jurisdicción Nacional, siempre que  cada  título se presente con las pertinentes constancias  de  legalización,  registro   y  determinación  de  su competencia por parte de los organismos provinciales correspondientes."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5.- El presente régimen se comunicará a los gobiernos de provincias  a    los  fines  de  la  adopción  en  sus  respectivas jurisdicciones, de  las  medidas  que estimen pertinentes, teniendo en cuenta la recomendación aprobada  en la IIIa. Asamblea Ordinaria de Ministros del Consejo Federal de Educación,  realizada  los días 29  y  30  de  noviembre  de  1973,  en  la  ciudad  de Santa Rosa, Provincia de La Pampa."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6.- El Ministerio de Cultura y Educación formulará dentro de  los    próximos   45  días  las  proposiciones  adecuadas  para reglamentar el Decreto-Ley  número  19.988/72,  con  relación a los títulos provinciales técnicos no docentes."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art.  7.-  Quedan  derogadas las partes del Decreto N. 86/73 y toda otra disposición que  se  oponga  al contenido de la presente."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art.  8.-  El  presente  Decreto  será refrendado por el señor Ministro de Cultura y Educación."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "PERON - TAIANA"
+      },
+      "id-infojus": "DN19732001040"
+    }
+  }
+}

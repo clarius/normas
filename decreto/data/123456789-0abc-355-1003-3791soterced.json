@@ -1,0 +1,343 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-355-1003-3791soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992122061,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1553-nacional-decreto-reglamentario-sobre-defensa-regeneracion-mejoramiento-ampliacion-bosques-dn19733001553-1973-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": 19733001553,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1553,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1973-09-27",
+      "standard-normativo": "DEC C 001553 1973 09 27",
+      "titulo-norma": "DECRETO REGLAMENTARIO SOBRE DEFENSA, REGENERACION, MEJORAMIENTO Y AMPLIACION DE BOSQUES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 11 13"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "SUSTITUYE EL ART. 2",
+          "id": "MODIFICADO POR0",
+          "ref": "DEC C 000100 1974 00 00 0001 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.553/73",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2003-04-07",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "Se reglamentan las Leyes 13.273 y 20.531.",
+        "reglamenta-a": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_0",
+              "ref": "LEY C 020531 1973 08 30 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_1",
+              "ref": "LEY C 013273 1948 09 25 0000 000 0000 000"
+            }
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bosques"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "radicación de industrias"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/radicación de industrias"
+            },
+            "sinonimos": {
+              "termino": [
+                "instalación de plantas industriales",
+                "parque industrial",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "industria forestal"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria forestal"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reforestación"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques/reforestación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Instituto Forestal Nacional"
+            },
+            "preferido": {
+              "termino": "Instituto Forestal Nacional"
+            },
+            "sinonimos": {
+              "termino": "IFONA"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "entes autárquicos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/sujetos de derecho administrativo/entes descentralizados/entes autárquicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "administración descentralizada",
+                "organismos descentralizados",
+                "entidades autárquicas",
+                "organismos autárquicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tierra forestal"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques/tierra forestal"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "bosque protector"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques/bosque protector"
+            },
+            "sinonimos": {
+              "termino": "reserva forestal"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bosque permanente"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques/bosque permanente"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "bosque experimental"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques/bosque experimental"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "forestación"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques/forestación"
+            },
+            "sinonimos": {
+              "termino": [
+                "parquización",
+                "forestación urbana",
+                "plantación de árboles"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Comisión Nacional de Bosques"
+            },
+            "preferido": {
+              "termino": "Comisión Nacional de Bosques"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "instalación de plantas industriales (radicación de industrias)",
+            "IFONA (Instituto Forestal Nacional)",
+            "industria forestal",
+            "decreto reglamentario",
+            "radicación de industrias",
+            "reglamento de ejecución (decreto reglamentario)",
+            "bosque protector",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "productos industriales (actividad industrial)",
+            "reglamentos",
+            "bosque permanente",
+            "reforestación",
+            "parquización (forestación)",
+            "tierra forestal",
+            "organismos descentralizados (entes descentralizados)",
+            "sujetos de derecho administrativo",
+            "reserva forestal (bosque protector)",
+            "acto administrativo de alcance general",
+            "forestación urbana (forestación)",
+            "reglamento administrativo (reglamentos)",
+            "industria (actividad industrial)",
+            "entidades autárquicas (entes autárquicos)",
+            "Recursos naturales",
+            "plantación de árboles (forestación)",
+            "Derecho administrativo",
+            "Actividades económicas",
+            "actividad industrial",
+            "Instituto Forestal Nacional",
+            "forestación",
+            "Comisión Nacional de Bosques",
+            "bosque experimental",
+            "acto administrativo",
+            "administración descentralizada (entes descentralizados)",
+            "organismos autárquicos (entes autárquicos)",
+            "entes descentralizados",
+            "bosques",
+            "parque industrial (radicación de industrias)",
+            "entes autárquicos"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 020531 1973 08 30 0000 000"
+          }
+        },
+        "texto": "la Ley 20.531 y,"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "La  necesidad  de  dictar  los  preceptos  reglamentarios  que requiere su ejecución."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1.-  Podrá  acordarse  por  adjudicación  directa,  el aprovechamiento  forestal en superficie de hasta dos mil quinientas (2.500) hectáreas  por persona física o jurídica cuando se trate de aserraderos o industrias  forestales  evolucionadas,  radicadas o a radicar en las zonas boscosas.\n\nLas  superficies serán determinadas de acuerdo con la capacidad  de elaboración y la existencia de materia prima.\n\nEn los  casos  en  que  el concesionario proceda a la reforestación natural  o  artificial  de la  superficie  adjudicada  para  dichas áreas, los plazos de vigencia  podrán extenderse hasta el doble del tiempo fijado para el turno de corta  de  las especies a implantar."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2.-  Se  fija en el diez por ciento (10%) del aforo, los derechos afectados a  los  servicios  o forestación y reforestación de acuerdo con lo dispuesto por el art.  52  de  la ley 13.273. Las recaudaciones  provenientes  del  cincuenta  por ciento  (50%)  del producido  de los derechos aduaneros y adicionales  percibidos  por la exportación  e  importación de productos forestales, ingresará a la cuenta 4051, ley  13.273,  art. 47. Fondo Forestal. El Instituto Forestal Nacional identificará  a  los productos forestales sujetos a la aplicación del 50% mencionado anteriormente."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3.-  A  los fines del cumplimiento de lo dispuesto en el art. 62, el Instituto  Forestal Nacional programará la ejecución de las medidas contenidas en el mismo."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4.-  El  Instituto  Forestal  Nacional  como  organismo autárquico    del  Estado  tendrá  plena  capacidad  jurídica  para contratar y para  administrar toda clase de bienes, para demandar y comparecer  en juicio,  y  en  general,  para  realizar  todo  acto jurídico que  en  el  cumplimiento de sus fines sea necesario, como así también para llevar a cabo todas las operaciones de compraventa, arrendamiento,  locaciones,  etc. de bienes inherentes a  sus  actividades. El director general tendrá  la  representación administrativa y legal del organismo."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5.- Corresponde al director general:\n\na) Ejercer la representación legal y la dirección y superintendencia  técnica  y  administrativa del Instituto Forestal Nacional,  con  poder jerárquico  y  disciplinario  sobre  todo  su personal excluidos  los  miembros  del  Consejo  de Administración;\n\nb) Convocar y presidir las sesiones del Consejo de  Administración, intervenir  en  sus  deliberaciones  con  voz y voto y dirimir  los empates  con  voto  decisivo  y  designar  los  miembros    de  las comisiones internas del Consejo;\n\nc)  Autorizar  con  su  firma  los gastos e inversiones, órdenes de pago y movimiento de fondos, las  actas de las sesiones del Consejo de Administración y todos los instrumentos  públicos o privados que requieran su intervención;\n\nd) Acordar los permisos a que se refieren los  arts.  14,  24,  42, 44,  45  y  46  de la ley. El director general podrá delegar en los servicios destacados  en  el  interior de la República, la facultad de acordar los permisos previstos  en  los  arts. 42, 44 y 46 de la Ley;\n\ne)  Proponer  al  Consejo  de  Administración  los    proyectos  de reglamentación  y  resoluciones  que corresponda sean dictados  por dicho órgano o sometidos al Poder Ejecutivo;\n\nf)  Ejercer las funciones del Consejo  de  Administración  mientras éste no se hubiere constituido o quedare desintegrado e imposibilitado  de  funcionar con el quórum reglamentario, y en los casos de urgencia, dando  cuenta  al mismo en la primera sesión que celebre;\n\ng)  Proyectar  y  someter  a  la  consideración    del  Consejo  de Administración  el  plan  de trabajos, el presupuesto de  gastos  y cálculos de recursos y la memoria  anual  de  la  repartición.\n\nh) Designar, con carácter transitorio, personal jornalizado,  hasta por un plazo máximo de 180 días;\n\ni)   Proponer  el  nombramiento  y  promoción  del  personal;\n\nj) Mantener  relaciones  oficiales  directas  con las reparticiones públicas, nacionales o provinciales de igual jerarquía  y  con  los gobernadores  de  las  provincias  y  del Territorio Nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DLE C 023354 1956 12 31 0050 000 0000 000 A"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 019995 1972 12 04 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 6,
+          "texto": "Art.  6.- Son atribuciones del Consejo de Administración:\n\na) Designar  y remover el personal del Instituto Forestal Nacional, conforme a las leyes y reglamentaciones en vigor;\n\nb)  Reglamentar    las    condiciones  de  conservación  y  posible aprovechamiento de bosques protectores, permanentes y experimentales;\n\nc) Adquirir bosques y tierras  forestales,  así  como los inmuebles necesarios  para  realizar obras de forestación y reforestación  en las condiciones del  art.  2 de la ley 13.273 y las indemnizaciones previstas en el art. 33;\n\nd) Determinar la adquisición  de  bosques  ya  explotados,  bosques protectores   y  tierras  forestales,  mediante  la  inversión  del porcentaje del  Fondo  Forestal a que hace referencia el art. 48 de la ley 13.273;\n\ne)  Delimitar los bosques  protectores  y  tierras  forestales  que deban  quedar  sometidos al régimen forestal (art. 3, inc. c, de la ley 13.273) y de  la  jurisdicción del Instituto Forestal Nacional;\n\nf)  Decidir  sobre  aprovechamientos    de   bosques  fiscales  por administración  o  por intermedio de empresas mixtas,  elaborar  la nómina de los bosques  que  hayan  de  aprovecharse  por concesión, previo ofrecimiento en limitación pública y los pliegos  y bases de condiciones  respectivos y las adjudicaciones en los supuestos  del inc. 3 del art. 50 de la ley de contabilidad.\n\ng) Establecer  las normas de aplicación, recaudación y fijación del porcentaje  de  los  derechos,  adicionales  o  intereses  por  los conceptos especificados  en  el  art.  47,  incs.  b)  y  c) en las condiciones  previstas  en  los arts. 50, 52, 53 y 56 de la ley  13 273;\n\nh) Formular el presupuesto anual  de  gastos  y cálculo de recursos del Instituto Forestal Nacional;\n\ni) Proponer las condiciones en que se acordarán  los  créditos para obras de forestación y fomento a la instalación de industrias  poco conocidas  y  procesos  tecnológicos  novedosos  así como sobre los subsidios  a  conceder  para  la  promoción  de investigaciones  de carácter forestal.\n\nj)  Adjudicar  en  licitación  pública  las concesiones  a  que  se refiere el art. 39 de la ley 13.273, modificado  por la ley 19.995;\n\nk)  Adjudicar  directamente  el  aprovechamiento  en superficie  de hasta  dos  mil quinientas (2.500) hectáreas, a que se  refiere  el art. 1 de esta reglamentación;\n\nl) Disponer la  caducidad,  revocación,  anulación  o autorizar las transferencias  de  las  concesiones  y permisos de aprovechamiento forestal en el área de su competencia;\n\nll) Estructural anualmente los planes de  Ayuda  Federal  y asignar las  sumas que para obras de forestación se distribuirán entre  las provincias adheridas a la ley 13.273;\n\nm) Ejercer  las facultades previstas en los arts. 17, 27 y 30 de la ley 13.273;\n\nn) Proponer bases  y  normas  reglamentarias  en materia de crédito agrario,  hipotecario  y  especial,  para  obras de  forestación  y reforestación,  industrialización y comercialización  de  productos forestales  (art.  4,  inc.  b)  y  art.  59  de  la  ley  13.273), exenciones impositivas (arts. 57, 58, 60 y 63) y demás disposiciones  legales en vigor, medidas de fomento (arts. 62 y 76, incs. f) y g)) y  en  todos  los  casos  en  que  se  requiera o lo considere  oportuno  y  conveninete para el mejor, cumplimiento  de los fines de la ley 13.273;\n\no) Aplicar multas de hasta  $10.000  y suspensiones de hasta un (1) año  de los registros previstos en el art.  16  y  elevar  al  Juez competente  los  sumarios instruidos por infracciones que considere pasible de multa o  suspensión  mayor  (arts. 70 y 73, de la ley 13 273);\n\np) Establecer\n\n1  -  El  monto  de  los  aforos  fijos,  móviles  o  mixtos.\n\n2 - Las tasas, aranceles, precios y tarifas  a  que  se  refiere el art.  47,  incs.  b)  y  d)  de la ley 13.273. En ambos casos podrá disponer su cobro con carácter  provisional  y  sujeto  a reajuste.\n\nq)  Declarar  y  revocar  la  declaración de bosques protectores  o permanentes y la calificación de  experimentales a los que revistan las características previstas en los  arts.  8, 9 y 10 de la ley 13 273;\n\nr)  Proponer  al Poder Ejecutivo la concertación  de  convenios  de intercambio y de  asistencia  técnica, de carácter internacional en los temas de su competencia.\n\ns)  Proponer  al  Poder Ejecutivo  la  creación  de  Comisiones  de carácter nacional para  el  mejor  cumplimiento  de  las  funciones específicas que tiene asignadas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 013273 1948 09 25 0077 000"
+            }
+          },
+          "numero-articulo": 7,
+          "texto": "Art.  7.-  Los  representantes  de  los  sectores privados que integran la Comisión Nacional de Bosques (art.  77  de  la  ley  13.\n\n273) serán designados a propuesta de sus Organismos representativos."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "LASTIRI - LLAMBI"
+      },
+      "id-infojus": "DN19733001553"
+    }
+  }
+}

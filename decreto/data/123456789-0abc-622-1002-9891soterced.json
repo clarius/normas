@@ -1,0 +1,622 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-622-1002-9891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990146023,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1226-nacional-decreto-reglamentario-ley-23697-sobre-emergencia-economica-empleo-publico-dn19892001226-1989-11-09"
+      }
+    },
+    "content": {
+      "mecanografico": 19892001226,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1226,
+      "timestamp": "2014-07-17T21:58:17",
+      "timestamp-m": "2014-07-17T21:58:17",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1989-11-09",
+      "standard-normativo": "DEC C 001226 1989 11 09",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LEY 23.697 SOBRE EMERGENCIA ECONOMICA EMPLEO PUBLICO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1989 11 14"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.226/1989",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE APRUEBA LA REGLAMENTACION DEL CAPITULO XVIII DE LA LEY DE EMERGENCIA ECONOMICA QUE TRATA SOBRE EMPLEO EN LA ADMINISTRACION PUBLICA. SE DISPONEN LAS MEDIDAS PERTINENTES PARA PROCEDER A LAS BAJAS DE PERSONAL DENTRO DE LA ADMINISTRACION CENTRALIZADA Y DESCENTRALIZADA.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 023697 1989 09 01 0000 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "NRO.  DE  ART.  QUE ESTABLECE LA ENTRADA EN VIGENCIA 0022 FECHA DE ENTRADA EN VIGENCIA 1989 11 14"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Administración Pública Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/Administración Pública Nacional"
+            },
+            "sinonimos": {
+              "termino": "función pública"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal del sector público"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cobertura de vacantes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/cargos vacantes/cobertura de vacantes"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "convenciones colectivas de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/negociación colectiva/convenios colectivos de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "convenciones colectivas de trabajo",
+                "convención colectiva",
+                "convenio colectivo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios/indemnización"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por daños",
+                "indemnización del daño",
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "reescalafonamiento"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/derechos de los agentes de la administración pública/carrera administrativa/escalafón/reescalafonamiento"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "derechos del empleado público",
+                "relación de empleo público",
+                "reencasillamiento",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "reencasillamiento escalafonario",
+                "derechos del funcionario público",
+                "funcionarios y empleados públicos",
+                "función pública",
+                "reencasillamiento funcional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extinción de la relación funcional"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/extinción de la relación funcional"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "baja del agente",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "licencias especiales"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/vacaciones y licencias especiales/licencias especiales"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "licencia ordinaria"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/vacaciones y licencias especiales/vacaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "vacaciones anuales pagas",
+                "licencia ordinaria",
+                "licencia anual ordinaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "licencia por maternidad"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/vacaciones y licencias especiales/licencias especiales/licencia por maternidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "adicional por antigüedad"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración/remuneraciones accesorias/adicionales de remuneración/adicional por antigüedad"
+            },
+            "sinonimos": {
+              "termino": [
+                "estímulos",
+                "contrato laboral",
+                "derecho del trabajo",
+                "plus",
+                "incentivos",
+                "bonificaciones",
+                "salario",
+                "bonificación por antigüedad",
+                "suplemento salarial",
+                "sueldo",
+                "retribución",
+                "suplementos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Secretaría de la Función Pública"
+            },
+            "preferido": {
+              "termino": "Secretaría de la Función Pública"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Trabajo y Seguridad Social"
+            },
+            "preferido": {
+              "termino": "Ministerio de Trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Trabajo, Empleo y Seguridad Social",
+                "Ministerio de Trabajo, Empleo y Formación de Recursos Humanos",
+                "Ministerio de Trabajo y Seguridad Social de la Nación",
+                "Ministerio de Trabajo y Seguridad Social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delegación de facultades"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/facultades de la administración/facultades reglamentarias/delegación de facultades a la Administración"
+            },
+            "sinonimos": {
+              "termino": [
+                "potestad reglamentaria",
+                "potestades administrativas",
+                "función pública",
+                "facultades de la administración pública",
+                "delegación de facultades"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "facultades de la administración pública (facultades de la administración)",
+            "suplemento salarial (adicionales de remuneración)",
+            "delegación de facultades (delegación de facultades a la Administración)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "adicional por antigüedad",
+            "agentes de la administración pública",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "derecho colectivo del trabajo",
+            "daños y pérdidas (daños y perjuicios)",
+            "personal del sector público (agentes de la administración pública)",
+            "derechos del empleado público (derechos de los agentes de la administración pública)",
+            "licencia anual ordinaria (vacaciones)",
+            "Ministerio de Trabajo y Seguridad Social de la Nación (Ministerio de Trabajo)",
+            "Ministerio de Trabajo",
+            "vacaciones y licencias especiales",
+            "relación de empleo público (empleo público)",
+            "remuneración",
+            "funcionarios y empleados públicos (agentes de la administración pública)",
+            "Derecho administrativo",
+            "adicionales de remuneración",
+            "potestades administrativas (facultades de la administración)",
+            "reencasillamiento escalafonario (reescalafonamiento)",
+            "facultades de la administración",
+            "delegación de facultades a la Administración",
+            "responsabilidad por daños (responsabilidad civil)",
+            "derechos del funcionario público (derechos de los agentes de la administración pública)",
+            "Administración Pública",
+            "indemnización",
+            "derechos de los agentes de la administración pública",
+            "convención colectiva (convenios colectivos de trabajo)",
+            "licencias especiales",
+            "baja del agente (extinción de la relación funcional)",
+            "suplementos (adicionales de remuneración)",
+            "bonificación por antigüedad (adicional por antigüedad)",
+            "bonificaciones (adicionales de remuneración)",
+            "acto administrativo",
+            "convenciones colectivas de trabajo (convenios colectivos de trabajo)",
+            "sueldo (remuneración)",
+            "indemnización por daños (indemnización)",
+            "negociación colectiva",
+            "responsabilidad civil",
+            "Ministerio de Trabajo y Seguridad Social (Ministerio de Trabajo)",
+            "ingreso a la función pública",
+            "facultades reglamentarias",
+            "estímulos (adicionales de remuneración)",
+            "reencasillamiento funcional (reescalafonamiento)",
+            "decreto reglamentario",
+            "plus (adicionales de remuneración)",
+            "cargos vacantes",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "Administración Pública Nacional",
+            "Ministerio de Trabajo, Empleo y Formación de Recursos Humanos (Ministerio de Trabajo)",
+            "reglamentos",
+            "agentes de la Administración (agentes de la administración pública)",
+            "contrato laboral (contrato de trabajo)",
+            "cobertura de vacantes",
+            "vacaciones anuales pagas (vacaciones)",
+            "personal del Estado (agentes de la administración pública)",
+            "Ministerio de Trabajo, Empleo y Seguridad Social (Ministerio de Trabajo)",
+            "potestad reglamentaria (facultades reglamentarias)",
+            "salario (remuneración)",
+            "reescalafonamiento",
+            "acto administrativo de alcance general",
+            "Secretaría de la Función Pública",
+            "reglamento administrativo (reglamentos)",
+            "licencia ordinaria (vacaciones)",
+            "daños y perjuicios",
+            "Derecho civil",
+            "extinción de la relación funcional",
+            "indemnización del daño (indemnización)",
+            "Derecho de daños (responsabilidad civil)",
+            "reencasillamiento (reescalafonamiento)",
+            "vacaciones",
+            "convenios colectivos de trabajo",
+            "función pública (Administración Pública)",
+            "incentivos (adicionales de remuneración)",
+            "carrera administrativa",
+            "convenio colectivo (convenios colectivos de trabajo)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "agentes públicos (agentes de la administración pública)",
+            "Derecho laboral",
+            "licencia por maternidad",
+            "empleo público",
+            "retribución (remuneración)",
+            "escalafón",
+            "remuneraciones accesorias"
+          ]
+        },
+        "invalidos": {
+          "termino": "SUBSIDIO"
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 023697 1989 09 01 0000 000 0000 000"
+          }
+        },
+        "texto": "la sanción de la Ley N. 23.697 y,"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 023697 1989 09 01 0042 000 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  resulta  necesario  reglamentar su Capítulo XVIII, que se refiere al empleo en la Administración  Pública  Nacional  a fin de posibilitar el cumplimiento de sus objetivos.\n\nQue  uno  de ellos consiste en propender al logro de una adecuación de los recursos  humanos  en el ámbito de la Administración Pública Nacional y demás organismos  y  dependencias  a  que  se refiere el artículo 42.\n\nQue  el  temperamento  premencionado,  junto con una evaluación  de tareas y puestos, permitirá en un plazo  razonable,  la utilización a pleno de los recursos humanos.\n\nQue  la  disposición  de  medidas de eficiencia y productividad  en dicho ámbito permitirá una  asignación  de recursos compatibles con las finalidades de la norma.\n\nQue  la COMISION TECNICA ASESORA DE POLITICA  SALARIAL  DEL  SECTOR PUBLICO ha tomado la debida intervención.\n\nQue  la   presente  medida  se  dicta  en  uso  de  las  facultades conferidas por  el  artículo  86, incisos 1 y 2 de la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.- A los efectos de las disposiciones contenidas en el segundo párrafo  del  artículo  42  de  la  Ley  N.  23.697,  se considerarán  como vacantes las existentes a la fecha de entrada en vigencia del  citado  cuerpo legal  que  cuenten  con  el  debido financiamiento,  así  como las que se produzcan con posterioridad a dicha fecha."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000930 1985 05 22 0002 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 000930 1985 05 22 0003 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 000930 1985 05 22 0004 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "DEC C 002326 1985 00 00 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 2,
+          "texto": "ARTICULO 2.- La cobertura de las vacantes a que hace referencia el artículo  precedente  se  ajustará  a los artículos 2, 3 y 4 del Decreto  N.  930/85, modificado por su similar  N.  2.326/85,  con excepción de las correspondientes  a las DOS (2) máximas Categorías de  cada  régimen escalafonario o estatutario,  las  que  serán  de libre disposición  por parte de las autoridades con facultades para efectuar designaciones."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.-  A  los  efectos  de  lo dispuesto por el cuarto párrafo del  artículo  42  de  la  Ley N. 23.697  respecto  de  la expresión \"dentro de la zona geográfica  de  su  residencia\" deberá entenderse  como  la comprendida  en  el  radio de CINCUENTA  (50) kilómetros del domicilio real del personal a trasladar."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO 4.- Créase una Comisión integrada por los Ministros de Economía  y de Trabajo y Seguridad Social y por el Secretario de la Función Pública  de la PRESIDENCIA DE LA NACION la que, en el plazo de NOVENTA (90) días  contados desde la fecha del presente decreto, propondrá al Poder Ejecutivo  Nacional las medidas a que se refiere el artículo 43 de la Ley N. 23.697.  Los  Ministros citados podrán designar en su representación a los Secretarios de sus respectivas áreas que estimen conveniente.\n\nPara  el  cumplimiento  de su cometido la Comisión deberá solicitar la participación de los Ministerios  y Secretaría de la PRESIDENCIA DE  LA NACION, cuando  ello resulte necesario  en  razón  de  sus competencias específicas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000257 1986 00 00 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  Las  autoridades  a  cargo de las entidades que integran el  sistema bancario oficial nacional,  propondrán  a  la Comisión creada  por el  artículo anterior indicadores fehacientes de productividad y eficiencia, programas  de control y seguimiento de  los  mismos en  sus  respectivos bancos.  En  forma  conjunta propondrán también los mecanismos de información y consulta en las distintas    áreas,    secciones,  sectores,  niveles, estructuras funcionales o sucursales  que resulten necesario. Las autoridades a cargo de las entidades mencionadas,  darán  vista  para  que  emita opinión a la Comisión creada por Decreto N. 257/86."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000257 1986 00 00 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "ARTICULO  6.-  La  Comisión  instituida  por Decreto N. 257/86 creará  un registro  unificado de movimientos de  personal  a  los efectos de optimizar la  asignación  de  recursos  humanos en dicho sistema."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTICULO 7.- Invítase a la MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES  a adoptar  similares  criterios respecto del funcionamiento del BANCO DE LA CIUDAD DE BUENOS AIRES."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.-  En  un plazo máximo de VEINTE (20) días hábiles contados  a  partir de la publicación  del  presente  decreto,  los funcionarios  titulares    de  cada  jurisdicción  que  integra  la Administración Pública Nacional, centralizada  o  descentralizada, entidades autárquicas, empresas del Estado, sociedades  del Estado, sociedades    anónimas    con  participación  estatal mayoritaria, sociedades  de economía mixta,  servicios  de  Cuentas Especiales, Bancos Oficiales, Obras Sociales y organismos o entes previsionales    del  Sector  Público  y  todo  otro  ente  estatal cualquiera fuere su naturaleza, elevarán a la Comisión que se crea por el artículo 4 de este decreto  un  informe  detallado  de  las cláusulas  convencionales  vigentes o modalidades contenidas en los respectivos regímenes de empleo  que  tuvieran incidencia respecto de los objetivos de productividad y eficiencia perseguidos por  la Ley  N.  23.697, discriminando -de entre ellas- aquéllas en las que dicha incidencia  fuera  negativa  directa  o  indirectamente. Este informe deberá contener, además, una descripción  analítica  de  la estructura salarial  de  su  jurisdicción,  especificando asimismo todo  otro  tipo  de remuneración, beneficios o adicionales,  sean estos por suma fija o porcentuales, remunerativos o no remunerativos,  cualquiera  fuere  su naturaleza,  denominación  y concepto por el cual  se  otorgue,  como  así también el efecto que ejerce respecto de la masa salarial bruta de  su jurisdicción.\n\nUna  vez  recibidos  los  informes  a  que  se refiere  el  párrafo precedente, se  remitirá  copia  de  estos  a la COMISION  TECNICA ASESORA  DE POLITICA SALARIAL DEL SECTOR PUBLICO  para  que  en  el término  de    DIEZ  (10)  días hábiles  emita  opinión  sobre  la adecuación de los  regímenes  de  empleo  y salariales y convenios colectivos del Sector Público, a los objetivos  del artículo 44 de la Ley N. 23.697."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO 9.- La Comisión creada por el artículo 4 evaluará los informes  a  que  se refiere el artículo anterior tomando en cuenta al efecto la opinión que  emita  la  COMISION  TECNICA  ASESORA DE POLITICA  SALARIAL  DEL  SECTOR PUBLICO,  con  el  objeto  de  dar cumplimiento a  lo dispuesto en el artículo 44 de la Ley N. 23.697 debiendo en el plazo  máximo de SESENTA (60) días contados desde la recepción de dichos informes  y,  según  corresponda, proponer  al Poder  Ejecutivo Nacional por resolución conjunta del Ministerio de Economía  y  del Secretario de la Función Pública de la PRESIDENCIA DE LA NACION,  las  medidas conducentes a corregir los factores que atenten contra los objetivos  perseguidos  por  el  citado precepto legal contenidos en los regímenes de empleo de función  pública  o, con  la  misma finalidad y por resolución conjunta de los Ministros de Economía  y  de  Trabajo  y  Seguridad Social,  determinar  los procedimientos  de  revisión de los regímenes de empleos laborales.\n\nEn su caso, el MINISTERIO  DE  TRABAJO  Y SEGURIDAD SOCIAL ejercerá la facultad conferida  a  través del último  párrafo  del  citado artículo 44."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000824 1989 09 21 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 001598 1986 09 11 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 018753 1970 08 14 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 10,
+          "texto": "ARTICULO  10.-  Las  Comisiones  Negociadoras  de Convenciones Colectivas de Trabajo, que se reúnan en virtud de los  dispuesto en los  artículos  44  y 45  de  la  Ley  N.  23.697 y en el presente decreto,  deberán establecer los procedimientos  y  modalidades  de cálculo que  expresamente  excluyan  para la  determinación de las remuneraciones, los mecanismos enunciados en el primer párrafo del artículo  45  de la Ley N. 23.697. No será objeto de renegociación todo subsidio o  subvención alcanzado por la suspensión prevista en el artículo 2 de la  Ley N. 23.697 y en el Decreto N. 824 del 21 de setiembre de 1989. La  Comisión  Participativa  del  Sector Público tendrá la intervención y funciones establecidas por el  Decreto  N. 1.598/86,  a  los efectos  de  considerar  respecto de los agentes públicos no convencionados, las disposiciones  de  los artículos 44 y 45 de la Ley N. 23.697.\n\nLa   representación  del  Estado  empleador  elevará  los  Acuerdos Salariales y/o  Convenciones Colectivas resultantes, a la COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTOR PUBLICO, a efectos de que esta dictamine  en los términos y con los alcances de la Ley N. 18.753. El dictamen favorable  será requisito  previo  para  la homologación de los nuevos Convenios Colectivos."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "ARTICULO 11.- Facúltase a los Ministros, a los Secretarios con atribuciones  para  designar  personal,  a  los  Secretarios  de la PRESIDENCIA  DE  LA  NACION,  al  Jefe  de  la  CASA  MILITAR de la PRESIDENCIA  DE  LA NACION  y  a  las  máximas autoridades de  las entidades  jurídicamente descentralizadas,  en  el  ámbito  de  sus respectivas  jurisdicciones,  a disponer  las  bajas  del personal encuadrado  en  las disposiciones del artículo 46 de la Ley  N.  23 697."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022140 1980 01 18 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 002043 1980 09 23 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 12,
+          "texto": "ARTICULO  12.-  Las autoridades competentes para dar de baja a los agentes deberán abstenerse  de disponer tal medida con relación al  personal  que  se encuentre  en  alguna    de  las  siguientes situaciones:\n\na) El que hubiere ingresado o promovido por concurso  a las DOS (2) máximas categorías del ordenamiento escalafonario o estatutario  de que se trate.\n\nb)  El  que  dentro  de  los  SESENTA  (60) días de la vigencia del presente decreto, reúna los requisitos exigidos  para  obtener  el máximo  porcentaje del  haber  de  la  jubilación  ordinaria  del respectivo régimen previsional.\n\nc)  El  personal en situación  de  disponibilidad  conforme  a  las previsiones del  artículo  47  del  Régimen  Jurídico Básico de la Función Pública aprobado por la Ley N. 22.140,  reglamentado por el Decreto  N.  2.043/80, o norma similar del ordenamiento  aplicable."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "ARTICULO 13.- En el caso de aquellos agentes que se encuentren sujetos a sumario administrativo en trámite, el acto administrativo  que  disponga su baja sólo cobrará eficacia una vez concluido el sumario,  siempre que del mismo no resulte la cesantía o la exoneración."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "ARTICULO  14.- Previamente a disponer la baja del personal que se encuentre  en    condición    de  adscripto  deberá  efectuarse comunicación al organismo donde presta servicios.\n\nEn  todos  los  casos  la fecha de baja  será  la  de  notificación fehaciente del agente."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "ARTICULO  15.-  Las  licencias  de  cualquier  naturaleza, que gozaren los  agentes en oportunidad de disponerse el cese  en  sus funciones,  así como    aquellas   no  usufructuadas,  caducarán automáticamente.\n\nLa licencia anual ordinaria no utilizada  deberá  ser abonada.\n\nEn  el  caso  de  aquellos  agentes  que se encontraran gozando  de licencia por maternidad, el acto administrativo  que  disponga  su baja  sólo  cobrará  eficacia  una  vez  concluida  la  licencia."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "ARTICULO  16.- A los efectos del cómputo de la antiguedad para el pago de la indemnización  prevista  en  el artículo 47 de la Ley N. 23.697, se considerarán los servicios no  simultáneos  cumplidos por  el agente en forma ininterrumpida o alternada que se tomen  en consideración  para determinar  la  antiguedad  de servicios en el ámbito  de  la  Administración  Pública siempre que los  mismos  no hubieren generado otra indemnización  por la misma causa, salvo que ésta hubiere sido reintegrada con motivo  del  reingreso,  en  cuyo caso  se  computarán  en  forma  proporcional  al  monto  devuelto."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "ARTICULO  17.- La determinación de la mayor remuneración a que se refiere el artículo  47  de la Ley N. 23.697, se efectuará entre las percibidas por el agente  durante  el  año  inmediato  anterior contado a partir de la fecha de baja.\n\nPara fijar la base de cálculo de la indemnización no se tendrán  en cuenta  los importes  devengados en concepto de compensaciones por servicios extraordinarios,  gastos de comida, viáticos, movilidad y toda otra compensación que responda  a  similares  conceptos.  La  citada  indemnización  no estará sujeta a aportes previsionales ni asistenciales, no será computada  a  los  efectos del impuesto a las  ganancias y  reemplazará a toda otra que el  régimen  laboral correspondiente prevea para el caso del cese sin causa justificada. Sólo se abonará esta última, como única indemnización, en el supuesto de que fuere superior."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "ARTICULO  18.-  El  personal dado de baja de la Administración Pública Nacional por aplicación  de  la  Ley  N.  23.697 y que haya percibido  la indemnización prevista en el artículo  47  de  dicha norma  legal  no  podrá reingresar  durante  los  CINCO  (5)  años posteriores a su baja,  sea  como agente permanente, transitorio o contratado. El Poder Ejecutivo Nacional  podrá disponer excepciones fundadas  en  la  imprescindible necesidad  de    contar con  los servicios  del  ex-agente  de  que  se  trate,  en  cuyo  caso   el beneficiario  de  la excepción reintegrará actualizada, la parte de la indemnización percibida,  proporcional  a los meses que faltaren para  cumplir el  período  de  CINCO  (5)  años  indicado.    La  actualización  se  hará  aplicando  el  índice  de  precios  al consumidor, nivel  general  publicado por el Instituto Nacional de Estadística y Censos."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001200 1985 06 28 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 19,
+          "texto": "ARTICULO  19.-  En  el  ámbito  de la SECRETARIA DE LA FUNCION PUBLICA  de  la PRESIDENCIA DE LA NACION  se  llevará  un  registro especial donde  se registrarán los movimientos de baja de personal alcanzado por la aplicación del  artículo 46 de la Ley N. 23.697 y los de los eventuales reingresos en  los  términos  del artículo 18 del presente decreto.\n\nLos organismos de la Administración Pública Nacional, centralizados  y descentralizados, cualquiera fuere su  naturaleza jurídica deberán remitir dentro de los DIEZ (10) días de dispuesta la medida, a la SECRETARIA  DE LA FUNCION PUBLICA de la PRESIDENCIA DE LA NACION la nómina de los  agentes dados de baja con un detalle de sus antecedentes personales y  administrativos, como así también la de los eventuales reingresantes.\n\nSerán responsables de cumplir con esta  obligación,  los Directores de Personal o funcionarios que hagan sus veces en cada  organismo, quedando sujetos  en  caso  de  incumplimiento a las sanciones que correspondan.\n\nEl  agente  ingresante  deberá  presentar  una  declaración  jurada manifestando no hallarse incurso  en  la  incompatibilidad prevista en el artículo 18 del presente decreto, sin  perjuicio  de  que los Directores  de Personal  o funcionarios con atribuciones similares ratifiquen  tal circunstancia,    en   forma  inmediata,  mediante consulta al registro a que se refiere el  presente  artículo. Estos funcionarios serán responsables, en caso de incumplimiento,  en los términos y con los alcances del Decreto N. 1.200/85."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "ARTICULO  20.-  El  gasto  que  demande  el cumplimiento de lo dispuesto por el presente decreto, será atendido  con  los créditos asignados  en el Presupuesto General de la Administración  Nacional vigentes para  las respectivas  jurisdicciones en el Inciso 11. En caso  de  no ser esto suficiente, la  SECRETARIA  DE  HACIENDA  del MINISTERIO  DE  ECONOMIA arbitrará  las  medidas  necesarias  para concretar los reajustes pertinentes."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "ARTICULO  21.-  Mediante resolución conjunta del MINISTERIO DE ECONOMIA  y el MINISTERIO  DE  TRABAJO  Y  SEGURIDAD  SOCIAL  o  la SECRETARIA  DE  LA FUNCION PUBLICA de la PRESIDENCIA DE LA NACION, según el ámbito de sus respectivas  competencias,  se dictarán las normas    interpretativas, aclaratorias  y  complementarias    del presente decreto."
+        },
+        {
+          "numero-articulo": 22,
+          "texto": "ARTICULO 22.- El presente decreto entrará en vigencia a partir de su publicación en el Boletín Oficial."
+        },
+        {
+          "numero-articulo": 23,
+          "texto": "ARTICULO  23.- Comuníquese al HONORABLE CONGRESO DE LA NACION, en cumplimiento  de lo dispuesto por el artículo 91 de la Ley N. 23 697."
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "ARTICULO  24.-  Comuníquese,  publíquese,  dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM  -  RAPANELLI - BAUZA - TRIACA - LUDER - GONZALEZ - CAVALLO - DROMI - SALONIA"
+      },
+      "id-infojus": "DN19892001226"
+    }
+  }
+}

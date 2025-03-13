@@ -1,0 +1,312 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-404-0000-6991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990844830,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "404-nacional-modificacion-alicuotas-ley-impuestos-internos-dn19960000404-1996-04-12"
+      }
+    },
+    "content": {
+      "mecanografico": 19960000404,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 404,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1996-04-12",
+      "standard-normativo": "DEC C 000404 1996 04 12",
+      "titulo-norma": "MODIFICACION DE ALICUOTAS DE LA LEY DE IMPUESTOS INTERNOS",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1996 04 15"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 1 (B.O. 96-04-15)",
+            "id": "MODIFICA0",
+            "ref": "TOR C 003764 1979 10 23 0043 000"
+          },
+          {
+            "cr": "POR ART. 2 (B.O. 96-04-15)",
+            "id": "MODIFICA1",
+            "ref": "TOR C 003764 1979 10 23 0069 000"
+          },
+          {
+            "cr": "POR ART. 3 (B.O. 96-04-15)",
+            "id": "OBSERVA A2",
+            "ref": "TOR C 003764 1979 10 23 0000 000 A"
+          },
+          {
+            "cr": "POR ART. 4 (B.O. 96-04-15)",
+            "id": "OBSERVA A3",
+            "ref": "TOR C 003764 1979 10 23 0062 000"
+          },
+          {
+            "cr": "POR ART. 5 (B.O. 96-04-15)",
+            "id": "DEROGA A4",
+            "ref": "DEC C 000739 1995 05 31 0000 000"
+          },
+          {
+            "cr": "POR ART. 5 (B.O. 96-04-15)",
+            "id": "DEROGA A5",
+            "ref": "DEC C 000742 1995 05 31 0000 000"
+          },
+          {
+            "cr": "POR ART. 6 (B.O. 96-04-15)",
+            "id": "OBSERVA A6",
+            "ref": "DEC C 000740 1995 05 31 0000 000"
+          },
+          {
+            "cr": "POR ART. 6 (B.O. 96-04-15)",
+            "id": "OBSERVA A7",
+            "ref": "DEC C 000741 1995 05 31 0000 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 404/96",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1996-04-23",
+      "fecha-mod": "2003-04-10",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE MODIFICAN LAS ALICUOTAS DE LA LEY DE IMPUESTOS INTERNOS APLICABLES A LAS BEBIDAS ALCOHOLICAS, ANALCOHOLICAS, PRODUCTOS DE TOCADOR Y ALFOMBRAS, TAPICES Y SIMILARES."
+      },
+      "noticias-accesorias": {
+        "texto": "NUMERO DE ARTICULO QUE ESTABLECE LA ENTRADA EN VIGENCIA: 0007 FECHA DE ENTRADA EN VIGENCIA: 1996 04 16 NUMERO DE ARTICULO QUE ESTABLECE LA SALIDA DE VIGENCIA: 0007 FECHA DE SALIDA DE VIGENCIA: 1997 05 31"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "impuestos internos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuestos internos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bebidas alcohólicas"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/elaboración de productos alimenticios/elaboración de bebidas/elaboración de bebidas alcohólicas/bebidas alcohólicas"
+            },
+            "sinonimos": {
+              "termino": [
+                "elaboración de alimentos",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bebidas analcohólicas"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/elaboración de productos alimenticios/elaboración de bebidas/bebidas analcohólicas"
+            },
+            "sinonimos": {
+              "termino": [
+                "elaboración de alimentos",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "objetos suntuarios"
+            },
+            "preferido": {
+              "termino": "objetos suntuarios"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Tributario",
+            "gravámenes (tributos)",
+            "productos industriales (actividad industrial)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "tributos",
+            "impuestos internos",
+            "industria alimenticia",
+            "elaboración de alimentos (elaboración de productos alimenticios)",
+            "impuestos",
+            "elaboración de productos alimenticios",
+            "elaboración de bebidas",
+            "bebidas analcohólicas",
+            "elaboración de bebidas alcohólicas",
+            "objetos suntuarios",
+            "derecho fiscal (Derecho Tributario)",
+            "industria (actividad industrial)",
+            "Actividades económicas",
+            "bebidas alcohólicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000739 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000740 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000741 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000742 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "TOR C 003764 1979 10 23 0086 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente N. 034-003879/96 del Registro del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, los Decretos N. 739, 740, 741, y 742  del 31 de mayo de 1995 y lo dispuesto en el Artículo 86 de la Ley de Impuestos Internos -t.o. en 1979- y sus modificaciones,"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "TOR C 003764 1979 10 23 0086 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "TOR C 003764 1979 10 23 0043 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "TOR C 003764 1979 10 23 0069 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "TOR C 003764 1979 10 23 0062 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000739 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DEC C 000742 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "TOR C 003764 1979 10 23 0070 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "DEC C 000740 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DEC C 000741 1995 05 31 0000 000 0000 000"
+            },
+            {
+              "cr": "Por ello,",
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "TOR C 003764 1979 10 23 0063 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que el PODER  EJECUTIVO  NACIONAL está facultado por el artículo 86 de la Ley de Impuestos Internos -t.o. en 1979- y sus modificaciones, a dejar sin  efecto  a modificar transitoriamente y cuando así lo aconseje la situación económica de una o determinadas industrias, los gravámenes previstos en la misma.\n\nQue resulta necesario coordinar la política  tributaria  con  las restantes  medidas  adoptadas  a  fin  de  afianzar  el  proceso de estabilidad y reactivación de la economía.\n\nQue en tal sentido, se considera conveniente reducir transitoriamente las alícuotas establecidas en los artículos  43  y 69  de  la  Ley  de  Impuestos  Internos - t.  o.  en 1979 - y sus modificaciones y dejar sin efecto transitoriamente la  alícuota del artículo 62 de la referida Ley.\n\nQue consecuentemente, corresponde sustituir el régimen establecido por el Decreto N. 739/95 en relación a los productos alcanzados  por el artículo 43 de la Ley de Impuestos Internos -t.o. en 1979- y sus modificaciones,  sobre  las  bebidas  alcohólicas  definidas  en el mismo,  y  del  Decreto  N. 742/95  en  relación  a  los  productos alcanzados por el artículo 62 de la Ley de Impuestos Internos -t.o.\n\nen  1979-  y  sus  modificaciones,  sobre  los artículos de tocador definidos  en  el  mismo,  por  el  régimen  del presente  Decreto, disponiendo su derogación.\n\nQue  asimismo, es necesario dejar sin efecto transitoriamente  el gravamen  establecido  para  los  bienes definidos en el Título II, Capítulo VI, artículo 70, inciso a) de la Ley de Impuestos Internos -t.o. en 1979- y sus modificaciones, respecto de alfombras, tapices y similares comprendidos y definidos  en  la  planilla  anexa  I al mencionado artículo, partidas N. C. C. A. 58.01/00, 58.02/01, 58.03/ 00 y sus respectivas observaciones.\n\nQue  el decreto N. 740/95 dispuso la prórroga de la suspensión del gravamen  establecido  en  el  Título II, Capítulo VI, artículo 70, inciso a) de la Ley de Impuestos  Internos  -t.o.  en  1979-  y sus modificaciones,  sobre  las  embarcaciones  livianas  para recreo y deportes  y sus motores fuera de borda comprendidos en la  planilla anexa I al  mencionado artículo, partidas N. C. C. A. 84.06; 85.01;\n\n89.01 y 89.05 y sus respectivas observaciones.\n\nQue el Decreto  N. 741/95  dispuso  la  prórroga  de  la  reducción transitoria de las alícuotas del gravamen establecido en el  primer y  segundo  párrafo del artículo 63 de la Ley de Impuestos Internos -t.o. en 1979- y sus modificaciones, y sustituyó el artículo 83 del Decreto Reglamentario de la referida Ley.\n\nQue de acuerdo  a  los  indicadores de precios se ha observado una evolución razonablemente ajustada  a  la reducción o suspensión, en su caso, de la tasa del impuesto de ley  y  un sostenimiento de los valores de venta durante el período posterior  al  de su originaria aplicación.\n\nQue se ha observado la presencia en el mercado local  de productos alcanzados  por  el  presente  régimen  provenientes de operaciones marginales.\n\nQue  deben  promoverse  las políticas tendientes  a  desalentar  la práctica de este tipo de  operaciones  facilitando la incorporación de las mismas al circuito formal de la economía.\n\nQue la medida posibilitará un aumento en los niveles de producción,  mejorando  la  eficiencia  y  competitividad   de  los sectores involucrados, induciendo al logro de una mayor transparencia  en  los  mercados de los productos gravados, lo  que habrá de facilitar el control  y  cumplimiento  de las obligaciones tributarias.\n\nQue las alícuotas establecidas por la Ley gravan  excesivamente  a bienes de consumo, por lo que la medida correctiva contribuirá a la disminución  de  los  precios  con  que  los productos llegan a los consumidores.\n\nQue  la demanda adicional esperada tendrá  como  consecuencia  un incremento de la recaudación en concepto de aranceles de importación  y de impuestos a las ganancias y al valor agregado que procure la neutralidad  de  la  medida  en  relación  al  nivel  de recaudación tributaria.\n\nQue  ha  tomado  la  debida  intervención  el  Servicio  Jurídico Permanente  del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS.\n\nQue el presente  Decreto  se  dicta  en  uso  de  las  facultades conferidas por el artículo 86 de la Ley Impuestos Internos -t.o. en 1979- y sus modificaciones."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art. 1: Modifícanse las alícuotas previstas en el artículo 43 de la Ley de Impuestos Internos -t.o. en 1979- y sus modificaciones, según el siguiente detalle:\n\n 1 - Whisky                                           12 % 2 - Cognac,  Brandy,  Ginebra, Pisco, Tequila, Gin, Vodka o Ron                              8 % 3 - En función de su graduación, excluidos los productos indicados en 1 y 2; - 1a clase, 10° a 29° y fracción.                      6 % - 2a clase, 30° y más.                                 8 %"
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2: Modifícase la  alícuota  prevista  en el artículo 69 de la Ley  de  Impuestos  Internos  -t.o. en 1979- y sus  modificaciones, reduciéndola al CUATRO POR CIENTO (4 %)."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3: Déjase sin efecto la aplicación  del  gravamen establecido en el Título II, Capítulo VI, artículo 70, inciso  a)  de la Ley de Impuestos Internos -t.o. en 1979- y sus modificaciones,  sobre  las alfombras,  tapices  y  similares  comprendidos  y  definidos en la planilla anexa I al mencionado artículo, partidas N. C. C. A. 58.01/ 00,  58.02/01  y   58.03/00  y  sus  respectivas  observaciones."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4: Déjase sin efecto la aplicación del gravamen  establecido en el Título  II,  Capítulo  II, artículo 62 de la Ley de Impuestos Internos -t.o. en 1979- y sus  modificaciones,  sobre los artículos de tocador."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5: Deróganse los Decretos 739/95 y 742/95 a  partir  del  día siguiente  al  de la publicación del presente Decreto en el Boletín Oficial."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6: Prorrógase  a  partir del 1 de junio de 1996 y hasta el 31 de mayo de 1997 la vigencia  de  los Decretos N. 740/95 y 741/95."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art.  7: Las disposiciones de los  Artículos  1,  2,  3  y 4  del presente  Decreto  regirán  a  partir  del  día  siguiente al de su publicación  en el Boletín Oficial y hasta el 31 de  mayo  de  1997."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art.  8: Dése cuenta  al  HONORABLE  CONGRESO  DE  LA  NACION."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9: Comuníquese,  publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-Rodríguez-Cavallo"
+      },
+      "id-infojus": "DN19960000404"
+    }
+  }
+}

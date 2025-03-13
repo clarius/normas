@@ -1,0 +1,804 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-014-1000-6991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1471367288157,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1410-nacional-estructura-organica-ministerio-interior-dn19960001410-1996-12-03"
+      }
+    },
+    "content": {
+      "mecanografico": 19960001410,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1410,
+      "timestamp": "2016-08-16T13:36:59",
+      "timestamp-m": "2016-08-16T13:36:59",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1996-12-03",
+      "standard-normativo": "DEC C 001410 1996 12 03",
+      "titulo-norma": "ESTRUCTURA ORGANICA DEL MINISTERIO DEL INTERIOR.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1996 12 11"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "ANEXO I EN LA PARTE PERTINENTE AL MINISTERIO DEL INTERIOR, POR ART. 1 (B.O. 96-12-11)",
+            "id": "MODIFICA0",
+            "ref": "DEC C 000660 1996 06 24 0001 000"
+          },
+          {
+            "cr": "MODIFICA ANEXO II EN LA PARTE PERTINENTE AL MINISTERIO DEL INTERIOR, POR ART. 2 (B.O. 96-12-11)",
+            "id": "MODIFICA1",
+            "ref": "DEC C 000660 1996 06 24 0000 000"
+          },
+          {
+            "cr": "POR ART. 3 (B.O. 96-12-11)",
+            "id": "MODIFICA2",
+            "ref": "DEC C 000660 1996 06 24 0006 000"
+          },
+          {
+            "cr": "LISTADO ANEXO C, POR ARTS. 6 Y 7 (B.O. 96-12-11)",
+            "id": "MODIFICA3",
+            "ref": "DEC C 000660 1996 06 24 0001 000"
+          },
+          {
+            "cr": "SUSTITUIDO, ANEXO I, POR ART. 16 B.O. 96-12-11",
+            "id": "MODIFICA4",
+            "ref": "DEC C 009329 1963 10 11 0001 000"
+          },
+          {
+            "cr": "POR ART. 24 (B.O. 96-12-11)",
+            "id": "DEROGA A5",
+            "ref": "DEC C 000497 1994 04 08 0000 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "SUSTITUYE ART. 1 (B.O. 97-02-20)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 000153 1997 02 14 0001 000"
+          },
+          {
+            "cr": "MODIFICA ANEXO II (B.O. 97-02-20)",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 000153 1997 02 14 0004 000"
+          },
+          {
+            "cr": "MODIFICA ANEXO I - ORGANIGRAMA (B.O. 97-08-06)",
+            "id": "MODIFICADO POR2",
+            "ref": "DEC C 000721 1997 07 31 0002 000"
+          },
+          {
+            "cr": "ANEXO II EN LO RELATIVO AL INSTITUTO NACIONAL DE LUCHA CONTRA LA DISCRIMINACION, LA XENOFOBIA Y EL RACISMO (B.O. 97-08-06)",
+            "id": "MODIFICADO POR3",
+            "ref": "DEC C 000721 1997 07 31 0003 000"
+          },
+          {
+            "cr": "PRORROGA PLAZO ART. 9 (B.O. 97-09-18)",
+            "id": "OBSERVADO POR4",
+            "ref": "DAN C 000523 1997 09 12 0001 000"
+          },
+          {
+            "cr": "ANEXO II, EN LO RELATIVO A LAS SEC. DE SEGURIDAD INT., PLANEAM. Y PROT. CIVIL Y ASUNTOS TEC. DE SEGURIDAD (B.O. 97-10-08)",
+            "id": "MODIFICADO POR5",
+            "ref": "DEC C 001015 1997 09 29 0004 000"
+          },
+          {
+            "cr": "ANEXO I, ORGANIGRAMA, MODIFICADO EN LO PERTINENTE A LA SECRETARIA DE SEGURIDAD INTERIOR (B.O. 97-10-08)",
+            "id": "MODIFICADO POR6",
+            "ref": "DEC C 001015 1997 09 29 0010 000"
+          },
+          {
+            "cr": "ANEXO III, PLANTA, MODIFICADO EN LO PERTINENTE A LA SECRETARIA DE SEGURIDAD INTERIOR (B.O. 97-10-08)",
+            "id": "MODIFICADO POR7",
+            "ref": "DEC C 001015 1997 09 29 0010 000"
+          },
+          {
+            "cr": "ART. 1 (B.O. 97-11-14)",
+            "id": "MODIFICADO POR8",
+            "ref": "DNU C 001166 1997 11 07 0001 000"
+          },
+          {
+            "cr": "ANEXO I (B.O. 97-11-14)",
+            "id": "MODIFICADO POR9",
+            "ref": "DNU C 001166 1997 11 07 0006 000"
+          },
+          {
+            "cr": "ANEXO III (B.O. 97-11-14)",
+            "id": "MODIFICADO POR10",
+            "ref": "DNU C 001166 1997 11 07 0009 000"
+          },
+          {
+            "cr": "ANEXO III, COMITE INTERJURISDICCIONAL DEL RIO COLORADO, TRANSFERIDO A LA SEC. DE RECURSOS NAT. Y DESARROLLO SUSTENTABLE (B.O. 98-02-05)",
+            "id": "MODIFICADO POR11",
+            "ref": "DEC C 000146 1998 01 30 0006 000"
+          },
+          {
+            "cr": "ART. 15 SUSTITUIDO (B.O. 98-04-15)",
+            "id": "MODIFICADO POR12",
+            "ref": "DEC C 000402 1998 04 13 0002 000"
+          },
+          {
+            "cr": "ANEXO I, EN LO RELATIVO A LA SECRET. DE ASIST. FINANC. A LAS PROVINCIAS (B.O. 98-04-30)",
+            "id": "MODIFICADO POR13",
+            "ref": "DEC C 000445 1998 04 23 0004 000"
+          },
+          {
+            "cr": "ANEXO III, EN LO RELATIVO A LA SECRET. DE ASIST. FINANC. A LAS PROVINCIAS (B.O. 98-04-30)",
+            "id": "MODIFICADO POR14",
+            "ref": "DEC C 000445 1998 04 23 0004 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.410/96",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1996-12-18",
+      "fecha-mod": "2016-08-16",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE APRUEBA LA ESTRUCTURA ORGANICA DEL MINISTERIO DEL INTERIOR.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "0000IA ANEXO I. ORGANIGRAMA",
+            "000IIB ANEXO II. OBJETIVOS, RESPONSABILIDAD PRIMARIA Y ACCIONES",
+            "00IIIC ANEXO III. PLANTA"
+          ]
+        },
+        "informacion-vinculada": 1E+19
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION: LA ACTUAL ESTRUCTURA DEL MINISTERIO DEL INTERIOR SE RIGE POR DECRETO 1.410/96 Y MODIFICATORIOS NO ESTANDO DEROGADAS LAS ANTERIORES.\n\nOBSERVACION: Se prorroga el plazo del art. 9, desde su vencimiento y por un período de SESENTA (60) días corridos, por Art. 1 de la Decisión Administrativa 523/97 (B.O. 97-09-18).\n\nANTECEDENTES: ART. 15 SUSTITUIDO POR ART. 6 DEL DEC. 1.015/97 (B.O. 97-10-08)."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Ministerio del Interior"
+            },
+            "preferido": {
+              "termino": "Ministerio del Interior y Transporte"
+            },
+            "sinonimos": {
+              "termino": "Ministerio del Interior"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "estructura orgánica"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/administración centralizada/organismos del Estado/estructura orgánica"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades gubernamentales",
+                "órgano administrativo",
+                "organismos centralizados",
+                "entes públicos",
+                "función pública",
+                "organismos públicos",
+                "organismos administrativos",
+                "reparticiones nacionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "organismos centralizados (administración centralizada)",
+            "organismos públicos (organismos del Estado)",
+            "función pública (Administración Pública)",
+            "administración centralizada",
+            "Ministerio del Interior y Transporte",
+            "entidades gubernamentales (organismos del Estado)",
+            "Administración Pública",
+            "organismos administrativos (organismos del Estado)",
+            "Ministerio del Interior (Ministerio del Interior y Transporte)",
+            "estructura orgánica",
+            "organismos del Estado",
+            "reparticiones nacionales (organismos del Estado)",
+            "órgano administrativo (organismos del Estado)",
+            "Derecho administrativo",
+            "entes públicos (organismos del Estado)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000558 1996 05 24 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000660 1996 06 24 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000483 1996 05 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 009329 1963 10 11 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DLE C 015385 1944 06 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 012913 1946 12 19 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "LEY C 022352 1980 12 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "LEY C 022354 1980 12 15 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "LEY C 023554 1988 04 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "LEY C 024059 1991 12 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "LEY C 024629 1996 02 22 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "los Decretos N. 558 del 24 de mayo de 1996, 660 del 24 de junio de  1996,  483  de  fecha  2 de mayo de 1996 y 9.329 del 11 de octubre de 1963, el Decreto-Ley N. 15.385/44  (Ley N. 12.913) y las Leyes N. 22.352, 22.354, 23.554, 24.059 y 24.629, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024629 1996 02 22 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000660 1996 06 24 0005 000 0007 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002064 1987 12 22 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 001696 1994 09 23 0005 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000993 1991 05 27 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DEC C 000558 1996 05 24 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DEC C 001545 1994 08 31 0000 000 0000 000"
+            },
+            {
+              "cr": "SECRETARIA DE LA FUNCION PUBLICA",
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "RES C 000422 1994 09 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DEC C 000483 1996 05 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "LEY C 024059 1991 12 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "DEC C 000558 1996 05 24 0011 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  por  la  Ley N. 24.629 se delegó al PODER EJECUTIVO  NACIONAL facultades en materia de  administración con el objeto de realizar, en su ámbito, la reorganización  del  Sector  Público Nacional para lograr una mayor eficiencia y racionalización del mismo mediante la modificación, fusión, transferencia de organismos a las Provincias, previo  acuerdo,  y  la  supresión  total o parcial  de  objetivos, competencias,    funciones    y  responsabilidades    superpuestas, duplicadas o cuyo mantenimiento  se haya tornado innecesario en los términos y con los alcances contenidos  en la precitada norma legal.\n\nQue por los artículos 5, 6 y 7 y Anexos I, II y III del Decreto N.\n\n660/96,  se  modificó  la  estructura del MINISTERIO  DEL  INTERIOR.\n\nQue resulta necesario producir modificaciones en los Anexos I y II del  Decreto  antes  mencionado  en  la  parte  correspondiente  al MINISTERIO DEL INTERIOR, con el fin de adecuar el Organigrama y los Objetivos  a las reales  necesidades  del  citado  Departamento  de Estado.\n\nQue razones  de  índole  político-institucional  aconsejan que las fuerzas  Policiales  y  de  Seguridad  dependan  orgánicamente  del Ministerio del Interior.\n\nQue  el nuevo status jurídico de la Ciudad de Buenos  Aires  hace necesario  adecuar  el  funcionamiento  y  las  competencias  de la COMISION  NACIONAL DEL AREA METROPOLITANA DE BUENOS AIRES que fuera creada por el Decreto N. 2.064 del 22 de diciembre de 1987.\n\nQue el Decreto N. 1.696 del 23 de setiembre de 1994 en su artículo 5 dispuso la  excepción  de  la  entonces  SECRETARIA  DE SEGURIDAD Y PROTECCION  A  LA  COMUNIDAD  de  lo establecido en el Título  III, Capítulos I, II y III del Decreto N. 993 del 27 de mayo de 1991 (T.\n\nO. 1995), respecto de la cobertura de  vacantes  de  la  estructura organizativa.\n\nQue por el Decreto N. 558/96 se estableció la obligación para  cada Jurisdicción  de presentar una propuesta de estructura organizativa y distribución  de  las  plantas  de  personal  hasta  el  nivel de Dirección Nacional, General o equivalentes o primer nivel operativo con dependencia directa del nivel político.\n\nQue  el  MINISTERIO  DEL  INTERIOR  ha elaborado una propuesta de modificación  de  su estructura organizativa  de  acuerdo  con  los lineamientos del Decreto N. 1.545  del  31  de  agosto de 1994 y la Resolución de la SECRETARIA DE LA FUNCION PUBLICA N.  422 del 13 de setiembre  de  1994,  en  atención  a necesidades operativas  y  de ordenamiento de competencias.\n\nQue  el  INSTITUTO  FEDERAL  DE  ASUNTOS  MUNICIPALES  ha  venido cumpliendo  con  los  objetivos para los  que  fuera  creado,  como organismo centralizado del MINISTERIO DEL INTERIOR.\n\nQue razones operativas e institucionales ameritan transformar a la DIRECCION  NACIONAL  DE MIGRACIONES  en  organismo  descentralizado dependiente de la SUBSECRETARIA  DE  POBLACION  del  MINISTERIO DEL INTERIOR.\n\nQue resulta conveniente crear un órgano de asesoramiento  para  la coordinación  de  las  actividades  operativas  de  las  Fuerzas de Seguridad  y  Policiales  dependientes  del MINISTERIO DEL INTERIOR.\n\nQue mediante el Decreto N. 483/96 se dispuso la disolución  de la SUPERINTENDENCIA  NACIONAL  DE  FRONTERAS, y la reasignación en los organismos que resulten competentes  en razón de la materia, de las funciones de Superintendencia atribuidas  a la misma por el Decreto \"S\" N. 2.563/79, sus modificatorios y complementarios.\n\nQue  por lo expuesto, resulta necesario determinar  el  área  del MINISTERIO  DEL  INTERIOR que tomará a su cargo las funciones de la ex-SUPERINTENDENCIA NACIONAL DE FRONTERAS.\n\nQue por el Decreto N. 660/96,  se  dispuso  la transferencia a la órbita  del  MINISTERIO  DEL INTERIOR de la DIRECCION  NACIONAL  DE DEFENSA CIVIL del MINISTERIO DE DEFENSA.\n\nQue en virtud de la transferencia  mencionada,  resulta  necesario adecuar  los  objetivos  asignados  a  la  SECRETARIA  DE SEGURIDAD INTERIOR, en los aspectos relacionados con la Protección  Civil, en concordancia  con  las  funciones  del organismo transferido y  las disposiciones sobre la materia contenidas  en la Ley  N. 24.059 de Seguridad Interior.\n\nQue la UNIDAD DE REFORMA Y MODERNIZACION DEL ESTADO de la JEFATURA DE  GABINETE DE MINISTROS ha tomado la intervención que le  compete según lo  dispuesto por el artículo N. 11 -inciso 2- del Decreto N.\n\n558/96, expidiéndose favorablemente.\n\nQue  el  presente  se dicta  en  ejercicio  de  las  atribuciones emergentes del artículo  99  incisos  1  y  2  de  la  Constitución Nacional y del Capítulo II de la Ley N. 24.629.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "*Art. 1: Modifícase el Anexo I del Decreto N. 660/96 en la parte pertinente  al MINISTERIO DEL INTERIOR."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "*Art. 2: Modifícase  el  Anexo  II del Decreto N. 660/96 en la parte correspondiente al MINISTERIO DEL INTERIOR."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3: Modifícase el artículo 6 del Decreto N. 660/96."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4: Transfiérense al MINISTERIO  DEL  INTERIOR  los  cargos de Planta  Permanente  incluidos  en  la  Planilla  Anexa  al presente artículo,  de  acuerdo  con  el  siguiente detalle: CIENTO VEINTIUN (121) cargos de la ex-SECRETARIA DE  SEGURIDAD  Y  PROTECCION  A LA COMUNIDAD;  VEINTICUATRO  (24)  cargos  provenientes de la COMISION NACIONAL PARA LA PROMOCION Y DESARROLLO DE  LA  REGION PATAGONICA y TREINTA  Y  DOS  (32)  cargos de la DIRECCION NACIONAL  DE  DEFENSA CIVIL. El personal transferido  mantendrá sus respectivos niveles y grados  de revista vigentes a la fecha  del  presente  Decreto.  La medida incluye  los  cargos  ocupados  del  Régimen  de  Cargos con Funciones Ejecutivas."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5: Apruébase la estructura organizativa del MINISTERIO  DEL INTERIOR,  de  acuerdo  al  Organigrama, Objetivos, Responsabilidad Primaria  y  Acciones  y  Cargos    Planta  Permanente,  Planta  No Permanente y Dotación Global los que,  como  Anexos Ia, Ib, Ic, Id, Ie, If, Ig, Ih, Ii, Ij, Ik, Il, II y IIIa, IIIb y IIIc forman parte integrante del presente Decreto."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6: Elimínase al INSTITUTO FEDERAL DE ASUNTOS  MUNICIPALES del listado  del Anexo  III  del  Decreto  N.  660/96  como  Organismo Descentralizado del aludido Departamento de Estado."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7: Transfórmase  en  organismo Descentralizado a la DIRECCION NACIONAL  DE  MIGRACIONES  dependiente    de  la  SUBSECRETARIA  DE POBLACION del MINISTERIO DEL INTERIOR, e incorpórase la misma en el Anexo III del Decreto N. 660/96."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8: Disuélvese la COMISION NACIONAL DEL  AREA METROPOLITANA DE BUENOS  AIRES.  El  MINISTERIO  DEL INTERIOR queda  facultado  para producir, en el plazo de TREINTA  (30) días corridos, una propuesta que contemple el nuevo status jurídico de la Ciudad de Buenos Aires."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000993 1991 05 27 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 9,
+          "texto": "*Art. 9: Exceptúase a la SECRETARIA  DE  SEGURIDAD  INTERIOR  de lo establecido  en el Título III, Capítulos I, II y III del Decreto N.\n\n993/91 (T. O.  1995)  por  un plazo de NOVENTA (90) días corridos a partir del presente decreto,  respecto  de la cobertura de vacantes existentes en su estructura organizativa."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000202 1991 01 30 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 001732 1992 09 18 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 10,
+          "texto": "Art. 10: Transfiérese de la ex-SECRETARIA  DE  ASISTENCIA PARA LA REFORMA  ECONOMICA  PROVINCIAL  a  la  SECRETARIA DEL INTERIOR,  la UNIDAD EJECUTORA CENTRAL del Programa de  Saneamiento  Financiero y Desarrollo  Económico  de  las  Provincias  Argentinas, creada  por Decreto  N. 202  de  fecha 30 de enero de 1991, modificado  por  el Decreto N. 1.732 del 18 de setiembre  de  1992.  El  Secretario del Interior ejercerá la Dirección Nacional del Programa."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000678 1993 04 07 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 001778 1993 08 24 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 001499 1994 08 23 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "DEC C 000355 1995 03 13 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_4",
+                "ref": "DEC C 000807 1995 11 21 0000 000 0000 000"
+              },
+              {
+                "cr": "MINISTERIO DEL INTERIOR",
+                "id": "REFERENCIAS_NORMATIVAS_5",
+                "ref": "RES C 000729 1995 03 30 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 11,
+          "texto": "Art. 11: Transfiérense de la ex-SECRETARIA DE ASISTENCIA  PARA LA REFORMA  ECONOMICA  PROVINCIAL  a  la  SECRETARIA DEL INTERIOR, las funciones establecidas por los Decretos N. 678 del 7 de abril de 1993, 1.778 del 24 de agosto de 1993, 1.499 del 23 de agosto de 1994, 355 del 13 de marzo de 1995 y 807 del 21 de noviembre de 1995 y por la Resolución del MINISTERIO DEL INTERIOR N. 729 del 30 de marzo de 1995."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art.  12:  Transfiérese  a  la  COMISION  DE  TIERRAS   FISCALES NACIONALES    \"PROGRAMA   ARRAIGO\",  el  personal  proveniente  del MINISTERIO DEL INTERIOR cuyo  detalle  obra en el Anexo al presente artículo.\n\nEl personal transferido mantendrá sus respectivos  niveles y grados de revista vigentes a la fecha de la presente medida."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "Art. 13: Transfiérese a la DIRECCION NACIONAL DE MIGRACIONES,  el personal proveniente  del  MINISTERIO DEL INTERIOR -Administración Centralizada-, cuyo detalle obra  en  el Anexo al presente artículo.\n\nEl personal transferido mantendrá sus respectivos  niveles y grados de revista vigentes a la fecha de la presente medida."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "Art. 14: Transfiérese al MINISTERIO DE JUSTICIA y  al  MINISTERIO DE  ECONOMIA  Y  OBRAS  Y  SERVICIOS PUBLICOS, respectivamente,  el personal proveniente del MINISTERIO  DEL  INTERIOR  -Administración Centralizada-,  cuyo detalle obra en el Anexo al presente  artículo.\n\nEl personal transferido  mantendrá sus respectivos niveles y grados de revista vigentes a la fecha de la presente medida."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "*Art. 15: Créase en el MINISTERIO EL INTERIOR, en el ámbito de la SECRETARIA DE SEGURIDAD INTERIOR, el CONSEJO ASESOR DE SEGURIDAD.\n\nEl mencionado Consejo será presidido por el Secretario de Seguridad Interior  y estará integrado por los Subsecretarios y Directores Nacionales de la SECRETARIA DE SEGURIDAD INTERIOR, los Jefes de Planeamiento y Operaciones de la POLICIA FEDERAL ARGENTINA, la GENDARMERIA NACIONAL y la PREFECTURA NAVAL ARGENTINA y los funcionarios que designe el MINISTERIO  DEL INTERIOR. El Secretario de Seguridad Interior podrá designar a un funcionario como Coordinador del CONSEJO ASESOR DE SEGURIDAD."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "Art. 16:  Sustitúyese  el Artículo 1 del Anexo I: \"Reglamentación de la Comisión Nacional de  Zonas  de  Seguridad\"  previsto  en  el Decreto N. 9329/63."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "Art. 17: Facúltase al Presidente de la COMISION NACIONAL DE ZONAS DE  SEGURIDAD,  en  cumplimiento  de  las  competencias  legalmente asignadas,  a  ordenar  y  sistematizar  las normas que regulan  el ejercicio de la Policía de Radicación."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022352 1980 12 05 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 001012 1981 08 18 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 18,
+          "texto": "Art. 18: Incorpórase en el ámbito de la  SECRETARIA  DE SEGURIDAD INTERIOR del MINISTERIO DEL INTERIOR el régimen jurídico administrativo de los Centros de Frontera, establecido en la Ley N.\n\n22.352 y su Decreto Reglamentario N. 1.012 del 18 de agosto de 1981.\n\nEl Secretario  de  Seguridad  Interior  o  el  funcionario  que  lo reemplace en su ausencia, asumirá las funciones y responsabilidades asignadas en dicha norma."
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "Art.  19:  El  Presidente  de  la  COMISION NACIONAL DE ZONAS DE SEGURIDAD, en su carácter de Coordinador  General Intersectorial de las  actividades  comunes a cumplir por los organismos  nacionales, provinciales y municipales en los pasos de frontera habilitados, se encuentra facultado  a  delegar  en los titulares de la GENDARMERIA NACIONAL y de la PREFECTURA NAVAL  ARGENTINA,  en  sus  respectivas jurisdicciones,  las  funciones  de  coordinación  en los pasos  de frontera establecidas por el Decreto N. 2.086/77."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "Art.  20: Facúltase al Coordinador General Intersectorial  de  la COMISION  NACIONAL DE ZONAS DE SEGURIDAD a dictar e implementar las normas que orienten las funciones del Coordinador Zonal Intersectorial en los pasos de frontera. Hasta el momento en que se concreten las  mismas,  la  coordinación  de las zonas se ejecutará cumpliendo  las  directivas  impartidas por la  ex-SUPERINTENDENCIA NACIONAL DE FRONTERAS."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "Art. 21: La GENDARMERIA NACIONAL  y la PREFECTURA NAVAL ARGENTINA tendrán a su cargo y responsabilidad el mantenimiento y funcionamiento de los pasos de frontera, habilitándose a tal efecto un  programa específico en las partidas  presupuestarias  de  ambas instituciones para solventar dichos gastos."
+        },
+        {
+          "numero-articulo": 22,
+          "texto": "Art.  22:  Transfiérese el Complejo Terminal de Cargas (COTECAR) del Centro de Fronteras  de  Paso  de  los  Libres  al  ámbito  del MINISTERIO  DEL  INTERIOR,  quedando  la administración e inmediata privatización del mismo a cargo de una  Comisión que será designada por el Ministro del Interior.\n\nEl pliego a elaborar para la concesión de  estos  servicios, deberá preveer como condición de adjudicación:\n\na) La percepción de un canon conveniente.\n\nb) Una  inversión  que  mejore  las  instalaciones  del  complejo.\n\nc) La  incorporación,  por parte del concesionario, del personal de la  Planta  Transitoria  de   la  ex-SUPERINTENDENCIA  NACIONAL  DE FRONTERAS."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 018575 1970 01 30 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 23,
+          "texto": "Art. 23: La SECRETARIA DE SEGURIDAD  INTERIOR  del MINISTERIO DEL INTERIOR  colaborará  con  el  MINISTERIO  DE ECONOMIA  Y  OBRAS  Y SERVICIOS  PUBLICOS,  en  la  aplicación  de  la Ley  N. 18.575  de Promoción del Desarrollo Socioeconómico y Cultural  en las Zonas de Frontera."
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "Art.  24:  Derógase  el  Decreto N. 497 del 8 de abril de  1994."
+        },
+        {
+          "numero-articulo": 25,
+          "texto": "Art.  25:  Disuélvese la DIRECCION NACIONAL  DE  DEFENSA  CIVIL, incorporándose  su  personal,  bienes  y  útiles  a las Direcciones pertinentes de la SECRETARIA DE SEGURIDAD INTERIOR."
+        },
+        {
+          "numero-articulo": 26,
+          "texto": "Art. 26: En el plazo de TREINTA (30) días a partir  del  presente decreto,  el  MINISTERIO DEL INTERIOR deberá presentar la propuesta de estructura organizativa de las aperturas inferiores a las que se aprueban en el  presente, en concordancia con lo establecido por el Decreto N. 1.545/94, reglamentado por la  Resolución SFP N. 422/94.\n\nHasta tanto se aprueben, quedarán vigentes las  unidades existentes con    la  asignación  de  los  respectivos  cargos  con  funciones ejecutivas."
+        },
+        {
+          "numero-articulo": 27,
+          "texto": "Art. 27:  Comuníquese,  publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-RODRIGUEZ-CORACH"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I. ORGANIGRAMA",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "*ART. 1: ORGANIGRAMA - NO GRABABLE"
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO II. OBJETIVOS, RESPONSABILIDAD PRIMARIA Y ACCIONES",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "titulo-articulo": "MINISTERIO DEL INTERIOR UNIDAD DE AUDITORIA INTERNA",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nEstablecer y asegurar la aplicación de los sistemas de control interno basados en principios de economía, eficiencia y eficacia.\n\nACCIONES 1. Elaborar el plan anual y global de la Unidad de Auditoría Interna, conforme a las normas vigentes.\n\n2. Producir información integral e integrada sobre la gestión de las distintas áreas del Ministerio, analizando el cumplimiento de las políticas y metas establecidas por la Autoridad Superior.\n\n3. Asesorar a la Autoridad Superior sobre los sistemas y procedimientos que resulten convenientes aplicar o modificar en la organización, como asimismo efectuar recomendaciones respecto de los desvíos que se detecten.\n\n4. Poner en conocimiento de la Autoridad Superior y de la SINDICATURA GENERAL DE LA NACION los actos que hubiesen acarreado o se estimen puedan acarrear perjuicios para el patrimonio de la Jurisdicción.\n\n5. Evaluar la precisión de la regularidad contable en las registraciones y las medidas de salvaguarda tomadas para el acceso restringido a los activos líquidos, fijos, documentación y registros.\n\n6. Emitir informes periódicos sobre los controles de auditoría interna de revisión limitada especiales y financieros sobre la materia objeto de control.\n\n7. Diagnosticar sobre el grado de confiabilidad de los sistemas de información analizados, tomando como base la existencia de disciplinas de control y controles contables básicos."
+            },
+            {
+              "numero-articulo": 2,
+              "titulo-articulo": "UNIDAD MINISTRO INSTITUTO FEDERAL DE ASUNTOS MUNICIPALES",
+              "texto": "OBJETIVOS INSTITUTO FEDERAL DE ASUNTOS MUNICIPALES Promover la reforma política en las administraciones locales con el fin de mejorar los sistemas de representación, la eficiencia y transparencia de la gestión y la participación comunitaria.\n\nPropiciar y colaborar en el mejoramiento de la capacidad de gestión de los gobiernos municipales por medio de la asistencia técnica para la modernización de los sistemas administrativos y para la optimización de la capacidad de gerencia de políticas públicas.\n\nElaborar y proponer medios tendientes a la formulación y ejecución de políticas de descentralización.\n\nRespaldar los esfuerzos orientados a la mejora de la calidad de los servicios comunitarios y al desarrollo económico-social.\n\nColaborar con los estados provinciales en la elaboración de regímenes de coparticipación municipal que privilegien la eficacia de gestión y la calidad de los servicios prestados.\n\nColaborar con el fortalecimiento de la administración y la eficiencia de los sistemas de recaudación tributaria.\n\nOrganizar un sistema de atención a municipios y comunas que les permita el acceso a información relativa a transferencias coparticipables Nación-Provincias.\n\nActuar como organismo de coordinación para la optimización de la cooperación internacional dirigida a municipios y comunas.\n\nPromover la implementación y el desarrollo de sistemas de control de la gestión municipal y de los servicios públicos por la comunidad.\n\nImpulsar la realización de acuerdos múltiples entre instituciones municipales para la elaboración de estrategias y la solución de problemáticas regionales o de interés común."
+            },
+            {
+              "numero-articulo": 3,
+              "titulo-articulo": "UNIDAD MINISTRO CAJA DE RETIROS, JUBILACIONES Y PENSIONES DE LA POLICIA FEDERAL",
+              "texto": "Intervenir en la concesión o denegación de los retiros, jubilaciones y/o pensiones, en cumplimiento de la política previsional establecida por la Ley de su creación, atendiendo la forma y medios para el pago de los beneficios de pasividades y otros, coordinando las acciones necesarias para evitar que continúen en el goce de un beneficio aquellas personas que hubieren perdido el derecho a percibirlo.\n\nDesignar y remover al personal y administrar el estado económico financiero y administrativo de la Institución, fiscalizando su patrimonio y la recaudación e inversión de fondos, promoviendo los anteproyectos de presupuestos anuales para pasividades y administrativos.\n\nPromover las acciones legales  que considere necesarias y programar las compras de títulos a que se refiere la Ley de su creación, decidiendo sobre la oportunidad y conveniencia de su enajenación y resolver los casos no previstos por el presente pero que emerjan de la Ley y reglamentos.\n\nEjercer en forma integral o selectiva el control de calidad, funcionamiento y seguridad de la gestión de todas las áreas de la Caja a fin de constatar el estado administrativo, jurídico y financiero de las mismas."
+            },
+            {
+              "numero-articulo": 4,
+              "titulo-articulo": "UNIDAD MINISTRO DEPARTAMENTO APOYO ADMINISTRATIVO",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nCoordinar y supervisar las actividades administrativas de la Unidad Ministro.\n\nACCIONES:\n\n1. Recibir, clasificar y presentar al Ministro del Interior las actuaciones, correspondencia y demás documentación que ingresen directamente a su despacho y dar traslado de las mismas a las áreas competentes cuando corresponda.\n\n2. Ingresar toda la correspondencia recibida a una base de datos creada a tal efecto, con la finalidad de brindar una respuesta inmediata acerca del trámite seguido por la documentación.\n\n3. Realizar el seguimiento y confeccionar informes sobre trámites de interés prioritario para el Ministro.\n\n4. Supervisar el área de comunicaciones del Ministro del Interior."
+            },
+            {
+              "numero-articulo": 5,
+              "titulo-articulo": "UNIDAD MINISTRO DEPARTAMENTO CEREMONIAL Y AUDIENCIAS.",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nCoordinar las actividades de ceremonial y protocolo del Ministro del Interior.\n\nACCIONES:\n\n1. Programar y organizar las audiencias.\n\n2. Coordinar los actos protocolares a que asista el Ministro o los Secretarios y Subsecretarios, en los casos en que éstos lo representen.\n\n3. Asistir en el protocolo para los actos oficiales.\n\n4. Participar en la programación y organización de los viajes del Ministro al interior del país."
+            },
+            {
+              "numero-articulo": 6,
+              "titulo-articulo": "UNIDAD MINISTRO DEPARTAMENTO PRENSA",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nCoordinar y difundir la información atinente a la Jurisdicción.\n\nACCIONES:\n\n1. Mantener contactos con los medios de comunicación masiva.\n\n2. Programar la difusión de las informaciones de la Jurisdicción en el ámbito nacional.\n\n3. Analizar y evaluar la información periodística que se refiera o interese a la Jurisdicción.\n\nElaborar la síntesis de las informaciones locales y del extranjero.\n\n4. Asistir al Ministro en conferencias de prensa y reportajes."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024515 1995 07 05 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 023592 1988 08 03 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "CON C 000000 1994 08 22 0043 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 7,
+              "titulo-articulo": "UNIDAD MINISTRO *INSTITUTO NACIONAL CONTRA LA DISCRIMINACION, LA XENOFOBIA Y EL RACISMO",
+              "texto": "Elaborar políticas nacionales y medidas concretas para combatir la discriminación, la xenofobia y el racismo, impulsando y llevando a cabo acciones con tal fin.\n\nActuar como organismo de aplicación de la Ley N. 24.515, velando por su cumplimiento y la consecución de sus objetivos, a través del análisis de la realidad nacional en materia de discriminación, xenofobia y racismo, y la elaboración de informes y propuestas con respecto a dichos temas.\n\nDifundir los principios normados por la Ley N. 23.592, normas concordantes y complementarias, así como los resultados de los estudios que realice o promueva y las propuestas que formule.\n\nDiseñar e impulsar campañas educativas tendientes a la valoración del pluralismo social y cultural, y a la eliminación de actitudes discriminatorias, xenofóbicas o racistas; participando en la ejecución de estas campañas.\n\nRecopilar y mantener actualizada la información sobre el Derecho Internacional y extranjero en materia de discriminación, xenofobia y racismo, estudiar esos materiales y elaborar informes comparativos sobre los mismos.\n\nRecibir y centralizar denuncias sobre conductas discriminatorias, xenofóbicas o racistas y llevar un registro de ellas.\n\nConstituir un registro en el que se reunirán todos los documentos, pruebas y evidencias vinculadas con los objetivos del INADI.\n\nBrindar un servicio de asesoramiento integral y gratuito para personas o grupos discriminados o víctimas de xenofobia o racismo.\n\nProporcionar patrocinio gratuito y a pedido de parte interesada, solicitar vistas de las actuaciones judiciales, o administrativas relativas a los temas de su competencia.\n\nProporcionar al Ministerio Público y a los tribunales judiciales asesoramiento técnico especializado en los asuntos relativos a la temática de su competencia.\n\nInformar a la opinión pública sobre actitudes y conductas discriminatorias, xenofóbicas o racistas que pudieran manifestarse en cualquier ámbito de la vida nacional, especialmente en las áreas de educación, salud, acción social y empleo; provengan ellas de autoridades públicas o entidades o personas privadas.\n\nConstatar -prima facie- la existencia en el territorio argentino de personas que, durante la Segunda Guerra Mundial o con posterioridad a ella, participaron en el exterminio de pueblos, o en la muerte de personas a causa de su raza, religión, nacionalidad u opinión política; y cuando corresponda, efectuar las denuncias ante las autoridades competentes.\n\nPromover e impulsar cuando existan suficientes evidencias y de acuerdo a lo previsto en el artículo 43 de la Constitución Nacional, las acciones judiciales y administrativas pertinentes con relación a las personas comprendidas en el punto anterior.\n\nEstablecer vínculos de colaboración con organismos nacionales o extranjeros, públicos o privados, que tengan similares objetivos a los asignados al presente Instituto.\n\nProponer, al organismo competente, la celebración de nuevos tratados sobre extradición.\n\nCelebrar convenios con organismos y/o entidades públicas o privadas, nacionales o internacionales, con el objeto de propender a dar cabal cumplimiento a los objetivos asignados a este Instituto."
+            },
+            {
+              "numero-articulo": 8,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE ASUNTOS INSTITUCIONALES DIRECCION NACIONAL ELECTORAL",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nCoordinar la programación y ejecución de la política electoral nacional.\n\nACCIONES:\n\n1. Programar, coordinar y ejecutar la legislación electoral nacional.\n\n2. Proponer las medidas pertinentes para agilizar y perfeccionar la mecánica del proceso de conformación del Registro Nacional de Electores y conservar los ejemplares autenticados del padrón electoral.\n\n3. Proponer las medidas de coordinación y de control de las tareas a desarrollar por los distintos organismos nacionales y provinciales tendientes a la confección, actualización e impresión de los listados provisionales y padrones electorales de todo el país.\n\n4. Proponer los proyectos de convocatoria para los actos eleccionarios que le competen e intervenir en la difusión pública de los procedimientos y normas útiles a la ciudadanía durante el acto eleccionario.\n\n5. Coordinar con los organismos involucrados en su ejecución todos los aspectos operativos vinculados con la programación y desarrollo de los actos electorales nacionales.\n\n6. Programar, organizar y ejecutar los escrutinios provisionales de las elecciones nacionales.\n\n7. Realizar estudios estadísticos de los actos eleccionarios, proporcionar a los sectores correspondientes los resultados obtenidos y reunir, procesar y difundir la información relativa a los mismos.\n\n8. Efectuar la concesión de franquicias y el otorgamiento y distribución de aportes del Fondo Partidario Permanente, a las agrupaciones políticas.\n\n9. Realizar los estudios y compilación de las normas electorales nacionales y provinciales, efectuar su estudio y proponer las reformas correspondientes para una mejor implementación de las normas comprometidas."
+            },
+            {
+              "numero-articulo": 9,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE ASUNTOS INSTITUCIONALES DIRECCION NACIONAL DE ASUNTOS INSTITUCIONALES",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nEntender en la formulación, ejecución y seguimiento de los anteproyectos de reformas institucionales y constitucionales y en el seguimiento de la política de relaciones institucionales con su permanente actualización legislativa.\n\nACCIONES:\n\n1. Asistir a la Secretaría del Interior y a la Subsecretaría de Asuntos Institucionales en el análisis de los proyectos de legislación nacional en los que sea necesario coordinar normas nacionales y provinciales.\n\n2. Elaborar anteproyectos de reformas, actualización y adecuación de la legislación en materia institucional y partidos políticos.\n\n3. Realizar estudios tendientes a formular proyectos referidos a reformas constitucionales.\n\n4. Efectuar el estudio y seguimiento de las leyes y anteproyectos que hagan a la plena vigencia de las normas constitucionales, detectando los desvíos o conflictos que puedan producirse y proponer las adecuaciones que correspondan."
+            },
+            {
+              "numero-articulo": 10,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE ASUNTOS INSTITUCIONALES DIRECCION NACIONAL DE RELACIONES POLITICAS CON LAS PROVINCIAS Y LAS REGIONES",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nAsistir en las relaciones con los Gobiernos de las Provincias y del Gobierno de la Ciudad de Buenos Aires, asesorando en las cuestiones regionales, interprovinciales y municipales y en el régimen de las aguas de los ríos interprovinciales.\n\nACCIONES:\n\n1. Diseñar los mecanismos para las relaciones político-institucionales del Ministerio con las Provincias y las regiones.\n\n2. Atender los planteos y requerimientos de naturaleza política que formulen las Provincia y regiones a este Ministerio.\n\n3. Proponer la ejecución de planes, programas y proyectos referidos a las Provincias y, sin perjuicio de la competencia de éstas, a las Municipalidades del interior del país y a la temática regional.\n\n4. Proponer políticas regionales en el marco de las relaciones interprovinciales.\n\n5. Sistematizar la información sobre la realidad socio-económica e institucional de las Provincias y sus Municipios, con el fin de obtener un cuadro permanente de situación.\n\n6. Asesorar en lo atinente al régimen de las aguas de los ríos interprovinciales y sus afluentes.\n\n7. Asesorar en la elaboración de la legislación nacional que se refiera, interese o produzca efectos en las Provincias, en sus Municipios o en el Gobierno de la Ciudad de Buenos Aires y, en particular, cuando sea necesario coordinar normas de distinto origen jurisdiccional."
+            },
+            {
+              "numero-articulo": 11,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA PARA LA REFORMA POLITICA DIRECCION NACIONAL PARA LA REFORMA POLITICA",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nParticipar en el relevamiento de opiniones y de propuestas, así como proyectar normas modificatorias de los sistemas político y electoral.\n\nACCIONES:\n\n1. Elaborar programas para el relevamiento de opiniones y de propuestas relacionadas con la Reforma Política.\n\n2. Confeccionar anteproyectos de normas modificatorias de aquellas que rigen el funcionamiento de los sistemas político y electoral y de aquellas vinculadas al régimen representativo y federal.\n\n3. Participar en la elaboración, ejecución y control de las políticas inherentes a la regionalización de las Provincias."
+            },
+            {
+              "numero-articulo": 12,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE RELACIONES CON LA COMUNIDAD DIRECCION NACIONAL DE ASUNTOS COMUNITARIOS",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nArticular la participación organizada de las instituciones representativas y estructuras intermedias de la comunidad en la resolución de las demandas sociales y económicas de los sectores involucrados.\n\nACCIONES:\n\n1. Elaborar proyectos de normas legales tendientes a facilitar la existencia de organizaciones representativas de la comunidad y realizar el estudio comparado de legislación nacional y extranjera sobre esta temática.\n\n2. Apoyar la creación y el fortalecimiento de instituciones representativas y estructuras intermedias de la comunidad.\n\n3. Mantener actualizada la información correspondiente a la red de instituciones representativas y estructuras intermedias de la comunidad.\n\n4. Realizar estudios analíticos sobre el comportamiento de esas instituciones, asesorando en la materia.\n\n5. Realizar el relevamiento de las demandas de las instituciones representativas y estructuras intermedias de la comunidad y coordinar con los organismos de gobierno que resulten pertinentes la implementación de las medidas conducentes a su satisfacción.\n\n6. Proponer anteproyectos de convenios a realizarse entre Organismos Nacionales, Provinciales, Municipales o Internacionales de cooperación con instituciones de la comunidad para la ejecución de proyectos y la resolución de problemáticas específicas.\n\n7. Realizar estudios tendientes a formular propuestas para el desarrollo de proyectos especiales referidos a objetivos prefijados en materia comunitaria, principalmente en problemáticas vinculados a temas de coyuntura o de emergencia económica o social.\n\n8. Realizar las acciones conducentes a la implementación de los proyectos en ejecución."
+            },
+            {
+              "numero-articulo": 13,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE RELACIONES CON LA COMUNIDAD DIRECCION NACIONAL DE LA JUVENTUD",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nParticipar en la elaboración, ejecución y control de las políticas inherentes a la promoción de los intereses de la juventud con el fin de lograr su plena participación en la sociedad.\n\nACCIONES:\n\n1. Elaborar anteproyectos de promoción de los intereses de la juventud.\n\n2. Promover la participación institucional y fomentar la capacitación de dirigentes juveniles a fin de facilitar su inserción en los Partidos Políticos legalmente reconocidos.\n\n3. Proponer reformas, actualizar y adecuar la legislación vigente en la materia para alcanzar los objetivos propuestos.\n\n4. Promover la realización de actividades culturales, recreativas, artísticas, educativas, políticas y sociales, que permiten la manifestación del potencial humano de la juventud.\n\n5. Promover la participación juvenil en las distintas áreas del quehacer político nacional.\n\n6. Establecer instancias para la recepción de inquietudes, propuestas y sugerencias, para su derivación a los organismos con competencia en la materia.\n\n7. Organizar congresos, seminarios, talleres de debate y cualquier otro tipo de evento relacionado con el tema de la juventud."
+            },
+            {
+              "numero-articulo": 14,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE RELACIONES CON LA COMUNIDAD COMISION NACIONAL DE EX-COMBATIENTES DE MALVINAS",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nCoordinar a nivel nacional los distintos programas de carácter social, existentes o que se puedan crear en el futuro, que tengan por objeto el otorgar beneficios a los ex-combatientes que participaron en las acciones bélicas desarrolladas en el Atlántico Sur entre el 2 de abril y el 14 de junio de 1982, posibilitando su ingreso en forma preferencial.\n\nACCIONES:\n\n1. Recopilar y ordenar toda la información existente sobre programas de salud, empleo, vivienda, acción social y capacitación que resulten de interés para los ex-soldados conscriptos, que participaron de las acciones bélicas del Atlántico Sur.\n\n2. Coordinar e impulsar las demandas individuales o grupales de los mismos ante los diversos órganos del Estado Nacional, Estados Provinciales y Municipios.\n\n3. Representar al Estado Nacional en su relación con las distintas organizaciones que nucleen a los ex-soldados conscriptos, que participaron de las acciones bélicas del Atlántico Sur.\n\n4. Promover la realización de estudios e investigaciones en relación a los proyectos ya existentes o a otros nuevos que estime necesario emprender.\n\n5. Estudiar y recomendar la elaboración de normas, proyectos o acciones que resulten de especial interés para los ex-soldados conscriptos, que participaron de las acciones bélicas del Atlántico Sur."
+            },
+            {
+              "numero-articulo": 15,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE DERECHOS HUMANOS Y SOCIALES DIRECCION NACIONAL DE PROMOCION",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nPromover y programar las actividades tendientes a difundir el conocimiento, importancia, valor y respeto de los Derechos Humanos en el país y realizar las acciones necesarias para posibilitar la defensa de los mismos.\n\nACCIONES:\n\n1. Promover el cumplimiento de las normas que reconocen y reglamenten los Derechos Humanos en el ámbito nacional.\n\n2. intervenir en los aspectos jurídico-administrativos inherentes a los Derechos Humanos.\n\n3. Organizar actividades académicas educativas y comunitarias tendientes a difundir, proteger y reafirmar en la sociedad y en el Estado, el conocimiento, valor y fundamento de los Derechos Humanos.\n\n4. Intervenir en el desarrollo del análisis, diagnóstico y evaluación de políticas de Derechos Humanos aplicadas y a aplicarse, en especial las vinculadas con la prevención de eventuales violaciones de los mismos.\n\n5. Participar en la formulación de políticas y normas, y en la ejecución de programas que garanticen la igualdad de oportunidades y la no discriminación de grupos y personas.\n\n6. Organizar y administrar el Centro de Documentación y la Biblioteca en Derechos Humanos, abiertos a la consulta de particulares interesados.\n\n7. Coordinar el Instituto de Promoción de Derechos Humanos y organizar el establecimiento de una red académica en la materia.\n\n8. Diseñar y proponer publicaciones de revistas, folletos, afiches, etc., con contenidos de Derechos Humanos.\n\n9. Asesorar y asistir al Subsecretario de Derechos Humanos y Sociales en la supervisión del accionar del Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 022439 1981 03 23 0111 000 0000 000"
+                }
+              },
+              "numero-articulo": 16,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE POBLACION DIRECCION NACIONAL DE MIGRACIONES",
+              "texto": "Fiscalizar el cumplimiento de las normas migratorias e intervenir en la ejecución de las políticas, planes y proyectos para efectivizar el control migratorio.\n\nDictar normas interpretativas de la legislación migratoria vigente, establecer los procedimientos inherentes a su aplicación y sancionar las infracciones a dichas normas.\n\nIntervenir en la celebración de acuerdos administrativos u operativos con organismos extranjeros e internacionales de población y migración, como así también promover y participar en la concertación de tratados sobre estas cuestiones.\n\nResolver la admisión de extranjeros e intervenir en las peticiones de asilo político territorial y de refugio que aquellos formulen.\n\nControlar el ingreso y egreso de personas al país, habilitar los lugares para tales efectos y controlar la permanencia de los extranjeros en el Territorio Nacional.\n\nEjercer las actividades inherentes a los registros de ingreso y egreso de personas y de permanencia de extranjeros, así como también, intervenir en la celebración y coordinación de convenios pertinentes con organismos y autoridades nacionales, provinciales y municipales.\n\nDelegar funciones y facultades en las instituciones que cumplan tareas de Policía Migratoria Auxiliar.\n\nAdministrar los fondos provenientes de la Tesorería General y los recursos de afectación específica conforme lo establecido en el Artículo 111 de la Ley N. 22.439.\n\nAsumir la representación en juicio, por sí o por apoderado, como demandante o como demandado y celebrar arreglos judiciales o extrajudiciales.\n\nElaborar anualmente el presupuesto de gastos y cálculos de recursos del organismo y el Plan Anual de Inversión, y sus posteriores ejecuciones.\n\nCelebrar convenios de locación de bienes muebles o inmuebles;\n\naceptar donaciones, celebrar contratos para la adquisición de materiales y ejecución de obras, de acuerdo con los sistemas establecidos por la normativa vigente en la materia.\n\nAdministrar los bienes e instalaciones pertenecientes al organismo.\n\nProponer al Poder Ejecutivo Nacional las tasas para el cobro de los servicios que preste el organismo, y sus correspondientes modificaciones.\n\nDesignar, promover, contratar, suspender, remover o adscribir al personal de acuerdo a las normas legales vigentes.\n\nAdministrar las actividades vinculadas a la gestión de los recursos humanos, materiales, informáticos, de infraestructura y financieros, asignados a la Dirección Nacional.\n\nProceder en la organización, contralor, registración y ejecución de los actos administrativos vinculados con la gestión operativa -administrativa, financiera, patrimonial y de recursos humanos-, requerida para el funcionamiento del organismo.\n\nProponer al funcionamiento que lo reemplace en caso de ausencia o imposibilidad temporaria.\n\nResolver los sumarios administrativos instruidos en el organismo por razones administrativas o disciplinarias."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 017671 1968 02 29 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 17,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE POBLACION DIRECCION NACIONAL DEL REGISTRO NACIONAL DE LAS PERSONAS",
+              "texto": "Coordinar el debido cumplimiento de las normas previstas en la Ley N. 17.671 referida a la Identificación, Registro y Clasificación del Potencial Humano Nacional.\n\nEfectuar la inscripción e identificación de las personas de existencia visible que se domicilien en el territorio o jurisdiccional nacional, y de todos los argentinos, sea cual fuere el lugar donde se domiciliaren, llevando un registro permanentemente actualizado de los antecedentes de mayor importancia, desde su nacimiento y a través de las distintas etapas de su vida.\n\nExpedir, en forma exclusiva, el Documento Nacional de Identidad.\n\nEfectuar la clasificación y procesamiento de la información relacionada con el Potencial Humano Nacional con el fin de satisfacer ante el Gobierno Nacional, Organismos del Estado y Entes Particulares que lo requieran, las exigencias previstas en su Ley de creación.\n\nIntervenir con los organismos competentes en la realización coordinada de las actividades estadísticas tendientes a asegurar el censo permanente de las personas."
+            },
+            {
+              "numero-articulo": 18,
+              "titulo-articulo": "SECRETARIA DEL INTERIOR SUBSECRETARIA DE POBLACION DIRECCION NACIONAL DE POLITICAS Y ESTUDIOS DE POBLACION",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nAsistir en la elaboración, ejecución y evaluación de las políticas de población y migraciones e intervenir en la formulación de programas y proyectos que deriven de dichas políticas.\n\nACCIONES:\n\n1. Elaborar diagnósticos básicos e investigaciones aplicadas sobre el comportamiento de las variables demográficas y sobre sus particularidades sociales, económicas y regionales.\n\n2. Producir, sistematizar, analizar y evaluar las estadísticas sobre migraciones internas e internacionales y su integración al Sistema Estadístico Nacional.\n\n3. Participar en la determinación de pautas que permitan evaluar el cumplimiento de los objetivos y cursos de acción establecidos en los programas y proyectos que se implementen en materia poblacional y migratoria e intervenir en el seguimiento de los mismos.\n\n4. Mantener enlace con los organismos nacionales e internacionales, gubernamentales y no gubernamentales, como así también con aquellos organismos que producen información básica sobre el comportamiento de las variables demográficas.\n\n5. Asistir al Subsecretario de Población en la gestión y firma de acuerdos con organismos nacionales o internacionales, gubernamentales y no gubernamentales; y efectuar el seguimiento de los compromisos y obligaciones que surjan de estos acuerdos.\n\n6. Promover y proyectar programas de fomento de la inmigración destinados al asentamiento de extranjeros.\n\n7. Estudiar, proponer y diseñar programas tendientes a optimizar los movimientos migratorios internos y a promover el retorno de argentinos en el exterior.\n\n8. Asistir al Subsecretario de Población en su participación dentro del marco de la Comisión Interministerial de Política de Población.\n\n9. Promover la constitución de una comisión coordinadora de políticas relativas a migraciones, su impacto demográfico, regulación y control en el marco del MERCOSUR y gobiernos asociados.\n\n10. Elaborar y producir material gráfico, audiovisual e informático que permita difundir las actividades que se desarrollan en temas poblacionales y migratorios.\n\n11. Atender las relaciones con las colectividades extranjeras, mantener actualizado un registro de las mismas y proponer, con la intervención de aquellas, un programa conjunto de actividades.\n\n12. Participar en la confección de los actos relacionados con la concesión del derecho de asilo.\n\n13. Participar en la elaboración de las políticas para el desarrollo de las áreas de frontera y en su ejecución en el ámbito de su competencia.\n\n14. Asistir al Subsecretario de Población en la coordinación y funcionamiento del Consejo Federal de Población (CO.FE.PO) y brindar asistencia técnica en las actividades que desarrollen las Provincias.\n\n15. Supervisar el accionar del Centro de Información sobre Población (CIP)."
+            },
+            {
+              "numero-articulo": 19,
+              "titulo-articulo": "SECRETARIA DE ASISTENCIA FINANCIERA A LAS PROVINCIAS SUBSECRETARIA DE RELACIONES ECONOMICAS CON LAS PROVINCIAS DIRECCION NACIONAL DE RELACIONES ECONOMICAS CON LAS PROVINCIAS",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nDiseñar planes y asistir en la administración del Fondo de Aportes del Tesoro Nacional a los Gobiernos Provinciales y Municipales, propiciando que la utilización de los mismos tienda a mejorar la actividad económica y la calidad de vida en las diferentes regiones.\n\nACCIONES:\n\n1. Asistir a la Subsecretaría en la administración del Fondo de Aportes del Tesoro Nacional a las Provincias.\n\n2. Promover y organizar programas que tengan por finalidad el desarrollo de emprendimientos productivos con alto impacto en la generación de empleo local, articulando su implementación a nivel regional.\n\n3. Asistir en la formulación, implementación y ejecución del Programa Nacional de Dinamización Productiva Regional.\n\n4. Organizar y administrar una base de datos de los indicadores provinciales y municipales relevantes para la gestión del área.\n\n5. Asesorar en planes y proyectos especiales de promoción económica a nivel regional, provincial y municipal.\n\n6. Evaluar las posibilidades de diversificación productiva que surgen de los acuerdos internacionales firmados por Gobierno Nacional, en especial el MERCOSUR, para las economías provinciales y/o regionales.\n\n7. Elaborar los presupuestos correspondientes para asistir financieramente a las jurisdicciones indicadas.\n\n8. Analizar y proponer la distribución de recursos, supervisar las obras financiadas y efectuar el control de gestión de la ejecución física y presupuestaria de las mismas.\n\n9. Fiscalizar el efectivo cumplimiento de los convenios para la ejecución de obras financiadas con fondos específicos.\n\n10. Participar en la gestión de fuentes alternativas de financiamiento y en lo referente a la legislación vigente en la materia."
+            },
+            {
+              "numero-articulo": 20,
+              "titulo-articulo": "SECRETARIA DE ASISTENCIA FINANCIERA A LAS PROVINCIAS *SUBSECRETARIA DE ASISTENCIA A LAS PROVINCIAS DIRECCION NACIONAL DE ASISTENCIA A LA REFORMA PROVINCIAL",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nAsistir técnicamente a las Provincias y al Gobierno de la Ciudad de Buenos Aires en el diseño, la implementación y el seguimiento del proceso de reforma de su Sector Público.\n\nACCIONES:\n\n1. Efectuar el diagnóstico económico-financiero y/u organizacional del Sector Público en las Provincias y en el Gobierno de la Ciudad de Buenos Aires.\n\n2. Asistir técnicamente a las Provincias en la formulación de los proyectos de reforma.\n\n3. Efectuar el seguimiento de los procesos de reforma que se implementen.\n\n4. Articular la acción de los distintos organismos nacionales y federales que, en razón de la materia, afectan a las Provincias y sus Municipios.\n\n5. Asistir a los Gobiernos Provinciales en su descentralización administrativa, con el objeto de dar a sus Municipios una Mayor participación en la gestión del Sector Público.\n\n6. Organizar y administrar una base de datos de los indicadores provinciales y municipales relevantes para la gestión del área.\n\n7. Desarrollar planes y programas destinados a promover la movilización de los sectores productivos y diseñar políticas que tiendan a la transferencia de personal del Sector Público Provincial al Sector Privado.\n\n8. Participar en la distribución de los recursos asignados al ex- Fondo de Desarrollo Regional y al Fondo de Emergencia Regionales.\n\n9. Asistir a los ministerios de producción provinciales en el estudio y desarrollo de propuestas que potencien la producción provincial y procuren el aprovechamiento local de los recursos humanos."
+            },
+            {
+              "numero-articulo": 21,
+              "titulo-articulo": "SECRETARIA DE ASISTENCIA FINANCIERA A LAS PROVINCIAS *SUBSECRETARIA DE ASISTENCIA A LAS PROVINCIAS DIRECCION NACIONAL DE ACUERDOS CON LAS PROVINCIAS",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nPromover el establecimiento de acuerdos y pactos federales para propender a una mayor coordinación en la implementación de políticas nacionales, provinciales, municipales y regionales.\n\nACCIONES:\n\n1. Organizar y mantener actualizada una base de datos de los indicadores económico-sociales de las Provincias y sus Municipios.\n\n2. Efectuar estudios y propuestas orientados a facilitar la articulación entre las políticas del Gobierno Nacional, las de las Provincias y las de las regiones existentes o a crearse, promoviendo el desarrollo de estas instancias institucionales.\n\n3. Efectuar estudios y propuestas que permitan analizar la distribución de recursos de coparticipación entre la Nación y las Provincias, asistiendo a la subsecretaría en la elaboración de pautas para ser consideradas en la discusión de un nuevo régimen."
+            },
+            {
+              "numero-articulo": 22,
+              "titulo-articulo": "SECRETARIA DE SEGURIDAD INTERIOR CONSEJO ASESOR DE SEGURIDAD",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nAsistir al Secretario de Seguridad Interior en la planificación, coordinación y supervisión de las actividades operativas de la Policía Federal Argentina, Gendarmería Nacional y Prefectura Naval Argentina, tendientes al cumplimiento de las políticas del área."
+            },
+            {
+              "numero-articulo": 23,
+              "titulo-articulo": "SUBSECRETARIA DE COORDINACION DE PROGRAMAS DE SEGURIDAD INTERIOR *DIRECCION NACIONAL DE SEGURIDAD INTERIOR",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nElaborar la planificación operativa e implementar la coordinación y supervisión de las acciones individuales y de conjunto de las Fuerzas de Seguridad y Policiales.\n\nContribuir a la elaboración de la doctrina, organización, despliegue, capacitación y equipamiento de las Fuerzas de Seguridad y Policiales Nacionales para el mejor cumplimiento de las misiones asignadas en coordinación con las policías provinciales.\n\nIntervenir en los aspectos operativos y de coordinación en materia de seguridad de frontera.\n\nACCIONES:\n\n1. Supervisar la coordinación con otras instituciones policiales y de seguridad extranjeras a los fines del cumplimiento de los acuerdos internacionales en los que nuestro país ha sido signatario.\n\n2. Asistir en la elaboración de la doctrina, organización, despliegue, capacitación y equipamiento de las fuerzas de seguridad y policiales nacionales para el mejor cumplimiento de las misiones asignadas, en coordinación con las policías provinciales.\n\n3. Asistir en los asuntos operacionales e inteligencia que se traten en el Consejo de Seguridad Interior y el Comité de Crisis.\n\n4. Asesorar sobre los aspectos operacionales y de control interjurisdiccional en las rutas nacionales y pasos de fronteras.\n\n5. Asesorar en materia de seguridad vial, transporte interjurisdiccional e internacional de carga y pasajeros y sustancias peligrosas y medio ambiente."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024059 1991 12 18 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "DEC C 000660 1996 06 24 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 24,
+              "titulo-articulo": "SECRETARIA DE SEGURIDAD INTERIOR *DIRECCION NACIONAL DE PLANEAMIENTO Y PROTECCION CIVIL",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nElaborar los estudios que posibiliten la definición de políticas y formulación del planeamiento en materia de seguridad interior y protección civil.\n\nImplementar la coordinación de las acciones de protección civil.\n\nCoordinar los estudios y las acciones de seguridad en materia de seguridad en el deporte.\n\nACCIONES:\n\n1. Ejecutar la planificación de nivel operativo, coordinación y supervisión referida, a la aplicación de la Ley N. 24.059 de Seguridad Interior.\n\n2. Elaborar las políticas de Seguridad Interior y desarrollar el planeamiento dirigido a su cumplimiento.\n\n3. Elaborar el planeamiento estratégico operativo de respuesta a los conflictos sociales y situaciones de hecho que imponga la intervención del Estado Nacional.\n\n4. Elaborar las políticas y estudios relativos a la Investigación científica del delito, en aquellas formas que cualitativa o cuantitativamente afecten de modo más grave a la comunidad, a fin de promover a través de los órganos competentes las normas o actividades tendientes a su consideración en los campos legislativos, administrativos, policiales o sociales.\n\n5. Realizar las tareas relacionadas con la supervisión del Convenio Policial Argentino y los estudios vinculados con Convenios nacionales e internacionales.\n\n6. Implementar la coordinación de los requerimientos originados en cualquiera de los poderes del Estado, organismos estatales y entidades públicas o privadas que se vinculen con la Policía Federal Argentina, la Gendarmería Nacional y la Prefectura Naval Argentina, en los temas de su competencia.\n\n7. Implementar los medios para promover la capacitación, racionalización, difusión y optimización del uso y empleo de los recursos humanos y medios disponibles y formular los planes de capacitación, instrumentar la coordinación de congresos, cursos y seminarios sobre temas de Seguridad Interior y Protección Civil, a nivel nacional en concordancia con las políticas en la materia.\n\n8. Asistir en la elaboración de las políticas, los estudios el planeamiento y la coordinación de las acciones de Protección Civil, tendientes a prevenir, evitar, disminuir o mitigar los efectos de los desastres naturales o causados por el hombre, coordinando el apoyo federal e internacional.\n\n9. Desarrollar las tareas relacionadas con el asesoramiento al Secretario de Seguridad Interior, en todo lo concerniente al área de su competencia, respecto de la seguridad en el ámbito del MERCOSUR.\n\n10. Desarrollar las tareas relacionadas con el asesoramiento al Secretario de Seguridad Interior, en todo lo concerniente al área de su competencia respecto de la coordinación general de la seguridad en el ámbito de los espectáculos deportivos.\n\n11. Participar en la formulación de la Agenda del Consejo de Seguridad Interior, redactar las actas de sus reuniones ordinarias y extraordinarias y tramitar toda otra documentación que genere su funcionamiento y fiscalizar a Bomberos Voluntarios, Cruz Roja, Scouts, Socorrismo y radioaficionados.\n\nIntegrar el Consejo Asesor de Seguridad y asistir al Secretario de Seguridad Interior, en la formulación de las políticas de seguridad interior y en el planeamiento estratégico del Esfuerzo Nacional de Policía.\n\nElaborar las políticas, los estudios, el planeamiento y la coordinación de las acciones de Protección Civil, tendientes a prevenir, evitar, disminuir o mitigar los efectos de los desastres naturales o causados por el hombre, y a ilícitos que por su naturaleza sean de su competencia, en el marco de la Ley N. 24.059 de Seguridad Interior y el Decreto N. 660/96."
+            },
+            {
+              "numero-articulo": 25,
+              "titulo-articulo": "SECRETARIA DE SEGURIDAD INTERIOR *DIRECCION NACIONAL DE ASUNTOS TECNICOS DE SEGURIDAD",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nAsistir al Subsecretario de Asuntos Técnicos de Seguridad en lo referido a la vinculación permanente del Ministerio del Interior con la Policía Federal Argentina; la Gendarmería Nacional y la Prefectura Naval Argentina y administrar tal vinculación.\n\nCoordinar las comunicaciones entre el Ministerio del Interior, los servicios policiales de todo el país y las fuerzas de seguridad.\n\nIntervenir en todos los trámites vinculados con el personal policial y de las fuerzas de seguridad en actividad y en pasividad, cuando requieren instancia ministerial.\n\nACCIONES:\n\n1. Asistir y asesorar en la formulación, ejecución, modificación y seguimiento presupuestario de los Programa de la Secretaría de Seguridad Interior.\n\n2. Proponer medidas de racionalización y optimización del equipamiento de las Fuerzas de Seguridad y su actualización, estandarización y homogeneización.\n\n3. Asesorar sobre la racionalidad y factibilidad presupuestaria y económica de los pedidos de adquisiciones de  materiales y equipamiento por parte de las Fuerzas de Seguridad y Policiales, referidos a las actividades de la Secretaría de Seguridad Interior.\n\n4. Asistir y asesorar en la obtención de información consolidada referida a las actividades de gestión presupuestaria de la Secretaría de Seguridad Interior.\n\n5. Asistir y asesorar en la coordinación de las actividades que desarrollan las unidades organizativas integrantes de la Secretaría de Seguridad Interior.\n\n6. Promover e intervenir en la elaboración de indicadores de gestión presupuestaria para el seguimiento y evaluación de las actividades de la Secretaria de Seguridad Interior.\n\n7. Asistir y asesorar en la coordinación de las adquisiciones de materiales y equipamientos en función de los requerimientos individuales y existencia de las Fuerzas de Seguridad y Policiales y de las políticas de Seguridad Interior.\n\n8. Intervenir en la tramitación de los actos administrativos relacionados con el personal de la Policía Federal Argentina, la Gendarmería Nacional y la Prefectura Naval Argentina, que requieran la instancia institucional del Ministerio del Interior.\n\n9. Intervenir en los trámites vinculados con los retiros y jubilaciones del personal de la Policía Federal Argentina, la Gendarmería Nacional y la Prefectura Naval Argentina, que requieran la instancia institucional del Ministerio del Interior, elevándolos para su resolución a través del Secretario de Seguridad Interior.\n\n10. Intervenir en la coordinación de los requerimientos originados en cualquiera de los Poderes del Estado, organismos estatales y entidades  públicas o privadas que se vinculen con la Policía Federal Argentina, la Gendarmería Nacional y la Prefectura Naval Argentina, por temas de su competencia.\n\n11. Intervenir en la concesión de las condecoraciones nacionales a civiles y condecoraciones extranjeras a funcionarios del Ministerio del Interior, Policía Federal Argentina, la Gendarmería Nacional y la Prefectura Naval Argentina.\n\n12. Intervenir en los aspectos técnicos de las representaciones de la Policía Federal Argentina, la Gendarmería Nacional y la Prefectura Naval Argentina, ante organismos internacionales, nacionales, provinciales, municipales, privados y en las comisiones existentes y a crearse.\n\n13. Intervenir en el ejercicio de las funciones de superintendencia referidas a la Seguridad de Fronteras y asesorar en la elaboración de la doctrina, políticas y legislación en dicha materia.\n\n14. Intervenir en la evaluación técnica de las solicitudes de exenciones aduaneras del equipamiento de las policías provinciales dispuestas por leyes especiales.\n\n15. Elaborar la normativa relativa a la seguridad en el ámbito del MERCOSUR.\n\n16. Elaborar la normativa relacionada con el sistema de seguridad interior.\n\n17. Elaborar los proyectos de resoluciones y demás disposiciones y/o actos administrativos complementarios sobre Seguridad en el Deporte.\n\n18. Colaborar en la actualización y adecuación de las reglamentaciones de las entidades deportivas relativas al futuro Régimen de Seguridad Deportiva.\n\n19. Realizar la coordinación general y el seguimiento técnico de las vinculaciones de la Secretaría de Seguridad Interior con los magistrados y demás funcionarios judiciales intervinientes en la seguridad en el deporte.\n\n20. Realizar el seguimiento técnico-jurídico del nuevo sistema concesionado de informatización de venta de entradas, control de accesos y contratación de policía adicional, en lo relativo al régimen de seguridad deportiva.\n\n21. Intervenir en las sanciones administrativas que imponga la Secretaría de Seguridad Interior como consecuencia del régimen de seguridad deportiva, así como realizar el seguimiento de las sanciones impuestas por la Asociación del Fútbol Argentino y demás entidades deportivas por infracciones a normas de seguridad.\n\n22. Llevar un registro de infracciones e infractores a las normas de seguridad deportiva, así como de los procesos judiciales por violación de las disposiciones de la Ley N. 24.192.\n\n23. Programar campañas de difusión sobre las normas de seguridad en el deporte.\n\n24. Realizar el contralor global, técnico-jurídico del funcionamiento del sistema de seguridad en el Deporte."
+            },
+            {
+              "numero-articulo": 26,
+              "titulo-articulo": "DIRECCION DE COORDINACION DE PROGRAMAS",
+              "texto": "ACCIONES:\n\n1. Coordinar la obtención de información consolidada referida a las Actividades de gestión presupuestaria de Seguridad Interior.\n\n2. Intervenir en la formulación, ejecución, modificación y seguimiento presupuestario de los Programas de Seguridad interior.\n\n3. Implementar un registro de información de los planes de mediano y largo plazo de inversión, equipamiento y bienestar de las Fuerzas de Seguridad y Policiales Nacionales.\n\n4. Elaborar indicadores de gestión presupuestaria para el seguimiento y evaluación de las Actividades de Seguridad Interior.\n\n5. Coordinar las adquisiciones de recursos materiales y equipamiento en función de los requerimientos individuales y existencias de las Fuerzas de Seguridad y Policiales, y de las políticas de Seguridad Interior.\n\n6. Efectuar el análisis de la racionalidad y factibilidad presupuestaria y económica de los pedidos de adquisiciones de materiales y equipamiento por parte de las Fuerzas de Seguridad y Policiales, referidos a las Actividades de Seguridad Interior.\n\n7. Asistir y asesorar al Subsecretario de Coordinación de Programas de Seguridad Interior en la coordinación de las actividades que desarrollan las unidades organizativas integrantes de la Secretaría de Seguridad Interior."
+            },
+            {
+              "numero-articulo": 27,
+              "titulo-articulo": "SUBSECRETARIA DE ADMINISTRACION DIRECCION GENERAL DE ADMINISTRACION",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nDirigir las actividades que permitan proporcionar el apoyo técnico administrativo para la gestión de los recursos financieros y materiales a través de la sistematización y simplificación de los procedimientos y garantizando la obtención de la información necesaria para la toma de decisiones.\n\nACCIONES:\n\n1. Planificar, dirigir y controlar la administración financiera y de los recursos  materiales de la Jurisdicción, a través de los sistemas de presupuesto, información contable, contrataciones, tesorería y administración y mantenimiento de bienes físicos.\n\n2. Promover la capacitación necesaria para garantizar la eficaz y eficiente implementación de las políticas, normas y procedimientos del Sistema de Administración Financiera del Sector Público Nacional, en la Jurisdicción.\n\n3. Coordinar la aplicación de las políticas, normas y la administración presupuestaria y financiera de los recursos y gastos del Ministerio.\n\n4. Brindar apoyo técnico-administrativo a las Unidades Ejecutoras de Programas en los temas de su competencia.\n\n5. Validar las propuestas de correcciones a la Red Programática y del Anteproyecto, el análisis de la Ejecución Física y Financiera y el informe de Evaluación Presupuestaria, elevándolos para su aprobación a la conducción del Ministerio.\n\n6. Coordinar la aplicación de las políticas, normas y procedimientos para la contratación de bienes y servicios.\n\n7. Validar la integración del Plan Anual y de la programación trimestral de contrataciones de bienes y servicios.\n\n8. Intervenir en la gestión de contratación de bienes y servicios, con facultades para validar las mismas en casos de excepción y para aprobar y firmar la documentación correspondiente a la rescisión de contrataciones.\n\n9. Aprobar los informes de Gestión de Contrataciones de Bienes y Servicios, inclusive los informes periódicos para la Unidad de Auditoría Interna.\n\n10. Intervenir en la gestión de administración de los bienes físicos de la Jurisdicción.\n\n11. Coordinar la aplicación de las políticas, normas y procedimientos emanados de la Contaduría General de la Nación.\n\n12. Intervenir con su firma las órdenes de pago y los cheques para pago por Fondo Rotatorio.\n\n13. Supervisar los pedidos de reposición del Fondo Rotatorio Interno y validar la autorización de pedido de reposición y la rendición final del Fondo Rotatorio.\n\n14. Validar y aprobar los informes contables emitidos, los informes sobre recaudación y la actualización de saldos."
+            },
+            {
+              "numero-articulo": 28,
+              "titulo-articulo": "DIRECCION GENERAL DE RECURSOS HUMANOS Y ORGANIZACION",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nProcurar que la planificación y el diseño organizacional, los métodos y procedimientos administrativos y las normas que los rigen, garanticen el mejoramiento de la calidad en la prestación de los servicios a cargo de la Jurisdicción, atendiendo a principios de economía, eficiencia y eficacia.\n\nAdministrar las políticas y la aplicación de las normas que regulan al personal, su selección, su carrera administrativa, su capacitación y desarrollo, las relaciones laborales, promoviendo la satisfacción laboral, la realización personal y la motivación de los recursos humanos de la Jurisdicción.\n\nACCIONES:\n\n1. Planifica, dirigir y controlar la administración de los recursos humanos de la Jurisdicción.\n\n2. Asesorar y asistir al Subsecretario de Administración y a la conducción de la Jurisdicción en las materias de su competencia.\n\n3. Promover, coordinar y supervisar técnicamente la capacitación del personal, necesaria para garantizar la eficaz y eficiente implementación de las políticas, normas y procedimientos del Sistema de Administración de Recursos Humanos del Sector Público Nacional, en la Jurisdicción.\n\n4. Administrar y actualizar los sistemas de información relacionados con la aplicación de las herramientas del sistema de planeamiento organizacional y de administración de recursos humanos, aplicando los controles que garanticen la correcta liquidación de haberes del personal.\n\n5. Dirigir las acciones de análisis, planeamiento y diseño organizacional.\n\n6. Elaborar y proponer las modificaciones de las estructuras organizativas que correspondan en consecuencia.\n\n7. Ejercer la coordinación técnica jurisdiccional y la actualización del sistema de relevamiento y evaluación de los puestos de trabajo, como así también de los procesos, flujos y procedimientos de trabajo, proponiendo las modificaciones y simplificaciones pertinentes.\n\n8. Participar y asistir técnicamente en los programas de mejoramiento de la calidad de los servicios y unidades a cargo de la Jurisdicción y en aquellos vinculados con la mejora de la atención al público.\n\n9. Controlar que los Legajos Unicos del Personal y las bases de datos correspondientes se mantengan permanentemente actualizados y debidamente custodiados.\n\n10. Coordinar y supervisar técnicamente el proceso de búsqueda, selección e integración del personal de la Jurisdicción.\n\n11. Coordinar y supervisar técnicamente el proceso de evaluación de desempeño, asistiendo a las autoridades intervinientes y Comités de Evaluación.\n\n12. Evaluar el grado de desarrollo de carrera del personal y el sistema de incentivos dentro del régimen vigente, y proponer las políticas y medidas pertinentes.\n\n13. Atender las relaciones con los representantes gremiales en la administración y la negociación de acuerdos o convenios.\n\n14. Asegurar la adecuada aplicación de la legislación en materia de recursos humanos, organización de las estructuras y procedimientos de trabajo, y los servicios asistenciales y de reconocimientos médicos.\n\n15. Asistir técnicamente e integrar la Delegación Jurisdiccional de la Comisión Permanente de Carrera.\n\n16. Intervenir en los trámites vinculados con las resoluciones de la CAJA DE RETIROS, JUBILACIONES Y PENSIONES DE LA POLICIA FEDERAL, que involucren a agentes activos y pasivos de la Jurisdicción."
+            },
+            {
+              "numero-articulo": 29,
+              "titulo-articulo": "DIRECCION GENERAL DEL ARCHIVO GENERAL DE LA NACION",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nReunir, conservar y tener disponible para su consulta o utilización la documentación escrita, fotográfica, fílmica, videográfica, sónica y legible por máquina, que interese al país como testimonio acerca de su ser y acontecer, sea ella producida en forma oficial, adquirida o donada por instituciones privadas o particulares.\n\nACCIONES:\n\n1. Efectuar el seguimiento de la documentación pública en general, su conservación y su destino, en permanente contacto con los organismos del Estado.\n\n2. Promover sistemas y medidas que permitan la incorporación, selección, clasificación, ordenamiento y descripción de los fondos documentales, su custodia y conservación, como asimismo su consulta e investigación.\n\n3. Elaborar proyectos sobre normativa nacional referida a archivos, supervisar el cumplimiento de la vigente y prestar asesoramiento archivístico a otros organismos públicos.\n\n4. Difundir el conocimiento del acervo documental del Organismo y sus actividades y prestar asesoramiento histórico-archivístico, promoviendo la formación técnico-profesional y el intercambio con otros organismos del país y del extranjero que estén vinculados al quehacer archivístico.\n\n5. Promover medidas tendientes a la localización y potencial incorporación de documentación perteneciente a personas o instituciones privadas.\n\n6. Participar en organismos, reuniones o proyectos nacionales o internacionales."
+            },
+            {
+              "numero-articulo": 30,
+              "titulo-articulo": "DIRECCION DE REDES, TELECOMUNICACIONES Y ENLACES",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nPlanificar y supervisar los aspectos operativos, técnicos y administrativos de las Redes y Servicios de Telecomunicaciones del Ministerio, destinados a las relaciones entre los Organismos Gubernamentales de nivel nacional, provincial y municipal.\n\nACCIONES:\n\n1. Ejercer la Jefatura de la Estación Principal de la Red Nacional y del Centro de Procesamiento de Comunicaciones.\n\n2. Asesorar en todo lo concerniente a las telecomunicaciones y microcomunicaciones.\n\n3. Instalar, operar y mantener los medios y facilidades de los sistemas de comunicaciones.\n\n4. Confeccionar, proveer y controlar el cumplimiento de reglamentaciones técnicas vigentes por el empleo y uso de los medios.\n\n5. Mantener relaciones y enlaces con los servicios de comunicaciones de los Organismos de Gobierno a nivel nacional, provincial y municipal.\n\n6. Coordinar los aspectos funcionales con las empresas proveedoras de servicios y sistemas de telecomunicaciones.\n\n7. Asesorar en todo lo concerniente a la renovación y adquisición de equipamiento de telecomunicaciones terrestres, satelitales, vinculadas con la misión y proponer las modificaciones a los sistemas de telecomunicaciones con el fin de adecuar los medios a las circunstancias del servicio y a la tecnología de última generación."
+            },
+            {
+              "numero-articulo": 31,
+              "titulo-articulo": "DIRECCION DE SUMARIOS",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nInstruir en la Jurisdicción los sumarios administrativos que deban iniciarse por razones administrativas o disciplinarias.\n\nACCIONES:\n\n1. Proyectar las denuncias a interponer ante la Justicia Penal competente, cuando en un sumario surjan indicios de la comisión de un delito de acción pública.\n\n2. Proponer cuando fuere necesario, la autorización de diligencias concretas y determinadas fuera del asiento de sus funciones.\n\n3. Proponer la designación de un instructor \"ad-hoc\" en los casos en que existan razones debidamente fundadas que lo justifiquen."
+            },
+            {
+              "numero-articulo": 32,
+              "titulo-articulo": "SUBSECRETARIA DE COORDINACION TECNICA DIRECCION GENERAL DE INFORMACION DOCUMENTAL Y SISTEMAS",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nDirigir las actividades que permitan cumplimentar las políticas relativas a documentación administrativa entre las distintas unidades organizacionales y de los sistemas de información e informáticos, asegurando el flujo adecuado de toda la documentación que ingrese a, o egrese del Ministerio.\n\nRealizar el seguimiento de los trámites administrativos de la Jurisdicción, incluyendo los legislativos referidos a las fuerzas de seguridad dependientes, todo ello en el marco de las normas y procedimientos administrativos vigentes.\n\nACCIONES:\n\n1. Dirigir el despacho general y asegurar la distribución de la documentación administrativa a las unidades de la Jurisdicción, controlando la firma de las autoridades correspondientes en los proyectos normativos.\n\n2. Dirigir la recepción, salida y archivo de la documentación, como así también las notificaciones, guardando los recaudos prescriptos en las normas pertinentes.\n\n3. Dirigir todo lo relacionado con el suministro de información acerca de fines, competencia y funcionamiento del Ministerio.\n\n4. Intervenir en la legalización de documentos públicos.\n\n5. Supervisar la prestación de un servicio bibliotecario integral.\n\n6. Proponer el diagnóstico y supervisar el diseño, análisis, evaluación, implementación, seguimiento y control de los sistemas de información, para la informatización de los distintos programas, proyectos y actividades de la Jurisdicción."
+            },
+            {
+              "numero-articulo": 33,
+              "titulo-articulo": "DIRECCION GENERAL DE ASUNTOS JURIDICOS",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nAsesorar jurídica y legalmente en los asuntos de competencia del Ministerio.\n\nACCIONES:\n\n1. Representar en juicio al Estado Nacional en asuntos de competencia del Ministerio, asignando las causas y dando las instrucciones pertinentes a los letrados representantes patrocinantes que deban intervenir.\n\n2. Atender las relaciones con los Procuradores Fiscales Federales.\n\n3. Diligenciar los oficios judiciales dirigidos al Ministerio, centralizar los trámites internos vinculados con ellos y fiscalizar el cumplimiento de los términos prescriptos por las normas vigentes, salvo en aquéllos que según disposición de la autoridad competente, deban intervenir específicamente las oficinas requeridas.\n\n4. Intervenir en la redacción de proyectos de leyes, decretos, disposiciones administrativas, resoluciones, contratos, convenios y demás instrumentos jurídicos propios de la competencia ministerial.\n\n5. Intervenir en los recursos, reclamos y denuncias administrativas e impulsar los procedimientos respectivos, a fin de controlar la legitimidad de los actos de los organismos pertenecientes a la Jurisdicción.\n\n6. Intervenir en toda tramitación de carácter normativo, judicial o contencioso que sea de competencia del Ministerio, en su carácter de Organismo de Alzada de las Fuerzas de Seguridad y Policiales dependientes de este Departamento de Estado."
+            },
+            {
+              "numero-articulo": 34,
+              "titulo-articulo": "SUBSECRETARIA DE GESTION DE PROGRAMAS DIRECCION NACIONAL DE COMPENSACION DE EMERGENCIAS E INFRAESTRUCTURAS PROVINCIALES",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nAsistir al Subsecretario de Gestión de Programas en todo lo atinente al resarcimiento de los efectos que producen las situaciones de emergencia y catástrofe, y en la implementación de las acciones preventivas y de estímulo que hagan al desarrollo de las infraestructuras provinciales y regionales.\n\nACCIONES:\n\n1. Implementar y ejecutar las actividades resarcitorias para la población e instituciones afectadas por catástrofes y demás situaciones generales de fuerza mayor, que por su naturaleza y consecuencias hagan necesaria la instrumentación de medidas de urgencia.\n\n2. Gestionar la tramitación de los requerimientos de compensación formulados por la población y entes afectados.\n\n3. Intervenir en los recursos administrativos que los damnificados interpongan.\n\n4. Diseñar los sistemas de información relativos a los procedimientos y gestiones implementadas que permitan administrar una base de datos de la población damnificada.\n\n5. Requerir el apoyo de los organismos oficiales y de las organizaciones no gubernamentales representativas de la población afectada, a fin de cumplimentar más acabadamente su objetivo.\n\n6. Ejecutar las actividades de fomento y preventivas que le sean asignadas en los ámbitos provinciales y regionales.\n\n7. Desarrollar toda otra actividad que el Ministro del Interior disponga, analizando su integración dentro de la acción global de gobierno y evaluando el impacto que la misma registre, en particular aquéllos que pudieran surgir de la eventual transferencia de los sistemas previsionales policiales al ámbito de la Nación."
+            },
+            {
+              "numero-articulo": 35,
+              "titulo-articulo": "MINISTERIO DEL INTERIOR COMISION NACIONAL PARA LA PROMOCION Y DESARROLLO DE LA REGION PATAGONICA",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nPromover políticas y estrategias de desarrollo, como así también generar, impulsar y concretar programas y proyectos para la Región Patagónica en un todo de acuerdo con el Gobierno Nacional.\n\nACCIONES:\n\n1. Gerenciar y viabilizar programas y proyectos prioritarios para el desarrollo de la región.\n\n2. Identificar fuentes de financiamiento nacional e internacional y gestionar fondos para proyectos públicos y privados que hagan al crecimiento regional.\n\n3. Propiciar y proponer mecanismos de flexibilidad que permitan ajustar el modelo de desarrollo regional a los nuevos escenarios existentes a nivel nacional e internacional.\n\n4. Fomentar y acompañar el proceso de inversiones nacionales y extranjeras, y el de intercambio y cooperación entre el sector público y el privado.\n\n5. Asesorar a los organismos provinciales y municipales de la Región Patagónica en la elaboración de sus políticas, estrategias y programas de desarrollo.\n\n6. Proponer al Poder Ejecutivo Nacional los instrumentos legales e institucionales necesarios para la implementación y ejecución de los objetivos perseguidos.\n\n7. Coordinar con los Gobiernos Provinciales de la región, las acciones tendientes a impulsar la instalación de emprendimientos productivos, y promover la realización de nuevas obras, equipamientos y servicios para la región.\n\n8. Proponer al Secretario del Interior políticas, estrategias y mecanismos que apunten al crecimiento integral de la región, con una concepción autogenerada y sostenible.\n\n9. Asistir al Secretario del Interior en temas vinculados a la problemática y potencialidad de la Región Patagónica.\n\n10. Fomentar el diálogo y la interacción entre el Poder Ejecutivo Nacional y todos los actores sociales de la región.\n\n11. Propiciar la generación del empleo y el asentamiento poblacional en todo el territorio patagónico."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 000377 1995 08 25 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 36,
+              "titulo-articulo": "MINISTERIO DEL INTERIOR COMISION NACIONAL PARA LA PROMOCION Y DESARROLLO DE LA REGION DEL NOROESTE ARGENTINO",
+              "texto": "RESPONSABILIDAD PRIMARIA:\n\nPromover estrategias y políticas de desarrollo, como así también impulsar programas y proyectos de la Región del Noroeste Argentino.\n\nACCIONES:\n\n1. Compilar, ordenar y hacer compatibles los programas de la Región del Noroeste Argentino, recomendando las políticas pertinentes para su desarrollo.\n\n2. Promover estudios e investigaciones con relación a los proyectos ya existentes, o con otros nuevos que estime necesario emprender.\n\n3. Estudiar la forma de impulsar la participación de la actividad primaria y fomentar inversiones en los proyectos y programas mencionados.\n\n4. Facilitar la instalación de centros productivos y estudiar la factibilidad de crear asentamientos poblacionales, en coordinación con los organismos nacionales y provinciales que tienen a su cargo la construcción de viviendas populares, fomentando el traslado de familias residentes en grandes centros urbanos, capaces de aportar mano de obra calificada para la producción, revirtiendo los flujos migratorios que han despoblado el interior, repoblando y poblando las zonas menos habitadas, mediante la instalación o ampliación de fuentes de trabajo que permitan a los pobladores condiciones de vida adecuadas.\n\n5. Proponer al Poder Ejecutivo Nacional los instrumentos legales e institucionales que sean necesarios para la implementación y ejecución de los fines perseguidos por el Decreto N. 377 del 25 de agosto de 1995."
+            }
+          ]
+        },
+        {
+          "anexo": "C",
+          "titulo-anexo": "ANEXO III. PLANTA PERMANENTE, NO PERMANENTE Y DOTACION GLOBAL",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "*ARTICULO 1.- NOTA DE REDACCION: GRAFICO NO MEMORIZABLE."
+          }
+        }
+      ],
+      "id-infojus": "DN19960001410"
+    }
+  }
+}

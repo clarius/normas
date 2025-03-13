@@ -1,0 +1,448 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-239-0000-3991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991198896,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "932-nacional-regimen-presentacion-espontanea-dn19930000932-1993-05-03"
+      }
+    },
+    "content": {
+      "mecanografico": 19930000932,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 932,
+      "timestamp-m": "2012-04-23T09:46:48",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1993-05-03",
+      "standard-normativo": "DEC C 000932 1993 05 03",
+      "titulo-norma": "REGIMEN DE PRESENTACION ESPONTANEA",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1993 05 05"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 932/1993",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2012-04-23",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE RESTABLECE CON CARACTER GENERAL Y TEMPORARIO LA VIGENCIA DEL REGIMEN DE PRESENTACION ESPONTANEA PREVISTO EN EL ART. 111 DE LA LEY 11683 DE PROCEDIMIENTO TRIBUTARIO. SE DISPONE UN REGIMEN DE FACILIDADES DE PAGO."
+      },
+      "noticias-accesorias": {
+        "texto": "NRO.  DE  ART.  QUE ESTABLECE LA ENTRADA EN VIGENCIA 0018\n\nFECHA DE ENTRADA EN VIGENCIA 1993 05 05"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "obligación tributaria"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "derecho fiscal",
+                "obligación impositiva",
+                "derecho público fiscal",
+                "obligaciones fiscales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regímenes de presentación espontánea"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria/extinción de la obligación tributaria/regularización impositiva/regímenes de presentación espontánea"
+            },
+            "sinonimos": {
+              "termino": [
+                "regularización fiscal",
+                "deberes fiscales",
+                "obligación impositiva",
+                "derecho fiscal",
+                "régimen de normalización tributaria",
+                "presentación espontánea del deudor",
+                "regularización tributaria",
+                "obligaciones fiscales",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agentes de retención"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sujetos imponibles/responsables/agentes de retención"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "sujetos de los deberes impositivos",
+                "sujetos pasivos del impuesto",
+                "responsables por deuda ajena",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agentes de percepción"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sujetos imponibles/responsables/agentes de percepción"
+            },
+            "sinonimos": {
+              "termino": [
+                "organismos de percepción",
+                "derecho fiscal",
+                "sujetos de los deberes impositivos",
+                "sujetos pasivos del impuesto",
+                "organismos recaudadores",
+                "responsables por deuda ajena",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pago"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones/pago"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "pago de la deuda"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "intereses"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/clasificación de las obligaciones/obligaciones de dar/obligaciones de dar sumas de dinero/intereses"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "prestaciones dinerarias",
+                "obligaciones dinerarias",
+                "deudas de dinero",
+                "interés bancario",
+                "deudas dinerarias"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "multa (tributario)"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/multa/multa tributaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "multa (tributario)",
+                "sanción penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección General Impositiva"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/AFIP/AFIP DGI"
+            },
+            "sinonimos": {
+              "termino": [
+                "Administración Federal de Ingresos Públicos",
+                "DGI",
+                "Administración Federal de Ingresos Públicos Dirección General Impositiva",
+                "Dirección General Impositiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "plan de pagos"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones/pago/pago en cuotas/plan de pagos"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "pago de la deuda",
+                "moratoria"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de la obligación tributaria",
+            "pago de la deuda (pago)",
+            "responsables",
+            "AFIP",
+            "pago",
+            "Derecho Tributario",
+            "regularización impositiva",
+            "clasificación de las obligaciones",
+            "obligaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "Derecho tributario y aduanero",
+            "sujetos pasivos del impuesto (sujetos imponibles)",
+            "extinción de las obligaciones",
+            "obligaciones de dar sumas de dinero",
+            "Obligaciones y contratos",
+            "derecho fiscal (Derecho Tributario)",
+            "obligaciones personales (obligaciones)",
+            "DGI (AFIP DGI)",
+            "responsables por deuda ajena (responsables)",
+            "deudas de dinero (obligaciones de dar sumas de dinero)",
+            "multa (tributario) (multa tributaria)",
+            "agentes de percepción",
+            "pago en cuotas",
+            "prestaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "Administración Federal de Ingresos Públicos Dirección General Impositiva (AFIP DGI)",
+            "multa",
+            "interés bancario (intereses)",
+            "regímenes de presentación espontánea",
+            "obligaciones",
+            "sujetos imponibles",
+            "deudas dinerarias (obligaciones de dar sumas de dinero)",
+            "organismos de percepción (agentes de percepción)",
+            "presentación espontánea del deudor (regímenes de presentación espontánea)",
+            "deberes fiscales (obligación tributaria)",
+            "organismos recaudadores (agentes de percepción)",
+            "agentes de retención",
+            "sanción penal (pena)",
+            "sujetos de los deberes impositivos (sujetos imponibles)",
+            "obligaciones fiscales (obligación tributaria)",
+            "derecho público fiscal (Derecho Tributario)",
+            "AFIP DGI",
+            "obligación tributaria",
+            "multa tributaria",
+            "obligación impositiva (obligación tributaria)",
+            "intereses",
+            "Dirección General Impositiva (AFIP DGI)",
+            "Derecho penal",
+            "plan de pagos",
+            "regularización fiscal (regularización impositiva)",
+            "pena",
+            "moratoria (plan de pagos)",
+            "regularización tributaria (regularización impositiva)",
+            "obligaciones de dar",
+            "Administración Federal de Ingresos Públicos (AFIP)",
+            "régimen de normalización tributaria (regularización impositiva)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "TOR C 011683 1978 12 01 0111 000 0000 000"
+          }
+        },
+        "texto": "las  disposiciones  del artículo 111 de la Ley N 11.683 (texto ordenado en 1978 y sus modificaciones), y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "TOR C 011683 1978 12 01 0111 000 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que tales disposiciones tienen por objeto alentar el cumplimiento    voluntario  de  las  obligaciones  tributarias.\n\nQue no existen dudas  que  en  el  país  se  ha  ido  gestando una modificación  en  la  actitud  de los responsables y de la sociedad toda respecto de las obligaciones  impositivas,  valorizando  tanto su cumplimiento cuanto la tarea que el Estado lleva adelante en  la lucha  contra  la  evasión  y  en  la  oportuna  percepción  de las obligaciones determinadas.\n\nQue  en  el  marco  expuesto y con el fin de permitir, en la mayor medida posible, la inserción  voluntaria  de todos los obligados en el  sistema  vigente, se estima conveniente utilizar  el  instituto legal mencionado,  aunque  en condiciones cada vez más gravosas que en las oportunidades anteriores.\n\nQue asimismo y con igual finalidad  a la precedentemente expuesta, se  considera  conveniente  establecer,  palalelamente,  planes  de facilidades  de  pago para obligaciones comprendidas  o  no  en  el régimen de presentación  espontánea  incluyendo  las cuotas impagas de    aquéllas  respecto  de  las  que  oportunamente  se  hubieren solicitado  facilidades  de  pago  en virtud de planes establecidos\n\nQue  el  presente  decreto  se  dicta en  uso  de  las  facultades conferidas por el artículo 111 de  la  Ley N 11.683, texto ordenado en 1978 y sus modificaciones."
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO I Presentación Espontánea",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "TOR C 011683 1978 12 01 0111 000 0000 000"
+                }
+              },
+              "numero-articulo": 1,
+              "texto": "Art.  1:  Restablécese  con  carácter  general y temporario la vigencia  del  régimen de presentación espontánea  previsto  en  el artículo 111 de  la  Ley  N  11.683  (texto  ordenado en 1978 y sus modificaciones)  en  la  forma,  condiciones  y  con  los  alcances dispuestos en el presente decreto.\n\nLa  DIRECCION  GENERAL  IMPOSITIVA fijará la fecha de  vencimiento del plazo para acogerse a este régimen."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 023102 1984 09 28 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "TOR C 003764 1979 10 23 0023 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "TOR C 003764 1979 10 23 0023 002 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_3",
+                    "ref": "LEY C 023562 1988 05 19 0002 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_4",
+                    "ref": "LEY C 023665 1989 06 01 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_5",
+                    "ref": "LEY C 023763 1989 12 20 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 2,
+              "texto": "Art.  2:  El  régimen  de  presentación  espontánea  no  será aplicable:\n\na)  A  los  contribuyentes y responsables contra quienes existiera denuncia formal  o  querella  penal  por  los  delitos  comunes que tengan    conexión   con  el  incumplimiento  de  sus  obligaciones tributarias o las de terceros.\n\nb) A las obligaciones  que  se  indican  en  el  inciso  anterior, cuando  su  incumplimiento  guarde relación con los delitos comunes que fueran objeto de causas penales  en las que se hubiera ordenado el procesamiento de funcionarios o ex  funcionarios  estatales.\n\nc)  A  los  impuestos  previstos  en  los  artículos 23 y 23  bis, incorporado  por  la Ley N 23.102 de la Ley de  Impuestos  Internos (texto ordenado en  1979  y  sus modificaciones) y al creado por el artículo 2 de la Ley N 23.562,  prorrogada  por  las Leyes Nros. 23 665 y 23.763.\n\nd)  A  las  actualizaciones,  los intereses, las sanciones  y  los accesorios  correspondientes a los  conceptos  mencionados  en  los incisos anteriores."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "Art.  3:  Quedan exentos de intereses, multas y cualquier otra sanción que pudiere corresponder, los contribuyentes y responsables que  regularicen su situación dando cumplimiento a las obligaciones  fiscales   omitidas  -total  o  parcialmente-,  cuyos vencimientos se hubieren  operado  hasta  el  30  de abril de 1993, inclusive, relativas a los tributos cuya aplicación,  percepción  y fiscalización  está a cargo de la DIRECCION GENERAL IMPOSITIVA.\n\nSe  entenderá  por   cumplimiento  de  las  obligaciones  fiscales omitidas:\n\na) Cuando el tributo  deba  liquidarse  obligatoriamente  mediante declaración jurada: la presentación de ésta y, de corresponder,  el pago  simultáneo  del  gravamen y su actualización, al contado o en cuotas.\n\nb) Cuando se trate de impuesto  cuya recaudación no se efectúe por declaración jurada: el pago al contado de la deuda y su actualización.\n\nc) Cuando se trate de actualizaciones  pendientes  de  ingreso: el pago  de  las  mismas  y  su actualización, al contado o en cuotas.\n\nEn caso de posesión o tenencia  de  efectos  en contravención será necesaria la denuncia simultánea.\n\nDe regularizarse las obligaciones mediante la  solicitud de planes de  facilidades  de  pago, lo dispuesto en este artículo  producirá efectos  siempre  que  durante   la  vigencia  de  los  mismos  las obligaciones quedaran totalmente canceladas.\n\nPodrán  también  incorporarse  al  régimen    los   anticipos  con vencimiento hasta el 30 de abril de 1993, inclusive."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art.  4:  No  están  alcanzadas  por las disposiciones de este Título  las  obligaciones  fiscales  cuyo  vencimiento  se  hubiere operado hasta el 30 de abril de 1993 que se  encuentren  canceladas a la fecha de entrada en vigencia del presente decreto."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "TOR C 011683 1978 12 01 0023 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 023771 1990 02 07 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 5,
+              "texto": "Art.  5: La posibilidad de acogerse al régimen de presentación espontánea se pierde cuando:\n\na)  Se hubiera  iniciado  el  procedimiento  de  determinación  de oficio  previsto por el artículo 23 y siguientes de la Ley N 11.683 (texto ordenado  en 1978 y sus modificaciones), con la notificación de la vista respectiva,  independientemente  de  la  fecha  de este acto o del estado del trámite.\n\nb)  Exista  comunicación  expresa  de  iniciación de verificación, inspección o intimación que hubiera efectuado  la DIRECCION GENERAL IMPOSITIVA,  incluso  las  originadas  en denuncia presentada  ante dicho  Organismo,  y siempre que no hubieran  transcurrido  TREINTA (30) días corridos desde  la  fecha de la última intervención hasta el momento del acogimiento.\n\nc)  Con  respecto a delitos previstos  en  la  Ley  N  23.771,  la DIRECCION GENERAL  IMPOSITIVA,  a  la fecha de entrada en vigor del presente decreto, hubiera formulado  denuncia o iniciado querella a los  presuntos  infractores,  sus instigadores  y  cómplices  y  el respectivo responsable se hubiere  notificado  de  la misma a dicha fecha.\n\nEn  estos  casos  se excluyen de la presentación espontánea  todas las obligaciones fiscales  que  correspondan a dichos responsables, sea que se trate de deuda propia o de terceros.\n\nCuando de acuerdo con lo previsto  en  los  incisos  a)  y  b)  se produjera  la  pérdida  de  la  espontaneidad,  la  misma producirá efectos  sólo con relación al tributo y período fiscal  comprendido en cada caso."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art.  6:  Durante  el  período  de  vigencia  del  régimen  de presentación  espontánea  la  DIRECCION  GENERAL  IMPOSITIVA podrá, cuando la fecha de vencimiento para el pago del impuesto  de sellos hubiera  operado  hasta  el  día  30  de  abril de 1993, inclusive, habilitar  instrumentos  fuera  de  fecha  y aceptar  el  pago  del gravamen  resultante  de  declaraciones  juradas,    con    más  su actualización y sin las multas e intereses que pudieran corresponder,  siendo responsabilidad del contribuyente la correcta liquidación del impuesto y su respectiva actualización."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art.  7:  Cuando  se  trate  de  contribuyentes o responsables facultados  para  ingresar el impuesto de  sellos  por  declaración jurada, los beneficios  de  la  presentación  espontánea procederán siempre  que  los  actos,  operaciones  o  instrumentos   gravados excepto los otorgados por escritura pública- se hallen documentados  o  registrados en libros de contabilidad llevados  en forma  legal  o  en  aquéllos    expresamente  autorizados  por  la DIRECCION GENERAL IMPOSITIVA, mediante  asientos  efectuados en los correspondientes términos reglamentarios."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art.  8:  Los  agentes  de  retención  y  percepción  quedarán liberados de multas, intereses y de cualquier otra sanción,  cuando exteriorizaren y pagaren -en los términos del presente Título-  los impuestos  actualizados  que hubieran omitido retener o percibir, o que, retenidos o percibidos,  no  hubieran depositado o mantuvieran en su poder luego de vencidos los plazos  legales respectivos.\n\nLos impuestos retenidos o percibidos y no  ingresados  a  la fecha del  presente decreto y sus respectivas actualizaciones, no gozarán de facilidades y deberán pagarse al contado.\n\nCuando  se trate de retenciones o percepciones no practicadas, los agentes de retención o percepción quedarán eximidos de responsabilidad  si  el  contribuyente regularizara su situación en los términos de este decreto  o  lo hubiera hecho con anterioridad.\n\nLa liberación establecida por este  artículo  no  procederá cuando en el supuesto contemplado en el párrafo anterior, los  agentes  de retención o percepción, se encontraran en alguna de las situaciones  previstas  en  los incisos a) y b) del artículo 2 o en el inciso c) del artículo 5."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art.  9: El cumplimiento de las obligaciones fiscales omitidas podrá efectuarse  mediante  el  pago  en  cuotas,  conforme  a  las disposiciones siguientes:\n\na)  Las  cuotas  a  solicitarse  serán  mensuales,  consecutivas e iguales  en cuanto al capital a amortizar, y no podrán  exceder  de TREINTA (30).\n\nb) El importe  de  cada  cuota,  excluidos los intereses, no podrá ser inferior a CIEN PESOS ($ 100).\n\nc) Las cuotas devengarán un interés  del  UNO  POR  CIENTO  (1  %) mensual sobre saldos.\n\nd)  En  oportunidad  de proponer el respectivo plan de facilidades de  pago  deberá  ingresarse   el  importe  de  la  primera  cuota."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO II Régimen de facilidades de pago",
+          "articulo": [
+            {
+              "numero-articulo": 10,
+              "texto": "Art.  10:  Las  obligaciones  fiscales  cuyos  vencimientos se hubieren  operado  hasta  el  30  de  abril de 1993, inclusive,  no comprendidas en el régimen de presentación  espontánea  previsto en las  disposiciones  del  Título  I,  excepto  las indicadas en  los incisos a) y b) del artículo 2, gozarán del régimen  de facilidades que se establece en el artículo 9."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art.  11: En el caso de obligaciones respecto de las cuales al 30 de abril  de  1993 se hubieren solicitado facilidades de pago de conformidad a cualquier  régimen  establecido  al  efecto  y  cuyos planes  se encontraren o no caducos, el importe total de las cuotas vencidas   e  impagas  a  dicha  fecha,  incluyendo  los  intereses respectivos,  podrá  ingresarse  mediante  su  pago  en  cuotas  de acuerdo con las siguientes disposiciones.\n\na)  Las  cuotas  a  solicitarse  serán  mensuales,  consecutivas e iguales  en cuanto al capital a amortizar, y no podrán  exceder  de DIEZ (10).\n\nb) El importe  de  cada  cuota,  excluidos los intereses, no podrá ser inferior a CIEN PESOS ($ 100).\n\nc) Las cuotas devengarán un interés  del  UNO  POR  CIENTO  (1  %) mensual sobre saldos.\n\nd)  En  oportunidad  de proponer el respectivo plan de facilidades de pago deberá ingresarse  el  importe  de  la  primera cuota.\n\nLas  cuotas  del  respectivo  plan  oportunamente solicitado  cuyo vencimiento  fuere  posterior  al  30  de  abril  de  1993  deberán ingresarse conforme al mismo, no considerándose  a  los  efectos de su   caducidad  los  incumplimientos  respecto  de  los  cuales  se soliciten  las  facilidades  previstas  en  el  presente  artículo."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "Art.  12:  Si  se  tratare  de  obligaciones  comprendidas  en determinaciones    y  liquidaciones  efectuadas  por  la  DIRECCION GENERAL IMPOSITIVA,  que se encuentren en discusión administrativa, contencioso-administrativa  o  judicial  a  la fecha de publicación del  presente  decreto  en  el  Boletín  Oficial, los  responsables deberán  allanarse  y  renunciar  expresamente   a  toda  acción  y derecho, incluso el de repetición, relativos a la  causa  y,  en su caso,  abonar  las cuotas del juicio, en la forma y condiciones que disponga el mencionado Organismo."
+            },
+            {
+              "numero-articulo": 13,
+              "texto": "Art.  13:  Resulta  comprendido  en  las disposiciones de este Título  tanto el importe del impuesto adeudado  cuanto  el  de  los intereses, actualizaciones y multas."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO III Disposiciones Generales",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "TOR C 011683 1978 12 01 0115 000 0000 000"
+                }
+              },
+              "numero-articulo": 14,
+              "texto": "Art. 14: Las actualizaciones se calcularán de conformidad a lo previsto  en el artículo 115 y siguientes de la Ley N.11.683 (texto ordenado  en    1978    y  sus  modificaciones),  considerando  las variaciones producidas entre  los  respectivos  vencimientos y el 1 de abril de 1991."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art.  15:  El  ingreso  de los importes correspondientes a los conceptos indicados en el presente  régimen  deberá  ser  efectuado mediante  depósito bancario, no aceptándose otra forma de pago  que la mencionada."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art.  16:  Facúltase  a  la  DIRECCION GENERAL IMPOSITIVA para dictar las normas complementarias que  considere  necesarias  a los fines  de  la  aplicación  del  régimen establecido por el presente decreto.   En  especial  podrá  establecer    plazos,    garantías, caducidades  y  demás  condiciones  a  que  deberán  ajustarse  las presentaciones y las solicitudes de facilidades de pago correspondientes al presente régimen."
+            },
+            {
+              "numero-articulo": 17,
+              "texto": "Art.  17:  Dése  cuenta  al  HONORABLE  CONGRESO DE LA NACION."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "Art.  18: Las disposiciones del presente decreto regirán desde la fecha de su publicación en el Boletín Oficial."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "Art. 19: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "MENEM - CAVALLO"
+          }
+        }
+      ],
+      "id-infojus": "DN19930000932"
+    }
+  }
+}

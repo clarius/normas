@@ -1,0 +1,920 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-372-1000-2991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1452096748277,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1273-nacional-decreto-reglamentario-ley-24059-seguridad-interior-dn19920001273-1992-07-21"
+      }
+    },
+    "content": {
+      "mecanografico": 19920001273,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1273,
+      "timestamp": "2016-01-06T12:09:50",
+      "timestamp-m": "2016-01-06T12:09:50",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1992-07-21",
+      "standard-normativo": "DEC C 001273 1992 07 21",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 24.059 DE SEGURIDAD INTERIOR.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1992 07 27"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "EXPRESIONES SUSTITUIDAS. (B.O. 06-12-2001)",
+          "id": "MODIFICADO POR0",
+          "ref": "LEY C 025520 2001 11 27 0049 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1273/1992",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2016-01-06",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY DE SEGURIDAD INTERIOR REMITIENDO AL TRATAMIENTO PARLAMENTARIO, POLICIAL, PREVENTIVO O REPRESIVO DE DESASTRES NATURALES O CAUSADOS POR EL HOMBRE Y, A ILICITOS, QUE COMPROMETAN LA LIBERTAD, LA VIDA, EL PATRIMONIO DE LOS HABITANTES, SUS DERECHOS Y GARANTIAS, LOS SERVICIOS PUBLICOS Y LA VIGENCIA DE LA CONSTITUCION. SE AGREGA UN INDICE DEL ORDENAMIENTO NORMATIVO COMO ANEXO B Y, COMO ANEXO A, UN GLOSARIO DE TERMINOS RELATIVOS A LA SEGURIDAD INTERIOR DEFINIENDO EL ALCANCE DE LOS MISMOS.",
+        "anexos-decreto": {
+          "anexo-ley": "0000IA REGLAMENTACION LEY 24.059"
+        },
+        "informacion-vinculada": 1E+19,
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 024059 1991 12 18 0000 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "seguridad interior"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/seguridad interior"
+            },
+            "sinonimos": {
+              "termino": "seguridad nacional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delitos contra la seguridad de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho penal/delitos contra la seguridad de la Nación"
+            },
+            "sinonimos": {
+              "termino": [
+                "delitos que comprometen la paz y la dignidad de la Nación",
+                "delitos que comprometen la seguridad de la nación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delitos contra los poderes públicos y el orden constitucional"
+            },
+            "preferido": {
+              "termino": "Derecho penal/delitos contra los poderes públicos y el orden constitucional"
+            },
+            "sinonimos": {
+              "termino": "delitos relacionados con la defensa de la democracia"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tareas de inteligencia"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/servicios de inteligencia/tareas de inteligencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios de información",
+                "seguridad nacional",
+                "Servicio Nacional de Inteligencia",
+                "Servicio de Inteligencia del Estado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "conmoción interior"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/estado de sitio/conmoción interior"
+            },
+            "sinonimos": {
+              "termino": "conmoción interna"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "terrorismo"
+            },
+            "preferido": {
+              "termino": "Derecho penal/terrorismo"
+            },
+            "sinonimos": {
+              "termino": [
+                "actos terroristas",
+                "actividades terroristas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "estado de sitio"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/estado de sitio"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "derechos y garantías constitucionales"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos y garantías constitucionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "garantías constitucionales",
+                "principios constitucionales",
+                "disposiciones constitucionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "intervención federal"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Legislativo/Poder Legislativo Nacional/intervención federal"
+            },
+            "sinonimos": {
+              "termino": [
+                "poderes públicos",
+                "intervención a provincias",
+                "Congreso Nacional",
+                "congreso de la Nación",
+                "Legislatura Nacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "arresto a disposición del Poder Ejecutivo Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/estado de sitio/puesta a disposición del Poder Ejecutivo Nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "detención ilegal",
+                "arresto político",
+                "arresto a disposición del Poder Ejecutivo Nacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "privación ilegal de la libertad"
+            },
+            "preferido": {
+              "termino": "Derecho penal/delitos contra la libertad/delitos contra la libertad individual/privación ilegal de la libertad"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "juicios contra el Estado"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/etapas del proceso/demanda/juicios contra el Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "demanda contra el fisco",
+                "desarrollo del juicio",
+                "demandas contra la Nación",
+                "demandas contra el Estado",
+                "etapas procesales",
+                "juicios contra el Estado provincial",
+                "demandas contra el Estado Provincial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "representación procesal"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/partes del proceso/representación procesal"
+            },
+            "sinonimos": {
+              "termino": "representación en juicio"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Derechos humanos"
+            },
+            "preferido": {
+              "termino": "Derechos humanos"
+            },
+            "sinonimos": {
+              "termino": "derechos fundamentales"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "defensa civil"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/defensa civil"
+            },
+            "sinonimos": {
+              "termino": "servicio civil de defensa"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "estado de emergencia"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/estado de emergencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "emergencia pública",
+                "acción social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Consejo de Seguridad Interior"
+            },
+            "preferido": {
+              "termino": "Consejo de Seguridad Interior"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Fuerzas Armadas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "fuerzas de seguridad"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "competencia"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/jurisdicción y competencia/competencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "juez incompetente",
+                "juez competente",
+                "tribunal competente",
+                "competencia jurisdiccional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jurisdicción"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/jurisdicción y competencia/jurisdicción"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "presidente de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/Poder Ejecutivo Nacional/presidencia de la Nación/presidente de la Nación"
+            },
+            "sinonimos": {
+              "termino": "poderes públicos"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio del Interior"
+            },
+            "preferido": {
+              "termino": "Ministerio del Interior y Transporte"
+            },
+            "sinonimos": {
+              "termino": "Ministerio del Interior"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delegación de facultades"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/facultades de la administración/facultades reglamentarias/delegación de facultades a la Administración"
+            },
+            "sinonimos": {
+              "termino": [
+                "potestad reglamentaria",
+                "potestades administrativas",
+                "función pública",
+                "facultades de la administración pública",
+                "delegación de facultades"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Informático de Seguridad Interior"
+            },
+            "preferido": {
+              "termino": "Sistema Informático de Seguridad Interior"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "banco de datos"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/banco de datos"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "base de datos",
+                "informática"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Comité de Crisis del Consejo de Seguridad Interior"
+            },
+            "preferido": {
+              "termino": "Comité de Crisis del Consejo de Seguridad Interior"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Congreso Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Legislativo/Poder Legislativo Nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "poderes públicos",
+                "Congreso Nacional",
+                "congreso de la Nación",
+                "Legislatura Nacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Comisión Bicameral de Seguridad Interior e Inteligencia"
+            },
+            "preferido": {
+              "termino": "Comisión Bicameral de Seguridad Interior e Inteligencia"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "secreto de Estado"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/seguridad interior/secreto de Estado"
+            },
+            "sinonimos": {
+              "termino": "seguridad nacional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Policía Federal Argentina"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/policía federal"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "Policía Federal Argentina",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Policía Provincial"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/Policía Provincial"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Gendarmería Nacional"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Prefectura naval Argentina"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/Prefectura Naval"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "Prefectura naval Argentina",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "armas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/armas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "explosivos"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/armas/explosivos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Defensa"
+            },
+            "preferido": {
+              "termino": "Ministerio de Defensa"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "puesta a disposición del Poder Ejecutivo Nacional",
+            "delegación de facultades (delegación de facultades a la Administración)",
+            "etapas procesales (etapas del proceso)",
+            "estado de sitio",
+            "delitos que comprometen la paz y la dignidad de la Nación (delitos contra la seguridad de la Nación)",
+            "informática (tecnología de la información)",
+            "partes del proceso",
+            "Derecho informático",
+            "personal de seguridad (fuerzas de seguridad)",
+            "fuerzas de seguridad",
+            "Gendarmería Nacional",
+            "juicios contra el Estado provincial (juicios contra el Estado)",
+            "emergencia pública (estado de emergencia)",
+            "delitos que comprometen la seguridad de la nación (delitos contra la seguridad de la Nación)",
+            "Bienestar social",
+            "policía federal",
+            "demandas contra el Estado Provincial (juicios contra el Estado)",
+            "representación procesal",
+            "Ministerio de Defensa",
+            "intervención a provincias (intervención federal)",
+            "facultades de la administración",
+            "delegación de facultades a la Administración",
+            "explosivos",
+            "Poder Ejecutivo Nacional",
+            "Administración Pública",
+            "competencia jurisdiccional (competencia)",
+            "Sistema Informático de Seguridad Interior",
+            "demandas contra el Estado (juicios contra el Estado)",
+            "representación en juicio (representación procesal)",
+            "demanda",
+            "Ministerio del Interior (Ministerio del Interior y Transporte)",
+            "juez competente (competencia)",
+            "acto administrativo",
+            "TIC (tecnología de la información)",
+            "etapas del proceso",
+            "Poder Legislativo",
+            "juez incompetente (competencia)",
+            "delitos relacionados con la defensa de la democracia (delitos contra los poderes públicos y el orden constitucional)",
+            "delitos contra la seguridad de la Nación",
+            "decreto reglamentario",
+            "servicio civil de defensa (defensa civil)",
+            "reglamentos",
+            "delitos contra la libertad individual",
+            "intervención federal",
+            "Derecho procesal",
+            "derecho militar",
+            "acción social (Bienestar social)",
+            "Derecho penal",
+            "poderes públicos (poderes del Estado)",
+            "reglamento administrativo (reglamentos)",
+            "Congreso Nacional (Poder Legislativo Nacional)",
+            "emergencias sociales",
+            "función pública (Administración Pública)",
+            "delitos contra la libertad",
+            "principios constitucionales (derechos y garantías constitucionales)",
+            "Defensa nacional",
+            "Ministerio del Interior y Transporte",
+            "armas",
+            "Derecho constitucional",
+            "derechos fundamentales (Derechos humanos)",
+            "derechos y garantías constitucionales",
+            "conmoción interior",
+            "banco de datos",
+            "base de datos (banco de datos)",
+            "tribunal competente (competencia)",
+            "desarrollo del juicio (etapas del proceso)",
+            "facultades de la administración pública (facultades de la administración)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "Comisión Bicameral de Seguridad Interior e Inteligencia",
+            "secreto de Estado",
+            "competencia",
+            "Legislatura Nacional (Poder Legislativo Nacional)",
+            "juicios contra el Estado",
+            "Policía Provincial",
+            "tecnología de la información",
+            "actos terroristas (terrorismo)",
+            "Derecho administrativo",
+            "Servicio de Inteligencia del Estado (servicios de inteligencia)",
+            "Comité de Crisis del Consejo de Seguridad Interior",
+            "potestades administrativas (facultades de la administración)",
+            "Prefectura Naval",
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
+            "privación ilegal de la libertad",
+            "defensa civil",
+            "arresto político (puesta a disposición del Poder Ejecutivo Nacional)",
+            "demandas contra la Nación (juicios contra el Estado)",
+            "Policía Federal Argentina (policía federal)",
+            "actividades terroristas (terrorismo)",
+            "seguridad pública",
+            "delitos contra los poderes públicos y el orden constitucional",
+            "tareas de inteligencia",
+            "facultades reglamentarias",
+            "demanda contra el fisco (juicios contra el Estado)",
+            "Derechos humanos",
+            "Consejo de Seguridad Interior",
+            "jurisdicción",
+            "congreso de la Nación (Poder Legislativo Nacional)",
+            "estado de emergencia",
+            "arresto a disposición del Poder Ejecutivo Nacional (puesta a disposición del Poder Ejecutivo Nacional)",
+            "potestad reglamentaria (facultades reglamentarias)",
+            "acto administrativo de alcance general",
+            "terrorismo",
+            "policía",
+            "Poder Legislativo Nacional",
+            "disposiciones constitucionales (derechos y garantías constitucionales)",
+            "presidencia de la Nación",
+            "presidente de la Nación",
+            "poderes del Estado",
+            "seguridad interior",
+            "garantías constitucionales (derechos y garantías constitucionales)",
+            "conmoción interna (conmoción interior)",
+            "servicios de inteligencia",
+            "Servicio Nacional de Inteligencia (servicios de inteligencia)",
+            "servicios de información (servicios de inteligencia)",
+            "Poder Ejecutivo",
+            "Prefectura naval Argentina (Prefectura Naval)",
+            "jurisdicción y competencia",
+            "seguridad nacional (seguridad pública)",
+            "Fuerzas Armadas",
+            "detención ilegal (puesta a disposición del Poder Ejecutivo Nacional)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024059 1991 12 18 0000 000 0000 000"
+          }
+        },
+        "texto": "la Ley de Seguridad Interior N. 24.059 y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023554 1988 04 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024059 1991 12 18 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  dicha  norma  establece  las bases jurídicas, orgánicas y funcionales  que  regulan la planificación,  control  y  apoyo  del esfuerzo nacional de  policía,  prosiguiendo con la filosofía de la Ley  N.  23.554,  que  diferencia,  claramente,    las  situaciones relativas  a  la  Defensa  Nacional,  de  las  que  específicamente corresponden a la Seguridad Interior.\n\nQue,  la  seguridad  interior  se  conceptualiza  como un  sistema autónomo,   con  operatividad  propia,  doctrina  y  planificación específica,  requiriendo    por    ende   una  mayor  explicitación normativa, a fin de definir su campo de acción,  objetivo  al  cual apunta la presente reglamentación.\n\nQue,  concretamente,  se pretende dotar al sistema de una adecuada funcionalidad, atribuyendo  la  responsabilidad  al  Ministerio del Interior;  ratificando  un  esquema de coordinación que tiene  como eje  la  labor  que  realice el Consejo  de  Seguridad  Interior  y diseñando  una  estructura    que  asegure  la  viabilidad  de  los objetivos tenidos en cuenta por  el  legislador al sancionar la Ley N. 24.059.\n\nQue,  se  fijan  los  lineamientos  para  la  elaboración  de  una doctrina que -siendo compatible con el ideal  democrático- unifique los criterios, las políticas y los planes específicos  referidos  a la seguridad del país; razón por la cual, además de la reglamentación  de  la  Ley  que constituye el Anexo I del presente Decreto,  se  agrega, como Anexo  II,  un  glosario  de  acepciones terminológicas de  uso en el campo propio de la seguridad interior.\n\nQue, la reglamentación,  siguiendo  los lineamientos básicos de la Ley, apunta a consolidar el delicado equilibrio,  que  debe existir entre el respeto por los derechos individuales de cada uno  de  los habitantes  de nuestro suelo, con las restricciones inevitables que genera todo sistema de seguridad.\n\nQue, el ejercicio  del poder de policía integra el plexo de cargas funcionales ineludibles  para la Administración Central en el orden federal y para los gobiernos  de  provincia en el ámbito local, por lo  que, la reglamentación, regula con  minuciosidad,  funciones  y responsabilidades,  estableciendo así, en aras de aquel equilibrio, pautas concretas de autolimitación  en  el  ejercicio de las tareas policiales,  sin  desmedro  de  las  necesidades  en   orden  a  la prevención y represión de la actividad delictiva.\n\nQue,  en  el  ámbito  del  Ministerio  del  Interior,  se  ha dado cumplimiento  a  lo preceptuado por el artículo 43 de la Ley N. 24.059, habiéndose consultado las diferentes opiniones  de  quienes están vinculados al tema, resultando el texto de la reglamentación,  fruto  del  consenso arribado entre los opinantes.\n\nQue el presente se dicta en ejercicio de  las facultades previstas en  los incisos 1 y 2 del artículo 86 de la CONSTITUCION  NACIONAL."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1:  Apruébase  la Reglamentación de la Ley N. 24.059 de Seguridad Interior, que como  Anexo  I,  forma  parte del presente."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-MANZANO-ARSLANIAN"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "REGLAMENTACION DE LA LEY 24.059 DE SEGURIDAD INTERIOR",
+        "segmento": [
+          {
+            "titulo-particion": "TITULO I Principios Básicos",
+            "articulo": [
+              {
+                "numero-articulo": 1,
+                "texto": "ARTICULO 1: La seguridad interior definida en el artículo 2 de la Ley  N.  24.059  remite  al  debido  y  más  eficaz  tratamiento policial,  preventivo  o represivo, frente a desastres naturales  o causados  por  el  hombre y  a  ilícitos  que  por  su  naturaleza, magnitud, consecuencias  previsibles,  peligrosidad  o modalidades, comprometan la libertad, la vida, el patrimonio de los  habitantes, sus derechos y garantías, los servicios públicos esenciales  y,  en particular,  la plena vigencia de la Constitución Nacional y de las leyes dictadas en su virtud.\n\nEstas situaciones  serán  evaluadas  por  el  Consejo de Seguridad Interior,   conforme  a  los  procedimientos  que  determine    su reglamento interno.  Sus  deliberaciones  y  conclusiones  revisten carácter  reservado y el propio Consejo determinará respecto  a  la publicidad de las mismas."
+              },
+              {
+                "numero-articulo": 2,
+                "texto": "ARTICULO 2: Se entiende por esfuerzo nacional de policía, a la acción  coordinada de los medios y organismos que dispone el Estado Nacional y los Estados Provinciales, comprensiva de las previsiones  para  el  empleo  de  Cuerpos  Policiales y Fuerzas de Seguridad, a los fines del mantenimiento de la  seguridad interior.\n\nLos  recursos  humanos  y materiales a emplearse en el sistema  de seguridad interior comprenden  a  los correspondientes a Prefectura Naval Argentina, Gendarmería Nacional,  Policía Federal Argentina y Policías de las Provincias adheridas.\n\nSe  entiende  como  Fuerzas  de Seguridad a  la  Prefectura  Naval Argentina y a la Gendarmería Nacional  y  como Fuerzas Policiales a la  Policía  Federal  Argentina  y  a  las  Policías  Provinciales."
+              },
+              {
+                "numero-articulo": 3,
+                "texto": "ARTICULO  3:  En  el  ámbito espacial del sistema de seguridad interior, las Fuerzas de Seguridad  y  Policiales  conservarán  las respectivas competencias jurisdiccionales y funcionales establecidas  por  la  Constitución  Nacional,  las  Constituciones Provinciales,   leyes  orgánicas,  conexas  y  demás  disposiciones vigentes."
+              },
+              {
+                "numero-articulo": 4,
+                "texto": "ARTICULO 4: A los fines de la interpretación y la aplicación de la Ley  N.  24.059 y concordantes de esta reglamentación, se agrega como Anexo A  un Glosario de Acepciones Terminológicas de Uso en la Seguridad Interior  y como Anexo B un Indice del Ordenamiento de su articulado."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "TITULO II Del sistema de seguridad interior",
+            "articulo": [
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "TOR C 022520 1992 03 12 0014 000 0014 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "DEC C 000438 1992 03 12 0000 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 5,
+                "texto": "ARTICULO  5:  1.  En  las  facultades  que  son  asignadas  al Ministerio  del  Interior  por el artículo 8 incisos 1, 2, 3 y 4 de la Ley N. 24.059, la conducción  política  del esfuerzo nacional de policía consiste en:\n\na.  La  facultad  de  impartir  órdenes o directivas  de  carácter general  a  las  Fuerzas  de  Seguridad  y  policiales  del  estado nacional,  inherentes  al  ámbito  de  la  seguridad  interior.\n\nb. La atribución de asignar  misiones  a  cumplir  por las fuerzas indicadas, dentro de las competencias, jurisdicciones  y  funciones asignadas  a  cada una de ellas por sus respectivas leyes orgánicas y leyes que les sean aplicables.\n\nc. El ejercicio  del  control  del  cumplimiento  de las órdenes y misiones impartidas.\n\n2.  El Ministro del Interior podrá delegar en el Subsecretario  de Seguridad  Interior el ejercicio de las funciones señaladas por los artículos 8  y  39  de la  Ley  N.  24.059,  con  los alcances del artículo  14  de  la  Ley  de  Ministerios, T. O. 1992 (Decreto  N. 438/92).\n\n3. La formulación de las políticas  correspondientes  al ámbito de la seguridad interior comprenderá la emisión de un documento  anual relativo  a  la  situación  de  seguridad en el país, del estado de ejecución  de  las políticas implementadas,  de  los  resultados  y proposiciones de  políticas a llevar a cabo en el año siguiente. Se incluirá, si fuera  necesario, los proyectos de ley pertinentes. El documento habrá de remitirse  a  la  Comisión Bicameral Legislativa de Fiscalización.\n\n4. En los casos en que, por aplicación  de  la  Ley  de  Seguridad Interior,  surgieran  cuestiones  de competencia respecto de uno  o más integrantes del sistema, pertenecientes  al  ámbito  del  Poder Ejecutivo  Nacional,  se  procurará  unificar criterios en sesiones especiales  del Consejo de Seguridad Interior.  Asistirán  a  ellas los miembros  permanentes  o  no  permanentes  responsables  de las cuestiones  encontradas. Si no se lograre acuerdo, entenderá en  la cuestión el Presidente de la Nación.\n\n5. La conducción  de  las  acciones  tendientes  a  garantizar  un adecuado  nivel  de  seguridad interior, cuando las mismas tuvieran lugar  en  territorio provincial,    será   efectivizada  con  las modalidades comprendidas en el Título IV de la  Ley,  con excepción de los supuestos de los artículos 28 a 30 y en el Título  VI  de la Ley,  en  los  que se ajustarán a lo establecido en particular para las aludidas situaciones.\n\n6. La dirección  y  coordinación de las actividades de los órganos de información e inteligencia  de  la  Prefectura  Naval Argentina, Gendarmería Nacional, Policía Federal Argentina y de  las  Policías Provinciales  adheridas al  sistema,  a los fines derivados de  la seguridad interior, comprenderá:\n\na.  El  planeamiento,  la  determinación  de    prioridades  y  la elaboración y  formulación de requerimientos para la  obtención  y reunión de información  y  producción  de inteligencia, así como la determinación y coordinación de actividades.\n\nb.  El  control  acerca  de  la  adecuada ejecución  de  planes  y satisfacción  de  requerimientos,  así    como  la  realización  de actividades generales  impuestas. El incumplimiento  o  inadecuada ejecución podrán motivar  directivas  del  Ministerio  del Interior para las denuncias penales o administrativas pertinentes,  así como la aplicación, por el titular de la fuerza correspondiente,  de las sanciones a los responsables.\n\nc.  La disposición para adecuar la organización y equipamiento  de los órganos de  inteligencia  que  fuera necesario para una máxima eficiencia, en el cumplimiento de las  misiones relativas al ámbito de la seguridad interior que le fueran asignadas.  Ello, en el caso de    las  Fuerzas  de  Seguridad,  sin  perjuicio  del  desarrollo organizativo  para el cumplimiento de las misiones correspondientes al ámbito de la defensa nacional.\n\nEn las Fuerzas  de  Seguridad,  la  adecuación  será  realizada en consulta  y acuerdo  con  el  Ministro de Defensa. Los desacuerdos serán resueltos acorde al Apartado  4  del  presente  artículo.\n\nLas facultades del Ministro del Interior indicadas precedentemente  se  hallan dirigidas y limitadas estrictamente  a los  órganos  de  información  e inteligencia  integrantes  de  las Fuerzas  de  Seguridad  y  Policiales    del Estado  Nacional,  no comprendiendo a otros organismos de inteligencia.\n\n7. El Ministro del Interior ejercerá la facultad  de  entender  en la  organización, doctrina, despliegue, capacitación y equipamiento de la  Policía Federal Argentina, a través de la emisión de órdenes y directivas  al respecto, con la asistencia de la Subsecretaría de Seguridad Interior,  así  como  del control del cumplimiento de las mismas.\n\nRespecto a Prefectura Naval Argentina  y  Gendarmería Nacional, la intervención  aludida  precedentemente  habrá de  materializarse  a través  de  la  emisión  de órdenes y directivas  dirigidas  a  las propias  fuerzas,  con  noticia    al    Ministro  de  Defensa.\n\nLos conflictos en materia de competencia  que  pudieran plantearse entre  los  Ministerios  de Defensa e Interior, darán  lugar  a  la constitución  de  comisiones    de    trabajo    interministeriales temporarias,  acorde  a  los términos del apartado 4  del  presente artículo."
+              },
+              {
+                "numero-articulo": 6,
+                "texto": "ARTICULO 6: El cumplimiento por parte del Consejo de Seguridad Interior  de  la  misión  y  funciones  de asesoramiento que le son asignadas en los artículos 9 y 10 de la Ley  de Seguridad Interior, consistirá en la emisión de opiniones particulares  o  consensuadas por  parte de sus integrantes o bien de documentos y propuestas  de los mismos,  para la consideración del Cuerpo y decisión definitiva por parte del Ministro del Interior.  El Consejo de  Seguridad Interior podrá solicitar el asesoramiento e  información  que  considere  pertinente  a  cualquier  organismo público,  el que estará  obligado  a  proporcionárselo;  cuando  se trate  de  órganos    privados,  la  información  será  formalmente requerida con intervención  de  juez competente, si fuese menester.\n\nEn los requerimientos de información  o  inteligencia  recabados a las  provincias, se deberán especificar las razones que motivan  su solicitud.  Serán    funciones    del  Consejo  de  Seguridad  Interior:  a. Promover el estudio  y  análisis de la problemática delictiva y contravencional  que,  efectiva   o  potencialmente,  se  considere atentatoria contra  cualquiera  de  los  Poderes  e  Instituciones emergentes  de la Constitución Nacional  y  de  las  Constituciones Provinciales.\n\nb. Desarrollar,  a  través  de  su órgano de trabajo, el estudio de las conductas y situaciones, cualquiera  fuere  su  naturaleza, que amenacen  a  nivel  nacional,  regional  o  provincial,  la   salud pública;  la economía; las fuentes de producción, abastecimiento  o trabajo; los  servicios  públicos de provisión de agua potable o de disposición de desechos industriales  o domiciliarios; los medios y vías  de  comunicación  y  transporte  públicos  y, genéricamente, cuando  afecte  la  paz  social,  las  estructuras  institucionales estatales  y  las  necesidades  generales  de  la  población.  c.  Desarrollar  particularmente  el  estudio y  análisis  de  los fenómenos delictivos descriptos en el artículo  10  inciso a) de la Ley 24.059, y sobre tales bases, buscar y obtener su  más  adecuado tratamiento    legislativo,    administrativo    y  policial.  d.  Promover  la  elaboración  de  políticas y planes,  estudio  y acciones concernientes a la prevención  de los fenómenos delictivos que afecten los bienes jurídicos señalados  en  el  inciso  b)  del presente artículo.  e.  Promover  la  implementación, racionalización, concentración y optimización del uso  y empleo de los recursos humanos y materiales disponibles, a los fines  del buen funcionamiento del sistema.\n\nf. Promover el incremento  de  la  capacitación profesional de los recursos humanos del sistema.  g.  Promover la suscripción y ratificación  por  la  República  de tratados  y convenios internacionales que se consideren necesarios o  convenientes   a  los  fines  de  la  seguridad  interior.  h. Promover el desarrollo  e  intercambio con otros órganos afines -extranjeros o internacionales-  de  la información concerniente al ámbito de la seguridad interior.  i.  Promover conferencias, convenciones  y  congresos  específicos del  área  de  la  seguridad  interior  en  el  ámbito  nacional  e internacional  e intervenir en ellos a través de sus representantes más idóneos.  j. Proyectar leyes  y  reglamentaciones  tendientes  a  lograr los fines  generales y particulares determinados en la Ley de Seguridad Interior,  así como propiciar su correspondiente tratamiento por el Congreso  Nacional,   las  Legislaturas  Provinciales  o  ante  los poderes y autoridades competentes en cada caso.  k.  Implementar  y  mantener  en  la  Subsecretaría  de  Seguridad Interior,  el  Sistema  Informático    de  Seguridad  Interior  que permita,  por medio de la participación de  todos  los  componentes del sistema  de  seguridad,  prevenir  y/o neutralizar las acciones delictivas señaladas en el artículo 10 inciso  a)  de  la Ley N. 24.059, como así también desarrollar el proceso de información  que satisfaga las necesidades de la seguridad interior."
+              },
+              {
+                "numero-articulo": 7,
+                "texto": "ARTICULO  7:  Los  gobiernos  de  las  provincias  adheridas, acordarán  las  modalidades  necesarias  para la designación de los Jefes  de Policía a que se refiere el artículo  11  inciso  e)  \"in fine\" de la Ley N. 24.059."
+              },
+              {
+                "numero-articulo": 8,
+                "texto": "ARTICULO 8: El Reglamento Interno aludido en el artículo 12 de la Ley  de  Seguridad  Interior, además de la estructura orgánica y funcional  del cuerpo, definirá  los  mecanismos  de  convocatoria, análisis, acuerdo,  representación  y tratamiento de las cuestiones a considerar.  Establecerá asimismo el carácter y periodicidad  de  sus sesiones, así   como  la  naturaleza  de  sus  respectivas  resoluciones    y asesoramientos.  Asistirán  a  las  reuniones del Consejo de Seguridad Interior los titulares de la Dirección  Nacional  de Planeamiento y Control y de la Dirección Nacional de Inteligencia Interior."
+              },
+              {
+                "numero-articulo": 9,
+                "texto": "ARTICULO 9: 1. La constitución del Comité de Crisis previsto en el artículo  13  de  la  Ley  N.  24.059,  tendrá  lugar  cuando el Ministro  del  Interior  lo considere necesario; en las situaciones referidas en los puntos a)  b)  y  c)  del artículo 23 de la citada Ley,  o  bien  en  el supuesto  de  la  aplicación  de  la  medida establecida  por  el  artículo  6 de la Constitución  Nacional,  o configuradas las situaciones referidas  en los artículos 28 al 30 y en  el  Título  IV de la Ley, previa declaración,  en  este  último supuesto, del estado de sitio.  2. La mera solicitud  de  colaboración  por  parte  de la Justicia Federal  no dará lugar a la constitución del Comité de  Crisis,  si no mediare ninguna de las circunstancias aludidas y la correspondiente  solicitud  por parte del gobierno provincial.\n\n3.  Los  copresidentes  del  Comité    de   Crisis  adoptarán  sus decisiones por unanimidad.\n\n4.  Constituido  el  Comité  de  Crisis,  el  o  los  Gobernadores intervinientes  en  calidad de co-Presidentes podrán  disponer  ser asistidos en el Organismo  por  sus  respectivos  Jefes de Policía."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 000435 1992 03 04 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 10,
+                "texto": "ARTICULO  10:  1.  La  Subsecretaría  de  Seguridad  Interior constituye  el  órgano de trabajo de carácter primario y permanente que,  acorde al artículo  14  de  la  Ley  de  Seguridad  Interior, elaborará  la  doctrina y políticas de seguridad consideradas en el Consejo.  De acuerdo al artículo  17  de  la  citada  Ley,  la Subsecretaría tendrá las siguientes funciones:  a.  Asesorar  al  Ministro  en  todo  lo  atinente  a la seguridad Interior.  b.  Planificar,  coordinar,  supervisar  y  apoyar las operaciones policiales  interjurisdiccionales  o  entre  las Instituciones  que integran el Sistema.  c.  Supervisar la coordinación con otras Instituciones  Policiales Extranjeras,  a  los  fines  del  cumplimiento  de  los  acuerdos y convenios  internacionales  en  los  que  la República haya sido  o fuere signataria.  d.  Asistir  al  Ministro  del  Interior  en  la  fijación  de  la doctrina, organización, despliegue, capacitación  y equipamiento de la  Policía  Federal Argentina, como también en la intervención  en idénticos aspectos  que  cabe al Ministerio respecto de las Fuerzas de Seguridad, para el mejor  cumplimiento de las misiones asignadas en los planes correspondientes.  e.  Asistir  al  Consejo  de  Seguridad  Interior  para  el  mismo objetivo  en  lo  relativo  a  las  Policías    Provinciales.  Además de las funciones señaladas, la Subsecretaría  de  Seguridad Interior tendrá a su cargo:  a. Asesorar al Ministro del Interior en los estudios vinculados  a la  seguridad  interior  para  la  formulación  de  los objetivos y políticas.  b.  Mantener relación permanente con el Honorable Congreso  de  la Nación  con relación  a aquellos aspectos que hacen a la seguridad interior.  c. Intervenir en la formulación  de  las  políticas relativas a la prevención  e  investigación  científica  de  la   delincuencia  en aquellas formas que afecten de un modo cuantitativo  o cualitativo, más gravemente a la comunidad.  d.  Entender  en  la  situación legal de las personas detenidas  a disposición del Poder Ejecutivo  Nacional  en  caso  de  estado  de sitio.\n\ne.  Entender  en  la  producción de las actividades de inteligencia necesarias para satisfacer  las  competencias  del Ministerio y los requerimientos de la seguridad interior.  f.  Participar  como representante del Ministerio  en  la  Central Nacional de Inteligencia.  g. Entender en los  aspectos operativos y técnicos de las redes de comunicaciones  e  informática  destinadas  a  la  seguridad.  h. Actuar como órgano  asesor legal en aspectos administrativos de la Policía Federal Argentina.  i. Elaborar la agenda correspondiente  a las reuniones del Consejo de Seguridad Interior, sobre la base de los  puntos  cuya inclusión solicite  cualquiera  de  los  miembros permanentes del cuerpo.\n\nj. Elaborar las conclusiones de las reuniones aludidas precedentemente y redactar los documentos  correspondientes  a  las decisiones y actividades del Consejo.  2.  A los fines del cumplimiento de su misión, la Subsecretaría de Seguridad  Interior contará con un Centro de Planeamiento y Control y una Direccion Nacional de Inteligencia Criminal.  Conforme a  la aprobada estructura orgánica de la Subsecretaría de Seguridad Interior  (Decreto  N.  435/92), se considerará al Centro de Planeamiento y Control como Dirección  Nacional  de Planeamiento y Control y a la Direccion Nacional de Inteligencia Criminal como Dirección Nacional de Inteligencia Interior.  La Dirección Nacional de Planeamiento y Control tendrá por  misión asistir  a  la Subsecretaría en la formulación de las políticas  de seguridad y en  el  ejercicio  del poder de policía, así como en la coordinación  con  otras  fuerzas,   para  lo  cual  organizará  el Departamento de:  Planeamiento y Control Asimismo, la mencionada Dirección tendrá  a  su  cargo,  asignados por estructura orgánica los Departamento de:  Coordinación Policial Comunicaciones e Informática La  Dirección  Nacional  de Inteligencia Interior entenderá en  la producción de inteligencia,  a  fin  satisfacer las necesidades del Ministerio del Interior y del Consejo  de  Seguridad,  para lo cual organizará los departamentos de:  Reunión  Análisis Difusión  La  Subsecretaría de Seguridad Interior contará, además,  con  una Dirección   de    Asuntos   Técnico-Administrativos,  de  las  que dependerán los departamentos de:  Asuntos Policiales  Derechos Individuales  Gestión Administrativa"
+              },
+              {
+                "numero-articulo": 11,
+                "texto": "ARTICULO 11: 1. La Dirección Nacional de Planeamiento y Control estará  a  cargo  de  un  funcionario designado por el Ministro del Interior, a propuesta del Subsecretario  de  Seguridad Interior, de quien dependerá orgánicamente.  2.  Para  el  cumplimiento  de  las  funciones  de planeamiento  y control  que  la  Ley  le  asigna,  y  de  acuerdo  al  Decreto  de estructura    orgánica,    constituirá  un  organismo  de  carácter permanente,  que para su funcionamiento  contará  con  personal  en actividad de la  Prefectura  Naval Argentina, Gendarmería Nacional, Policía Federal Argentina y Policías  Provinciales  que adhieran al sistema,  en  cantidad, especialidad y jerarquías por instituciones que la Subsecretaría  de Seguridad Interior determine, así como por aquellos  funcionarios  de  la  misma  que  sean  necesarios.  El  personal  policial  y  de    seguridad  aludido  mantendrá  su situación  de  revista,  dependencia  orgánica,   administrativa  y presupuestaria  de  la fuerza  a  que  pertenece,  en  tanto   que funcionalmente    dependerá    de  la  Subsecretaría  de  Seguridad Interior.  La designación correspondiente  será  efectuada  por el titular de la  Fuerza  de  Seguridad  respectiva,  con noticia al Ministro  de Defensa.  La designación del personal superior de  las Policías Provinciales será  efectuada  por  Resolución de la autoridad  de  la  provincia respectiva que hubiere  formulado  adhesión a la presente Ley.\n\nEl  Ministerio  del Interior podrá solicitar  los  reemplazos  y/o relevos del personal  designado,  de considerarlo conveniente.\n\n3. La Dirección Nacional de Planeamiento  y  Control  tendrá  a su cargo  la  formulación de anteproyectos que tiendan a la concreción de  las facultades  conferidas  al  Ministro  del  Interior  en  el artículo  8 apartados 1, 3 y 4 de la Ley de Seguridad Interior, así como en los  incisos  a), b), c), f), g) e i) del artículo 10 de la Ley al Consejo de Seguridad  Interior y las conferidas al Comité de Crisis.\n\n4.  A  través  de  sus  órganos  dependientes,   la  Dirección  de Planeamiento  y  Control  cumplirá  la  misión  establecida  en  el artículo 15 de la Ley de Seguridad Interior y en  particular:  a.  Asistir  en la elaboración de las políticas y cursos de acción para el planeamiento  de  operaciones  conjuntas  de  la  seguridad interior.  b.  Realizar  el  estudio  y  compatibilización  de  los distintos sistemas  de planeamiento en vigencia para cada uno de los  órganos integrantes del sistema.  c. Requerir  y  obtener  de  los  órganos  del  sistema y otros la información necesaria  para  el cumplimiento de su cometido.  d. Asesorar en la determinación  y  graduación de las hipótesis de conflicto  o  desastres  detectados  en  cuando    a  su  gravedad, magnitud,  peligrosidad y consecuencias, previendo para  cada  caso las respuestas  estimadas necesarias para neutralizarlas oportuna y eficazmente.  e. Asesorar en la  formulación de las estrategias de resolución de los conflictos sociales  en  función  de las políticas de seguridad interior fijadas.  f.  Requerir  la  actuación,  empleo  subsidiario   o  cooperación complementaria  de  las  respectivas Fuerzas de Seguridad  y  demás Policías Nacionales y Provinciales  u  otros  organismos del Estado Nacional o de las Provincias pertinentes. Todo  ello de acuerdo con las  necesidades emergentes de la gravedad, magnitud,  peligrosidad o consecuencia de la situación a neutralizar.  g. Elaborar  el  Reglamento  del  Sistema Informático de Seguridad Interior y producir las modificaciones  que  en el futuro se puedan operar  como consecuencia de su aplicación o debido  a  los  nuevos requerimientos,  que el Sistema de Seguridad Interior exija para su desarrollo.  5.  Conformar  un  Estado   Mayor  Coordinador  integrado  con  su personal y en cooperación con la Dirección Nacional de Inteligencia  Interior.  En  caso  de  constituirse  el  Comité  de Crisis, asistirá al mismo en la  conducción superior de las fuerzas empeñadas."
+              },
+              {
+                "numero-articulo": 12,
+                "texto": "ARTICULO 12: 1. La Dirección Nacional de Inteligencia Interior estará  a  cargo  de  un  funcionario designado por el Ministro del Interior, a propuesta del Subsecretario  de  Seguridad Interior, de quien dependerá orgánicamente.  2. Para el cumplimiento de las funciones que  la Ley le asigna, la Dirección   Nacional  de  Inteligencia  Interior  constituirá    un organismo de  carácter  permanente,  que  para su funcionamiento se integrará  con  personal  en  actividad  de  la  Prefectura   Naval Argentina,   Gendarmería  Nacional,  Policía  Federal  Argentina  y Policías  Provinciales  que  adhieran  al  sistema,  capacitado  en inteligencia,  en  cantidad  y  jerarquía  por  institución  que la Subsecretaría   de  Seguridad  Interior  determine,  así  como  por aquellos funcionarios  con especialización en inteligencia que sean necesarios.  El personal policial y  de  seguridad,  de  inteligencia,  aludido mantendrá   su    situación   de  revista,  dependencia  orgánica, administrativa y presupuestaria  de  la  fuerza a que pertenece, en tanto   que  funcionalmente  dependerá  de  la  Subsecretaría    de Seguridad Interior.\n\nLa designación  correspondiente será efectuada por el titular de la Fuerza  de  Seguridad   respectiva,  con  noticia  al  Ministro  de Defensa.  El personal superior de  las  Policías Provinciales será designado por  Resolución  de la autoridad de  la  provincia  respectiva  que hubiere formulado adhesión a la presente Ley.  El Ministerio del  Interior  podrá  solicitar  los  reemplazos y/o relevos  del personal designado, de considerarlo conveniente.  3. La Dirección  Nacional  de Inteligencia Interior constituirá el órgano  a través del cual el Ministro  del  Interior  ejercerá  las facultades  que  le  son conferidas en el artículo 8 inciso 2 de la Ley,  con  los  alcances  previstos  en  el  artículo  5  inciso  6 apartados  a),  b)   y  c)  de  la  presente  reglamentación.  Tendrá a su cargo el  producido  de  inteligencia en cualquiera de las formas previstas en el artículo 1 de la presente reglamentación.  Para  el  cumplimiento  de  su  misión asistirá  al  Ministro  del Interior, a través de la Subsecretaría  de Seguridad Interior en la coordinación y dirección funcional de los  órganos  de inteligencia de  la  Gendarmería  Nacional, Prefectura Naval Argentina,  Policía Federal Argentina y Policías  Provinciales  adheridas al sistema de seguridad interior.  Podrá mantener relación con aquellos organismos  extranjeros a los fines que se considere necesario o conveniente.  4.  La  Dirección Nacional de Inteligencia Interior  tendrá  a  su cargo la realización  de  actividades  derivadas  de las facultades atribuidas al Consejo de Seguridad Interior según los  términos del artículo  10  inciso  e)  de  la  Ley,  cuando  así  el  cuerpo  lo dispusiere."
+              },
+              {
+                "numero-articulo": 13,
+                "texto": "ARTICULO 13: La Dirección de Asuntos Técnico-Administrativos se regirá por las siguientes disposiciones:  1.   Estará  a  cargo  de  un  funcionario  de  profesión  abogado designado por el Ministro del Interior, a propuesta del Subsecretario de Seguridad Interior de quien dependerá orgánicamente.  2. Estará  integrada  por  funcionarios, personal administrativo y por  todo  otro personal que se  determine,  en  los  términos  del artículo  11   apartado  2  de  la  presente  reglamentación.  3. En el ámbito  de  la  Subsecretaría  y  en materia de seguridad interior,  la  Dirección de Asuntos Técnico Administrativos  tendrá las siguientes funciones:  a. Producir dictamen  sobre  todo  asunto  o  expediente tramitado ante la Subsecretaría, siempre que existieren dudas  acerca  de  la legitimidad  de  las intervenciones, decisiones o propuestas de los organismos integrantes  del  sistema de seguridad interior o cuando se previere la lesión de derechos  subjetivos o intereses legítimos de terceros.  b.  Intervenir en los expedientes relacionados  con  licitaciones, contratos  y  demás  actos  administrativos  u  otros  de  carácter jurídico  emergentes  de  la  aplicación  de  la presente Ley.\n\nc.  Intervenir  en  juicios  en  que  la  Nación - Ministerio  del Interior  - fuere parte como actora o demandada,  en  razón  de  la aplicación de la Ley de Seguridad Interior.  d. Intervenir  en las actuaciones en que se solicite sanción a las Fuerzas  de Seguridad  y  demás  Fuerzas  Policiales  respecto  del personal de su dependencia afectado al organismo.  e.  Intervenir    en  los  proyectos  de  ley  o  reglamentaciones promovidas  por la Subsecretaría,  así  como  en  la  propuesta  de convenios interjurisdiccionales,  con  terceros  países  o en foros internacionales.  f.  Intervenir  en  cuestiones  que  requieran  acuerdo  entre los componentes del sistema.  g.  Intervenir  en  todo cuanto concierne a la administración  del personal destinado en  la Subsecretaría, del material afectado, del presupuesto asignado (artículo  40  de  la Ley N. 24.059), así como del ingreso y egreso de los fondos respectivos.  h. Asesorar al Subsecretario de Seguridad  Interior en los asuntos de  su  competencia, entendiendo en la preparación  y  gestión  del proyecto  de  presupuesto  del  sistema  que  prevé  la Ley, en sus modificaciones, distribución y gestión presupuestaria y financiera.  i.  Entender  en  el  contralor  financiero  de  la ejecución  del presupuesto.  j. Entender en los estudios y registros financieros  del  sistema, exámenes  administrativos de cuenta, formulación y cumplimiento  de las normas y procedimientos de supervisión."
+              },
+              {
+                "numero-articulo": 14,
+                "texto": "ARTICULO  14:  La  Subsecretaría  de  Seguridad  Interior dará difusión  a  los  integrantes del sistema de seguridad interior  de los acuerdos y convenios  internacionales que supervisará según los términos del artículo 17 inc. c) de la Ley N. 24.059."
+              },
+              {
+                "numero-articulo": 15,
+                "texto": "ARTICULO  15: Los Consejos Provinciales de Complementación, en el marco de lo establecido  en  el artículo 18 de la Ley N. 24.059, elevarán  a  la  Subsecretaría de Seguridad  Interior  -  Dirección Nacional de Planeamiento  y  Control - las previsiones de empleo de los  medios de  seguridad  que  conforman   dicho  Consejo  y  sus respectivas hipótesis de conflicto.  Tales  previsiones  se integrarán a los planes  generales  que  se elaboran en el Ministerio del Interior y, básicamente, comprenderán:  a. El planeamiento normal  para  previsión y represión del delito.\n\nb. Planeamiento para situación de crisis."
+              },
+              {
+                "numero-articulo": 16,
+                "titulo-articulo": "TITULO III De los Cuerpos Policiales y Fuerzas de Seguridad del Estado Nacional",
+                "texto": "ARTICULO 16: Las comunicaciones previstas en el artículo 20 de la  Ley    de   Seguridad  Interior,  serán  documentadas  de  modo fehaciente  y  contendrán  una  relación  sucinta  de  los  hechos, debiendo entregar,  si  correspondiere,  copia  de  lo actuado a la autoridad   local,  respetando  el  término  establecido  en    el mencionado artículo.  Se establecerán  con  las provincias, mediante convenios, análogas obligaciones y facultades  que  las  de  las Fuerzas de Seguridad y Policía   Federal  Argentina,  para  las  policías    provinciales."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "TITULO IV Del empleo de los Cuerpos Policiales y Fuerzas de Seguridad",
+            "articulo": [
+              {
+                "numero-articulo": 17,
+                "texto": "ARTICULO  17:  En  los  supuestos del artículo 23 de la Ley de Seguridad  Interior,  las  policías    locales   deberán  continuar actuando,  simultánea  o conjuntamente, con las Fuerzas  Nacionales en el rol que el Planeamiento  o  las autoridades facultadas por la Ley determinen."
+              },
+              {
+                "numero-articulo": 18,
+                "texto": "ARTICULO  18:  Sin  requerimiento  del gobierno provincial, el concurso  de  los  Cuerpos Policiales y Fuerzas  de  Seguridad  del Estado Nacional en territorio  provincial  sólo  podrá tener lugar:\n\na. En el supuesto de intervención federal.  b.  En el supuesto del Título IV de la Ley de Seguridad  Interior, previa declaración del estado de sitio.  c. A  solicitud de la Justicia Federal, cuando la orden emanada de la misma  devengue  de  acto  jurisdiccional  correspondiente  a su competencia.  En  este  caso, las Fuerzas de Seguridad y Policiales del Estado Nacional actuarán  en  su  carácter  de auxiliares de la justicia con las limitaciones y dentro del marco  del proceso en el que la orden o requerimiento haya sido impartida."
+              },
+              {
+                "numero-articulo": 19,
+                "texto": "ARTICULO  19: 1. En oportunidad de requerirse elementos de las Fuerzas  Policiales  y  de  Seguridad  del  Estado  Nacional  según términos del  artículo  24  de  la  Ley  de Seguridad Interior, los Gobernadores contemplarán, en lo posible,  la  antelación necesaria para    facilitar  las  etapas  de  preparación,  alistamiento    y desplazamiento de los efectivos a emplearse.  2.  Los  Consejos    Provinciales  de  Complementación  asesorarán debidamente en la cantidad  y  calidad  de  las  fuerzas o medios a requerirse, teniendo permanentemente en cuenta el  real y potencial grado de intensidad del conflicto.  3. El Comité de Crisis, ante el requerimiento aludido,  previo  al arribo  de  la Fuerzas Federales al lugar de operaciones, dispondrá las previsiones inherentes al transporte, alojamiento, racionamiento, comunicaciones,  sanidad, combustible y presupuesto.\n\n4.  El  Consejo  Provincial  de  Complementación    asistirá    al funcionario designado por el Comité de Crisis, para la Supervisión Operacional Local."
+              },
+              {
+                "numero-articulo": 20,
+                "texto": "ARTICULO  20:  1.  La  cooperación  y  actuación  supletoria interinstitucional  referida  en  el  artículo  19  de  la  Ley  de Seguridad  Interior,  podrá  ser  dispuesta  por  el  Ministro  del Interior  o,  en su caso, por el Comité de Crisis o su Delegado, en los  términos  del    artículo  25  del  mismo  texto  legal.  2. En el supuesto del  mencionado  artículo  25,  las  fuerzas  en operaciones actuarán  subordinadas al funcionario designado por el Comité  de  Crisis, quien  ejercerá  la  conducción  y  asumirá  la responsabilidad    política   del  empleo  de  las  mismas,  en  el cumplimiento de las leyes y al  solo efecto del restablecimiento de la situación de seguridad interior afectada."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "TITULO V De la complementación de otros organismos del Estado",
+            "articulo": [
+              {
+                "numero-articulo": 21,
+                "texto": "ARTICULO  21: 1. El representante del Estado Mayor Conjunto en la Dirección Nacional  de Planeamiento y Control será designado por el Ministro de Defensa,  dentro de las modalidades que establece el artículo 27 de la Ley N. 24.059,  cuando  se  prevea  el  empleo de elementos de las Fuerzas Armadas en apoyo de las operaciones.  2.  Este  representante  tendrá  a  su  cargo  el  enlace  para la coordinación  del  apoyo  a  brindar  por  parte de los Servicios y elementos  de  la Fuerzas Armadas, a las operaciones  de  Seguridad Interior que se  hayan previsto realizar o que estén en ejecución.\n\nAsumirá relación funcional con el Director Nacional de Planeamiento y Control, quedando  los  apoyos requeridos, sujetos a la  Supervisión  Operacional  Local  del funcionario  designado  al efecto.  3. El apoyo no presupone subordinación  al  Jefe  a  cargo  de las operaciones   designado  por  el  Comité  de  Crisis.  Sí  implica satisfacer los requerimientos  que  se  formulen en virtud del tipo de  apoyo  a  brindar,  dentro  de  las capacidades  que  posea  el elemento de apoyo."
+              },
+              {
+                "numero-articulo": 22,
+                "texto": "ARTICULO 22: En las operaciones referidas en los artículos 29 y 30 de  la Ley de Seguridad Interior y en relación a la actuación de las Fuerzas  Policiales  y  de  Seguridad,  será  de  aplicación lo dispuesto    en   el  artículo 25  2do. párrafo  del  texto  legal."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "TITULO VI Del control parlamentario de los órganos y actividades de seguridad interior e inteligencia",
+            "articulo": [
+              {
+                "numero-articulo": 23,
+                "texto": "ARTICULO 23: La supervisión y control de la Comisión Bicameral, en todos  los  casos,  comprende  a  los  organismos de seguridad y órganos de inteligencia del Estado Nacional."
+              },
+              {
+                "numero-articulo": 24,
+                "texto": "ARTICULO  24:  El  requerimiento  informativo  previsto  en el artículo  36  inciso a) de la Ley de Seguridad Interior, cuando sea dirigido a las  provincias,  podrá ser evacuado previo conocimiento de las causas que lo motivan.  Cuando  sea dirigido a las Fuerzas  Armadas,  las  mismas  deberán satisfacer  el requerimiento, solicitando el tratamiento adecuado a la  información   militar  con  clasificación  de  seguridad.  Si en algún informe  secreto al que hace mención el artículo 37 de la  Ley  N. 24.059, se hace  expresa  mención  alguna  jurisdicción provincial,  la  parte  pertinente  de  aquél  se  hará  conocer al respectivo gobernador también de manera secreta."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "TITULO VII Disposiciones complementarias",
+            "articulo": [
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 020124 1973 01 26 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "DEC C 000598 1988 05 10 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_2",
+                      "ref": "DLE C 023354 1956 12 31 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_3",
+                      "ref": "LEY C 014467 1958 09 05 0000 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_4",
+                      "ref": "DEC C 005720 1972 08 28 0000 000 0000 000"
+                    }
+                  ]
+                },
+                "numero-articulo": 25,
+                "texto": "ARTICULO 25: El Ministerio del Interior, cuando las modificaciones  a  implementarse requieran la afectación de mayores recursos para el cumplimiento  de  la  misión,  aportará los mismos con cargo a su presupuesto.  A  los  fines  de  la  concreción  de los aspectos presupuestarios correspondientes de la Prefectura Naval  Argentina y la Gendarmería Nacional, para el cumplimiento de las misiones  asignadas en virtud de  la  presente  Ley,  dichas  Fuerzas  de Seguridad elevarán  sus requerimientos en tal sentido al Ministerio  del Interior quien los analizará  en  consulta  con el Ministerio de Defensa,  para  luego remitirlos  a la Secretaría  de  Hacienda,  formando  parte  de  la propuesta  presupuestaria    del   Ministerio  del  Interior.  Las erogaciones que demanden las modificaciones  en  el despliegue y    equipamiento   de  Gendarmería  Nacional  y  Prefectura  Naval Argentina,  para el cumplimiento  de  misiones  asignadas  por  las previsiones de  la  Ley  y  esta  reglamentación,  serán  incluidas dentro de las correspondientes a la jurisdicción presupuestaria  30 (Ministerio  del  Interior),  no  modificando  las  normas  legales contables  por  las que se rigen las Fuerzas de Seguridad y la  Ley de Presupuesto; Ley  N. 20.124 y Decreto N. 598/88 para Gendarmeria Nacional y Ley de Contabilidad  de  la  Nación  \"Decreto  Ley N. 23.354/56\"  ratificado por la Ley N. 14.467, Decreto N. 5.720/72, para Prefectura Naval Argentina.  El  Ministerio  del  Interior  asistirá  al  equipamiento  de  las Policías  Provinciales  conforme  a  las  disponibilidades  que  al efecto  contemplen las partidas presupuestarias referidas al rubro."
+              },
+              {
+                "numero-articulo": 26,
+                "texto": "ARTICULO  26:  La presente reglamentación contiene, como parte constitutiva de la misma,  un  Glosario  de Términos, que se agrega como Anexo A y un Indice del Ordenamiento como Anexo B."
+              },
+              {
+                "numero-articulo": 27,
+                "titulo-articulo": "ANEXO  A:  GLOSARIO  DE  ACEPCIONES  TERMINOLOGICAS  DE  USO  EN LA SEGURIDAD  INTERIOR  -  A  la Reglamentación de la Ley N. 24.059 de Seguridad Interior.",
+                "texto": "1.  ACTUACION  SUPLETORIA:  Será  la que realiza una Fuerza en reemplazo  o  sustitución de otras, derivadas  de  su  ausencia,  o imposibilidad de  empleo  de  la  responsable,  o  con jurisdicción primaria.  2.  ADMINISTRAR:  Tender  al  logro del rendimiento máximo  de  un organismo  a  fin de satisfacer el  motivo  de  su  creación.  3. APOYO: Es la  vinculación entre dos o más Fuerzas de las cuales una  de ellas recibe  la  misión  general  de  cooperar,  proteger, complementar o sostener a la otra, pero siempre bajo la dependencia  del comando a la cual está asignada, agregada o al que pertenece orgánicamente.  4. ASISTIR: Apoyar  a  alguien en una función específica. Auxiliar o ayudar. Es de carácter general y permanente.  5. ASESORAR: Prestar consejo  técnico  de carácter específico a un funcionario.  6.  ATENDER:  Tener  en  consideración  un  asunto,  sin  ocuparse primariamente de él.  7. COLABORACION: Contribución que realiza una  Fuerza a otra, para el logro de un objetivo de seguridad interior.  8.  CONFLICTO:  Situación que se plantea por el enfrentamiento  de objetivos y políticas.  9.  CONDUCCION  OPERACIONAL:    Consiste    esencialmente  en  una actividad técnico profesional destinada a resolver  un  problema de seguridad  interior  mediante  el empleo de Fuerzas de Seguridad  y Policiales participantes. Implica  autoridad  a  todo  efecto  para ejecutar la operación y cumplir con la misión.  10.    CONTROLAR:    Comparar  acciones,  personas  o  cosas,  con previsiones y objetivos  prefijados,  detectando  y  explicando sus eventuales  desviaciones,  a  fin de determinar sus ajustes  a  los resultados deseados.  11. COOPERACION: Contribución  que  se  realiza a otra Fuerza a su requerimiento, para su apoyo en el ejercicio de una responsabilidad principal.  12. COORDINAR: Disponer con método, actividades  interrelacionadas entre   sí  y  evitando  antagonismos.  Normalmente  coordina    el responsable primario del asunto.  La  coordinación  implica  la  autoridad  para  requerir  opinión, efectuar  acuerdos  y  regular  el  trabajo  en  común.  No incluye autoridad para imponer acuerdos u opinión.  13. DIAGNOSTICAR: Determinar las causas y características  de  una situación.  14.  DIRIGIR:  Conducir  integralmente una actividad en una rama o sector determinado.  15. EJERCER: Practicar los  actos  propios  de  una facultad.\n\n16.  ELABORAR: Preparar algo de forma que permita  su utilización.\n\n17. ENTENDER: Ocuparse directamente de un asunto con responsabilidad primaria.\n\n18. FISCALIZAR:  Controlar  la corrección de un proceso durante su desarrollo. Controlar  el  cumplimiento    de  obligaciones.  19. FORMULAR: Expresar, en término  20. IMPLANTAR: Poner en práctica algo previamente  elaborado.\n\n21. INFORMAR: Dar noticia, opinión o datos.  22.  INTERVENIR:  Tomar  parte  en  un  asunto,  interponiendo  su autoridad sin tener responsabilidad primaria.  23. INVESTIGAR: Buscar, relacionar y analizar datos,  para  llegar a conclusiones.  24.   OPERACION  CONJUNTA:  Son  aquellas  actividades  operativas coordinadas,  llevadas  a  cabo con medios significativos por dos o más Fuerzas de Seguridad o Policiales,  bajo  el comando de un solo comandante de operaciones de seguridad.  25. OPERACIONES SIMULTANEAS: Son acciones de seguridad independientes, ejecutadas al mismo tiempo, en  diferentes sectores o ámbitos geográficos, por distintas Fuerzas para  contribuir  a un objetivo común.  26.  ORGANIZAR:  Reglar  las partes de un todo, fijando su número, orden, armonía y dependencia.  27. PLAN: Proyecto para llevar a cabo una acción.  28.  PLANIFICAR:  Conjunto de  actividades  destinadas  a  preveer medidas y recursos que  se  emplearán para ejecutar una determinada resolución. Puede comprender  la proposición de resoluciones en los campos a que se refiera el planeamiento.  Se  apoya  básicamente en la apreciación y resolución de la estrategia fijada por  el Consejo de Seguridad Interior.  29.  POLITICA:  Línea  de  orientación para elegir el curso de  la acción  más apropiado  a  fin  de  alcanzar  los  objetivos.  30. PROCESAR: Registrar, ordenar  y transformar datos para obtener un información o resultado.  31. PROGRAMAR: Ordenar racionalmente  las  actividades en tiempo y lugar, asignando recursos disponibles para dar  cumplimiento  a las etapas de un plan establecido.  32.   PROMOVER:  Iniciar  o  impulsar  un  asunto,  procurando  su consecución.  33. PROYECTAR:  Idear  y  representar una posible realidad futura.\n\n34. RECOPILAR: Reunir datos  factibles  de  ser  utilizados  en un proceso posterior.  35.   RESOLVER:  Adoptar  decisiones  definitivas.  Implica  tener facultades atribuidas al efecto.  36. SELECCIONAR:  Elegir de acuerdo con determinadas condiciones o cualidades prefijadas.  37. SERVICIO PERMANENTE:  Consiste  en  la  aptitud para concurrir ante el llamado dispuesto por la autoridad competente  y  efectuado conforme  a  las disposiciones legales vigentes, para ejecutar  las acciones necesarias  a  fin  de  garantizar  la seguridad interior.\n\nLa  obligación  aludida conlleva el deber de prestar  el  servicio ordenado por sus superiores,  implicando además su no interrupción, hasta  tanto  las  razones  que  motivaron    su   implantación  no desaparezcan y se disponga su cesación.  Ante el incumplimiento de las órdenes y directivas  emanadas de la autoridad competente, por parte de los integrantes de  las  Fuerzas Policiales   y  de  Seguridad,  independientemente  de  las  normas administrativas y disciplinarias, se instrumentarán los procedimientos  legales previstos  en  el  Código  Penal  y  leyes conexas.  38.  SISTEMA: Conjunto de elementos que ordenadamente relacionados entre sí contribuyen a un determinado objetivo.  39. SUPERVISAR:  Ejercicio de aspectos parciales de la conducción.\n\nImplica fiscalizar,  inspeccionar  y  verificar la corrección en la ejecución de las medidas dispuestas.  40. SUPERVISION OPERACIONAL: De acuerdo  al artículo 25 de la Ley, es  la  facultad de que se halla investido el  funcionario  aludido para  ordenar    la iniciación,  suspensión  y  conclusión  de  la aplicación de la fuerza,  así como para graduar la intensidad de la misma."
+              },
+              {
+                "numero-articulo": 28,
+                "titulo-articulo": "ANEXO  B:  INDICE  DEL ORDENAMIENTO - A la Reglamentación de la Ley N. 24.059 de Seguridad Interior.",
+                "texto": "ARTICULO DE LA          ARTICULO DEL Decreto  Ley N. 24.059           Reglamentario a la                           Ley N. 24.059     2                          1   1 y 3                        2     4                        3 y 4     5                    Sin reglamentar     6                    Sin reglamentar     7                    Sin reglamentar     8                        5 y 39   9 y 10                       6    11                          7    12                          8    13                          9  14, 15 y 17               10, 11, 12 y 13    16                       10 y 12  17 inc c)                     14    18                         15    19                     Sin reglamentar    20                         16    21                     Sin reglamentar    22                     Sin reglamentar    23                         17    24                      18 y 19    25                      19 y 20    26                     Sin reglamentar    27                         21    28                     Sin reglamentar  29 y 30                      22    31                     Sin reglamentar    32                     Sin reglamentar    33                         23    34                     Sin reglamentar    35                     Sin reglamentar  36 y 37                      24    38                     Sin reglamentar    40                         25    41                     Sin reglamentar    42                     Sin reglamentar    43                     Sin reglamentar    44                     Sin reglamentar"
+              }
+            ]
+          }
+        ]
+      },
+      "id-infojus": "DN19920001273"
+    }
+  }
+}

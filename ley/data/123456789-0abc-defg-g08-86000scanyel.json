@@ -1,0 +1,405 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g08-86000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1610748034640,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "27552-nacional-declaracion-interes-nacional-lucha-contra-enfermedad-fibrosis-quistica-pancreas-mucoviscidosis-lns0006880-2020-07-23"
+      }
+    },
+    "content": {
+      "mecanografico": "S0006880",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "(B.O. 12/11/2020)",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 000884 2020 11 11 0001 000 0000 000"
+        }
+      },
+      "numero-norma": 27552,
+      "timestamp": "2021-01-15T18:53:55",
+      "timestamp-alta": "2020-08-11T11:15:46",
+      "timestamp-m": "2021-01-15T18:53:55",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "2020-07-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 027552 2020 07 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 27.552",
+          "BUENOS AIRES,"
+        ]
+      },
+      "titulo-norma": "Declaración de Interés Nacional la Lucha contra la enfermedad de Fibrosis Quística de Páncreas o Mucoviscidosis",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2020 08 11"
+        }
+      },
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "LEY 27.552",
+      "estado": "Vigente, de alcance general",
+      "analista": "Rocca, Adriana",
+      "fecha-alta": "2020-08-11",
+      "fecha-mod": "2021-01-15",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ENFERMEDADES FIBROSIS QUISTICA DE PANCREAS O MUCOVISCIDOSIS COBERTURA MEDICA OBRAS SOCIALES MEDICINA PREPAGA MEDICAMENTOS PROGRAMA MEDICO OBLIGATORIO DISCAPACIDAD"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "enfermedades"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "cobertura médica"
+            },
+            "preferido": {
+              "termino": "Salud pública/asistencia sanitaria/asistencia médica/contrato de prestaciones médicas/medicina prepaga/cobertura médica"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de medicina prepaga",
+                "cobertura asistencial",
+                "atención médica",
+                "servicios médico asistenciales",
+                "cobertura de tratamiento médico"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "obras sociales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/derecho de los beneficios de la seguridad social/Régimen Nacional de Obras Sociales/obras sociales"
+            },
+            "sinonimos": {
+              "termino": "derecho previsional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "medicina prepaga"
+            },
+            "preferido": {
+              "termino": "Salud pública/asistencia sanitaria/asistencia médica/contrato de prestaciones médicas/medicina prepaga"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de medicina prepaga",
+                "atención médica",
+                "servicios médico asistenciales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "medicamentos"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Programa Médico Obligatorio"
+            },
+            "preferido": {
+              "termino": "Salud pública/política sanitaria/programas de salud/Programa Médico Obligatorio"
+            },
+            "sinonimos": {
+              "termino": [
+                "plan médico obligatorio",
+                "PMO",
+                "planes de salud"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "fibrosis quística de páncreas o mucoviscidosis"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/fibrosis quística de páncreas o mucoviscidosis"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "discapacidad"
+            },
+            "preferido": {
+              "termino": "Derechos humanos/derechos humanos de las personas con discapacidad/personas con discapacidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "personas con capacidades diferentes",
+                "derechos fundamentales",
+                "discapacitados",
+                "discapacidad",
+                "personas discapacitadas",
+                "minusválidos"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "política sanitaria",
+            "servicios médico asistenciales (asistencia médica)",
+            "productos para la salud (medicamentos)",
+            "PMO (Programa Médico Obligatorio)",
+            "drogas (medicamentos)",
+            "Derechos humanos",
+            "personas discapacitadas (personas con discapacidad)",
+            "obras sociales",
+            "Régimen Nacional de Obras Sociales",
+            "cobertura de tratamiento médico (cobertura médica)",
+            "enfermedades",
+            "planes de salud (programas de salud)",
+            "contrato de prestaciones médicas",
+            "derechos humanos de las personas con discapacidad",
+            "derecho de los beneficios de la seguridad social",
+            "discapacitados (personas con discapacidad)",
+            "Programa Médico Obligatorio",
+            "cobertura asistencial (cobertura médica)",
+            "cobertura médica",
+            "fibrosis quística de páncreas o mucoviscidosis",
+            "Salud pública",
+            "derecho previsional (derecho de los beneficios de la seguridad social)",
+            "personas con capacidades diferentes (personas con discapacidad)",
+            "asistencia médica",
+            "personas con discapacidad",
+            "Seguridad social",
+            "especialidades farmacéuticas (medicamentos)",
+            "medicamentos",
+            "productos farmacéuticos (medicamentos)",
+            "derechos fundamentales (Derechos humanos)",
+            "plan médico obligatorio (Programa Médico Obligatorio)",
+            "asistencia sanitaria",
+            "medicina prepaga",
+            "programas de salud",
+            "minusválidos (personas con discapacidad)",
+            "discapacidad (personas con discapacidad)",
+            "productos médicos (medicamentos)",
+            "fármacos (medicamentos)",
+            "atención médica (asistencia médica)",
+            "contrato de medicina prepaga (medicina prepaga)",
+            "especialidades medicinales (medicamentos)"
+          ]
+        }
+      },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 20.\n\nOBSERVACION: POR DECRETO 662/2020 (B.O. 11/8/2020) SE VETA PARCIALMENTE LA PRESENTE NORMA.\n\nOBSERVACION: POR RESOLUCION CONJUNTA 1/2021 DEL MINISTERIO DE SALUD Y AGENCIA NACIONAL DE DISCAPACIDAD (B.O. 8/1/2021) SE APRUEBAN LOS REQUISITOS PARA CONCEDER EL CERTIFICADO UNICO DE DISCAPACIDAD A PERSONAS CON DIAGNOSTICO CONFIRMADO DE FIBROSIS QUISTICA.",
+        "reglamentado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 12/11/2020)",
+            "id": "REGLAMENTADO_POR_0",
+            "ref": "DEC C 000884 2020 11 11 0001 000 0000 000"
+          }
+        },
+        "adherida-por": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_0",
+              "ref": "LEY V 001326 2020 09 25 0001 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_1",
+              "ref": "LEY H 003220 2020 09 30 0000 000 0000 000"
+            }
+          ]
+        }
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1º- Declárese de interés nacional la lucha contra la enfermedad de Fibrosis Quística de Páncreas o Mucoviscidosis, entendiéndose por tal a la detección e investigación de sus agentes causales, el diagnóstico, tratamiento, su prevención, asistencia y rehabilitación, incluyendo la de sus patologías derivadas, como así también la educación de la población respecto de la misma."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2°- La presente ley tiene por finalidad establecer el régimen legal de protección, de atención de salud, trabajo, educación, rehabilitación, seguridad social y prevención, para que las personas con fibrosis quística de páncreas o mucoviscidosis alcancen su desarrollo e inclusión social, económica y cultural, conforme lo previsto en la Constitución nacional.\n\nAsimismo, por tratarse de una discapacidad visceral que no tiene cura, contarán con una protección integral no solo a nivel diagnóstico y tratamiento médico desde el nacimiento, sino a todo nivel para lograr su adecuada integración social."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3°- Las disposiciones de la presente ley serán de aplicación en todo el territorio de la República Argentina. La autoridad de aplicación será la que el Poder Ejecutivo establezca en la reglamentación de la presente ley, la que deberá coordinar con las provincias el efectivo cumplimiento de esta ley. Su ejecución en cada jurisdicción estará a cargo de las respectivas autoridades sanitarias a cuyos fines podrán dictar las normas complementarias que consideren necesarias para el mejor cumplimiento de la misma y su reglamentación."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4°- La autoridad de aplicación deberá establecer normas de provisión de medicamentos e insumos, las que deben ser revisadas y actualizadas como mínimo cada dos (2) años, a fin de incluir, en la cobertura, los avances farmacológicos y tecnológicos que resulten de aplicación en la terapia de la fibrosis quística y promuevan una mejora en la calidad de vida de los pacientes."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 023660 1988 12 29 0001 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 023661 1988 12 29 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 5,
+          "texto": "Art. 5°- Las obras sociales, comprendiendo por tal concepto las entidades enunciadas en el artículo 1° de la ley 23.660, las enmarcadas en la ley 23.661, la Obra Social del Poder Judicial de la Nación, la Dirección de Ayuda Social para el Personal del Congreso de la Nación, las entidades de medicina prepaga y las entidades que brinden atención al personal de las universidades, como así también todos aquellos agentes que brinden servicios médicos asistenciales a sus afiliados, independientemente de la figura jurídica que posean, tendrán a su cargo con carácter obligatorio, la cobertura total del cien por ciento (100%) de las prestaciones que sean indicadas por los profesionales y que necesiten las personas con fibrosis quística de páncreas o mucoviscidosis, debiendo otorgar cobertura integral de medicamentos, suplementos dietarios y nutricionales, equipos médicos, kit de tratamientos, terapias de rehabilitación y todas las prestaciones que sean indicadas por los profesionales, en un plazo máximo de treinta (30) días corridos, para aquellos casos que no sean urgentes y para estos últimos de forma inmediata.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/8/2020)  PALABRA VETADA",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 000662 2020 08 10 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6°- La cobertura integral del cien por ciento (100%) de los medicamentos, suplementos dietarios y nutricionales, equipos médicos, kit de tratamientos, terapias de rehabilitación, traslados y todas las prestaciones que sean indicadas por los profesionales, destinados a las personas con fibrosis quística de páncreas o mucoviscidosis, debe ser provista en las condiciones y cantidades necesarias.\n\nIgualmente tendrán cobertura del cien por ciento (100%) todos los estudios de diagnóstico, tratamiento y control que se relacionen o deriven de la fibrosis quística de páncreas o mucoviscidosis, como así también el diagnóstico y tratamiento de los órganos que vayan siendo afectados por el avance de la enfermedad. Dichas patologías, contarán con la misma cobertura para tratamientos psicológicos y/o psiquiátricos que sean necesarios.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/8/2020)  PALABRA Y FRASE VETADA",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 000662 2020 08 10 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 027504 2019 05 15 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 7,
+          "texto": "Art. 7°- Confirmado el diagnóstico de la persona con fibrosis quística de páncreas o mucoviscidosis por parte de autoridad competente, corresponderá al Ministerio de Salud de la Nación en los términos de la ley 25.504 el otorgamiento inmediato del Certificado Único de Discapacidad a la persona diagnosticada.\n\nConfirmado el diagnóstico e indistintamente de la ciudad en la que resida el paciente, la autoridad competente deberá coordinar la derivación inmediata a los centros multidisciplinarios especializados en la patología, garantizándose un adecuado seguimiento, como así también los traslados pertinentes cada vez que sean requeridos.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/8/2020) EXPRESION VETADA",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 000662 2020 08 10 0003 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023592 1988 08 03 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 8,
+          "texto": "Art. 8°- La fibrosis quística de páncreas o mucoviscidosis no será causal de impedimento para el ingreso laboral, tanto en el ámbito público, como en el privado. El desconocimiento de este derecho será considerado acto discriminatorio en los términos de la ley 23.592 y sus modificatorias."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9°- En toda controversia judicial o administrativa en la cual el carácter de fibroquístico o paciente de mucoviscidosis sea invocado para negar, modificar o extinguir derechos del trabajador, será imprescindible el dictamen del área respectiva del Ministerio de Salud  por intermedio de juntas médicas especializadas que se conformarán al efecto, según lo establezca la autoridad de aplicación.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/8/2020) EXPRESION VETADA",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 000662 2020 08 10 0004 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art. 10.- El Ministerio de Salud de la Nación deberá establecer una directa relación de apoyo con las entidades científicas, asociaciones civiles y O.N.Gs que a la fecha de la sanción de la presente estén desarrollando actividades inherentes al objetivo de la misma, en el territorio nacional, o a nivel internacional. Asimismo deberá apoyar la formación de especialistas tanto pediátricos como de adultos.\n\nLa autoridad de aplicación deberá llevar a cabo campañas nacionales informativas de detección y de concientización de la enfermedad, a fin de lograr un adecuado conocimiento en la sociedad de esta patología, que permita una mayor integración social de los pacientes."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art. 11.- La autoridad de aplicación convendrá con el Ministerio de Educación de la Nación, fomentar con las jurisdicciones locales y las instituciones educativas en todos los niveles, programas educativos y formativos que permitan el acceso de alumnos y docentes a un conocimiento adecuado de la problemática, especialmente en aquellos establecimientos donde asistan alumnos con fibrosis quística de páncreas o mucoviscidosis, como así también arbitrar los medios necesarios para garantizar una correcta difusión y concientización de la patología mencionada."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026279 2007 08 08 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 12,
+          "texto": "Art. 12.- La pesquisa neonatal conforme a lo regulado en la ley 26.279, deberá implementarse como práctica obligatoria en todas las clínicas, instituciones u hospitales públicos o privados. De confirmarse el diagnóstico de una persona con fibrosis quística, deberá incluirse también en la pesquisa a sus hermanos o descendientes directos para controlar la aparición de nuevos casos por tratarse de una enfermedad congénita, debiendo dichos estudios tener la cobertura integral del cien por ciento (100%) del costo que demande."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "Art. 13.- Quedan incluidos en el Programa Médico Obligatorio (PMO) todos estos procedimientos y prácticas, como los de diagnóstico, medicamentos y terapias de apoyo, establecidos en los artículos 1°, 3°, 4° y 5° de la presente ley, con los criterios y modalidades de cobertura que establezca la autoridad de aplicación."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "Art. 14.- Los pacientes cuyo deterioro pulmonar lo justifique, podrán ser sometidos a trasplante pulmonar, o cardio pulmonar, cuando el médico tratante lo considere más oportuno previo acuerdo con familiares y/o pacientes, no pudiendo discutirse la oportunidad del trasplante, siendo el profesional, el único autorizado a decidirlo conforme al estado del paciente. La mencionada práctica será ejecutada conforme a lo previsto por la   ley 26.066 de trasplante de órganos."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Art. 15.- Todas las instituciones de atención médica tanto públicas como privadas, deberán elaborar un registro estadístico unificado de personas que padezcan la enfermedad, como así también un informe sobre las acciones llevadas a cabo a nivel nacional y en forma conjunta con las autoridades provinciales."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "Art. 16.- La autoridad de aplicación deberá crear un banco de drogas único nacional para el tratamiento de pacientes con fibrosis quística de páncreas o mucoviscidosis, a los efectos de la distribución de los medicamentos necesarios para cada paciente. Dicho banco podrá también gestionar la compra de drogas producidas en el exterior, para tratamientos específicos que así lo requieran."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "Art. 17.- Los gastos que demande el cumplimiento de la presente   ley serán atendidos con las partidas que al efecto destine en forma anual el Presupuesto General de la Administración Pública para el Ministerio de Salud de la Nación."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "Art. 18.- La presente ley es de orden público, por lo que la autoridad de aplicación deberá celebrar los convenios necesarios con las jurisdicciones provinciales y la Ciudad Autónoma de Buenos Aires, a fin garantizar la implementación de esta ley en todo el territorio nacional."
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "Art. 19.- La presente ley será reglamentada dentro de los noventa (90) días de su publicación, no pudiendo introducir la autoridad de aplicación criterios y modalidades de cobertura que restrinjan los derechos reconocidos por esta ley."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "Art. 20.- Comuníquese al Poder ejecutivo nacional."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "LEDESMA ABDALA DE ZAMORA-MASSA-Fuentes-Cergnul"
+      },
+      "id-infojus": "LNS0006880"
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-876-0000-6002soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1485540862611,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto necesidad urgencia",
+        "description": "678-nacional-decreto-necesidad-urgencia-sobre-sistema-integrado-transporte-automotor-dn20060000678-2006-05-30"
+      }
+    },
+    "content": {
+      "mecanografico": 20060000678,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 678,
+      "timestamp": "2016-04-15T15:11:09",
+      "timestamp-m": "2016-04-15T15:11:09",
+      "tipo-norma": {
+        "codigo": "DNU",
+        "texto": "Decreto de Necesidad y Urgencia"
+      },
+      "fecha": "2006-05-30",
+      "standard-normativo": "DNU C 000678 2006 05 30",
+      "titulo-norma": "DECRETO DE NECESIDAD Y URGENCIA SOBRE SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2006 06 02"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 678/2006",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2006-06-02",
+      "fecha-mod": "2016-04-15",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE ESTABLECE EL REGIMEN DE COMPENSACIONES COMPLEMENTARIAS, DESTINADO A COMPENSAR INCREMENTOS DE COSTOS INCURRIDOS POR LAS EMPRESAS DE TRANSPORTE PUBLICO DE PASAJEROS POR AUTOMOTOR DE CARACTER URBANO Y SUBURBANO BAJO JURISDICCION NACIONAL QUE PRESTEN SERVICIOS EN EL AMBITO GEOGRAFICO DELIMITADO POR EL ART. 2 DE LA LEY Nº 25.031 Y EN LA ORBITA DE LAS UNIDADES ADMINISTRATIVAS ESTABLECIDAS POR LA RESOLUCION Nº 168/95 DE LA SECRETARIA DE TRANSPORTE, EN EL MARCO DE LO DISPUESTO POR EL ART. 2 DEL DECRETO Nº 656/94.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A ANEXO I",
+            "B ANEXO II"
+          ]
+        },
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 25 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 24 FECHA DE ENTRADA EN VIGENCIA: 02/06/2006 OBSERVACION: Se declara la validez del presente Decreto, por art. 1 de la Resolución del Senado y la Cámara de Diputados de la Nación de fecha 11 de abril de 2007 (B.O. 17/05/2007), conforme lo establecido por los arts. 1, 22 y 26 de la Ley 26.122.",
+        "informacion-vinculada": 1E+19
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto de necesidad y urgencia"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto de necesidad y urgencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento de necesidad y urgencia",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sistema de infraestructura de transporte"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte automotor/sistema de infraestructura de transporte"
+            },
+            "sinonimos": {
+              "termino": "SIT"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio público"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "empresa de transporte"
+            },
+            "preferido": {
+              "termino": "Transporte/empresa de transporte"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte automotor"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte automotor"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte de pasajeros"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de pasajeros"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte público de pasajeros",
+                "transporte de personas",
+                "contrato de viaje",
+                "contrato de pasaje"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "régimen de compensaciones complementarias"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte automotor/sistema de infraestructura de transporte/régimen de compensaciones complementarias"
+            },
+            "sinonimos": {
+              "termino": "SIT"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sistema integrado de transporte automotor"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte automotor/sistema de infraestructura de transporte/sistema integrado de transporte automotor"
+            },
+            "sinonimos": {
+              "termino": [
+                "SIT",
+                "SISTAU"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte de personas (transporte de pasajeros)",
+            "transporte de pasajeros",
+            "reglamentos",
+            "contrataciones del Estado (contratos administrativos)",
+            "transporte automotor",
+            "SISTAU (sistema integrado de transporte automotor)",
+            "servicios públicos locales (servicio público)",
+            "servicios públicos (servicio público)",
+            "transporte público de pasajeros (transporte de pasajeros)",
+            "sistema integrado de transporte automotor",
+            "sistema de infraestructura de transporte",
+            "acto administrativo de alcance general",
+            "servicio público",
+            "reglamento administrativo (reglamentos)",
+            "contrato de viaje (transporte de pasajeros)",
+            "Derecho administrativo",
+            "contrato de pasaje (transporte de pasajeros)",
+            "Transporte",
+            "contrato de transporte",
+            "reglamento de necesidad y urgencia (decreto de necesidad y urgencia)",
+            "régimen de compensaciones complementarias",
+            "SIT (sistema de infraestructura de transporte)",
+            "empresa de transporte",
+            "acto administrativo",
+            "contrataciones públicas (contratos administrativos)",
+            "decreto de necesidad y urgencia",
+            "contratos administrativos"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "el Expediente Nº S01:0155297/2005 del Registro del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026028 2005 04 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000652 2002 04 19 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000301 2004 03 10 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000564 2005 06 01 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 026028 2005 04 06 0012 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DEC C 000118 2006 02 03 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "LEY C 025031 1998 10 14 0012 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "LEY C 025031 1998 10 14 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "LEY C 025031 1998 10 14 0002 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "LEY C 025561 2002 01 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "DEC C 000253 1995 08 03 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_11",
+              "ref": "DEC C 001395 1998 11 27 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_12",
+              "ref": "DEC C 000141 2001 02 09 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_13",
+              "ref": "DNU C 002407 2002 11 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_14",
+              "ref": "DEC C 001142 2003 11 26 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS DECRETA:",
+        "texto": "Que en el actual contexto económico y social, el ESTADO NACIONAL viene realizando sostenidos esfuerzos a fin de asegurar el normal acceso de la población a los servicios públicos, preservando su naturaleza de prestación obligatoria para la satisfacción de necesidades colectivas primordiales.\n\nQue la consecución de dicho objetivo requiere poner en equilibrio los caracteres de obligatoriedad, continuidad y regularidad a cargo de los efectivos prestadores de los servicios de Jurisdicción Nacional, siendo la política de compensaciones tarifarias que se viene aplicando respecto del transporte público de pasajeros por automotor de carácter urbano y suburbano una adecuada herramienta para limitar el impacto sobre las tarifas de los incrementos de costos que ha experimentado el sector, evitando que estos repercutan en la economía de los sectores sociales de menores recursos.\n\nQue en ese sentido, la Ley Nº 26.028 estableció en todo el territorio de la Nación Argentina un impuesto sobre la transferencia a título oneroso o gratuito, o importación, de gas oil, con afectación específica, entre otros destinos, a compensaciones tarifarias para las empresas de transporte público de pasajeros por automotor.\n\nQue asimismo, la norma legal apuntada ratificó los Decretos Nº 652 de fecha 19 de abril de 2002 y Nº 301 de fecha 10 de marzo de 2004, mediante los cuales se modificó la estructura del SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE (SIT), incluyendo en el mismo el SISTEMA VIAL INTEGRADO (SISVIAL) y el SISTEMA INTEGRADO DE TRANSPORTE TERRESTRE (SITRANS), mientras que este último quedó conformado por el SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA), el SISTEMA FERROVIARIO INTEGRADO (SIFER) y el SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU), encontrándose éste último a cargo de las compensaciones tarifarias para el transporte público de pasajeros por automotor de carácter urbano y suburbano.\n\nQue mediante el Decreto Nº 564 de fecha 1º de junio de 2005 se establecieron los criterios de distribución de los recursos del Fideicomiso a que se refiere el Artículo 12 de la Ley Nº 26.028 y que conforman el SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE (SIT), con plazo para su aplicación hasta el 31 de diciembre de 2005.\n\nQue por Decreto Nº 118 de fecha 3 de febrero de 2006 se prorrogó la vigencia de las pautas de distribución aludidas en el considerando anterior hasta el día 30 de abril de 2006.\n\nQue se mantienen las razones que motivaran el dictado del Decreto Nº 564/05, prorrogado por el Decreto Nº 118/06, motivo por el cual se propicia la continuidad de todas las medidas allí dispuestas hasta el 31 de diciembre de 2006.\n\nQue las permisionarias sometidas a la Jurisdicción del Area Metropolitana de Buenos Aires se ven particularmente afectadas, en razón del incremento de costos, de la permanencia inalterada desde el año 2001 de los cuadros tarifarios vigentes y de los costos regulatorios sensiblemente superiores a los de igual naturaleza ejecutados en otras jurisdicciones, debido a los requerimientos reglamentarios a que se sujetan los primeros.\n\nQue por ello deben complementarse los ingresos mensuales asignados al mencionado SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU) destinados a esas permisionarias, con fondos provenientes del Presupuesto Nacional, para atender prioritariamente las erogaciones originadas en los incrementos salariales del sector, debiendo asimismo contener la necesidad de renovación del parque móvil afectado a los servicios a fin de reducir la antigüedad media del mismo y las obligaciones emergentes de los regímenes de formación y capacitación obligatoria del personal del sector.\n\nQue la Ley Nº 25.031 creó como organismo interjurisdiccional integrado por el PODER EJECUTIVO NACIONAL, el PODER EJECUTIVO DE LA PROVINCIA DE BUENOS AIRES, la CIUDAD DE BUENOS AIRES y los Municipios del AREA METROPOLITANA DE BUENOS AIRES el denominado ENTE COORDINADOR DEL TRANSPORTE METROPOLITANO (ECOTAM), cuyo objeto es tomar a su cargo la planificación y coordinación del sistema de transporte urbano e interurbano interjurisdiccional en dicha área.\n\nQue la consagración legal del organismo aludido importó la puesta en marcha de la faz institucional imprescindible para la consecución de un postergado anhelo funcional del transporte del conglomerado urbano de Buenos Aires, cuyo resultado final debe ser la integración modal de los servicios de tales características prestados en el área.\n\nQue el Artículo 12 de la Ley Nº 25.031 invitó al gobierno de la PROVINCIA DE BUENOS AIRES, a la CIUDAD DE BUENOS AIRES y a los Municipios del AREA METROPOLITANA DE BUENOS AIRES, a adherir a su régimen, circunstancia que, en atención a la naturaleza de la entidad creada, resulta indispensable para posibilitar la concreción de los postulados perseguidos a través de su creación.\n\nQue sin perjuicio de lo expuesto y a pesar del tiempo transcurrido desde la sanción de la Ley Nº 25.031, se encuentra pendiente la materialización de las adhesiones que permitan el pleno funcionamiento del Ente por ella creado.\n\nQue las necesidades de coordinación entre las distintas autoridades a cargo del sistema de transporte que se ejecuta en el ámbito geográfico definido por el artículo 2º de la norma comentada, adquiere en la actualidad singular relevancia como consecuencia de las distintas iniciativas que desarrolla el ESTADO NACIONAL a efectos de garantizar el mantenimiento de los estándares de seguridad y calidad de los servicios sin incrementar las tarifas a cargo de los usuarios.\n\nQue en este contexto, sin mengua de las facultades que son propias de cada jurisdicción, resulta necesario atribuir a la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS la gestión de las acciones conducentes a fin de promover ante los Gobiernos de la PROVINCIA DE BUENOS AIRES y de la CIUDAD DE BUENOS AIRES, y ante las autoridades de los correspondientes municipios de la PROVINCIA DE BUENOS AIRES, la adhesión a la Ley Nº 25.031, facultándola además a propiciar en caso de resultar procedente las modificaciones legislativas y regulatorias que permitan el logro de tal cometido.\n\nQue asimismo, en atención a las medidas de complementación a las compensaciones tarifarias destinadas al AREA METROPOLITANA DE BUENOS AIRES corresponde facultar a la SECRETARIA DE TRANSPORTE a los efectos de extender su alcance a las empresas bajo jurisdicción provincial y municipal dentro del ámbito geográfico previsto por el Artículo 2º de la Ley Nº 25.031, con carácter provisorio y sujeto a los términos y condiciones que ella establezca.\n\nQue en otro orden de ideas, si bien las empresas del sector están afrontando un plan de renovación del parque móvil afectado a los servicios, la crisis atravesada en los últimos años ha dejado secuelas que impidieron cumplir adecuadamente con el íntegro reemplazo de las unidades dentro de los plazos establecidos para su utilización.\n\nQue fundamentalmente, las restricciones imperantes en el mercado han sido un grave obstáculo para que las empresas permisionarias puedan acceder a mecanismos de financiamiento para la sustitución de sus flotas, coadyuvando al cuadro de situación descripto, los inconvenientes económicos y financieros, originados en el mantenimiento de niveles tarifarios establecidos con anterioridad a la vigencia de la Ley Nº 25.561, lo que se traduce en un fuerte debilitamiento de su capacidad de endeudamiento.\n\nQue en esta coyuntura, las empresas de transporte ven limitadas sus posibilidades de acceder a las líneas de crédito implementadas por las entidades bancarias y financieras, impidiendo así la renovación de unidades y limitando el efecto de las políticas de fomento a la producción y al trabajo encaradas por el PODER EJECUTIVO NACIONAL.\n\nQue por otra parte, debe aprobarse el cronograma para la convergencia definitiva de las edades máximas del parque móvil afectado a los servicios de transporte público de pasajeros por automotor de carácter urbano y suburbano sometido a la Jurisdicción Nacional, brindando de tal manera un cuadro preciso acerca de las posibilidades de utilización de las unidades actualmente en circulación.\n\nQue finalmente, la situación sectorial apuntada en los considerandos precedentes hace conveniente facilitar la cancelación de las deudas originadas por aplicación del Régimen de Penalidades por Infracciones a las Disposiciones Legales y Reglamentarias en Materia de Transporte por Automotor de Jurisdicción Nacional aprobado por Decreto Nº 253 de fecha 3 de agosto de 1995, posibilitando la aprobación de un régimen de presentación voluntaria, conforme al temperamento oportunamente fijado por los Decretos Nros. 1395 de fecha 27 de noviembre de 1998, 141 de fecha 9 de febrero de 2001 y 2407 de fecha 26 de noviembre de 2002.\n\nQue el REGIMEN DE COMPENSACIONES COMPLEMENTARIAS (RCC) al SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU) será afrontado inicialmente con fondos provenientes del TESORO NACIONAL, correspondiendo al MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS a través de la SECRETARIA DE TRANSPORTE propiciar las modificaciones presupuestarias para atender las compensaciones aludidas en el mismo.\n\nQue las compensaciones del REGIMEN DE FOMENTO DE LA PROFESIONALIZACION DEL TRANSPORTE DE CARGAS (REFOP), aprobado por la Resolución Conjunta Nº 543 del MINISTERIO DE ECONOMIA Y PRODUCCION y Nº 251 del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS de fecha 28 de noviembre de 2003 resultan superiores a los fondos que se estima recaudar durante el ejercicio 2006 por el Impuesto al Gas Oil y que corresponden al citado régimen.\n\nQue de acuerdo con lo expresado en los considerandos anteriores debe modificarse el Presupuesto de la Administración Nacional para el Ejercicio 2006 a fin de asignar, con los destinos antes indicados, los recursos necesarios para su financiamiento.\n\nQue la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le compete, conforme a lo establecido en el XArtículo 9º del Decreto Nº 1142 de fecha 26 de noviembre de 2003.\n\nQue atento a la urgencia en resolver la situación planteada resulta imperioso adoptar las medidas descriptas, configurando una circunstancia excepcional que hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las leyes.\n\nQue el presente acto se dicta en virtud de las facultades conferidas por el Artículo 99 incisos 1 y 3 de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 025031 1998 10 14 0002 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 000656 1994 04 29 0002 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Artículo 1º - Establécese el REGIMEN DE COMPENSACIONES COMPLEMENTARIAS (RCC) al SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU), destinado a compensar los incrementos de costos incurridos por las empresas de servicios de transporte público de pasajeros por automotor de carácter urbano y suburbano bajo jurisdicción nacional que prestan servicios en el ámbito geográfico delimitado por el Artículo 2º de la Ley Nº 25.031 y en la órbita de las unidades administrativas establecidas por Resolución Nº 168/95 de la SECRETARIA DE TRANSPORTE del ex - MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS en el marco de lo dispuesto por el Artículo 2º del Decreto Nº 656/94."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2º - Establécese que el régimen a que se refiere el artículo precedente será afrontado inicialmente con fondos provenientes del TESORO NACIONAL."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000976 2002 07 31 0012 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 026028 2005 04 06 0014 000 0015 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 000976 2002 07 31 0020 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 3,
+          "informacion-vinculada": 1E+19,
+          "texto": "Art. 3º - Con el objeto de efectuar la distribución de los fondos del régimen establecido por el Artículo 1º del presente decreto, la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, tomará, como referencia para la base del cálculo, la diferencia entre los montos que se abonen por el SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU) a las empresas beneficiarias correspondientes a cada mes y los incrementos de costos que estas afrontan, priorizando los costos de personal, de renovación del parque móvil afectado a los servicios a fin de reducir la antigüedad media del mismo y de los costos de formación y capacitación obligatoria del personal del sector.\n\nLos fondos del Presupuesto Nacional que se asignen para el cumplimiento de lo establecido en el Artículo 1º del presente decreto serán transferidos al FIDEICOMISO creado por el Artículo 12 del Decreto Nº 976 de fecha 31 de julio de 2001 ratificado por los Artículos 14 y 15 de la Ley Nº 26.028 en los términos del inciso e) del Artículo 20 del decreto citado, para ser aplicados, según lo establece el presente régimen, mediante la apertura de una cuenta de segundo grado denominada REGIMEN DE COMPENSACIONES COMPLEMENTARIAS (RCC), resultando sus beneficiarios los indicados en el Artículo 1º del presente decreto."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001377 2001 11 01 0014 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art. 4º - Facúltase a la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS a hacer uso de los fondos de la Reserva de Liquidez prevista en el Artículo 14 del Decreto Nº 1377 de fecha 1º de noviembre de 2001."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025031 1998 10 14 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 5,
+          "texto": "Art. 5º - Instrúyese a la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS a gestionar las acciones que resulten conducentes a fin de promover, ante los Gobiernos de la PROVINCIA DE BUENOS AIRES y de la CIUDAD DE BUENOS AIRES, y ante las autoridades de los municipios de la PROVINCIA DE BUENOS AIRES correspondientes a su área metropolitana, la adhesión a la Ley Nº 25.031, debiendo conformar a tales fines una UNIDAD EJECUTIVA bajo su dependencia, con la organización funcional y regulatoria que la misma determine, facultándola además a propiciar, en caso de resultar procedente, las modificaciones legislativas y regulatorias que permitan el logro de tal cometido."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000564 2005 06 01 0006 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 000564 2005 06 01 0009 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 025031 1998 10 14 0002 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 6,
+          "texto": "Art. 6º - Facúltase a la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS a otorgar, con carácter provisorio y sujeto a los términos, condiciones y criterios que la misma establezca, hasta tanto fije el procedimiento definitivo a aplicar, idéntico tratamiento al establecido por los Artículos 6º y 9º del Decreto Nº 564/05, respecto de la aplicación de los fondos del REGIMEN DE COMPENSACIONES COMPLEMENTARIAS (RCC) del SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU) previstos en los Artículos 1º, 2º y 3º del presente decreto a las empresas de transporte público de pasajeros por automotor de carácter urbano y suburbano bajo jurisdicción provincial y municipal dentro del ámbito geográfico determinado por el Artículo 2º de la Ley Nº 25.031 y en las unidades administrativas establecidas por Resolución Nº 168/95 de la SECRETARIA DE TRANSPORTE del ex - MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7º - Facúltase al MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS y al BANCO DE LA NACION ARGENTINA a aprobar las modificaciones en el contrato de fideicomiso que resulten necesarias para la instrumentación del régimen de compensaciones complementarias previsto en el presente."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8º - Encomiéndase a la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS a llevar adelante las acciones necesarias ante el BANCO DE LA NACION ARGENTINA a fin de posibilitar la instrumentación por éste último de una línea especial de crédito para las empresas permisionarias de los servicios de transporte público de pasajeros por automotor de carácter urbano y suburbano destinada a la adquisición de unidades para ser afectadas en forma exclusiva a la ejecución de dichos servicios, ya sea a través de su compra y/o de su obtención mediante leasing de los que éstas resulten tomadoras, contemplándose, en lo referente al período de gracia y plazo de pago de dichas operatorias, términos que se ajusten a la real situación económico financiera del sector."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9º - Apruébase el cronograma para la convergencia definitiva de las edades máximas del parque móvil afectado a los servicios de transporte público de pasajeros por automotor de carácter urbano y suburbano sometido a la Jurisdicción Nacional, que como Anexo I forma parte del presente decreto.\n\nLas unidades alcanzadas por la presente medida y cuyos modelos se detallan en el aludido Anexo, podrán continuar en servicio hasta las fechas allí indicadas, siempre que aprueben la Revisión Técnica Obligatoria (R.T.O.). En tal caso, los Certificados de Revisión Técnica emitidos tendrán una vigencia de CUATRO (4) meses.\n\nLa SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS establecerá las especificaciones técnicas que deberán observar las unidades comprendidas en el cronograma que se aprueba por el presente artículo."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 001395 1998 11 27 0009 000 0000 000"
+            }
+          },
+          "numero-articulo": 10,
+          "texto": "Art. 10. - Sustitúyese el Artículo 9º del Decreto Nº 1395/98 y sus modificatorios, el que quedará redactado de la siguiente manera:\n\n\"ARTICULO 9º - La SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS se encuentra facultada para aprobar un régimen de presentación voluntaria para los operadores de servicios de transporte automotor de pasajeros de Jurisdicción Nacional en relación a las multas aplicadas impagas y a las presuntas infracciones constatadas con anterioridad al 31 de diciembre de 2005.\n\nA tales fines la referida Secretaría establecerá las condiciones para la presentación voluntaria, así como los modos y plazos de pago. La presentación voluntaria exigirá el reconocimiento de la infracción de que se trata, y generará una quita de hasta el SETENTA Y CINCO POR CIENTO (75%) del monto de la multa correspondiente, de acuerdo a lo que se establezca en la reglamentación. A los efectos de adherir a la presentación voluntaria que establezca la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, no será de aplicación lo dispuesto por el Artículo 8º del presente decreto.\n\nExclúyese de la presentación voluntaria mencionada en el párrafo anterior a aquellas actuaciones sumariales en las cuales se hayan constatado infracciones respecto de las cuales el régimen de penalidades vigente prevea como sanción accesoria la caducidad del permiso o autorización de que se trate y a juicio fundado de la COMISION NACIONAL DE REGULACION DEL TRANSPORTE, organismo descentralizado en jurisdicción de la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, teniendo en consideración las constancias obrantes en las actuaciones sumariales, así como por la reiteración de infracciones constatadas, las personas físicas o jurídicas sean 'prima facie' merecedoras de la sanción de caducidad.\""
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 000564 2005 06 01 0001 000 0000 000"
+            }
+          },
+          "numero-articulo": 11,
+          "texto": "Art. 11. - Sustitúyese el Artículo 1º del Decreto Nº 564 de fecha 1º de junio de 2005 y sus modificatorios por el siguiente:\n\n\"ARTICULO 1º - Establécense los criterios de distribución de los recursos del FIDEICOMISO a que se refiere el Artículo 12 de la Ley Nº 26.028 y que conforman el SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE creado por el Decreto Nº 1377 de fecha 1º de noviembre de 2001, los que serán aplicados con carácter transitorio desde la entrada en vigencia de la mencionada ley y hasta el 31 de diciembre de 2006\"."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 001488 2004 10 26 0001 000 0000 000"
+            }
+          },
+          "numero-articulo": 12,
+          "texto": "Art. 12. - Sustitúyese el Artículo 1º del Decreto Nº 1488 de fecha 26 de octubre de 2004 y sus modificatorios por el siguiente:\n\n\"ARTICULO 1º - Establécese, hasta el 31 de diciembre de 2006, la reconstitución de la Reserva de Liquidez prevista en el Artículo 14 del Decreto Nº 1377/01, disponiéndose para ello el DIEZ POR CIENTO (10%) de los fondos que en concepto de Impuesto al Gasoil, creado por el artículo 1º de la Ley Nº 26.028, ingresen al SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE (SIT)\"."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 000652 2002 04 19 0005 000 0000 000"
+            }
+          },
+          "numero-articulo": 13,
+          "texto": "Art. 13. - Sustitúyese el Artículo 5º del Decreto Nº 652/02 y su modificatorio, el que quedará redactado de la siguiente manera:\n\n\"ARTICULO 5º - El SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE (SIT) establecido por el Artículo 1º del Decreto Nº 1377/01, incluirá el SISTEMA VIAL INTEGRADO (SISVIAL), el SISTEMA INTEGRADO DE TRANSPORTE TERRESTRE (SITRANS), el SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA) y el REGIMEN DE FOMENTO DE LA PROFESIONALIZACION DEL TRANSPORTE DE CARGAS (REFOP) el que se regirá por lo establecido en el presente decreto y por lo que establezca la Autoridad de Aplicación con competencia específica de cada sistema, en un todo de acuerdo con lo normado por el Artículo 11 del Decreto Nº 802 de fecha 15 de junio de 2001, y los Artículos 2º, 14, 23 y 25 del Decreto Nº 976/01 y por el Artículo 4º del presente decreto.\n\nEl SISTEMA INTEGRADO DE TRANSPORTE TERRESTRE (SITRANS) incluirá el SISTEMA FERROVIARIO INTEGRADO (SIFER) y el SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU), al que en forma transitoria y hasta el 31 de diciembre de 2006 se le incorporará el REGIMEN DE COMPENSACIONES COMPLEMENTARIAS (RCC) y se regirá por lo establecido en el presente decreto de conformidad con las pautas que fije la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS.\n\nFacúltase a la SECRETARIA DE TRANSPORTE, para celebrar convenios con autoridades provinciales y/o municipales para incluir en el SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU) líneas de transporte afectadas al servicio público por automotor urbano de pasajeros de dichas jurisdicciones.\""
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 000652 2002 04 19 0007 000 0000 000"
+            }
+          },
+          "numero-articulo": 14,
+          "texto": "Art. 14. - Sustitúyese el primer párrafo del Artículo 7º del Decreto Nº 652/02 y su modificatorio, el que quedará redactado de la siguiente manera:\n\n\"ARTICULO 7º - El CINCUENTA POR CIENTO (50%) del monto que surja de lo establecido en el artículo anterior, una vez detraídos los montos correspondientes a la reserva de liquidez y al SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA), se aplicará al SISTEMA VIAL INTEGRADO (SISVIAL), conforme los siguientes criterios:\""
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 000652 2002 04 19 0008 000 0000 000"
+            }
+          },
+          "numero-articulo": 15,
+          "texto": "Art. 15. - Sustitúyese el primer párrafo del Artículo 8º del Decreto Nº 652/02 y su modificatorio, el que quedará redactado de la siguiente manera:\n\n\"ARTICULO 8º - El CINCUENTA POR CIENTO (50%) del monto que surja de lo establecido en el Artículo 6º, una vez detraídos los montos correspondientes a la reserva de liquidez y al SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA), se aplicará, durante el plazo de vigencia de la Ley Nº 26.028 al SISTEMA INTEGRADO DE TRANSPORTE TERRESTRE (SITRANS), no pudiendo exceder los fondos que se destinen al SISTEMA INTEGRADO DE TRANSPORTE AUTOMOTOR (SISTAU), el SESENTA Y CINCO POR CIENTO (65%) de estos recursos.\""
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 000652 2002 04 19 0006 000 0000 000"
+            }
+          },
+          "numero-articulo": 16,
+          "texto": "Art. 16. - Incorpórase como acápite f) del Artículo 6º del Decreto Nº 652/02 y su modificatorio, el siguiente:\n\n\"f) Al REFOP del SIT.\""
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 000301 2004 03 10 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 000564 2005 06 01 0002 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 17,
+          "texto": "Art. 17. - Dispónese que respecto de la asignación de fondos para atender las obligaciones del SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA) que surgen del Decreto Nº 301/04, los mismos serán detraídos de los recursos del SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE (SIT), previo cumplimiento de lo establecido por el Artículo 2º del Decreto Nº 564/05 y su modificatorio."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "Art. 18. - Facúltase al MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS a determinar los beneficiarios del régimen, los nuevos porcentajes de deducción para cada categoría, los criterios para acceder y mantener el derecho a la percepción de los bienes fideicomitidos y el procedimiento para liquidar las compensaciones por rebaja de tarifas a los concesionarios de la Red Vial Nacional."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "DEC C 001488 2004 10 26 0003 000 0000 000"
+            }
+          },
+          "numero-articulo": 19,
+          "texto": "Art. 19. - Sustitúyese el Artículo 3º del Decreto Nº 1488 de fecha 26 de octubre de 2004 y sus modificatorios, el que quedará redactado de la siguiente manera:\n\n\"ARTICULO 3º - Dispónese que respecto de la asignación de fondos para atender las obligaciones del SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA) que surgen del Decreto Nº 301/04 deberá observarse, hasta tanto el MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS dicte el nuevo procedimiento a aplicar, lo siguiente: a) Previo a efectuar cualquier distribución de fondos desde la cuenta de primer grado del SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE (SIT) a las cuentas de segundo grado del SISTEMA INTEGRADO DE TRANSPORTE TERRESTRE (SITRANS) o del SISTEMA VIAL INTEGRADO (SISVIAL), en los términos de los Artículos 7º y 8º del Decreto Nº 652/02 y su modificatorio, el Fiduciario deberá verificar si existe alguna solicitud de transferencia de fondos a la cuenta de segundo grado del SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA). b) Toda vez que la SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS haya requerido un movimiento de fondos hacia la cuenta de segundo grado del SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA), los fondos del SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE TERRESTRE (SIT) de acuerdo con el punto a), se destinarán a dicha transferencia hasta completar la suma de la misma. c) Una vez efectivizada la transferencia a la cuenta de segundo grado del SISTEMA DE COMPENSACIONES AL TRANSPORTE (SISCOTA), los ingresos se distribuirán entre las restantes cuentas del SISTEMA DE INFRAESTRUCTURA DE TRANSPORTE TERRESTRE (SIT), de acuerdo con la reglamentación vigente.\""
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "Art. 20. - La SECRETARIA DE TRANSPORTE del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS será la Autoridad de Aplicación del presente decreto, quedando expresamente facultada para el dictado de las normas de carácter complementario necesarias para su implementación, así como para adoptar o propiciar, según corresponda, toda otra medida destinada a la consecución de los objetivos perseguidos mediante el presente decreto."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "Art. 21. - Modifícase el Presupuesto de la Administración Nacional para el Ejercicio 2006, de acuerdo al detalle obrante en las planillas anexas al presente artículo, que forman parte integrante del presente decreto como Anexo II."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000976 2002 07 31 0012 000 0000 000"
+            }
+          },
+          "numero-articulo": 22,
+          "texto": "Art. 22. - Comuníquese a la UNIDAD DE COORDINACION DE FIDEICOMISOS DE INFRAESTRUCTURA (UCOFIN) del MINISTERIO DE ECONOMIA Y PRODUCCION y al BANCO DE LA NACION ARGENTINA, en su carácter de FIDUCIARIO del Fideicomiso creado por el Artículo 12 del Decreto Nº 976/01."
+        },
+        {
+          "numero-articulo": 23,
+          "texto": "Art. 23. - Comuníquese al HONORABLE CONGRESO DE LA NACION en virtud de lo dispuesto por el Artículo 99, inciso 3, de la CONSTITUCION NACIONAL."
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "Art. 24. - El presente decreto entrará en vigencia a partir de su publicación en el Boletín Oficial."
+        },
+        {
+          "numero-articulo": 25,
+          "texto": "Art. 25. - Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "KIRCHNER-Fernández-De Vido-Fernández-Miceli-Filmus-Taiana-Garré Nadalich-Tomada-Iribarne-González García"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I",
+          "texto": "ANEXO I CRONOGRAMA DE CONVERGENCIA DE EDADES MAXIMAS DEL PARQUE MOVIL DE LAS UNIDADES AFECTADAS A LOS SERVICIOS DE TRANSPORTE PUBLICO DE PASAJEROS POR AUTOMOTOR DE CARACTER URBANO Y SUBURBANO BAJO EL REGIMEN DEL DECRETO Nº 656/94  MODELO             AÑO VENCIMIENTO 1992                 31/12/2007 1993                 31/12/2008 1994                 31/12/2009 1995                 31/12/2010"
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO II PLANILLA ANEXA AL ARTICULO 21",
+          "texto": "ANEXO II PLANILLA ANEXA AL ARTICULO 21"
+        }
+      ],
+      "id-infojus": "DN20060000678"
+    }
+  }
+}

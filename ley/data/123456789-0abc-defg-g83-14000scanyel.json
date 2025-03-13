@@ -1,0 +1,1346 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g83-14000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1741631055487,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24714-nacional-ley-asignaciones-familiares-lns0004138-1996-10-02"
+      }
+    },
+    "content": {
+      "mecanografico": "S0004138",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "(B.O. 11-11-96)",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 001245 1996 11 01 0000 000 0000 000"
+        }
+      },
+      "numero-norma": 24714,
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1996-10-02",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024714 1996 10 02",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 24.714",
+          "BUENOS AIRES, 02 de OCTUBRE de 1996"
+        ]
+      },
+      "titulo-norma": "LEY DE ASIGNACIONES FAMILIARES",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1996 10 18"
+        }
+      },
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "LEY 24.714",
+      "estado": "Vigente, de alcance general",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-03-10",
+      "fecha-mod": "2025-03-10",
+      "timestamp": "2025-03-10T15:16:45",
+      "timestamp-alta": "2025-03-10T15:16:45",
+      "timestamp-m": "2025-03-10T15:16:45",
+      "sumario": {
+        "sumario": "ASIGNACIONES FAMILIARES-ASIGNACION UNIVERSAL POR HIJO PARA PROTECCION SOCIAL-ASIGNACION POR HIJO INCAPACITADO-ASIGNACION PRENATAL-ASIGNACION POR MATERNIDAD-ASIGNACION POR NACIMIENTO DE HIJO-ASIGNACION POR ADOPCION-ASIGNACION POR MATRIMONIO-ASIGNACION POR CONYUGE-ASIGNACION POR AYUDA ESCOLAR ANUAL PARA LA EDUCACION BASICA Y POLIMODAL-ASIGNACION POR EMBARAZO PARA PROTECCION SOCIAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "LEY DE ASIGNACIONES FAMILIARES"
+            },
+            "preferido": {
+              "termino": "LEY DE ASIGNACIONES FAMILIARES"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "asignaciones familiares"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por hijo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por hijo"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por hijo incapacitado"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por hijo con discapacidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "asignación por hijo incapacitado",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS",
+                "asignación por hijo discapacitado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación prenatal"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación prenatal"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por maternidad"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por maternidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio por maternidad",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por nacimiento de hijo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por nacimiento de hijo"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por adopción"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por adopción"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por matrimonio"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por matrimonio"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por cónyuge"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por cónyuge"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por ayuda escolar anual para la educación básica y polimodal"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por ayuda escolar/asignación de ayuda escolar primaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "adicional por escolaridad",
+                "salario familiar",
+                "asistencia familiar",
+                "asignación por ayuda escolar anual para la educación básica y polimodal",
+                "asignación por ayuda escolar primaria",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "asignación por escolaridad",
+                "SUSS",
+                "asignación por ayuda escolar anual para la educación inicial, general, básica y polimodal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por embarazo para protección social"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por embarazo"
+            },
+            "sinonimos": {
+              "termino": [
+                "asignación por embarazo para protección social",
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por cuidado de salud integral"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por cuidado de salud integral"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "asistencia familiar (asignaciones familiares)",
+            "asignaciones familiares",
+            "asignación por ayuda escolar",
+            "asignación por hijo discapacitado (asignación por hijo con discapacidad)",
+            "asignación por escolaridad (asignación por ayuda escolar)",
+            "asignación por nacimiento de hijo",
+            "asignación por ayuda escolar anual para la educación básica y polimodal (asignación de ayuda escolar primaria)",
+            "asignación por hijo",
+            "subsidio familiar (asignaciones familiares)",
+            "asignación por matrimonio",
+            "LEY DE ASIGNACIONES FAMILIARES",
+            "asignación por maternidad",
+            "adicional por cargas de familia (asignaciones familiares)",
+            "salario familiar (asignaciones familiares)",
+            "adicional por escolaridad (asignación por ayuda escolar)",
+            "subsidio por maternidad (asignación por maternidad)",
+            "asignación de ayuda escolar primaria",
+            "Sistema único de la seguridad social",
+            "subsidios de la Seguridad Social",
+            "asignación por ayuda escolar anual para la educación inicial, general, básica y polimodal (asignación de ayuda escolar primaria)",
+            "asignación por cuidado de salud integral",
+            "Seguridad social",
+            "asignación por embarazo para protección social (asignación por embarazo)",
+            "asignación por adopción",
+            "asignación por ayuda escolar primaria (asignación de ayuda escolar primaria)",
+            "asignación por embarazo",
+            "asignación por hijo con discapacidad",
+            "asignación por cónyuge",
+            "asignación prenatal",
+            "asignación por hijo incapacitado (asignación por hijo con discapacidad)",
+            "SUSS (Sistema único de la seguridad social)"
+          ]
+        }
+      },
+      "generalidades": {
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 26.\n\nOBSERVACION: SE RESTITUYE LA VIGENCIA DE LA PRESENTE LEY, CON EXCEPCION DE LAS NORMAS CORRESPONDIENTES A LAS PRESTACIONES A LAS QUE SE REFIERE EL TERCER PARRAFO DEL ART. 26 DEL DECRETO 1.382/01, (ASIGNACION POR HIJO, ASIGNACION POR HIJO DISCAPACITADO, ASIGNACION POR MATERNIDAD, AYUDA ESCOLAR PRIMARIA Y ASIGNACION POR CONYUGE), POR ART. 1 DEL DECRETO 1.604/01 (B.O. 06-12-01).\n\nANTECEDENTES: LEY DEROGADA POR DECRETO DE NECESIDAD Y URGENCIA 1382/2001 (B.O. 02-11-2001).\n\nOBSERVACION: VER RESOLUCION 112/96 DE LA SECRETARIA DE SEGURIDAD SOCIAL (B.O. 13-12-96), QUE COMPLEMENTA Y ACLARA EL DECRETO REGLAMENTARIO DE ESTA LEY. ESTA RESOLUCION ESTA CONSULTABLE EN EL ARCHIVO DECRETOS COMO ANEXO DEL DECRETO 1245/96.\n\nOBSERVACION: ESTAN EXCLUIDOS DEL REGIMEN DE LA PRESENTE LEY LOS ESTABLECIMIENTOS COMPRENDIDOS EN EL ESTATUTO DE LOS ESTABLECIMIENTOS PRIVADOS DE ENSEÑANZA APROBADOS POR LEY 13.047, INCISOS A), B) Y C) DEL ART. 2, POR RES. 71/99 DEL 30-9-99 DE LA SECRETARIA DE SEGURIDAD SOCIAL (B.O. 27-10-99).\n\nOBSERVACION: POR RESOLUCION 23/2000 DE LA SECRETARIA DE SEGURIDAD SOCIAL SE ESTABLECE UN NUEVO CALCULO DE LOS PROMEDIOS REMUNERATIVOS SEMESTRALES APLICABLES, A LOS EFECTOS DE DETERMINAR EL DERECHO A LA PERCEPCION DE LAS MISMAS Y SU CUANTIA (B.O. 6/3/2000).\n\nOBSERVACION: SE ESTABLECEN NORMAS COMPLEMENTARIAS ACLARATORIAS Y DE APLICACION DEL REGIMEN DE ASIGNACIONES FAMILIARES, POR RES. 14/02 DE LA SECRETARIA DE SEGURIDAD SOCIAL (B.O. 05-08-2002).\n\nOBSERVACION: LOS RANGOS, TOPES Y MONTOS DE LAS ASIGNACIONES FAMILIARES CONTEMPLADAS EN LA PRESENTE LEY SERAN LOS QUE SURGEN DE LOS ANEXOS I, II y III DEL DECRETO N. 1591/2008 (B.O. 03/10/2008).\n\nOBSERVACION: POR DECRETO 1729/09 SE INCREMENTAN LOS VALORES DE LAS ASIGNACIONES FAMILIARES (B.O. 13/11/2009).\n\nOBSERVACION: POR DECRETO 1729/09 SE ESTABLECEN MONTOS DE LAS ASIGNACIONES FAMILIARES (B.O. 13/11/2009).\n\nOBSERVACION: POR RESOLUCION 144/2010 DE LA ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL DEL 01/03/2010, SE ESTABLECE QUE LAS EMPRESAS COMPRENDIDAS EN EL SISTEMA DE FONDO COMPENSADOR PARA EL PAGO DE LAS ASIGNACIONES FAMILIARES REGIDAS POR LA PRESENTE LEY, QUEDARAN INCORPORADAS DE PLENO DERECHO AL SISTEMA UNICO DE ASIGNACIONES FAMILIARES (SUAF). (B.O. 11/03/2010).\n\nOBSERVACION: POR DECRETO 1388/10 (B.O. 1/10/2010) SE INCREMENTAN LOS MONTOS DE LAS ASIGNACIONES FAMILIARES Y DE LA ASIGNACION UNIVERSAL POR HIJO PARA PROTECCION SOCIAL.\n\nOBSERVACION: POR DECRETO 1482/11 (B.O. 27/09/2011) SE INCREMENTAN LOS MONTOS, RANGOS Y TOPES DE LAS ASIGNACIONES FAMILIARES, DE LA ASIGNACION UNIVERSAL POR HIJO, HIJO CON DISCAPACIDAD Y EMBARAZO PARA PROTECCION SOCIAL.\n\nOBSERVACION: POR ART. 4 Y 5 DEL DECRETO 614/13(B.O. 31/05/2013) SE ESTABLECEN LOS RANGOS, TOPES Y MONTOS DE LAS ASIGNACIONES FAMILIARES , DE LA ASIGNACION UNIVERSAL POR HIJO, HIJO CON DISCAPACIDAD Y EMBARAZO PARA PROTECCION SOCIAL.\n\nOBSERVACION: POR ARTS 1 Y 2 DEL DECRETO 779/14 (B.O. 30/5/2014) SE ACTUALIZAN LOS RANGOS Y MONTOS DE LAS ASIGNACIONES FAMILIARES.\n\nOBSERVACION: POR ART. 24 Y 34 DE LA LEY 26.941(B.O. 2/6/2014) SE ESTABLECE UNA REDUCCION DE LAS CONTRIBUCIONES PATRONALES POR 24 MESES.\n\nOBSERVACION: POR ARTS 1 Y 2 DEL DECRETO 1141/15 (B.O. 18/6/2015) SE ACTUALIZAN LOS RANGOS Y MONTOS DE LAS ASIGNACIONES FAMILIARES Y LA ASIGNACIÓN UNIVERSAL POR HIJO Y EMBARAZO PARA PROTECCIÓN SOCIAL.\n\nOBSERVACION: POR ART. 5 DEL DECRETO 702/2018 (B.O. 27/7/2018) SE ESTABLECE QUE LOS TOPES, MONTOS Y ZONAS DIFERENCIALES DE LAS ASIGNACIONES FAMILIARES SERAN LAS QUE SURGEN DE LOS ANEXOS DEL PRESENTE DECRETO .\n\nOBSERVACION: POR ART. 1 DEL DECRETO 812/2018 (B.O. 11/9/2018) SE OTORGA UN SUBSIDIO EXTRAORDINARIO POR UNICA VEZ A LOS TITULARES DE LA ASIGNACION UNIVERSAL POR HIJO PARA PROTECCION SOCIAL Y/O DE LA ASIGNACION POR EMBARAZO PARA PROTECCION SOCIAL POR UN MONTO DE PESOS MIL DOSCIENTOS ($1200).\n\nOBSERVACION: SE APRUEBAN LAS NORMAS COMPLEMENTARIAS, ACLARATORIAS Y DE APLICACION DEL REGIMEN DE ASIGNACIONES FAMILIARES POR RESOLUCION 11/2019 DE LA SECRETARIA DE SEGURIDAD SOCIAL (B.O. 1/8/2019).\n\nOBSERVACION: POR RESOLUCION 201/2019 DE LA ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 7/8/2019) SE ESTABLECEN LOS TOPES MINIMOS, RANGOS Y MONTOS DE LAS ASIGNACIONES FAMILIARES Y UNIVERSALES A PARTIR DE SEPTIEMBRE DE 2019.\n\nOBSERVACION: EL ARTICULO 2° DEL DECRETO N° 163/2020 (B.O. 19/02/2020), DETERMINA UN INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES, CON EXCEPCION DE LA ESTABLECIDA EN EL INCISO E) DEL ARTICULO 6°, EL CUAL SERA EQUIVALENTE AL TRECE POR CIENTO (13 %) DE LOS RANGOS Y MONTOS ESTABLECIDOS EN LOS ANEXOS MENCIONADOS EN EL ARTICULO 2° DE LA RESOLUCION ANSES Nº 284/19.\n\nOBSERVACION: POR ART. 2 DEL DECRETO 495/20 (B.O. 27/5/2020) SE DISPONE UN INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES EQUIVALENTE AL (6,12 %) .\n\nOBSERVACION: POR RESOLUCION 166/20 DE LA ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL SE DETERMINA QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES, CON EXCEPCION DE LA ESTABLECIDA EN EL INCISO E) DEL ARTICULO 6°, SERA EQUIVALENTE AL (6,12%) DE LOS RANGOS Y MONTOS ESTABLECIDOS EN LOS ANEXOS MENCIONADOS EN EL ARTICULO 2° DE LA RESOLUCION ANSES Nº 75/20.\n\nOBSERVACION: POR ART. 2 DEL DECRETO 692/20 (B.O. 25/8/2020) SE DISPONE UN INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES EQUIVALENTE AL (7,50 %) .\n\nOBSERVACION: POR ART. 1 DE LA RESOLUCION 312/2020 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 2/9/2020) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE LOS INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES CON EXCEPCION DEL INCISO E) DEL ART. 6 SERA EQUIVALENTE AL (7,50%) DE LOS RANGOS Y MONTOS ESTABLECIDOS EN LA RESOLUCION 166/2020 DEL ANSES.\n\nOBSERVACION: POR ART. 2 DEL DECRETO 899/20 (B.O. 25/11/2020) SE DISPONE UN INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES EQUIVALENTE AL CINCO POR CIENTO (5%).\n\nOBSERVACION: POR RESOLUCION 427/2020 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 10/12/2020) SE ESTABLECE EL INCREMENTO DE LOS RANGOS Y MONTOS DE LAS ASIGNACIONES FAMILIARES.\n\nOBSERVACION: POR ART. 2 DEL DECRETO 177/21 (B.O. 20/3/2021) SE ESTABLECE EXCEPCIONALMENTE Y POR 30 DIAS UN INCREMENTO AL 100% DEL MONTO ACTUAL DE LAS ASIGNACIONES FAMILIARES INSTITUIDAS POR LA PRESENTE LEY.\n\nOBSERVACION: POR RESOLUCION 74/2021 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 1/4/2021) SE ESTABLECE POR UNICA VEZ UN INCREMENTO DEL 100 % EN EL MONTOS DE LAS ASIGNACIONES FAMILIARES .\n\nOBSERVACION: POR RESOLUCION 109/2021 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 27/5/2021) SE ESTABLECE UN INCREMENTO DEL 12,12 % EN LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES.\n\nOBSERVACION: POR RESOLUCION 174/2021 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 27/8/2021) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL 12,39%.\n\nOBSERVACION: POR RESOLUCION 246/2021 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 2/12/2021) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL 12,11%.\n\nOBSERVACION: POR RESOLUCION 135/2022 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 24/05/2022) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL 15,00%. A PARTIR DE JUNIO DE 2022 .\n\nOBSERVACION: POR RESOLUCION 202/2022 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 29/08/2022) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (15,53%) A PARTIR DE SEPTIEMBRE DE 2022 .\n\nOBSERVACION: POR RESOLUCION 258/2022 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 22/11/2022) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (15,62%) A PARTIR DE DICIEMBRE DE 2022 .\n\nOBSERVACION: POR RESOLUCION 45/2023 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 7/3/2023) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (17,04%) A PARTIR DE MARZO DE 2023 .\n\nOBSERVACION: POR RESOLUCION 188/2023 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 28/8/2023) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (23,29%) A PARTIR DE SEPTIEMBRE DE 2023 .\n\nOBSERVACION: POR RESOLUCION 233/2023 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 30/11/2023) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (20,87%) A PARTIR DE DICIEMBRE DE 2023 .\n\nOBSERVACION: POR RESOLUCION 175/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 13/05/2024) SE DA DE BAJA DEL REGIMEN DE ASIGNACIONES FAMILIARES A LA \"FUNDACIÓN PATAGONIA ARGENTINA\" .\n\nOBSERVACION: POR RESOLUCION 189/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 21/5/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS LIMITES Y RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (41,48%) A PARTIR DE JUNIO DE 2024 .\n\nOBSERVACION: POR RESOLUCION 219/24 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 3/6/2024)SE ESTABLECE QUE A LOS FINES DE EJERCER EL CONTROL DEL COBRO DE LAS ASIGNACIONES DEBERA ENTENDERSE QUE LA PERSONA TITULAR DE LA PRESTACION O GENERADORA DE DERECHO NO CUMPLE CON EL REQUISITO DE RESIDENCIA EN EL PAIS CUANDO SE HAYA AUSENTADO DEL TERRITORIO DE LA ARGENTINA POR UN PERIODO DE 90 DIAS CORRIDOS.\n\nOBSERVACION: POR RESOLUCION 327/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 5/7/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (4,18%), CORRESPONDIENTES AL MES DE JULIO DE 2024.\n\nOBSERVACION: POR RESOLUCION 389/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 23/7/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (4,58%), CORRESPONDIENTES AL MES DE AGOSTO DE 2024.\n\nOBSERVACION: POR RESOLUCION 587/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 23/8/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (4,03%), CORRESPONDIENTES AL MES DE SEPTIEMBRE DE 2024.\n\nOBSERVACION: POR RESOLUCION 840/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 27/9/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (4,17%), CORRESPONDIENTES AL MES DE OCTUBRE DE 2024.\n\nOBSERVACION: POR RESOLUCION 990/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 21/10/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (3,47%), CORRESPONDIENTES AL MES DE NOVIEMBRE DE 2024.\n\nOBSERVACION: POR RESOLUCION 1124/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 26/11/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (2,69%), CORRESPONDIENTES AL MES DE DICIEMBRE DE 2024.\n\nOBSERVACION: POR RESOLUCION 1239/2024 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 27/12/2024) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (2,43%), CORRESPONDIENTES AL MES DE ENERO DE 2025.\n\nOBSERVACION: POR RESOLUCION 152/2025 DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (B.O. 10/03/2025) SE ESTABLECE QUE EL INCREMENTO DE LOS RANGOS DE INGRESOS DEL GRUPO FAMILIAR Y DE LOS MONTOS DE LAS ASIGNACIONES FAMILIARES SERA DEL (2,21%), CORRESPONDIENTES AL MES DE MARZO DE 2025."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024241 1993 09 23 0018 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 1 - Se instituye, con alcance nacional y obligatorio, y sujeto a las disposiciones de la presente ley, un Régimen de Asignaciones Familiares basado en:\n\na) Un subsistema contributivo fundado en los principios de reparto de aplicación a los trabajadores que presten servicios remunerados en relación de dependencia en la actividad privada, cualquiera sea la modalidad de contratación laboral, beneficiarios de la Ley sobre Riesgos de Trabajo y beneficiarios del Seguro de Desempleo, el que se financiará con los recursos previstos en el artículo 5 de la presente ley.\n\na´) Un subsistema contributivo de aplicación a las personas inscriptas y aportantes al Régimen Simplificado para Pequeños Contribuyentes (RS) establecido por la Ley N° 24.977, sus complementarias y modificatorias, el que se financiará con los recursos previstos en el artículo 5° de la presente Ley.\n\nb) Un subsistema no contributivo de aplicación a los beneficiarios del Sistema Integrado Previsional Argentino (SIPA), beneficiarios del régimen de pensiones no contributivas por invalidez, y para la Pensión Universal para el Adulto Mayor, el que se financiará con los recursos del régimen previsional previstos en el artículo 18 de la ley 24.241.\n\nc) Un subsistema no contributivo compuesto por la Asignación por Embarazo para Protección Social y la Asignación Universal por Hijo para Protección Social, destinado, respectivamente, a las mujeres embarazadas y a aquellos niños, niñas y adolescentes residentes en la REPUBLICA ARGENTINA; que pertenezcan a grupos familiares que se encuentren desocupados o se desempeñen en la economía informal.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 30/10/2009) INCISO C) INCORPORADO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 001602 2009 10 29 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 19/04/2011) INCISO C) SUSTITUIDO",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DNU C 000446 2011 04 18 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 19-04-2016) INCISO A')INCORPORADO",
+                "id": "MODIFICADO_POR_3",
+                "ref": "DNU C 000593 2016 04 15 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 22-07-2016) INCISO B) SUSTITUIDO",
+                "id": "MODIFICADO_POR_4",
+                "ref": "LEY C 027260 2016 06 29 0018 000 0000 000"
+              },
+              {
+                "cr": "(SUP.B.O. 4/11/2020) INCISO A') SUSTITUIDO",
+                "id": "MODIFICADO_POR_5",
+                "ref": "DNU C 000840 2020 11 04 0013 000 0000 000"
+              }
+            ]
+          },
+          "observado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 17/09/2012) EL LIMITE DE INGRESOS MINIMO Y MAXIMO APLICABLE A LOS BENEFICIARIOS DE LOS INCISOS A) Y B) SERA DE PESOS DOSCIENTOS ($200) Y PESOS CATORCE MIL ($14.000) RESPECTIVAMENTE",
+                "id": "OBSERVADO_POR_0",
+                "ref": "DEC C 001668 2012 09 12 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 31/5/2013) SE ESTABLECE El LIMITE DE INGRESOS MINIMO Y MAXIMO CORRESPONDIENTES AL GRUPO FAMILIAR EN PESOS DOSCIENTOS ($ 200.-) y PESOS DIECISEIS MIL OCHOCIENTOS ($ 16.800.-) RESPECTIVAMENTE",
+                "id": "OBSERVADO_POR_1",
+                "ref": "DEC C 000614 2013 05 30 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 17/3/2016) SE ESTABLECE El LIMITE DE INGRESOS MINIMO Y MAXIMO CORRESPONDIENTES AL GRUPO FAMILIAR EN PESOS DOSCIENTOS ($ 200.-) y PESOS SESENTA MIL ($60.000) RESPECTIVAMENTE",
+                "id": "OBSERVADO_POR_2",
+                "ref": "DEC C 000492 2016 03 16 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 27/7/2018) SE ESTABLECE QUE EL LIMITE DE INGRESOS MINIMO Y MAXIMO CORRESPONDIENTES AL GRUPO FAMILIAR SERAN DE PESOS OCHENTA Y TRES MIL NOVECIENTOS DIECISIETE ($ 83.917.-) RESPECTIVAMENTE",
+                "id": "OBSERVADO_POR_3",
+                "ref": "DEC C 000702 2018 07 26 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 03/6/2020) SE ESTABLECE QUE EL LIMITE DE INGRESOS MINIMO Y MAXIMO CORRESPONDIENTES AL GRUPO FAMILIAR SERAN DE ($5.679,80) y ($155.328) RESPECTIVAMENTE",
+                "id": "OBSERVADO_POR_4",
+                "ref": "RES C 000166 2020 06 01 0004 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 2/09/2020) EL LIMITE DE INGRESOS MINIMO Y MAXIMO APLICABLE A LOS BENEFICIARIOS DE LOS INCISOS A) Y B) CORRESPONDIENTE AL GRUPO FAMILIAR REFERIDO EN EL DTO 1667/2012 SERA DE ($6.105,79) Y ($155.328) RESPECTIVAMENTE",
+                "id": "OBSERVADO_POR_5",
+                "ref": "RES C 000312 2020 08 31 0004 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 27/12/2021) POR RESOLUCION DE LA ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL SE ESTABLECE DISPOSICIONES SOBRE EL INCISO C) DEL PRESENTE ARTICULO",
+                "id": "OBSERVADO_POR_6",
+                "ref": "RES C 000265 2021 12 21 0002 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 2,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 2 - Las empleadas/os del Régimen Especial de Contrato de Trabajo para el Personal de Casas Particulares se encuentran incluidas en el inciso c) del artículo 1°, siendo beneficiarias de la Asignación por Embarazo para Protección Social y de la Asignación Universal por Hijo para Protección Social, quedando excluidas de los incisos a) y b) del citado artículo con excepción del derecho a la percepción de la Asignación por Maternidad establecida por el inciso e) del artículo 6° de la presente ley.\n\nFacúltase al Poder Ejecutivo nacional para que dicte las normas pertinentes a efectos de adecuar y extender a las empleadas/os de dicho régimen especial estatutario las demás asignaciones familiares previstas en la presente ley.\n\nFacúltase a la Administración Federal de Ingresos Públicos (AFIP) para establecer las alícuotas correspondientes para el financiamiento de la asignación familiar por maternidad correspondiente a las empleadas del Régimen Especial de Contrato de Trabajo para el Personal de Casas Particulares.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 2013/04/12)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "LEY C 026844 2013 03 13 0072 000 0072 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 3,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 3 - Quedan excluidos de las prestaciones de esta ley, con excepción de las asignaciones familiares por maternidad y por hijos con discapacidad, los trabajadores que perciban una remuneración inferior a PESOS CIEN ($ 100) o igual o superior a PESOS UN MIL SETECIENTOS VEINTICINCO ($ 1.725).\n\nPara los que trabajen en las Provincias de LA PAMPA, NEUQUEN, RIO NEGRO, CHUBUT, SANTA CRUZ, TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR; o en los Departamentos de Antofagasta de la Sierra (exclusivamente para los que se desempeñen en la actividad minera) de la Provincia de CATAMARCA; o en los Departamentos de Cochinoca, Humahuaca, Rinconada, Santa Catalina, Susques y Yavi de la Provincia de JUJUY; o en el Distrito Las Cuevas del Departamento de Las Heras, en los Distritos Potrerillos, Carrizal, Agrelo, Ugarteche, Perdriel y Las Compuertas del Departamento de Luján de Cuyo, en los Distritos de Santa Clara, Zapata, San José y Anchoris del Departamento Tupungato, en los Distritos de Los Arboles, Los Chacayes y Campo de los Andes del Departamento de Tunuyán, en el Distrito de Pareditas del Departamento San Carlos, en el Distrito de Cuadro Benegas del Departamento San Rafael, en los Distritos Malargüe, Río Grande, Río Barrancas, Agua Escondida del Departamento Malargüe, en los Distritos Russell, Cruz de Piedra, Las Barrancas y Lumlunta del Departamento Maipú, en los Distritos de El Mirador, Los Campamentos, Los Arboles, Reducción y Medrano del Departamento Rivadavia de la Provincia de MENDOZA; o en los Departamentos de General San Martín (excepto Ciudad de Tartagal y su ejido urbano), Rivadavia, Los Andes, Santa Victoria y Orán (excepto Ciudad de San Ramón de la Nueva Oran y su ejido urbano) de la Provincia de SALTA; o en los Departamentos Bermejo, Ramón Lista y Matacos de la Provincia de FORMOSA, la remuneración deberá ser inferior a PESOS CIEN ($100) o igual o superior a PESOS DOS MIL VEINTICINCO ($ 2.025) para excluir al trabajador del cobro de las prestaciones previstas en la presente ley.\n\nQuedan excluidos del beneficio previsto en el artículo 1° inciso c) de la presente los trabajadores que se desempeñen en la economía informal, que perciban una remuneración superior al salario mínimo, vital y móvil.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "Sustituido por Decreto de Necesidad y Urgencia (B.O. 01-04-2004)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 000368 2004 03 31 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 30/10/2009) PARRAFO INCORPORADO",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DNU C 001602 2009 10 29 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 12-04-2013) ULTIMO PARRAFO SUSTITUIDO",
+                "id": "MODIFICADO_POR_3",
+                "ref": "LEY C 026844 2013 03 13 0072 000 0000 000"
+              }
+            ]
+          },
+          "observado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 2/12/2004) MODIFICACION DE LOS TOPES MAXIMOS",
+                "id": "OBSERVADO_POR_0",
+                "ref": "DEC C 001691 2004 11 30 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 21/09/2005) TOPES MAXIMOS MODIFICADOS",
+                "id": "OBSERVADO_POR_1",
+                "ref": "DEC C 001134 2005 09 19 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Topes máximos del 1° y 2° párrafo elevados",
+                "id": "OBSERVADO_POR_2",
+                "ref": "DEC C 000033 2007 01 23 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 5/10/2007) Topes máximos del 1° y 2° párrafo elevados",
+                "id": "OBSERVADO_POR_3",
+                "ref": "DEC C 001345 2007 10 04 0001 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024241 1993 09 23 0006 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 4 - Se considerará remuneración a los efectos de esta ley, la definida por el Sistema Integrado de Jubilaciones y Pensiones (Ley N 24.241, artículos 6 y 9) con excepción de las horas extras y el sueldo anual complementario (SAC).\n\nLos límites que condicionan el otorgamiento de las asignaciones familiares o la cuantía de las mismas, se calcularán, en cada caso, en función de la totalidad de las remuneraciones y prestaciones dinerarias y asignación por maternidad o prestación por desempleo o haberes previsionales correspondientes al período que se liquide, excluyéndose las horas extras y el sueldo anual complementario (SAC) en los casos de trabajadores en relación de dependencia y la prestación anual complementaria en los casos de beneficiarios del Sistema Integrado de Jubilaciones y Pensiones.\n\nPara los trabajadores a que hace referencia el segundo párrafo del artículo 3 y sólo a los efectos del cobro de las asignaciones familiares, se excluirán del total de la remuneración las sumas que percibiera el trabajador en concepto de horas extras, sueldo anual complementario (SAC) y zona desfavorable, inhóspita o importes zonales.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Modifica primer párrafo",
+                "id": "MODIFICADO_POR_0",
+                "ref": "LEY C 025231 1999 12 01 0001 000 0000 000"
+              },
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "Sustituido por Decreto de Necesidad y Urgencia (B.O. 01-04-2004)",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DNU C 000368 2004 03 31 0002 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 002609 1993 12 22 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DEC C 000372 1995 03 14 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 000292 1995 08 14 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "DEC C 000492 1995 09 22 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_4",
+                "ref": "LEY C 024557 1995 09 13 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_5",
+                "ref": "LEY C 024241 1993 09 23 0018 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 5,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 5 - Las asignaciones familiares previstas en esta ley se financiarán:\n\na) Las que correspondan al inciso a) del artículo 1 de esta ley, con los siguientes recursos:\n\n1. Una contribución a cargo del empleador del nueve por ciento (9 %) que se abonará sobre el total de las remuneraciones de los trabajadores comprendidos en el ámbito de aplicación de esta ley.\n\nDe ese nueve por ciento (9 %), siete y medio puntos porcentuales (7, 5 %), se destinarán exclusivamente a asignaciones familiares y el uno y medio (1,5 %) restante al Fondo Nacional del Empleo, con la escala de reducciones prevista en el Decreto N. 2609/93, y sus modificatorios Decretos N. 372/95,292/95 y 492/95, los que mantienen su vigencia en los porcentajes y alícuotas especificados para cada caso.\n\n2. Una contribución de igual cuantía a la establecida en el punto anterior, a cargo del responsable del pago de prestaciones dinerarias derivadas de laLey N. 24.557, sobre Riesgos de Trabajo.\n\n3. Intereses, multas y recargos.\n\n4. Rentas provenientes de inversiones.\n\n5. Donaciones, legados y otro tipo de contribuciones.\n\n\"a') Las que correspondan al inciso a') del artículo 1° de esta Ley, con los siguientes recursos:\n\n1. El porcentaje de impuesto integrado que corresponda, con destino al SISTEMA INTEGRADO PREVISIONAL ARGENTINO (SIPA) a cargo de las personas adheridas al Régimen Simplificado para Pequeños Contribuyentes (RS).\" b) Las que correspondan al inciso b) del artículo 1 de esta ley con los siguientes recursos:\n\n1. Los establecidos en el artículo 18 de la Ley N.24.241.\n\nc) Las que correspondan al inciso c) del artículo 1º de esta ley con los siguientes recursos:\n\n1. Los establecidos en el artículo 18 de la Ley Nº 24.241 y sus modificatorias;\n\n2. Los rendimientos anuales del Fondo de Garantía de Sustentabilidad del Sistema Integrado Previsional Argentino creado por el Decreto Nº 897/07 y modificatorios.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 30/10/2009) INCISO C) INCORPORADO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 001602 2009 10 29 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 19-04-2016) INCISO A')INCORPORADO",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DNU C 000593 2016 04 15 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 22-07-2016) APARTADO 2 DEL INCISO C) DEROGADO",
+                "id": "MODIFICADO_POR_3",
+                "ref": "LEY C 027260 2016 06 29 0035 000 0000 000"
+              }
+            ]
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "Inc. 1. Se exime de la contribución prevista en este inciso a las instituciones universitarias privadas reguladas de conformidad con la ley 24.521 solo con relación a docentes en relación de dependencia",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 001123 1999 10 08 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 6,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 6.- Se establecen las siguientes prestaciones:\n\na) Asignación por hijo.\n\nb) Asignación por hijo con discapacidad.\n\nc) Asignación prenatal.\n\nd) Asignación por ayuda escolar anual para la educación inicial, general básica y polimodal.\n\ne) Asignación por maternidad.\n\nf) Asignación por nacimiento.\n\ng) Asignación por adopción.\n\nh) Asignación por matrimonio.\n\ni) Asignación Universal por Hijo para Protección Social.\n\nj) Asignación por Embarazo para Protección Social.\n\nk) Asignación por Cuidado de Salud Integral.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Modifica inciso d)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "LEY C 025231 1999 12 01 0002 000 0000 000"
+              },
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 30/10/2009) INCISO I) INCORPORADO",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DNU C 001602 2009 10 29 0004 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 19/04/2011) INCISO J) INCORPORADO",
+                "id": "MODIFICADO_POR_3",
+                "ref": "DNU C 000446 2011 04 18 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 15/1/2021) INCISO K) INCORPORADO",
+                "id": "MODIFICADO_POR_4",
+                "ref": "LEY C 027611 2020 12 30 0004 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 7,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 7 - La asignación por hijo consistirá en el pago de una suma mensual por cada hijo menor de 18 años de edad que se encuentre a cargo del trabajador.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022431 1981 03 16 0002 000 0000 000"
+            }
+          },
+          "numero-articulo": 8,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 8 - La asignación por hijo con discapacidad consistirá en el pago de una suma mensual que se abonará al trabajador por cada hijo que se encuentre a su cargo en esa condición, sin límite de edad, a partir del mes en que se acredite tal condición ante el empleador. A los efectos de esta ley se entiende por discapacidad la definida en la Ley N.22.431, artículo 2.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 9,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 9 - La asignación prenatal consistirá en el pago de una suma equivalente a la asignación por hijo, que se abonará desde el momento de la concepción hasta el nacimiento del hijo. Este estado debe ser acreditado entre el tercer y cuarto mes de embarazo, mediante certificado médico. Para el goce de esta asignación se requerirá una antigüedad mínima y continuada en el empleo de tres meses.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 10,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 10.- La asignación por ayuda escolar anual consistirá en el pago de una suma de dinero que se hará efectiva en el mes de marzo de cada año.\n\nEsta asignación se abonará por cada hijo que concurra regularmente a establecimientos de educación incial, general básica y polimodal o bien, cualquiera sea su edad, si concurre a establecimientos oficiales o privados donde se imparta educación diferencial.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Modifica segundo párrafo",
+                "id": "MODIFICADO_POR_0",
+                "ref": "LEY C 025231 1999 12 01 0003 000 0000 000"
+              },
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 11,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 11. - La asignación por maternidad consistirá en el pago de una suma igual a la remuneración que la trabajadora hubiera debido percibir en su empleo, que se abonará durante el período de licencia legal correspondiente. Para el goce de esta asignación se requerirá una antigüedad mínima y continuada en el empleo de tres meses.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 12,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 12. - La asignación por nacimiento de hijo consistirá en el pago de una suma de dinero que se abonará una vez acreditado tal hecho ante la Administración Nacional de la Seguridad Social (ANSES).",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 15/1/2021) ARTICULO SUSTITUIDO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "LEY C 027611 2020 12 30 0008 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 13,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 13. - La asignación por adopción consistirá en el pago de una suma de dinero que se abonará una vez acreditado dicho acto ante la Administración Nacional de la Seguridad Social (ANSES).",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 15/1/2021) ARTICULO SUSTITUIDO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "LEY C 027611 2020 12 30 0009 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 14,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 14. - La asignación por matrimonio consistirá en el pago de una suma de dinero, que se abonará en el mes en que se acredite dicho acto ante el empleador. Para el goce de este beneficio se requerirá una antigüedad mínima y continuada en el empleo de seis meses. Esta asignación se abonará a los dos cónyuges cuando ambos se encuentren en las disposiciones de la presente ley.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "14 002",
+          "texto": "ARTICULO 14 bis.- La Asignación Universal por Hijo para Protección Social consistirá en una prestación monetaria no retributiva de carácter mensual, que se abonará a uno solo o una sola de los padres o de las madres, tutor o tutora, curador o curadora o pariente por consanguinidad hasta el tercer grado, por cada niña, niño y/o adolescente menor de DIECIOCHO (18) años que se encuentre a su cargo, o sin límite de edad cuando se trate de una persona con discapacidad; en ambos casos, siempre que no estuviere empleado o empleada, emancipado o emancipada o percibiendo alguna de las prestaciones previstas en la presente Ley.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 30/10/2009) ARTICULO INCORPORADO",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001602 2009 10 29 0005 000 0000 000"
+              },
+              {
+                "cr": "(SUP.B.O. 4/11/2020) ARTICULO SUSTITUIDO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 000840 2020 11 04 0001 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": "14 003",
+          "texto": "ARTICULO 14 ter.- Para acceder a la Asignación Universal por Hijo para Protección Social, se requerirá:\n\na. Que la niña, el niño, adolescente y/o la persona con discapacidad sea argentino o argentina nativo o nativa, naturalizado o naturalizada o por opción. Cuando la niña, el niño, adolescente y/o la persona con discapacidad y sus progenitores o sus progenitoras o las personas que los o las tengan a cargo sean extranjeros o extranjeras, deberán acreditar tanto la niña, el niño, adolescente y/o la persona con discapacidad como el o la titular que percibirá la Asignación, DOS (2) años de residencia legal en el país.\n\nb. Acreditar la identidad del o de la titular del beneficio y de la niña, del niño, adolescente y/o persona con discapacidad, mediante Documento Nacional de Identidad.\n\nc. Acreditar que la persona que percibirá el beneficio tiene a su cargo a la niña, al niño, adolescente y/o persona con discapacidad, en función de las disposiciones del Código Civil y Comercial de la Nación y de conformidad con la documentación que la ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (ANSES) disponga a estos fines.\n\nd. La acreditación de la condición de discapacidad será determinada en los términos del artículo 2º de la Ley Nº 22.431, certificada por autoridad competente.\n\ne. Hasta los CUATRO (4) años de edad -inclusive-, deberá acreditarse el cumplimiento de los controles sanitarios y del plan de vacunación obligatorio. Desde los CINCO (5) años de edad y hasta los DIECIOCHO (18) años, deberá acreditarse además la concurrencia de las niñas, los niños y adolescentes obligatoriamente a establecimientos educativos públicos.\n\nf. Acreditar que el o la titular del beneficio y la niña, el niño, adolescente y/o persona con discapacidad residen en el país.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 30/10/2009) ARTICULO INCORPORADO >",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001602 2009 10 29 0006 000 0000 000"
+              },
+              {
+                "cr": "(SUP.B.O. 4/11/2020) ARTICULO SUSTITUIDO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 000840 2020 11 04 0002 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": "14 004",
+          "texto": "ARTICULO 14 quater.- La Asignación por Embarazo para Protección Social consistirá en una prestación monetaria no retributiva mensual que se abonará a la persona gestante, desde el inicio de su embarazo hasta su interrupción o el nacimiento del hijo, siempre que no exceda de nueve (9) mensualidades, debiendo solicitarse a partir de la decimosegunda (12) semana de gestación.\n\nSólo corresponderá la percepción del importe equivalente a UNA (1) Asignación por Embarazo para Protección Social, aún cuando se trate de embarazo múltiple. La percepción de esta asignación no será incompatible con la Asignación Universal por Hijo para Protección Social por cada menor de DIECIOCHO (18) años, o sin límite de edad cuando se trate de un discapacitado, a cargo de la mujer embarazada.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 19/04/2011) INCORPORADO",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 000446 2011 04 18 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 15/1/2021) PRIMER PARRAFO MODIFICADO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "LEY C 027611 2020 12 30 0007 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": "14 005",
+          "texto": "ARTICULO 14 quinquies.- Para acceder a la Asignación por Embarazo para Protección Social, se requerirá: a) Que la embarazada sea argentina nativa o por opción, naturalizada o residente, con residencia legal en el país no inferior a TRES (3) años previos a la solicitud de la asignación. b) Acreditar identidad, mediante Documento Nacional de Identidad. c) La acreditación del estado de embarazo mediante la inscripción en el \"Plan Nacer\" del MINISTERIO DE SALUD. En aquellos casos que prevea la reglamentación, en que la embarazada cuente con cobertura de obra social, la acreditación del estado de embarazo será mediante certificado médico expedido de conformidad con lo previsto en dicho plan para su acreditación.\n\nSi el requisito se acredita con posterioridad al nacimiento o interrupción del embarazo, no corresponde el pago de la asignación por el período correspondiente al de gestación. d) La presentación por parte del titular del beneficio de una declaración jurada relativa al cumplimiento de los requisitos exigidos por la presente y a las calidades invocadas. De comprobarse la falsedad de alguno de estos datos, se producirá la pérdida del beneficio, sin perjuicio de las sanciones que correspondan.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 19/04/2011) INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000446 2011 04 18 0004 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "14 006",
+          "texto": "ARTICULO 14 sexies.- Los titulares de la Asignación Universal por Hijo para Protección Social establecida en el artículo 1°, inciso c) de la presente Ley tendrán derecho a la Asignación por Ayuda Escolar Anual prevista en el artículo 6°, inciso d) y definida por el artículo 10 de esta ley.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8/04/2015) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000504 2015 04 06 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "14 007",
+          "texto": "Artículo 14 septies: Las personas titulares comprendidas en el inciso c) del artículo 1º de la presente ley tendrán derecho a la percepción de las asignaciones por nacimiento y adopción establecidas en los incisos f) y g) del artículo 6º también de la presente. Para acceder a dichas prestaciones, las personas titulares deberán acreditar el hecho y/o el acto generador pertinente ante la Administración Nacional de la Seguridad Social (ANSES).",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 15/1/2021) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027611 2020 12 30 0010 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "14 008",
+          "texto": "Artículo 14 octies: La Asignación por Cuidado de Salud Integral consistirá en el pago de una suma de dinero que se abonará una (1) vez al año a las personas titulares comprendidas en el artículo 1° de la presente ley, por cada niño o niña menor de tres (3) años de edad que se encuentre a su cargo, siempre que hayan tenido derecho al cobro de la prestación establecida en el inciso i) del artículo 6º de la presente dentro del año calendario, y siempre que acrediten el cumplimiento del plan de vacunación y control sanitario, de conformidad con los requisitos que la Administración Nacional de la Seguridad Social (ANSES) establecerá a tales efectos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 15/1/2021) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027611 2020 12 30 0005 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 15,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 15.- Los beneficiarios del Sistema Integrado de Jubilaciones y Pensiones gozarán de las siguientes prestaciones:\n\na) Asignación por cónyuge.\n\nb) Asignación por hijo.\n\nc) Asignación por hijo con discapacidad.\n\nd) Asignación por ayuda escolar anual para la educación básica y polimodal.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Inc. d) incorporado por Decreto de Necesidad y Urgencia (B.O. 11-03-1998).",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 000256 1998 03 09 0001 000 0000 000"
+              },
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              }
+            ]
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 3/03/2008) Incremento de la ayuda escolar anual prevista en el inciso d) en $ 170 .",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 000337 2008 02 29 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 16,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 16. - La asignación por cónyuge del beneficiario del Sistema Integrado de Jubilaciones y Pensiones consistirá en el pago de una suma de dinero que se abonará al beneficiario por su cónyuge.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 17,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 17.- Las asignaciones por hijo y por hijo con discapacidad son las previstas en los artículos 7 y 8 de esta ley.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 18,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 18.- Fíjanse los montos de las prestaciones que otorga la presente ley en los siguientes valores:\n\na) Asignación por hijo: la suma de PESOS CUARENTA ($ 40) para los trabajadores que perciban remuneraciones desde PESOS CIEN ($ 100) e inferiores a PESOS SETECIENTOS VEINTICINCO ($ 725); la suma de PESOS TREINTA ($ 30) para los que perciban remuneraciones desde PESOS SETECIENTOS VEINTICINCO ($ 725) e inferiores a PESOS UN MIL DOSCIENTOS VEINTICINCO ($ 1.225); y la suma de PESOS VEINTE ($ 20) para los que perciban remuneraciones desde PESOS UN MIL DOSCIENTOS VEINTICINCO ($1.225) hasta los topes fijados en el artículo 3.\n\nb) Asignación por hijo con discapacidad: la suma de PESOS CIENTO SESENTA ($ 160) para los trabajadores que perciban remuneraciones inferiores a PESOS SETECIENTOS VEINTICINCO ($ 725); la suma de PESOS CIENTO VEINTE ($ 120) para los que perciban remuneraciones desde PESOS SETECIENTOS VEINTICINCO ($ 725) e inferiores a PESOS UN MIL DOSCIENTOS VEINTICINCO ($ 1.225); y la suma de PESOS OCHENTA ($ 80) para los que perciban remuneraciones desde PESOS UN MIL DOSCIENTOS VEINTICINCO ($ 1.225).\n\nc) Asignación prenatal: una suma igual a la de asignación por hijo.\n\nd) Asignación por ayuda escolar anual para la educación inicial, general básica y polimodal: la suma de $ 130.- e) Asignación por maternidad: la suma que corresponda de acuerdo a lo establecido en el artículo 11 de la presente ley.\n\nf) Asignación por nacimiento: la suma de $ 200.\n\ng) Asignación por adopción: la suma de $ 1.200.\n\nh) Asignación por matrimonio: la suma de $ 300.\n\ni) Asignación por cónyuge del beneficiario del Sistema Integrado de Jubilaciones y Pensiones: la suma de PESOS QUINCE ($ 15) para los que perciban haberes inferiores a PESOS UN MIL QUINIENTOS UNO ($ 1.501). Para los beneficiarios que residan en las provincias de CHUBUT, NEUQUEN, RIO NEGRO, SANTA CRUZ y TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR, la suma de PESOS TREINTA ($ 30) para los que perciban haberes inferiores a PESOS UN MIL QUINIENTOS UNO ($ 1. 501).\n\nj) Asignaciones por hijo y por hijo con discapacidad de beneficiarios del Sistema Integrado de Jubilaciones y Pensiones:\n\nj.1) Asignaciones por hijo: la suma de PESOS CUARENTA ($ 40) para los beneficiarios que perciban haberes inferiores a PESOS QUINIENTOS CINCUENTA Y UNO ($ 551); la suma de PESOS TREINTA ($ 30) para los que perciban haberes desde PESOS QUINIENTOS CINCUENTA Y UNO ($ 551) e inferiores a PESOS UN MIL UNO ($ 1.001); y la suma de PESOS VEINTE ($ 20) para los que perciban haberes desde PESOS UN MIL UNO ($ 1.001) e inferiores a PESOS UN MIL QUINIENTOS UNO ($ 1.501).\n\nPara los beneficiarios que residan en las Provincias de CHUBUT, NEUQUEN, RIO NEGRO, SANTA CRUZ y TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR, la suma de PESOS CUARENTA ($ 40) para los que perciban haberes inferiores a PESOS UN MIL QUINIENTOS UNO ($ 1.501).\n\nj.2) Asignaciones por hijo con discapacidad: la suma de PESOS CIENTO SESENTA ($ 160) para los beneficiarios que perciban haberes inferiores a PESOS QUINIENTOS CINCUENTA Y UNO ($ 551); la suma de PESOS CIENTO VEINTE ($ 120) para los que perciban haberes desde PESOS QUINIENTOS CINCUENTA UNO ($ 551) e inferiores a PESOS UN MIL UNO ($ 1.001); y la suma de PESOS OCHENTA ($ 80) para los que perciban haberes desde PESOS UN MIL UNO ($ 1.001).\n\nPara los beneficiarios que residan en las Provincias de CHUBUT, NEUQUEN, RIO NEGRO, SANTA CRUZ y TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR, la suma de PESOS CIENTO SESENTA ($ 160) cualquiera fuere su haber.\n\nPara los trabajadores a que hace mención el párrafo segundo del artículo 3 el tope de PESOS UN MIL SETECIENTOS VEINTICINCO ($ 1.725) se eleva a PESOS DOS MIL VEINTICINCO ($ 2.025).\n\nk) Asignación Universal por Hijo para Protección Social: la mayor suma fijada en los incisos a) o b), según corresponda.\n\nEl OCHENTA POR CIENTO (80 %) del monto previsto en el primer párrafo se abonará mensualmente a los o a las titulares de las mismas a través del sistema de pagos de la ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (ANSES).\n\nEl VEINTE POR CIENTO (20 %) reservado podrá cobrarse cuando el o la titular acredite, para los o las menores de hasta los CUATRO (4) años de edad -inclusive-, el cumplimiento de los controles sanitarios y el plan de vacunación obligatorio; y para los y las de edad escolar, la certificación que acredite, además, el cumplimiento del ciclo escolar lectivo correspondiente.\n\nLa falta de acreditación producirá la pérdida del derecho al cobro del VEINTE POR CIENTO (20 %) reservado.\n\nI) Asignación por Embarazo para Protección Social: la mayor suma fijada en el inciso a).\n\nDurante el período correspondiente entre la DECIMO SEGUNDA y la última semana de gestación, se liquidará una suma igual al OCHENTA POR CIENTO (80%) del monto previsto en el primer párrafo, la que se abonará mensualmente a las titulares a través del sistema de pago de la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSES). El VEINTE POR CIENTO (20%) restante será abonado una vez finalizado el embarazo y en un solo pago, a través del mismo sistema que se utilice para la liquidación mensual de esta asignación, en la medida que se hubieran cumplido los controles médicos de seguimiento previstos en el \"Plan Nacer\" del MINISTERIO DE SALUD.\n\nLa falta de acreditación producirá la pérdida del derecho al cobro del VEINTE POR CIENTO (20%) reservado.\n\nm) Asignación por Cuidado de Salud Integral: la mayor suma fijada en los incisos a) o b), según corresponda.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Modifica inciso d)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "LEY C 025231 1999 12 01 0004 000 0000 000"
+              },
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "Incs. a), b), i) y j) Sustituidos por Decreto de Necesidady Urgencia (B.O. 01-04-2004)",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DNU C 000368 2004 03 31 0003 000 0000 000"
+              },
+              {
+                "cr": "Ultimo párrafo Sustituido por Decreto de Necesidad yUrgencia (B.O. 01-04-2004)",
+                "id": "MODIFICADO_POR_3",
+                "ref": "DNU C 000368 2004 03 31 0004 000 0000 000"
+              },
+              {
+                "cr": "Inc. j) sustituido por Decreto de Necesidad y Urgencia (B.O. 14/09/2004)",
+                "id": "MODIFICADO_POR_4",
+                "ref": "DNU C 001199 2004 09 13 0005 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 30/10/2009) INCISO K) INCORPORADO",
+                "id": "MODIFICADO_POR_5",
+                "ref": "DNU C 001602 2009 10 29 0007 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 15/1/2021) INCISO M) INCORPORADO",
+                "id": "MODIFICADO_POR_6",
+                "ref": "LEY C 027611 2020 12 30 0006 000 0000 000"
+              }
+            ]
+          },
+          "observado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 2/12/2004) INCREMENTA ASIGNACIONES",
+                "id": "OBSERVADO_POR_0",
+                "ref": "DEC C 001691 2004 11 30 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 21/09/2005) TOPES ELEVADOS EN LOS INC A Y B",
+                "id": "OBSERVADO_POR_1",
+                "ref": "DEC C 001134 2005 09 19 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 21/09/2005) TOPES ELEVADOS DEL ULTIMO PARRAFO",
+                "id": "OBSERVADO_POR_2",
+                "ref": "DEC C 001134 2005 09 19 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 21/09/2005) TOPES ELEVADOS EN LOS INC. i) y j.1)",
+                "id": "OBSERVADO_POR_3",
+                "ref": "DEC C 001134 2005 09 19 0004 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 21/09/2005) TOPES ELEVADOS EN LOS INC. j.1) y j.2)",
+                "id": "OBSERVADO_POR_4",
+                "ref": "DEC C 001134 2005 09 19 0005 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Topes elevados en los incisos a) y b)",
+                "id": "OBSERVADO_POR_5",
+                "ref": "DEC C 000033 2007 01 23 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Topes elevados del último párrafo",
+                "id": "OBSERVADO_POR_6",
+                "ref": "DEC C 000033 2007 01 23 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Topes elevados de los incisos i) y j.1)",
+                "id": "OBSERVADO_POR_7",
+                "ref": "DEC C 000033 2007 01 23 0004 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Topes elevados de los incisos j.1) Y j.2)",
+                "id": "OBSERVADO_POR_8",
+                "ref": "DEC C 000033 2007 01 23 0005 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Incremento del monto de las asignaciones de los incisos a). B) y j)",
+                "id": "OBSERVADO_POR_9",
+                "ref": "DEC C 000033 2007 01 23 0006 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Incremento de las asignaciones de los incisos f). G) y h)",
+                "id": "OBSERVADO_POR_10",
+                "ref": "DEC C 000033 2007 01 23 0007 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 24/01/2007) Incremento de las asignaciones del inciso i)",
+                "id": "OBSERVADO_POR_11",
+                "ref": "DEC C 000033 2007 01 23 0008 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 5/10/2007) Topes máximos del último párrafo elevados",
+                "id": "OBSERVADO_POR_12",
+                "ref": "DEC C 001345 2007 10 04 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 5/10/2007) Tope máximo de haber de los incisos i) y j.1) elevados",
+                "id": "OBSERVADO_POR_13",
+                "ref": "DEC C 001345 2007 10 04 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 5/10/2007) Incisos a), b), i) y j) SUSTITUIDOS",
+                "id": "OBSERVADO_POR_14",
+                "ref": "DEC C 001345 2007 10 04 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 3/03/2008) Incremento de la ayuda escolar anual prevista en el inciso d) en $ 170 .",
+                "id": "OBSERVADO_POR_15",
+                "ref": "DEC C 000337 2008 02 29 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 19/04/2011) INCISO I) INCORPORADO",
+                "id": "OBSERVADO_POR_16",
+                "ref": "DNU C 000446 2011 04 18 0005 000 0000 000"
+              },
+              {
+                "cr": "(SUP.B.O. 4/11/2020) INCISO K) SUSTITUIDO",
+                "id": "OBSERVADO_POR_17",
+                "ref": "DNU C 000840 2020 11 04 0003 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 19,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 19. - Facúltase al PODER EJECUTIVO NACIONAL a establecer la cuantía de las asignaciones familiares establecidas en la presente ley, los topes y rangos remuneratorios que habilitan al cobro de las mismas y los coeficientes zonales o montos diferenciales de acuerdo al desarrollo de la actividad económica, índices de costo de vida o de variación salarial y situación económica social de las distintas zonas.\n\nCréase un Consejo de Administración para el subsistema contributivo integrado por representantes del Estado, de los trabajadores y de los empresarios, con carácter \"ad honorem\", cuyo número de integrantes y funcionamiento determinará la reglamentación. Dicho Consejo tendrá a su cargo fijar las políticas de asignación de los recursos, teniendo en cuenta para ello la variación de los ingresos de dicho régimen.\n\nEl Poder Ejecutivo garantizará un ingreso mínimo de PESOS UN MIL QUINIENTOS MILLONES ($ 1.500.000.000) anuales, destinados al pago de las asignaciones familiares del sub-sistema contributivo a que hace referencia el artículo 1 de la presente ley. Los ingresos que excedan dicho monto no podrán destinarse a otra finalidad que no sea el pago de las prestaciones previstas en la presente ley o su incremento. En ningún caso las prestaciones a abonarse podrán ser inferiores a las establecidas en el artículo 18 de la presente ley.\n\nAnualmente la ley de presupuesto establecerá las partidas necesarias para garantizar el sistema.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "Primer párrafo Sustituido por Decreto de Necesidad y Urgencia (B.O. 01-04-2004)",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 000368 2004 03 31 0005 000 0000 000"
+              }
+            ]
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 18-10-96) frase vetada en el tercer párrafo",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 001165 1996 10 16 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 20,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 20. - Cuando ambos progenitores estén comprendidos en el presente régimen, las prestaciones enumeradas en los artículos 6 y 15 serán percibidas por uno solo de ellos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 21,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 21. - Cuando el trabajador se desempeñare en más de un empleo tendrá derecho a la percepción de las prestaciones de la presente ley en el que acredite mayor antigüedad, a excepción de la asignación por maternidad, que será percibida en cada uno de ellos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 22,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 22. - A los fines de otorgar las asignaciones por hijo, hijo con discapacidad y ayuda escolar anual, serán considerados como hijos los menores o personas con discapacidad cuya guarda, tenencia o tutela haya sido acordada al trabajador por autoridad judicial o administrativa competente. En tales supuestos, los respectivos padres no tendrán, por ese hijo, derecho al cobro de las mencionadas asignaciones.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 23,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 23. - Las Asignaciones Familiares dispuestas en la presente ley son inembargables, no constituyen remuneración ni están sujetas a gravámenes, atento su naturaleza jurídica, tampoco serán tenidas en cuenta para la determinación del sueldo anual complementario, ni para el pago de las indemnizaciones por despido, enfermedad, accidente o para cualquier otro efecto.\n\nNo pueden ser enajenadas ni afectadas a terceros por derecho alguno.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 18/7/2017) ARTICULO SUSTITUIDO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 000516 2017 07 17 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 25/11/2024) TERCER PARRAFO DEROGADO.",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DEC C 001039 2024 11 22 0002 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 24,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 24. - Las asignaciones familiares correspondientes a los trabajadores del sector público y a los beneficiarios de pensiones no contributivas se regirán, en cuanto a las prestaciones monto y topes, por lo establecido en el presente régimen.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 25,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 25.- Derógase la Ley N.18.017 y sus modificatorias, y los Decretos770/96, 771/96,991/96 y toda otra norma que se oponga a la presente.",
+          "deroga-a": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "DEROGA_A_0",
+                "ref": "TOR C 018017 1974 12 04 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_1",
+                "ref": "DNU C 000770 1996 07 15 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_2",
+                "ref": "DEC C 000771 1996 07 15 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_3",
+                "ref": "DEC C 000991 1996 08 29 0000 000 0000 000"
+              }
+            ]
+          },
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 26,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "Artículo Derogado por Decreto de Necesidad y Urgencia. (B.O. 02-11-2001)",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 001382 2001 11 01 0026 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 26.- Comuníquese al Poder Ejecutivo.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Vigencia restituida con excepción de las normas correspondientes a las prestaciones de asignación por hijo, asignación por hijo discapacitado, asignación por maternidad, ayuda escolar primaria y la asignación por cónyuge correspondiente a los beneficiarios del SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES, a las que refiere el tercer párrafo del artículo 26 del Decreto N. 1382/01. (B.O. 06-12-2001)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 001604 2001 12 05 0001 000 0000 000"
+            }
+          }
+        }
+      ],
+      "firmantes": {
+        "firmantes": "PIERRI-RUCKAUF-Estrada-Piuzzi"
+      },
+      "id-infojus": "LNS0004138",
+      "fecha-umod": 20250310152415
+    }
+  }
+}

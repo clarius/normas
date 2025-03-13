@@ -1,0 +1,676 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-036-0000-4991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1505308099352,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "630-nacional-regimen-laboral-para-personal-embarcado-dn19940000630-1994-04-28"
+      }
+    },
+    "content": {
+      "mecanografico": 19940000630,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 630,
+      "timestamp": "2017-09-13T09:19:09",
+      "timestamp-m": "2017-09-13T09:19:09",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1994-04-28",
+      "standard-normativo": "DEC C 000630 1994 04 28",
+      "titulo-norma": "REGIMEN LABORAL PARA EL PERSONAL EMBARCADO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 05 03"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 630/1994",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2017-09-13",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE APRUEBA EL REGIMEN LABORAL PARA EL PERSONAL EMBARCADO.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A REGIMEN LABORAL",
+            "B CONTRATO DE AJUSTE",
+            "C NIVELES Y CARGOS",
+            "D REMUNERACIONES",
+            "E REGIMEN DE VIATICOS"
+          ]
+        },
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "personal embarcado"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores portuarios y marítimos/trabajadores marítimos/personal embarcado"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "gente de mar",
+                "personal de la navegación",
+                "trabajadores fluviales",
+                "trabajo marítimo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "contrato laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de ajuste"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores portuarios y marítimos/trabajadores marítimos/contrato de ajuste"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "gente de mar",
+                "personal de la navegación",
+                "trabajadores fluviales",
+                "trabajo marítimo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "adicionales de remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración/remuneraciones accesorias/adicionales de remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "estímulos",
+                "plus",
+                "incentivos",
+                "salario",
+                "bonificaciones",
+                "sueldo",
+                "suplemento salarial",
+                "retribución",
+                "suplementos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Instituto Nacional de Investigación y Desarrollo Pesquero"
+            },
+            "preferido": {
+              "termino": "Instituto Nacional de Investigación y Desarrollo Pesquero"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "viáticos"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración/remuneraciones accesorias/viáticos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "prestación de pensión por fallecimiento",
+                "pensión por fallecimiento",
+                "derecho de pensión",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "contrato de ajuste",
+            "suplemento salarial (adicionales de remuneración)",
+            "estímulos (adicionales de remuneración)",
+            "plus (adicionales de remuneración)",
+            "haber previsional (beneficios previsionales)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "derecho de pensión (pensiones)",
+            "trabajadores portuarios y marítimos",
+            "previsión social (sistema previsional)",
+            "contrato laboral (contrato de trabajo)",
+            "prestación de pensión por fallecimiento (pensiones)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "actividades laborales",
+            "personal embarcado",
+            "derechos previsionales (beneficios previsionales)",
+            "trabajadores fluviales (trabajadores marítimos)",
+            "sistema previsional",
+            "jubilaciones",
+            "salario (remuneración)",
+            "personal de la navegación (trabajadores portuarios y marítimos)",
+            "Instituto Nacional de Investigación y Desarrollo Pesquero",
+            "remuneración",
+            "adicionales de remuneración",
+            "gente de mar (trabajadores marítimos)",
+            "trabajo marítimo (trabajadores marítimos)",
+            "trabajadores marítimos",
+            "Seguridad social",
+            "incentivos (adicionales de remuneración)",
+            "contrato de trabajo",
+            "derecho del trabajo (Derecho laboral)",
+            "pensiones",
+            "suplementos (adicionales de remuneración)",
+            "bonificaciones (adicionales de remuneración)",
+            "Derecho laboral",
+            "sueldo (remuneración)",
+            "retribución (remuneración)",
+            "pensión por fallecimiento (pensiones)",
+            "beneficios previsionales",
+            "remuneraciones accesorias",
+            "viáticos"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "el expediente N. 507/93 del registro del INSTITUTO NACIONAL  DE INVESTIGACION Y DESARROLLO PESQUERO, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000278 1983 02 07 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "CCO C 002637 1889 10 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 023697 1989 09 01 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  el  Decreto  N.278,  del  7 de febrero de 1983, aprobó el régimen  específico para el personal embarcado  en  los  buques  de Investigación  Pesquera  del  INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO  PESQUERO,  por medio  del  cual  se  exceptuó  a  dicho personal del Régimen Jurídico  Básico  de  la  Función Pública.\n\nQue  el  citado  decreto dispuso que el mencionado  personal  esté regido por las disposiciones  contenidas en el LIBRO III del Código de Comercio de la Nación y sus modificaciones y las particularidades contenidas en  el  Contrato  de  Ajuste  anexo  al mismo,  facultando al referido Instituto a aplicar a dicho personal las remuneraciones  que  rigen  para  sus  similares de YACIMIENTOS PETROLIFEROS FISCALES SOCIEDAD DEL ESTADO.\n\nQue  la  experiencia recogida por el citado Instituto  durante  la vigencia de  la  normativa legal mencionada aconseja su derogación, permitiendo incentivar  la  retribución  durante  los  períodos  de navegación  y  su retracción durante el tiempo en que los buques se encuentren  amarrados    en   puerto,  o  en  oportunidad  que  los correspondientes tripulantes estén  en  situación  de desembarcados\n\nQue  lo expuesto posibilitará el pago directo de haberes  mediante una política  salarial  propia del referido Instituto, evitando así las demoras en las liquidaciones,  acciones  y conflictos laborales que  puedan  suscitarse  en  el  ámbito  del  mismo por  estar  los aludidos sueldos referidos a los de otro organismo en contraposición  al  espíritu  y  lo normado por la  Ley  23.697  de Emergencia Económica.\n\nQue la COMISION TECNICA ASESORA DE  POLITICA  SALARIAL  DEL SECTOR PUBLICO ha tomado la intervención que le compete.\n\nQue  esta  medida  se  dicta en uso de las atribuciones conferidas por  el  artículo  86  inciso   1)  de  la  CONSTITUCION  NACIONAL."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art. 1: Apruébase el Régimen Laboral para el personal embarcado del  INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO, que figura  en  el  Anexo  I  que  forma  parte integrante del presente decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2  :  Apruébase para el personal embarcado del INSTITUTO NACIONAL DE INVESTIGACION  Y  DESARROLLO  PESQUERO,  el Contrato de Ajuste,  Niveles  y  Cargos, Remuneraciones y Régimen de  Viáticos, que figuran en los Anexos  A, B, C y D, que forman parte integrante del presente decreto."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3 : Derógase el Decreto N. 278 del 7 de febrero de 1983.",
+          "deroga-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "DEROGA_A_0",
+              "ref": "DEC C 000278 1983 02 07 0000 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 018753 1970 08 14 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art.  4 : La COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTR PUBLICO  será  el  Organismo  con facultades para interpretar las normas del presente decreto, en lo  que  resulta  materia de su competencia  específica,  de acuerdo con las prescripciones  de  la Ley N. 18.753."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5 : El gasto que demande la implementación de esta medida será atendido  con los créditos asignados en el Presupuesto General de la Administración  Nacional  vigentes para el INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6 : Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - CAVALLO."
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO  I.  REGIMEN LABORAL PARA EL PERSONAL EMBARCADO DEL INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO",
+          "segmento": {
+            "titulo-particion": "ANEXO I REGIMEN LABORAL",
+            "segmento": [
+              {
+                "titulo-particion": "CAPITULO I . NORMAS GENERALES.",
+                "articulo": [
+                  {
+                    "numero-articulo": 1,
+                    "texto": "ARTICULO  1  :  El presente régimen será de aplicación para el personal que cumple tareas  en  calidad de tripulante de los buques o  artefactos navales del INSTITUTO  NACIONAL  DE  INVESTIGACION  Y DESARROLLO  PESQUERO  dedicados  a  la  investigación pesquera.\n\nEl mismo es de aplicación para todo tipo  de  navegación,  en  las condiciones establecidas precedentemente."
+                  },
+                  {
+                    "numero-articulo": 2,
+                    "texto": "ARTICULO  2  :  Ingreso: El ingreso del personal tripulante se hará previa acreditación  de las siguientes condiciones en la forma que determine la reglamentación:\n\na) Idoneidad para la función  o  cargo  mediante  los regímenes de selección que se establezcan.\n\nb) Condiciones morales y de conducta.\n\nc) Aptitud psico-física para la función o cargo.\n\nd) Ser argentino, debiendo los naturalizados tener  más  de CUATRO (4)   años  de  ejercicio  de  la  ciudadanía.  Las  excepciones  a cualquiera  de  estos DOS (2) requisitos deberán ser dispuestas por el PODER EJECUTIVO NACIONAL en cada caso."
+                  },
+                  {
+                    "referencias-normativas": {
+                      "referencia-normativa": [
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "CON C 000000 1853 05 01 0000 000 0000 000"
+                        },
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_1",
+                          "ref": "DLE C 023354 1956 12 31 0000 000 0000 000"
+                        }
+                      ]
+                    },
+                    "numero-articulo": 3,
+                    "texto": "ARTICULO 3 : Sin perjuicio de lo establecido en el artículo 2, no podrá ingresar:\n\na) El  que  haya  sido  condenado  por  delito  doloso.  El  PODER EJECUTIVO  NACIONAL podrá autorizar su ingreso, si en virtud de  la naturaleza de  los  hechos, las circunstancias en que se cometieron o  por  el  tiempo transcurrido,  juzgase  que  ello  no  obsta  al requisito exigido en el artículo 2 de este régimen.\n\nb) El condenado  por  delito  cometido en perjuicio de o contra la Administración  Pública  Nacional,    Provincial  o  Municipal.\n\nc) El fallido o el concursado civilmente,  hasta  que  obtenga  su rehabilitación.\n\nd)  El  que  tenga  proceso  penal pendiente que pueda dar lugar a condena por alguno de los delitos  enunciados  en  los incisos a) y b) del presente.\n\ne)  El  inhabilitado  para  el  ejercicio  de cargos públicos.\n\nf)   El  sancionado  con  exoneración  en  el  ámbito    Nacional, Provincial   o  Municipal,  mientras  no  sea  rehabilitado,  y  el sancionado  con    cesantía   conforme  con  lo  que  determine  la reglamentación en el ámbito de  la  Administración Pública Nacional\n\ng) El que integre o haya integrado en  el país o en el extranjero, grupos  o  entidades que por su doctrina o  acción  aboguen,  hagan pública exteriorización  o  lleven  a la práctica, el empleo ilegal de la fuerza o la negación de los principios,  derechos y garantías establecidas  por  la  CONSTITUCION  NACIONAL, y en  general  quien realice o haya realizado actividades de  tal naturaleza, en el país o en el extranjero.\n\nh)  El que se encuentre en infracción a las  leyes  electorales  o del servicio militar.\n\ni) El  deudor  moroso  del  Fisco  en  los  términos  de la Ley de Contabilidad  y  Administración  Financiera  y  de los Sistemas  de Control del Sector Público, mientras se encuentre  en esa situación\n\nj)  El que tenga más de SESENTA (60) años de edad, salvo  aquellas personas  de  reconocida  aptitud, quienes sólo podrán incorporarse como personal relevante."
+                  },
+                  {
+                    "numero-articulo": 4,
+                    "texto": "ARTICULO  4  :  El  personal tiene los siguientes deberes:\n\na)  Prestar  personal  y  eficientemente    el   servicio  en  las condiciones de tiempo, forma, lugar y modalidad que  determinen las normas emanadas de autoridad competente.\n\nSin  perjuicio  de  lo  que determinen otras normas los siguientes son deberes emergentes del párrafo precedente:\n\nI- Someterse a las pruebas  de  competencia que se determinen.\n\nII-  Velar por la conservación de  los  útiles,  objetos  y  demás bienes  que  integran  el  patrimonio del Estado y los de terceros, que se pongan bajo su custodia,  haciendo  entrega de los mismos en la oportunidad pertinente.\n\nIII  -Llevar  consigo  en  el  caso  de haberle sido  provista  la credencial que acredite su condición de  agente,  y  devolverla  al cesar en sus funciones.\n\nIV-  Usar  la  indumentaria  de trabajo que al efecto le haya sido suministrada o la que en cada caso se establezca.\n\nV-  Acreditar  el  cumplimiento  de  sus  obligaciones  cívicas  y militares.\n\nVI-  Declarar la nómina de familiares  a  su  cargo  y  comunicar, dentro  del  plazo  de TREINTA (30) días de producido, el cambio de estado  civil o variantes  de  carácter  familiar,  acompañando  la documentación correspondiente.\n\nVII-  Mantener    permanentemente    actualizada   la  información referente al domicilio.\n\nb)  Observar en el servicio y fuera de él, una conducta  correcta, digna    y   decorosa,  acorde  con  su  jerarquía  y  función.\n\nc)  Obedecer    toda  orden  emanada  de  un  superior  jerárquico competente para darla,  que reúna las formalidades del caso y tenga por objeto la realización  de  actos de servicio que correspondan a la función del agente.\n\nd) Guardar la discreción correspondiente,  con  respecto  a  todos los  hechos e informaciones de los cuales tenga conocimiento en  el ejercicio o con motivo del ejercicio de sus funciones, independientemente    de   lo  que  establezcan  las  disposiciones vigentes en materia de secreto  o  reserva  administrativa, excepto cuando  sea  liberado  de  esa  obligación  por  el   Director  del INSTITUTO  NACIONAL  DE  INVESTIGACION  Y  DESARROLLO PESQUERO.\n\ne)  Promover  las  acciones  judiciales  que  correspondan  cuando públicamente fuera objeto de imputación delictiva,  pudiendo contar al  efecto  con  el  patrocinio gratuito del servicio jurídico  del organismo respectivo.  Podrá ser eximido de dicha obligación por el Director  del  INSTITUTO NACIONAL  DE  INVESTIGACION  Y  DESARROLLO PESQUERO.\n\nf) Declarar bajo juramento su situación patrimonial y modificaciones ulteriores,  con  los  alcances  que  determinen las normas  de  la  Administración  Pública  Nacional,  Provincial    o Municipal pertinentes.\n\ng)    Llevar  a  conocimiento  de  la  superioridad  todo  acto  o procedimiento  que  pudiere causar perjuicio al Estado o configurar delito.\n\nh) Concurrir a la citación  por  la instrucción de un sumario.\n\nSólo  tendrá  obligación  de prestar  declaración  en  calidad  de testigo,  pudiendo  negarse  a    ello  cuando  sea  inculpado.\n\ni) El personal deberá someterse a  examen  psico-físico  en  forma periódica,  con  la  frecuencia que determinen las reglamentaciones vigentes.\n\nSin perjuicio de ello  deberá someterse a revisación médica cuando lo dispusiere el Director  del  INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO.\n\nj) Excusarse de intervenir en todo  aquello  en  que  su actuación pueda    originar    interpretaciones  de  parcialidad  o  concurra violencia moral.\n\nk)  Encuadrarse  en las  disposiciones  legales  y  reglamentarias sobre incompatibilidad  y  acumulación de cargos, debiendo proceder a declarar bajo juramento, los  cargos  oficiales,  su condición de jubilado  o  retirado  y las actividades privadas que desempeñe,  a efectos  de  determinar  si  está  comprendido  en  el  régimen  de acumulación de cargos."
+                  },
+                  {
+                    "numero-articulo": 5,
+                    "texto": "ARTICULO  5  :  El  personal  queda  sujeto  a  las siguientes prohibiciones:\n\na)  Efectuar  o  patrocinar  para  terceros,  trámites o gestiones administrativas, se encuentren o no directamente  a su cargo, hasta UN (1) año después de su egreso.\n\nb)  Dirigir,  administrar,  asesorar,  patrocinar,  representar  o prestar  servicios  remunerados  o  no,  a  personas  de existencia visible  o  jurídica,  que  gestionen  o  exploten  concesiones   o privilegios  de  la Administración en el orden Nacional, Provincial o Municipal, o que  fueran proveedores o contratistas de las mismas\n\nc)  Recibir  directa o  indirectamente  beneficios  originados  en contratos, concesiones  o  franquicias  que  celebre  u  otorgue la Administración  en  el  orden Nacional, Provincial o Municipal.\n\nd)  Mantener  vinculaciones    que  le  signifiquen  beneficios  u obligaciones  con  entidades  directamente    fiscalizadas  por  el Ministerio, dependencia o entidad en la que se  encuentra prestando servicios.\n\ne)  Realizar  con  motivo  o  en  ocasión  del  ejercicio  de  sus funciones, propaganda, proselitismo, coacción ideológica  o de otra naturaleza,  cualquiera  fuese  el  ámbito  donde  se  realicen las mismas. La prohibición de este punto no obsta al ejercicio  regular de  la  acción  política  que  el  agente  efectúe de acuerdo a sus convicciones. f) Recibir dádivas, obsequios  u  otras  ventajas con motivo u ocasión del desempeño de sus funciones.\n\ng) Realizar gestiones por conducto de personas extrañas  a las que jerárquicamente   corresponda,  en  todo  lo  relacionado  con  los derechos y obligaciones del personal embarcado.\n\nh) Organizar o propiciar  directa o indirectamente, suscripciones, adhesiones  o contribuciones  del  personal  de  la  Administración Pública Nacional,  Provincial  o Municipal con propósitos políticos de  homenaje  o  de  reverencia  a funcionarios  en  actividad.\n\ni) Utilizar, con fines particulares,  los  elementos de transporte y útiles de trabajo destinados al servicio oficial  y los servicios de personal a sus órdenes.\n\nj) Valerse de informaciones relacionadas con el servicio,  de  las que  tenga  conocimiento  en  forma  directa  o indirectamente para fines ajenos al mismo.\n\nk)  Realizar  peticiones  de  cualquier  naturaleza    en    forma colectiva.\n\nl) Efectuar entre el personal operaciones de crédito."
+                  },
+                  {
+                    "referencias-normativas": {
+                      "referencia-normativa": [
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 022140 1980 01 18 0000 000 0000 000"
+                        },
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_1",
+                          "ref": "CCO C 002637 1889 10 05 0000 000 0000 000"
+                        }
+                      ]
+                    },
+                    "numero-articulo": 6,
+                    "texto": "ARTICULO  6  : El personal embarcado del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO  PESQUERO  queda  exceptuado del Régimen Jurídico Básico de la Función Pública aprobado  por  la Ley 22.140.\n\nAl mismo le serán de aplicación las disposiciones contenidas  en el Libro  III  del  Código  de  Comercio  y  sus modificaciones, y las particulares que se establecen en el presente,  y en el contrato de ajuste que figura en el Anexo A, el cual forma parte  integrante de este cuerpo normativo."
+                  },
+                  {
+                    "numero-articulo": 7,
+                    "texto": "ARTICULO 7 : Personal comprendido:\n\n##a) a) Capitan b) Jefe de Maquinas c) Primer Oficial de Cubierta d) Primer Oficial de Maquinas e) Patron Fluvial f) Segundo Oficial de Cubierta g) Segundo Oficial de Maquinas h) Tercer Oficial de Maquinas i) Contramaestre o Primer Pescador j) Electricista k) Mecanico Motorista l) Cocinero m) Enfermero n) Segundo Pescador o) Cabo Engrasador p) Marinero q) Engrasador r) Mozo s)  Ayudante  de Cocina"
+                  },
+                  {
+                    "numero-articulo": 8,
+                    "texto": "ARTICULO  8  :  Las  dotaciones de los buques de investigación pesquera  del  INSTITUTO NACIONAL  DE  INVESTIGACION  Y  DESARROLLO PESQUERO, serán  fijadas  por  el  Director del mismo, conforme las necesidades  de  las  pertinentes  campañas,   de  acuerdo  con  la seguridad de la navegación y las normas vigentes  al  respecto.\n\nDebiendo    dicho   organismo  comunicar  a  la  PREFECTURA  NAVAL ARGENTINA la composición  específica  de la respectiva dotación, en oportunidad de la realización de cada campaña.  Los  cargos  de los distintos  empleos  de  las  unidades  del  INSTITUTO  NACIONAL  DE INVESTIGACION  Y  DESARROLLO  PESQUERO a que se refiere el presente artículo, serán cubiertos por el  Director  del  mismo, teniendo en cuenta  las  necesidades  de  cada  campaña  y  la  idoneidad   del personal,  sin las limitaciones establecidas en el Máximo de cargos del REGLAMENTO  DE  FORMACION  Y  CAPACITACION  DEL  PERSONAL DE LA MARINA MERCANTE."
+                  },
+                  {
+                    "numero-articulo": 9,
+                    "texto": "ARTICULO 9 : Cuando necesidades del servicio así lo justifiquen,  el  INSTITUTO  NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO  podrá enrolar a cualquier  tripulante  en  otro  u  otros buques  de  su  flota,  o  de  la  flota  de  otros  organismos  de investigaciones  estatales  de  la REPUBLICA ARGENTINA, manteniendo las condiciones de trabajo y remuneraciones  de revista efectiva de su propio escalafón."
+                  },
+                  {
+                    "numero-articulo": 10,
+                    "texto": "ARTICULO  10  :  El  personal podrá ser intimado a iniciar los trámites jubilatorios cuando  reúna  los  requisitos  exigidos para obtener el porcentaje máximo del haber de la jubilación  ordinaria.\n\nLa  intimación  a  iniciar  los  trámites  jubilatorios  deberá ser efectuada  por  el Director del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO.  El  personal que fuere intimado a jubilarse y el que solicitare voluntariamente  su  jubilación o retiro, podrá continuar  en  la  prestación  de sus servicios  hasta  que  se  le acuerde el respectivo beneficio,  por un lapso no mayor de SEIS (6) meses, a cuyo término el agente será dado de baja.\n\nEl plazo comenzará a contarse:\n\na)  Mediando  intimación,  a  partir  de    la   notificación.\n\nb)  A solicitud del agente, desde el momento en que  comunique  al organismo    la  iniciación  del  trámite  previsional,  por  medio fehaciente. No  se  dará  carácter de comunicación al simple pedido de certificación de servicios."
+                  },
+                  {
+                    "numero-articulo": 11,
+                    "texto": "ARTICULO 11 : La liquidación y pago para los tripulantes dados de baja,  se  efectuará conjuntamente con la del resto del personal del INSTITUTO NACIONAL  DE  INVESTIGACION Y DESARROLLO PESQUERO, en el período mensual correspondiente."
+                  },
+                  {
+                    "numero-articulo": 12,
+                    "texto": "ARTICULO  12 : El Salario integral del personal está compuesto por los rubros que a continuación se detallan:\n\n##a) a) Sueldo Basico b) Suplemento por Antiguedad c) Suplemento por Zona Austral d) Reintegro por Falta de Cocina a Bordo e) Suplemento por  Campa\\a"
+                  },
+                  {
+                    "numero-articulo": 13,
+                    "texto": "ARTICULO  13 : En situación \"a órdenes\", períodos de licencias especiales,  o cuando  el  pertinente  buque  se  encuentre  en  el régimen  de  trabajo    en  puerto,  el  salario  integral  de  los tripulantes,  estará  integrado   por  los  siguientes  rubros:\n\na) Sueldo Básico\n\nb) Suplemento por Antiguedad"
+                  },
+                  {
+                    "numero-articulo": 14,
+                    "texto": "ARTICULO  14  :  En  períodos de vacaciones anuales el salario integral de los tripulantes  estará  conformado  por el promedio de los  salarios  del  período  al  cual  las vacaciones se  refieren."
+                  },
+                  {
+                    "numero-articulo": 15,
+                    "texto": "ARTICULO 15 : El Suplemento por Antiguedad consistirá en el UNO POR  CIENTO  (1  %)  del  sueldo básico, por cada año de antig edad efectiva en el INSTITUTO NACIONAL  DE  INVESTIGACION  Y  DESARROLLO PESQUERO, hasta un máximo de VEINTICINCO (25) años.\n\nA  partir  del 1 de enero de cada año, el personal comprendido  en este convenio  percibirá este suplemento por cada año de servicio o fracción mayor de  SEIS  (6)  meses que registre al 31 de diciembre inmediato anterior.\n\nEn el caso que un tripulante sea  suspendido  preventivamente  por sumario  administrativo  o causa judicial, no perderá el derecho al beneficio  del  presente  artículo   cuando  haya  sido  sobreseído definitivamente o absuelto de culpa y cargo."
+                  },
+                  {
+                    "numero-articulo": 16,
+                    "texto": "ARTICULO  16  : Se otorgará un Reintegro por Falta de Cocina a Bordo exclusivamente cuando se carezca de dichos servicios. El reintegro será de PESOS TRESCIENTOS NOVENTA Y NUEVE ($ 399,00.), por cada día en la situación preindicada y se concederá en forma restrictiva y solamente en caso de fuerza mayor. Dicha suma estará sujeta a los incrementos salariales acordados en la Comisión Negociadora del Convenio Colectivo de Trabajo General para la Administración Pública Nacional homologado por el Decreto Nº 214 de fecha 27 de febrero de 2006 y sus modificatorios.",
+                    "modificado-por": {
+                      "referencia-normativa": {
+                        "cr": "(B.O. 11/9/2017) ARTICULO SUSTITUIDO",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DEC C 000702 2017 09 07 0003 000 0000 000"
+                      }
+                    }
+                  },
+                  {
+                    "numero-articulo": 17,
+                    "texto": "ARTICULO  17  :  Cuando  el  personal  haga uso de los Francos Compensatorios a que es acreedor, se le liquidará al correspondiente  tripulante,  el  sueldo  integral   del  cargo  de revista  efectivo  (en  el  cual serán incluidos el Suplemento  por Zona Austral y/o Reintegro por  alta  de Cocina a Bordo, en el caso que efectivamente se hubieren liquidado)  y  conforme al sueldo del personal  en navegación que estuviera vigente a  la  fecha  en  que haga uso de  los  mismos,  en  forma  proporcional  a  los días que estuvo en tal situación."
+                  },
+                  {
+                    "numero-articulo": 18,
+                    "texto": "ARTICULO  18  : El Suplemento por Zona Austral corresponderá a todos los tripulantes  que  desarrollan tareas en buques que operen al Sur del paralelo CINCUENTA  GRADOS  (50  )  Sur consistirá en el VEINTI  CINCO  POR  CIENTO  (25  %)  del  sueldo  básico   de  cada tripulante  en  esa  situación.  Este Suplemento será liquidado  en forma proporcional, a partir de la  fecha  de  ingreso  al  Sur  de dicho  paralelo  y  hasta el día de abandono de la mencionada zona."
+                  },
+                  {
+                    "numero-articulo": 19,
+                    "texto": "ARTICULO  19  :  El  Suplemento por Campaña será percibido por todos los tripulantes, el cual  consistirá en el SESENTA POR CIENTO (60 %) de sus respectivos sueldos  básicos,  siempre  y  cuando  se hallen  en  navegación  y  en  forma proporcional a los días que el tripulante  efectivamente  navegue.    En   caso  de  fracción,  se considerará el d á completo.\n\nEl Suplemento por Campaña incluye las remuneraciones correspondientes  a la extensión de horario de  trabajo,  guardias, diferencias de despacho,  tripulación  faltante y demás modalidades operativas  del  presente  régimen  que  no tengan  un  tratamiento especial en el mismo.\n\nTodos los tripulantes extenderán su horario  de labor conforme las necesidades del servicio y a requerimiento del  INSTITUTO  NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO."
+                  },
+                  {
+                    "numero-articulo": 20,
+                    "texto": "ARTICULO  20  :  En  situación  \"a  órdenes\",  el  tripulante respectivo  no  genera  derecho  a  Francos  Compensatorios, ni los consume."
+                  },
+                  {
+                    "numero-articulo": 21,
+                    "texto": "ARTICULO  21 : Se establecen para el personal a que se refiere este régimen, los  niveles  y  cargos  fijados  en  el ANEXO B, que igualmente forma parte del presente."
+                  },
+                  {
+                    "numero-articulo": 22,
+                    "texto": "ARTICULO  22  :  El  INSTITUTO  NACIONAL  DE  INVESTIGACION  Y DESARROLLO  PESQUERO  esta facultado a abonar a dicho personal, las remuneraciones conforme  al  detalle  que figura en el ANEXO C, que forma parte del presente, y en el cual  se  indica el sueldo básico del personal, como así también los suplementos  y reintegros que se detallan en el presente régimen cuando así corresponda."
+                  },
+                  {
+                    "numero-articulo": 23,
+                    "texto": "ARTICULO 23 : El Director del INSTITUTO NACIONAL DE INVESTIGACION    Y    DESARROLLO  PESQUERO  esta  facultado  a:\n\na) Suscribir los contratos  de  ajuste  de  todo el personal a que alude  el  presente régimen determinando las dotaciones  necesarias para las campañas correspondientes.\n\nb) Suscribir los contratos de ajuste por tiempo determinado, que resulten necesarios para completar la dotación de los buques de investigación, cuando por cualquier circunstancia se deba recurrir a personal de relevo. A tal efecto se dictarán las normas reglamentarias que resulten necesarias a través de la Autoridad competente del MINISTERIO DE MODERNIZACIÓN.\n\nc)  Liquidar  anualmente,  hasta  CINCUENTA  (50)  días de Francos Compensatorios    acumulados   por  el  personal,  si  por  razones operativas no pudieren ser usufructuadas en el año.\n\nd) Dictar las normas reglamentarias que contemplen las particularidades  propias  de  esa  actividad  en  lo  referente  a regímenes  especiales  de  labor,  horarios,  guardias,  comidas  y provisión de ropas.",
+                    "modificado-por": {
+                      "referencia-normativa": {
+                        "cr": "(B.O. 11/9/2017) INCISO B) SUSTITUIDO",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DEC C 000702 2017 09 07 0004 000 0000 000"
+                      }
+                    }
+                  },
+                  {
+                    "referencias-normativas": {
+                      "referencia-normativa": {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "TOR C 020744 1976 05 13 0000 000 0000 000"
+                      }
+                    },
+                    "numero-articulo": 24,
+                    "texto": "ARTICULO 24 : El personal sujeto al presente régimen tendrá las Licencias  establecidas  en  la  Ley  de  Contrato  de Trabajo.\n\nDicha Ley también regirá los aspectos inherentes a la estabilidad."
+                  },
+                  {
+                    "numero-articulo": 25,
+                    "texto": "ARTICULO  25  :  En  los  casos que al personal le corresponda asignar viáticos se le aplicará el Régimen de Viáticos establecidos  en el ANEXO D, el cual  forma  parte  integrante  del presente."
+                  },
+                  {
+                    "numero-articulo": 26,
+                    "texto": "ARTICULO  26  :  A  dichos  tripulantes  se  les  proveerá  la correspondiente  ropa  de trabajo, conforme a la reglamentación que al efecto establezca el Director del mismo."
+                  },
+                  {
+                    "numero-articulo": 27,
+                    "texto": "ARTICULO  27  :  El  referido personal tendrá la cobertura que brinda el Seguro Colectivo de Vida Obligatorio."
+                  },
+                  {
+                    "numero-articulo": 28,
+                    "texto": "ARTICULO  28  :  En  los  casos  de  accidentes  de  trabajo y enfermedad  profesional  será  de aplicación la legislación vigente en la materia."
+                  },
+                  {
+                    "numero-articulo": 29,
+                    "texto": "ARTICULO  29  : El Sueldo Anual Complementario se le abonará a los  tripulantes  en  la  forma  y  condiciones  que  establece  la legislación pertinente."
+                  },
+                  {
+                    "numero-articulo": 30,
+                    "texto": "ARTICULO  30  :  El  INSTITUTO  NACIONAL  DE  INVESTIGACION  Y DESARROLLO   PESQUERO  pondrá  a  disposición  del  tripulante  los servicios sociales  y asistenciales que presta por intermedio de su Obra Social con sujeción  a las normas reglamentarias fijadas o que fije dicho Servicio sobre el  particular.  El respectivo tripulante podrá  hacer  renuncia  expresa  por  escrito  de    los  referidos servicios para acogerse a los prestados por intermedio  del  gremio al    que   eventualmente  est  áfiliado.  Este  artículo  será  de aplicación en  el  caso  que  las  disposiciones pertinentes así lo establezcan."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "CAPITULO II- SITUACION EN NAVEGACION",
+                "articulo": [
+                  {
+                    "numero-articulo": 31,
+                    "texto": "ARTICULO  31 : Estando el buque en navegación la jornada legal de trabajo será  de  OCHO  (8) horas diarias. El horario de trabajo podrá  ser  modificado  por  el  Comando  del  mismo,  conforme  al programa de investigación a realizar."
+                  },
+                  {
+                    "numero-articulo": 32,
+                    "texto": "ARTICULO  32  : Los Oficiales de Cubierta y Máquinas cumplirán guardias de acuerdo  con  los siguientes horarios: CUATRO (4) horas de guardia por OCHO (8) horas  de  descanso. Las guardias del resto del personal serán determinadas por  el Comando del Buque, conforme al programa de investigación a realizar."
+                  },
+                  {
+                    "referencias-normativas": {
+                      "referencia-normativa": {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 020094 1973 01 15 0000 000 0000 000"
+                      }
+                    },
+                    "numero-articulo": 33,
+                    "texto": "ARTICULO 33 : En los casos de asistencia, salvamento y remolque será de aplicación la Ley de Navegación y normas que la complementen o la modifiquen."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "CAPITULO III - REGIMEN DE TRABAJO EN PUERTO",
+                "articulo": [
+                  {
+                    "numero-articulo": 34,
+                    "texto": "ARTICULO  34  :  Cuando  el  buque se encuentre en puerto, los tripulantes, objeto del presente, serán  enrolados en el régimen de trabajo en puerto, y mantendrán su situación  de  revista  y  nivel escalafonario,  ajustándose  a  los esquemas laborales establecidos por el INSTITUTO NACIONAL DE INVESTIGACION  Y  DESARROLLO PESQUERO, con  el  objeto de realizar tareas de mantenimiento,  reparación  y todas aquellas  que  hagan  a  la  conservación  y  alistamiento en general  de  los  buques  y todos los equipos a ellos incorporados."
+                  },
+                  {
+                    "numero-articulo": 35,
+                    "texto": "ARTICULO  35  :  Durante la situación descripta en el artículo precedente se respetará  la jornada legal de OCHO (8) horas diarias de labor de lunes a viernes,  y  CUATRO  (4) horas los días sábados es decir CUARENTA Y CUATRO (44) horas semanales  de  labor  con los correspondientes  descansos  en días sábados por la tarde, domingos y feriados nacionales."
+                  },
+                  {
+                    "numero-articulo": 36,
+                    "texto": "ARTICULO  36  :  Por  razones de servicio, estando el buque en puerto,  el  INSTITUTO  NACIONAL   DE  INVESTIGACION  Y  DESARROLLO PESQUERO  determinará  los  cambios  de    horario  para  el  mejor cumplimiento de la operación de las unidades,  de  acuerdo  con  la época  del  año  y posición geográfica del puerto del que se trate."
+                  },
+                  {
+                    "numero-articulo": 37,
+                    "texto": "ARTICULO  37  :  Cuando  fuera necesario todos los tripulantes deberán  cumplir  las  siguientes  guardias:  DOCE  (12)  horas  de trabajo por VEINTICUATRO  (24)  horas  de  descanso. Igual decisión podrá ser adoptada cuando el buque estuviera  fuera del lugar de su asiento."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "CAPITULO IV - REGIMEN DE DESCANSOS COMPENSATORIOS",
+                "articulo": [
+                  {
+                    "numero-articulo": 38,
+                    "texto": "ARTICULO  38  :  Los tripulantes gozarán por cada día de navegación, de CINCUENTA Y DOS CENTÉSIMOS (0,52) de días de descanso. Para que UN (1) día de descanso compensatorio pueda computarse como tal, debe ser usufructuado de CERO (0) a VEINTICUATRO (24) horas.",
+                    "modificado-por": {
+                      "referencia-normativa": {
+                        "cr": "(B.O. 11/9/2017) ARTICULO SUSTITUIDO",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DEC C 000702 2017 09 07 0005 000 0000 000"
+                      }
+                    }
+                  },
+                  {
+                    "numero-articulo": 39,
+                    "texto": "ARTICULO  39  :  Los descansos compensatorios se usufructuarán exclusivamente en el puerto de asiento del buque."
+                  },
+                  {
+                    "numero-articulo": 40,
+                    "texto": "ARTICULO  40  :  El  INSTITUTO  NACIONAL  DE  INVESTIGACION  Y DESARROLLO  PESQUERO  podrá  conceder  los descansos compensatorios desde un puerto que no sea el de asiento,  en  cuyo caso los gastos de traslado y alimentación del viaje de ida y/o  vuelta,  serán por cuenta  del  mismo;  no  computándose los días de viaje dentro  del período de descanso."
+                  },
+                  {
+                    "numero-articulo": 41,
+                    "texto": "ARTICULO  41 : Los tripulantes no podrán usufructuar descansos compensatorios durante su período de enrolamiento."
+                  },
+                  {
+                    "numero-articulo": 42,
+                    "texto": "ARTICULO  42  :  En  el  caso que del cómputo de los descansos compensatorios  resultare  una fracción  de  día,  se  procederá  a redondear la cantidad resultante  a  la  unidad inmediata superior."
+                  },
+                  {
+                    "numero-articulo": 43,
+                    "texto": "ARTICULO  43  :  El  accidente  o  enfermedad  inculpable  del trabajador, interrumpe el usufructo de los descansos compensatorios,  para  dar  lugar  a  la  licencia  por accidente o enfermedad.  Terminada  ésta, el tripulante continuará  gozando  de los descansos compensatorios."
+                  },
+                  {
+                    "numero-articulo": 44,
+                    "texto": "ARTICULO  44  :  Los  descansos  compensatorios  sólo  podrán convertirse  en el pago de una suma de dinero, cuando el tripulante se desvincule  del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO, o cuando  éste,  con  la  anuencia  del interesado así lo acuerde en circunstancias excepcionales. Su liquidación  y  pago se hará  conforme  a  lo  establecido  en  el artículo 11 del presente régimen."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "CAPITULO V - RELACIONES GREMIALES",
+                "articulo": [
+                  {
+                    "numero-articulo": 45,
+                    "texto": "ARTICULO 45 : Créase una COMISION DE CONCILIACION integrada por TRES  (3)  miembros  por  el  INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO  PESQUERO  y  TRES  (3)    miembros   por  el  Sindicato correspondiente.\n\nA tal efecto, la entidad gremial deberá, previo  a  la adopción de cualquier   medida  de  fuerza,  comunicarla  fehacientemente    al INSTITUTO NACIONAL  DE  INVESTIGACION  Y  DESARROLLO  PESQUERO  con CINCO  (5) días hábiles de anticipación, y promover la convocatoria a reunión  de  la  COMISION  DE CONCILIACION dentro del mismo plazo\n\nUna vez reunida la misma, se  expedirá  sobre  el particular en el plazo  de  SETENTA Y DOS (72) horas, que la propia  Comisión  podrá prorrogar  por   el  término  que  estime  conveniente,  atento  la complejidad del tema  sometido  a su análisis. En los casos que las partes  arriben  a  un  acuerdo,  el  mismo  será  de  cumplimiento obligatorio para ambas. Si no hubiese acuerdo,  el  tema  podrá ser derivado  al  tratamiento  del  MINISTERIO  DE  TRABAJO Y SEGURIDAD SOCIAL por cualquiera de las partes, quedando las  mismas liberadas para    adoptar   las  medidas  que  en  conjunto  o  separadamente consideren conveniente, respetando el plazo de preaviso establecido precedentemente.\n\nEn  estas  circunstancias,   las  partes  quedan  facultadas  para someter, en forma consensuada,  el  diferendo  a UN (1) árbitro, en orden   a  una  lista  de  negociadores  que  deberán  confeccionar previamente.\n\nEn todos  los  casos  se  establecerá  un  sistema de guardias que garanticen la prestación de los servicios esenciales  del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO."
+                  },
+                  {
+                    "numero-articulo": 46,
+                    "texto": "ARTICULO  46  :  El  INSTITUTO  NACIONAL  DE  INVESTIGACION  Y DESARROLLO  PESQUERO, con sus respectivos gremios, podrán crear una COMISION DE HIGIENE,  SEGURIDAD  Y AMBIENTES DE TRABAJO constituida por TRES (3) miembros en representación  de  cada  parte, a efectos de prestar asesoramiento técnico, en las materias que  hagan  a  su cometido específico."
+                  },
+                  {
+                    "referencias-normativas": {
+                      "referencia-normativa": [
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "DEC C 001798 1980 09 01 0000 000 0000 000"
+                        },
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_1",
+                          "ref": "TOR C 020744 1976 05 13 0000 000 0000 000"
+                        },
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_2",
+                          "ref": "LEY C 012990 1947 06 19 0000 000 0000 000"
+                        }
+                      ]
+                    },
+                    "numero-articulo": 47,
+                    "texto": "ARTICULO  47  :  El  personal  tripulante estará regido por el reglamento de Investigaciones aprobado  por Decreto N.1798 del 1 de setiembre  de 1980 y sus normas complementarias  y  modificatorias.\n\nSiendo el régimen  disciplinario  aplicable,  el determinado por la Ley de Navegación y subsidiariamente lo dispuesto  por  la  Ley  de Contrato de Trabajo."
+                  },
+                  {
+                    "numero-articulo": 48,
+                    "texto": "ARTICULO  48  :  Quedarán sin efecto, nulos y sin valor, todos aquellos  derechos y obligaciones  de  las  partes,  emergentes  de convenios anteriores,  actas, resoluciones o derivados de cualquier otro  acto o disposición,  que  no  hubiese  sido  incluido  en  el presente  régimen,  el que rige en consecuencia en exclusividad las relaciones de las partes  derivadas  del  contrato  laboral que las vincula."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO A CONTRATO DE AJUSTE",
+          "texto": "Entre el.......................\n\nen  adelante  denominado  EL ARMADOR, por una parte, y por la otra el señor..................\n\nLibreta  de  Embarco N .............,  en  adelante...............\n\ndenominado EL  CONTRATADO,  se  conviene  en  celebrar el presente contrato  de  ajuste  para  tripular los buques que  a  tal  efecto destine   EL  ARMADOR,  en  calidad    de......................\n\nque se regirá  por el Régimen Laboral aprobado por el Decreto N. .\n\n..de fecha ................,  y  por las cláusulas que seguidamente se convienen:\n\nPRIMERA:  Este contrato se celebra  por  tiempo  indeterminado,  y podr sser rescindido  por  las  partes en cualquier momento, con un preaviso por escrito de TREINTA (30)  días.  Este  plazo  no  podrá vencer  con  posterioridad al día y hora fijado para la zarpada del buque.\n\nSEGUNDA: EL CONTRATADO  tendrá derecho a ser indemnizado de acuerdo con las normas legales en  vigor para la gente de mar de navegación de ultramar.\n\nTERCERA: Durante la vigencia  del  presente Contrato de Ajuste, EL CONTRATADO queda obligado a cumplir con  las  normas del servicio a bordo   que  establezca  EL  ARMADOR,  y  todas  las  disposiciones emanadas    de    la   legislación  vigente  que  correspondan.\n\nCUARTA: Durante la vigencia  del  presente  Contrato de Ajuste, EL CONTRATADO percibirá por su trabajo efectivo,  un  Sueldo Básico de PESOS............................\n\nque se abonará por mes vencido, más los suplementos  y  reintegros que correspondan, y las asignaciones familiares previstas  para  la Administración    Pública  Nacional,  Provincial  o  Municipal.\n\nQUINTA:  Por  cualquier    divergencia  que  se  suscitare  en  el cumplimiento del presente contrato,  que  debiera  ser dirimida por Tribunales Judiciales, las partes aceptan desde ya someterse  a  la jurisdicción  de  la Justicia Federal de la Ciudad de Mar del Plata (o la que corresponda  según  el  lugar  de asiento del Instituto), con exclusión de toda otra.\n\nSEXTA: A todos los efectos del presente contrato  EL  ARMADOR fija su domicilio legal en\n\ny EL CONTRATADO en..........................\n\nEn prueba de conformidad se firman DOS (2) ejemplares de  un mismo tenor  y  a  un  solo  efecto,  quedando el original en poder de EL ARMADOR y el otro en poder de EL CONTRATADO."
+        },
+        {
+          "anexo": "C",
+          "titulo-anexo": "ANEXO B NIVELES Y CARGOS",
+          "texto": "NIVEL        CUERPO            CARGO       1         Cubierta         Capitan       2         Maquinas        Jefe de Maquinas       3         Cubierta         Primer Oficial       3         Maquinas        Primer Oficial       3         Cubierta         Patron Fluvial       4         Cubierta         Segundo Oficial       4         Maquinas        Segundo Oficial       5         Maquinas        Tercer Oficial       6         Cubierta        Contramaestre o Primer                                  Pescador       6         Maquinas        Electricista       6         Maquinas        Mecanico Motorista       6         Administracion  Cocinero       7         Sanidad          Enfermero       7         Cubierta         Segundo Pescador       7         Maquinas        Cabo Engrasador       8         Cubierta         Marinero/Engrasador         8         Administracion   Mozo/Ayudante de Cocina"
+        },
+        {
+          "anexo": "D",
+          "titulo-anexo": "ANEXO C REMUNERACIONES",
+          "texto": "ESCALAS",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/9/2017) ANEXO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000702 2017 09 07 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002094 1970 10 29 0004 000 0000 000"
+            }
+          },
+          "anexo": "E",
+          "titulo-anexo": "ANEXO D REGIMEN DE VIATICOS",
+          "texto": "1)  VIATICO:  Es  la  compensación diaria que se acuerda a los tripulantes, con exclusión de  los pasajes u órdenes de carga, para atender todos los gastos personales  que  le  ocasione  el  atender desempeño  de  una  comisión  del  servicio  cuando  dicho lugar se encuentre a m ss de CINCUENTA (50) kilómetros del asiento  habitual del  buque  donde  preste  servicios  el correspondiente tripulante\n\n2)  No  serán  abonados viáticos, ni porcentual  respecto  de  los mismos, cuando se  carezca  de cocina a bordo del respectivo buque, y se le diera alojamiento en él a los correspondientes tripulantes; en razón que dicha  falencia está contemplada mediante el pago del Reintegro por Falta de Cocina a Bordo.\n\nPor  cuyo  motivo,  el  cobro  de viáticos  en  este  supuesto  es excluyente   de  la  percepción  del  precitado    complemento.\n\nCuando la comisión  se  realice  en  lugares  donde  el  INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO facilite al  agente alojamiento  y/o  comida,  se liquidarán como máximo los siguientes porcentajes de viáticos:\n\n- VEINTICINCO POR CIENTO (25  %)  si se le diese alojamiento fuera del buque y comida (o en su caso se  le  abone  Falta  de  Cocina a Bordo).\n\n-  CINCUENTA  POR  CIENTO  (50  %)  si  se  le  diese  alojamiento (cualquiera  fuere  éste) sin comida (ni pago de Falta de Cocina  a Bordo).\n\n- SETENTA Y CINCO POR  CIENTO  (75  %) si se le diera comida (o en su caso se le abone falta de cocina a  bordo)  sin alojamiento.\n\n3)  El  monto  diario  de  esta compensación será del  CUATRO  POR CIENTO (4 %) del sueldo básico  del  correspondiente tripulante, de acuerdo  a lo establecido en el Anexo C  del  Régimen  Laboral.\n\n4) A los  tripulantes  que  con  motivo  de  la realización de una comisión del servicio, deban trasladarse a más  de QUINIENTOS (500) kilómetros  del  asiento  habitual  del  buque,  se  les  otorgarán órdenes de pasaje de ida y regreso en avión.\n\n5) Comenzará a devengarse desde el día en que el agente  sale  del asiento  habitual  para  desempeñar la comisión del servicio, hasta el día que regrese de ella, ambos inclusive.\n\n6) En la oportunidad de autorizarse  la realización de comisiones, deberá   dejarse  establecido,  además  de  las    correspondientes motivaciones, el medio de movilidad a utilizar para su cumplimiento,  ponderándose  en  la  emergencia  los  factores  que conduzcan al más bajo costo.\n\n7)  Se  liquidará  viático  completo  por el día de salida y el de regreso, siempre que la comisión de servicio  que  lo origine tenga comienzo  antes  de  las  DOCE  (12)  horas  del  día de partida  y finalice  después  de  la  misma  hora  del día de regreso.  Si  la comisión de servicio no pudiera ajustarse  a  la  norma precedente, se  liquidará  el  CINCUENTA  POR  CIENTO  (50  %) del viático.\n\n8) Corresponderá el CINCUENTA POR CIENTO (50 %)  del  viático,  al personal  que  en  el desempeño de comisiones especiales permanezca alejado a más de CINCUENTA  (50) kilómetros de su asiento habitual, por  la  mañana  y  por la tarde,  sin  regresar  al  mediodía.\n\n9) Corresponderá el  CINCUENTA POR CIENTO (50 %) del viático a los agentes que durante el  viaje motivado por la comisión, siendo ésta de una duración mayor de  VEINTICUATRO (24) horas, cualquiera fuere el medio de transporte utilizado,  tengan  incluida la comida en el pasaje.\n\n10) Los agentes a quiénes se destaque en comisión,  tienen derecho a  que se les anticipe el importe de los viáticos correspondientes, hasta un máximo de TREINTA (30) días.\n\n11)  En caso que un agente deba residir en el mismo alojamiento de su superior,  ya  sea  por  razones  de  servicio  o  por  falta de comodidades  mínimas  en  otros,  se  liquidará  a  aquél  el mismo viático que al último.\n\n12)  En  el caso que personal de una jurisdicción concurra a  otra para desempeñarse  en  calidad  de adscripto, o a efecto de cumplir una  comisión  de  servicios,  el  viático    correspondiente  será liquidado con cargo al presupuesto de la repartición  que  requiera los servicios.\n\n13)    Cuando  las  comisiones  se  efectúen  en  zonas  alejadas, insalubres,    inhóspitas    y/o   desérticas,  donde  el  personal permanente tenga establecido sobre  su  sueldo  un  coeficiente  de aumento,  el  viático  a liquidar a los agentes que las desempeñan, será bonificado en igual porcentaje.\n\nEl plus zonal establecido  por  el  Decreto  N.2094 de fecha 29 de octubre de 1970 (artículo 4), sus modificatorias  y complementarias se  aplicará  en  todos  los casos de comisiones cumplidas  en  las zonas indicadas por dicha normativa.\n\n14) Los agentes que reciban  fondos  en  concepto  de  anticipo de viáticos,  al finalizar la comisión y dentro de las SETENTA  Y  DOS (72) horas del regreso rendirán el saldo pendiente. Las rendiciones  serán  presentadas  por  intermedio  del  Jefe  de  la repartición  respectiva  a la Dirección de Administración u oficina que  haga  sus veces. En las  rendiciones  constará  el  tiempo  de duración, fechas  de  salida  y  arribo,  debiendo ser certificadas estas informaciones en cada caso, por la autoridad  competente.\n\n15)  Ordenes  de  pasaje  y  carga.  A  los tripulantes que  deban desplazarse  en  cumplimiento de Comisiones  de  Servicios  se  les otorgará las correspondientes  órdenes  de  pasaje de ida y regreso en primera clase del medio de transporte que  el INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO determine.\n\nLos  pasajes mencionados podrán ser reemplazados  por  otra  clase cuando  no  se  dispusiera  de  primera clase o cuando el INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO  PESQUERO así lo disponga en funci nn de razones de servicio.\n\n16)  El  monto  diario  de la compensación por  viáticos  no  será modificada ni reajustada cuando  surjan variantes de cualquier tipo en las remuneraciones del personal.  Su modificación sólo procederá cuando  la  considere  especialmente  el  INSTITUTO    NACIONAL  DE INVESTIGACION  Y  DESARROLLO  PESQUERO con la previa aprobación  de los Organismos de Contralor."
+        }
+      ],
+      "id-infojus": "DN19940000630"
+    }
+  }
+}

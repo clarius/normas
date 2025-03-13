@@ -1,0 +1,516 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-326-7000-4591soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991403591,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "7623-nacional-lucha-contra-garrapata-dn19540007623-1954-05-11"
+      }
+    },
+    "content": {
+      "mecanografico": 19540007623,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 7623,
+      "timestamp-m": "2012-03-20T15:52:40",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1954-05-11",
+      "standard-normativo": "DEC C 007623 1954 05 11",
+      "titulo-norma": "LUCHA CONTRA LA GARRAPATA",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1954 05 19"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "DEROGASE POR ART. 57",
+          "id": "ABROGA A0",
+          "ref": "DEC C 023103 1939 02 03 0000 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "MODIFICA    ART.    13  (B.O.  16-12-58)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 010945 1958 00 00 0002 000"
+          },
+          {
+            "cr": "MODIFICA    ART.    51  (B.O.  16-12-58)",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 010945 1958 00 00 0003 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 7.623/1954",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2012-03-20",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "Decreto Reglamentario sobre la obligatoriedad e instrumentación de la campaña  de  Lucha  contra  la  Garrapata del Ganado Bovino.",
+        "observaciones-generales": "NRO.  DE  ART.  QUE ESTABLECE LA ENTRADA EN VIGENCIA 0056 FECHA DE ENTRADA EN VIGENCIA 1954 06 01   ANTECEDENTES  SE SUSPENDEN  POR  EL  TERMINO  DE  UN  AÑO  LAS DISPOSICIONES ENUNCIADAS  EN  EL ART. 7 SEGUN EL DEC. 3.573/66 (B.O. 26-12-66)   OBSERVACION EL DEC. 1.803/61 EN  SU ART. 5 OBSERVA AL PRESENTE DECRETO CON RESPECTO A LA DIVISION  EN  DIFERENTES  ZONAS  DEL TERRITORIO ARGENTINO (B.O. 22-3-61)   OBSERVACION    EL   PRESENTE  DECRETO  HA  SIDO  OBSERVADO  EN REITERADAS OPORTUNIDADES  POR  DIFERENTES  RESOLUCIONES  DE LA SECRETARIA DE AGRICULTURA",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 012566 1938 09 30 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sanidad animal"
+            },
+            "preferido": {
+              "termino": "Salud pública/política sanitaria/control sanitario/sanidad animal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medidas sanitarias",
+                "policía sanitaria",
+                "vigilancia sanitaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "plagas del ganado"
+            },
+            "preferido": {
+              "termino": "Salud pública/política sanitaria/control sanitario/sanidad animal/enfermedades de animales"
+            },
+            "sinonimos": {
+              "termino": [
+                "enfermedades contagiosas del ganado",
+                "plagas del ganado",
+                "medidas sanitarias",
+                "policía sanitaria",
+                "enfermedades del ganado",
+                "vigilancia sanitaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "garrapata"
+            },
+            "preferido": {
+              "termino": "Salud pública/política sanitaria/control sanitario/sanidad animal/enfermedades de animales/garrapata"
+            },
+            "sinonimos": {
+              "termino": [
+                "enfermedades contagiosas del ganado",
+                "plagas del ganado",
+                "medidas sanitarias",
+                "policía sanitaria",
+                "enfermedades del ganado",
+                "vigilancia sanitaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "plaguicidas"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria química/sustancias químicas/productos agroquímicos/plaguicidas"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos químicos",
+                "pesticidas",
+                "productos fitosanitarios",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "garrapaticidas"
+            },
+            "preferido": {
+              "termino": "garrapaticidas"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "política sanitaria",
+            "garrapata",
+            "enfermedades contagiosas del ganado (enfermedades de animales)",
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "sustancias químicas",
+            "productos industriales (actividad industrial)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "productos agroquímicos",
+            "reglamentos",
+            "garrapaticidas",
+            "control sanitario",
+            "industria química",
+            "sanidad animal",
+            "medidas sanitarias (control sanitario)",
+            "acto administrativo de alcance general",
+            "industria (actividad industrial)",
+            "productos químicos (sustancias químicas)",
+            "reglamento administrativo (reglamentos)",
+            "enfermedades de animales",
+            "Actividades económicas",
+            "Derecho administrativo",
+            "actividad industrial",
+            "vigilancia sanitaria (control sanitario)",
+            "Salud pública",
+            "productos fitosanitarios (plaguicidas)",
+            "enfermedades del ganado (enfermedades de animales)",
+            "policía sanitaria (control sanitario)",
+            "acto administrativo",
+            "pesticidas (plaguicidas)",
+            "plaguicidas",
+            "plagas del ganado (enfermedades de animales)"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1.-  A los efectos de la lucha obligatoria sistemática y ofensiva contra la  garrapata  común  del  ganado bovino (Boophilus Microplus  (Can Lah)  establecida por ley N. 12.566,  divídese  el territorio del país en las siguientes zonas:\n\na) Zona Infestada - Comprende  la  región invadida por la garrapata no incorporada aún al régimen de la  presente  reglamentación.\n\nb)  Zona  de Lucha - Comprende la región en la cual  se  llevará  a cabo la erradicación obligatoria del parásito.\n\nc) Zona Indemne  -  Comprende la parte del país libre del parásito."
+        },
+        {
+          "numero-articulo": 2,
+          "titulo-articulo": "De las zonas de lucha y duración de las campañas",
+          "texto": "Art. 2.- La Comisión Central de Lucha propondrá a la Dirección General  de  Sanidad Animal periódicamente, las zonas en que deberá llevarse a cabo  la erradicación  del parásito, de conformidad con las  disposiciones  generales de  este  reglamento,  así  como  la duración de las campañas que se inicien en  las zonas demarcadas y las modificaciones a introducirse en las mismas  a medida  que  se obtenga su limpieza.\n\nA  los  efectos  de  la delimitación de las zonas serán consultadas las Sociedades Rurales  o  Cooperativas  Agropecuarias respectivas, en caso de no existir las primeras."
+        },
+        {
+          "numero-articulo": 3,
+          "titulo-articulo": "Medidas preparatorias",
+          "texto": "Art.  3.-  En  la  Zona  de  Lucha deberán llevarse a cabo los siguientes trabajos preparatorios,  antes  de  comenzar la campaña:\n\na)  Realizar un estudio completo de la zona elegida,  a  objeto  de determinar la  ubicación de los bañaderos oficiales a construirse; establecer cuáles son los bañaderos particulares que se oficializarán  y  qué    establecimientos particulares   deberán construir sus propios bañaderos;\n\nb)  Levantar  una información detallada de los establecimientos  de la zona, comprendiendo  ubicación,  extensión,  población ganadera, límites, división de potreros, topografía, características  de  los alambrados  y  todo  otro detalle útil para el conocimiento de las condiciones de cada explotación;\n\nc) Efectuar una intensa propaganda  entre  los  productores  de  la zona,  a objeto  del  mejor  conocimiento  de  las  medidas que se aplicarán, destacando especialmente la necesidad de realizar  las balneaciones en la forma,  tiempo y plazo que aconseje la Dirección General de Sanidad Animal, a fin  de  erradicar la garrapata en el más breve plazo y más económicamente."
+        }
+      ],
+      "segmento": [
+        {
+          "titulo-particion": "Construcción  de  bañaderos oficiales, arrendamiento y construcción de bañaderos particulares",
+          "articulo": [
+            {
+              "numero-articulo": 4,
+              "texto": "Art. 4.- La Comisión Central de Lucha propondrá a la Dirección General  de  Sanidad  Animal  la  construcción  de  bañaderos y sus características, a instalarse a lo largo de la línea  que limite la zona  infestada  de  la  zona de  la  lucha  y también los que  se requieran dentro de esta última zona en aquellos  puntos  donde por razones de orden económico la acción particular no sea suficientemente    intensa    y   eficaz.  Asimismo gestionará  la oficialización,  obteniéndolos  en  alquiler  o  gratuitamente, de todos los bañaderos, particulares que  por su ubicación estratégica convenga librar al servicio público. En  la  zona  infestada podrán también instalarse bañaderos oficiales en aquellos puntos  donde el movimiento  de ganado destinado a la Zona de Lucha y la Indemne  lo justifique."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "Art.  5.- Con la suficiente anticipación, la Dirección General de Sanidad Animal  a  propuesta  de  la  Comisión Central de Lucha, notificará  a  todos aquellos propietarios o  arrendatarios  de  la zona de lucha comprendidos  en el  artículo 4 de la Ley N. 12.566, la obligación de construir bañaderos dentro de un plazo determinado.  La  falta  del  cumplimiento    de  esta  disposición ocasionará la clausura del establecimiento."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art.  6.-  Se  considerarán  como  bañaderos  oficiales  todas aquellas instalaciones de propiedad del Estado y las de particulares  que  son arrendadas  o  cedidas  gratuitamente  a la Dirección General de Sanidad Animal.\n\nDenomínanse   bañaderos  oficializados  a  los  particulares  cuyas preparaciones  y  control  de las mismas estén a cargo del personal del Servicio de Garrapata."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "De los garrapaticidas",
+          "articulo": [
+            {
+              "numero-articulo": 7,
+              "texto": "Art.  7.-  Los  productos garrapaticidas que se expendan en el comercio, utilizados en  la  Zona  de  Lucha,  y  donde corresponda aplicar las disposiciones de la Ley N. 12.566 y su  reglamentación, deberán  estar autorizados  definitivamente  por el Ministerio  de Agricultura y Ganadería de la Nación, el que ejercerá  el contralor permanente  de dichos productos y de los baños preparados  con  los mismos. Para  la  aprobación de los específicos garrapaticidas, las pruebas o ensayos podrán  efectuarse  en  las  zonas que sugiera la Comisión  Central  de  Lucha  cumpliendo las condiciones  vigentes."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art.  8.- La Dirección General de Sanidad Animal podrá obligar y/o prohibir  el  uso  de  garrapaticidas con determinado principio activo en los plazos, épocas  y zonas que lo considere conveniente."
+            },
+            {
+              "numero-articulo": 9,
+              "titulo-articulo": "De la provisión gratuita de garrapaticidas",
+              "texto": "Art. 9.- En la zona de lucha, cuando la compra de garrapaticida o la tarifa de los baños oficiales representen una carga demasiado onerosa  para los  hacendados o cuando se trate de balneaciones de ganado de propiedad de instituciones  u  organismos  oficiales, la Dirección    General   de  Sanidad Animal  estará  facultada  para proveerlo gratuitamente  o eximir de la tarifa, previa comprobación de  aquellas  circunstancias  por  intermedio  de  la Comisión  de Productores de  Zona  a  que  se  refiere el art. 15 o por informes propios."
+            },
+            {
+              "numero-articulo": 10,
+              "titulo-articulo": "Garrapaticidas para los bañaderos oficiales",
+              "texto": "Art.  10.-  La Dirección General de Sanidad Animal procederá a hacer preparar  o  adquirir    anualmente,    según  convenga,  el garrapaticida que calcule necesitar para el funcionamiento  de  los bañaderos  oficiales  y para hacer frente a los pedidos de carácter gratuito."
+            },
+            {
+              "numero-articulo": 11,
+              "titulo-articulo": "De la renovación de las preparaciones garrapaticidas",
+              "texto": "Art.  11.-  El  remedio preparado en los bañaderos oficiales y particulares  sometidos   al  contralor  que  se  establece  en  el presente reglamento, se renovará  totalmente  de  acuerdo  con  las disposiciones  que dicte  la  Dirección  General de Sanidad Animal para  cada zona, previa consulta a la Comisión  Central  de  Lucha, teniendo  en  cuenta  la  duración de su eficacia en relación a la cantidad de su principio activo."
+            },
+            {
+              "numero-articulo": 12,
+              "titulo-articulo": "Tarifa de baños",
+              "texto": "Art.  12.-  La Dirección General de Sanidad Animal cobrará por derecho  de  baño, teniendo  en  cuenta  que  debe  propenderse  al saneamiento de  zonas mediante  el fomento de las balneaciones, un precio mínimo con relación al costo."
+            },
+            {
+              "numero-articulo": 13,
+              "titulo-articulo": "Comisión Central de Lucha",
+              "texto": "*Art.  13.- Créase una Comisión Central de Lucha compuesta por el Director General  de  Sanidad  Animal,  Director  de  Contralor Sanitario, Director  de Contralor de Productos Veterinarios, y por dos representantes de las  Sociedades  Rurales de la zona de lucha, por  provincia, la que intervendrá en las  cuestiones  relacionadas con el  plan  de acción  y  las medidas  de  carácter  general  a aplicarse  para  el  mejor  cumplimiento de las disposiciones de la ley N. 12.566 y su reglamentación.\n\nEsta Comisión deberá interpretar  y  resolver  los  casos técnico - prácticos no previstos en la presente reglamentación."
+            },
+            {
+              "numero-articulo": 14,
+              "titulo-articulo": "De la designación del personal técnico y administrativo",
+              "texto": "Art.  14.-  El  personal técnico y administrativo a designarse para la campaña de erradicación  de la garrapata, será nombrado por concurso de aptitudes y competencia  a cuyo efecto los aspirantes a ingresar a dicho Servicio, deberán rendir  examen  y  realizarán un aprendizaje  práctico  de dos  meses,  todo  ello en la forma  que reglamente la Dirección General de Sanidad Animal."
+            },
+            {
+              "numero-articulo": 15,
+              "titulo-articulo": "Comisiones y subcomisiones de productores de la zona",
+              "texto": "Art.  15.- En las zonas de lucha se constituirán Comisiones de Productores  de  Zona en cada una de las zonas de influencia de las Sociedades Rurales, integradas  por  el  número  de  ganaderos que propongan las mismas Sociedades Rurales o Cooperativas Agropecuarias,  donde  no  las  hubiere, a la Dirección General  de Sanidad Animal. Estas propondrán  también  las Subcomisiones de los distintos  distritos  de  cada  zona,  constituidas    por  vecinos ganaderos que dependerán de aquéllas.\n\nLas    Comisiones   de  Productores  de  Zona  estarán  ampliamente facultadas para intervenir  juntamente  con  el  jefe  seccional  o personal  de  la Dirección  General  de Sanidad Animal, en todo lo relacionado con la aplicación de la ley N. 12.566 y su reglamentación. Las Subcomisiones de distrito  serán colaboradoras de  las  Comisiones  de Productores de Zona y dependerán de ellas.\n\nLa Dirección General de  Sanidad  Animal  ejercerá la supervisión y control técnico de las funciones de los precitados  organismos  que serán honorarios,  pudiendo  tomarlas  a  su  cargo  cuando  las circunstancias lo aconsejen o lo considere conveniente."
+            },
+            {
+              "numero-articulo": 16,
+              "titulo-articulo": "Concurso de las autoridades locales",
+              "texto": "Art. 16.- El personal de la Dirección General de Sanidad Animal queda facultado  para  solicitar  directamente  el concurso de las autoridades policiales  o  municipales  del lugar para  el  debido cumplimiento   de  las disposiciones  del  presente    Reglamento."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "Baños garrapaticidas periódicos",
+          "articulo": [
+            {
+              "numero-articulo": 17,
+              "texto": "Art.  17.- Una vez terminados los trabajos preparatorios a que se refiere el  artículo  3  y  en  la  época  que fije la Dirección General de Sanidad Animal, la erradicación de la  garrapata  en las zonas  de lucha se llevará a cabo mediante el procedimiento de  los baños  garrapaticidas   obligatorios  a la  totalidad  del  ganado bovino, ovino, caprino y  equino  a intervalos que fijará la misma, previa propuesta del Jefe Seccional  o  personal  de  la Dirección General  de Sanidad Animal y de la Comisión de Productores de  Zona respectiva.  Dicha  Comisión,  juntamente  con el Jefe Seccional o personal de la Dirección General de Sanidad Animal,  podrá ampliar o  reducir el intervalo entre los baños cuando medien, entre otras, las siguientes circunstancias:\n\na) Cuando por la baja temperatura ambiente no resulte indispensable  aplicar los  baños en los plazos determinados.\n\nb) En las épocas de intensa sequía,  si  los  animales no se hallan en condiciones de ser bañados frecuentemente.\n\nc)  Durante  los  grandes  temporales, cuando éstos  puedan  restar eficacia a la acción del baño.\n\nd)  Cuando  medien  razones  sanitarias   que  hagan  peligrosa  la balneación.\n\ne)  Cuando  el  garrapaticida  en  uso  por su acción  ixodicida  o residual permita ampliar el plazo entre los baños.\n\nf) Cuando sea necesario evitar la reinfestación de establecimientos ya saneados o la formación  de  focos garrapatosos en la zona indemne o cuando en el establecimiento  el  adelanto  de la  limpieza  no  esté  en  concordancia con otros de la zona.\n\ng) En todas aquellas situaciones  similares  a las indicadas en los incisos anteriores  y  que  resulten  aconsejables,  dando  cuenta inmediata a los efectos de su ratificación  a  la Dirección General de Sanidad Animal.\n\nCuando  un baño general no haya sido fiscalizado  por  el  personal del Servicio  de  Garrapata,  el propietario o encargado del ganado deberá comunicar por nota al empleado  destacado o dejar sentado en la planilla de baño con carácter de declaración  jurada,  la fecha, hora y lugar donde se efectuó la balneación."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "Art.  18.-  En  las  zonas  infestadas  o  intermedias  que se incorporen al  régimen de la ley N. 12.566 como así también si  se considerara necesario, regiones  de  la  actual  zona de lucha, no regirá el plazo que se estipule para las balneaciones  previstas en el   artículo  anterior,  lo  que  no excluirá  la  obligación  de efectuarlas  con  la periodicidad, épocas y plazos que establezcan, conjuntamente,  el Jefe  Seccional,  o  personal  de  la Dirección General de Sanidad  Animal,  con  las Comisiones de Productores de Zona. El personal del Servicio de Garrapata,  además de efectuar su control, podrá  obligar  a  que se cumpla dicha exigencia con  el auxilio de la fuerza pública.\n\nCuando se disponga que los baños no se realicen con la periodicidad fijada en el artículo  17,  la  mencionada repartición podrá  establecer  normas  para facilitar el tránsito  de  ganados parasitados dentro de las zonas mencionadas, como así también para los  procedentes  de  la  zona  infestada  con  destino  a  ella."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "Art. 19.- La Comisión Central de Lucha propondrá a la Dirección General  de  Sanidad  Animal  la  incorporación  de nuevas zonas al régimen de lucha."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "Art.  20.-  La  Dirección  General  de  Sanidad Animal, previa consulta  a  las Comisiones de Productores de Zona  y/o  Sociedades Rurales,  podrá intimar  al  propietario,  poseedor  o  tenedor  a cualquier  título,  de ganado  bovino,  ovino,  caprino  y  equino negligente en  la  erradicación del parásito y cuyo establecimiento constituya un foco de  extrema peligrosidad para terceros, a sanear sus animales dentro de un  plazo  determinado. Transcurrido  dicho plazo  sin  haber  dado  cumplimiento  a  dicha intimación,  y sin perjuicio  de  la  aplicación de la multa correspondiente, se podrá prohibir la extracción  o  introducción  de  animales de la especie bovina hasta tanto no se compruebe que los animales  existentes  en el establecimiento  se  encuentran  libres  de  garrapata.  Con el  objeto  de  obtener  una  mejor  fiscalización de los baños generales, podrá hacerse obligatoria la marcación  del  ganado  de los referidos establecimientos.  Cada vez que sea sometido a dicha operación, la Dirección General de  Sanidad  Animal establecerá las condiciones y requisitos que deberán cumplir."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "De la clasificación de los establecimientos",
+          "articulo": [
+            {
+              "numero-articulo": 21,
+              "texto": "Art.  21.-  En  las zonas de lucha, los establecimientos serán clasificados, cualquiera  sea  su  importancia,  en  categorías que permitan establecer  gradualmente su estado de infestación,  hasta su limpieza total confirmada,  y  se  procederá a fiscalizar en las mismas la circulación del ganado, conforme a la citada clasificación."
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "Art. 22.- La clasificación de establecimientos comprenderá las siguientes categorías:\n\na) Infestados:  Serán  los  no clasificados y los clasificados como infestados que aún no han iniciado  las balneaciones obligatorias o que,  habiéndolas iniciado,  las han interrumpido,  contraviniendo las disposiciones reglamentarias.\n\nb) En observación: Serán los infestados  que bañan sistemáticamente la totalidad  del  ganado  bovino,  ovino, caprino  y  equino,  de acuerdo  con lo establecido en los artículos  17  ó  18,  según  el caso, y aquellos  que durante  el  proceso  de  saneamiento se les reemplace   transitoriamente  el baño  por  el  contralor.    c)  Limpios provisionales:  Serán  los  que,  estando  naturalmente libres  de garrapata o habiendo logrado erradicarla, permanecen en observación un  tiempo prudencial  antes de que sea certificada la limpieza definitiva, y los que teniendo  acreditada dicha limpieza, no  se  han  hecho  acreedores al certificado  correspondiente  por deficiencia de los alambrados que limitan el campo, por intercambio continuado  de  animales  con  otros establecimientos u otros  motivos  que  constituyan  peligro  de  infestación.    d)  Limpios  patentados:  Serán  los  \"limpios  provisionales\"  que habiendo cumplido  satisfactoriamente  el  período de observación, pasan a esta categoría, por haberse confirmado  que  no  existe  en absoluto  garrapata  en el  campo.  Sólo  se  otorgará  patente de limpieza  a  los  establecimientos que linden con otros que ya  la tengan o que hubieran sido incluidos  en  la categoría de \"Limpios provisionales\" y aquellos que poseyeran divisiones  o límites  que eviten el peligro de reinfestación.\n\nLa clasificación de los establecimientos \"Limpios provisionales\"  y \"Limpios patentados\", se efectuará después de rigurosos contralores  durante  los  meses de  diciembre  a  mayo  y  con la intervención de las Comisiones de Productores de Zona."
+            },
+            {
+              "numero-articulo": 23,
+              "texto": "Art. 23.- Los propietarios de establecimientos o sus usufructuarios  serán provistos  de  una  constancia  gratuita que acredite la categoría de la clasificación obtenida."
+            },
+            {
+              "numero-articulo": 24,
+              "texto": "Art. 24.- Los certificados de limpieza existentes serán válidos siempre que los establecimientos mantengan las condiciones en base a las cuales fueron otorgados."
+            },
+            {
+              "numero-articulo": 25,
+              "texto": "Art.  25.-  La  Dirección  General  de  Sanidad  Animal previa consulta al  Jefe  Seccional  o  personal  de  la citada Dirección General  y  a  la Comisión  de  Productores  de  Zona  respectiva, determinará la oportunidad en que los establecimientos de  la  zona de  lucha  serán  inspeccionados a los efectos de su clasificación.\n\nEn aquellos que se  compruebe  la  existencia de garrapata viva, en cualquier cantidad  y  estado  evolutivo,  se  dará  principio  de inmediato a la serie de baños generales  reglamentarios en la forma y plazos que establecen los artículos 17 ó  18,  según corresponda.\n\nSerá    facultativa    la   intervención  de  los  establecimientos clasificados \"Limpio Patentado\"  y  de  aquellos cuyos propietarios denuncien la existencia de la infestación."
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "Art.  26.-  Para  cada establecimiento se formará una ficha de clasificación  en  la  cual    constarán    todas  las  referencias correspondientes al mismo y las novedades que  en  lo  sucesivo  se produzcan a medida  que  se  practiquen  las  inspecciones, baños generales, extracciones e introducciones de ganado,  etc., hasta su limpieza definitiva estando obligados los interesados a proporcionar  por escrito todos los datos que les sean  requeridos."
+            },
+            {
+              "numero-articulo": 27,
+              "texto": "Art. 27.- El establecimiento que al ser intervenido por primera vez resultara  libre  de garrapata y no se comprobara la presencia de  parásitos en  los  dos  controles  siguientes  realizados  con intervalos  no  menores de   30  días,  será  clasificado  \"Limpio Provisional\",  pudiendo desde entonces  efectuar  extracciones  con arreglo a esta categoría.  Si  después de  un número prudencial de inspecciones de contralor en todos sus potreros  se  confirmara  la limpieza,  se  le  otorgará la patente correspondiente, siempre que reúna todos los requisitos  previstos  en  el  artículo 22 apartado d). En el caso de comprobarse, en cualquier momento,  la  presencia de garrapata, perderá la categoría adquirida y el propietario  será declarado  infractor  a los efectos de la penalidad correspondiente si no hubiere efectuado  la denuncia inmediata de la infestación. A efectos de determinar el carácter inmediato  de  dicha denuncia se tendrán  en  cuenta  las  circunstancias particulares  del   caso."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "Art.  28.- En la misma fecha que se dé el primer baño general, el establecimiento  pasará  a  ser  clasificado en la categoría \"en observación\", pudiendo  desde entonces  efectuar  extracciones  de ganado de acuerdo a dicha categoría.  Para  mantener la misma debe cumplir  en  un todo con lo dispuesto en el artículo  22,  apartado b), y no podrá  pasar a la categoría inmediata superior, aun cuando se encuentre el campo  momentáneamente limpio, mientras no se haya practicado  cierto  número  de  inspecciones    de  contralor  con resultado  favorable  en  la  época  de  diciembre  a  mayo.   Si  se  suspendieran  los  baños sin causa justificada se declarará \"Infestado\" el establecimiento,  debiendo  dar  como  mínimo,  tres baÑos  generales  para recuperar la categoría de \"En observación\"."
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "Art.  29.- Se entiende por baño general el sometimiento a esta operación de  la totalidad de los animales bovinos, equinos, ovinos y caprinos, existentes  en el establecimiento, sean éstos propios o ajenos. En el caso de que  sólo  sean  los bovinos los parasitados, las  demás  especies  podrán ser eximidas de  los  baños  generales subsiguientes a los dos primeros."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "Art. 30.- A los efectos de la clasificación la planta urbana de los pueblos o ciudades, excluyendo el ejido, será considerada como un solo establecimiento."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "Art.  31.-  Los  establecimientos  de  las  zonas infestadas e intermedias  que  se incorporen a la zona de lucha se  clasificarán teniendo en cuenta su categoría y grado de limpieza."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "Extracción y tránsito de ganado en las zonas de lucha",
+          "articulo": [
+            {
+              "numero-articulo": 32,
+              "texto": "Art. 32.- Los establecimientos de las zonas de lucha incluidos en  la categoría  de  \"infestados\"  serán  considerados  de  hecho clausurados mientras  no  se clasifiquen en la categoría inmediata superior.  Durante  ese lapso   queda  prohibida  en  absoluto  la extracción de las especies de animales  citadas  en el artículo 29, así  como  los  cueros,  lanas  y despojos. En casos especiales  de fuerza mayor el Jefe Seccional o  personal de la Dirección General de  Sanidad  Animal juntamente con la Comisión de Productores  de Zona podrán autorizar  la extracción de animales y/o de sus cueros, lanas  y  despojos  labrando    al  respecto  la  pertinente  acta."
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "Art.  33.-  De  los  establecimientos  clasificados  \"Limpios Patentados\"   se  podrá  extraer  ganado  libremente  con  la  sola limitación de  que el transporte se efectúe por ferrocarril, camión o vía fluvial directa  o  a través  de  establecimientos limpios y caminos cuando sea por arreo.\n\nEllo no obstante, los animales deberán ser sometidos a inspecciones de contralor y/o baño precaucional  en  el lugar de la carga  o al trasponer el límite de zona debiendo el Jefe  Seccional o personal  de  la  Dirección General de Sanidad Animal, juntamente con la Comisión de Productores de Zona, mediante la correspondiente acta,  fijar las jornadas que podrán recorrer según sea  el  factor residual del  garrapaticida  empleado  en  el  baño precaucional.  Si  van  con  destino a sacrificio inmediato, se los eximirá del baño garrapaticida."
+            },
+            {
+              "numero-articulo": 34,
+              "texto": "Art.  34.-  De los establecimientos \"Limpios provisionales\" se podrá extraer ganado  sin  baño  precaucional,  pero  el interesado debe  munirse previamente de un permiso de tránsito. Tratándose  de despachos  a establecimientos  clasificados  \"Limpios Patentados\", \"Limpios Provisionales\" o en \"Observación con Control\"  de la misma Zona  de  Lucha  o  con  destino  a la Indemne, los animales serán inspeccionados antes de ser otorgado el tránsito;  al introducirse al  establecimiento  de destino o al pasar a zona indemne,  siempre que se encuentren ubicados  a  más  de  una  jornada de marcha, los bovinos deberán ser nuevamente inspeccionados  y  sometidos  a baño precaucional.\n\nPara  los  casos  en  que  los  bovinos se remitan a remates feria, mataderos o establecimientos industrializadores,  de  la  Zona  de Lucha,  podrá autorizarse  el  despacho  sin  previa  inspección, debiéndose considerar  para el tránsito ulterior el local de remate feria,  como  un  establecimiento \"en   observación\".  Para  los mataderos, fábricas y frigoríficos de la Zona Indemne, autorizados para  recibir  ganados  mediante  facilidades  especiales,  también podrán  extenderse permisos de tránsito sin que los  animales  sean intervenidos."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "Art. 35.- De los establecimientos \"En Observación\" ubicados en las zonas de  lucha se podrá extraer ganado con destino a la misma zona o indemne, únicamente para ser sacrificado en los mataderos o establecimientos industrializadores   autorizados  a  tal  efecto, después  de  haberse comprobado la limpieza  de  los  animales.  Se podrá también  autorizar el tránsito, previo baño garrapaticida, si albergan garrapatas,  a  cuyo  efecto, el Jefe Seccional o personal de  la  Dirección  General  de Sanidad  Animal juntamente  con  la Comisión  de  Productores de Zona  y  mediante  la correspondiente acta, fijarán el  estado evolutivo de los parásitos y el término de la validez del permiso  de  tránsito,  siempre que el transporte se realice por vía directa fluvial, ferrocarril,  camión o combinación de estos tres medios de transporte, con la sola  limitación  de que el transbordo en zona indemne se efectúe directamente, sin bajar  a tierra  los  animales. Para salir a la zona infestada o para envíos a los pequeños  mataderos  locales  el procedimiento será el mismo pero tanto en estos casos como en aquéllos,  los despachos en tales condiciones  se  autorizarán en base de que el arreo  al punto  de embarque, al límite  con la zona infestada o al pequeño matadero no sea mayor de tres jornadas  de  marcha. Si exceden estas jornadas o el  ganado lleva destino a cría invernada,  o  establecimiento  de sacrificio  no autorizado,  cualquiera  sea  la  zona  donde  se encuentren  ubicados,   se permitirá  sólo  el  tránsito  mediante comprobación de limpieza absoluta y baño precaucional.\n\nCuando  el  destino  sea  la zona indemne y el viaje se realice por arreo dentro de una jornada  de  marcha,  el  baño  precaucional se dará en el establecimiento de origen; si está ubicado  a más de una jornada  y  menos  de tres, la balneación se efectuará al trasponer la  línea divisoria y  si  la distancia  es  mayor,  la  tropa  se inspeccionará  al  efectuar el despacho y se bañará al introducirse en la zona indemne.\n\nLa extracción de los  ganados  del  establecimiento  y  el embarque deberán realizarse  dentro de las 24 horas de otorgado el  permiso de tránsito pudiendo ampliarse  este  plazo  según  sea  el  factor residual  del  garrapaticida empleado o por causas de fuerza mayor debidamente  justificadas, como  ser demora  en  la  provisión  de vagones, chatas, etcétera.\n\nEn  casos  de emergencia,  el  Jefe  Seccional  o  personal  de  la Dirección General  de Sanidad Animal, juntamente con la Comisión de Productores de Zona y mediante  la  correspondiente  acta, podrán autorizar dentro de la zona de lucha o con destino a la  infestada, el  tránsito de ganado de cría o invernada parasitado, siempre  que no alberguen  garrapatas  hembras adultas y que se les someta a las balneaciones  que se establezcan.  En  ningún  caso  los tránsitos tendrán validez mayor de cinco (5) días.\n\nPara los locales  de  remates  -  feria  de la zona de lucha, si el establecimiento  de origen se encuentra ubicado  a  menos  de  tres jornadas de marcha  el  despacho  se  podrá hacer previa revisación solamente,  y  si  la distancia es mayor,  el  ganado  deberá  ser sometido a un baño precaucional. Para  el  tránsito  ulterior,  el local  del  remate  -  feria se considerará como un establecimiento \"en observación\".\n\nLa Dirección General de  Sanidad  Animal,  solicitará asesoramiento al  Jefe Seccional o personal de esa Dirección  General  juntamente con la  Comisión de Productores de Zona, cuando considere necesario acordar facilidades  de tránsito en ciertas regiones de la zona de lucha,  estableciendo  el grado  de parasitación  de  los  ganados destinados a cría, invernada  o  sacrificio. Dichas facilidades de tránsito serán compatibles con el propósito de  defensa común, sin otra  limitación  que la de no propagar la infestación de garrapata"
+            },
+            {
+              "numero-articulo": 36,
+              "texto": "Art.  36.-  Las  extracciones  reglamentadas  en los artículos precedentes, se refieren sólo al ganado bovino. Las  demás especies podrán ser extraídas libremente siempre que procedan de establecimientos  que  estén  al día con las inspecciones  y  baños generales obligatorios que determina  el presente  decreto.  Si el establecimiento  de  origen  se hallara clasificado en la categoría \"En Observación\" y el ganado estuviera destinado a establecimientos  clasificados  \"Limpios  Provisionales\",  \"Limpios Patentados\" o se hallaran  ubicados  en  zona indemne, los animales serán inspeccionados y si se considerara necesario,  bañados  en la oportunidad  y  lugar  que establezcan  en  cada  caso mediante la correspondiente acta, el Jefe Seccional o personal de  la Dirección General    de   Sanidad  Animal,  juntamente  con la  Comisión  de Productores de Zona."
+            },
+            {
+              "numero-articulo": 37,
+              "texto": "Art.  37.-  En  esta  zona  queda terminantemente prohibido el movimiento de animales bovinos si  el  encargado  del arreo no está munido  del correspondiente  permiso  de  tránsito,  patente    de limpieza  o  guía de campaña en que conste el número de la patente.\n\nEn caso de no  llenarse estos requisitos, la tropa será intervenida en el punto en que  haya sido encontrada y se adoptarán las medidas que  correspondan. Los encargados  del  arreo  están  obligados  a exhibir  a los propietarios u ocupantes de los establecimientos que crucen con  sus  haciendas  la documentación mencionada. En caso de negativa o de no poseerla, éstos  deberán formular  la  denuncia a las    autoridades   correspondientes,  excluyendo cualquier  otra medida, que sólo incumbe al personal autorizado."
+            },
+            {
+              "numero-articulo": 38,
+              "titulo-articulo": "Animales abandonados en los caminos",
+              "texto": "Art. 38.- Queda terminantemente prohibido el abandono o suelta de animales  de  la  especie  bovina,  ovina,  caprina  y equina en caminos  públicos o predios no delimitados. En caso de transgresión a  lo  precedentemente establecido,    la  autoridad  sanitaria, requerirá el auxilio de la fuerza pública a  efectos  de dentificar a  los  propietarios  y  obligarlos  a que los recojan y encierren.\n\nNo siendo ello posible, actuará rápida  y  expeditivamente para que se  pongan en ejecución las medidas que para  tales  casos  prevean los códigos rurales, ordenanzas municipales o edictos policiales.\n\nEn caso  de infracción, éstos deberán por cuenta de los dueños, ser bañados y reintegrados a sus respectivos campos o entregados a las autoridades competentes,  sin  perjuicio  de  la aplicación de las penas  correspondientes. Los  animales cuyos dueños  no  aparezcan serán requisados."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "Tránsito  de  ganado  de  la  zona  infestada  a la de lucha o a la indemne",
+          "articulo": [
+            {
+              "numero-articulo": 39,
+              "texto": "Art. 39.- De la zona infestada no se podrá enviar ganado vacuno a  la  zona  indemne,  sino  previa  comprobación  de  la  absoluta limpieza de los animales y el baño precaucional.\n\nTratándose  de  arreos,  estos  requisitos deberán ser cumplidos al llegar al límite con la zona de lucha,  y  si el ganado sigue viaje por  los  mismos medios  a  la  indemne,  deberá  practicarse  una inspección de contralor y baño precaucional al transponer  el nuevo límite de zona.\n\nSi  el transporte se efectúa por ferrocarril, vía fluvial o camión, los requisitos  de  la inspección y el baño precaucional podrán ser cumplidos en el punto  de  procedencia  siempre que la operación se lleve a cabo en un lugar que no diste más  de  una jornada de arreo hasta el sitio de la carga y que el viaje sea directo  o  combinado con dichos medios de transporte.\n\nDe la zona de lucha a la infestada o viceversa, los movimientos  de hacienda se efectuarán  de  acuerdo  a  las  normas  que  fije la Dirección  General de  Sanidad  Animal  a propuesta de la Comisión Central de Lucha con la sola limitación de  no ocasionar perjuicios a  terceros,  debiendo  tener  en cuenta para ello  el  estado  de limpieza de la precitada zona de lucha."
+            },
+            {
+              "numero-articulo": 40,
+              "texto": "Art.  40.-  En  esta  zona no se autorizará ningún despacho de ganado bovino cuyos requisitos  reglamentarios  no  sean  cumplidos dentro  de  las 24  horas  previas al embarque, pudiendo ampliarse este plazo según sea el factor  residual del garrapaticida empleado en el baño precaucional o por causas  de  fuerza  mayor debidamente justificadas,  como ser demora en la provisión de vagones,  chatas, etcétera."
+            },
+            {
+              "numero-articulo": 41,
+              "texto": "Art.  41.- Para el transporte de yeguarizos, mulares, ovinos y caprinos de  la  zona  infestada  a  la  de  lucha o indemne, éstos deberán    ser previamente  inspeccionados  y  si  se    considera necesario, sometidos  a  un  baño  precaucional,  excepto cuando el destino sea un establecimiento \"en observación\", en  cuyo  caso los interesados    verificarán   por  sí,  la absoluta  limpieza.  De comprobarse la presencia de garrapata en los animales transportados,  los  remitentes y  aquellos  que  los  reciban  sin formular de  inmediato  la  denuncia  espontánea  al  Servicio  de Garrapata, se harán pasibles  de  las penalidades que establece la ley."
+            },
+            {
+              "numero-articulo": 42,
+              "texto": "Art. 42.- Para los ganados que se destinen a los establecimientos industrializadores    de  la  zona  indemne  la Dirección  General de Sanidad Animal acordará  a  propuesta  de  la Comisión Central  de  Lucha franquicias especiales a base de que el transporte se efectúe por  ferrocarril,  chata  o camión  en viaje directo o combinado hasta el establecimiento de destino. Cuando  se efectúe  el  trasbordo  éste se hará directamente del vagón o de la chata al camión, sin que  bajen  en  zona  indemne  los  animales a tierra, salvo el caso de trasbordo en lugares cuyas características no presenten peligro de infestación."
+            },
+            {
+              "numero-articulo": 43,
+              "texto": "Art. 43.- De los establecimientos clasificados \"limpios\" de la zona infestada,  podrán  autorizarse  transportes  con destino a la zona  indemne, previa comprobación de la absoluta limpieza  de  los animales  y  sin  baño precaucional, siempre que el establecimiento esté situado a una  distancia  no mayor  de  una  jornada de arreo hasta  el  límite de zonas o punto de embarque y que el  viaje  se efectúe directamente."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "Art.  44.-  La Dirección General de Sanidad Animal determinará los establecimientos  industrializadores  de  carnes  de  la  zona indemne  que se hallen en condiciones de recibir ganado sin peligro de infestación  con  las facilidades que especifican los artículos 35 y 42, debiéndose efectuar  el transporte  en  la  forma  que en ellos  se  establece. Determinará  también el  plazo  en que debe sacrificarse  el  ganado  y la forma de limpieza y desinfección  de los corrales y bretes que hayan  ocupado,  como  igualmente de los vagones,    chatas   y  camiones  utilizados  para  el  transporte."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "De  las  guías  de campaña, certificados de venta y removido en las zonas de lucha e infestadas",
+          "articulo": [
+            {
+              "numero-articulo": 45,
+              "texto": "Art.  45.-  Las  autoridades  locales  de  la  zona  de lucha, encargadas de  la  expedición  de guías de campaña, de removido  o certificados de venta no otorgarán  estos  documentos  para  ganado bovino,  cualquiera sea el destino que lleve, si su propietario  no presenta la  patente que acredite la limpieza del establecimiento o un permiso de  expedición  de  guía, otorgado por el personal de la Dirección General de Sanidad Animal.\n\nLas referencias de estos documentos,  deberán  consignarse  en  los que extiendan  aquellas  autoridades,  con la mayor claridad.\n\nLa  Dirección General de Sanidad Animal remitirá  periódicamente  a las autoridades  de  esta  zona  una nómina de los establecimientos \"limpios patentados\" y les comunicará  en el día las anulaciones de patentes que se produzcan."
+            },
+            {
+              "numero-articulo": 46,
+              "texto": "Art.  46.- En la zona infestada, las autoridades encargadas de otorgar los  documentos que acrediten la propiedad de los bovinos o traslados de éstos  a otros  puntos, lo harán libremente cuando el ganado se destine a la misma zona;  pero  cuando  sea  para  la  de lucha  o  indemne, exigirán previamente el permiso de expedición de guía que a  tal efecto otorgaren los funcionarios correspondientes, cuyas referencias  serán anotadas en la guía de campaña, removido o certificado de venta."
+            },
+            {
+              "numero-articulo": 47,
+              "texto": "Art.  47.-  Las  autoridades  fluviales de cualquiera de estas zonas  y las  empresas de transporte en  general,  no  autorizarán embarques de ganado vacuno  sin  la  presentación  del  permiso de tránsito  o patente de limpieza, cuando se trate de transportes  de animales hacia  la  zona  de  lucha  o indemne, no siendo necesario este requisito para el movimiento dentro  de  la zona infestada. El permiso  de  tránsito debe acompañar a la tropa;  si  se trata  de patente de limpieza,  se  anotará  el  número  en  la documentación respectiva y se devolverá al interesado."
+            },
+            {
+              "numero-articulo": 48,
+              "titulo-articulo": "Disposiciones generales para la zona indemne",
+              "texto": "Art.  48.-  En  los  establecimientos  de  la  zona indemne se observarán las siguientes disposiciones generales:\n\na)    El   ganado  procedente  de  esta  zona  podrá  transportarse libremente hacia  cualquier  punto  de  la  República,  pero si se destina  a la zona de lucha o a la infestada no podrá volver  a  la indemne sin  ser  intervenido, cualquiera  sea  el tiempo que haya permanecido en aquéllas;\n\nb)  En caso de infestación eventual, los propietarios  u  ocupantes de establecimientos  están  obligados  a interponer de inmediato la denuncia a las autoridades correspondientes,  las que dispondrán la clausura y la aplicación de los baños generales,  de acuerdo con lo dispuesto para la zona de lucha.\n\nHasta tanto no se levante la clausura, las extracciones  de bovinos serán autorizadas  únicamente  para  sacrificio inmediato y previa comprobación  de su  limpieza  y  baño  precaucional.   Las  demás especies  de animales podrán ser extraídas previa inspección  y  la aplicación  de  baño  garrapaticida,  si se considera necesario, y siempre que estén al día con los baños generales.\n\nEn casos definitivamente justificados se autoriza  a  la  Dirección General  de Sanidad  Animal a permitir extracciones con destino  a otros establecimientos de  cualquier  zona, adoptando los recaudos sanitarios del caso.\n\nLa  Dirección General de Sanidad Animal en  caso  de  comprobar  la llegada  de una  tropa  infestada a zona indemne podrá disponer el inmediato regreso de la misma,  utilizando  el  medio de transporte que  las circunstancias aconsejen al punto de procedencia,  si  así lo considera  conveniente,  para  la  mejor defensa sanitaria de la zona.\n\nLa  Dirección  General de Sanidad Animal  podrá  disponer  que  los bovinos procedentes  de la zona de lucha e infestada sean sometidos en  el establecimiento   de  destino  a  otro  baño  precaucional."
+            },
+            {
+              "numero-articulo": 49,
+              "titulo-articulo": "Informe de los trabajos realizados",
+              "texto": "Art. 49.- El Ministerio de Agricultura y Ganadería publicará el detalle  de  los trabajos efectuados, con indicación del nombre del propietario, número  de  ganado  bañado,  localidades  afectadas  y demás  datos  útiles  relacionados con  la  aplicación  de la ley."
+            },
+            {
+              "numero-articulo": 50,
+              "titulo-articulo": "Instalación de laboratorios y campos experimentales",
+              "texto": "Art.  50.-  El Ministerio de Agricultura y Ganadería instalará laboratorios regionales  y/o  campos de experimentación, destinados a realizar las investigaciones  científicas  de  los  problemas que pudieran  presentarse, relacionados con la lucha activa  contra  la garrapata,  así como para efectuar y mantener la premunición de los ganados."
+            },
+            {
+              "numero-articulo": 51,
+              "titulo-articulo": "De  los  procedimientos  de  lucha  contra  las  demás especies de garrapata",
+              "texto": "*\"Art. 51.- La Dirección general de sanidad animal, investigará procedimientos  de  lucha  contra  las demás especies de garrapatas que constituyan un peligro sanitario  como parásitos o como agentes vectores de enfermedades del ganado y animales  domésticos y podrán obligar a los propietarios si lo consideran necesario,  a  combatir la parasitosis en la forma que determine\"."
+            },
+            {
+              "numero-articulo": 52,
+              "titulo-articulo": "Medidas compulsivas",
+              "texto": "Art. 52.- De acuerdo con el art. 7 de la ley N. 12.566, en caso de oposición  o resistencia al cumplimiento de las disposiciones de la misma o del  presente  reglamento,  el  personal  autorizado  al efecto  procederá sin más trámite a hacerlas ejecutar, pudiendo con ese fin dar  orden  escrita  para  el  uso  de  la  fuerza  pública necesaria,  al  solo  objeto de allanar los lugares o locales donde estuviere el ganado y los  animales  domésticos, con respecto a los cuales fuera preciso adoptar alguna de  las medidas precedentemente establecidas."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "Penalidades",
+          "articulo": [
+            {
+              "numero-articulo": 53,
+              "texto": "Art. 53.- A los efectos de lo previsto por el art. 12 de la ley N. 12.566, se  harán  pasibles de multa de cien (100) a dos mil (2 000) pesos moneda nacional  según  la importancia de la infracción, computables con prisión a razón de un  día por cada diez (10) pesos moneda  nacional, los infractores al presente  reglamento,  en  los siguientes casos:\n\na) Los que  hicieren  circular  ganado infestado de garrapata en la zona  de lucha  o indemne, aun cuando  estuvieren  munidos  de  la patente de limpieza o permiso de tránsito;\n\nb) Los que hicieren  circular  ganado  en estas mismas zonas sin la documentación del servicio de garrapata  que  autorice el tránsito, aun  cuando no  se  encuentren  parasitados  los  animales;   c)  Los  que  dejaren  animales  abandonados  en  los caminos;\n\nd) Los que dieren al ganado otro destino que el especificado  en el permiso de tránsito, cuando éste sea restringido;\n\ne)  Los  que  obligaren  a  adoptar  medidas  conminatorias para el cumplimiento  de los baños e inspecciones en la  zona  de  lucha  y establecimientos  clausurados  de  la indemne, o emplearen remedios que  no estén  en  las condiciones establecidas  por  la  presente reglamentación;\n\nf) Los que suministraren  datos falsos para la clasificación de los establecimientos y el tránsito de ganado."
+            },
+            {
+              "numero-articulo": 54,
+              "texto": "Art.  54.-  Toda  infracción  a  las  disposiciones  legales o reglamentarias no prevista en los artículos que anteceden y  que no tuviera una  penalidad  especialmente  establecida, será reprimida con  las penalidades señaladas en el art.  12  de  la  ley  12.566."
+            },
+            {
+              "numero-articulo": 55,
+              "texto": "Art.  55.-  Las  multas  a  los  infractores  serán  impuestas directamente  por  el Poder Ejecutivo conforme a lo determinado  en el art. 12 de la ley  12.566.  De  la  aplicación  de dichas multas podrá apelarse ante el juez nacional correspondiente  dentro de los diez  (10)  días de recibida la notificación y previo pago  de  las mismas.\n\nSi estas multas  no  fueren  obladas  dentro  de los diez (10) días mencionados,  se harán efectivas en juicio sumario  por  intermedio de los jueces correspondientes,  de  acuerdo  con lo establecido en el mencionado art. 12 de la ley 12.566."
+            },
+            {
+              "numero-articulo": 56,
+              "texto": "Art. 56.- El presente decreto se pondrá en vigor a partir del 1 de junio de  1954, debiendo editarse en folletos y ser distribuido entre los interesados."
+            },
+            {
+              "numero-articulo": 57,
+              "texto": "Art.  57.-  Derógase  el decreto N. 23.103 del 3 de febrero de 1939  y toda  otra  disposición   que  se  oponga  a  la  presente reglamentación."
+            },
+            {
+              "numero-articulo": 58,
+              "texto": "Art. 58.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "PERON - HOGAN"
+          }
+        }
+      ],
+      "id-infojus": "DN19540007623"
+    }
+  }
+}

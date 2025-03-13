@@ -1,0 +1,444 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-625-1900-6391soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990555833,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "91526-nacional-decreto-reglamentario-ley-12262-sobre-carrera-medica-hospitalaria-dn19360091526-1936-10-03"
+      }
+    },
+    "content": {
+      "mecanografico": 19360091526,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 91526,
+      "timestamp-m": "2012-03-27T08:58:52",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1936-10-03",
+      "standard-normativo": "DEC C 091526 1936 10 03",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 12.262 SOBRE CARRERA MEDICA HOSPITALARIA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1936 10 08"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "AMPLIA    EL    ART.   4  (B.O.  6-2-42)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 108319 1941 00 00 0001 000"
+          },
+          {
+            "cr": "AMPLIA    EL    ART.  4  (B.O.  13-3-42)",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 112741 1942 00 00 0001 000"
+          },
+          {
+            "cr": "AMPLIA    EL   ART.  15  (B.O.  15-1-52)",
+            "id": "MODIFICADO POR2",
+            "ref": "DEC C 000090 1952 00 00 0001 000"
+          },
+          {
+            "cr": "AMPLIA    EL   ART.  19  (B.O.  4-12-43)",
+            "id": "MODIFICADO POR3",
+            "ref": "DEC C 012228 1943 00 00 0001 000"
+          },
+          {
+            "cr": "SUSTITUYE  LOS  ARTS.  1, 2, 3 Y 5 (B.O.13-8-42)",
+            "id": "MODIFICADO POR4",
+            "ref": "DEC C 124263 1942 00 00 0001 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL S/N DEL 3 DE OCTUBRE DE 1936",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2012-03-27",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 12.262 SOBRE CARRERA MEDICA HOSPITALARIA, DISPONIENDO LA NORMATIVA DE INGRESO, CONCURSO DE ANTECEDENTES, COMPUTO DE LA ANTIGÜEDAD Y ESCALAFON MEDICO. ASIMISMO SE DETALLAN LAS PRESTACIONES Y ESPECIALIDADES DEL HOSPITAL PUBLICO.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 012262 1935 09 30 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "carrera hospitalaria"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/responsabilidades especiales/ejercicio profesional/médicos/carrera hospitalaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "profesional liberal",
+                "ejercicio de profesiones liberales",
+                "profesional universitario",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "médicos"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/responsabilidades especiales/ejercicio profesional/médicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "profesional liberal",
+                "ejercicio de profesiones liberales",
+                "profesional universitario",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concurso de antecedentes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/concurso de cargos/concurso de antecedentes y oposición/concurso de antecedentes"
+            },
+            "sinonimos": {
+              "termino": [
+                "relación de empleo público",
+                "función pública",
+                "evaluación de antecedentes"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "escalafón"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/derechos de los agentes de la administración pública/carrera administrativa/escalafón"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "derechos del empleado público",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "derechos del funcionario público",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cómputo de servicios"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/cómputo de servicios"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "prueba de servicios",
+                "reconocimiento de servicios",
+                "tiempo de servicios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cesantía"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/régimen disciplinario administrativo/sanciones disciplinarias administrativas/cesantía"
+            },
+            "sinonimos": {
+              "termino": [
+                "medidas disciplinarias (administrativo)",
+                "relación de empleo público",
+                "sanciones disciplinarias (administrativo)",
+                "facultades disciplinarias (administrativo)",
+                "función pública",
+                "cesantía del empleado público"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "antigüedad"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/cómputo de servicios/antigüedad"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "prueba de servicios",
+                "tiempo de servicio",
+                "reconocimiento de servicios",
+                "tiempo de servicios",
+                "tiempo trabajado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal civil de las Fuerzas Armadas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/personal militar/personal civil de las Fuerzas Armadas"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal de las Fuerzas Armadas",
+                "personal de las fuerzas armadas y de seguridad",
+                "militares"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Departamento Nacional de Higiene"
+            },
+            "preferido": {
+              "termino": "Departamento Nacional de Higiene"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concurso de cargos",
+            "militares (personal militar)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "concurso de antecedentes",
+            "agentes de la administración pública",
+            "profesional universitario (ejercicio profesional)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "cesantía",
+            "personal civil de las Fuerzas Armadas",
+            "Departamento Nacional de Higiene",
+            "personal del sector público (agentes de la administración pública)",
+            "derechos del empleado público (derechos de los agentes de la administración pública)",
+            "responsabilidades especiales",
+            "personal militar",
+            "reconocimiento de servicios (cómputo de servicios)",
+            "personal de las Fuerzas Armadas (personal militar)",
+            "carrera hospitalaria",
+            "actividades profesionales (ejercicio profesional)",
+            "relación de empleo público (empleo público)",
+            "funcionarios y empleados públicos (agentes de la administración pública)",
+            "tiempo de servicios (cómputo de servicios)",
+            "Derecho administrativo",
+            "personal de las fuerzas armadas y de seguridad (personal militar)",
+            "cesantía del empleado público (cesantía)",
+            "responsabilidad por daños (responsabilidad civil)",
+            "ejercicio de profesiones liberales (ejercicio profesional)",
+            "derechos del funcionario público (derechos de los agentes de la administración pública)",
+            "Administración Pública",
+            "derechos de los agentes de la administración pública",
+            "ejercicio de la profesión (ejercicio profesional)",
+            "ejercicio profesional",
+            "acto administrativo",
+            "prueba de servicios (cómputo de servicios)",
+            "tiempo trabajado (antigüedad)",
+            "concurso de antecedentes y oposición",
+            "tiempo de servicio (antigüedad)",
+            "responsabilidad civil",
+            "ingreso a la función pública",
+            "cómputo de servicios",
+            "decreto reglamentario",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "reglamentos",
+            "agentes de la Administración (agentes de la administración pública)",
+            "régimen disciplinario administrativo",
+            "sanciones disciplinarias (administrativo) (sanciones disciplinarias administrativas)",
+            "facultades disciplinarias (administrativo) (régimen disciplinario administrativo)",
+            "personal del Estado (agentes de la administración pública)",
+            "derecho militar",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "Derecho civil",
+            "evaluación de antecedentes (concurso de antecedentes)",
+            "Derecho de daños (responsabilidad civil)",
+            "profesional liberal (ejercicio profesional)",
+            "medidas disciplinarias (administrativo) (sanciones disciplinarias administrativas)",
+            "médicos",
+            "función pública (Administración Pública)",
+            "Defensa nacional",
+            "carrera administrativa",
+            "derecho del trabajo (Derecho laboral)",
+            "agentes públicos (agentes de la administración pública)",
+            "profesiones liberales (ejercicio profesional)",
+            "Derecho laboral",
+            "empleo público",
+            "escalafón",
+            "sanciones disciplinarias administrativas",
+            "antigüedad",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "*Art.  1.-  Los  cargos  de  la  carrera  médica hospitalaria, obtenidos  en  las condiciones exigidas por la Ley  N.  12.262.  Se considerarán  estables,   y  sin  término  fijo,  siempre  que  sus titulares no estén en condiciones  de  jubilarse  o  que  no  medie alguna  de  las  causales  de  cesantía  que enumera el artículo 3."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "*Art. 2.- El ingreso a los hospitales nacionales y municipales, con  carácter  de  \"médico\"  y  en cualquiera de las categorías del artículo 3 de la Ley N. 12.262, se  hará  por  concurso,  en el que podrán  inscribirse  los que llenen las condiciones del artículo  2 de dicha ley y tengan  la antiguedad que exige el artículo 5, de la misma.  La  antiguedad  podrá  haber  sido  obtenida  en  cualquier hospital nacional, provincial, municipal o particular, considerándose  de  este  carácter  a  los  de  las  sociedades  de beneficencia, con personería  jurídica,  que  no persiguiendo fines de  lucro, designen a su personal, con las mismas  condiciones  que exige la ley.\n\nConsidérase  ingresado  con  arreglo  a la ley, el personal técnico que  se encontraba en funciones y hubiere  obtenido  su  cargo  por concurso,  con anterioridad a la fecha de promulgación de la Ley N.\n\n12.262."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "*Art. 3.- Son causales de cesantía de los médicos de hospitales:\n\na) Inhabilidad moral, física o mental.\n\nb) Enfermedad contagiosa crónica.\n\nc)   Inasistencias  reiteradas  o  prolongadas  al  servicio.\n\nd) Desobediencia  grave  o  reiterada a las órdenes o instrucciones que  reciban  en  el  ejercicio  de    sus  funciones,  o  conducta desordenada.\n\nf) Embargos reiterados en los sueldos."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "*Art. 4.- Los servicios médicos de los hospitales se distribuyen  en  las  siguientes  especialidades:  clínica  médica, cirugía  general,  ortopedia  y traumatología, cirugía neurológica, cirugía   infantil,  clínica  pediátrica,    clínica    obstétrica, urología,  clínica de enfermedades infecciosas, tisiología, clínica ginecológica, clínica oftalmológica, clínica otorrino - laringológica,  clínica neurológica, clínica psiquiátrica e higiene mental,  clínica  de  enfermedades  de  la  nutrición,  clínica  de enfermedades de la  sangre,  clínica dermatológica y sifilográfica, proctología, radiología y fisioterapia, laboratorio, endocrinología,  semiología  y  clínica    propedéutica;    clínica quirúrgica y técnica quirúrgica, \"Cardiología\" y \"Gastroenterología\"."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "*Art. 5.- Dentro de las limitaciones establecidas por la Ley N.\n\n12.262  y  por  este reglamento, las dependencias competentes de la administración nacional  y  municipal,  fijarán,  de acuerdo con la índole y necesidades de los servicios hospitalarios  a su cargo, la forma  de  los  concursos  y  las  atribuciones  y  deberes de  los médicos, y designarán los jurados de calificación\"."
+        },
+        {
+          "numero-articulo": 6,
+          "titulo-articulo": "Médico asistente",
+          "texto": "Art.  6.-  El médico que no tenga antiguedad reconocida, podrá ingresar  como  \"médico  asistente\",  después  de  someterse  a  un concurso de títulos,  antecedentes  y  trabajos, de acuerdo con las disposiciones que establezcan las reparticiones  a  que  se refiere el art. 5."
+        },
+        {
+          "numero-articulo": 7,
+          "titulo-articulo": "Médico agregado",
+          "texto": "Art. 7.- Para ser designado \"médico agregado\", en las vacantes que se  produzcan  en esta categoría, el candidato deberá tener una antiguedad no menor  de  cinco  años,  como  \"médico  asistente\"  y ajustarse  a  las  condiciones establecidas por cada repartición de acuerdo con el art. 5."
+        },
+        {
+          "numero-articulo": 8,
+          "titulo-articulo": "Médico interno",
+          "texto": "Art.  8.-  Los  cargos  de \"médico interno\" serán llenados por concurso,  con arreglo a las disposiciones  establecidas  por  cada repartición, de acuerdo con el art. 5."
+        },
+        {
+          "numero-articulo": 9,
+          "titulo-articulo": "Médico de los hospitales",
+          "texto": "Art. 9.- Para optar el cargo de \"médico de los hospitales\", el aspirante  deberá  tener  una  antiguedad  mínima  de cinco años de \"médico  agregado\"  y  llenar  las  condiciones exigidas  por  cada repartición, de acuerdo con el art. 5."
+        },
+        {
+          "numero-articulo": 10,
+          "titulo-articulo": "Jefe de servicio",
+          "texto": "Art. 10.- Podrán optar al cargo de \"jefe de servicio\" solamente los \"médicos de los hospitales\", de la especialidad correspondiente    a  la  vacante,  ajustándose  a  las  exigencias establecidas de acuerdo con el art. 5.\n\nQuedan exceptuados de  esta exigencia, los profesores titulares que por el hecho de serlo, deben  dirigir  un  servicio que sea asiento de una cátedra oficial."
+        }
+      ],
+      "segmento": {
+        "titulo-particion": "Director de los hospitales",
+        "articulo": [
+          {
+            "numero-articulo": 11,
+            "texto": "Art.  11.- Los directores de hospitales serán designados entre los \"jefes de  servicio\" o \"médicos de los hospitales\", ajustándose a las exigencias  impuestas por cada repartición, de acuerdo con el art. 5."
+          },
+          {
+            "numero-articulo": 12,
+            "texto": "Art.  12.-  Dentro  de  cada  repartición,  los  institutos  o establecimientos    de    índole  especial,  podrán  adoptar  otras denominaciones, para la designación  y  duración  de  sus  médicos, siempre  que  se mantengan en primer lugar las establecidas por  la ley 12.262, a los  fines  de las equivalencias de la carrera médica hospitalaria."
+          },
+          {
+            "numero-articulo": 13,
+            "texto": "Art.  13.-  El  Departamento  Nacional  de Higiene, solicitará dentro  de los treinta días de la publicación de  este  decreto,  a las direcciones  de  los diferentes hospitales de la República, una nómina de los médicos  que  presten  o  hayan prestado servicios en los  mismos,  especificando  cuál  o cuáles han  sido  los  puestos desempeñados y los años de antiguedad que tengan."
+          },
+          {
+            "numero-articulo": 14,
+            "texto": "Art. 14.- Las direcciones de los hospitales enviarán dentro de los sesenta  días  de  publicado  este  decreto, la nómina a que se refiere el art. anterior aun cuando ella no haya sido especialmente solicitada."
+          },
+          {
+            "numero-articulo": 15,
+            "texto": "*Art.  15.-  Con  las  constancias  de los documentos a que se refieren los dos artículos anteriores, el  Departamento Nacional de Higiene llevará un archivo debidamente clasificado  en la forma que se detalla a continuación:\n\na)  Los médicos con una antiguedad menor de diez años  y  mayor  de cinco,  serán  considerados médicos asistentes y podrán presentarse a concurso para  médicos  agregados  y  los con más de diez años de servicio serán considerados médicos agregados  y podrán presentarse a  concurso  para  médico  de los hospitales; no podrán  computarse servicios simultáneos;\n\nb) Este archivo estará a disposición  de todos los médicos para que puedan  controlarlo  y pedir las rectificaciones  o  modificaciones procedentes presentando en cada caso los comprobantes correspondientes."
+          },
+          {
+            "numero-articulo": 16,
+            "texto": "Art.  16.- Desde la publicación de este decreto los directores de los diferentes hospitales de la República, enviarán mensualmente  al  Departamento Nacional de Higiene, una planilla de asistencia de los médicos;  la  omisión  de este requisito los hará pasibles  de  una  multa  de cincuenta pesos por  cada  vez;  estas planillas  serán archivadas  y  clasificadas  por  el  Departamento Nacional de Higiene."
+          },
+          {
+            "numero-articulo": 17,
+            "texto": "Art. 17.- Al presentarse a cada concurso los médicos solicitarán  al  Departamento  Nacional de Higiene y éste entregará en el día, un certificado de los  servicios prestados y los años de antiguedad correspondientes, de acuerdo  a  los partes recibidos de las direcciones de los diferentes hospitales."
+          },
+          {
+            "numero-articulo": 18,
+            "texto": "Art.  18.-  Los jefes de servicio de los diferentes hospitales nacionales, municipales,  provinciales  o  particulares  que  en la fecha  no  tuvieran una antiguedad mínima de diez años de servicios como médico  en  las  diversas categorías determinadas en la ley 12 262, no podrán aspirar  a  ocupar  otra  jefatura de servicio hasta tanto no concurra en ellos esa antiguedad."
+          },
+          {
+            "numero-articulo": 19,
+            "texto": "*Art.  19.- A los médicos civiles, médicos militares o navales \"especialistas\"   exclusivamente,  que  presten  servicios  en  los hospitales divisionarios  del Ejército o la Armada Nacional, se les reconocerá la antiguedad obtenida  en  la  misma forma que a los de los  demás  hospitales  nacionales,  provinciales,   municipales  o particulares\"."
+          },
+          {
+            "numero-articulo": 20,
+            "texto": "Art. 20.- De acuerdo con lo dispuesto en el art. 7 de la ley 12 262, el Departamento Nacional de Higiene, ejercerá la fiscalización    correspondiente   y  pondrá  en  conocimiento  del Ministerio Público Fiscal, a sus efectos,  cualquier  contravención que comprobare y aplicará y percibirá las multas a que  se  refiere el  art.  16  de  este  decreto  reglamentario. El producido de las mismas ingresará a rentas generales."
+          },
+          {
+            "numero-articulo": 21,
+            "texto": "Art.  21.- Cualquiera podrá denunciar al Departamento Nacional de  Higiene,   las  infracciones  al  art.  7  de  la  ley  12.262."
+          },
+          {
+            "numero-articulo": 22,
+            "texto": "Art. 22.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+          }
+        ],
+        "firmantes": {
+          "firmantes": "JUSTO - CASTILLO"
+        }
+      },
+      "id-infojus": "DN19360091526"
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-001-1300-0391soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991560128,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "300311-nacional-decreto-reglamentario-ley-11544-sobre-jornada-laboral-trabajo-insalubre-dn19300031100-1930-03-11"
+      }
+    },
+    "content": {
+      "mecanografico": 19300031100,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 300311,
+      "timestamp-m": "2012-03-27T08:57:54",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1930-03-11",
+      "standard-normativo": "DEC C 300311 1930 03 11",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 11.544 SOBRE JORNADA LABORAL Y TRABAJO INSALUBRE.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1930 04 02"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "B.O.  28-1-33",
+            "id": "OBSERVADO POR0",
+            "ref": "DEC C 016115 1933 01 16 0023 000"
+          },
+          {
+            "cr": "INCORPORA AP. 16 AL ART. 6 B.O. 10-10-74",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 001016 1974 10 03 0001 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL S/N DEL 11 DE MARZO DE 1930",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2012-03-27",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 11.544 SOBRE JORNADA LABORAL, DANDO LUGAR AL ENCUADRAMIENTO POR CONVENCIONES ENTRE OBREROS Y EMPLEADOR. SE DETERMINAN EXCEPCIONES TRANSITORIAS AL TRABAJO INSALUBRE, ASI COMO CONDICIONES LABORALES PREVENTIVAS DE ACCIDENTES DE TRABAJO. SE FIJAN DIAS FERIADOS Y SE HACE ESPECIAL REFERENCIA A EMPRESAS FAMILIARES.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 011544 1929 08 29 0000 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA 0016 FECHA DE ENTRADA EN VIGENCIA 1930 06 02  OBSERVACION: EN TODO LO NO REGLAMENTADO POR EL DEC. 16.115/33, CONTINUARA EN VIGOR EL PRESENTE DECRETO HASTA TANTO EL P.E.N. DICTE REGLAMENTOS ESPECIALES PARA CADA ACTIVIDAD, POR ART. 23 DEL DEC.\n\n16.115/33 B.O. 33-01-16"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jornada laboral"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/jornada de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "horas de trabajo",
+                "jornada legal de trabajo",
+                "jornada laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/trabajador"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "asalariados",
+                "empleado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador en relación de dependencia"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/sujetos de los deberes previsionales/contribuyentes previsionales/contribuyente por derecho propio/trabajador en relación de dependencia"
+            },
+            "sinonimos": {
+              "termino": "derecho de los recursos de la seguridad social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajo insalubre"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/empleador/obligaciones del empleador/higiene y seguridad del trabajo/trabajo insalubre"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "higiene y seguridad en el trabajo",
+                "higiene laboral",
+                "patrón",
+                "obligaciones del patrón",
+                "deberes del empleador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "accidentes de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jornada de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/jornada de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "horas de trabajo",
+                "jornada legal de trabajo",
+                "jornada laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Departamento Nacional del Trabajo"
+            },
+            "preferido": {
+              "termino": "Departamento Nacional del Trabajo"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "higiene y seguridad del trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/empleador/obligaciones del empleador/higiene y seguridad del trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "higiene y seguridad en el trabajo",
+                "higiene laboral",
+                "patrón",
+                "obligaciones del patrón",
+                "deberes del empleador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "días no laborables"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/feriados"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "feriados y días no laborables",
+                "feriados nacionales",
+                "feriados obligatorios y días no laborables",
+                "días no laborables"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "contribuyentes previsionales",
+            "recursos de la seguridad social",
+            "accidentes de trabajo",
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "trabajador en relación de dependencia",
+            "reglamentos",
+            "obligaciones del empleador",
+            "contrato laboral (contrato de trabajo)",
+            "sujetos del contrato de trabajo",
+            "días no laborables (feriados)",
+            "jornada laboral (jornada de trabajo)",
+            "asalariados (trabajador)",
+            "sujetos de los deberes previsionales",
+            "feriados y días no laborables (feriados)",
+            "obligaciones del patrón (obligaciones del empleador)",
+            "contribuyente por derecho propio",
+            "acto administrativo de alcance general",
+            "deberes del empleador (obligaciones del empleador)",
+            "reglamento administrativo (reglamentos)",
+            "Departamento Nacional del Trabajo",
+            "empleado (trabajador)",
+            "patrón (empleador)",
+            "Derecho administrativo",
+            "trabajador",
+            "feriados",
+            "jornada legal de trabajo (jornada de trabajo)",
+            "feriados nacionales (feriados)",
+            "accidentes y enfermedades de trabajo (accidentes de trabajo)",
+            "trabajo insalubre",
+            "Seguridad social",
+            "feriados obligatorios y días no laborables (feriados)",
+            "contrato de trabajo",
+            "derecho del trabajo (Derecho laboral)",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "higiene y seguridad del trabajo",
+            "empleador",
+            "acto administrativo",
+            "higiene laboral (higiene y seguridad del trabajo)",
+            "Derecho laboral",
+            "horas de trabajo (jornada de trabajo)",
+            "jornada de trabajo",
+            "contrato de trabajo en general",
+            "higiene y seguridad en el trabajo (higiene y seguridad del trabajo)"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "Nota de redacción: SIN TEXTO."
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "y"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1.- La regla de las ocho (8), horas diarias o cuarenta y ocho (48) semanales,  establecida  en  el  art. 1 de la ley núm. 11 544,  se  refiere  a la  duración  del trabajo efectivo.  Para  el cómputo de la jornada legal se considerará  trabajo  efectivo  todo el  tiempo  que un obrero o empleado deja de disponer libremente de su voluntad para  estar  a  disposición  de  un patrón  o superior jerárquico,  no  computándose en el trabajo efectivo, los descansos intercalados  y  las  interrupciones  apreciables  en  el  trabajo."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2.- Los patrones y sus obreros y empleados pueden convenir la forma de  distribución de las jornadas semanales o quincenales, siempre que lo convenido  se encuentre de acuerdo con la ley.\n\nLos convenios que se celebren  entre patrones y empleados u obreros dentro del régimen legal, deberán  ser  inscriptos  en  un registro especial  que al efecto abrirán las autoridades de aplicación,  las que podrán  observarlos  si a su juicio no están comprendidos en lo legal, con apelación ante el Ministerio del Interior."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3.- Si al ponerse en vigencia esta ley, hubiera establecimientos  donde se trabaja ya ocho horas diarias o cuarenta y  ocho  semanales,  con modalidades   de  descanso  dedicado  a alimentación  u  otros  esparcimientos, dichas  modalidades  podrán continuar  si  media la conformidad de  patrones y  obreros  y  a condición de que no afecte la jornada legal.\n\nEsta conformidad  se  presumirá si no se hiciere, por cualquiera de las dos partes, expresa  manifestación  contraria,  dentro  de  los sesenta días de la fecha del presente decreto."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4.-  En  virtud  del 2 apartado del art. 1 de la ley, no están comprendidos en sus disposiciones  los  establecimientos  en que trabajen, únicamente  miembros  de la familia del jefe, dueño, empresario,  director  o habilitado principal,  sin  otro  personal extraño.\n\nEntiéndese, por \"miembros  de  la  familia\" las personas vinculadas por parentesco,  bien sea legítimo o  natural.  Se  trata  de  los miembros de la familia  del  \"jefe\",  que  es  sinónimo  de  dueño, empresario,  gerente, director o habilitado principal, y no de  la familia de cualquier jefe  de sección  o  departamento de un mismo establecimiento,  ni  del  capataz distribuidor    del  trabajo  o encargado de funciones meramente técnicas."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5.- Se considerará \"habilitado principal\" al encargado de un establecimiento  que  tenga  la  autorización  de  administrar, dirigir  o contratar  por  cuenta  de  su dueño, con sueldo fijo o mediante  participación  en  los  beneficios.    No   se  reputarán \"habilitados\"  los  empleados  u obreros que se limiten a  percibir además del sueldo una dádiva o gratificación  periódica  o un tanto por ciento sobre las utilidades netas del establecimiento  o  sobre el  importe  de  las ventas. Cuando un establecimiento tenga varios habilitados, será  \"principal\" aquel que ejerza la superintendencia sobre los demás habilitados.\n\nIndependientemente de  los  requisitos establecidos en otras leyes, el contrato de habilitación constará  por escrito y será anotado en el  registro correspondiente  de  las autoridades  de  aplicación."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "*Art. 6 (2).- La jornada de seis (6) horas diarias o treinta y seis (36) semanales,  sólo  tiene  aplicación  cuando  el obrero o empleado    trabaja constantemente  su  jornada  en  los  lugares considerados en este decreto como insalubres.\n\nSe considerarán \"lugares  insalubres\"  aquellos  en que se realicen los siguientes trabajos:\n\n1)  Fabricación  de  albayalde,  minio  y  cualquiera otra  materia colorante tóxica, así como la manipulación de  pinturas, esmaltes o barnices que contengan sales de plomo o arsénico.\n\n2) Talla y pulimento de vidrio, pulimento de metales  con esmeril y el  trabajo en cualquier local o sitio en que ocurra habitualmente desprendimiento  de polvo  o  vapores  irritantes  o tóxicos.\n\n3)  Fabricación,  fundición  y laminado del plomo y fabricación  de litargirio, minio,  massicot,  cerusa   y  óxido  de  plomo.  4)    Talleres  que  empleen  máquinas  de  componer,    linotipos, tipograph, fundidores de mototipo, fundidores de tipo, máquinas de estereotipia, manipulación de plomo, antimonio, estaño, rotograbado y aerografía.\n\n5) Fabricación  de  barnices grasos, de sulfuro de carbono, de éter sulfuroso y acético,   colodión  y  sus  aplicaciones,  de  telas impermeables,  de ácido  sulfúrico,  de  ácido  pícrico,  oxálico, salicílico, murecida o purpurante  de amonio, cloro, cloruro de cal o  hipoclorito  de cal, ácido nítrico  y  azótico,  cromatos.  6)  Fabricación  de  mercurio  y  sus  compuestos,  destilación  de mercurio, sublimato  corrosivo  y  calomel,  fulminato de mercurio.\n\n7) Fabricación de perfumes con derivados nítricos.\n\n8) Fabricación de blanco de zinc, fabricación  y trituración de los componentes del cobre y tratamiento del mismo por  los  ácidos.\n\n9) Dorado y plateado.\n\n10) Fabricación de combinaciones arsenicales, fabricación  de sales de  soda, de  prusiato de potasio y sus sales, de potasa y de  sus sales, de celuloide.\n\n11)  Destilería  de  materias  alquitranosas  (parafina,  creosota, ácido fénico).\n\n12) Trabajos de hilandería  de  lana, de curtiembre, trituración de trapos, cardado en fábricas de tejidos,  calderas  de  tintorería y drogas  y  otros lugares de la industria textil de temperatura  muy elevada.\n\n13) Trabajos  debajo  del  agua,  reparación de buques, descenso de buzos.\n\n14)  Trabajos  de  construcción,  perforación   o  excavamiento  de subterráneos  o sótanos que a juicio de las autoridades  sanitarias o técnicas representen  lugares insalubres por viciación del aire o su  compresión o emanación  de  polvos  tóxicos  permanentes.  15) Trabajos  de sanatorios y hospitales especialmente destinados o con secciones destinadas  a  enfermos  de  tuberculosis o tareas de radiocopias.\n\nLa  enumeración que antecede podrá ser ampliada  a  pedido  de  los interesados o  directamente  por  el P.E., con intervención de las oficinas técnicas respectivas.\n\n16) Trabajos en industrias ruidosas  que  a  juicio de la autoridad nacional competente  representen  lugares insalubres  por  existir niveles sonoros que su intensidad y  frecuencia  pongan  en peligro la salud de los trabajadores.\n\nLa   autoridad  nacional  de  aplicación  dictará  las  normas  que permitan la adecuada vigencia de lo determinado precedentemente y fijará y fiscalizará los valores  permisibles de nivel de presión sonora, en relación a la duración máxima  de  exposición  en  horas por día."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7.- Cuando la introducción de nuevos métodos de fabricación  o adopción  de dispositivos de prevención, haya hecho desaparecer el carácter de insalubre en algún lugar, establecimiento o tarea, el  P.E.,  a  pedido de parte interesada y con  intervención  de  las  oficinas  técnicas  respectivas,  podrá autorizar  el  trabajo de una jornada superior  a  la  de  6  horas diarias."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art.  8.-  Por  \"empleado  de  dirección  o  de vigilancia\" se entenderán:\n\na)  Las personas citadas en el art. 1 de la ley, esto  es,  jefe  o dueño, empresarios, gerente, director o habilitado principal;\n\nb) Los altos  empleados  administrativos o técnicos que substituyen a las personas arriba mencionadas  en  la  dirección  o mando en el lugar  de trabajo:  subgerente,  personal de secretaría, jefes  de sección, de departamento o de taller,  jefe  de  equipo, capataces, inspectores, subinspectores,  apuntadores  y,  en  general,    el personal dedicado  a  la vigilancia superior o subalterna, a cargo esta  última  de  los  serenos, porteros,  ascensoristas  y  otros similares."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art.  9.-  Entiéndese  por  \"equipo\"  un número determinado de empleados u obreros cuyo trabajo comienza y  termina  en  una misma hora.\n\nEn  esta denominación quedan comprendidos también los trabajos  que se realizan en  turnos  sucesivos  para  tareas  que  no  admiten interrupción."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art.  10.-  La  jornada  de  los equipos o turnos, no excederá normalmente de 8 horas diarias o 48  semanales. Sin embargo en esta clase de trabajos la jornada podrá ser  prolongada  siempre  que en cada  período  de  3  semanas, el  término  medio  de las horas de trabajo  no  exceda  de  8 horas por día o 48 semanales.  En  estos casos no habrá recargo de  salario  por  las  horas complementarias cuando  dentro  de  las  3  semanas no exceda del número  de horas admitido por la ley."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art. 11.- En caso de accidente ocurrido o inminente, o en caso de trabajo de  urgencia a efectuarse en las máquinas, herramientas o instalaciones,  así como  en  los  casos de fuerza mayor o casos fortuitos, la prolongación de la jornada  no  se  efectuará sino en la  medida y condiciones especificadas en el inc. c)  del  art.  3.\n\nLas horas  extraordinarias así concedidas no dará derecho a recargo de salario."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art.  12.-  En  casos  de  días  u horas perdidas dentro de la jornada normal, la recuperación de las  horas no utilizadas se hará de acuerdo con el siguiente cómputo: si la  suspensión  del trabajo fuera de más de 1 día, podrá recuperarse en un plazo máximo  de  15 días,  a  contar del día de la reanudación del trabajo; si fuera de una semana,  en  el  plazo máximo de 60 días; si fuera por más de 1 semana, en un plazo mayor  de  60  días,  pero, en este caso deberá existir la conformidad de patrón con sus obreros."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "Art.  13.- Independientemente de las excepciones contenidas en los arts. 1,  2  y  3  de  la  ley, podrán establecerse excepciones permanentes y excepciones temporarias.\n\nSerán admisibles excepciones permanentes:\n\na) Para trabajos preparatorios o complementarios;\n\nb)  Para  ciertas  categorías  de  personas    cuyo  trabajo  fuera especialmente intermitente.\n\nSerán  admitidas  excepciones  temporarias  para  permitir   a  las empresas hacer  frente  a las demandas extraordinarias de trabajo.\n\nLas excepciones a título permanente  o temporario se concederán sea por industria,  sea  por  oficio,  sea  por   región;  podrán  ser generales  o especiales. Las generales se otorgan  por  resolución del Ministerio  del Interior; las especiales podrán ser concedidas por las autoridades de aplicación.\n\nLas  excepciones  permanentes  y  generales  se  concederán  previa consulta a las respectivas  organizaciones patronales y obreras, si las hubiere.\n\nLas excepciones especiales serán  permitidas  en  cada  caso por la autoridad de aplicación.\n\nSi existieran contratos colectivos en algún ramo de la industria  y del comercio,  y  que  prevean el caso de extender la jornada de 8 horas  diarias o 48  semanales,  las  excepciones  especiales  no afectarán el horario establecido en dichos contratos."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "Art. 14.- Los pedidos de excepción, permanentes o temporarios, se formularán  en papel simple a la autoridad de aplicación, que en la Capital Federal  es  el  Departamento  Nacional del Trabajo y en los territorios el respectivo gobernador.\n\nCada pedido expresará la razón que le sirva  de  fundamento,  clase de establecimiento,  forma  de recuperación de las horas perdidas, número máximo de las horas suplementarias,  horario  a  establecer, duración de la excepción cuando es temporaria, distribución  de los equipos o turno y número de obreros.\n\nLos    permisos    permanentes  serán  elevados  a  resolución  del Ministerio del Interior,  previa  consulta  a  las  organizaciones patronales u  obreras donde existan, con informe de las respectivas autoridades de  aplicación.  Los permisos  temporarios  podrán ser concedidos  directamente  por  las autoridades de aplicación.  Todo permiso será anotado en el  registro  respectivo a los efectos de su mejor inspección y vigilancia."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Art. 15.- Serán \"días feriados\" a los efectos del art. 5 de la ley, los días  domingo,  25 de Mayo, 9 de Julio, 1 de Mayo y 12 de Octubre."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "Art.  16.- El presente decreto comenzará a regir a los sesenta (60) días de su publicación en el \"Boletín Oficial\"."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "Art. 17.- Publíquese, comuníquese y dése a la Dirección General del Registro Oficial."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "IRIGOYEN - GONZALEZ"
+      },
+      "id-infojus": "DN19300031100"
+    }
+  }
+}

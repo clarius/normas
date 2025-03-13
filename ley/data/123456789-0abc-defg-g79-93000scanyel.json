@@ -1,0 +1,814 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g79-93000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583683430,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24463-nacional-ley-solidaridad-previsional-lns0003997-1995-03-08"
+      }
+    },
+    "content": {
+      "mecanografico": "S0003997",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "REGLAMENTA ARTS. 7, 9, 15, 22 Y 25",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 000525 1995 09 22 0003 000 0005 000"
+        }
+      },
+      "numero-norma": 24463,
+      "timestamp": "2013-01-19T18:51:39",
+      "timestamp-m": "2013-01-19T18:51:39",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1995-03-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024463 1995 03 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 24.463",
+          "Buenos Aires, 8 de Marzo de 1995"
+        ]
+      },
+      "titulo-norma": "LEY DE SOLIDARIDAD PREVISIONAL.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1995 03 30"
+        }
+      },
+      "sancion": "El  Senado  y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+      "anexos-ley": {
+        "anexo-ley": "A INDICE DE REMUNERACIONES NO MEMORIZABLE"
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.463",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2013-01-19",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 34"
+      },
+      "sumario": {
+        "sumario": "JUILACIONES-PENSIONES-SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES -HABER MINIMO JUBILATORIO-HABER MAXIMO JUBILATORIO-PROCEDIMIENTO JUDICIAL DE LA SEGURIDAD SOCIAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "ley de solidaridad previsional"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/Sistema Integrado de Jubilaciones y Pensiones/solidaridad previsional"
+            },
+            "sinonimos": {
+              "termino": [
+                "previsión social",
+                "SIJP",
+                "ley de solidaridad previsional",
+                "SIJYP"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "pensión por fallecimiento",
+                "prestación de pensión por fallecimiento",
+                "derecho de pensión",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "previsión social",
+                "SIJP",
+                "SIJYP"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "haber mínimo jubilatorio"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones/haber jubilatorio/haber mínimo jubilatorio"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "haber máximo jubilatorio"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones/haber jubilatorio/haber máximo jubilatorio"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "proceso judicial"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/proceso judicial"
+            },
+            "sinonimos": {
+              "termino": "procedimiento judicial"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "procedimiento judicial de la seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social/procedimiento judicial de la seguridad social"
+            },
+            "sinonimos": {
+              "termino": "procedimiento judicial previsional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "competencia previsional"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/jurisdicción y competencia/competencia/competencia por la materia/competencia previsional"
+            },
+            "sinonimos": {
+              "termino": [
+                "competencia material",
+                "juez incompetente",
+                "cuestiones previsionales",
+                "materia previsional",
+                "justicia de la Seguridad Social",
+                "fuero de la Seguridad Social",
+                "tribunal competente",
+                "justicia previsional",
+                "competencia de la seguridad social",
+                "competencia por el fuero",
+                "fuero previsional",
+                "competencia en razón de la materia",
+                "juez competente",
+                "competencia jurisdiccional",
+                "incompetencia"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Cámara Nacional de Apelaciones de la Seguridad Social"
+            },
+            "preferido": {
+              "termino": "Cámara Nacional de Apelaciones de la Seguridad Social"
+            },
+            "sinonimos": {
+              "termino": "Cámara Nacional de la Previsión Social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Cámara Federal de la Seguridad Social"
+            },
+            "preferido": {
+              "termino": "Cámara Federal de la Seguridad Social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "conversión del proceso previsional"
+            },
+            "preferido": {
+              "termino": "Seguridad social/procedimiento judicial de la seguridad social/conversión del proceso previsional"
+            },
+            "sinonimos": {
+              "termino": "procedimiento judicial previsional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "organización de la justicia"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia"
+            },
+            "sinonimos": {
+              "termino": [
+                "organización del Poder Judicial",
+                "organización judicial"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "organización judicial (organización de la justicia)",
+            "haber previsional (beneficios previsionales)",
+            "Cámara Nacional de la Previsión Social (Cámara Nacional de Apelaciones de la Seguridad Social)",
+            "derecho de pensión (pensiones)",
+            "competencia por la materia",
+            "competencia de la seguridad social (competencia previsional)",
+            "haber máximo jubilatorio",
+            "haber jubilatorio",
+            "justicia previsional (competencia previsional)",
+            "competencia",
+            "prestación de pensión por fallecimiento (pensiones)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "procedimiento judicial (proceso judicial)",
+            "procedimiento judicial previsional (procedimiento judicial de la seguridad social)",
+            "haber mínimo jubilatorio",
+            "competencia en razón de la materia (competencia por la materia)",
+            "proceso judicial",
+            "Sistema Integrado de Jubilaciones y Pensiones",
+            "Seguridad social",
+            "competencia jurisdiccional (competencia)",
+            "incompetencia (competencia)",
+            "conversión del proceso previsional",
+            "juez competente (competencia)",
+            "fuero de la Seguridad Social (competencia previsional)",
+            "pensión por fallecimiento (pensiones)",
+            "juez incompetente (competencia)",
+            "organización de la justicia",
+            "Cámara Federal de la Seguridad Social",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "ley de solidaridad previsional (solidaridad previsional)",
+            "fuero previsional (competencia previsional)",
+            "previsión social (sistema previsional)",
+            "organización del Poder Judicial (organización de la justicia)",
+            "SIJYP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "derechos previsionales (beneficios previsionales)",
+            "Derecho procesal",
+            "sistema previsional",
+            "jubilaciones",
+            "Cámara Nacional de Apelaciones de la Seguridad Social",
+            "cuestiones previsionales (competencia previsional)",
+            "competencia previsional",
+            "competencia material (competencia por la materia)",
+            "solidaridad previsional",
+            "pensiones",
+            "procedimiento judicial de la seguridad social",
+            "materia previsional (competencia previsional)",
+            "SIJP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "jurisdicción y competencia",
+            "beneficios previsionales",
+            "tribunal competente (competencia)",
+            "competencia por el fuero (competencia por la materia)",
+            "justicia de la Seguridad Social (competencia previsional)"
+          ]
+        }
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO I DE  LAS  REFORMAS  AL SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES",
+          "segmento": [
+            {
+              "titulo-particion": "CAPITULO I REFORMAS A LA LEGISLACION PREVISIONAL",
+              "articulo": [
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 024241 1993 09 23 0018 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 024447 1994 12 23 0000 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 1,
+                  "texto": "ARTICULO 1.- 1.  Los  sistemas  públicos  de  previsión de carácter nacional son sistemas de reparto asistido, basados en el principio de solidaridad.\n\n2. Las prestaciones otorgadas o a otorgarse por dichos sistemas serán financiadas con los recursos enumerados en el artículo 18 de la Ley 24.241, y quedan sometidas a las normas que sobre haberes mínimos y máximos, incompatibilidades, y movilidad establece la Ley 24.241.\n\n3. El Estado  nacional  garantiza el otorgamiento y pago  de  las prestaciones de dichos sistemas,  hasta  el  monto  de  los créditos presupuestarios expresamente  comprometidos  para su financiamiento por la respectiva Ley de Presupuesto.\n\nEl monto de los créditos presupuestarios anuales destinados al financiamiento del régimen previsional público no podrá ser inferior a lo asignado en laLey de Presupuesto 24.447.\n\n4. Los recursos de dichos sistemas son inembargables."
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0016 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 2,
+                  "texto": "ARTICULO 2.- Nota de redacción: MODIFICA LEY 24.241."
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0017 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 3,
+                  "texto": "ARTICULO 3.- Nota de redacción: MODIFICALEY 24.241"
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0018 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 4,
+                  "texto": "ARTICULO 4.- Nota de redacción: MODIFICALEY 24.241"
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0032 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 5,
+                  "texto": "ARTICULO 5.- Nota de redacción: MODIFICALEY 24.241"
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": "SUSTITUIDO",
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0034 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 6,
+                  "texto": "ARTICULO 6.- Nota de redacción: MODIFICALEY 24.241"
+                },
+                {
+                  "observa-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "OBSERVA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 7,
+                  "texto": "ARTICULO 7.- Movilidad de las prestaciones.\n\n1.  La  movilidad  de  las prestaciones de los sistemas públicos de previsión de  carácter  nacional,  por  períodos  anteriores  a  la promulgación  de la presente  ley  se  regirán  por  los  siguientes criterios:\n\na) Las prestaciones  correspondientes a períodos anteriores al 1 de abril de 1991 se ajustarán  según  el  índice definido en el anexo 1 de esta Ley;\n\nb) Las prestaciones correspondientes a  períodos comprendidos entre el 1 de abril de 1991 y la fecha de promulgación  de la presente ley se ajustarán según las disposiciones oportunamente  aprobadas por el Ministerio  de  Trabajo  y Seguridad  Social  de  la Nación  y  por organismos de su dependencia.\n\n2. A partir de la vigencia de la presente ley todas las prestaciones  de  los sistemas  públicos  de previsión de  carácter nacional tendrán la movilidad que anualmente  determine  la  Ley  de Presupuesto.    Dicha  movilidad  podrá  ser distribuida  en  forma diferenciada a fin  de  incrementar  las  prestaciones mínimas.\n\nEn ningún caso esta movilidad podrá consistir en una determinada proporción entre el haber de retiro y las remuneraciones de los activos."
+                },
+                {
+                  "numero-articulo": "7 002",
+                  "texto": "*ARTICULO 7 BIS: No se entenderán como movilidades las reliquidaciones por rectificación que deban efectuarse en el haber de prestación de las jubilaciones y pensiones, cuya causa fueren errores materiales y/u omisiones producidos por la ANSeS o la repartición de origen.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Incorporado (B.O. 2-1-2001).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 025372 2000 11 29 0001 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "observa-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "OBSERVA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 8,
+                  "texto": "ARTICULO 8.- Mejora de los haberes mínimos.\n\nLas  futuras  leyes  de  presupuesto destinarán preferentemente los mayores recursos que se asignen  anualmente  en las mismas, así como los  eventuales excedentes  del  régimen  previsional   público,  a mejorar las prestaciones de los beneficiarios que carezcan  de otros ingresos  y  perciban  prestaciones previsionales  inferiores a los cuatrocientos cincuenta pesos ($ 450)."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "TOR C 018037 1976 11 16 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 024241 1993 09 23 0158 000 0000 000"
+                      }
+                    ]
+                  },
+                  "observa-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "OBSERVA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 9,
+                  "texto": "*ARTICULO 9.- Haberes máximos.\n\n1. (Nota de Redacción) Derogado por Dec. 1199/2004.\n\n2. Los haberes previsionales mensuales correspondientes a las prestaciones otorgadas en virtud de leyes anteriores a la Ley 24241 que no tuvieren otro haber máximo menor, en la suma equivalente al OCHENTA Y DOS POR CIENTO (82 %) del monto máximo de la remuneración sujeta a aportes y contribuciones, prevista en el segundo párrafo del artículo 13 de la Ley 18.037, modificado por el artículo 158 apartado 1 de la Ley 24.241, estarán sujetos a las siguientes escalas de deducciones:\n\n- De $ 3.100 a $ 5.000: 20% sobre el excedente de $ 3.100.- - De $ 5.001 a $ 7.000: $ 380 más el 35% del excedente de $ 5.000 - De $ 7.001 a $ 9.000: $ 1.080 más el 50% del excedente de $ 7.000 - A partir de $ 9.001: $ 2.080 más el 70% del excedente de $ 9.000 Las escalas de deducciones establecidas precedentemente serán de aplicación también a los beneficios previsionales de las Ex Cajas Previsionales Provinciales transferidas a la ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL.\n\n3. Hasta tanto la Ley de Presupuesto cumpla con lo establecido en el artículo 17 de la Ley 24.241, el monto del haber máximo del Régimen Previsional Público que regula la referida ley y correspondiente a las prestaciones que se otorguen después de la sanción de la presente no podrá superar los tres mil cien pesos ($ 3.100).",
+                  "modificado-por": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "(B.O. 14/09/2004) Inc. 1 derogado, a partir del 1er día del tercer mes posterior a la vigencia del Dec. 1199/2004, quedando unificado el haber máximo de las prestaciones otorgadas o a otorgar en virtud de leyes generales anteriores a la Ley 24.241, en lo dispuesto por el inc. 3, hasta tanto la Ley de Presupuesto determine el importe máximo a que se refiere el art. 17 de la Ley 24.241.",
+                        "id": "MODIFICADO_POR_0",
+                        "ref": "DNU C 001199 2004 09 13 0004 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 05/10/2007). Se incrementa el monto del haber máximo de las prestaciones otorgadas o a otorgar en virtud de las leyes generales anteriores y de la Ley N. 24.241, a que refieren los incisos 1 y 3 del presente, y hasta tanto la Ley de Presupuesto determine el importe máximo a que se refiere el artículo 17 de la Ley N. 24.241.",
+                        "id": "MODIFICADO_POR_1",
+                        "ref": "DEC C 001346 2007 10 04 0004 000 0000 000"
+                      }
+                    ]
+                  },
+                  "observado-por": {
+                    "referencia-normativa": {
+                      "cr": "Incrementa el monto del haber máximo de las prestaciones.(B.O. 21-02-2008)",
+                      "id": "OBSERVADO_POR_0",
+                      "ref": "DEC C 000279 2008 02 19 0004 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 10,
+                  "texto": "ARTICULO 10.- Orden público.\n\n1. La presente Ley es federal y de orden público.\n\n2. No se aplicará retroactivamente respecto de haberes correspondientes a períodos anteriores a su entrada en vigencia."
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0158 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 11,
+                  "texto": "ARTICULO 11.- Nota de redacción:\n\nMODIFICA LEY 24.241 Y DEROGA DECRETO 2.302/94.",
+                  "deroga-a": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "DEROGA_A_0",
+                        "ref": "LEY C 024241 1993 09 23 0125 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "DEROGA_A_1",
+                        "ref": "LEY C 024241 1993 09 23 0160 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "DEROGA_A_2",
+                        "ref": "DNU C 002302 1994 12 27 0000 000 0000 000"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 024307 1993 12 23 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 12,
+                  "texto": "ARTICULO 12.- Cuando de acuerdo con lo establecido por el pacto fiscal Ley 24.307 para la producción y el empleo, se transfieran Cajas de Previsión Social Provincial al Régimen Previsional Público Nacional, y los primeros registraren déficit operativo, deberá habilitarse el correspondiente crédito presupuestario sin que afecten los recursos que la presente Ley asigna al Sistema Previsional Público Nacional."
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 024241 1993 09 23 0188 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 13,
+                  "texto": "ARTICULO 13.- Nota de redacción: MODIFICA LEY 24.241."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "CAPITULO II REFORMA    AL    PROCEDIMIENTO  JUDICIAL  DE  LA  SEGURIDAD  SOCIAL",
+              "articulo": [
+                {
+                  "numero-articulo": 14,
+                  "texto": "ARTICULO  14.-  El procedimiento de impugnación judicial de los actos administrativos  de  la  Administración  Nacional de Seguridad Social, se regirá por las disposiciones del presente  Capítulo."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 019549 1972 04 03 0025 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "CPC C 017454 1981 08 18 0000 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 15,
+                  "texto": "*ARTICULO 15.- Las resoluciones de la Administración Nacional de Seguridad Social podrán ser impugnadas ante los Juzgados Federales de Primera Instancia de la Seguridad Social de la Capital Federal, y ante los juzgados federales con asiento en las provincias, dentro del plazo de caducidad previsto en el artículo 25, inc. a) de la Ley 19.549, mediante demanda de conocimiento pleno, que tramitará por las reglas del proceso sumario previsto en el Código Procesal Civil y Comercial de la Nación ,con las modificaciones introducidas en la presente ley. La Administración Nacional de la Seguridad Social actuará como parte demandada. Para la habilitación de la instancia no será necesaria la interposición de recurso alguno en sede administrativa.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido (B.O. 15-07-96).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024655 1996 06 05 0003 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 26/10/2006) ARTICULO DEROGADO CON VIGENCIA ESPECIAL",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "LEY C 026153 2006 10 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 16,
+                  "texto": "*ARTICULO  16.-  NOTA DE REDACCION (DEROGADO POR LEY 26153)"
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 26/10/2006) ARTICULO DEROGADO CON VIGENCIA ESPECIAL",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "LEY C 026153 2006 10 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 17,
+                  "texto": "*ARTICULO  17.-  NOTA DE REDACCION (DEROGADO POR LEY 26153)"
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 023473 1986 10 31 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "DLE C 001285 1958 02 04 0039 002 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 18,
+                  "texto": "ARTICULO 18.- La Cámara Nacional de Apelaciones de la Seguridad Social, creada porLey 23.473, se transformará en Cámara Federal de la Seguridad Social y conocerá en la materia enumerada en el artículo 39 bis del Decreto-Ley 1.285/58, con la salvedad de que en lo concerniente al inciso a) de dicho artículo intervendrá en grado de apelación contra las sentencias dictadas por los juzgados mencionados en el artículo 15."
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 22/04/2005) ARTICULO DEROGADO SIN PERJUICIO DE LA VALIDEZ DE LOS RECURSOS INTERPUESTOS CON ARREGLO A DICHA NORMA HASTA LA FECHA DE PUBLICACION DE LA PRESENTE LEY",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "LEY C 026025 2005 04 06 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 19,
+                  "texto": "*ARTICULO 19.- NOTA DE REDACCION (DEROGADO POR LEY 26.025)"
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 26/10/2006) ARTICULO DEROGADO CON VIGENCIA ESPECIAL",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "LEY C 026153 2006 10 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 20,
+                  "texto": "*ARTICULO 20.- NOTA DE REDACCION (DEROGADO POR LEY 26.153)"
+                },
+                {
+                  "numero-articulo": 21,
+                  "texto": "ARTICULO 21.- En todos los casos las costas serán por su orden."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": [
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 023982 1991 08 21 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_1",
+                        "ref": "LEY C 024130 1992 09 02 0000 000 0000 000"
+                      },
+                      {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_2",
+                        "ref": "LEY C 003952 1900 09 27 0000 000 0000 000"
+                      }
+                    ]
+                  },
+                  "numero-articulo": 22,
+                  "texto": "*ARTICULO 22.- Las sentencias condenatorias contra la Administración Nacional de la Seguridad Social serán cumplidas dentro del plazo de CIENTO VEINTE (120) días hábiles, contado a partir de la recepción efectiva del expediente administrativo correspondiente.\n\nSi durante la ejecución presupuestaria, se agotara la partida asignada para el cumplimiento de dichas sentencias, el Jefe de Gabinete de Ministros podrá disponer ampliaciones o estructuraciones presupuestarias con el objeto de asegurar el pago en el plazo indicado.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 26/10/2006) ARTICULO MODIFICADO CON VIGENCIA ESPECIAL",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 026153 2006 10 04 0002 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 26/10/2006) ARTICULO DEROGADO CON VIGENCIA ESPECIAL",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "LEY C 026153 2006 10 04 0001 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 23,
+                  "texto": "*ARTICULO  23.-  NOTA DE REDACCION (DEROGADO POR LEY 26.153)"
+                },
+                {
+                  "numero-articulo": 24,
+                  "texto": "ARTICULO 24.- Las normas previstas en el presente Capítulo serán de aplicación  inmediata a las causas en trámite. Las que estuvieren radicadas ante la  Cámara  Nacional  de  Apelaciones de la Seguridad Social, pendientes de sentencia, serán convertidas  al procedimiento previsto en la presente ley, notificando a los recurrentes  para que adecuen  su presentación al nuevo procedimiento, solicitando lo  que en derecho  corresponda.  En  estos  casos, y  por  única  vez,  la Administración  Nacional de Seguridad Social tendrá un plazo de seis (6) meses para contestar  demanda  y  ofrecer  pruebas,  contados  a partir de su notificación."
+                },
+                {
+                  "numero-articulo": 25,
+                  "texto": "ARTICULO  25.-  Las sentencias dictadas o que se dicten en esta materia contra la Administración  Nacional  de la Seguridad Social o el  Estado nacional  hasta  el  31  de diciembre de  1995,  que  la condenen  al  pago  de  sumas de dinero, serán  cumplidas  recién  a partir  del    1  de enero de 1996,  de  acuerdo  al  procedimiento previsto en la presente ley."
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "DLE C 001285 1958 02 04 0039 002 0000 000"
+                    }
+                  },
+                  "numero-articulo": 26,
+                  "texto": "ARTICULO 26.- Nota de redacción: MODIFICA DECRETO LEY 1285/58)."
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 023473 1986 10 31 0009 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 27,
+                  "texto": "ARTICULO 27.- Nota de redacción: MODIFICA LEY 23.473."
+                },
+                {
+                  "modifica-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "MODIFICA_A_0",
+                      "ref": "LEY C 023473 1986 10 31 0011 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 28,
+                  "texto": "ARTICULO 28.- Nota de redacción: MODIFICA LEY 23.473."
+                },
+                {
+                  "numero-articulo": 29,
+                  "texto": "ARTICULO 29.- Nota de redacción: MODIFICA LEY 23.473.",
+                  "deroga-a": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "DEROGA_A_0",
+                      "ref": "LEY C 023473 1986 10 31 0014 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO II OTRAS DISPOSICIONES",
+          "articulo": [
+            {
+              "modifica-a": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "MODIFICA_A_0",
+                  "ref": "LEY C 024073 1992 04 02 0033 000 0000 000"
+                }
+              },
+              "numero-articulo": 30,
+              "texto": "ARTICULO 30.- Nota de redacción:\n\nMODIFICALEY 24.073."
+            },
+            {
+              "modifica-a": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "MODIFICA_A_0",
+                    "ref": "DNU C 000879 1992 06 03 0004 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "MODIFICA_A_1",
+                    "ref": "DEC C 001985 1992 10 26 0001 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 31,
+              "texto": "ARTICULO 31.- Nota de redacción:\n\nMODIFICA DECRETO 879/92."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 000417 1995 03 23 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 32,
+              "texto": "ARTICULO 32.- Nota de redacción: VETADO POR DECRETO 417/95.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 30-03-95). Vetado.",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DEC C 000417 1995 03 23 0001 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "ARTICULO 33.- Excepto lo dispuesto en el artículo 32, la presente ley entrará en vigencia el día de su publicación en el Boletín Oficial."
+            },
+            {
+              "numero-articulo": 34,
+              "texto": "ARTICULO 34.-  Comuníquese  al  Poder  Ejecutivo  Nacional."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "PIERRI-MENEM-Pereyra Arandía de Pérez Pardo-Piuzzi"
+          }
+        }
+      ],
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "INDICE GENERAL DE REMUNERACIONES",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 1",
+        "articulo": {
+          "numero-articulo": "A 0001",
+          "texto": "ARTICULO 1.- Nota de redacción: ANEXO NO MEMORIZABLE."
+        }
+      },
+      "id-infojus": "LNS0003997"
+    }
+  }
+}

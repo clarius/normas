@@ -1,0 +1,271 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-303-0000-0002soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991591151,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "303-nacional-impuestos-internos-dn20000000303-2000-04-06"
+      }
+    },
+    "content": {
+      "mecanografico": 20000000303,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 303,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2000-04-06",
+      "standard-normativo": "DEC C 000303 2000 04 06",
+      "titulo-norma": "IMPUESTOS INTERNOS.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2000 04 10"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 1",
+            "id": "MODIFICA0",
+            "ref": "LEY C 024674 1996 07 17 0023 000"
+          },
+          {
+            "cr": "POR ART. 2",
+            "id": "OBSERVA A1",
+            "ref": "LEY C 024674 1996 07 17 0036 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "SUSTITUYE ART. 2 CON VIGENCIA ESPECIAL POR ART. 4 A PARTIR DE LA ENTRADA EN VIGENCIA DEL PRESENTE DECRETO, EXCEPTO CUANDO SE TRATE DE OPERACIONES REALIZADAS CON ANTERIORIDAD A LA FECHA DE DICHA PUBLICACION, APLICANDO CRITERIOS DISTINTOS A LOS ESTABLECIDOS EN ESTE DECRETO Y EN LAS QUE HABIENDOSE TRASLADADO EL IMPUESTO NO SE ACREDITARE SU RESTITUCION, EN CUYO CASO TENDRAN EFECTO PARA LOS HECHOS IMPONIBLES QUE SE PERFECCIONEN A PARTIR DE LA MISMA (B.O. 29-12-00)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 001244 2000 12 28 0001 000"
+          },
+          {
+            "cr": "(B.O. 29-12-00)",
+            "id": "OBSERVADO POR1",
+            "ref": "DEC C 001244 2000 12 28 0003 000"
+          },
+          {
+            "cr": "ART. 3 (B.O. 04-01-02)",
+            "id": "OBSERVADO POR2",
+            "ref": "DEC C 000108 2001 12 27 0001 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 303/2000",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2000-04-11",
+      "fecha-mod": "2003-04-10",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE REESTRUCTURAN PROVISIONALMENTE LAS TASAS DE IMPUESTOS INTERNOS APLICABLES A LAS DENOMINADAS BEBIDAS ALCOHOLICAS Y SE EXCLUYEN DEL GRAVAMEN, TAMBIEN POR UN LAPSO DE TIEMPO LIMITADO, A DETERMINADOS PRODUCTOS CALIFICADOS COMO OBJETOS SUNTUARIOS."
+      },
+      "noticias-accesorias": {
+        "texto": "NUMERO DE ARTICULO QUE ESTABLECE LA ENTRADA EN VIGENCIA: 0003 FECHA DE ENTRADA EN VIGENCIA: 10-4-2000 OBSERVACION: VIGENCIA PRORROGADA DESDE EL 1-1-01 HASTA EL 31-12-01 INCLUSIVE PARA LOS HECHOS IMPONIBLES QUE SE PERFECCIONEN A PARTIR DE LAS FECHA INDICADAS EN LOS MISMOS, POR ART. 4 DEL DECRETO 1.244/2000 (B.O. 29-12-00) OBSERVACION: PRORROGASE LA VIGENCIA DEL ARTICULO 3 DEL PRESENTE, DESDE EL 1 DE ENERO HASTA EL 31 DE DICIEMBRE DE 2002, AMBAS FECHAS INCLUSIVE, POR ART. 1 DEL DEC. 108/01 (B.O. 04-01-2002)."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "impuestos internos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuestos internos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "alcoholes"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria química/industria químico farmacéutica/alcoholes"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria farmoquímica",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bebidas alcohólicas"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/elaboración de productos alimenticios/elaboración de bebidas/elaboración de bebidas alcohólicas/bebidas alcohólicas"
+            },
+            "sinonimos": {
+              "termino": [
+                "elaboración de alimentos",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "objetos suntuarios"
+            },
+            "preferido": {
+              "termino": "objetos suntuarios"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "exenciones impositivas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios/exenciones impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "franquicias tributarias",
+                "exenciones tributarias",
+                "derecho fiscal",
+                "exención de pago del impuesto",
+                "beneficios impositivos",
+                "derecho público fiscal",
+                "exenciones de tasas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tasas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/tasas"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Tributario",
+            "beneficios tributarios",
+            "productos industriales (actividad industrial)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "exención de pago del impuesto (exenciones impositivas)",
+            "tributos",
+            "industria química",
+            "elaboración de alimentos (elaboración de productos alimenticios)",
+            "alcoholes",
+            "elaboración de bebidas",
+            "franquicias tributarias (exenciones impositivas)",
+            "derecho fiscal (Derecho Tributario)",
+            "objetos suntuarios",
+            "industria farmoquímica (industria químico farmacéutica)",
+            "industria (actividad industrial)",
+            "Actividades económicas",
+            "bebidas alcohólicas",
+            "actividad industrial",
+            "tasas",
+            "gravámenes (tributos)",
+            "exenciones de tasas (exenciones impositivas)",
+            "industria químico farmacéutica",
+            "exenciones impositivas",
+            "beneficios impositivos (beneficios tributarios)",
+            "impuestos internos",
+            "industria alimenticia",
+            "impuestos",
+            "elaboración de productos alimenticios",
+            "exenciones tributarias (exenciones impositivas)",
+            "elaboración de bebidas alcohólicas"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024674 1996 07 17 0000 000 0000 000"
+          }
+        },
+        "texto": "la Ley N. 24.674 de Impuestos Internos y sus modificaciones, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025239 1999 12 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024674 1996 07 17 0014 002 0000 000 A"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que mediante  las modificaciones introducidas por la Ley N. 25.239 al mencionado gravamen, se elevaron algunas de las tasas aplicables a determinados productos  alcanzados por el mismo, incorporándose a su  vez otros bienes que se  encontraban  fuera  de  su  ámbito  de aplicación.\n\nQue en función de lo señalado precedentemente, se unificaron en el VEINTE  POR  CIENTO  (20%) las alícuotas aplicables a los distintos rubros que componen el  Capítulo  II  de  texto  legal,  referido a Bebidas Alcohólicas.\n\nQue  asimismo  y  en igual sentido, se gravaron con una tasa  del VEINTE POR CIENTO (20%), determinados bienes definidos como Objetos Suntuarios, comprendidos  en el Capítulo VIII que se incorpora a la ley del tributo.\n\nQue las medidas dispuestas,  no  obstante  estar  sustentadas  en sólidos  principios  adoptados  en  materia  de  imposición  a  los consumos,  han  producido  en  la  primera  etapa  de su aplicación algunas asimetrías en los niveles de competencia, que  ameritan ser consideradas  hasta  tanto  puedan  ser  asimiladas  por el mercado.\n\nQue elartículo incorporado a continuación del artículo 14 del Título I, de la Ley N. 24.674 de Impuestos Internos, faculta al PODER EJECUTIVO NACIONAL para disminuir los gravámenes previstos en la misma o dejarlos sin efecto transitoriamente, cuando así lo aconseje la situación económica de determinada o determinadas industrias.\n\nQue  atento lo manifestado se considera conveniente reestructurar provisionalmente  las  tasas  aplicables  a las denominadas Bebidas Alcohólicas y excluir del gravamen, también  por un lapso de tiempo limitado,  a  determinados  productos  calificados    como  Objetos Suntuarios.\n\nQue los organismos técnicos del MINISTERIO DE ECONOMIA han emitido opinión  favorable a la solución proyectada y la DIRECCION  GENERAL DE ASUNTOS  JURIDICOS del mismo Organismo ha tomado la intervención que le compete.\n\nQue el presente se dicta en uso de las facultades conferidas al PODER EJECUTIVO NACIONAL por el artículo incorporado a continuación del artículo 14, del Título I, de la Ley N. 24.674 de Impuestos Internos y sus modificaciones.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1: Los productos comprendidos en el artículo 23, del Capítulo II -Bebidas Alcohólicas-, de la Ley N. 24.674 de Impuestos Internos y sus modificaciones, tributarán el impuesto de acuerdo con las siguientes tasas que se aplicarán sobre las bases imponibles respectivas, de conformidad con las clases, y graduaciones siguientes:\n\n a)Whisky                                20% b) Coñac, brandy, ginebra, pisco, tequila, gin, vodka o ron               15% c) En función de su graduación, excluidos los productos incluidos en a) y b): 1° clase, de 10° hasta 29° y fracción   12% 2° clase, de 30° y más                  15%"
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024674 1996 07 17 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "*Art. 2: No se encuentran alcanzados por el gravamen establecido en el Capítulo VIII de la Ley N. 24.674 de Impuestos Internos y sus modificaciones, los productos comprendidos en su artículo 36, cuando el precio de venta de los mismos, sin considerar el propio impuesto y el impuesto al valor agregado, en cualquiera de las etapas de su comercialización, no supere los TRESCIENTOS PESOS ($ 300).\n\nA efectos de lo dispuesto en el párrafo anterior, cuando se trate de importaciones definitivas de los referidos bienes, la exclusión dispuesta en el mismo resultará procedente cuando el precio normal definido para la aplicación de los derechos de importación no supere el monto indicado precedentemente."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3: Las disposiciones del presente decreto entrarán en vigencia el día de su publicación en el Boletín Oficial y surtirán efecto para los hechos imponibles que se perfeccionen a partir del primer día del  mes siguiente al de dicha publicación y hasta el 31 de diciembre de 2000, ambas fechas inclusive."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "DE LA RUA-Terragno-Machinea"
+      },
+      "id-infojus": "DN20000000303"
+    }
+  }
+}

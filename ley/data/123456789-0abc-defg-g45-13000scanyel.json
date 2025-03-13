@@ -1,0 +1,211 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g45-13000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584262862,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23059-nacional-invalidacion-cancelaciones-nacionalidad-ciudadania-durante-gobierno-facto-lns0003154-1984-03-22"
+      }
+    },
+    "content": {
+      "mecanografico": "S0003154",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": null,
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 003213 1984 09 28 0000 000 0000 000"
+        }
+      },
+      "numero-norma": 23059,
+      "timestamp": "2013-01-19T18:52:18",
+      "timestamp-m": "2013-01-19T18:52:18",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1984-03-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023059 1984 03 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 23.059",
+          "BUENOS AIRES, 22 DE MARZO DE 1984"
+        ]
+      },
+      "titulo-norma": "INVALIDACION DE CANCELACIONES DE NACIONALIDAD Y CIUDADANIA DURANTE EL GOBIERNO DE FACTO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1984 04 10"
+        }
+      },
+      "sancion": "EL  SENADO  Y LA CAMARA DE DIPUTADOS de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.059",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2013-01-19",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 5"
+      },
+      "sumario": {
+        "sumario": "ESTADO-POBLACION-CIUDADANIA-NACIONALIDAD-NACIONALIDAD ARGENTINA- Pérdida y Cancelación de la Nacionalidad  Argentina-Readquisición- CIUDADANIA ARGENTINA:Ciudadanos Argentinos-Pérdida y Cancelación- Readquisición. Deroga L. 21.795 REIMPLANTA VIGENCIA L. 346 REIMPLANTA VIGENCIA L. 16.801 REIMPLANTA VIGENCIA L. 20.835"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "nacionalidad"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/nacionalidad"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "pérdida de la nacionalidad"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/nacionalidad/pérdida de la nacionalidad"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "pérdida de la ciudadanía"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/nacionalidad/ciudadanía/pérdida de la ciudadanía"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "gobierno de facto"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional/sistema de gobierno/gobierno de facto"
+            },
+            "sinonimos": {
+              "termino": "régimen político"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Estado",
+            "Derecho constitucional",
+            "ciudadanía",
+            "gobierno de facto",
+            "sistema de gobierno",
+            "pérdida de la ciudadanía",
+            "régimen político (sistema de gobierno)",
+            "Estado Nacional",
+            "pérdida de la nacionalidad",
+            "nacionalidad"
+          ]
+        }
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- Derógase la ley de facto 21.795.",
+          "deroga-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "DEROGA_A_0",
+              "ref": "LEY C 021795 1978 05 18 0000 000 0000 000"
+            }
+          }
+        },
+        {
+          "observa-a": {
+            "referencia-normativa": [
+              {
+                "cr": "Recupera Vigencia",
+                "id": "OBSERVA_A_0",
+                "ref": "LEY C 000346 1869 10 01 0000 000 0000 000"
+              },
+              {
+                "cr": "Recupera Vigencia",
+                "id": "OBSERVA_A_1",
+                "ref": "LEY C 020835 1974 09 27 0000 000 0000 000"
+              },
+              {
+                "cr": "Recupera Vigencia",
+                "id": "OBSERVA_A_2",
+                "ref": "LEY C 016801 1965 10 30 0000 000 0000 000"
+              },
+              {
+                "cr": "Recupera Vigencia",
+                "id": "OBSERVA_A_3",
+                "ref": "LEY C 016569 1964 10 29 0000 000 0000 000"
+              },
+              {
+                "cr": "Recupera Vigencia",
+                "id": "OBSERVA_A_4",
+                "ref": "LEY C 017692 1968 03 29 0000 000 0000 000"
+              },
+              {
+                "cr": "Conserva Vigencia",
+                "id": "OBSERVA_A_5",
+                "ref": "LEY C 020957 1975 05 22 0091 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  Restitúyense  en  su plena vigencia las leyes 346, 16 801 y 20.835 derogándose las otras  normas modificatorias. conservan su plena vigencia la ley 16.569, el decreto  ley  17.692/68    y el artículo 91 de la ley 20.957."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 021795 1978 05 18 0007 000 0008 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 021610 1977 08 01 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 021795 1978 05 18 0011 000 0013 000"
+              }
+            ]
+          },
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.- Se declaran inválidas y sin ningún efecto jurídico las pérdidas o cancelaciones  de  la  nacionalidad  argentina, así como también  las pérdidas o  cancelaciones de la ciudadanía  argentina dispuestas en cumplimiento de  los  artículos  7,  8,  11,  12, 13 y concordantes  de la ley de facto 21.795 y las producidas durante la vigencia de la ley facto 21.610."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.-  Los  afectados  por  esas  disposiciones recuperan su nacionalidad y ciudadanía argentina de pleno  derecho a partir de la entrada en vigencia  de  la presente ley, salvo,  respecto  de  la ciudadanía, expreso pedido del  interesado mediante recurso judicial que tramitará por vía sumaria."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO 5.- Comuníquese al Poder Ejecutivo."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "PUGLIESE - MARTINEZ - Macris - Belnicoff"
+      },
+      "id-infojus": "LNS0003154"
+    }
+  }
+}

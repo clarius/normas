@@ -1,0 +1,280 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-328-3000-5791soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991407152,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "3823-nacional-servicio-nacional-agua-potable-saneamiento-rural-dn19750003823-1975-12-11"
+      }
+    },
+    "content": {
+      "mecanografico": 19750003823,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 3823,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1975-12-11",
+      "standard-normativo": "DEC C 003823 1975 12 11",
+      "titulo-norma": "SERVICIO NACIONAL DE AGUA POTABLE Y SANEAMIENTO RURAL.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 01 15"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 1",
+          "id": "OBSERVA A0",
+          "ref": "DEC C 003813 1971 00 00 0000 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 3.823/75",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2003-04-07",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "AMPLIACION DEL SERVICIO NACIONAL DE AGUA POTABLE Y SANEAMIENTO RURAL PARA PEQUEÑAS COMUNIDADES RURALES.",
+        "anexos-decreto": {
+          "anexo-ley": "00001ACONVENIO PARA ABASTECIMIENTO DE AGUA POTABLE"
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "servicio nacional de agua potable"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios/servicio de agua corriente/servicio nacional de agua potable"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicio de agua potable",
+                "desagües cloacales",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "suministro de agua potable",
+                "desagües pluviales",
+                "agua potable",
+                "abastecimiento de agua potable",
+                "aguas corrientes",
+                "provisión de agua potable",
+                "contrataciones públicas",
+                "servicio nacional de agua potable y saneamiento"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agua potable"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios/servicio de agua corriente"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicio de agua potable",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "suministro de agua potable",
+                "desagües pluviales",
+                "contrataciones públicas",
+                "agua potable",
+                "abastecimiento de agua potable",
+                "aguas corrientes",
+                "provisión de agua potable"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "desagües cloacales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "desagües pluviales",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "convenios con las provincias"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/convenios de cooperación/convenios con las provincias"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "acuerdo de cooperación",
+                "convenio de colaboración",
+                "derecho económico financiero",
+                "convenios con la Nación",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "abastecimiento de agua potable (servicio de agua corriente)",
+            "convenios de cooperación",
+            "desagües cloacales (servicios sanitarios)",
+            "servicio nacional de agua potable y saneamiento (servicio nacional de agua potable)",
+            "aguas corrientes (servicio de agua corriente)",
+            "contrataciones del Estado (contratos administrativos)",
+            "servicio de agua potable (servicio de agua corriente)",
+            "servicios públicos locales (servicio público)",
+            "servicios públicos (servicio público)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "servicio público",
+            "desagües pluviales (servicios sanitarios)",
+            "Economía y finanzas",
+            "convenios con la Nación (convenios con las provincias)",
+            "suministro de agua potable (servicio de agua corriente)",
+            "Derecho administrativo",
+            "convenios con las provincias",
+            "servicio nacional de agua potable",
+            "derecho financiero (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "servicio de agua corriente",
+            "servicios sanitarios",
+            "provisión de agua potable (servicio de agua corriente)",
+            "acuerdo de cooperación (convenios de cooperación)",
+            "agua potable (servicio de agua corriente)",
+            "contrataciones públicas (contratos administrativos)",
+            "convenio de colaboración (convenios de cooperación)",
+            "contratos administrativos"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 009762 1964 00 00 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 004497 1969 00 00 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002629 1973 04 05 0000 000"
+            }
+          ]
+        },
+        "texto": "el  Expte.  N. 299/75 y los Decretos N. 9.762/64, 4.497/69 y 2 629 del 5 de abril  de  1973  de  creación,  funciones y estructura orgánica  del  Servicio  Nacional  de  Agua Potable  y  Saneamiento Rural, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "DEC C 003813 1971 00 00 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que los mismos facultan al Servicio Nacional de Agua Potable y Saneamiento Rural para la promoción, planificación y administración  de  programas y proyectos de abastecimiento de agua potable y en general  para  todo  lo concerniente al saneamiento de las poblaciones rurales, motivando  la participación comunitaria en la elaboración y ejecución de las mismas.\n\nQue  a  los  efectos  de  su  aplicación  concreta   en  el  ámbito provincial   se  procedió  a  la  firma  de  Convenios  Bilaterales denominados Nación-Provincia  conforme  al  Convenio  Tipo aprobado por Decreto N. 3.813/71.\n\nQue  dicho Convenio, por razones de programación y financiación  no mencionaba  explícitamente  las  obras  de desagues cloacales.\n\nQue  además  los  sistemas  de acción realizados  dentro  del  Plan Nacional  de Agua Potable y Saneamiento  Rural,  son  entregados  a comunidades  organizadas,  las  que  abonan  las tarifas necesarias para cubrir los gastos de operación, mantenimiento y administración,  así  como  la  amortización  de  la   deuda.\n\nQue  en las comunidades pequeñas de menos de quinientos  habitantes y normalmente  de  escasos recursos, es necesario encarar las obras bajo un sistema financiero  menos gravoso para las mismas, tratando de buscar una solución que tenga  en  cuenta  los aspectos sociales involucrados en el problema.\n\nQue  el Plan Trienal para la Reconstrucción y Liberación  Nacional, en sus  Lineamientos Sectoriales-Recursos Hídricos establece que la acción de la Nación ha de estar dirigida a atender los requerimientos  en  materia  de  desagues  cloacales y provisión de agua  de las comunidades rurales, así como a  propender  a  que  la mayor parte  de los beneficiados, comprenda a los sectores sociales de menos recursos,  generalmente  distribuidos  en áreas marginales de  los  grandes  centros  urbanos  y  en  poblaciones  pequeñas  y medianas del interior del país.\n\nQue, ante las necesidades sentidas, los Gobiernos Provinciales  han solicitado  reiteradamente  la  solución  a  los  problemas  de las poblaciones  de  menos  de  quinientos  habitantes  y  de  falta de desagues cloacales."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 003813 1971 00 00 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- Amplíase el Convenio Tipo aprobado por Decreto N.\n\n3.813/71,  de acuerdo a las cláusulas que se agregan como anexo 1 y forma parte  del  presente  Decreto,  a  cuyo texto deberán también ajustarse los que se suscriban con las provincias  que  adhieran al Plan  nacional  de  Provisión de Agua Potable y Saneamiento  Rural, para poblaciones rurales de hasta ocho mil habitantes."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  Comuníquese,  publíquese,  dése  a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MARTINEZ DE PERON  - CAFIERO"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "CONVENIO PARA ABASTECIMIENTO DE AGUA POTABLE",
+        "articulo": [
+          {
+            "numero-articulo": 1,
+            "texto": "ARTICULO 1.- La Nación, a través del Servicio Nacional de Agua Potable  y  Saneamiento  Rural,  organismo  descentralizado  de  la Subsecretaría  de  Recursos Hídricos, de la Secretaría de Estado de Recursos Naturales y  Ambiente  Humano,  dependiente del Ministerio de  Economía, prestará a las provincias el  asesoramiento  técnico, administrativo,  contable,  jurídico  y  social  necesarios para la realización del Plan Nacional de Abastecimiento de  Agua  Potable y Desagues Cloacales a comunidades rurales y encausar o dar el  apoyo financiero  para  la  construcción  de  las obras, Investigación de Fuentes y la complementación de recursos a organismos provinciales."
+          },
+          {
+            "numero-articulo": 2,
+            "texto": "ARTICULO  2.- La construcción de las obras, Investigaciones de Fuentes y Estudios  de  Proyectos,  podrán  ser  financiados por la Nación,  con  recursos  propios, conforme a lo establecido  en  las cláusulas siguientes."
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 003813 1971 00 00 0000 000"
+              }
+            },
+            "numero-articulo": 3,
+            "texto": "ARTICULO  3.-  Las  Investigaciones  de  Fuentes y Estudios de Proyectos  serán  financiados  de  acuerdo a lo establecido  en  la Cláusula  DECIMOTERCERA del Convenio  aprobado  por  Decreto  N.  3 813/71."
+          },
+          {
+            "referencias-normativas": {
+              "referencia-normativa": {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "DEC C 003813 1971 00 00 0000 000"
+              }
+            },
+            "numero-articulo": 4,
+            "texto": "ARTICULO  4.- La construcción de las obras para poblaciones de más  de quinientos  habitantes  serán  financiadas  conforme  a  lo dispuesto  en  las  Cláusulas  NOVENA  y  DECIMOQUINTA del Convenio aprobado por Decreto N. 3.813/71."
+          },
+          {
+            "numero-articulo": 5,
+            "texto": "ARTICULO  5.- La construcción de las obras para poblaciones de menos de quinientos  habitantes  serán  financiadas en la siguiente proporción: a) Aporte Nación no recuperable:  del  20  al 50%.\n\nb) Préstamo de la Nación: del 10 al 30%.\n\nc) Aporte de la provincia: del 20 al 30%.\n\nd)  Aporte  de  la  comunidad  beneficiaria:  del  10  al 20%.\n\nEl  total de los aportes concedidos por la Nación no excederán  del 60% ni será menor del 40% del monto total de la obra."
+          },
+          {
+            "numero-articulo": 6,
+            "texto": "ARTICULO  6.- La provincia se obliga en el caso de la cláusula anterior a reintegrar los importes recibidos en cuotas trimestrales iguales  y  consecutivas  que  no  podrán  exceder  de ochenta  con  el  interés que fije el organismo financiero o el más bajo establecido por  el  Banco Nación para créditos de fomento; la primera  de las cuotas vencerá  al  año  de  efectuada  la  primera transferencia."
+          }
+        ]
+      },
+      "id-infojus": "DN19750003823"
+    }
+  }
+}

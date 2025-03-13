@@ -1,0 +1,539 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-908-1000-0991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992250936,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1809-nacional-plan-facilidades-pago-obligaciones-tributarias-dn19900001809-1990-09-11"
+      }
+    },
+    "content": {
+      "mecanografico": 19900001809,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1809,
+      "timestamp": "2014-07-18T21:52:51",
+      "timestamp-m": "2014-07-18T21:52:51",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1990-09-11",
+      "standard-normativo": "DEC C 001809 1990 09 11",
+      "titulo-norma": "PLAN DE FACILIDADES DE PAGO DE OBLIGACIONES TRIBUTARIAS",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1990 09 13"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 7",
+            "id": "MODIFICA0",
+            "ref": "DEC C 001646 1990 00 00 0003 000"
+          },
+          {
+            "cr": "POR ART. 7",
+            "id": "MODIFICA1",
+            "ref": "DEC C 001646 1990 00 00 0010 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.809/1990",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-18",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE ESTABLECE UN PLAN EXCEPCIONAL DE FACILIDADES DE PAGO DE LAS OBLIGACIONES TRIBUTARIAS CUYO VENCIMIENTO SE HUBIERA OPERADO HASTA EL 30 DE JUNIO DE 1990 TENDIENTE A REGULARIZAR LA SITUACION FISCAL DE NUMEROSOS RESPONSABLES."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "obligación tributaria"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "derecho fiscal",
+                "obligación impositiva",
+                "derecho público fiscal",
+                "obligaciones fiscales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regularización impositiva"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria/extinción de la obligación tributaria/regularización impositiva"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "regularización fiscal",
+                "obligación impositiva",
+                "derecho fiscal",
+                "régimen de normalización tributaria",
+                "regularización tributaria",
+                "obligaciones fiscales",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deudas impositivas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/liquidación de impuestos/deudas impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "deudas fiscales",
+                "deuda fiscal",
+                "deudas tributarias",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "actualización monetaria"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/clasificación de las obligaciones/obligaciones de dar/obligaciones de dar sumas de dinero/actualización monetaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "ajuste por inflación",
+                "repotenciación",
+                "capital revalorizado",
+                "indexación",
+                "obligaciones personales",
+                "prestaciones dinerarias",
+                "obligaciones dinerarias",
+                "deudas de dinero",
+                "capital actualizado",
+                "deudas dinerarias"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contribuyentes"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sujetos imponibles/contribuyentes"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "sujetos de los deberes impositivos",
+                "sujetos pasivos del impuesto",
+                "responsables por deuda propia",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuesto a las ganancias"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuesto a las ganancias"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuesto sobre el patrimonio neto"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuesto sobre el patrimonio neto"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal",
+                "impuesto al patrimonio"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delitos"
+            },
+            "preferido": {
+              "termino": "Derecho penal/delitos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "prisión preventiva"
+            },
+            "preferido": {
+              "termino": "Derecho penal/proceso penal/situación del imputado/prisión preventiva"
+            },
+            "sinonimos": {
+              "termino": [
+                "juicio criminal",
+                "procedimiento penal",
+                "juicio penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sanciones tributarias"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sanciones tributarias"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "multa (tributario)"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/multa/multa tributaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "multa (tributario)",
+                "sanción penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agentes de retención"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sujetos imponibles/responsables/agentes de retención"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "sujetos de los deberes impositivos",
+                "sujetos pasivos del impuesto",
+                "responsables por deuda ajena",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agentes de percepción"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sujetos imponibles/responsables/agentes de percepción"
+            },
+            "sinonimos": {
+              "termino": [
+                "organismos de percepción",
+                "derecho fiscal",
+                "sujetos de los deberes impositivos",
+                "sujetos pasivos del impuesto",
+                "organismos recaudadores",
+                "responsables por deuda ajena",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "declaración jurada"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/etapas del proceso/etapa probatoria/prueba/declaración jurada"
+            },
+            "sinonimos": {
+              "termino": [
+                "desarrollo del juicio",
+                "etapas procesales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Impuesto de sellos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/Impuesto de sellos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuestos internos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuestos internos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección General Impositiva"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/AFIP/AFIP DGI"
+            },
+            "sinonimos": {
+              "termino": [
+                "Administración Federal de Ingresos Públicos",
+                "DGI",
+                "Administración Federal de Ingresos Públicos Dirección General Impositiva",
+                "Dirección General Impositiva"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de la obligación tributaria",
+            "AFIP",
+            "responsables",
+            "Derecho Tributario",
+            "etapas procesales (etapas del proceso)",
+            "regularización impositiva",
+            "clasificación de las obligaciones",
+            "ajuste por inflación (actualización monetaria)",
+            "etapa probatoria",
+            "obligaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "Derecho tributario y aduanero",
+            "situación del imputado",
+            "tributos",
+            "sujetos pasivos del impuesto (sujetos imponibles)",
+            "obligaciones de dar sumas de dinero",
+            "impuesto al patrimonio (impuesto sobre el patrimonio neto)",
+            "deudas fiscales (deudas impositivas)",
+            "capital actualizado (actualización monetaria)",
+            "prueba",
+            "Obligaciones y contratos",
+            "derecho fiscal (Derecho Tributario)",
+            "obligaciones personales (obligaciones)",
+            "DGI (AFIP DGI)",
+            "responsables por deuda ajena (responsables)",
+            "juicio penal (proceso penal)",
+            "juicio criminal (proceso penal)",
+            "deudas de dinero (obligaciones de dar sumas de dinero)",
+            "deudas tributarias (deudas impositivas)",
+            "gravámenes (tributos)",
+            "sanciones tributarias",
+            "multa (tributario) (multa tributaria)",
+            "agentes de percepción",
+            "repotenciación (actualización monetaria)",
+            "prestaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "indexación (actualización monetaria)",
+            "Administración Federal de Ingresos Públicos Dirección General Impositiva (AFIP DGI)",
+            "multa",
+            "impuestos internos",
+            "deuda fiscal (deudas impositivas)",
+            "contribuyentes",
+            "obligaciones",
+            "sujetos imponibles",
+            "impuesto a las ganancias",
+            "procedimiento penal (proceso penal)",
+            "deudas dinerarias (obligaciones de dar sumas de dinero)",
+            "etapas del proceso",
+            "organismos de percepción (agentes de percepción)",
+            "deberes fiscales (obligación tributaria)",
+            "deudas impositivas",
+            "organismos recaudadores (agentes de percepción)",
+            "delitos",
+            "agentes de retención",
+            "sanción penal (pena)",
+            "capital revalorizado (actualización monetaria)",
+            "sujetos de los deberes impositivos (sujetos imponibles)",
+            "obligaciones fiscales (obligación tributaria)",
+            "Impuesto de sellos",
+            "derecho público fiscal (Derecho Tributario)",
+            "responsables por deuda propia (contribuyentes)",
+            "AFIP DGI",
+            "obligación tributaria",
+            "multa tributaria",
+            "obligación impositiva (obligación tributaria)",
+            "proceso penal",
+            "Derecho procesal",
+            "impuesto sobre el patrimonio neto",
+            "Dirección General Impositiva (AFIP DGI)",
+            "Derecho penal",
+            "prisión preventiva",
+            "regularización fiscal (regularización impositiva)",
+            "pena",
+            "declaración jurada",
+            "regularización tributaria (regularización impositiva)",
+            "obligaciones de dar",
+            "liquidación de impuestos",
+            "Administración Federal de Ingresos Públicos (AFIP)",
+            "régimen de normalización tributaria (regularización impositiva)",
+            "actualización monetaria",
+            "impuestos",
+            "desarrollo del juicio (etapas del proceso)"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "y,"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "TOR C 011683 1978 12 01 0111 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 001299 1989 00 00 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que el artículo 111, segundo párrafo de la Ley N. 11.683, texto ordenado  en  1978  y  sus  modificaciones, prevé la posibilidad de hacer arreglos con el fin de  asegurar la cancelación de las deudas fiscales pendientes.\n\nQue  asimismo,  atento  el  principio    de  equidad  de  la  norma impositiva, debería posibilitarse la opción  de  continuar  o  bien rehabilitar  los  planes  de  facilidades  de  pago no comprendidos dentro de los términos y condiciones del decreto  N.  1.299/89,  en tanto  resulten  ajustados  al  régimen  que  se  instaura  por  el presente.\n\nQue  en  tal  sentido,  resulta  oportuno  que  el  PODER EJECUTIVO NACIONAL haciendo uso de sus atribuciones en materia  de  regímenes aplicables  a los distintos gravámenes, acuerde un plan excepcional de facilidades  de  pago,  mediante  el cual se faculte a numerosos responsables, a regularizar su situación  fiscal y que no cuentan a la fecha con la posibilidad de hacerlo.\n\nQue atento que la medida que se propicia, tiene  por  fin  promover el  ingreso  de  una  masa  de  deuda tributaria cuya percepción en ciertos  supuestos  se tornaría dificultosa,  haciendo  uso  de  la facultad prevista en  el  artículo  111, segundo párrafo, de la ley procedimental vigente, resulta aconsejable  eximir a las cuotas que se otorguen del pago de intereses.\n\nQue  el  presente  decreto  se  dicta  conforme  a  las  facultades otorgadas por el segundo párrafo del artículo 111 de  la  Ley N. 11 683, texto ordenado en 1978 y sus modificaciones."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1.-  La  DIRECCION GENERAL IMPOSITIVA deberá establecer, bajo las condiciones  que  determina  el  presente decreto, un plan excepcional  de  facilidades de pago relativo  a  las  obligaciones tributarias cuyo vencimiento  se  hubiera  operado  hasta  el 30 de junio  de 1990, incluyendo las actualizaciones e intereses corridos y las multas  ejecutoriadas hasta el vencimiento del plazo que fije para el acogimiento de los interesados.\n\nRespecto de las  personas físicas y sucesiones indivisas, el plan a que hace referencia  el párrafo anterior alcanzará, asimismo, a sus obligaciones tributarias,  en su condición de contribuyentes de los impuestos a las ganancias y  al patrimonio neto, cuyos vencimientos se  hubieran  operado  hasta el 25  de  julio  de  1990,  inclusive"
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 023102 1984 09 28 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 023102 1984 09 28 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "TOR C 003764 1979 10 23 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "LEY C 023562 1988 05 19 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_4",
+                "ref": "LEY C 023665 1989 06 01 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_5",
+                "ref": "LEY C 023771 1990 02 07 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_6",
+                "ref": "LEY C 023697 1989 09 01 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 2,
+          "texto": "Art.  2.-  El  plan  de  facilidades de pago establecido en el artículo anterior, no resultará  de  aplicación cuando se verifique que:\n\n1)  Existe  contra  los  contribuyentes  y  responsables,  denuncia formal  o querella penal por delitos comunes  que  tengan  conexión con el incumplimiento  de  sus  obligaciones  tributarias  o  la de terceros.\n\n2)  El incumplimiento de las obligaciones a que hace referencia  el inciso  anterior,  guarde  relación  con  los  delitos  comunes que fueron  objeto de causas penales en las que se hubiera ordenado  el procesamiento  de  funcionarios  o  ex-funcionarios estatales.\n\n3) Se trate de los impuestos previstos  en  los  artículos  23 y 23 bis,  incorporado  por  la  Ley  N.  23.102, de la Ley de Impuestos Internos, texto ordenado en 1979 y sus  modificaciones, y el creado por el artículo 2 de la Ley N. 23.562, prorrogada  por  Ley  N.  23 665.\n\n4) Se trate de intereses, sanciones y demás accesorios correspondientes   a  los  conceptos  mencionados  en  los  incisos precedentes.\n\n5) Se hubiera dictado  la  prisión  preventiva  de los infractores, sus  instigadores  y  cómplices,  en relación a cualquiera  de  los delitos previstos en la Ley N. 23.771.\n\n6)  Se  trate  de  agentes  de  retención  y  percepción,  por  las retenciones  o  percepciones  no  practicadas,  que  hubieran  sido cumplimentadas  por los distintos contribuyentes  bajo  condiciones particulares o legales  existentes  a  la fecha, en caso de que los mencionados  agentes se encontraran en alguna  de  las  situaciones previstas en los  incisos  1)  y  2)  del  presente  artículo.\n\n7)  Se  trate de tributos retenidos o percibidos y no ingresados  a la  DIRECCION  GENERAL  IMPOSITIVA  en  los  plazos  legales.\n\n8) Se trate de impuesto de sellos que no se liquide por declaración jurada.\n\n9) Se  trate de las obligaciones resultantes de la aplicación de lo dispuesto  por  los  Capítulos  IV  y  V  de la Ley N. 23.697.\n\nEn  todos  los  supuestos  precedentes,  se  encuentran    asimismo comprendidas  las  multas  ejecutoriadas  que  guarden relación con ellos."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3.- Quedan comprendidos en el artículo 1 los contribuyentes   y  responsables  concursados,  facultándose  a  la DIRECCION GENERAL  IMPOSITIVA  para  establecer las condiciones que fueran procedentes para extender a los  mismos  los  beneficios del presente decreto."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001299 1989 00 00 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art.  4.-  Facúltase  a  la  DIRECCION  GENERAL  IMPOSITIVA, a disponer    la    rehabilitación  o  refinanciación  de  planes  de facilidades de pago  no  comprendidas  en  el  decreto N. 1.299/89, ajustándose  los mismos, a los términos del presente  decreto  y  a las condiciones que en cada caso se establezcan."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "TOR C 011683 1978 12 01 0115 000 0000 000"
+            }
+          },
+          "numero-articulo": 5,
+          "texto": "Art.  5.-  Los  planes  de  facilidades de pago que acuerde la DIRECCION GENERAL IMPOSITIVA, deberán  ajustarse  a  las siguientes condiciones básicas:\n\na)  Debe  tratarse de deudas exteriorizadas a la fecha del  dictado del presente  decreto,  con  excepción  de  lo  determinado  en  el artículo 3.\n\nb)  Las cuotas serán mensuales y no deben exceder de CUARENTA (40), salvo  que  se  trate de contribuyentes y responsables concursados, en cuyo caso se extenderán  a  SESENTA  (60),  y  serán  iguales  y consecutivas.\n\nc)  Las  cuotas  a  que  hace  referencia  el  inciso  anterior  se actualizarán  de  acuerdo  con el artículo 115 de la Ley N. 11.683, texto  ordenado en 1978 y sus  modificaciones,  por  el  lapso  que transcurra  entre la fecha de presentación del plan y el día en que opere el vencimiento de cada cuota.\n\nd)  El  importe  de  cada  cuota,  excluida  la  actualización  que corresponda,  no  debe  ser  inferior a AUSTRALES UN MILLON (A1.000 000).\n\ne) No devengarán intereses de prórroga.\n\nf) La primera cuota se ingresará  en  oportunidad de solicitarse el correspondiente plan de facilidades.\n\ng) El plan ofrecido debe prever cláusulas  automáticas de caducidad para los casos de incumplimiento.\n\nh)  La  DIRECCION  GENERAL IMPOSITIVA, cuando lo  juzgue  necesario podrá  requerir  el  otorgamiento   de  las  garantías  que  estime apropiadas.\n\ni) Cuando se trate de obligaciones o  multas  en curso de discusión o determinación administrativa o judicial o ejecución  fiscal,  los interesados  deberán  allanarse  a  lo  dispuesto  por la DIRECCION GENERAL  IMPOSITIVA,  renunciando  previamente  a  toda  acción   o derecho  relativo  a la deuda, incluso el de repetición, haciéndose cargo de las costas  que  pudieren  corresponder,  salvo  la de los letrados  patrocinantes  y apoderados de las partes, que serán  por su orden. No obstante esto  último,  los contribuyentes asumirán el pago  del  CINCUENTA  POR  CIENTO  (50%)  de   los  honorarios  que correspondan  a los letrados, apoderados y peritos  de  parte,  del citado Organismo."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6.-  Facúltase  a  la  DIRECCION GENERAL IMPOSITIVA para dictar las normas complementarias que  estime  necesarias  respecto del  régimen  instituido  por  el  presente decreto, y en especial, sobre los requisitos, plazos, garantías, montos y demás condiciones  relativas  a  la  aplicación   del  presente  sistema."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7.- (Nota de redacción) Modifica el decreto N. 1.646/90 en sus arts. 3 y 10."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - GONZALEZ"
+      },
+      "id-infojus": "DN19900001809"
+    }
+  }
+}

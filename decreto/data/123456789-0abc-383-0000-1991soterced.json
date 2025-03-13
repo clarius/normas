@@ -1,0 +1,432 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-383-0000-1991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1485455673123,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto necesidad urgencia",
+        "description": "383-nacional-decreto-necesidad-urgencia-sobre-modificacion-regimen-suspension-juicios-contra-estado-dn19910000383-1991-03-07"
+      }
+    },
+    "content": {
+      "mecanografico": 19910000383,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 383,
+      "timestamp": "2014-07-17T21:58:39",
+      "timestamp-m": "2014-07-17T21:58:39",
+      "tipo-norma": {
+        "codigo": "DNU",
+        "texto": "Decreto de Necesidad y Urgencia"
+      },
+      "fecha": "1991-03-07",
+      "standard-normativo": "DNU C 000383 1991 03 07",
+      "titulo-norma": "DECRETO DE NECESIDAD Y URGENCIA SOBRE MODIFICACION DEL REGIMEN DE SUSPENSION DE JUICIOS CONTRA EL ESTADO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1991 03 12"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 1",
+            "id": "MODIFICA0",
+            "ref": "DNU C 000053 1991 01 09 0004 000"
+          },
+          {
+            "cr": "POR ART. 2",
+            "id": "OBSERVA A1",
+            "ref": "DNU C 000034 1991 01 07 0000 000"
+          },
+          {
+            "cr": "POR ART 3",
+            "id": "OBSERVA A2",
+            "ref": "DNU C 000053 1991 01 09 0000 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "B.O.  91-08-13",
+          "id": "OBSERVADO POR0",
+          "ref": "DEC C 001532 1991 08 08 0002 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 383/91",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE MODIFICA EL REGIMEN DE SUSPENSION DE JUICIOS CONTRA EL ESTADO, COMPRENDIENDO A TODOS LOS PROCEDIMIENTOS JUDICIALES, INCLUSO LOS RELATIVOS A EJECUCION DE SENTENCIAS, LAUDOS ARBITRALES Y ACUERDOS CONCILIATORIOS. DICHA SUSPENSION PODRA SER EXIMIDA POR LOS MAGISTRADOS INTERVINIENTES CUANDO NO ADVIERTAN IRREGULARIDADES MANIFIESTAS EN LA DEFENSA."
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION: PRORROGASE LO DISPUESTO EN EL DEC. 34/91 Y SUS COMPLEMENTARIOS 53/91, 383/91 Y 1216/91 RESPECTO DE LOS PROCEDIMIENTOS JUDICIALES Y ADMINISTRATIVOS ALLI CONTEMPLADOS, HASTA EL 23 DE AGOSTO DE 1991, POR ART. 2 DEL DEC. 1532/91."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto de necesidad y urgencia"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto de necesidad y urgencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento de necesidad y urgencia",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "suspensión de juicios contra el Estado"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/etapas del proceso/demanda/juicios contra el Estado/suspensión de juicios contra el Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "suspensión de demandas contra la Nación",
+                "demanda contra el fisco",
+                "desarrollo del juicio",
+                "demandas contra la Nación",
+                "demandas contra el Estado",
+                "etapas procesales",
+                "juicios contra el Estado provincial",
+                "demandas contra el Estado Provincial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "proceso judicial"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/proceso judicial"
+            },
+            "sinonimos": {
+              "termino": "procedimiento judicial"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ejecución de sentencia"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/procesos de ejecución/ejecución de sentencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "actio judicate",
+                "juicios de ejecución",
+                "juicios ejecutorios",
+                "actio iudicati",
+                "actio judicati"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "laudo arbitral"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/proceso arbitral/juicio de árbitros/laudo arbitral"
+            },
+            "sinonimos": {
+              "termino": [
+                "sentencia arbitral",
+                "arbitraje",
+                "juicio arbitral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "acuerdo conciliatorio"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/terminación del proceso/conciliación"
+            },
+            "sinonimos": {
+              "termino": [
+                "modos anormales de extinción del proceso",
+                "modos anormales de terminación del proceso",
+                "conclusión del proceso",
+                "acuerdo conciliatorio"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "representación procesal"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/partes del proceso/representación procesal"
+            },
+            "sinonimos": {
+              "termino": "representación en juicio"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "magistrados"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia/funcionarios judiciales/jueces"
+            },
+            "sinonimos": {
+              "termino": [
+                "empleados del Poder Judicial",
+                "organización del Poder Judicial",
+                "magistrados judiciales",
+                "empleados judiciales",
+                "organización judicial",
+                "personal judicial",
+                "juez",
+                "magistrados"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "patrocinante"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/partes del proceso/patrocinio letrado/patrocinante"
+            },
+            "sinonimos": {
+              "termino": [
+                "asistencia letrada",
+                "asesoramiento letrado",
+                "asistencia jurídica",
+                "letrado patrocinante",
+                "abogado patrocinante"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "abogado apoderado"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/partes del proceso/representación procesal/abogado apoderado"
+            },
+            "sinonimos": {
+              "termino": [
+                "representación en juicio",
+                "letrado apoderado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Administración Pública Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/Administración Pública Nacional"
+            },
+            "sinonimos": {
+              "termino": "función pública"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Procuración del Tesoro de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/procedimiento administrativo/competencia administrativa/jurisdicción administrativa/Procuración del Tesoro"
+            },
+            "sinonimos": {
+              "termino": [
+                "Procuración del Tesoro de la Nación",
+                "proceso administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sindicatura general de empresas públicas"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/control de la Administración Pública/organismos de control interno/sindicatura general de empresas públicas"
+            },
+            "sinonimos": {
+              "termino": [
+                "función pública",
+                "SIGEP"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "conciliación",
+            "ejecución de sentencia",
+            "etapas procesales (etapas del proceso)",
+            "proceso arbitral",
+            "organización judicial (organización de la justicia)",
+            "partes del proceso",
+            "Procuración del Tesoro de la Nación (Procuración del Tesoro)",
+            "empleados del Poder Judicial (funcionarios judiciales)",
+            "juicio de árbitros",
+            "juicio arbitral (juicio de árbitros)",
+            "juicios contra el Estado",
+            "suspensión de demandas contra la Nación (suspensión de juicios contra el Estado)",
+            "arbitraje (juicio de árbitros)",
+            "procedimiento judicial (proceso judicial)",
+            "juicios contra el Estado provincial (juicios contra el Estado)",
+            "asistencia letrada (patrocinio letrado)",
+            "juez (jueces)",
+            "actio judicati (ejecución de sentencia)",
+            "demandas contra el Estado Provincial (juicios contra el Estado)",
+            "actio judicate (ejecución de sentencia)",
+            "representación procesal",
+            "Derecho administrativo",
+            "competencia administrativa",
+            "personal judicial (funcionarios judiciales)",
+            "proceso administrativo (procedimiento administrativo)",
+            "proceso judicial",
+            "demandas contra la Nación (juicios contra el Estado)",
+            "sentencia arbitral (laudo arbitral)",
+            "Administración Pública",
+            "demandas contra el Estado (juicios contra el Estado)",
+            "representación en juicio (representación procesal)",
+            "demanda",
+            "magistrados judiciales (jueces)",
+            "asistencia jurídica (patrocinio letrado)",
+            "conclusión del proceso (terminación del proceso)",
+            "funcionarios judiciales",
+            "acto administrativo",
+            "etapas del proceso",
+            "organización de la justicia",
+            "letrado apoderado (abogado apoderado)",
+            "control de la Administración Pública",
+            "jueces",
+            "demanda contra el fisco (juicios contra el Estado)",
+            "procesos de ejecución",
+            "Administración Pública Nacional",
+            "abogado patrocinante (patrocinante)",
+            "magistrados (jueces)",
+            "actio iudicati (ejecución de sentencia)",
+            "reglamentos",
+            "abogado apoderado",
+            "terminación del proceso",
+            "asesoramiento letrado (patrocinio letrado)",
+            "organización del Poder Judicial (organización de la justicia)",
+            "sindicatura general de empresas públicas",
+            "acuerdo conciliatorio (conciliación)",
+            "letrado patrocinante (patrocinante)",
+            "Derecho procesal",
+            "patrocinio letrado",
+            "acto administrativo de alcance general",
+            "suspensión de juicios contra el Estado",
+            "reglamento administrativo (reglamentos)",
+            "procedimiento administrativo",
+            "juicios de ejecución (procesos de ejecución)",
+            "modos anormales de extinción del proceso (terminación del proceso)",
+            "Procuración del Tesoro",
+            "laudo arbitral",
+            "función pública (Administración Pública)",
+            "reglamento de necesidad y urgencia (decreto de necesidad y urgencia)",
+            "modos anormales de terminación del proceso (terminación del proceso)",
+            "juicios ejecutorios (procesos de ejecución)",
+            "empleados judiciales (funcionarios judiciales)",
+            "patrocinante",
+            "organismos de control interno",
+            "jurisdicción administrativa",
+            "decreto de necesidad y urgencia",
+            "SIGEP (sindicatura general de empresas públicas)",
+            "desarrollo del juicio (etapas del proceso)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 000034 1991 01 07 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DNU C 000053 1991 01 09 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "los  decretos 34/91, 53/91 y lo dictaminado por la PROCURACION DEL TESORO DE LA NACION, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 000053 1991 01 09 0004 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DNU C 000034 1991 01 07 0001 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "CPP C 023984 1991 08 21 0164 000 0164 000  A"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "CPC C 017454 1981 08 18 0034 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  el  segundo  párrafo  del  artículo  4  del decreto 53/91 exceptuó  de  la  suspensión  de  la  tramitación  de los  juicios, dispuesta  por el artículo 1 del decreto 34/91, a aquellos  en  los cuales la PROCURACION  DEL  TESORO  DE  LA  NACION o la SINDICATURA GENERAL DE EMPRESAS PUBLICAS dictaminaren que  no tienen objeciones que formular.\n\nQue en juicios de los arriba mencionados se han dictado providencias    confiriendo    vistas   de  expedientes  judiciales destinadas  a  la  aplicación de aquel precepto,  fijando  términos exiguos para el cumplimiento  de  las  investigaciones pertinentes, bajo apercibimiento de continuarse los trámites.\n\nQue  es  responsabilidad primera de los Magistrados  intervinientes en los procesos  judiciales el debido control del procedimiento, en los términos del artículo  34  inciso 5 del Código Procesal Civil y Comercial de la Nación, y la denuncia  de  los  eventuales ilícitos que  pudieran  llegar a su conocimiento, conforme lo  establece  el artículo 164 del  Código  de  Procedimientos en Materia Penal.\n\nQue de no advertir -prima facie-  los Magistrados intervinientes en los procesos judiciales suspendidos  por  aplicación del artículo 1 del decreto 34/91, la presencia de irregularidades  manifiestas  en la  defensa ejercida por los apoderados o letrados defensores de la ADMINISTRACION  PUBLICA  NACIONAL  centralizada y descentralizada y de los demás entes mencionados en dicha  norma,  cabe  exceptuar la suspensión  dispuesta.  Ello  sin perjuicio que la PROCURACION  DEL TESORO DE LA NACION o la SINDICATURA  GENERAL  DE EMPRESAS PUBLICAS puedan oponerse fundadamente a la prosecución de los procedimientos, sobre la base de investigaciones  que se encuentren abiertas.\n\nQue  es  preciso  aclarar  que el plazo establecido en  el  Decreto 34/91, de ciento veinte (120)  días,  debe  ser  computado  en días hábiles,  dada  la  naturaleza  de los procedimientos judiciales  y administrativos a los que está dirigido.\n\nQue la atribución del ejercicio de  las  facultades  de  control de los  juicios  en los que fuera parte la MUNICIPALIDAD DE LA  CIUDAD DE  BUENOS AIRES  corresponde  sea  encomendada  a  la  Procuración General de aquella Municipalidad.\n\nQue el  enunciado  de  estos  hechos  obliga  al  uso  de  remedios extraordinarios.\n\nQue  el  ejercicio de funciones legislativas por el PODER EJECUTIVO NACIONAL,  cuando  la  necesidad  se hace presente y la urgencia lo justifica, cuenta con el respaldo de la mejor doctrina constitucionaln Así, Joaquín V. GONZALEZ  ha dicho en su \"Manual de la Constitución Argentina\", página 538, edición  1951,  que  \"puede el  PODER  EJECUTIVO NACIONAL, al dictar reglamentos o resoluciones generales invadir  la  esfera legislativa, o en casos excepcionales o urgentes, creer necesario  anticiparse  a  la sanción de una ley\" (Conf. en el mismo sentido BIELSA, Rafael, \"Derecho Administrativo\",  1954, t.1, pág. 309). También  la  jurisprudencia de la CORTE SUPREMA  DE LA JUSTICIA DE LA NACION le ha dado acogida (Fallos 11:405, 23:257).\n\nPor ello, en ejercicio  de las atribuciones del artículo 86, inciso 1 de la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ART. 1.- NOTA DE REDACCION MODIFICA EL ART. 4 DEL DECRETO N.\n\n53/91."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2.- El plazo de ciento veinte (120) días establecido en el decreto  34/91  deberá computarse en días hábiles administrativos o judiciales."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3.- Las facultades acordadas en el decreto 53/91 y en el presente a la  PROCURACION  DEL  TESORO  DE  LA NACION, deberán ser ejercidas  por  la  PROCURACION GENERAL DE LA MUNICIPALIDAD  DE  LA CIUDAD DE BUENOS AIRES,  en  las  causas  en que dicha comuna fuere parte."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4.-  Dése  cuenta  al  HONORABLE  CONGRESO DE LA NACION."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-SALONIA"
+      },
+      "id-infojus": "DN19910000383"
+    }
+  }
+}

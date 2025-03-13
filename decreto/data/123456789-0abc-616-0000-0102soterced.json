@@ -1,0 +1,1310 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-616-0000-0102soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1605711704562,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "616-nacional-decreto-reglamentario-ley-25871-sobre-politica-migratoria-argentina-dn20100000616-2010-05-03"
+      }
+    },
+    "content": {
+      "mecanografico": 20100000616,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 616,
+      "timestamp": "2020-11-18T11:57:26",
+      "timestamp-m": "2020-11-18T11:57:26",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2010-05-03",
+      "standard-normativo": "DEC C 000616 2010 05 03",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 25.871 SOBRE POLITICA MIGRATORIA ARGENTINA",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2010 05 06"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 616/2010",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2010-05-06",
+      "fecha-mod": "2020-11-18",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE APRUEBA LA REGLAMENTACION DE LA LEY 25.871 SOBRE POLITICA MIGRATORIA ARGENTINA",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A ANEXO I",
+            "B ANEXO II"
+          ]
+        },
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 4.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 3 .\n\nFECHA DE ENTRADA EN VIGENCIA : 4-07-2010.\n\nOBSERVACION: POR DISPOSICION 3611/2020 DE LA DIRECCIÓN NACIONAL DE MIGRACIONES SE PRORROGA POR 30 DIAS CORRIDOS LA VIGENCIA DE TODOS AQUELLOS PERMISOS DE INGRESO CUYO PLAZO PARA REALIZAR EL TRAMITE DE VISADO HUBIERA VENCIDO ENTRE EL 17 DE MARZO DE 2020 Y LA FECHA DE PUBLICACION DE ESTA DISPOSICION (B.O. 18/11/2020).",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "actos de alcance general",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "migraciones"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "admisión y permanencia de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "radicación de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/radicación de extranjeros"
+            },
+            "sinonimos": {
+              "termino": "pedido de radicación en el país"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "autorización de residencia precaria"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros/residencia de extranjeros/autorización de residencia precaria"
+            },
+            "sinonimos": {
+              "termino": "residencia precaria"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros residentes"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros/residencia de extranjeros/extranjeros residentes"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros ilegales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/extranjeros ilegales"
+            },
+            "sinonimos": {
+              "termino": [
+                "residente ilegal",
+                "inmigración clandestina",
+                "migración clandestina"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "expulsión de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros/expulsión de extranjeros"
+            },
+            "sinonimos": {
+              "termino": "extranjeros expulsados"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador extranjero"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/trabajador/trabajador migrante/trabajador extranjero"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "asalariados",
+                "trabajo migratorio",
+                "empleado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "control migratorio"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/control migratorio"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "admisión y permanencia de extranjeros",
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "trabajo migratorio (trabajador migrante)",
+            "reglamentos",
+            "radicación de extranjeros",
+            "contrato laboral (contrato de trabajo)",
+            "sujetos del contrato de trabajo",
+            "asalariados (trabajador)",
+            "inmigración clandestina (extranjeros ilegales)",
+            "extranjeros",
+            "pedido de radicación en el país (radicación de extranjeros)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "trabajador extranjero",
+            "empleado (trabajador)",
+            "Derecho administrativo",
+            "residencia precaria (autorización de residencia precaria)",
+            "migración clandestina (extranjeros ilegales)",
+            "extranjeros expulsados (expulsión de extranjeros)",
+            "trabajador",
+            "extranjeros ilegales",
+            "expulsión de extranjeros",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "autorización de residencia precaria",
+            "control migratorio",
+            "acto administrativo",
+            "Derecho laboral",
+            "extranjeros residentes",
+            "actos de alcance general (acto administrativo de alcance general)",
+            "contrato de trabajo en general",
+            "trabajador migrante",
+            "migraciones",
+            "residente ilegal (extranjeros ilegales)",
+            "residencia de extranjeros"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 001434 1987 08 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 001023 1994 06 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000322 1995 03 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 001055 1995 12 29 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente Nº S02:0005737/2007 (Expediente Original Nº 2237/2004) del registro de la DIRECCION NACIONAL DE MIGRACIONES, organismo descentralizado actuante en la órbita del MINISTERIO DEL INTERIOR, la Ley Nº 25.871, los Decretos Nº 464 del 21 de febrero de 1977, Nº 1434 del 31 de agosto de 1987, Nº 1023 del 29 de junio de 1994, Nº 322 del 6 de marzo de 1995, Nº 1055 del 29 de diciembre de 1995, Nº 1117 del 23 de septiembre de 1998 y Nº 1610 del 5 de diciembre de 2001, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que la entrada en vigencia de la LEY DE MIGRACIONES Nº 25.871 ha venido a regular todo lo concerniente a la política migratoria argentina y a los derechos y obligaciones de los extranjeros que desean habitar la REPUBLICA ARGENTINA, en consonancia con la CONSTITUCION NACIONAL y los Tratados Internacionales en la materia.\n\nQue resulta necesario tener presente que la REPUBLICA ARGENTINA ha reformulado los objetivos de su política migratoria, en un marco de integración regional latinoamericana y de respeto a los derechos humanos y movilidad de los migrantes, lo que genera un compromiso cada vez mayor de cooperación mutua entre los diversos Estados Parte del MERCADO COMUN DEL SUR (MERCOSUR) y sus Estados Asociados, una progresiva facilitación de los procedimientos legales vigentes y una adecuada contemplación de las necesidades reales de los extranjeros que transitan o residen en el Territorio Nacional.\n\nQue la DIRECCION NACIONAL DE MIGRACIONES, organismo descentralizado actuante en la órbita del MINISTERIO DEL INTERIOR, resulta ser la autoridad de aplicación de la Ley Nº 25.871 y sus modificatorias, y la encargada de la elaboración de la reglamentación de la mencionada normativa, ello así de conformidad con las previsiones contempladas en el artículo 123 de la citada ley.\n\nQue a esos efectos es dable proceder a reglamentar las líneas políticas fundamentales y las bases estratégicas que en materia migratoria la REPUBLICA ARGENTINA ha observado e indicado en la referida normativa.\n\nQue, en ese sentido, la Ley Nº 25.871 y sus modificatorias han incorporado sustanciales cambios en la legislación migratoria nacional, corno la instrumentación de procedimientos de expulsión de extranjeros mediante los cuales se ha garantizado su acceso a la justicia y, por ende, el efectivo control judicial respecto de la razonabilidad y legalidad de cualquier medida dictada a su respecto por la autoridad de aplicación.\n\nQue asimismo, a través del presente, corresponde incorporar principios internacionalmente reconocidos hacia las personas de los migrantes, como ser los que garantizan el ejercicio del derecho a la reunificación familiar, la contribución al enriquecimiento y fortalecimiento del tejido cultural y social del país promoviendo la integración en la sociedad argentina de las personas que hayan sido admitidas corno residentes y el reconocimiento efectivo hacia las personas extranjeras del arraigo en el Territorio Nacional.\n\nQue conforme a la mencionada normativa y a los Acuerdos Migratorios suscriptos por nuestro país, también se han incorporado al ordenamiento jurídico nacional criterios migratorios de admisión, permanencia, egreso y regularización para los ciudadanos nativos de los Estados Parte del MERCADO COMUN DEL SUR (MERCOSUR) y sus Estados Asociados, tal lo especificado en el criterio de nacionalidad previsto en el artículo 23, inciso I) de la Ley Nº 25.871, en concordancia con el proceso de integración en que se encuentra inmerso nuestro país y la región latinoamericana.\n\nQue es preciso reconocer que en los últimos años la temática migratoria ha cobrado una significativa importancia en la agenda internacional y, en ese sentido, nuestro país ha redefinido su política migratoria respecto de la cerrada, arbitraria y expulsiva política de antaño, en procura de la protección de las personas en el goce de sus derechos.\n\nQue esta reglamentación debe facilitar los trámites que deban realizar los extranjeros que deseen habitar el suelo argentino, estableciendo un sistema normativo que complemente y adecue los mecanismos de protección de los derechos amparados, supervisando la actividad administrativa de aplicabilidad de la misma y dictando las normas tendientes a un correcto cumplimiento de los fines y objetivos por ella propuestos.\n\nQue las Direcciones Generales de Asuntos Jurídicos de los Ministerios del Interior y de Justicia, Seguridad y Derechos Humanos han tomado la intervención que les compete.\n\nQue la presente medida se dicta en uso de las atribuciones emergentes del artículo 99, inciso 2) de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1º - Apruébase la reglamentación de la LEY DE MIGRACIONES Nº 25.871 que como Anexos I y II se acompañan y forman parte integrante del presente.",
+          "reglamenta-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REGLAMENTA_A_0",
+              "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2º - A partir de la entrada en vigencia de la reglamentación que se aprueba por el artículo 1º del presente, deróganse los Decretos Nº 464 del 21 de febrero de 1977, Nº 1434 del 31 de agosto de 1987, Nº 1023 del 29 de junio de 1994, Nº 322 del 6 de marzo de 1995, Nº 1055 del 29 de diciembre de 1995, Nº 1117 del 23 de septiembre de 1998 y Nº 1610 del 5 de diciembre de 2001.",
+          "deroga-a": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "DEROGA_A_0",
+                "ref": "DEC C 000464 1977 02 21 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_1",
+                "ref": "DEC C 001434 1987 08 31 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_2",
+                "ref": "DEC C 001023 1994 06 29 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_3",
+                "ref": "DEC C 000322 1995 03 06 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_4",
+                "ref": "DEC C 001055 1995 12 29 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_5",
+                "ref": "DEC C 001117 1998 09 23 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "DEROGA_A_6",
+                "ref": "DEC C 001610 2001 12 05 0000 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3º - La reglamentación mencionada en el artículo 1º entrará en vigencia a los SESENTA (60) días de su publicación en el Boletín Oficial."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4º - Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese. -"
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FERNANDEZ DE KIRCHNER-Fernández-Randazzo"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I",
+          "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO: 121",
+          "texto": "ANEXO I REGLAMENTACION DE LA LEY Nº 25.871 y sus modificatorias",
+          "segmento": [
+            {
+              "titulo-particion": "TITULO PRELIMINAR POLITICA MIGRATORIA ARGENTINA",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I AMBITO DE APLICACION",
+                  "articulo": [
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": [
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_0",
+                            "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                          },
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_1",
+                            "ref": "LEY C 026165 2006 11 08 0000 000 0000 000"
+                          },
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_2",
+                            "ref": "LEY C 026364 2008 04 09 0000 000 0000 000"
+                          }
+                        ]
+                      },
+                      "numero-articulo": 1,
+                      "texto": "ARTICULO 1º.- El ingreso y egreso de personas del territorio argentino, así como la permanencia en éste de extranjeros deberá ajustarse a las disposiciones de la Ley Nº 25.871 y sus modificatorias, a la presente Reglamentación y a las demás normas que se dicten en consecuencia.\n\nLa presente reglamentación tendrá carácter supletorio de las que se dicten en virtud del régimen establecido por la LEY GENERAL DE RECONOCIMIENTO Y PROTECCION AL REFUGIADO Nº 26.165, y por la Ley Nº 26.364 sobre PREVENCION Y SANCION DE LA TRATA DE PERSONAS Y ASISTENCIA A SUS VICTIMAS.\n\nEn caso de duda, deberá estarse a lo que resulte más favorable al inmigrante."
+                    },
+                    {
+                      "numero-articulo": 2,
+                      "texto": "ARTICULO 2º.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II PRINCIPIOS GENERALES",
+                  "articulo": {
+                    "referencias-normativas": {
+                      "referencia-normativa": {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                      }
+                    },
+                    "numero-articulo": 3,
+                    "texto": "ARTICULO 3º.- El MINISTERIO DEL INTERIOR será la autoridad competente para establecer los lineamientos y pautas generales de la política de población y migraciones, pudiendo determinar las zonas del país que se consideren prioritarias para el desarrollo de aquéllas y adoptar las medidas necesarias para su promoción y fomento. Asimismo, a través de la DIRECCION NACIONAL DE MIGRACIONES y la DIRECCION NACIONAL DE POBLACION, se podrá convocar a las organizaciones que actúan en el ámbito migratorio a fin de que propongan planes e iniciativas concretas para la consecución de los objetivos establecidos en la Ley Nº 25.871, autorizándose al referido Ministerio a suscribir convenios de colaboración con tales organizaciones."
+                  }
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO I DE LOS DERECHOS Y OBLIGACIONES DE LOS EXTRANJEROS",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I DE LOS DERECHOS Y LIBERTADES DE LOS EXTRANJEROS",
+                  "articulo": [
+                    {
+                      "numero-articulo": 4,
+                      "texto": "ARTICULO 4º.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 5,
+                      "texto": "ARTICULO 5º.- Sin reglamentar."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 6,
+                      "texto": "ARTICULO 6º.- El MINISTERIO DEL INTERIOR, a través de la DIRECCION NACIONAL DE MIGRACIONES, sus autoridades delegadas y las fuerzas que componen la Policía Migratoria Auxiliar, en el ejercicio de las competencias asignadas, velarán por el resguardo de los derechos humanos y el goce del derecho a migrar reconocido por la Ley Nº 25.871. Asimismo, prestará colaboración con otras áreas de los Gobiernos Nacional, Provincial, Municipal y de la CIUDAD AUTONOMA DE BUENOS AIRES, en aquellas acciones o programas tendientes a lograr la integración de los migrantes a la sociedad de recepción y a garantizar su acceso a los servicios sociales, bienes públicos, salud, educación, justicia, trabajo, empleo y seguridad social, en igualdad de condiciones con los nacionales."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 026206 2006 12 14 0000 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 7,
+                      "texto": "ARTICULO 7º.- El MINISTERIO DE EDUCACION dictará las normas y dispondrá las medidas necesarias para garantizar a los extranjeros, aún en situación de irregularidad migratoria, el acceso a los distintos niveles educativos con el alcance previsto en la Ley Nº 26.206"
+                    },
+                    {
+                      "numero-articulo": 8,
+                      "texto": "ARTICULO 8º.- El MINISTERIO DE SALUD dictará las normas y dispondrá las medidas necesarias para garantizar a los extranjeros, aún en situación de irregularidad migratoria, el libre acceso a la asistencia sanitaria y social. La identidad de aquéllos podrá ser demostrada mediante la documentación extendida por las autoridades de su país de origen o consulados en la REPUBLICA ARGENTINA."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 9,
+                      "texto": "ARTICULO 9º.- La DIRECCION NACIONAL DE MIGRACIONES, por sí o a través de convenios que suscriba con organismos que actúen en jurisdicción de los Gobiernos Nacional, Provincial, Municipal o de la CIUDAD AUTONOMA DE BUENOS AIRES y con los demás organismos o instituciones que corresponda, desarrollará las siguientes acciones:\n\na) Dictar cursos periódicos de capacitación para sus agentes y para los que cumplan tareas en las fuerzas que componen la Policía Migratoria Auxiliar, poniendo especial énfasis en la necesidad del conocimiento por parte de aquéllos de los derechos, deberes y garantías de los extranjeros.\n\nb) Organizar un sistema de formación e información sobre los derechos y deberes que acuerda la Ley Nº 25.871 y sus modificatorias y la presente reglamentación para funcionarios, empleados públicos y personal que se desempeña en entes privados que tienen trato con los extranjeros, en especial las entidades educativas, de salud, alojamiento y transporte.\n\nc) Brindar información en materia migratoria a extranjeros, en especial para facilitar los trámites necesarios para cumplir con su radicación. A tal fin se contemplará la utilización de sus lenguas de origen y la asistencia de intérpretes lingüísticos y mediadores culturales."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": [
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_0",
+                            "ref": "LEY C 025871 2003 12 17 0010 000 0000 000"
+                          },
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_1",
+                            "ref": "TRA C 026202 2006 12 13 0000 000 0000 000"
+                          }
+                        ]
+                      },
+                      "numero-articulo": 10,
+                      "texto": "ARTICULO 10.- El MINISTERIO DEL INTERIOR, a través de la DIRECCION NACIONAL DE MIGRACIONES y demás organismos competentes, adoptará las medidas necesarias para asegurar el ejercicio del derecho de reunificación familiar con los alcances previstos en los artículos 10 de la Ley Nº 25.871 y 44 de la CONVENCION INTERNACIONAL SOBRE LA PROTECCION DE TODOS LOS TRABAJADORES MIGRATORIOS Y DE SUS FAMILIARES, aprobada por la Ley Nº 26.202"
+                    },
+                    {
+                      "numero-articulo": 11,
+                      "texto": "ARTICULO 11.- El MINISTERIO DEL INTERIOR, a través de la DIRECCION NACIONAL DE MIGRACIONES o por intermedio de convenios que se suscriban con organismos que actúen en jurisdicción Provincial, Municipal o de la CIUDAD AUTONOMA DE BUENOS AIRES, adoptará las medidas necesarias para informar a los extranjeros respecto de las condiciones y requisitos del ejercicio del derecho al voto. Asimismo, promoverá las acciones conducentes a fin de garantizar distintas formas de participación real y efectiva en las decisiones relativas a la vida pública y a la administración de las comunidades locales de los extranjeros residentes en ellas."
+                    },
+                    {
+                      "numero-articulo": 12,
+                      "texto": "ARTICULO 12.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 13,
+                      "texto": "ARTICULO 13.- Sin reglamentar."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0014 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 14,
+                      "texto": "ARTICULO 14.- El MINISTERIO DEL INTERIOR, a través de la DIRECCION NACIONAL DE MIGRACIONES y la DIRECCION NACIONAL DE POBLACION, mediante convenios que suscriba al efecto, creará los instrumentos e implementará las acciones dirigidas a concretar los objetivos fijados en el artículo 14 de la Ley Nº 25.871 y sus modificatorias."
+                    },
+                    {
+                      "numero-articulo": 15,
+                      "texto": "ARTICULO 15.- La DIRECCION GENERAL DE ADUANAS dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS (AFIP) del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS será la autoridad competente para determinar el procedimiento, alcances y montos de los beneficios impositivos para los extranjeros a quienes se otorgue residencia permanente.\n\nLos bienes introducidos al país al amparo del presente régimen no podrán ser transferidos por actos entre vivos, ni gravados, por un plazo mínimo de DOS (2) años, contados a partir de su despacho a plaza, sin autorización previa de la DIRECCION GENERAL DE ADUANAS, dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS (AFIP) del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS.\n\nQuienes hubieren gozado de este beneficio sólo podrán acogerse nuevamente a él después de transcurridos SIETE (7) años, a contar de la fecha del acto administrativo por el que hubiere sido acordado."
+                    },
+                    {
+                      "numero-articulo": 16,
+                      "texto": "ARTICULO 16.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 17,
+                      "texto": "ARTICULO 17.- Con el fin de regularizar la situación migratoria de los extranjeros, la DIRECCION NACIONAL DE MIGRACIONES podrá:\n\na) Dictar disposiciones que simplifiquen y agilicen los trámites administrativos respectivos.\n\nb) Celebrar convenios y recurrir a la colaboración de organismos públicos o privados.\n\nc) Desarrollar e implementar programas en aquellas zonas del país que requieran un tratamiento especial.\n\nd) Celebrar convenios con autoridades extranjeras residentes en la REPUBLICA ARGENTINA a fin de agilizar y favorecer la obtención de la documentación de esos países.\n\ne) Fijar criterios para la eximición del pago de la tasa migratoria, en casos de pobreza o cuando razones humanitarias así lo justifiquen."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II DE LAS OBLIGACIONES DE LOS INMIGRANTES Y ATRIBUCIONES DEL ESTADO",
+                  "articulo": [
+                    {
+                      "numero-articulo": 18,
+                      "texto": "ARTICULO 18.- Sin reglamentar."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0019 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 19,
+                      "texto": "ARTICULO 19.- El MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL dispondrá las medidas necesarias para brindar a los extranjeros la orientación necesaria con respecto a las situaciones descriptas en el artículo 19 de la Ley Nº 25.871"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO II DE LA ADMISION DE EXTRANJEROS A LA REPUBLICA ARGENTINA Y SUS EXCEPCIONES",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I DE LAS CATEGORIAS Y PLAZOS DE ADMISION",
+                  "articulo": [
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0069 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 20,
+                      "texto": "ARTICULO 20.- a) Cambio de categoría: Los extranjeros podrán solicitar a la autoridad de aplicación el cambio de la categoría o subcategoría en que fueron originariamente admitidos, cuando reúnan para ello las condiciones exigidas por la Ley Nº 25.871, el presente Reglamento y las disposiciones generales dictadas por la DIRECCION NACIONAL DE MIGRACIONES.\n\nb) Suspensión de trámite: Cuando un extranjero estuviere tramitando su residencia y se encontrare imputado o procesado en causa penal cuya resolución pudiese determinar alguno de los impedimentos legales para residir en el territorio argentino, la autoridad de aplicación suspenderá el curso de las actuaciones administrativas hasta tanto se resuelva tal situación judicial. Asimismo otorgará al extranjero una autorización de residencia precaria, en los términos de la prevista en el artículo 69 de la Ley Nº 25.871, la que podrá hacerse extensiva, en su caso, al grupo familiar a su cargo.\n\nc) Capacidades diferentes: A los extranjeros con capacidades diferentes, cualquiera fuera su edad, les corresponderá igual categoría de residencia que la otorgada a sus padres, hijos o cónyuges.\n\nd) Residencia precaria: Si por responsabilidad del organismo interviniente los trámites de radicación demoraren más de lo estipulado sin justa causa, a partir de la segunda renovación de la residencia precaria ésta deberá hacerse en forma gratuita.\n\nEl certificado que emita la autoridad de aplicación otorgando una residencia precaria deberá enumerar los derechos que acuerda al extranjero tal condición.\n\ne) Control de permanencia: A efectos de controlar la legalidad de la permanencia de extranjeros en el territorio argentino, la DIRECCION NACIONAL DE MIGRACIONES tendrá las siguientes atribuciones:\n\n1) Requerir a los extranjeros que acrediten su situación migratoria cuando existan circunstancias objetivas que permitan fundadamente sospechar que aquella resulte irregular. Cuando el requerido alegare ser residente regular y estar habilitado para trabajar y alojarse pero no pudiere acreditarlo en el acto, y ello tampoco pudiera ser verificado en ese momento por la autoridad migratoria, el interesado podrá solicitar que se le conceda un plazo razonable a efectos de probar aquellas circunstancias.\n\n2) Organizar y conducir los operativos de inspección y fiscalización orientados a verificar el cumplimiento de las obligaciones de los dadores de empleo y alojamiento con respecto a la población extranjera residente en el país.\n\n3) Requerir a quien se encuentre a cargo del lugar inspeccionado, la presentación de los libros, registros y documentación relativa al personal y a pasajeros extranjeros que prescriba la normativa vigente; de no tenerlos disponibles en el acto de inspección, se lo intimará a que presente tales documentos en un plazo improrrogable no superior a CINCO (5) días. Asimismo la autoridad migratoria podrá ordenar el secuestro de la documentación probatoria necesaria por un plazo que no excederá los TRES (3) días, vencido el cual deberá quedar nuevamente a disposición de la persona de cuyo poder se sacaron.\n\n4) Requerir la previa autorización judicial en caso de mediar oposición del propietario o responsable del medio o lugar a inspeccionar, cuando éste no fuere de acceso público.\n\n5) Requerir el auxilio de la fuerza pública cuando las circunstancias lo aconsejaren o tornaren necesario para el mejor cumplimiento de las funciones de control.\n\n6) Organizar y conducir los operativos de inspección y fiscalización tendientes a constatar la existencia del criterio migratorio alegado por el extranjero frente a la autoridad competente."
+                    },
+                    {
+                      "numero-articulo": 21,
+                      "texto": "ARTICULO 21.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 22,
+                      "texto": "ARTICULO 22.- El extranjero que solicite su residencia permanente deberá acreditar:\n\na) Ser cónyuge, progenitor o hijo de argentino nativo, naturalizado o por opción; teniendo en cuenta principios de unidad, sostén y con el alcance del derecho de reunificación familiar establecido en la legislación pertinente y en el artículo 10 de la presente Reglamentación.\n\nb) Ser cónyuge, progenitor, hijo soltero menor de DIECIOCHO (18) años no emancipado o mayor con capacidad diferente, de un residente permanente, teniendo en cuenta principios de unidad, sostén y con el alcance del derecho de reunificación familiar establecido en la legislación pertinente y en el artículo 10 de la presente Reglamentación.\n\nc) Tener arraigo por haber gozado de residencia temporaria por DOS (2) años continuos o más, si fuere nacional de los países del MERCADO COMUN DEL SUR (MERCOSUR) o Estados Asociados; y TRES (3) años continuos o más, en los demás casos. Asimismo, deberá dar cumplimiento a las demás condiciones que determine la DIRECCION NACIONAL DE MIGRACIONES según el tipo de residencia temporaria de que se trate.\n\nd) Haberse desempeñado como funcionario diplomático, consular o de Organismos Internacionales y haber permanecido en sus funciones en el territorio argentino por el tiempo previsto para cada caso en el inciso anterior.\n\ne) Tener la condición de refugiado y cumplir con alguno de los criterios previstos en los incisos a), b) o c) de este artículo; y el asilado que, cumpliendo con los mencionados criterios, obtuviera la autorización de la autoridad competente en la materia."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": [
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_0",
+                            "ref": "LEY C 025871 2003 12 17 0023 000 0000 000"
+                          },
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_1",
+                            "ref": "TRA C 026202 2006 12 13 0000 000 0000 000"
+                          }
+                        ]
+                      },
+                      "numero-articulo": 23,
+                      "texto": "ARTICULO 23.- Los extranjeros que soliciten su residencia temporaria ingresarán en las subcategorías establecidas en el artículo 23 de la Ley Nº 25.871, bajo las siguientes condiciones:\n\na) Trabajador migrante: A los fines de esta subcategoría se tendrán en cuenta las definiciones y condiciones establecidas por la CONVENCION INTERNACIONAL SOBRE LA PROTECCION DE TODOS LOS TRABAJADORES MIGRATORIOS Y DE SUS FAMILIARES, aprobada por Ley Nº 26.202.\n\nb) Rentista: Quien ingrese en esta subcategoría deberá acreditar ante la DIRECCION NACIONAL DE MIGRACIONES el origen de los fondos y su ingreso al país, por intermedio de instituciones bancarias o financieras autorizadas por el BANCO CENTRAL DE LA REPUBLICA ARGENTINA.\n\nAsimismo, deberá probar que el monto de las rentas que perciba resulta suficiente para atender a su manutención y la de su grupo familiar primario. A los fines de otorgar la residencia se deberán tomar en cuenta las disposiciones de la Ley Nº 25.246, sobre Encubrimiento y Lavado de Activos de origen delictivo.\n\nc) Sin reglamentar.\n\nd) Inversionista: Quien ingrese en esta subcategoría deberá realizar una inversión productiva, comercial o de servicios de interés para el país, por un mínimo de PESOS UN MILLON QUINIENTOS MIL ($ 1.500.000).\n\nEl interesado presentará ante la DIRECCION NACIONAL DE MIGRACIONES el proyecto de inversión, debiendo acreditar el origen y legalidad de los fondos, y su ingreso al país, por medio de instituciones bancarias o financieras autorizadas por el BANCO CENTRAL DE LA REPUBLICA ARGENTINA.\n\nCon la aprobación de la Autoridad referenciada en el párrafo precedente, el MINISTERIO DE INDUSTRIA Y TURISMO analizará el proyecto y el plazo de ejecución y elaborará un dictamen no vinculante, teniendo en cuenta los siguientes parámetros:\n\n1. Naturaleza de la inversión;\n\n2. Viabilidad legal del proyecto;\n\n3. Sustentabilidad económico-financiera del proyecto.\n\nEl MINISTERIO DE INDUSTRIA Y TURISMO podrá incorporar por Resolución fundada nuevos parámetros para la evaluación. Asimismo, dictará las normas complementarias e interpretativas que resulten pertinentes.\n\nRecibidas las actuaciones, la DIRECCION NACIONAL DE MIGRACIONES otorgará la residencia temporaria, fijando un plazo para la concreción de la inversión que tendrá carácter perentorio.\n\ne) Sin reglamentar.\n\nf) Sin reglamentar.\n\ng) Sin reglamentar.\n\nh) Sin reglamentar.\n\ni) Sin reglamentar.\n\nj) Sin reglamentar.\n\nk) Sin reglamentar.\n\nl) Nacionalidad: El detalle de países referidos en el artículo 23, inciso I) de la Ley Nº 25.871 es meramente enunciativo, debiendo considerarse incluidos a todos los Estados Parte del MERCADO COMUN DEL SUR (MERCOSUR) y Estados Asociados.\n\nCuando exista un convenio migratorio binacional o multinacional con el país de origen del extranjero, su situación migratoria y demás derechos y deberes relativos a ella se regirán por lo dispuesto en aquél, salvo que la aplicación de la Ley Nº 25.871 y la presente Reglamentación resulte más beneficiosa para el solicitante.\n\nm) Razones humanitarias: Se tendrán especialmente en cuenta las siguientes situaciones:\n\n1. Personas necesitadas de protección internacional que, no siendo refugiadas o asiladas en los términos de la legislación aplicable en la materia, se encuentran amparadas por el Principio de No Devolución y no pueden regularizar su situación migratoria a través de los restantes criterios previstos en la Ley Nº 25.871 y en la presente Reglamentación.\n\n2. Personas respecto de las cuales se presuma verosímilmente, que de ser obligadas a regresar a su país de origen quedarían sometidas a violaciones de los derechos humanos reconocidos en instrumentos internacionales con jerarquía constitucional.\n\n3. Personas que hayan sido víctimas de la trata de personas u otras modalidades de explotación esclava y/o víctimas del tráfico ilícito de migrantes.\n\n4. Personas que invoquen razones de salud que hagan presumir riesgo de muerte en caso de que fueren obligadas a regresar a su país de origen por falta de tratamiento médico.\n\n5. Apátridas y refugiados que hubieran residido en el país por un plazo superior a TRES (3) años y su condición hubiese cesado.\n\nn) Razones especiales: Cuando existieren razones de interés público, el MINISTERIO DEL INTERIOR a través de la DIRECCION NACIONAL DE MIGRACIONES, y el MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO podrán dictar resoluciones conjuntas de carácter general que prevean otras categorías de admisión como residentes temporarios.\n\nA efectos de preservar los principios de unidad, sostén y reunificación familiar con el alcance establecido en la legislación pertinente y en el artículo 10 del presente Reglamento, la DIRECCION NACIONAL DE MIGRACIONES otorgará residencia temporaria a quien acredite ser cónyuge, progenitor o hijo soltero menor de DIECIOCHO (18) años no emancipado o mayor con capacidades diferentes, de inmigrante con residencia temporaria."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0024 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 24,
+                      "texto": "ARTICULO 24.- Los extranjeros que ingresen al país como \"residentes transitorios\" podrán ser admitidos en las subcategorías establecidas por el artículo 24 de la Ley Nº 25.871, con los siguientes alcances:\n\na) Turistas: quienes ingresen con propósito de descanso o esparcimiento, con plazo de permanencia de hasta TRES (3) meses, prorrogables por otro período similar.\n\nb) Pasajeros en tránsito: se diferenciarán aquí TRES (3) situaciones:\n\n1. Pasajeros en tránsito: quienes ingresen al territorio argentino con el único propósito de dirigirse, a través de su territorio, a otro Estado y posean visación consular argentina en tal carácter, con autorización de permanencia en el país por un plazo de hasta DIEZ (10) días corridos.\n\nLa DIRECCION NACIONAL DE MIGRACIONES podrá prorrogar este plazo por una sola vez y por idéntico término cuando existieran razones fundadas para ello.\n\n2. Pasajeros en prosecución de viaje: quienes ingresen al país con el propósito de proseguir viaje a otro, egresando dentro de las DOCE (12) horas de su arribo, siempre que presenten pasaje confirmado de salida y hayan sido declarados como tales por la empresa transportista. A los referidos pasajeros no se les requerirá visación consular. El plazo de estadía mencionado podrá extenderse cuando obren razones que lo justifiquen.\n\nLa empresa declarante será responsable del egreso del país de estas personas.\n\nLos pasajeros en prosecución de viaje que ingresen y deban egresar por el mismo lugar al de su arribo, deberán permanecer dentro de los límites del aeropuerto, estación o lugar de ingreso o egreso durante el tiempo que demande el abastecimiento, mantenimiento o cambio de transporte.\n\nEn el supuesto del párrafo anterior, la DIRECCION NACIONAL DE MIGRACIONES, a pedido de la empresa transportadora y bajo exclusiva responsabilidad de ésta, podrá autorizar el momentáneo alejamiento del pasajero del aeropuerto, estación o lugar de ingreso o egreso, cuando razones susceptibles de ser encuadradas en caso fortuito o fuerza mayor, pudiesen demorar su egreso más de DOCE (12) horas.\n\nLa DIRECCION NACIONAL DE MIGRACIONES podrá retener la documentación personal del pasajero, en cuyo caso lo proveerá de una certificación en la que constará su nombre y apellido, tipo y número de documento y el plazo de su estadía en el país. La documentación será devuelta a su titular en el momento de verificarse su efectivo egreso del territorio argentino.\n\nCuando el extranjero en prosecución de viaje no egresare del territorio argentino dentro del plazo que corresponda, la DIRECCION NACIONAL DE MIGRACIONES dictará un acto que, en su contenido, alcance y consecuencias, equivaldrá a su rechazo en frontera, quedando la reconducción a cargo de la empresa a la que pertenezca el medio de transporte en el que arribara al país.\n\n3. Pasajeros que arriban al país para integrarse como tripulantes o miembros de la dotación de un medio de transporte de bandera argentina o extranjera: quienes ingresen al país con ese propósito contarán con un plazo de permanencia de hasta DIEZ (10) días, sólo excepcionalmente renovable por otro período similar.\n\nc) Sin reglamentar.\n\nd) Sin reglamentar.\n\ne) Trabajadores migrantes estacionales: quienes ingresen con el propósito de realizar trabajos que, por su propia naturaleza, dependan de condiciones estacionales y sólo se realicen durante parte del año, con plazo de permanencia de hasta TRES (3) meses prorrogables por otro período similar.\n\nf) Sin reglamentar.\n\ng) Sin reglamentar.\n\nh) Especiales: para los casos en que se justifique un tratamiento especial, la DIRECCION NACIONAL DE MIGRACIONES podrá dictar disposiciones de carácter general que prevean los recaudos a cumplimentar para ser admitidos como residentes transitorios especiales.\n\nAsimismo, se tendrá en cuenta la situación de aquellas personas que, a pesar de no requerir protección internacional, transitoriamente no pueden retornar a sus países de origen en razón de las condiciones humanitarias prevalecientes o debido a las consecuencias generadas por desastres naturales o ambientales ocasionados por el hombre. A este fin podrán tomarse en cuenta las recomendaciones de no retorno que formulare el ALTO COMISIONADO DE LAS NACIONES UNIDAS PARA LOS REFUGIADOS (ACNUR)."
+                    },
+                    {
+                      "numero-articulo": 25,
+                      "texto": "ARTICULO 25.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 26,
+                      "texto": "ARTICULO 26.- El procedimiento, requisitos y condiciones para el ingreso al territorio argentino según las categorías y subcategorías migratorias mencionadas en los artículos precedentes, se establecen en el Anexo II del presente Reglamento."
+                    },
+                    {
+                      "numero-articulo": 27,
+                      "texto": "ARTICULO 27.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 28,
+                      "texto": "ARTICULO 28.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II DE LOS IMPEDIMENTOS",
+                  "articulo": {
+                    "referencias-normativas": {
+                      "referencia-normativa": {
+                        "cr": null,
+                        "id": "REFERENCIAS_NORMATIVAS_0",
+                        "ref": "LEY C 025871 2003 12 17 0029 000 0000 000"
+                      }
+                    },
+                    "numero-articulo": 29,
+                    "texto": "ARTICULO 29.- A los fines previstos en el artículo 29, incisos c), e), f), g) y h) de la Ley Nº 25.871, se entenderá por \"condenado\" a aquel extranjero que registre una sentencia condenatoria firme y por \"antecedente\", la condena no firme o el procesamiento firme dictados en su contra.\n\nEl antecedente o la condena que se registre en el exterior sólo serán computados cuando el hecho que los origina constituya delito para la ley argentina.\n\nEl antecedente o la condena que se registre en el país deberán ser acreditados por informe de la DIRECCION NACIONAL DEL REGISTRO NACIONAL DE REINCIDENCIA o con copia certificada emitida por la autoridad judicial competente.\n\nEn ambos casos, el registro de las sentencias condenatorias caducará conforme lo dispuesto en el artículo 51 del CODIGO PENAL DE LA NACION.\n\nFinalmente, a los fines previstos en el artículo que se reglamenta por el presente, último párrafo, se tendrá especialmente en cuenta la situación de los extranjeros nativos de los Estados Parte del MERCADO COMUN DEL SUR (MERCOSUR) y Estados Asociados que puedan hallarse incursos en el impedimento previsto en el inciso i) del artículo premencionado."
+                  }
+                },
+                {
+                  "titulo-particion": "CAPITULO III DE LOS DOCUMENTOS",
+                  "articulo": [
+                    {
+                      "numero-articulo": 30,
+                      "texto": "ARTICULO 30.- La DIRECCION NACIONAL DE MIGRACIONES comunicará inmediatamente a la DIRECCION NACIONAL DEL REGISTRO NACIONAL DE LAS PERSONAS toda residencia permanente, o temporaria que sea otorgada por un plazo de UN (1) año o más.\n\nLos residentes permanentes o temporarios deberán iniciar ante la DIRECCION NACIONAL DEL REGISTRO NACIONAL DE LAS PERSONAS el trámite de su Documento Nacional de Identidad, en un plazo de SESENTA (60) días a contar de la notificación del acto de concesión de su residencia o de su ingreso al país. Si vencido este plazo el extranjero no hubiese iniciado el trámite, deberá gestionar una certificación de residencia ante la DIRECCION NACIONAL DE MIGRACIONES, como paso previo al comienzo del referido trámite.\n\nLas representaciones consulares argentinas deberán comunicar inmediatamente a la DIRECCION NACIONAL DE MIGRACIONES y al REGISTRO NACIONAL DE LAS PERSONAS el otorgamiento de visas de residencia temporaria o permanente, mediante el procedimiento que se establezca a tal efecto.\n\nLa DIRECCION NACIONAL DEL REGISTRO NACIONAL DE LAS PERSONAS dentro de un plazo de DOS (2) días, comunicará a la DIRECCION NACIONAL DE MIGRACIONES, la emisión y el número del Documento Nacional de Identidad expedido a un inmigrante, su otorgamiento en favor de un residente extranjero como consecuencia de su nacionalización y el fallecimiento de los extranjeros residentes."
+                    },
+                    {
+                      "numero-articulo": 31,
+                      "texto": "ARTICULO 31.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 32,
+                      "texto": "ARTICULO 32.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 33,
+                      "texto": "ARTICULO 33.- Sin reglamentar."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO III DEL INGRESO Y EGRESO DE PERSONAS",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I DEL INGRESO Y EGRESO",
+                  "articulo": [
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025880 2004 03 31 0000 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 34,
+                      "texto": "ARTICULO 34.- A efectos de controlar el ingreso y egreso de personas del territorio argentino la DIRECCION NACIONAL DE MIGRACIONES tendrá las siguientes atribuciones:\n\na) Requerir la identificación de quienes pretenden ingresar o egresar del país.\n\nb) Determinar los lugares, horarios, tiempos y formas en que se llevará a cabo el referido movimiento migratorio y habilitar los recintos correspondientes para ello.\n\nc) Intervenir, cuando esto sea posible, la documentación que tales personas exhiban.\n\nd) Determinar su tiempo de permanencia en el país.\n\ne) Registrar el tránsito migratorio.\n\nf) Controlar el movimiento de miembros de la dotación y tripulación de los medios de transporte internacional de acuerdo a la modalidad de cada lugar.\n\ng) Otorgar la admisión al país, si correspondiere, dentro de las categorías migratorias establecidas o, en caso contrario, rechazar el ingreso del extranjero.\n\nh) Impedir la salida del país de toda persona que no se encuentre en posesión de la documentación legalmente necesaria.\n\ni) Ejecutar las medidas dispuestas por las autoridades competentes en lo atinente a impedimentos de salida, solicitudes de paradero o restricciones a la libertad ambulatoria, cuando de la información con que cuente se desprenda que alguna de ellas se encuentra vigente al momento de efectuar el control migratorio.\n\nj) Coordinar acciones de fiscalización conjunta con otros organismos de control y fuerzas de seguridad.\n\nCuando se inspeccionen medios de transporte internacional, la DIRECCION NACIONAL DE MIGRACIONES podrá constituirse a bordo o en un recinto habilitado a tal fin. Si el control migratorio se efectúa fuera del medio de transporte, deberá considerarse al lugar que al efecto se habilite como una continuación de aquél. No se tendrá como ingresado y admitido en el territorio argentino a ningún pasajero, tripulante o personal de la dotación, sin antes haber sido sometido a la respectiva inspección.\n\nCuando el personal de control migratorio se hubiera constituido a bordo del medio de transporte o en el recinto habilitado al efecto, sólo podrán acceder a ellos las personas a controlar, los agentes de las empresas transportistas, los funcionarios de la DIRECCION GENERAL DE ADUANAS dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS (AFIP) del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS que deban intervenir, los miembros de la fuerza pública actuante en el lugar y funcionarios con competencia asignada a ese fin.\n\nCuando las operaciones de carga y descarga del medio de transporte pudieran afectar la eficacia del control migratorio, la autoridad que lo ejerce podrá disponer la suspensión de esas operaciones. A requerimiento de esta última, las fuerzas de seguridad con jurisdicción en el lugar, impedirán el acceso al recinto de toda persona ajena a las tareas de control.\n\nCuando se trate del ingreso o egreso de contingentes de tropas extranjeras al territorio argentino en el marco de la Ley Nº 25.880, el MINISTERIO DE DEFENSA informará al MINISTERIO DEL INTERIOR la documentación que las personas que los integren deberán presentar ante el control migratorio que efectúe la DIRECCION NACIONAL DE MIGRACIONES."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": [
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_0",
+                            "ref": "LEY C 026165 2006 11 08 0039 000 0040 000"
+                          },
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_1",
+                            "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                          }
+                        ]
+                      },
+                      "numero-articulo": 35,
+                      "texto": "ARTICULO 35.- a) Rechazo en frontera: Cuando se dispusiere el rechazo en frontera de un extranjero, la autoridad migratoria arbitrará los medios necesarios para que su reconducción fuera del territorio argentino se realice en el menor tiempo posible.\n\nCuando la autoridad migratoria sorprendiere en flagrancia el ingreso ilegal de un extranjero al territorio argentino se procederá de la forma establecida en el párrafo anterior. En cualquier caso deberán observarse las obligaciones que en materia de refugiados establecen los artículos 39 y 40 de la Ley Nº 26.165.\n\nSe considera que hay flagrancia cuando el ingreso ilegal es advertido en el momento de realizarlo o inmediatamente después, o mientras la persona es perseguida por la fuerza pública, o mientras presenta rastros que hagan presumir fehacientemente que acaba de llevarlo a cabo.\n\nAl momento de disponer su rechazo, la autoridad migratoria entregará al extranjero una copia del acto administrativo que así lo determina, en el cual se le hará saber su derecho a recurrirlo por escrito, ante las representaciones consulares argentinas en el exterior o las oficinas de la DIRECCION NACIONAL DE MIGRACIONES y dentro del plazo de QUINCE (15) días.\n\nb) Autorización previa de embarque: La DIRECCION NACIONAL DE MIGRACIONES podrá autorizar el ingreso al país de la persona que no cumpla con el requisito de visación consular -si ésta fuera exigible para su admisión-, cuando mediare solicitud expresa del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO. El citado Ministerio comunicará a la DIRECCION NACIONAL DE MIGRACIONES la autorización en forma previa al embarque en origen de la persona y le informará la subcategoría de admisión que corresponda.\n\nAsimismo, comunicará la autorización a la empresa transportista.\n\nEl caso aquí previsto no constituye infracción respecto de la empresa transportista.\n\nc) Desembarco provisorio: Al arribar al país un extranjero que no presentare la totalidad de la documentación exigible para su admisión, la DIRECCION NACIONAL DE MIGRACIONES dispondrá su rechazo, pudiendo suspender la ejecución de la medida y otorgarle desembarco provisorio cuando:\n\n1) Mediare solicitud expresa del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO, informando que se subsanará la deficiencia documental por su intermedio o a través de la autoridad consular del país de nacionalidad del extranjero;\n\n2) Se configuren razones de índole humanitaria, de interés público o el cumplimiento de compromisos adquiridos por la REPUBLICA ARGENTINA;\n\n3) Cuando resultare necesario para preservar la salud e integridad física del extranjero, o;\n\n4) Cuando se acreditare vínculo con hijo, cónyuge o progenitor argentino. Dicho desembarco provisorio no implicará en ningún caso, el ingreso a la REPUBLICA ARGENTINA.\n\nSi durante el procedimiento de la resolución de la admisión o rechazo del extranjero se hiciere necesario su egreso de los límites del aeropuerto, estación o lugar de llegada, la autoridad migratoria podrá retener la documentación de aquél y otorgarle una autorización provisoria de permanencia que no implicará ingreso legal al país, hasta que cesen los motivos que la fundaron.\n\nEl ejercicio de la facultad aquí prevista no generará obligación a la autoridad de aplicación de autorizar el ingreso del extranjero en el país en alguna de las categorías de admisión, como así tampoco relevará a la empresa transportista de las obligaciones que le fija la Ley Nº 25.871 y el presente Reglamento."
+                    },
+                    {
+                      "numero-articulo": 36,
+                      "texto": "ARTICULO 36.- La DIRECCION NACIONAL DE MIGRACIONES determinará los tipos de constancias que se deberán confeccionar para el registro del ingreso y egreso de personas del territorio argentino. En las constancias de ingreso se consignarán como mínimo, los datos identificatorios del extranjero, lugar, fecha, permanencia autorizada y domicilio en el país.\n\nLos extranjeros están obligados a conservar la documentación que acredite su ingreso legal al territorio argentino, debiendo devolverla a la autoridad migratoria al momento de su egreso y exhibirla en toda oportunidad que le sea requerida por la autoridad competente. Ello, sin perjuicio de la obligación de registro y sistematización de datos que debe cumplir la DIRECCION NACIONAL DE MIGRACIONES.\n\nEn el supuesto de que una persona intentare salir del país presentando documentación material o ideológicamente falsa o adulterada, se la pondrá inmediatamente a disposición de la autoridad competente. Cuando se trate de un extranjero, la fuerza de seguridad interviniente entregará a la DIRECCION NACIONAL DE MIGRACIONES una fotografía y un juego de fichas dactiloscópicas de tal persona e informará su domicilio, a fin de que se inicie el trámite de expulsión correspondiente."
+                    },
+                    {
+                      "numero-articulo": 37,
+                      "texto": "ARTICULO 37.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II DE LAS OBLIGACIONES DE LOS MEDIOS DE TRANSPORTE INTERNACIONAL",
+                  "articulo": [
+                    {
+                      "numero-articulo": 38,
+                      "texto": "ARTICULO 38.- Toda persona que ingrese o egrese del país en un medio de transporte internacional, será incluida en la Declaración General, en el Rol de Tripulación, en el Manifiesto de Pasajeros o en el documento supletorio que establezca la DIRECCION NACIONAL DE MIGRACIONES y deberá presentarse ante el correspondiente control migratorio.\n\nLa DIRECCION NACIONAL DE MIGRACIONES determinará, de acuerdo con las características de cada medio de transporte, los requisitos y modalidades que deberán reunir los documentos antes mencionados y todo otro instrumento que resulte exigible para tripulantes y pasajeros."
+                    },
+                    {
+                      "numero-articulo": 39,
+                      "texto": "ARTICULO 39.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 40,
+                      "texto": "ARTICULO 40.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 41,
+                      "texto": "ARTICULO 41.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 42,
+                      "texto": "ARTICULO 42.- La obligación de reconducción a cargo del transportista será aplicable cuando el extranjero solicitante de asilo desista de la petición o ésta fuere denegada por la autoridad competente."
+                    },
+                    {
+                      "numero-articulo": 43,
+                      "texto": "ARTICULO 43.- Cuando la expulsión debiera realizarse con custodia o bajo asistencia médica, los pasajes del personal afectado a estos servicios, que la empresa transportadora está obligada a facilitar, no se computarán dentro del cupo de plazas establecido en el artículo que se reglamenta."
+                    },
+                    {
+                      "numero-articulo": 44,
+                      "texto": "ARTICULO 44.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 45,
+                      "texto": "ARTICULO 45.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 46,
+                      "texto": "ARTICULO 46.- El procedimiento sumarial para la imposición de las sanciones reguladas en el artículo 46 de la Ley que se reglamenta se establece en el Anexo II de la presente Reglamentación."
+                    },
+                    {
+                      "numero-articulo": 47,
+                      "texto": "ARTICULO 47.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 48,
+                      "texto": "ARTICULO 48.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 49,
+                      "texto": "ARTICULO 49.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 50,
+                      "texto": "ARTICULO 50.- El depositante de la caución deberá constituir domicilio dentro de la jurisdicción de la sede central de la DIRECCION NACIONAL DE MIGRACIONES. Las cauciones serán devueltas o liberadas dentro de los SESENTA (60) días del dictado del acto administrativo que así lo disponga, siempre que no existieren causales que habiliten a proceder a su ejecución."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO IV DE LA PERMANENCIA DE LOS EXTRANJEROS",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I DEL TRABAJO Y ALOJAMIENTO DE LOS EXTRANJEROS",
+                  "articulo": [
+                    {
+                      "numero-articulo": 51,
+                      "texto": "ARTICULO 51.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 52,
+                      "texto": "ARTICULO 52.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 53,
+                      "texto": "ARTICULO 53.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 54,
+                      "texto": "ARTICULO 54.- Todo cambio de domicilio deberá ser informado en forma personal por el extranjero en el expediente en que le fue conferida la admisión o autorizada la residencia, por escrito y dentro de los TRES (3) días de producido.\n\nLa DIRECCION NACIONAL DE MIGRACIONES, previa comprobación de la identidad del firmante, procederá a efectuar el cambio. Si el extranjero actuare por apoderado o encomendare a un tercero cumplir con el trámite en su nombre, se exigirá que su firma esté debidamente certificada en la nota que dirija a la autoridad migratoria. La certificación de firma deberá hacerse por escribano público, autoridad policial o juez de paz.\n\nCuando las actuaciones administrativas sustanciadas con motivo del otorgamiento de una residencia definitiva se encuentren concluidas, la DIRECCION NACIONAL DE MIGRACIONES deberá cursar sus notificaciones posteriores también al último domicilio que el extranjero hubiere informado al REGISTRO NACIONAL DE LAS PERSONAS."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II DE LAS RESPONSABILIDADES Y OBLIGACIONES DE LOS DADORES DE TRABAJO, ALOJAMIENTO Y OTROS",
+                  "articulo": [
+                    {
+                      "numero-articulo": 55,
+                      "texto": "ARTICULO 55.- Sin reglamentar."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0056 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 56,
+                      "texto": "ARTICULO 56.- Con el fin de obtener la protección y el reconocimiento de los derechos establecidos en el artículo 56 de la Ley Nº 25.871, los extranjeros podrán recurrir al asesoramiento que brindan los servicios jurídicos gratuitos que funcionan en el país, los cuales no podrán negarles atención debido a la falta de documentación argentina o a su calidad de extranjeros."
+                    },
+                    {
+                      "numero-articulo": 57,
+                      "texto": "ARTICULO 57.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 58,
+                      "texto": "ARTICULO 58.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 59,
+                      "texto": "ARTICULO 59.- Para la aplicación de las sanciones referidas en el artículo que se reglamenta se seguirán las normas de procedimiento sumarial previstas en el Anexo II de la presente Reglamentación."
+                    },
+                    {
+                      "numero-articulo": 60,
+                      "texto": "ARTICULO 60.- Sin reglamentar."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO V DE LA LEGALIDAD E ILEGALIDAD DE LA PERMANENCIA",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I DE LA DECLARACION DE ILEGALIDAD Y CANCELACION DE LA PERMANENCIA",
+                  "articulo": [
+                    {
+                      "numero-articulo": 61,
+                      "texto": "ARTICULO 61.- Cuando se verifique que un extranjero hubiere desnaturalizado los motivos que autorizaron su ingreso al territorio argentino o permaneciera en éste vencido el plazo de permanencia acordado, la DIRECCION NACIONAL DE MIGRACIONES lo intimará a fin de que, en un plazo que no exceda de TREINTA (30) días, se presente a regularizar su situación migratoria debiendo acompañar los documentos necesarios para ello. A tal efecto, se lo notificará por escrito informándole, de un modo comprensible, las consecuencias que le deparará mantenerse en la situación migratoria advertida.\n\nLa DIRECCION NACIONAL DE MIGRACIONES podrá otorgar una prórroga del plazo acordado, que no podrá exceder de TREINTA (30) días, cuando así lo solicite el interesado y demuestre actos que evidencien su intención de regularizar la situación migratoria. Si para la entrega de la documentación requerida se produjeran demoras por circunstancias no imputables al extranjero, el plazo acordado podrá ser prorrogado por el tiempo que, a juicio de la DIRECCION NACIONAL DE MIGRACIONES, resulte suficiente para superar tal situación.\n\nCuando el extranjero no regularizare su situación migratoria, la DIRECCION NACIONAL DE MIGRACIONES dictará un acto declarando la ilegalidad de su permanencia y dispondrá su expulsión con destino al país de la nacionalidad del extranjero o, a su petición, a otro país que lo admitiese, cuando acredite debidamente esta última circunstancia. Se deberá resguardar el derecho de la persona a la información sobre la asistencia consular conforme lo dispuesto por la Convención de Viena sobre Relaciones Consulares adoptada por la ORGANIZACION DE LAS NACIONES UNIDAS (ONU) el 24 de abril de 1963 y aprobada por Ley Nº 17.081."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": [
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_0",
+                            "ref": "LEY C 025871 2003 12 17 0062 000 0000 000"
+                          },
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_1",
+                            "ref": "LEY C 026165 2006 11 08 0000 000 0000 000"
+                          },
+                          {
+                            "cr": null,
+                            "id": "REFERENCIAS_NORMATIVAS_2",
+                            "ref": "LEY C 026165 2006 11 08 0018 000 0000 000"
+                          }
+                        ]
+                      },
+                      "numero-articulo": 62,
+                      "texto": "ARTICULO 62.- A los fines previstos en el artículo 62, inciso b) de la Ley Nº 25.871 la autoridad judicial, a título de colaboración y al momento de quedar firme la condena impuesta, remitirá a la DIRECCION NACIONAL DE MIGRACIONES copia certificada de la respectiva sentencia, e informará el Juzgado o Tribunal encargado de su ejecución. La DIRECCION NACIONAL DE MIGRACIONES con la información recibida dará inicio al expediente administrativo correspondiente o continuará con el ya iniciado.\n\nEn los casos de excepción autorizados por la Ley Nº 26.165 y su reglamentación, la DIRECCION NACIONAL DE MIGRACIONES no resolverá la cancelación de la residencia, conminación a hacer abandono del país y posterior expulsión de un refugiado sin contar con el previo dictamen de la COMISION NACIONAL PARA LOS REFUGIADOS (CONARE) creada por el artículo 18 de la Ley Nº 26.165, el cual tendrá efecto vinculante si se considerase que la expulsión resulta improcedente."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0062 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 63,
+                      "texto": "ARTICULO 63.- La conminación a hacer abandono del país procederá en los supuestos previstos en los incisos c) y d) del artículo 62 de la Ley Nº 25.871. En los demás casos establecidos en el citado artículo, será procedente la expulsión del extranjero. Vencido el plazo acordado sin que el extranjero hiciera abandono del país, se dispondrá su inmediata expulsión.\n\nEl plazo de prohibición de reingreso que fuera establecido comenzará a computarse a partir del día en que se cumpla la salida del extranjero del territorio argentino."
+                    },
+                    {
+                      "numero-articulo": 64,
+                      "texto": "ARTICULO 64.- El extranjero, cuya expulsión se ordene, deberá contar con documento de viaje válido expedido por su país de origen.\n\na) Sin reglamentar.\n\nb) Sin reglamentar.\n\nc) La expulsión sólo se hará efectiva en los casos en que el juez de la causa exprese su falta de interés sobre la permanencia del extranjero en el territorio argentino."
+                    },
+                    {
+                      "numero-articulo": 65,
+                      "texto": "ARTICULO 65.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 66,
+                      "texto": "ARTICULO 66.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 67,
+                      "texto": "ARTICULO 67.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 68,
+                      "texto": "ARTICULO 68.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 69,
+                      "texto": "ARTICULO 69.- La residencia precaria prevista en el artículo que se reglamenta se otorgará por un plazo de hasta CIENTO OCHENTA (180) días y será renovable en tanto no varíe la situación judicial del extranjero; ella habilitará a su titular a permanecer, estudiar y trabajar en el territorio argentino durante su período de vigencia. El certificado de residencia que se extienda no hará mención de la situación judicial que lo origina.\n\nTambién se otorgará residencia precaria en los términos indicados en el párrafo anterior, a los familiares del extranjero cuya salida se impidiere por orden judicial, con el alcance previsto en el artículo 10 de la presente Reglamentación."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II DE LAS MEDIDAS CAUTELARES",
+                  "articulo": [
+                    {
+                      "numero-articulo": 70,
+                      "texto": "ARTICULO 70.- Cuando la orden de expulsión de un extranjero se encuentre firme y consentida, el MINISTERIO DEL INTERIOR o la DIRECCION NACIONAL DE MIGRACIONES solicitarán a la autoridad judicial competente que ordene su retención al solo efecto de cumplir con aquélla.\n\nLa petición deberá contener una identificación precisa de la persona respecto de quien se solicita la medida, e ir acompañada con copia certificada de la resolución de expulsión y de las demás constancias que acrediten que ésta se encuentra firme y consentida.\n\nLa retención podrá solicitarse por un plazo de hasta QUINCE (15) días corridos.\n\nCuando el cumplimiento de la orden de expulsión se demore por circunstancias ajenas a la autoridad migratoria y en virtud de las particulares condiciones del caso no resulte posible disponer la libertad provisoria del extranjero, podrá requerirse a la autoridad judicial que prolongue la retención por un plazo adicional máximo de hasta TREINTA (30) días corridos. En tal caso, la autoridad migratoria deberá presentar cada DIEZ (10) días un informe al órgano judicial competente detallando todas las gestiones realizadas para concretar la expulsión y las razones que justifican la subsistencia de la medida en el caso concreto.\n\nEl MINISTERIO DEL INTERIOR o la DIRECCION NACIONAL DE MIGRACIONES podrán abstenerse de solicitar la retención a la autoridad judicial competente, cuando el interesado acredite debidamente que cumplirá con la orden de expulsión en un plazo no superior a SETENTA Y DOS (72) horas de haber quedado firme la medida y no existan circunstancias objetivas que hagan presumir que eludirá la orden. A tal efecto se tomarán en cuenta las pautas indicadas en este artículo.\n\nCuando la orden de expulsión de un extranjero no se encuentre firme y consentida, el MINISTERIO DEL INTERIOR o la DIRECCION NACIONAL DE MIGRACIONES sólo podrán solicitar su retención si existen circunstancias objetivas que hagan presumir que eludirá la medida. En tal caso la solicitud de retención que se remita a la autoridad judicial deberá efectuar una descripción precisa de las pautas que acrediten tal situación, acompañar los elementos documentales, si los hubiere, que las corroboren, e indicar el plazo de duración requerido. Si la solicitud de retención es aceptada, la autoridad migratoria deberá presentar un informe al órgano judicial interviniente, cada DIEZ (10) días, detallando el avance del procedimiento administrativo respectivo y las razones que justifican la subsistencia de la medida en el caso concreto.\n\nPara decidir acerca del peligro de incumplimiento de la orden de expulsión se tendrán en cuenta, entre otras, las siguientes pautas:\n\na) Arraigo, determinado por el domicilio, residencia habitual, asiento de la familia y de sus negocios o trabajo.\n\nb) Las circunstancias y naturaleza del hecho por el cual se ordena su expulsión.\n\nc) El comportamiento del extranjero durante el procedimiento administrativo que precedió a la orden de expulsión, en la medida en que indique cuál es su voluntad de someterse a la decisión final que se adopte y, en particular, si hubiese ocultado información sobre su identidad, o domicilio, o si hubiese proporcionado datos falsos."
+                    },
+                    {
+                      "numero-articulo": 71,
+                      "texto": "ARTICULO 71.- Previo a disponerse la libertad provisoria del extranjero, éste deberá constituir domicilio en jurisdicción de la autoridad migratoria y declarar su lugar de domicilio efectivo. En caso de cambio del mismo, deberá comunicarlo en forma previa y de modo fehaciente a la DIRECCION NACIONAL DE MIGRACIONES.\n\nEl extranjero deberá comparecer ante la autoridad migratoria cuando así le sea requerido, bajo apercibimiento de revocarse la libertad provisoria otorgada, previa comunicación a la autoridad judicial que hubiere dispuesto la retención.\n\nLa libertad provisoria será concedida bajo caución, juratoria o real, la cual tendrá por exclusivo objeto asegurar que el extranjero cumplirá con la expulsión ordenada a su respecto.\n\nQueda absolutamente prohibido fijar una caución de imposible cumplimiento para el extranjero, debiéndose tener en cuenta su situación personal y las razones que motivan su expulsión.\n\nSe aplicarán, en cuanto resulte pertinente, las disposiciones que en esta materia regula el CODIGO PROCESAL PENAL DE LA NACION."
+                    },
+                    {
+                      "numero-articulo": 72,
+                      "texto": "ARTICULO 72.- El alojamiento de los extranjeros retenidos deberá hacerse en ámbitos adecuados, separados de los detenidos por causas penales, teniéndose particularmente en cuenta su situación familiar. Excepcionalmente, la DIRECCION NACIONAL DE MIGRACIONES podrá disponer el alojamiento de aquéllos en lugares privados, con la correspondiente custodia a cargo de la Policía Migratoria Auxiliar.\n\nLa DIRECCION NACIONAL DE MIGRACIONES solicitará la intervención de la autoridad sanitaria competente para que la retención de los extranjeros que padezcan impedimentos psicofísicos o requieran atención médica continua o especializada, se haga efectiva en establecimientos adecuados a tales fines.\n\nCuando por las condiciones psicofísicas del extranjero resulte necesaria su asistencia médica hasta el lugar de destino, la DIRECCION NACIONAL DE MIGRACIONES dispondrá su traslado previa autorización de la autoridad sanitaria interviniente, haciendo efectivos los cuidados prescriptos a través de médicos de su servicio o con el auxilio de los profesionales que se designen a ese efecto. Asimismo, cuando por razones de seguridad sea necesaria la custodia del expulsado hasta el lugar de destino, la DIRECCION NACIONAL DE MIGRACIONES requerirá la colaboración de la Policía Migratoria Auxiliar."
+                    },
+                    {
+                      "numero-articulo": 73,
+                      "texto": "ARTICULO 73.- Las personas, compañías, empresas, asociaciones o sociedades que solicitaren el ingreso, la permanencia o la regularización de la situación migratoria de un extranjero en el país deberán inscribirse en el REGISTRO NACIONAL UNICO DE REQUIRENTES DE EXTRANJEROS.\n\nAsimismo deberán satisfacer la caución, real o juratoria, que determine la DIRECCION NACIONAL DE MIGRACIONES. A esos efectos se tendrán en cuenta los antecedentes y la solvencia del requirente. En caso de resultar procedente la imposición de una caución real, ésta deberá ser fijada entre un mínimo de DOS (2) y un máximo de DIEZ (10) salarios mínimos vitales y móviles. La DIRECCION NACIONAL DE MIGRACIONES determinará la forma y procedimiento para la constitución y reintegro de las cauciones reales."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO VI DEL REGIMEN DE LOS RECURSOS",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I DEL REGIMEN DE LOS RECURSOS",
+                  "articulo": [
+                    {
+                      "numero-articulo": 74,
+                      "texto": "ARTICULO 74.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 75,
+                      "texto": "ARTICULO 75.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 76,
+                      "texto": "ARTICULO 76.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 77,
+                      "texto": "ARTICULO 77.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 78,
+                      "texto": "ARTICULO 78.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 79,
+                      "texto": "ARTICULO 79.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 80,
+                      "texto": "ARTICULO 80.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 81,
+                      "texto": "ARTICULO 81.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 82,
+                      "texto": "ARTICULO 82.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 83,
+                      "texto": "ARTICULO 83.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 84,
+                      "texto": "ARTICULO 84.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 85,
+                      "texto": "ARTICULO 85.- Sin reglamentar"
+                    },
+                    {
+                      "numero-articulo": 86,
+                      "texto": "ARTICULO 86.- La DIRECCION NACIONAL DE MIGRACIONES, ante el planteo que efectúe un extranjero, dará inmediata intervención al MINISTERIO PUBLICO DE LA DEFENSA, disponiendo la suspensión de cualquier trámite y de los plazos en curso en las actuaciones administrativas, hasta que el referido Ministerio tome intervención o el interesado reciba la asistencia jurídica necesaria para la salvaguarda de sus intereses."
+                    },
+                    {
+                      "numero-articulo": 87,
+                      "texto": "ARTICULO 87.- Sin reglamentar"
+                    },
+                    {
+                      "numero-articulo": 88,
+                      "texto": "ARTICULO 88.- Sin reglamentar"
+                    },
+                    {
+                      "numero-articulo": 89,
+                      "texto": "ARTICULO 89.- Sin reglamentar"
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II DE LA REVISION DE LOS ACTOS DECISORIOS",
+                  "articulo": {
+                    "numero-articulo": 90,
+                    "texto": "ARTICULO 90.- Sin reglamentar."
+                  }
+                },
+                {
+                  "titulo-particion": "CAPITULO III DEL COBRO DE MULTAS",
+                  "articulo": [
+                    {
+                      "numero-articulo": 91,
+                      "texto": "ARTICULO 91.- El monto de las multas impuestas deberá ser depositado en la cuenta pertinente del MINISTERIO DEL INTERIOR -DIRECCION NACIONAL DE MIGRACIONES- dentro del plazo de DIEZ (10) días a contar de su notificación. Dentro de las VEINTICUATRO (24) horas hábiles posteriores al vencimiento del citado plazo, deberá presentarse en el expediente administrativo la constancia fehaciente del pago efectuado."
+                    },
+                    {
+                      "numero-articulo": 92,
+                      "texto": "ARTICULO 92.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 93,
+                      "texto": "ARTICULO 93.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 94,
+                      "texto": "ARTICULO 94.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 95,
+                      "texto": "ARTICULO 95.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO IV DE LA PRESCRIPCION",
+                  "articulo": [
+                    {
+                      "numero-articulo": 96,
+                      "texto": "ARTICULO 96.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 97,
+                      "texto": "ARTICULO 97.- Se entenderá por secuela del procedimiento administrativo o judicial todo acto de la Administración dirigido a impulsar el cobro."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO VII COMPETENCIA",
+              "articulo": {
+                "numero-articulo": 98,
+                "texto": "ARTICULO 98.- Sin reglamentar."
+              }
+            },
+            {
+              "titulo-particion": "TITULO VIII DE LAS TASAS TASA RETRIBUTIVA DE SERVICIOS",
+              "articulo": [
+                {
+                  "numero-articulo": 99,
+                  "texto": "ARTICULO 99.- Sin reglamentar."
+                },
+                {
+                  "numero-articulo": 100,
+                  "texto": "ARTICULO 100.- Sin reglamentar."
+                },
+                {
+                  "numero-articulo": 101,
+                  "texto": "ARTICULO 101.- Sin reglamentar."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO IX DE LOS ARGENTINOS EN EL EXTERIOR",
+              "articulo": [
+                {
+                  "numero-articulo": 102,
+                  "texto": "ARTICULO 102.- Sin reglamentar."
+                },
+                {
+                  "numero-articulo": 103,
+                  "texto": "ARTICULO 103.- La DIRECCION GENERAL DE ADUANAS dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS (AFIP) del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS será la autoridad competente para determinar el procedimiento, alcances y montos de los beneficios impositivos a otorgar a los argentinos que retornen al país luego de haber residido en el exterior.\n\nLos bienes introducidos al país al amparo de tal régimen no podrán ser transferidos por actos entre vivos, ni gravados, por un plazo mínimo de DOS (2) años, contados a partir de su despacho a plaza, sin autorización previa de la autoridad competente.\n\nQuienes hubieren gozado de este beneficio sólo podrán acogerse nuevamente a él después de transcurridos SIETE (7) años, a contar de la fecha del acto administrativo por el que fue acordado."
+                },
+                {
+                  "numero-articulo": 104,
+                  "texto": "ARTICULO 104.- Sin reglamentar."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "TITULO X DE LA AUTORIDAD DE APLICACION",
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO I AUTORIDAD DE APLICACION",
+                  "articulo": [
+                    {
+                      "numero-articulo": 105,
+                      "texto": "ARTICULO 105.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 106,
+                      "texto": "ARTICULO 106.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO II DE LA DIRECCION NACIONAL DE MIGRACIONES",
+                  "articulo": [
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                        }
+                      },
+                      "numero-articulo": 107,
+                      "texto": "ARTICULO 107.- La DIRECCION NACIONAL DE MIGRACIONES dictará las normas procedimentales y aclaratorias necesarias para el mejor cumplimiento de los objetivos de la Ley Nº 25.871 y del presente Reglamento, las que serán publicadas en el Boletín Oficial.\n\nAnualmente, la DIRECCION NACIONAL DE MIGRACIONES elaborará y difundirá en su sitio oficial de Internet un texto ordenado de todas las disposiciones dictadas por el organismo que mantienen su vigencia a esa fecha."
+                    },
+                    {
+                      "numero-articulo": 108,
+                      "texto": "ARTICULO 108.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO III DE LA RELACION ENTRE LA DIRECCION NACIONAL DE MIGRACIONES CON OTROS ENTES Y ORGANISMOS",
+                  "articulo": [
+                    {
+                      "numero-articulo": 109,
+                      "texto": "ARTICULO 109.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 110,
+                      "texto": "ARTICULO 110.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 111,
+                      "texto": "ARTICULO 111.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO IV DE LOS REGISTROS MIGRATORIOS",
+                  "articulo": {
+                    "numero-articulo": 112,
+                    "texto": "ARTICULO 112.- La DIRECCION NACIONAL DE MIGRACIONES registrará el ingreso y egreso de toda persona del territorio argentino, así como también las residencias permanentes o temporarias que se concedan, sus modificaciones y cancelaciones.\n\nLa Policía Migratoria Auxiliar que efectúe por delegación controles de ingreso y egreso de personas del territorio argentino, deberá registrar tales movimientos y remitir la información y documentación respaldatoria a la DIRECCION NACIONAL DE MIGRACIONES, en el tiempo y forma que esta última establezca.\n\nLas registraciones antes mencionadas se podrán efectuar, cuando lo autorice la autoridad de aplicación, mediante sistemas informáticos, sin perjuicio de conservar los soportes documentales de los datos registrados por un período no menor a CINCO (5) años.\n\nLos registros de ingreso y egreso del territorio argentino que en virtud de Acuerdos Internacionales fueran efectuados por autoridades extranjeras, serán tenidos como válidos y resultarán suficientes para la expedición de certificaciones de entrada o salida del territorio argentino.\n\nLa DIRECCION NACIONAL DE MIGRACIONES inscribirá en sus registros a quien:\n\na) Acredite con Pasaporte o cualquier otro documento hábil su admisión legal en el país y ello no constare en los registros del organismo, y;\n\nb) fuere titular de una Cédula de Identidad argentina expedida en virtud de regímenes especiales que otorgaran admisión, y ésta no se hallare registrada.\n\nLa información registrada, que tendrá carácter reservado; será de uso exclusivo de la DIRECCION NACIONAL DE MIGRACIONES y se brindará acceso a ella a las autoridades administrativas o judiciales competentes que lo soliciten y, sobre su propia situación, a los extranjeros registrados o a sus apoderados legales.\n\nAsimismo, la DIRECCION NACIONAL DE MIGRACIONES podrá autorizar a terceros el acceso a la información estadística registrada cuando se acrediten razones de interés académico o científico.\n\nCuando resultare pertinente, la DIRECCION NACIONAL DE MIGRACIONES podrá rectificar de oficio la información que hubiere registrado. Si la rectificación se efectúa a petición de parte, el interesado deberá acompañar la documentación que acredite su solicitud."
+                  }
+                },
+                {
+                  "titulo-particion": "CAPITULO V DE LA POLICIA MIGRATORIA AUXILIAR",
+                  "articulo": [
+                    {
+                      "numero-articulo": 113,
+                      "texto": "ARTICULO 113.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 114,
+                      "texto": "ARTICULO 114.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 115,
+                      "texto": "ARTICULO 115.- Sin reglamentar."
+                    }
+                  ]
+                },
+                {
+                  "titulo-particion": "CAPITULO VI DELITOS AL ORDEN MIGRATORIO",
+                  "articulo": [
+                    {
+                      "numero-articulo": 116,
+                      "texto": "ARTICULO 116.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 117,
+                      "texto": "ARTICULO 117.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 118,
+                      "texto": "ARTICULO 118.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 119,
+                      "texto": "ARTICULO 119.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 120,
+                      "texto": "ARTICULO 120.- Sin reglamentar."
+                    },
+                    {
+                      "numero-articulo": 121,
+                      "texto": "ARTICULO 121.- Sin reglamentar."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO II",
+          "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO: 19 .\n\nOBSERVACION: POR DISPOSICION 3611/2020 DE LA DIRECCIÓN NACIONAL DE MIGRACIONES SE PRORROGA POR 30 DIAS CORRIDOS LA VIGENCIA DE TODOS AQUELLOS PERMISOS DE INGRESO CUYO PLAZO PARA REALIZAR EL TRAMITE DE VISADO HUBIERA VENCIDO ENTRE EL 17 DE MARZO DE 2020 Y LA FECHA DE PUBLICACION DE ESTA DISPOSICION (B.O. 18/11/2020).",
+          "texto": "ANEXO II REGLAMENTACION DE LA LEY Nº 25.871 y sus modificatorias",
+          "segmento": [
+            {
+              "titulo-particion": "TITULO I DE LA TRAMITACION DE LA RESIDENCIA (ARTICULO 26 DE LA LEY Nº 25.871)",
+              "articulo": {
+                "numero-articulo": 1,
+                "texto": "ARTICULO 1º.- La DIRECCION NACIONAL DE MIGRACIONES determinará los requisitos y procedimientos para el trámite de las solicitudes de residencia que efectúen los extranjeros nativos de los Estados Parte del MERCADO COMUN DEL SUR (MERCOSUR) y Estados Asociados en el país, y ante las representaciones consulares argentinas en el exterior."
+              }
+            },
+            {
+              "titulo-particion": "SECCION PRIMERA: EXTRANJEROS EN EL EXTERIOR",
+              "articulo": [
+                {
+                  "numero-articulo": 2,
+                  "texto": "ARTICULO 2º.- La solicitud de residencia de un extranjero no nativo de un Estado Parte del MERCADO COMUN DEL SUR (MERCOSUR) y Estados Asociados que se encuentre en el exterior podrá efectuarse:\n\na) En el exterior, por el interesado o su apoderado, ante autoridad consular o migratoria argentina con jurisdicción en el domicilio del peticionante.\n\nb) En el territorio argentino, por apoderado, por familiares en primer grado del peticionante o por requirente, ante la DIRECCION NACIONAL DE MIGRACIONES.\n\nA efectos de facilitar la reunificación familiar de los extranjeros cuyos parientes se encontraren en un país donde la REPUBLICA ARGENTINA no contare con una misión diplomática o consular, podrá recurrirse a la asistencia de Organismos Internacionales tales como el ALTO COMISIONADO DE LAS NACIONES UNIDAS PARA LOS REFUGIADOS (ACNUR) o de las delegaciones de los Estados Parte del MERCADO COMUN DEL SUR (MERCOSUR) y Estados Asociados con los cuales pudieran existir acuerdos especiales a esos fines."
+                },
+                {
+                  "numero-articulo": 3,
+                  "texto": "ARTICULO 3º.- Los consulados argentinos, como autoridad delegada de la DIRECCION NACIONAL DE MIGRACIONES, y de conformidad con los criterios y procedimientos establecidos en el presente Reglamento y demás disposiciones o instrucciones complementarias, podrán extender:\n\na) Permisos de ingreso y visas como residentes permanentes;\n\nb) permisos de ingreso y visas como residentes temporarios, o;\n\nc) visas como residentes transitorios."
+                },
+                {
+                  "numero-articulo": 4,
+                  "texto": "ARTICULO 4º.- El permiso de ingreso, cuya vigencia será de UN (1) año, configura un derecho sujeto a condición que se perfeccionará con el efectivo ingreso regular del extranjero al país."
+                },
+                {
+                  "numero-articulo": 5,
+                  "texto": "ARTICULO 5º.- Los extranjeros a quienes se les hubiera otorgado permiso de ingreso, para obtener la visa respectiva deberán presentar ante la autoridad consular argentina, sin perjuicio de los mayores recaudos que pudiere establecer la DIRECCION NACIONAL DE MIGRACIONES, la siguiente documentación:\n\na) Permiso de ingreso vigente;\n\nb) Pasaporte, Documento de Identidad o Certificado de Viaje, válido y vigente;\n\nc) certificado de carencia de antecedentes penales emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el transcurso de los últimos TRES (3) años, siempre que se tratare de extranjeros que hubiesen cumplido los DIECISEIS (16) años de edad;\n\nd) Declaración jurada de carencia de antecedentes penales en otros países, de conformidad con lo dispuesto en el artículo 29 del Anexo I del presente Reglamento;\n\ne) certificado expedido por la autoridad sanitaria correspondiente, cuando así lo determine el MINISTERIO DE SALUD;\n\nf) Partida de Nacimiento y las relativas al estado civil de las personas, exigibles según la causa de radicación invocada. Cuando la presentación de tal documentación se tornare de cumplimiento imposible por causas ajenas a la voluntad del interesado, podrá acompañar prueba supletoria, la que se evaluará de acuerdo a la legislación nacional, y g) toda aquella documentación expresamente requerida en el permiso de ingreso acordado.\n\nLa documentación mencionada en los incisos a), b) y f) precedentes será devuelta al interesado, previa extracción de fotocopias. Tales fotocopias, debidamente certificadas, serán remitidas por el consulado interviniente, junto a los originales de la documentación prevista en el resto de los incisos de este artículo, a la DIRECCION NACIONAL DE MIGRACIONES dentro del plazo de TREINTA (30) días de extendida la visa."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 6,
+                  "texto": "ARTICULO 6º.- Previo a extender la visa solicitada, el Cónsul personalmente o a través del funcionario consular que designe, deberá:\n\na) Entrevistar al extranjero;\n\nb) controlar que los datos consignados en la solicitud sean correctos;\n\nc) tener a la vista la documentación exigida en el permiso de ingreso, y d) verificar que no se encuentre comprendido en alguno de los impedimentos establecidos en la Ley Nº 25.871 y el presente Reglamento."
+                },
+                {
+                  "numero-articulo": 7,
+                  "texto": "ARTICULO 7º.- El funcionario consular que extienda la visa dejará constancia en ella de la siguiente información:\n\na) Número de Pasaporte, Certificado de Viaje o Documento de Identidad, cuando las normas vigentes permitan el uso de este último para el ingreso a la REPUBLICA ARGENTINA;\n\nb) datos identificatorios del extranjero;\n\nc) número de expediente o de la actuación mediante la cual se tramitó y concedió el permiso de ingreso;\n\nd) lugar y fecha de emisión del permiso de ingreso;\n\ne) plazo de vigencia de la visa acordada y, en el caso de los residentes transitorios, mención de las entradas que tal visa habilita a efectuar;\n\nf) categoría y subcategoría migratoria concedida, y g) plazo de permanencia autorizado en el territorio argentino, en el caso de residentes temporarios y transitorios."
+                },
+                {
+                  "numero-articulo": 8,
+                  "texto": "ARTICULO 8º.- Los extranjeros que hubiesen obtenido el correspondiente permiso de ingreso, a efectos de su admisión en el país como residentes permanentes o temporarios, deberán presentar ante la autoridad migratoria el citado permiso y el Documento de Identidad, Pasaporte o Certificado de Viaje vigentes visados por la autoridad consular argentina."
+                }
+              ]
+            },
+            {
+              "titulo-particion": "SECCION SEGUNDA: EXTRANJEROS EN EL PAIS",
+              "articulo": [
+                {
+                  "numero-articulo": 9,
+                  "texto": "ARTICULO 9º.- El extranjero que peticione ante la autoridad migratoria una residencia deberá presentar la siguiente documentación:\n\na) Documento que acredite fehacientemente su identidad.\n\nb) Partida de Nacimiento y la relativa al estado civil de las personas, exigibles según la causa de radicación invocada.\n\nc) Certificado de antecedentes penales emitido en la REPUBLICA ARGENTINA, siempre que se tratare de un extranjero que hubiese cumplido DIECISEIS (16) años de edad.\n\nd) Certificado de carencia de antecedentes penales emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el transcurso de los últimos TRES (3) años, siempre que se tratare de un extranjero que hubiese cumplido los DIECISEIS (16) años de edad.\n\ne) Declaración jurada de carencia de antecedentes penales en otros países.\n\nf) Documento que acredite su ingreso legal al país.\n\ng) Demás documentación relevante a efectos de acreditar las condiciones de criterio migratorio invocado.\n\nCuando se solicite la residencia de personas menores de edad, bastará la presentación y autorización de uno de los progenitores o del tutor legalmente instituido, en los términos que prevea la DIRECCION NACIONAL DE MIGRACIONES.\n\nTodo extranjero que tramite su residencia deberá fijar y mantener actualizado su domicilio en el país. Asimismo, deberá constituir domicilio en jurisdicción de la autoridad migratoria, donde se tendrán por válidas las notificaciones cursadas por la DIRECCION NACIONAL DE MIGRACIONES.\n\nEn esta materia rigen supletoriamente las disposiciones del Título III del Reglamento de Procedimientos Administrativos aprobado por Decreto Nº 1759/1972 (t.o. 1991)."
+                },
+                {
+                  "numero-articulo": 10,
+                  "texto": "ARTICULO 10.- A fin de constatar la veracidad de la declaración jurada de carencia de antecedentes penales en otros países la DIRECCION NACIONAL DE MIGRACIONES podrá requerir un informe a INTERPOL.\n\nLa falsedad en la declaración jurada determinará la cancelación de la residencia, la declaración de la irregularidad de la permanencia del extranjero en el país y su expulsión."
+                },
+                {
+                  "numero-articulo": 11,
+                  "texto": "ARTICULO 11.- La DIRECCION NACIONAL DE MIGRACIONES podrá eximir al requirente de la presentación de los siguientes documentos:\n\na) Certificado de carencia de antecedentes penales en otros países, a aquellos extranjeros que soliciten una residencia permanente o temporaria y acrediten haber residido legalmente en forma efectiva en la REPUBLICA ARGENTINA durante los DOS (2) años anteriores a su petición, o cuando, por circunstancias de fuerza mayor o caso fortuito, que resulten atendibles a juicio de la DIRECCION NACIONAL DE MIGRACIONES, se hiciere imposible su obtención.\n\nb) La documentación requerida para tramitar la residencia, a aquellas personas que hayan sido reconocidas como refugiados o asilados por la autoridad competente en esa materia.\n\nc) Pasaporte, cuando el extranjero fuere titular de otro tipo de Documento de Identidad o de Viaje, válido a juicio de la autoridad migratoria, otorgado por un Estado extranjero u Organismo Internacional reconocido por la REPUBLICA ARGENTINA.\n\nd) Partida de nacimiento, cuando, por circunstancias de fuerza mayor o caso fortuito, que resulten atendibles a juicio de la DIRECCION NACIONAL DE MIGRACIONES, se hiciere imposible su tramitación u obtención."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 025871 2003 12 17 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 12,
+                  "texto": "ARTICULO 12.- La DIRECCION NACIONAL DE MIGRACIONES, según las disposiciones establecidas en la Ley Nº 25.871 y el presente Reglamento, determinará los plazos de permanencia, los requisitos a reunir y los medios de prueba a que podrán recurrir los extranjeros que peticionen el otorgamiento de residencia en el país. A esos fines se deberán tener en cuenta las siguientes circunstancias:\n\na) Los extranjeros podrán efectuar cambio de categoría o subcategoría migratoria sin necesidad de egresar del territorio argentino.\n\nb) El extranjero que hubiese sido admitido en virtud de una visa diplomática oficial o de cortesía o por estar encuadrado en el artículo 23, inciso g) de la Ley Nº 25.871, deberá contar con la conformidad previa del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO.\n\nc) Los extranjeros con residencia regular en el país podrán solicitar ante la DIRECCION NACIONAL DE MIGRACIONES las prórrogas de residencia que correspondieren, de conformidad con los procedimientos previstos en la Ley Nº 25.871, el presente Reglamento y las normas que se dicten en su consecuencia.\n\nd) Los plazos correspondientes a prórrogas de residencia se computarán a partir del vencimiento del plazo originario. Cuando el plazo de permanencia se hubiere fijado en días, éstos se entenderán corridos.\n\ne) Los pedidos de prórroga de residencia, así como la petición de cambio de categoría o subcategoría migratoria, deberán efectuarse dentro de los SESENTA (60) días anteriores al vencimiento de la residencia temporaria y dentro de los DIEZ (10) días anteriores al vencimiento de la residencia transitoria.\n\nf) El extranjero que se presentara en forma espontánea y voluntaria dentro de los TREINTA (30) días de vencidos los plazos previstos en el punto anterior, sufrirá un recargo del CINCUENTA POR CIENTO (50%) del monto de la tasa prevista para el trámite de prórroga de residencia o para el cambio de categoría o subcategoría migratoria.\n\nTranscurridos los plazos establecidos, caducará de pleno derecho la facultad de peticionar la respectiva prórroga, cambio de categoría o subcategoría migratoria."
+                }
+              ],
+              "segmento": [
+                {
+                  "titulo-particion": "CAPITULO III TRADUCCIONES Y LEGALIZACIONES",
+                  "articulo": {
+                    "numero-articulo": 13,
+                    "texto": "ARTICULO 13.- Sin perjuicio de lo dispuesto en los acuerdos o convenciones internacionales vigentes en la materia, toda documentación que aporte un extranjero deberá presentarse en idioma nacional, o en su caso, traducida por un Traductor Público Nacional, con la certificación del Colegio Público de Traductores.\n\nCuando la documentación sea presentada en un Consulado de la REPUBLICA ARGENTINA, la traducción podrá ser realizada por la autoridad consular o por un traductor local registrado ante aquélla.\n\nCuando la documentación haya sido emitida por autoridad extranjera, deberá ser presentada con la debida intervención de la autoridad consular argentina y legalizada por el MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO o con el \"apostillado\" correspondiente. Excepcionalmente, en los casos de los refugiados y de fuerza mayor, la DIRECCION NACIONAL DE MIGRACIONES podrá eximir al presentante del cumplimiento de la intervención y legalización antes mencionadas.\n\nSi la documentación emanara de autoridad consular extranjera en el territorio argentino, deberá presentarse legalizada por el MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO."
+                  }
+                },
+                {
+                  "titulo-particion": "TITULO II DEL PROCEDIMIENTO SUMARIAL DE IMPOSICION DE SANCIONES (ARTICULOS 46 y 59 de la LEY Nº 25.871)",
+                  "articulo": [
+                    {
+                      "numero-articulo": 14,
+                      "texto": "ARTICULO 14.- Cuando se verifique la presunta infracción a las normas contenidas en el Título III, Capítulo II y Título IV, Capítulo II de la Ley Nº 25.871, la DIRECCION NACIONAL DE MIGRACIONES documentará el hecho mediante acta o parte circunstanciado, con el que se dará inicio al sumario correspondiente."
+                    },
+                    {
+                      "numero-articulo": 15,
+                      "texto": "ARTICULO 15.- Recibidas las actuaciones, la Instrucción podrá disponer:\n\na) La apertura del sumario;\n\nb) que se realice una investigación preliminar en aquellos aspectos que considere necesarios;\n\nc) el archivo de las actuaciones cuando el acta o parte confeccionado adoleciere de vicios que impidieren dar inicio al sumario o el hecho verificado no constituyera infracción a la ley migratoria."
+                    },
+                    {
+                      "numero-articulo": 16,
+                      "texto": "ARTICULO 16.- Cuando se disponga la apertura del sumario se notificarán los cargos al presunto infractor, haciéndosele saber que en el plazo de DIEZ (10) días hábiles administrativos deberá presentar su descargo y ofrecer las pruebas que estime corresponder. Este plazo podrá ser ampliado por la Instrucción, a petición debidamente fundada del sumariado, por DIEZ (10) días hábiles. La ampliación de plazo, en caso de ser concedida, será debidamente notificada.\n\nEl imputado, en su primera presentación en el sumario, deberá denunciar su domicilio real en el país y constituir domicilio en jurisdicción de la sede central de la DIRECCION NACIONAL DE MIGRACIONES. Si el imputado compareciere por apoderado se deberá acompañar un poder especial conferido a ese efecto.\n\nRigen a este respecto, en forma supletoria, las disposiciones del Reglamento de Procedimientos Administrativos aprobado por Decreto Nº 1759/1972 (t.o. 1991)."
+                    },
+                    {
+                      "numero-articulo": 17,
+                      "texto": "ARTICULO 17.- Si el sumariado ofreciere pruebas y éstas resultaren procedentes, la Instrucción dispondrá su diligenciamiento. Formulado el descargo y, en su caso, producidas las pruebas, las actuaciones quedarán en condiciones de ser resueltas.\n\nEn cualquier estado del sumario y hasta su resolución, la Instrucción podrá ordenar medidas para mejor proveer, fijando en cada caso el plazo que estime oportuno para su cumplimiento."
+                    },
+                    {
+                      "referencias-normativas": {
+                        "referencia-normativa": {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "CCI C 000340 1869 09 25 0140 000 0141 000  A"
+                        }
+                      },
+                      "numero-articulo": 18,
+                      "texto": "ARTICULO 18.- Las citaciones, notificaciones e intimaciones que deban realizarse en el curso del procedimiento sumarial, se efectuarán personalmente, por cédula, carta documento, telegrama colacionado o cualquier otro medio fehaciente que disponga la autoridad actuante.\n\nSi las notificaciones fracasaran, será de aplicación lo dispuesto por los artículos 140 y 141 del CODIGO PROCESAL CIVIL Y COMERCIAL DE LA NACION y, en forma supletoria, las disposiciones del Reglamento de Procedimientos Administrativos aprobado por Decreto Nº 1759/1972 (t.o. 1991)."
+                    },
+                    {
+                      "numero-articulo": 19,
+                      "texto": "ARTICULO 19.- Concluida la instrucción del sumario, el DIRECTOR NACIONAL DE MIGRACIONES dictará una disposición en la que se pronunciará sobre la existencia o no de la infracción investigada y, en su caso, sobre la responsabilidad del sumariado y la sanción que le resulta aplicable."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id-infojus": "DN20100000616"
+    }
+  }
+}

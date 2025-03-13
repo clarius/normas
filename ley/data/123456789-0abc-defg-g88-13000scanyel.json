@@ -1,0 +1,168 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g88-13000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583784070,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23112-nacional-organizacion-justicia-federal-ciudad-san-ramon-nueva-oran-provincia-salta-lns0003188-1984-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "S0003188",
+      "numero-norma": 23112,
+      "timestamp": "2013-01-19T18:52:19",
+      "timestamp-m": "2013-01-19T18:52:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1984-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023112 1984 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 23.112",
+          "Buenos Aires, 30 de setiembre de 1984"
+        ]
+      },
+      "titulo-norma": "ORGANIZACION DE LA JUSTICIA FEDERAL EN LA CIUDAD DE SAN RAMON DE LAS NUEVA ORAN, PROVINCIA DE SALTA",
+      "datos-publicacion": "BOLETIN OFICIAL   1984 11 07",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1984 11 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  D004419843765",
+      "sancion": "EL  SENADO Y LA CAMARA DE DIPUTADOS DE LA NACION ARGENTINA, REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.112",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2013-01-19",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 8"
+      },
+      "sumario": {
+        "sumario": "ESTADO-PODER JUDICIAL-ORGANIZACION JUDICIAL-FUERO FEDERAL- PROVINCIAS PROVINCIA DE SALTA-Creación del Juzgado Federal de Primera Instancia de la Ciudad de San Ramón de la Nueva Orán- COMPETENCIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "organización de la justicia"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia"
+            },
+            "sinonimos": {
+              "termino": [
+                "organización del Poder Judicial",
+                "organización judicial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "juzgados federales"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia/juzgado de primera instancia/juzgados federales"
+            },
+            "sinonimos": {
+              "termino": [
+                "organización del Poder Judicial",
+                "organización judicial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "San Ramón de la Nueva Orán"
+            },
+            "preferido": {
+              "termino": "San Ramón de la Nueva Orán"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "organización del Poder Judicial (organización de la justicia)",
+            "organización judicial (organización de la justicia)",
+            "Derecho procesal",
+            "juzgados federales",
+            "San Ramón de la Nueva Orán",
+            "juzgado de primera instancia",
+            "organización de la justicia"
+          ]
+        }
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.-  Créase  el Juzgado Federal de Primera Instancia en la ciudad  de  San  Ramón  de  la   Nueva  Orán,  provincia  de  Salta."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  Su  jurisdicción se extenderá sobre los Departamentos de  Orán, San Martín,  Rivadavia,  Santa  Victoria  e  Iruya  de  la referida provincia.",
+          "observado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 20/12/2011) SE MODIFICA EL PRESENTE ARTICULO AL CREARSE EL JUZGADO FEDERAL DE PRIMERA INSTANCIA DE TARTAGAL, PROVINCIA DE SALTA, CON COMPETENCIA MULTIPLE CON JURISDICCION SOBRE LOS DEPARTAMENTOS DE RIVADAVIA Y SAN MARTIN",
+                "id": "OBSERVADO_POR_0",
+                "ref": "LEY C 026707 2011 11 02 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 20/12/2011) SE MODIFICA LA COMPETENCIA TERRITORIAL DEL JUZGADO FEDERAL DE PRIMERA INSTANCIA DE SAN RAMON DE LA NUEVA ORAN QUE A PARTIR DE LA PUESTA EN FUNCIONAMIENTO DEL JUZGADO CREADO NO EJERCERA JURISDICCION SOBRE LOS DEPARTAMENTOS DE RIVADAVIA Y SAN MARTIN",
+                "id": "OBSERVADO_POR_1",
+                "ref": "LEY C 026707 2011 11 02 0005 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.-  Su  competencia  comprenderá las ramas del derecho en materia civil,  comercial, penal,  del  trabajo  y  administrativo."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.- El juzgado funcionará con dos secretarías, una para lo civil, comercial  y  administrativo  y  la otra para lo penal  y del trabajo."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  El ministerio público será ejercido poe un fiscal con igual competencia  y  una  defensoría  oficial  que  representará  a menores, pobres, ausentes e incapaces."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO  6.-  Créase  la  morgue  judicial, dependiente del Juzgado Federal de Primera Instancia de la ciudad  de  San Ramón de la Nueva Orán,  que funcionará con carácter de transitorio  en  el  Hospital Zonal de Orán."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTICULO  7.-  El  gasto  que demande el cumplimiento de la presente ley se tomará de \"Rentas generales\",  con  imputación  a  la  misma."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO 8.- Comuníquese al Poder Ejecutivo."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MARTINEZ-PUGLIESE-Bejar-Macris"
+      },
+      "id-infojus": "LNS0003188"
+    }
+  }
+}

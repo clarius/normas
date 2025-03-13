@@ -1,0 +1,443 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-311-3001-3891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990828255,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "3113-nacional-reglamentacion-capitulo-iii-ley-19349-gendarmeria-nacional-dn19831003113-1983-11-28"
+      }
+    },
+    "content": {
+      "mecanografico": 19831003113,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 3113,
+      "timestamp": "2014-07-18T21:51:07",
+      "timestamp-m": "2014-07-18T21:51:07",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1983-11-28",
+      "standard-normativo": "DEC C 003113 1983 11 28",
+      "titulo-norma": "REGLAMENTACION DEL CAPITULO III DE LA LEY 19.349 DE GENDARMERIA NACIONAL.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1983 12 02"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 4'",
+          "id": "ABROGA A0",
+          "ref": "DEC C 000671 1971 03 01 0000 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "INCORP. APART. 10 DEL INC. B) POR ART. 2",
+          "id": "MODIFICADO POR0",
+          "ref": "DEC C 002188 1987 12 30 0002 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 3.113/83",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-18",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "REGLAMENTACION CAPITULO III-COMPUTO DE SERVICIOS DEL TITULO I-RETIRO VOLUNTARIO Y OBLIGACIONES, DEL TOMO IV RETIRO Y PENSIONES, DE LA LEY 19.349 DE GENDARMERIA NACIONAL.",
+        "anexos-decreto": {
+          "anexo-ley": [
+            "0000IA REGLAMENTACION",
+            "000IIB UNIDADES DE GENDARMERIA"
+          ]
+        },
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 019349 1971 11 25 1301 000 1352 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "retiro voluntario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/extinción de la relación funcional/retiro voluntario"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por retiro voluntario",
+                "relación de empleo público",
+                "baja del agente",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cómputo de servicios"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/cómputo de servicios"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "prueba de servicios",
+                "reconocimiento de servicios",
+                "tiempo de servicios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Gendarmería Nacional"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delegación de facultades"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/facultades de la administración/facultades reglamentarias/delegación de facultades a la Administración"
+            },
+            "sinonimos": {
+              "termino": [
+                "potestad reglamentaria",
+                "potestades administrativas",
+                "función pública",
+                "facultades de la administración pública",
+                "delegación de facultades"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Defensa"
+            },
+            "preferido": {
+              "termino": "Ministerio de Defensa"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "facultades de la administración pública (facultades de la administración)",
+            "cómputo de servicios",
+            "facultades reglamentarias",
+            "decreto reglamentario",
+            "delegación de facultades (delegación de facultades a la Administración)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "reglamentos",
+            "personal de seguridad (fuerzas de seguridad)",
+            "fuerzas de seguridad",
+            "Gendarmería Nacional",
+            "reconocimiento de servicios (cómputo de servicios)",
+            "indemnización por retiro voluntario (retiro voluntario)",
+            "potestad reglamentaria (facultades reglamentarias)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "relación de empleo público (empleo público)",
+            "Ministerio de Defensa",
+            "tiempo de servicios (cómputo de servicios)",
+            "Derecho administrativo",
+            "extinción de la relación funcional",
+            "potestades administrativas (facultades de la administración)",
+            "facultades de la administración",
+            "función pública (Administración Pública)",
+            "delegación de facultades a la Administración",
+            "Defensa nacional",
+            "Administración Pública",
+            "derecho del trabajo (Derecho laboral)",
+            "baja del agente (extinción de la relación funcional)",
+            "seguridad pública",
+            "acto administrativo",
+            "Derecho laboral",
+            "prueba de servicios (cómputo de servicios)",
+            "empleo público",
+            "seguridad nacional (seguridad pública)",
+            "retiro voluntario"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "lo informado por el Comando en Jefe del Ejército, lo propuesto por el señor Ministro de Defensa, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022534 1982 02 08 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 019349 1971 11 25 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000671 1971 03 01 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000806 1982 10 04 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 022511 1981 11 03 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que con fecha 8 de febrero de 1982 fue sancionada la Ley Nro 22534, modificatoria de la ley Nro 19.349 (Ley de Gendarmeria Nacional).\n\nQue  mediante  la citada norma legal, se han introducido  variantes significativas en  las prescripciones vigentes hasta entonces en lo referente  al régimen  de  retiros  y  cómputos  de  servicios  del personal de dicha Fuerza de Seguridad.\n\nQue los aspectos  reglamentarios  relacionados  con  el  cómputo de servicios del aludido personal han sido establecidos substancialmente  mediante  el  Decreto 671 de fecha 1 de marzo  de 1971, el que ha perdido actualidad  a  la  luz de las nuevas normas legales en vigor.\n\nQue  por  otra parte la Gendarmería Nacional,  desde  el  punto  de vista normativo,  para  la administración de personal ha seguido un paralelismo con la Fuerza  Ejército  hasta  lograr un elevado grado de identidad, sin perjuicio de las necesarias  adaptaciones propias de las diferencias orgánicas existentes entre ambas  instituciones.\n\nQue por Decreto Nro 806 de fecha 4 de octubre de 1982, se aprobó la Reglamentación del Capítulo IV, del título III de la Ley Nro 19101 (Ley para el Personal Militar), modificada por la Ley Nro 22511, siendo necesario proceder en forma análoga con la Ley de Gendarmería Nacional.\n\nQue la reglamentación que  se  propicia  siguiendo los lineamientos de  la  citada  normativa,  contempla  las particularidades  de  la Gendarmería  Nacional,  además  de  proveer    la    delegación  de facultades  en  el  señor  Ministro de Defensa en razón de  futuras necesidades respecto a la bonificación  de servicios por zona.\n\nQue  el  Artículo 131 de la Ley de Gendarmería  Nacional  establece que será reglamentada por el Poder Ejecutivo Nacional."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 019349 1971 11 25 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.-  Aprúebase  la  Reglamentación  del capítulo III Cómputo  de Servicios, del Tomo I Retiro Voluntario y  Obligatorio, del Tomo IV  \"Retiros  y  Pensiones\"  de  la ley Nro 19.349 (Ley de Gendarmeriia  Nacional), que se agrega como  parte  integrante  del presente decreto."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 019349 1971 11 25 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "ARTICULO 2.- Una vez aprobados los restantes textos reglamentarios  jurisdiccionale  de  la  Ley  Nro.  19.349  (Ley de Gendarmería Nacional),  la  reglamentación  que  se aprueba por el presente  decreto  será incorporada  textualmente  a  los  mismos."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO 3.- Facúltase al señor Ministro de Defensa a incluir o eliminar  en  el  anexo  I,  agregado  a  la  reglamentación que se aprueba  por  el  presente decreto, aquellos lugares  que  resulten necesarios en razón  del despliegue de las unidades u organismos de Gendarmería  Nacional,  así  como  determinar  otros  lugares  que merezcan una bonificación  diferenciada de aquella."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.- Derógase el Decreto Nro 671 de fecha 1 de marzo de 1971."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  Comuníquese,  publíquese,  dese  a la Dirección Nacional  del  Registro  Oficial  y  archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "BIGNONE - CAMBLOR"
+      },
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "REGLAMENTACION  DEL  CAPITULO  III  COMPUTO DE SERVICIOS TITULO I - RETIRO  VOLUNTARIO Y OBLIGATORIO DEL TOMO  IV  DE  LA  LEY  19.349.",
+          "segmento": {
+            "titulo-particion": "TITULO I.- RETIRO VOLUNTARIO Y OBLIGATORIO.-  CAPITULO 3: COMPUTO DE SERVICIOS.-",
+            "segmento": [
+              {
+                "titulo-particion": "SECCION I: Servicios Computables.",
+                "articulo": [
+                  {
+                    "numero-articulo": 1,
+                    "texto": "ARTICULO  1.301:  A  efectos  de  establecer  el derecho  al  haber de retiro, se computarán como servicios simples:\n\na. Los servicios  prestados  por el personal superior y subalterno, en todas las situaciones del servicio  efectivo  y  disponibilidad;\n\nb.  El  tiempo  en  que  el  personal haya revistado en pasiva  por encontrarse en  prisión  preventiva,    cuando  fuere  absuelto  o sobreseído provisional o definitivamente en  al  causa que motivara su procesamiento.\n\nc. Los servicios prestados por el personal superior  y subalterno , durante su incorporación por convocatoria o movilización,  en todas las    situaciones   que  les  corresponda  en  servicio  efectivo, disponibilidad y pasiva  determinada  en el inciso precedente.\n\nd. El tiempo que el personal haya revistado  como  alumno,  en  las escuelas  o institutos de reclutamiento, o cursos de reclutamiento de personal superior  y subalterno  de la institución o del cuadro permanente de las Fuerzas Armadas.\n\ne. El tiempo transcurrido desde la baja  hasta  la  reincorporación en los casos previstos en el Artículo 53 incisos a) y  b) de la Ley 19.349 f. Los servicios prestados por el personal, como integrante  de las Fuerzas Armadas, con anterioridad a su ingreso a la Institución.\n\ng.  Los servicios prestados por el personal en situación de retiro, cumple  funciones  de conformidad con lo determinado en el Artículo 84 de la Ley 19.349,  cualquiera fuere la condición y circunstancia en que dichos servicios hayan sido prestados."
+                  },
+                  {
+                    "numero-articulo": 2,
+                    "texto": "ARTICULO 1.302: A los fines de la determinación del haber de retiro  correspondiente, se computarán  los  siguientes  servicios:\n\na. Como servicios simples:\n\n1. Los enumerados en el artículo precedente.\n\n2. EL CINCUENTA  POR  CIENTO (50%) del tiempo de la carrera cursada de acuerdo a lo establecido  en  el Artículo 90 inciso a) de la Ley 19.349, y calculado según lo establecido  en  el Artículo 1.303 del presente Capítulo, y considerados según el Artículo 1.341 inciso a).\n\nb. Como bonificación de servicios.\n\n1. Los enumerados en el Artículo 1.304 del presente.\n\n2. Los establecidos en el Artículo 90 inciso b) de la ley 19.349.\n\nc. Como servicios virtuales los cumplidos en las siguientes condiciones:\n\n1. Como alumno de los Liceos Militares, Navales y Aeronáuticos, con el ciclo de estudios completos cumplidos, DOCE (12) meses.\n\n2. Como conscripto en las Fuerzas Armadas, en una magnitud del CINCUENTA POR CIENTO (50%) del tiempo real de servicios prestados."
+                  },
+                  {
+                    "numero-articulo": 3,
+                    "texto": "ARTICULO 1.303: A los fines del cómputo de los años de la carrera de nivel terciario no universitaria o universitaria, determinado en el Artículo 90 de la Ley 19.349, se tendrán en cuenta las siguientes pautas:\n\na. Los años a computar,  de acuerdo con el plan de estudios vigente al momento de cursarlos.\n\nb. El período se considerará  cumpido  en  los  años  inmediatos anteriores a la fecha  en  que el causante se graduó, según el plan de estudios vigente.\n\nc. Si el causante hubiere cumplido,  antes de iniciar los estudios ya sea que cursare la carrera en un período  de tiempo menor, igual o  mayor  que  el  ciclo  regular  corespondiente-,   otro  de  los servicios computables establecidos en el inciso c) del  Artículo  1 302,  dichos servicios no se considerarán coincidentes con los años de estudios  calculados  según los incisos a) y b) anteriores.\n\nd.  Tampoco  serán  considerados    coincidentes,    los  servicios computables prestados durante lapsos en que el causante  cesó  con la condición de  alumno regular,  reincidiendo  posteriormente los estudios en dicha condición.\n\ne.  No  corresponde tener en cuenta para el cómputo,  los  años  de estudios  que  se  hubieren  dedicado  a  la obtención de un título profesional que no resultare imprescindible  poseer para el ingreso al  Cuerpo  Profesional,  en  el  escalafón  o especialidad  a  que pertenece  el  causante  y  en la oportunidad de su  incorporación.\n\nf. El cómputo de estos años no  alcanzará  al  personal  que pase a situaciones de  retiro  obligatorio  por estar comprendido en  los incisos  f),  g)  y  h) del  Artículo 87 de  la  ley  19.349,  con excepción  del encuadrado en el  apartado  2)  del  inciso  c)  del Artículo 64 de la citada ley."
+                  },
+                  {
+                    "numero-articulo": 4,
+                    "texto": "ARTICULO 1304: A efectos de la graduación o acrecentamiento  del  haber  de  retiro,  los  siguientes servicios simples, serán bonificados en las condiciones y  porcientos  que se indican:\n\na.  En  un CIEN POR CIENTO (100%), cuando el personal esté efectado al cumplimiento  de  las  funciones  previstas  en el inciso g) del Artículo  3  de  la  ley  19.349,  y  así  lo establezca  el  Poder Ejecutivo Nacional.\n\nA los fines de la presente bonificación, se  considere  comprendida toda  actividad  cumplida  por  el  personal, por determinación  de Comando Militar establecido, sea que  se  encuentre  efectada  a la vigencia  de fronteras, protección de objetivos u otras actividades con sus capacidades.\n\nPara la aplicación  de  la  presente bonificación, el personal será considerado en servicio efectivo,  cualquiera  sea  su situación de revista.\n\nb.  Bonificado en los porcientos que se indican, con excepción  del personal de alumnos:\n\n1. En  un  CIEN  POR CIENTO (100%), cuando se prestan servicios con destino permanente  en  la  Antártida  o al sur del paralelo 56° S.\n\n2. En un SETENTA  POR  CIENTO  (70%),  cuando  se  participe  en  la campaña Anual Antártica, o se realice navegación en la Antártida o al  sur  del paralelo 56° S, por períodos no inferiores  a  TREINTA (30) días.\n\nEl cómputo  a  que  se  refiere  los apartados 1) y 2) precedentes, comenzará y cesará al transponer el  paralelo  56° S  de  ida y de regreso respectivamante.\n\n3.  En  un  CINCUENTA POR CIENTO (50%) el personal de aviadores  de Gendarmería Nacional,  pilotos y personal superior y subalterno del registro de tripulantes de  a  bordo, el mes que vuele como mínimo SEIS  (6) horas, en funciones específicas  de  su  especialidad  en misiones del servicio.\n\n4. En un  CINCUENTA  POR  CIENTO  (50%)  el  personal  con  aptitud especial  de  paracaidismo  o  especilizado en paracaidismo, el mes que en cumplimiento de funciones  específicas  de  su especialidad, efectúe  un  salto  como  mínimo,  en  misiones del servicio.  5.  En un CINCUENTA POR CIENTO (50%) el personal  especializado  en buceo, y el no especializado incluído en los registros corrspondientes,  que bucee por orden y en cumplimiento de misiones del servicio, el mes  que  cumpla  sumersiones  durante  CINCO  (5) horas o más.\n\n6.  En  un  CINCUENTA  POR  CIENTO  (50%),  el personal designado o destinado al exterior por el Gobierno Nacional  a  zonas de combate efectivo  o inminente, durante el tiempo que permanezca  en  dichas zonas.\n\n7.  En un CINCUENTA  POR  CIENTO  (50%)  el  personal  con  destino permanente  o  en  comisión  del  servicio por un lapso no menor de TREINTA (30) días, en los lugares y  zonas  que  se  indican  en el Anexo I del presente.\n\n8.  en  un  TREINTA  POR  CIENTO  (30%),  el  personal  con destino permanente  o  en  comisión del servicio, por un lapso no menor  de TREINTA (30) días, en  los  lugares  y  zonas  que oportunamente se determinen.\n\n9. En un TREINTA POR CIENTO (30%), el personal que en forma habitual maneje  equipos  o  substancias  generadoras  de  Rayos X u  otras radiaciones  igualmente  nocivas  para  la salud o esté expuesto  a ellas,    cuando  se  reunán  las  siguientes  condiciones:    a. La bonificación  comenzará a hacerse efectiva recién después que el causante haya prestado  CINCO  (5) años de servicios continuados en gabinetes, laboratorios o consultorios  de  electroradiología  y radioterapia,  o  afectado al manipuleo de elementos radiactivos, y unicamente  por  el  tiempo   que  exceda  de  dicho  lapso.  b.  El  cómputo será mensual y por  valor  de  TREINTA  (30)  días, siempre que durante  QUINCE  (15)  días como mínimo, de dicho mes, desempeñe tales funciones.\n\nc. Condiciones de trabajo no excluyentes entre sí:\n\n1)  Exceder  las  SEIS  (6)  horas  diarias    o  VENTICUATRO  (24) semanales.\n\n2)  No  hacer uso de una licencia anual adicional  de  QUINCE  (15) días corridos  de  duración  cualquiera sea su grado de antiguedad.\n\nEsta licencia no será acumulativa  con  al  licencia anual normal y debe  mencionar  entre  una  y  otra un mínimo de  SEIS  (6)  meses calendario de labor cumplida.\n\nLa bonificación de los indicados  en  el  presente  Artículo,  será válida  únicamente  en  los  casos  y condiciones que especifica el Artículo 93 de la Ley 19.349.\n\n10. En un CINCUENTA POR CIENTO (50 %), el personal destinado por orden de la autoridad competente a prestar servicios en las FUERZAS ESPECIALES DE GENDARMERIA NACIONAL por un lapso no menor de TREINTA (30) días."
+                  },
+                  {
+                    "referencias-normativas": {
+                      "referencia-normativa": [
+                        {
+                          "cr": "ANEXO",
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "CJM C 014029 1951 07 04 0718 000 0718 000  A"
+                        },
+                        {
+                          "cr": "ANEXO",
+                          "id": "REFERENCIAS_NORMATIVAS_1",
+                          "ref": "CJM C 014029 1951 07 04 0543 000 0543 000  A"
+                        },
+                        {
+                          "cr": "ANEXO",
+                          "id": "REFERENCIAS_NORMATIVAS_2",
+                          "ref": "CJM C 014029 1951 07 04 0552 000 0552 000  A"
+                        }
+                      ]
+                    },
+                    "numero-articulo": 5,
+                    "texto": "ARTICULO 1305.- No serán computables para determinar el haber de retiro pero serán anotados, cuando correspondiere, los siguientes servicios:\n\na) Los prestados con anterioridad a la deserción, cuando ésta fuere castigada (artículo 718 del Código de Justicia Militar).\n\nb) Los prestados con anterioridad a la destitución o degradación, sean éstas impuestas como principales o accesorias a otra pena, salvo que mediara amnistía o indulto (artículos 543 y 552 del Código de Justicia Militar).\n\nc) El tiempo que haya revistado en situación de pasiva, salvo el caso previsto en el artículo 67 de la ley 19.349.\n\nd) El tiempo pasado fuera de la Institución por haber sido dado de baja a solicitud del causante, cuando de acuerdo a lo prescripto por el artículo 51 de la ley 19.349 sea incorporado.\n\ne) Los servicios civiles prestados en la Administración Pública Nacional, Provincial y Municipal."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "Sección II: Comprobación de la Prestación de Servicios",
+                "articulo": [
+                  {
+                    "numero-articulo": 6,
+                    "texto": "Artículo  1.311: La comprobación de la prestación de servicios se efectuará por:\n\na. La documentación  oficial  y  las  constancias existentes en los legajos personales.\n\nb. Excepcionalmente, cuando exista un principio  de  prueba  en  la documentación  oficial, o no existiera ésta por deficiencia notoria en  los  archivos,    se   admitirá  la  comprobación  mediante  la instrucción de una información  administrativa-militar,  la cual se basará  en  informes administrativos oficiales, no aceptándose  los informes privados.\n\nc.  Estando  comprobada    la    prestación  de  servicios,  cuando existieren contradicciones, dudas, omisiones o falta de conformidad del causante sobre el  lugar,  destino  y tiempo en que éstos se hubieran prestado, se admitirá la comprobación  únicamente mediante  los  requisitos  y  modalidades establecidas en el inciso precedente."
+                  },
+                  {
+                    "numero-articulo": 7,
+                    "texto": "Artículo  1.312:  Cuando  existen  servicios  prestados en las Fuerzas  Armadas o en Liceos Militares, Navales o Aeronáuticos,  la comprobación  de  los  mismos  se  efectuará  por intermedio de las respectivas instituciones, de conformidad con sus  reglamentaciones particulares  vigentes  al  momento  de  la  prestación  de  dichos servicios,    agregándose   los  comprobantes  al  legajo  personal correspondiente."
+                  },
+                  {
+                    "numero-articulo": 8,
+                    "texto": "Artículo  1.313:  Los  servicios prestados en cumplimiento del servicio  de  conscripción,  serán    comprobados    mediante   las anotaciones   de  la  respectiva  libreta  de  enrolamiento,  o  la información del  respectivo  Distrito  Militar,  en  caso  de duda."
+                  },
+                  {
+                    "numero-articulo": 9,
+                    "texto": "Artículo 1.314: Los servicios prestados por el personal durante su incorporación  por  convocatoria  o movilización, se comprobarán por los informes del respectivo organismo de personal."
+                  },
+                  {
+                    "numero-articulo": 10,
+                    "texto": "Artículo 1.315: Los años constitutivos de la carrera correspondiente  a estudios de nivel terciario, no universitarios o universitarios, se  comprobarán  mediante  certificado expedido por la Facultad, Instituto de Profesorado o Seminario,  en  el  cual se cursaron    los    estudios,  legalizado  respectivamente,  por  la Universidad, Ministerio de  Educación  o Curia Eclesiástica, en el que  deberá constar la extensión de la carrera  según  el  plan  de estudios  que  cursó  el  interesado  y la fecha de su graduación u ordenación. Dicho certificado debe ser  gestionado  por el causante y  entregado  al  organismo  de personal, debiéndose agregar  a su legajo personal."
+                  },
+                  {
+                    "numero-articulo": 11,
+                    "texto": "ARTICULO 1316.- Cuando exista superposición de tiempo en cualquier servicio computable, previo al ingreso a la Institución, con excepción del caso previsto en el artículo 1303 incisos c) y d) precedentes, se computará el servicio que tenga mayor tiempo, a igualdad de tiempo se computará el servicio que beneficie más al causante, y en caso de no existir diferencias de beneficios, se computará uno cualquiera de ellos."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "Sección III: Certificación de la Prestación de Servicios",
+                "articulo": [
+                  {
+                    "numero-articulo": 12,
+                    "texto": "Artículo  1.321:  La  notación  y el cómputo de servicios y la bonificación de los mismos, serán certificados  por el organismo de personal  corespondiente,  sobre  la  base  de las constancias  del legajo personal y toda otra documentación oficial."
+                  },
+                  {
+                    "numero-articulo": 13,
+                    "texto": "Artículo 1.322: La certificación se efectuará en las siguientes circunstancias:\n\na. Cuando  deba  disponerse  el pase del causante a la situación de retiro  y  para ser agregado a los  expedientes  de  pensión.  b.  Cuando  lo    recabaren  autoridades  judiciales  (militares  o comunes), o en asuntos  administrativos  cuando  resulte  necesario por razones de servicio.\n\nc.  Cuando lo soliciten los organismos jubilatorios o de previsión.\n\nd. Cuando  lo  solicite  el  personal que haya cumplido QUINCE (15) años de servicios simples militares,  no  más de una vez cada cinco años.\n\ne. Cuando lo solicite el personal dado de baja  o  retirado  o  los deudos  de  éstos  y  del  personal  fallecido en actividad, cuando acrediten tal carácter."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "Sección IV: Forma de Computar la Prestación de Servicios",
+                "articulo": [
+                  {
+                    "numero-articulo": 14,
+                    "texto": "Artículo  1.331:  El  tiempo de servicios se contarmilitares o comunezón  de TRESCIENTOS SESENTA  Y  CINCO  (365)  días  por año, TREINTA (30) días por mes, y el resto en días."
+                  },
+                  {
+                    "numero-articulo": 15,
+                    "texto": "Artículo  1.332: Para determinar la procedencia del derecho al haber de retiro,  el  tiempo  de  servicios  se  calculará según la cantidad  exacta  de  días  de  servicios  simples  acreditado,  no considerándose bonificación ni fracción de año que se  obtenga como residuo."
+                  },
+                  {
+                    "numero-articulo": 16,
+                    "texto": "Artículo  1.333:  Para  determinar  la graduación del haber de retiro, y siempre que el causante tuviera  cumplidos  los  años  de servicios  simples  necesarios  para  tener  derecho a tal haber de retiro, la fracción de año de SEIS (6) meses o  mayor,  se  contará como  un año entero. La fracción de año menor de SEIS (6) meses  no será  considerada    reservándose  para  ser  sumada  a  eventuales servicios que se presten con posterioridad.\n\nSólo en los casos de fallecimiento  del  causante  en  actividad la fracción  de año de servicio, menor de SEIS (6) meses se  computará como un año  entero  a los efectos de la determinación del haber de pensión."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "Sección V: Definiciones",
+                "articulo": {
+                  "numero-articulo": 17,
+                  "texto": "Artículo 1.341: Toda vez que en la Ley de Gendarmería Nacional Nro 19.349,  o en sus reglamentaciones, se mencionen las locusiones siguientes, su  significado  será  el  que  en cada caso se indica:\n\na.  Servicios  Simples:  Son  aquellos  realmente   prestados  como integrante  de  la  institución, los prestados en la situación  del Artículo 84 de la Ley  19.349, el tiempo transcurrido desde la baja hasta la reincorporación,  en los casos previstos en el Artículo 53 incisos a) y b) de dicha ley,  y el prestado como integrante de las Fuerzas  Armadas con anterioridad  al  ingreso  a  la  institución, conforme se  establece  en el Artículo 124 del citado cuerpo legal.\n\nEn forma virtual y el solo  efecto de la determinación del haber de retiro se considerarán como si  fuera  de  este  tipo, el CINCUENTA POR CIENTO (50%) de los años que constituyeron la  carrera a que se refiere  el  Artículo  90,  inciso a) de la Ley 19.349,  siendo  su aplicación válida a partir de  los  casos  previstos en el Artículo 95, incisos a) y b) de dicho cuerpo legal.\n\nb. Servicios o Bonificación de Servicios Simples:\n\nEs  el  tiempo  adicionado  a  los  servicios  simples realmente prestado, por razón de haberes cumplidos éstos en las circunstancias  y condiciones fijadas en la Ley 19.349 Artículo  89 y en Artículo 1.304 de la presente reglamentación.\n\nc. Servicios Virtuales:  Los  mismos  no  producen  sus  efectos de presente,  pese a que tienen la virtud de producirlos cuando  están dadas las condiciones requeridas legalmente.\n\nAsí, una vez  que  se hallen cumplidas las condiciones previstas en el Artículo 95 incisos  a) y b) de la Ley 19.349, se compurarán los servcios cumplidos en los  Liceos Militares, Navales y Aeronáuticos y  los  prestados  durante  el servicio  de  conscripción,  con  la salvedad que prevé el Artículo 1.351 siguiente.\n\nIgualmente en forma virtual y  al  solo  efecto de la determinación del  haber  de  retiro,  se  considera  como  si  fueran  servicios simples,  el  CINCUENTA POR CIENTO (50%) de los años  constitutivos de la carrera a  que  se refiere el Artículo 90 de la Ley 19.349, y como  bonificados el restante  CINCUENTA  POR  CIENTO  (50%).  d. Tiempo  de  Servicios  Computados: Lo constituye la sumatoria de todos los tiempos de servicios  simples,  virtuales  y bonificados."
+                }
+              },
+              {
+                "titulo-particion": "Sección VI: Disposiciones Transitorias",
+                "articulo": [
+                  {
+                    "numero-articulo": 18,
+                    "texto": "Artículo 1.351: El personal que revistare en actividad a la fecha de sanción del decreto Nro 4.808/73 -Boletín Público del Ejército Nro. 3952 (23 de Mayo de 1973), y que previo a su ingreso a la Institución hubiere cursado estudios en Liceos Militares, Navales o Aeronáuticos, tendrá derecho a que se le computen como servicios simples la cantidad de años que le correspondía computar, de acuerdo con lo establecido en el inciso 3) del Artículo  65 de la Reglamentación para el Ejército de la Ley 14.777 (Ley para el  Personal  Militar), Tomo IV \"Retiros y Pensiones\"- LM II-IV."
+                  },
+                  {
+                    "referencias-normativas": {
+                      "referencia-normativa": [
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_0",
+                          "ref": "LEY C 022534 1982 02 08 0003 000 0000 000"
+                        },
+                        {
+                          "cr": null,
+                          "id": "REFERENCIAS_NORMATIVAS_1",
+                          "ref": "LEY C 022534 1982 02 08 0000 000 0000 000"
+                        }
+                      ]
+                    },
+                    "numero-articulo": 19,
+                    "texto": "Artículo 1.352: El personal superior y subalterno, que al 8 de febrero  de  1982,  tenga computados VEINTICINCO (25) o VEINTE (20) años  simples  de  servicios  respectivamente,  cualquiera  sea  el momento de su pase a  situación  de  retiro,  de conformidad con lo establecido en el Artículo 3, inciso 2) apartados  a  y b de la Ley 22.534, tendrá derecho a:\n\na.  Optar  por  la  determinación  de  su haber de retiro según  la escala porcentual contenida en el Artículo  98 de la ley Nro 19.349 con la modificación introducida por la Ley Nro  22.534  o  según la escala contenida en la misma normas antes de la citada modificación, la que mantendrá su vigencia a ese sólo efecto.  b.  Computar,  en  los  casos  de  retiro voluntario, los servicios civiles  prestados en la Administración  Pública  o  en  organismos militares  antes  de su  ingreso a Gendarmería Nacional únicamente para  graduar el haber de retiro correspondiente,  manteniendo  su vigencia    a  este  solo efecto el inciso d) del Artículo 91 de la Ley 19.349, por lo que  deberán  excluirse  en  dicho  cómputo, los años que sean coincidentes con el período en que esta reglamentación  considera  cumplidos los años que constituyeron  la carrera de nivel terciario (no  universitaria  o  universitaria), a que se refiere el Artículo  90 de la ley 19.349.\n\nLa  comprobación  de  la  prestación  de  servicios  civiles,    se efectuará  por  medio  del  certificado  que  expida  la  autoridad pública  correspondiente,  en  el  cual se dejará constancia de  la repartición, dependiente donde se ha  prestado servicios, haberes o jornales  percibidas  y  descuentos  jubilatorios    efectuados   y adeudados.\n\nDicho    certificado  deberá  ser  gestionado  por  al  causante  y entregado  al organismo de personal, el que a su vez lo girará a la Caja de Previsión  que corresponda,  para  que  se  establezca  si existe  derecho  al reconocimiento de dichos servicios y al cómputo corespondiente."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "UNIDADES DE GENDARMERIA NACIONAL EN LAS QUE SU PERSONAL BONIFICA EN UN CINCUENTA POR CIENTO (50 %) EL TIEMPO DE SERVICIOS PRESTADOS",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "NOTA DE REDACCION: ANEXO NO GRABABLE"
+          }
+        }
+      ],
+      "id-infojus": "DN19831003113"
+    }
+  }
+}

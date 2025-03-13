@@ -1,0 +1,265 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-652-0000-4991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991232536,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "256-nacional-titulos-grado-universitario-dn19940000256-1994-02-16"
+      }
+    },
+    "content": {
+      "mecanografico": 19940000256,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 256,
+      "timestamp": "2014-07-18T21:55:17",
+      "timestamp-m": "2014-07-18T21:55:17",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1994-02-16",
+      "standard-normativo": "DEC C 000256 1994 02 16",
+      "titulo-norma": "TITULOS DE GRADO UNIVERSITARIO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 02 21"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 12",
+          "id": "ABROGA A0",
+          "ref": "DEC C 000939 1975 04 10 0000 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 256/94",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2014-07-18",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE ESTABLECEN LAS DEFINICIONES DE \"PERFIL Y ALCANCES DEL TITULO\", \"VALIDEZ NACIONAL\" E \"INCUMBENCIAS\". SE PRECISAN SUS EFECTOS Y ALCANCES JURIDICOS Y SE DETERMINAN LAS MODALIDADES DE IMPLEMENTACION A LAS QUE DEBERAN AJUSTARSE EL MINISTERIO DE CULTURA Y EDUCACION Y LAS INSTITUCIONES IMPLICADAS."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "universidades"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales/universidades"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "establecimientos educativos",
+                "institutos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "título profesional"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/responsabilidades especiales/ejercicio profesional/habilitación profesional/título profesional"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "profesional liberal",
+                "ejercicio de profesiones liberales",
+                "profesional universitario",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "título habilitante",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "incumbencias profesionales"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/responsabilidades especiales/ejercicio profesional/incompatibilidad de ejercicio"
+            },
+            "sinonimos": {
+              "termino": [
+                "incumbencias profesionales",
+                "incompatibilidad profesional",
+                "responsabilidad por daños",
+                "profesional liberal",
+                "ejercicio de profesiones liberales",
+                "profesional universitario",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "compatibilidad de ejercicio"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Cultura y Educación"
+            },
+            "preferido": {
+              "termino": "Ministerio de Educación"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Educación y Justicia",
+                "Ministerio de Educación, Ciencia y Tecnología",
+                "Ministerio de Cultura y Educación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "establecimientos educativos (establecimientos educacionales)",
+            "habilitación profesional",
+            "escuelas (establecimientos educacionales)",
+            "Cultura y educación",
+            "título profesional",
+            "institutos educativos (establecimientos educacionales)",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "incumbencias profesionales (incompatibilidad de ejercicio)",
+            "profesional universitario (ejercicio profesional)",
+            "instituciones educativas (establecimientos educacionales)",
+            "establecimientos educacionales",
+            "responsabilidades especiales",
+            "establecimientos de enseñanza (establecimientos educacionales)",
+            "actividades profesionales (ejercicio profesional)",
+            "Derecho civil",
+            "infraestructura educativa",
+            "Ministerio de Cultura y Educación (Ministerio de Educación)",
+            "incompatibilidad profesional (incompatibilidad de ejercicio)",
+            "Derecho de daños (responsabilidad civil)",
+            "profesional liberal (ejercicio profesional)",
+            "Ministerio de Educación",
+            "colegios (establecimientos educacionales)",
+            "Educación y Cultura (Cultura y educación)",
+            "institutos incorporados a la enseñanza oficial (establecimientos educacionales)",
+            "Ministerio de Educación y Justicia (Ministerio de Educación)",
+            "compatibilidad de ejercicio (incompatibilidad de ejercicio)",
+            "incompatibilidad de ejercicio",
+            "responsabilidad por daños (responsabilidad civil)",
+            "ejercicio de profesiones liberales (ejercicio profesional)",
+            "educación",
+            "título habilitante (título profesional)",
+            "profesiones liberales (ejercicio profesional)",
+            "ejercicio de la profesión (ejercicio profesional)",
+            "ejercicio profesional",
+            "universidades",
+            "responsabilidad civil",
+            "Ministerio de Educación, Ciencia y Tecnología (Ministerio de Educación)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "TOR C 022520 1992 03 12 0000 000"
+          }
+        },
+        "texto": "lo  dispuesto en los incisos 10 y 11 del artículo 21 de la Ley de Ministerios  (t.  o.  1992), por los que se asigna al MINISTERIO DE  CULTURA  Y  EDUCACION  la   atribución  para  entender  \"en  la determinación de la validez nacional  de  estudios  y títulos\" y en \"las  habilitaciones  e  incumbencias de títulos profesionales  con validez nacional\", y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que la falta de una reglamentación que precise los alcances de las atribuciones  ministeriales  genera serios inconvenientes en su aplicación.\n\nQue por ello se hace necesario el  dictado de una norma que defina ambas  cuestiones,  precise  sus efectos  y  alcances  jurídicos  y determine  las  modalidades de implementación  a  las  que  deberán ajustarse el MINISTERIO  DE CULTURA Y EDUCACION y las instituciones implicadas.\n\nQue a esos fines es necesario  precisar  lo que se entenderá a los efectos  legales  por \"validez nacional\", \"perfil  y  alcances  del título\" e \"incumbencias\",  por  tratarse  de  una terminología cuya utilización  puede  generar  confusión  a  la hora de  aplicar  las consecuencias jurídicas que se le asignan.\n\nQue por \"perfil\" debe entenderse el conjunto  de los conocimientos y  capacidades que cada título acredita, y por \"alcances\"  aquellas actividades  para  las  que  resulta  competente  un profesional en función del perfil del título respectivo; el término \"incumbencias\"   debe  reservarse  exclusivamente para    aquellas actividades profesionales  cuyo  ejercicio  pudiera  comprometer al interés público.\n\nQue atento a la distinta naturaleza de los intereses comprometidos  en  la  determinación  del  \"perfil  y alcances  del título\",  por  una  parte,  y  los involucrados en la fijación  de \"incumbencias\",  por  otra,  se  justifica    una    diferenciación sustancial  en cuanto a los efectos jurídicos emergentes  de  dicha determinación.\n\nQue el efecto  propio  de  la  determinación de \"perfil y alcances del título\" es el de acreditar oficialmente  la formación académica recibida  por  el  egresado  de  acuerdo  al contenido  y  créditos horarios  de  los estudios realizados conforme  con  el  respectivo plan de estudios;  el de las \"incumbencias\", por el interés público comprometido, es el  de  limitar  el  ejercicio  de las actividades comprendidas  en  las mismas a quienes acrediten la  obtención  del título respectivo, como garantía para la sociedad.\n\nQue la determinación  del  \"perfil y alcances de los títulos\" debe surgir  de las propias Universidades  como  un  requisito  para  el otorgamiento   de  la  validez  nacional  de  los  mismos;  por  el contrario, la determinación  de  las \"incumbencias\", por el interés público comprometido, constituye un  deber  indelegable del Estado.\n\nQue asimismo no se justificaría dotar de un  efecto  jurídico  tan importante  como  el  que  se  asigna  a  las \"incumbencias\", si el Estado  a  su  vez  no  exigiera, para establecerlas,  determinados contenidos  mínimos  que  garanticen  la  formación  necesaria  del profesional.\n\nque también se justifica marcar  una  diferencia  en  la actividad del  Estado respecto  a  la  determinación de la validez nacional, entre aquellas carreras conducentes a títulos de grado universitario de Licenciado, Ingeniero,  Abogado,  Médico  y  otros equivalentes    en  las  que  es  necesario  garantizar  una  carga académica  adecuada  al  nivel  y  jerarquía  de  esos  títulos,  y aquellas otras  que  conduzcan  a  títulos  de menor jerarquía.\n\nQue  a los fines de garantizar el nivel de los  títulos  de  grado universitario su otorgamiento debe quedar reservado a instituciones    autorizadas    debidamente   para  funcionar  como universidades o institutos universitarios.\n\nQue  la  presente  media  se  dicta  en  uso  de las  atribuciones conferidas al PODER EJECUTIVO NACIONAL por el artículo  86,  inciso 2) de la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art.  1  : A los fines del presente decreto denomínase \"perfil del título\" al  conjunto  de  los  conocimientos  y capacidades que cada título acredita; \"alcances del título\", a aquellas actividades  para  las  que  resulta  competente un profesional  en función del perfil del título y de los  contenidos  curriculares de la  carrera, e \"incumbencias\", a aquellas actividades  comprendidas en los  alcances  del  título cuyo ejercicio pudiese comprometer al interés público."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2  :  El  otorgamiento  de validez nacional de un título universitario  acreditará oficialmente  el  perfil  y  alcance  del mismo.  A esos fines  las  universidades  deberán  acompañar  a  la solicitud  pertinente el perfil y alcances del título, los que sólo podrán ser observados  por  el  MINISTERIO  DE  CULTURA Y EDUCACION cuando no se adecue a sus contenidos curriculares."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3  :  A  partir de la fecha del presente decreto sólo se fijarán incumbencias  a aquellos títulos cuyo ejercicio profesional pudiera comprometer al  interés público y únicamente respecto a las actividades que efectivamente  lo  comprometan.  El  MINISTERIO  DE CULTURA  Y  EDUCACION  determinará  por  resolución ministerial los títulos que requieran incumbencias. A esos  fines  reglamentará los plazos y el procedimiento para hacerlo."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4 : El ejercicio de aquellas actividades comprendidas en las incumbencias  que se determinen de conformidad con lo dispuesto en  el  artículo  anterior   queda  reservado  exclusivamente  para quienes hayan obtenido el título correspondiente en una universidad legalmente autorizada."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5 : Las incumbencias fijadas con anterioridad al presente decreto  a  títulos  no comprendidos en la categoría prevista en el artículo 3, sólo tendrán  los  alcances  y  efectos previstos en el artículo 2."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6 : Para otorgar validez nacional a los títulos a que se alude en el  artículo  3,  se requerirá, además de lo exigido en el artículo 2, que los respectivos  planes  de  estudio  respeten  los contenidos  mínimos  que a esos efectos establezca el MINISTERIO DE CULTURA Y EDUCACION, en consulta  con  el  sistema  universitario."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art.  7 : Para otorgar validez nacional a los títulos de grado universitario    de    Licenciado,  Ingeniero,  Abogado,  Médico  y equivalentes,  para  los  que    no   corresponda  la  fijación  de incumbencias, se requerirá, además de  la  exigencia establecida en el artículo 2, que la carga académica prevista  en  los respectivos planes  de  estudio  sea  adecuada a un título de esa jerarquía.  A esos fines, el MINISTERIO DE  CULTURA  Y EDUCACION, previa consulta con el sistema universitario reglamentará las  exigencias  mínimas necesarias para lograrla."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024195 1993 04 14 0012 000 0012 000"
+            }
+          },
+          "numero-articulo": 8,
+          "texto": "Art. 8 : La determinación de la validez nacional de títulos de menor  jerarquía  que  los  mencionados  en  el  artículo  anterior requerirá  además  del  cumplimiento de lo dispuesto en el artículo 2, que se prevea como condición  de ingreso la aprobación del nivel polimodal; excepcionalmente será de  aplicación  lo  previsto en el segundo apartado del artículo 12 de la Ley N. 24.195."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9 : A los efectos del presente decreto, las modificaciones de los  planes de estudios deberán ser comunicadas al MINISTERIO DE CULTURA  Y  EDUCACION,  quien  las  podrá  observar  cuando  no  se respeten los  contenidos  mínimos  fijados,  en  el  supuesto  del artículo 3,  o  importen una reducción de la carga académica mínima en el supuesto del artículo 7."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art.  10 : La facultad de otorgar títulos conducentes a grados universitarios  de  Licenciado,  Ingeniero, Abogado, Médico y otros equivalentes  queda reservada exclusivamente  a  las  instituciones autorizadas para    funcionar   como  Universidades  o  Institutos Universitarios."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art.  11 : El MINISTERIO DE CULTURA Y EDUCACION será órgano de interpretación    y   aplicación  del  presente  decreto,  quedando facultado para dictar las normas pertinentes a tal fin."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art. 12 : Derógase el Decreto N. 939 del 10 de abril de 1975 y toda otra norma que se oponga al presente."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "Art. 13 : Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - RODRIGUEZ."
+      },
+      "id-infojus": "DN19940000256"
+    }
+  }
+}

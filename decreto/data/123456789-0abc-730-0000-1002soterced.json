@@ -1,0 +1,365 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-730-0000-1002soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991765856,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "37-nacional-reasignacion-funciones-al-ministerio-defensa-dn20010000037-2001-01-12"
+      }
+    },
+    "content": {
+      "mecanografico": 20010000037,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 37,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2001-01-12",
+      "standard-normativo": "DEC C 000037 2001 01 12",
+      "titulo-norma": "REASIGNACION DE FUNCIONES AL MINISTERIO DE DEFENSA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2001 01 12"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 1",
+            "id": "OBSERVA A0",
+            "ref": "LEY C 020429 1973 05 21 0004 000"
+          },
+          {
+            "cr": "POR ART. 1",
+            "id": "OBSERVA A1",
+            "ref": "LEY C 020429 1973 05 21 0005 000"
+          },
+          {
+            "cr": "POR ART. 1",
+            "id": "OBSERVA A2",
+            "ref": "LEY C 012709 1941 09 26 0027 000"
+          },
+          {
+            "cr": "POR ART. 1",
+            "id": "OBSERVA A3",
+            "ref": "LEY C 012709 1941 09 26 0034 000"
+          },
+          {
+            "cr": "SUSTITUYE TERMINO, POR ART. 5",
+            "id": "MODIFICA4",
+            "ref": "DEC C 008731 1972 12 11 0000 000"
+          },
+          {
+            "cr": "SUSTITUYE TERMINO, POR ART. 5",
+            "id": "MODIFICA5",
+            "ref": "DEC C 000395 1975 02 20 0000 000"
+          },
+          {
+            "cr": "SUSTITUYE TERMINO, POR ART. 5",
+            "id": "MODIFICA6",
+            "ref": "DEC C 000302 1983 02 08 0000 000"
+          },
+          {
+            "cr": "SUSTITUYE TERMINO, POR ART. 5",
+            "id": "MODIFICA7",
+            "ref": "DEC C 002310 1983 09 08 0000 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 37/2001",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2001-01-17",
+      "fecha-mod": "2011-08-16",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REASIGNA AL MINISTERIO DE DEFENSA, EN EL AMBITO DEL REGISTRO NACIONAL DE ARMAS, EL EJERCICIO DE LAS ATRIBUCIONES Y FUNCIONES OTORGADAS A LA DIRECCION GENERAL DE FABRICACIONES MILITARES POR LAS LEYES 20.429 Y MODIFICATORIAS, 12.709, MODIFICADA POR SU SIMILAR 20.010, Y POR EL DECRETO N. 760/92."
+      },
+      "noticias-accesorias": {
+        "texto": "NUMERO DE ARTICULO QUE ESTABLECE LA ENTRADA EN VIGENCIA: 6 FECHA DE ENTRADA EN VIGENCIA: 1/1/2001"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "armas de guerra"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/armas/armas de guerra"
+            },
+            "sinonimos": {
+              "termino": "materiales de guerra"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "armas de uso civil"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/armas/arma de fuego/armas de uso civil"
+            },
+            "sinonimos": {
+              "termino": [
+                "tenencia de arma de fuego de uso civil",
+                "armas de fuego de uso civil"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "explosivos"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/armas/explosivos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Defensa"
+            },
+            "preferido": {
+              "termino": "Ministerio de Defensa"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "registro nacional de armas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/armas/registro de armas/registro nacional de armas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Dirección General de Fabricaciones Militares"
+            },
+            "preferido": {
+              "termino": "Dirección General de Fabricaciones Militares"
+            },
+            "sinonimos": {
+              "termino": "Fabricaciones Militares"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "armas de fuego de uso civil (armas de uso civil)",
+            "tenencia de arma de fuego de uso civil (armas de uso civil)",
+            "Defensa nacional",
+            "explosivos",
+            "armas",
+            "registro de armas",
+            "Dirección General de Fabricaciones Militares",
+            "armas de guerra",
+            "registro nacional de armas",
+            "Fabricaciones Militares (Dirección General de Fabricaciones Militares)",
+            "materiales de guerra (armas de guerra)",
+            "Ministerio de Defensa",
+            "armas de uso civil",
+            "arma de fuego"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 012709 1941 09 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 020429 1973 05 21 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 023283 1985 09 28 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 023979 1991 08 14 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 024045 1991 12 04 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DEC C 000395 1975 02 20 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "DEC C 008731 1972 12 11 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DEC C 000302 1983 02 08 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "DEC C 002310 1983 09 08 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "DEC C 000464 1996 04 29 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "las  Leyes Nros. 12.709, 20.429, 23.283, 23.696, 23.979 y 24.045 y sus modificatorias y los Decretos Nros. 395 del 20 de febrero de 1975, 8731  del 11 de diciembre de 1972, 302 del 8 de febrero de 1983, 2310 del 8  de  setiembre  de 1983  y 464 del 29 de abril de 1996, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 020429 1973 05 21 0004 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 012709 1941 09 26 0027 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 012709 1941 09 26 0034 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 024045 1991 12 04 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 020429 1973 05 21 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "LEY C 012709 1941 09 26 0000 000 0000 000"
+            },
+            {
+              "cr": "INC. 1",
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que la DIRECCION GENERAL DE FABRICACIONES MILITARES tiene a su cargo el  asesoramiento   en  materia  de instalación de fábricas de armas y municiones, calificadas  como de guerra  y  de  su  exportación, ejerciendo además el control de su producción;  así  como  la fiscalización   y  supervisión  de  la  importación, exportación, fabricación, comercialización, tenencia y empleo de pólvoras, explosivos y afines, fijando los aranceles y tasas retributivas de los servicios que se presten, sancionando los incumplimientos que tales actividades  generen  y  aplicando las multas pertinentes.\n\nQue el artículo 4 de la Ley N. 20.429 y modificatorias  establece la  competencia  originaria  del  MINISTERIO  DE  DEFENSA  para  la fiscalización y supervisión de los actos que comprendan tanto a los materiales  clasificados  como  \"armas  de guerra\" y \"de uso civil\" como  a  los  comprensivos  de  pólvoras,  explosivos    y  afines, estableciendo  dicha  norma que la citada competencia será ejercida por intermedio del REGISTRO  NACIONAL  DE  ARMAS  y  la  DIRECCION GENERAL  DE  FABRICACIONES  MILITARES  conforme  a las  respectivas atribuciones descriptas en la misma.\n\nQue en otro orden los artículos 27 y 34 de la Ley N. 12.709 otorgan al MINISTERIO DE DEFENSA la facultad de proponer al PODER EJECUTIVO NACIONAL  la  autorización o bien a autorizar, según  el  caso,  la instalación y funcionamiento  en  el  país  de  fábricas de armas y municiones  calificadas  como  de  guerra  y  otros  materiales  de carácter esencialmente militar, así como la exportación  de  dichos bienes;  con  el  asesoramiento  previo  de la DIRECCION GENERAL DE FABRICACIONES MILITARES.\n\nQue las Leyes Nros. 23.696 y 24.045 comprenden  la situación de las diversas   fábricas  dependientes  de  la  DIRECCION  GENERAL    DE FABRICACIONES  MILITARES  y autorizan al PODER EJECUTIVO NACIONAL a reasignar las atribuciones  y  funciones  de  ese  organismo  hacia aquellos  que  dentro  de  la  órbita  del MINISTERIO DE DEFENSA se hallen en condiciones técnicas de asumirlas.\n\nQue la necesidad de optimizar los recursos  en  consonancia  con el proceso  de racionalización del ESTADO NACIONAL, hace indispensable la utilización y el aprovechamiento de las estructuras creadas para el cumplimiento  de  las  misiones,  siendo el REGISTRO NACIONAL DE ARMAS el organismo que resulta más idóneo  para  la  consecución de los objetivos propuestos.\n\nQue  la  DIRECCION  GENERAL DE ASUNTOS JURIDICOS del MINISTERIO  DE DEFENSA ha tomado la intervención que corresponde.\n\nQue el presente acto se dicta en uso de las atribuciones conferidas por las Leyes Nros. 20.429 y 12.709 y por  el artículo 99, inciso 1 de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 020010 1972 12 11 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "DNU C 000760 1992 04 30 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Artículo  1  - Reasígnase  al  MINISTERIO  DE  DEFENSA  -  REGISTRO NACIONAL DE ARMAS  el ejercicio de las atribuciones y funciones que los artículos 4 y 5  de  la  Ley N. 20.429 y modificatorias y los artículos 27 y 34 de la Ley N. 12.709, modificados por la Ley N. 20.010 y por el Decreto N. 760 del  30 de abril de 1992, le otorgan al MINISTERIO DE DEFENSA  -  DIRECCION    GENERAL  DE FABRICACIONES MILITARES."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2 - A los efectos del adecuado ejercicio  de las competencias que  se  asignan  por  el  artículo  precedente,  transfiérense  al MINISTERIO  DE  DEFENSA  -  REGISTRO  NACIONAL DE ARMAS  todos  los registros y antecedentes documentales del  ex Departamento de Armas y  Explosivos  de  la DIRECCION GENERAL DE FABRICACIONES  MILITARES."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 023283 1985 09 28 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 023979 1991 08 14 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 002534 1991 12 04 0000 000 0000 000"
+              },
+              {
+                "cr": "MINIST. DEFENSA",
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "RES C 000416 1992 03 19 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 3,
+          "texto": "Art. 3 - Autorízase  al  MINISTERIO DE DEFENSA - REGISTRO NACIONAL DE ARMAS a formalizar en el marco de su competencia los instrumentos necesarios para  incorporar  las  funciones  que se le asignan en virtud del artículo 1 del presente Decreto, al  régimen previsto por las Leyes Nros. 23.283 y 23.979, Decreto N. 2534 del 4 de diciembre de 1991 y Resolución MD N. 416 del 19 de marzo de 1992."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4 - A los fines del mejor cometido de las funciones que se le asignan por el presente Decreto, autorízase al REGISTRO NACIONAL DE ARMAS a celebrar convenios con entes especializados que cuenten con los  elementos  técnicos necesarios para la realización de análisis físico-químicos y  ensayos balísticos para el control de explosivos y armamentos."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5 - Sustitúyense los Decretos Nros. 8.731 del 11 de diciembre de 1972, 395 del 20  de  febrero  de  1975, 302 del 8 de febrero de 1983 y 2310 del 8 de setiembre de 1983  y  sus  modificatorias,  de modo  tal  que  en  donde  se  mencione  a la \"DIRECCION GENERAL DE FABRICACIONES  MILITARES\" se reemplace por  \"REGISTRO  NACIONAL  DE ARMAS\"."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6 - El presente  Decreto  entrará en vigencia a partir del 1 de enero de 2001."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7 - Comuníquese, publíquese,  dése  a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "DE LA RUA-Colombo-López Murphy-Machinea"
+      },
+      "id-infojus": "DN20010000037"
+    }
+  }
+}

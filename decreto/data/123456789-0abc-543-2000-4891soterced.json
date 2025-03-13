@@ -1,0 +1,630 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-543-2000-4891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992420378,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "2345-nacional-decreto-reglamentario-ley-22817-sobre-promocion-agropecuaria-dn19840002345-1984-08-02"
+      }
+    },
+    "content": {
+      "mecanografico": 19840002345,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 2345,
+      "timestamp": "2014-07-18T22:37:33",
+      "timestamp-m": "2014-07-18T22:37:33",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1984-08-02",
+      "standard-normativo": "DEC C 002345 1984 08 02",
+      "titulo-norma": "DECRETO REGLAMENTARIO LEY 22.817 SOBRE PROMOCION AGROPECUARIA",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1984 08 03"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 2.345/1984",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2014-07-18",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA EL REGIMEN TRIBUTARIO DE LA PRODUCCION AGROPECUARIA ESTABBLECIDO POR LEY 22.817",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 022817 1983 05 26 0001 000 0003 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "promoción agropecuaria"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción/promoción agropecuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "fomento agrícola",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regímenes de promoción"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política productiva/regímenes de promoción"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "actividad agropecuaria"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "explotaciones agropecuarias"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/explotaciones agropecuarias"
+            },
+            "sinonimos": {
+              "termino": [
+                "estancias",
+                "establecimientos agricolaganaderos",
+                "ganadería",
+                "agricultura",
+                "establecimientos rurales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "beneficios tributarios"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "beneficios impositivos",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "exenciones impositivas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios/exenciones impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "franquicias tributarias",
+                "exenciones tributarias",
+                "derecho fiscal",
+                "exención de pago del impuesto",
+                "beneficios impositivos",
+                "derecho público fiscal",
+                "exenciones de tasas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuesto al valor agregado"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/IVA"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "impuesto al valor agregado",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuesto sobre los capitales"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuesto sobre los capitales"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuesto a las ganancias"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuesto a las ganancias"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección General Impositiva"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/AFIP/AFIP DGI"
+            },
+            "sinonimos": {
+              "termino": [
+                "Administración Federal de Ingresos Públicos",
+                "DGI",
+                "Administración Federal de Ingresos Públicos Dirección General Impositiva",
+                "Dirección General Impositiva"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fisco nacional",
+            "AFIP",
+            "Derecho Tributario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "Derecho tributario y aduanero",
+            "exención de pago del impuesto (exenciones impositivas)",
+            "tributos",
+            "promoción agropecuaria",
+            "política económica",
+            "derecho fiscal (Derecho Tributario)",
+            "franquicias tributarias (exenciones impositivas)",
+            "Economía y finanzas",
+            "Derecho administrativo",
+            "DGI (AFIP DGI)",
+            "derecho financiero (Economía y finanzas)",
+            "gravámenes (tributos)",
+            "exenciones de tasas (exenciones impositivas)",
+            "explotaciones agropecuarias",
+            "derecho económico financiero (Economía y finanzas)",
+            "Administración Federal de Ingresos Públicos Dirección General Impositiva (AFIP DGI)",
+            "exenciones impositivas",
+            "crédito fiscal",
+            "impuesto a las ganancias",
+            "acto administrativo",
+            "política productiva",
+            "beneficios tributarios",
+            "decreto reglamentario",
+            "impuesto sobre los capitales",
+            "estancias (explotaciones agropecuarias)",
+            "ganadería (actividad agropecuaria)",
+            "reglamentos",
+            "establecimientos agricolaganaderos (explotaciones agropecuarias)",
+            "derecho público fiscal (Derecho Tributario)",
+            "AFIP DGI",
+            "agricultura (actividad agropecuaria)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "IVA",
+            "Dirección General Impositiva (AFIP DGI)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "Actividades económicas",
+            "establecimientos rurales (explotaciones agropecuarias)",
+            "regímenes de promoción",
+            "beneficios impositivos (beneficios tributarios)",
+            "actividad agropecuaria",
+            "Administración Federal de Ingresos Públicos (AFIP)",
+            "impuestos",
+            "exenciones tributarias (exenciones impositivas)",
+            "fomento agrícola (promoción agropecuaria)",
+            "impuesto al valor agregado (IVA)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+          }
+        },
+        "texto": "La sanción de la ley 22.817, y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que, en virtud de la misma, resulta necesario el dictado de las correspondientes normas reglamentarias."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022817 1983 05 26 0001 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- A los fines establecidos en el articulo 1 de la ley 22.817, revisten la  calidad  de  productores agropecuarios quienes realicen actividades de producción  agrícola,  ganadera  - incluido caza y pesca -, forestal y de granja."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO 2.- Se entenderá  que  las  locaciones  o servicios son inherentes  a las explotaciones agropecuarias cuando se  presten  o realicen  directamente  sobre  los  bienes  que  el  prestatario  o locatario tenga  afectados  a  la  explotación  y  en  tanto  estén referidos a las siguientes actividades:\n\na)  Investigación y mejoramiento genético de las especies vegetales y animales.\n\nb) Trabajos  preparados  o  coordinados  por  ingenieros agrónomos, médicos  veterinarios  u  otros  profesionales  con    títulos   de competencia similar.\n\nc)   Habilitación  y  preparación  de  la  tierra,  implantación  y conservación  de  los  cultivos o productos forestales, así como el manejo y sanidad de los semovientes.\n\nd) Cosecha, apeo, zafra,  recolección,  obtención  y  extracción de los productos agropecuarios.\n\ne)    Manipuleo,   modificación,  acondicionamiento,  conservación, limpieza y clasificación  de  los  productos  agropecuarios y todos aquellos que correspondan a las etapas previas a la comercialización del producto primario.\n\nSe entenderá por producto primario:\n\n1.-   En  los  cultivos  en  general,  incluidos  las  producciones forestales,  el obtenido del procedimiento de cosecha, recolección, zafra o apeo de  acuerdo  a  lo que corresponda a la especie de que se  trate,  salvo  aquéllos  que requieran,  indefectiblemente,  un proceso previo a la salida del  establecimiento  productor  para su comercialización primaria.\n\n2.- En aquéllos de origen animal, a los ejemplares destinados  a la venta,  cualquiera sea su especie, sexo, edad o terminación y a los productos  obtenidos  tal  cual  como  se los extrae o recoge en el establecimiento  rural  productor  a  excepción   de  aquellos  que requieran  indefectiblemente  un  proceso  previo a la  salida  del mismo para su comercialización primaria."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 020631 1973 12 27 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "ARTICULO 3.- Las operaciones que correspondan a las actividades detalladas en los artículos 1 y 2, estarán condicionadas por los requisitos  que para cada caso establezca el artículo 26 de la Ley de impuestos al valor agregado."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "TOR C 020631 1997 03 26 0008 000 0008 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "TOR C 020631 1997 03 26 0009 000 0009 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "TOR C 020631 1997 03 26 0010 000 0010 000"
+              }
+            ]
+          },
+          "numero-articulo": 4,
+          "texto": "ARTICULO 4.- La medida de la afectación de las adquisiciones incluido bienes de uso- destinadas a  las  actividades beneficiadas por  la  ley  22.817,  será  determinada de conformidad con lo dispuesto  por  los  artículos  8,9  y  10 de la ley de impuesto al valor  agregado, texto ordenado en 1977 y  sus  modificaciones,  en cuanto se  refieran  a  operaciones gravadas, exentas o no gravadas del mencionado gravamen."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  El  cómputo  del  crédito  fiscal  proveniente de la adquisición de bienes de uso, como pago a cuenta de  los  impuestos aludidos,  deberá  practicarse  en función de un tercio por período fiscal,  pudiendo asignarse dicho  tercio  a  cualquier  obligación tributaria  comprendida  en  el  artículo  7  del presente decreto."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 020628 1973 12 27 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 021287 1983 05 26 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 6,
+          "texto": "ARTICULO 6.- El importe a computar en concepto de pago a cuenta, se imputará al impuesto a las ganancias o al impuesto sobre los capitales, atendiendo a la proporción resultante  de las utilidades netas    originadas    en  actividades,  servicios  y/o  locaciones beneficiadas o al capital  afectado  a las mismas, respectivamente.\n\nEn el caso del impuesto a las ganancias,  la  precitada  proporción resultará   de  relacionar  la  utilidad  neta  proveniente  de  la explotación,  locación  y/o  servicio  inherente  a  la  producción agropecuaria  período  fiscal.  No  obstante,  la Dirección General Impositiva podrá admitir otros procedimientos técnicamente razonables que posibiliten determinar adecuadamente dicha proporción."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 021287 1973 12 27 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 020628 1973 12 27 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 7,
+          "texto": "ARTICULO 7.- La opción que autoriza el artículo 1 de la Ley 22.817 podrá ejercerse,  en oportunidad de operarse el vencimiento general para la presentación  de las correspondientes declaraciones juradas de los impuestos a las  ganancias  o  sobre los capitales o en cada uno  de  los  respectivos anticipos, con relación  a  los  períodos fiscales comprendidos en el presente régimen.\n\nEjercida la opción  respecto  de  cualquiera  de  los anticipos del gravamen  elegido,  la  misma deberá mantenerse para los  restantes anticipos del respectivo  período fiscal, como así también, para la determinación final del tributo por el cual se optó."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.-  Cuando  fuera  de  aplicación  lo  establecido en el artículo 4 del presente decreto en lo relativo a adquisiciones  que se  destinen  indistintamente  a operaciones gravadas, exentas o no gravadas, cuya apropiación a unas  u  otras  no fuere posible, y se opte por imputar el pago a cuenta contra los anticipos correspondientes al perído fiscal, deberá considerarse  a los fines de  la  determinación  de  las  sumas  a  imputar, la medida de  la afectación  a  que alude el mencionado artículo  pero  referida  al ejercicio fiscal  inmediato  anterior, sin perjuicio del ajuste que corresponda  practicar  en  la  oportunidad  y  en  función  de  la determinación final del impuesto."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO  9.-  Cuando  se  opte por imputar el pago a cuenta contra los anticipos correspondientes  al  período  fiscal  en  curso,  se atenderá  a  la  proporción  resultante  de  las  utilidades  netas originadas en actividades, servicios y/o locaciones beneficiadas  o al  capital  afectado  a  las mismas, respectivamente, referidos al ejercicio fiscal inmediato  anterior  al  de  la  imputación.\n\nNo  obstante,  la  Dirección General Impositiva podrá admitir otros procedimientos técnicamente  razonables  que posibiliten determinar adecuadamente el límite de los anticipos afectados  a  la actividad beneficiada.\n\nLas  diferencias  que pudieren producirse como consecuencia  de  la aplicación del artículo  6  del  presente  en  relación  al  método indicado  precedentemente,  serán  ajustadas  en  oportunidad  y en función de la determinación final del impuesto."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 020628 1973 12 27 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 021287 1976 04 02 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 10,
+          "texto": "ARTICULO 10.- Los montos del impuesto al valor agregado a que se refiere la ley 22.817 que se pueden computar como pago a cuenta, no  podrán  ser  utilizados a los efectos de cancelar intereses, actualizaciones y/o multas y demás accesorios que pudieran corresponder, con relación  a los impuestos a las ganancias y sobre los capitales."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022817 1983 05 26 0001 000 0000 000"
+            }
+          },
+          "numero-articulo": 11,
+          "texto": "ARTICULO 11.- A los fines establecidos en el punto 2, del inciso d) del artículo 1 de la Ley 22.817, se entenderá por adquisiciones realizadas  en  el  mercado   interno  toda  compra,  prestación  o locación de servicios u obras."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 020631 1973 12 27 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 12,
+          "texto": "ARTICULO 12.- Sin perjuicio de las condiciones impuestas por la ley 22.817 y este reglamento, el importe contenido en las adquisiciones a las que alude el artículo anterior generará el derecho al cómputo siempre que se cumplan las siguientes condiciones:\n\na) Los proveedores, prestadores y/o locadores deberán revestir la calidad de responsables inscriptos en el impuesto al valor agregado.\n\nb) Las  operaciones  que  se  efectúen  deberán  contar  con  la respectiva  factura  o  documento  equivalente,  los cuales deberán reunir  en  forma  integral  los  requisitos  establecidos  en  las disposiciones vientes con relación a emisión de  comprobantes.\n\nc)  De  tratarse  de adquirientes, prestatarios y/o locatarios  que revistan, con relación  al  impuesto  al valor agregado, la calidad de  consumidores  finales  exentos o no gravados  por  el  referido gravamen,  los  comprobantes  emitidos    de   conformidad  con  lo dispuesto  en el inciso anterior deberán expresar  el  importe  del impuesto al valor agregado contenido en el precio facturado. A tales efectos, corresponderá consignar en los aludidos documentos la expresión \"Ley 22.817 -Impuesto al valor agregado- $a............\"."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "TOD C 020631 1977 12 29 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "TOD C 000499 1979 03 01 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "TOR C 000499 1979 03 01 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 13,
+          "texto": "ARTICULO  13.- Cuando de las operaciones que originan el derecho al cómputo respectivo,  se generen gastos financieros -entiéndese como tales los comprendidos  en  el  artículo 6 de la Ley de impuesto al valor agregado, texto ordenado en  1977  y  sus  modifiaciones-, el impuesto  contenido en los mismos podrá ser utilizado  a  condición de  que se cumplan  los  requisitos  establecidos  en  el  artículo anterior.\n\nEn el  caso  de  que los gastos financieros fueran indeterminados o convenidos  con posterioridad  a  los  hechos  imponibles  que  los originen, será  de aplicación lo dispuesto en los artículos 11 y 12 del decreto Nro. 499/74, texto ordenado en 1979 y sus modificaciones."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 020631 1973 12 27 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "TOR C 011683 1978 12 01 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 14,
+          "texto": "ARTICULO 14.- De  operarse devoluciones, rescisiones, descuentos, bonificaciones o quitas, respecto de las adquisiciones que originaron el cómputo del impuesto  al  valor  agregado como pago a cuenta en los graávamenes comprendidos en el régimen de la ley 22.817, las diferencias que resulten por los conceptos mencionados deberán ser canceladas en efectivo con más las actualizaciones e intereses  que  pudieren  corresponder  salvo que existieren, al momento de haberse realizado la imputación respectiva,  créditos de impuesto  al valor agregado no utilizados al momento de verificarse las aludidas diferencias.\n\nLas actualizaciones e intereses previstos en el párrafo anterior, serán los establecidos por la ley 11.683, texto ordenado en 1978 y sus modificaciones."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 15,
+          "texto": "ARTICULO 15.- Aquellos contribuyentes comprendidos en la ley 22.817, que no se encuentren obligados - de acuerdo con las disposiciones tributarias vigentes - a efectuar el registro de sus adquisiciones por compras, prestaciones y/o locaciones de servicios y obras, deberán habilitar un registro especial en el cual corresponderá asentar todos los comprobantes relacionados con dichas operaciones que generen el derecho al cómputo respectivo, a cuyo efecto la Direción General Impositiva dictará las disposiciones necesarias."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 020631 1973 12 27 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 020628 1973 12 27 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LEY C 021287 1976 04 02 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 16,
+          "texto": "ARTICULO 16.- La imputación como pago a cuenta de los montos de impuesto al valor agregado resultantes de las operaciones realizadas, en ningún caso generará saldos a favor del contribuyente.\n\nEl importe del impuesto al valor agregado utilizado  como  pago  a cuenta  de  los impuestos a las ganancias o sobre los capitales, no podrá ser computado  en la determinación de la materia imponible de ningún tributo nacional.\n\nDe existir importes de  impuesto  al valor agregado que no pudieron ser imputados, por haber sido totalmente  absorbida  la  obligación fiscal  del  período del impuesto elegido, tales excedentes  podrán afectar la determinación  de  la materia imponible de los impuestos mencionados en el párrafo anterior  en  el  ejercicio fiscal en qeu se han producido las adquisiciones."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022817 1983 05 26 0001 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "TOR C 011683 1978 12 01 0118 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 17,
+          "texto": "ARTICULO 17.- La actualización prevista en el tercer párrafo del punto 1 del inciso d) del artículo 1 de la ley 22.817, se practicará utilizando  la  tabla confeccionada mensualmente por la Dirección General Impositiva de acuerdo con lo establecido por el artículo 118 de la ley 11.683, texto ordenado en 1978 y sus modificaciones."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022817 1983 05 26 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 022371 1981 01 13 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 18,
+          "texto": "ARTICULO 18.- Los beneficios establecidos por la Ley N. 22.817, resultan incompatibles, respecto del mismo bien, con los otorgados por la Ley N. 22.371, por el importe del impuesto al valor agregado efectivamente utilizado en virtud de lo dispuesto por la Ley N. 22.817.\n\nEn los casos previstos en el primer párrafo, el monto a considerar a los efectos del reembolso fiscal dispuesto por la Ley N. 22.371, será el que resulte de deducir del precio total el importe del impuesto al valor agregado efectivamente utilizado a los efectos de la Ley N. 22.817.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "SUSTITUYE (B.O. 13-12-1985)",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 002349 1985 12 09 0001 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 13-12-1985)",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 002349 1985 12 09 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022817 1983 05 26 0001 000 0000 000"
+            }
+          },
+          "numero-articulo": 19,
+          "texto": "ARTICULO 19.- Los montos de impuesto al valor agregado a que se refiere el artículo 1 de la ley 22.817, serán  computados  contra las  obligaciones fiscales correspondientes previa imputación a  la respectiva  obligación  de los demás pagos que dispongan las normas vigentes para cada tributo."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "ARTICULO 20.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "ALFONSIN - GRINSPUN"
+      },
+      "id-infojus": "DN19840002345"
+    }
+  }
+}

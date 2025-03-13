@@ -1,0 +1,308 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-320-1000-2991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992334963,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1023-nacional-decreto-reglamentario-sobre-indemnizaciones-personas-puestas-disposicion-poder-ejecutivo-detenidas-tribunales-militares-antes-10-12-83-dn19920001023-1992-06-24"
+      }
+    },
+    "content": {
+      "mecanografico": 19920001023,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1023,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1992-06-24",
+      "standard-normativo": "DEC C 001023 1992 06 24",
+      "titulo-norma": "DECRETO REGLAMENTARIO SOBRE INDEMNIZACIONES A PERSONAS PUESTAS A DISPOSICION DEL PODER EJECUTIVO O DETENIDAS POR TRIBUNALES MILITARES ANTES DEL 10/12/83.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1992 06 29"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "SUSTITUYE ART. 4 DE LA REGLAMENTACION (B.O. 97-03-17)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 000205 1997 03 12 0001 000"
+          },
+          {
+            "cr": "INCORPORA ART. 8 DE LA REGLAMENTACION (B.O. 97-03-17)",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 000205 1997 03 12 0002 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.023/92",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2011-08-16",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 24.043 QUE OTORGA INDEMNIZACIONES A LAS PERSONAS PUESTAS A DISPOSICION DEL PODER EJECUTIVO DURANTE EL ESTADO DE SITIO O QUE HUBIERAN SUFRIDO DETENCION POR ACTOS EMANADOS DE TRIBUNALES MILITARES ANTES DEL 10 DE DICIEMBRE DE 1983.",
+        "anexos-decreto": {
+          "anexo-ley": "0000IA REGLAMENTACION DE LA LEY 24.043"
+        },
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 024043 1991 11 27 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios/indemnización"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por daños",
+                "indemnización del daño",
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "arresto a disposición del Poder Ejecutivo Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/estado de sitio/puesta a disposición del Poder Ejecutivo Nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "arresto político",
+                "detención ilegal",
+                "arresto a disposición del Poder Ejecutivo Nacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "estado de sitio"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/estado de sitio"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "tribunales militares"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/justicia militar/tribunales militares"
+            },
+            "sinonimos": {
+              "termino": [
+                "tribunales militares en tiempo de paz",
+                "competencia militar",
+                "fuero militar",
+                "fuero castrense",
+                "jurisdicción militar",
+                "tribunales militares en tiempo de guerra"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "daños y perjuicios"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "demandas contra la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/etapas del proceso/demanda/juicios contra el Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "demanda contra el fisco",
+                "desarrollo del juicio",
+                "demandas contra la Nación",
+                "demandas contra el Estado",
+                "etapas procesales",
+                "juicios contra el Estado provincial",
+                "demandas contra el Estado Provincial"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "puesta a disposición del Poder Ejecutivo Nacional",
+            "decreto reglamentario",
+            "demanda contra el fisco (juicios contra el Estado)",
+            "etapas procesales (etapas del proceso)",
+            "justicia militar",
+            "reglamento de ejecución (decreto reglamentario)",
+            "estado de sitio",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "reglamentos",
+            "daños y pérdidas (daños y perjuicios)",
+            "juicios contra el Estado",
+            "competencia militar (justicia militar)",
+            "juicios contra el Estado provincial (juicios contra el Estado)",
+            "fuero castrense (justicia militar)",
+            "arresto a disposición del Poder Ejecutivo Nacional (puesta a disposición del Poder Ejecutivo Nacional)",
+            "Derecho procesal",
+            "derecho militar",
+            "demandas contra el Estado Provincial (juicios contra el Estado)",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "fuero militar (justicia militar)",
+            "daños y perjuicios",
+            "Derecho civil",
+            "Derecho administrativo",
+            "indemnización del daño (indemnización)",
+            "Derecho de daños (responsabilidad civil)",
+            "demandas contra la Nación (juicios contra el Estado)",
+            "responsabilidad por daños (responsabilidad civil)",
+            "arresto político (puesta a disposición del Poder Ejecutivo Nacional)",
+            "tribunales militares en tiempo de guerra (tribunales militares)",
+            "tribunales militares en tiempo de paz (tribunales militares)",
+            "Defensa nacional",
+            "tribunales militares",
+            "demandas contra el Estado (juicios contra el Estado)",
+            "indemnización",
+            "Derecho constitucional",
+            "demanda",
+            "jurisdicción militar (justicia militar)",
+            "acto administrativo",
+            "etapas del proceso",
+            "indemnización por daños (indemnización)",
+            "responsabilidad civil",
+            "desarrollo del juicio (etapas del proceso)",
+            "detención ilegal (puesta a disposición del Poder Ejecutivo Nacional)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "DEC C 002722 1991 12 23 0000 000 0000 000"
+          }
+        },
+        "texto": "la Ley N. 24.043 y el Decreto N. 2722/91, y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que la citada norma legal otorga un beneficio indemnizatorio a las personas  que  durante la vigencia del estado de sitio hubieran sido puestas a disposición  del  PODER  EJECUTIVO NACIONAL por acto emanado de éste o hubieran sufrido detención  en  virtud  de  actos emanados  de Tribunales Militares antes del 10 de diciembre de 1983.\n\nQue el artículo  6  de la ley citada establece que las solicitudes para acogerse al beneficio  que  ella  reconoce  deberán efectuarse bajo  apercibimiento  de  caducidad  dentro  de los CIENTO  OCHENTA (180) días de la fecha de su entrada en vigencia.\n\nQue ello implica la necesidad de dar una urgente  respuesta  a los beneficiados,  lo  que  hace  necesario establecer con claridad las pautas  de procedimiento tendientes  a  regular  su  implementación.\n\nQue  la  presente  medida  se  dicta  en  uso  de  las  facultades conferidas  por  el  artículo  86,  inciso  2)  de  la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art. 1: Apruébase el texto de la reglamentación de la Ley N.24 043 que  como  Anexo I forma parte integrante del presente decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - MANZANO"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "REGLAMENTACION DE LA LEY 24.043",
+        "articulo": [
+          {
+            "numero-articulo": 1,
+            "texto": "ARTICULO 1: Sin reglamentar."
+          },
+          {
+            "numero-articulo": 2,
+            "texto": "ARTICULO  2:  A  efectos  de  posibilitar  la acreditación del requisito  del  inciso b) del artículo 2, los organismos  oficiales deberán evacuar los  informes  que  le  solicite  la  autoridad  de aplicación  en  un  plazo  que no podrá exceder de VEINTE (20) días hábiles."
+          },
+          {
+            "numero-articulo": 3,
+            "texto": "ARTICULO  3: La solicitud del beneficio establecido por la ley deberá presentarse  en  la  DIRECCION  NACIONAL DE DERECHOS HUMANOS del MINISTERIO DEL INTERIOR.\n\nEn caso que el beneficiario o sus derecho-habientes  residieran en el  exterior,  podrán  presentar  la solicitud en la representación diplomática  argentina  acreditada  en    el  país  en  el  que  se encuentren, la que certificará la identidad  y  dará fecha cierta a la solicitud, debiendo girarla legalizada por la vía correspondiente  al  MINISTERIO  DEL INTERIOR para su  trámite.  De igual manera se procederá para el  pago posterior del beneficio, el que será girado por el MINISTERIO DEL  INTERIOR a la representación diplomática  correspondiente,  a  la  orden  del  beneficiario.\n\nLa  mencionada solicitud deberá contener  una  declaración  jurada firmada  por  el  beneficiario  o  sus derechos-habientes en la que manifieste que ha sido privado de su  libertad  por disposición del PODER  EJECUTIVO  NACIONAL  o en  razón  de  actos  emanados    de Tribunales  Militares  durante el período comprendido entre el 6 de noviembre de 1974 y el 10  de  diciembre  de  1983. Asimismo, en la declaración  deberá  constar  que no se ha percibido  indemnización alguna en virtud de sentencia judicial,  con  motivo  de los hechos contemplados en la ley.\n\nLa  falsedad  de  dicha  declaración  jurada hará incurrir  en  el delito  contemplado en el artículo 293, siguientes  y  concordantes del Código Penal."
+          },
+          {
+            "numero-articulo": 4,
+            "texto": "* ARTICULO 4: Para el cómputo del lapso indemnizable en los casos de arresto  efectivo no dispuesto por orden de autoridad competente se aceptarán los siguientes medios probatorios:\n\na) Copia de la presentación del recurso  de  Hábeas Corpus o de la sentencia recaída en el mismo.\n\nb) Informes  o constancias emanadas de autoridad  competente.\n\nLa SUBSECRETARIA DE DERECHOS HUMANOS Y SOCIALES del MINISTERIO DEL INTERIOR expedirá las constancias respecto de los hechos denunciados y que obren en el Archivo de la Comisión Nacional sobre la Desaparición de Personas (CONADEP) y en los Legajos de Denuncias que se encuentran bajo su custodia.\n\nc) Documentación obrante en expedientes judiciales y administrativos.\n\nd) Documentación obrante en la Comisión de Derechos Humanos de la Organización de Estados Americanos, y de la Corte Interamericana de Derechos Humanos.\n\nLa documentación obrante en instituciones nacionales e internacionales de defensa de los derechos humanos, los artículos periodísticos y el material bibliográfico concordante, se evaluarán con el conjunto de las pruebas producidas.\n\nCuando de la prueba producida no surgiere en forma indubitable la identidad del beneficiario, o el lapso de detención efectivamente sufrido, podrá acreditarse mediante declaración judicial (información sumaria) la cual podrá ser corroborada por la autoridad de aplicación.\n\nPor lesiones  gravísimas  se  entenderán   las  previstas  en  el artículo  91  del Código Penal. A efectos de acreditar  que  dichas lesiones se produjeron  durante  la  detención  se  requerirá  como medios  de  prueba, algunos  de  los  que se enuncian a continuación:\n\na) Historia Clínica del lugar de detención.\n\nb)  Copia  de  la  sentencia  judicial  que  las  haya  tenido por acreditadas.\n\nc)  Historia  médica o clínica con fecha correspondiente al  lapso del  beneficio  emanada   por  institución  de  salud  oficial.\n\nd) En caso de ser necesario se dispondrá la realización de una Junta Médica, a cuyo fin se faculta a la SUBSECRETARIA DE DERECHOS HUMANOS Y SOCIALES del MINISTERIO DEL INTERIOR a celebrar convenios con Hospitales Nacionales, Provinciales o Municipales.\n\nEn todos los casos la documentación deberá acompañarse autenticada por  la  autoridad  de  expedición."
+          },
+          {
+            "numero-articulo": 5,
+            "texto": "ARTICULO  5:  Los  derecho-habientes  del detenido fallecido o declarado ausente con presunción de fallecimiento  según el régimen de  la  Ley N.14.394, podrán solicitar el beneficio acreditando  el vínculo con la  respectiva  partida,  y/o  eventualmente,  con  el testamento  si  existiere.  El monto de la indemnización deberá ser depositado en el Banco que correspondiere  a  cuenta  y  orden  del Juzgado  interviniente  y  como pertenecientes a la sucesión de que se trate."
+          },
+          {
+            "numero-articulo": 6,
+            "texto": "ARTICULO 6: Sin reglamentar."
+          },
+          {
+            "numero-articulo": 7,
+            "texto": "ARTICULO 7: Sin reglamentar."
+          },
+          {
+            "numero-articulo": 8,
+            "texto": "* ARTICULO 8: La SUBSECRETARIA DE DERECHOS HUMANOS Y SOCIALES del MINISTERIO DEL INTERIOR verificará el cumplimiento de los requisitos exigidos para el otorgamiento del beneficio y determinará el período indemnizable."
+          },
+          {
+            "numero-articulo": 9,
+            "texto": "ARTICULO 9: Sin reglamentar."
+          }
+        ]
+      },
+      "id-infojus": "DN19920001023"
+    }
+  }
+}

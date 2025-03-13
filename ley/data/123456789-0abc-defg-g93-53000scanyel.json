@@ -1,0 +1,1419 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g93-53000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1667325445858,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23737-nacional-regimen-penal-estupefacientes-lns0003539-1989-09-21"
+      }
+    },
+    "content": {
+      "mecanografico": "S0003539",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "REGLAMENTA ARTICULO 39",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 001148 1991 06 18 0000 000 0000 000"
+        }
+      },
+      "numero-norma": 23737,
+      "timestamp": "2022-11-01T14:16:24",
+      "timestamp-m": "2022-11-01T14:16:24",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1989-09-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023737 1989 09 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "*LEY 23.737",
+          "BUENOS AIRES, 21 DE SEPTIEMBRE DE 1989"
+        ]
+      },
+      "titulo-norma": "REGIMEN PENAL DE ESTUPEFACIENTES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1989 10 11"
+        }
+      },
+      "sancion": "EL  SENADO  Y CÁMARA DE DIPUTADOS DE LA NACIÓN ARGENTINA REUNIDOS EN CONGRESO, ETC. SANCIONAN CON FUERZA DE LEY:",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.737",
+      "estado": "Vigente, de alcance general",
+      "analista": "Rocca, Adriana",
+      "fecha-alta": "1997-07-21",
+      "fecha-mod": "2022-11-01",
+      "responsable": "Rocca, Adriana",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DERECHO PENAL-CODIGO PENAL-PREPARACION,IMPORTACION,EXPORTACION, DISTRIBUCION Y VENTA DE ESTUPEFACIENTES-RESPONSABILIDAD DE LOS MEDICOS COMERCIO DE ESTUPEFACIENTES-RECUPERACION DE LOS ADICTOS A LOS ESTUPEFACIENTES-MODIFICA CODIGO PENAL Y LEYES 10.903,20.655 Y 20.771"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "estupefacientes"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes"
+            },
+            "sinonimos": {
+              "termino": [
+                "sustancias psicotrópicas",
+                "psicotrópicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "uso indebido de estupefacientes"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/uso indebido de estupefacientes"
+            },
+            "sinonimos": {
+              "termino": [
+                "sustancias psicotrópicas",
+                "psicotrópicos",
+                "uso indebido de drogas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "narcotráfico"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/tráfico de estupefacientes/narcotráfico"
+            },
+            "sinonimos": {
+              "termino": [
+                "sustancias psicotrópicas",
+                "tráfico internacional de estupefacientes",
+                "psicotrópicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pena"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena"
+            },
+            "sinonimos": {
+              "termino": "sanción penal"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pena privativa de la libertad"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/pena privativa de la libertad"
+            },
+            "sinonimos": {
+              "termino": [
+                "sanción penal",
+                "privación de la libertad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "multa (penal)"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/multa/multa penal"
+            },
+            "sinonimos": {
+              "termino": [
+                "multa (penal)",
+                "sanción penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inhabilitación especial"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/pena de inhabilitación/inhabilitación especial"
+            },
+            "sinonimos": {
+              "termino": [
+                "inhabilitación (penal)",
+                "sanción penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cultivo ilegal de estupefacientes"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/tráfico de estupefacientes/cultivo ilegal de estupefacientes"
+            },
+            "sinonimos": {
+              "termino": [
+                "sustancias psicotrópicas",
+                "tráfico internacional de estupefacientes",
+                "psicotrópicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tenencia con fines de comercialización"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/tráfico de estupefacientes/comercialización ilegal de estupefacientes"
+            },
+            "sinonimos": {
+              "termino": [
+                "tenencia con fines de comercialización",
+                "sustancias psicotrópicas",
+                "tráfico internacional de estupefacientes",
+                "psicotrópicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "entrega de estupefacientes a título gratuito"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/tráfico de estupefacientes/entrega de estupefacientes/entrega de estupefacientes a título gratuito"
+            },
+            "sinonimos": {
+              "termino": [
+                "sustancias psicotrópicas",
+                "tráfico internacional de estupefacientes",
+                "psicotrópicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "responsabilidad médica"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/responsabilidad civil/responsabilidades especiales/responsabilidad profesional/responsabilidad médica"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "obligaciones y contratos",
+                "responsabilidad del médico",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "facilitación de lugares o elementos"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/facilitación de lugares o elementos"
+            },
+            "sinonimos": {
+              "termino": [
+                "sustancias psicotrópicas",
+                "psicotrópicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agravantes de la pena"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/agravantes de la pena"
+            },
+            "sinonimos": {
+              "termino": [
+                "agravantes",
+                "sanción penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "apología del delito"
+            },
+            "preferido": {
+              "termino": "Derecho penal/delitos contra el orden público/apología del delito"
+            },
+            "sinonimos": {
+              "termino": [
+                "delitos contra la tranquilidad pública",
+                "apología del crimen"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tenencia para consumo personal"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/tenencia de estupefacientes/tenencia de estupefacientes para consumo personal"
+            },
+            "sinonimos": {
+              "termino": [
+                "sustancias psicotrópicas",
+                "tenencia para consumo personal",
+                "psicotrópicos",
+                "tenencia de estupefacientes para uso personal",
+                "tenencia simple de estupefacientes"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "condena condicional"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/condena condicional"
+            },
+            "sinonimos": {
+              "termino": [
+                "condena de ejecución condicional",
+                "sanción penal",
+                "pena en suspenso"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "medidas de seguridad curativas"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/procesos de ejecución/ejecución de sentencia/ejecución de sentencia penal/medidas de seguridad/medidas de seguridad curativas"
+            },
+            "sinonimos": {
+              "termino": [
+                "actio judicate",
+                "juicios de ejecución",
+                "juicios ejecutorios",
+                "actio iudicati",
+                "actio judicati"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "rehabilitación de drogadictos"
+            },
+            "preferido": {
+              "termino": "Salud pública/programas de rehabilitación/rehabilitación de drogadictos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "medidas de seguridad educativas"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/procesos de ejecución/ejecución de sentencia/ejecución de sentencia penal/medidas de seguridad/medidas de seguridad educativas"
+            },
+            "sinonimos": {
+              "termino": [
+                "actio judicate",
+                "juicios de ejecución",
+                "juicios ejecutorios",
+                "actio iudicati",
+                "actio judicati"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "prescripción"
+            },
+            "preferido": {
+              "termino": "Derecho civil/prescripción"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen de la prescripción",
+                "prescripción de la acción",
+                "prescripción liberatoria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Registro Nacional de Reincidencia y Estadística Criminal y Carcelaria"
+            },
+            "preferido": {
+              "termino": "REGISTRO NACIONAL DE REINCIDENCIA Y ESTADÍSTICA CRIMINAL"
+            },
+            "sinonimos": {
+              "termino": [
+                "REGISTRO NACIONAL DE REINCIDENCIA",
+                "Registro Nacional de Reincidencia y Estadística Criminal y Carcelaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "coqueo"
+            },
+            "preferido": {
+              "termino": "Derecho penal/estupefacientes/coqueo"
+            },
+            "sinonimos": {
+              "termino": [
+                "masticación de coca",
+                "sustancias psicotrópicas",
+                "psicotrópicos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "blanqueo de dinero"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica/política monetaria/ingreso de divisas/exteriorización de capitales"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "blanqueo de dinero",
+                "blanqueo de activos",
+                "exteriorización voluntaria de la tenencia de moneda extranjera en el país y en el exterior",
+                "derecho económico financiero",
+                "blanqueo de capitales",
+                "sinceramiento fiscal",
+                "blanqueo de divisas",
+                "ingreso de capitales",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "receta médica falsa"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos/expendio de medicamentos/receta médica falsa"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "comercialización de medicamentos",
+                "productos para la salud",
+                "productos farmacéuticos",
+                "falsificación de receta médica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "prueba"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/etapas del proceso/etapa probatoria/prueba"
+            },
+            "sinonimos": {
+              "termino": [
+                "desarrollo del juicio",
+                "etapas procesales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "competencia territorial"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/jurisdicción y competencia/competencia/competencia por el territorio"
+            },
+            "sinonimos": {
+              "termino": [
+                "autoridad competente",
+                "juez incompetente",
+                "competencia por el lugar",
+                "competencia territorial",
+                "juez competente",
+                "tribunal competente",
+                "competencia jurisdiccional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "prórroga de la competencia"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/jurisdicción y competencia/competencia/prórroga de la competencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "prórroga de la jurisdicción",
+                "autoridad competente",
+                "juez incompetente",
+                "juez competente",
+                "tribunal competente",
+                "competencia jurisdiccional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "competencia federal"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/jurisdicción y competencia/competencia/competencia federal"
+            },
+            "sinonimos": {
+              "termino": [
+                "justicia federal",
+                "autoridad competente",
+                "jurisdicción federal",
+                "juez incompetente",
+                "fuero federal",
+                "competencia del fuero federal",
+                "juez federal",
+                "juez competente",
+                "tribunal competente",
+                "competencia jurisdiccional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Registro Nacional de Precursores Químicos"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria química/sustancias químicas/precursores químicos/Registro Nacional de Precursores Químicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos químicos",
+                "productos industriales",
+                "industria"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "etapas procesales (etapas del proceso)",
+            "sustancias químicas",
+            "ejecución de sentencia penal",
+            "productos industriales (actividad industrial)",
+            "etapa probatoria",
+            "inhabilitación especial",
+            "sustancias psicotrópicas (estupefacientes)",
+            "cultivo ilegal de estupefacientes",
+            "responsabilidades especiales",
+            "entrega de estupefacientes",
+            "actio judicati (ejecución de sentencia)",
+            "prueba",
+            "prórroga de la jurisdicción (prórroga de la competencia)",
+            "industria (actividad industrial)",
+            "multa (penal) (multa penal)",
+            "Economía y finanzas",
+            "actividad industrial",
+            "REGISTRO NACIONAL DE REINCIDENCIA Y ESTADÍSTICA CRIMINAL",
+            "derecho financiero (Economía y finanzas)",
+            "tenencia para consumo personal (tenencia de estupefacientes para consumo personal)",
+            "condena de ejecución condicional (condena condicional)",
+            "psicotrópicos (estupefacientes)",
+            "competencia jurisdiccional (competencia)",
+            "tenencia de estupefacientes para uso personal (tenencia de estupefacientes para consumo personal)",
+            "agravantes de la pena",
+            "multa",
+            "prescripción liberatoria (prescripción)",
+            "blanqueo de capitales (exteriorización de capitales)",
+            "delitos contra el orden público",
+            "juez competente (competencia)",
+            "comercialización ilegal de estupefacientes",
+            "etapas del proceso",
+            "juez incompetente (competencia)",
+            "fuero federal (competencia federal)",
+            "competencia por el lugar (competencia por el territorio)",
+            "sanción penal (pena)",
+            "comercialización de medicamentos (expendio de medicamentos)",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "multa penal",
+            "actio iudicati (ejecución de sentencia)",
+            "competencia por el territorio",
+            "Derecho procesal",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "Derecho penal",
+            "jurisdicción federal (competencia federal)",
+            "estupefacientes",
+            "competencia territorial (competencia por el territorio)",
+            "Derecho civil",
+            "Actividades económicas",
+            "política monetaria",
+            "Derecho de daños (responsabilidad civil)",
+            "receta médica falsa",
+            "tráfico de estupefacientes",
+            "facilitación de lugares o elementos",
+            "especialidades farmacéuticas (medicamentos)",
+            "medicamentos",
+            "productos farmacéuticos (medicamentos)",
+            "uso indebido de drogas (uso indebido de estupefacientes)",
+            "programas de rehabilitación",
+            "masticación de coca (coqueo)",
+            "prescripción",
+            "condena condicional",
+            "responsabilidad del médico (responsabilidad médica)",
+            "privación de la libertad (pena privativa de la libertad)",
+            "productos médicos (medicamentos)",
+            "apología del delito",
+            "sinceramiento fiscal (exteriorización de capitales)",
+            "tribunal competente (competencia)",
+            "narcotráfico",
+            "exteriorización de capitales",
+            "desarrollo del juicio (etapas del proceso)",
+            "coqueo",
+            "autoridad competente (competencia)",
+            "productos para la salud (medicamentos)",
+            "tenencia de estupefacientes para consumo personal",
+            "tráfico internacional de estupefacientes (tráfico de estupefacientes)",
+            "ejecución de sentencia",
+            "tenencia simple de estupefacientes (tenencia de estupefacientes)",
+            "competencia",
+            "política económica",
+            "actio judicate (ejecución de sentencia)",
+            "prescripción de la acción (prescripción)",
+            "falsificación de receta médica (receta médica falsa)",
+            "productos químicos (sustancias químicas)",
+            "derechos personales",
+            "régimen de la prescripción (prescripción)",
+            "REGISTRO NACIONAL DE REINCIDENCIA (REGISTRO NACIONAL DE REINCIDENCIA Y ESTADÍSTICA CRIMINAL)",
+            "medidas de seguridad",
+            "responsabilidad por daños (responsabilidad civil)",
+            "derecho económico financiero (Economía y finanzas)",
+            "pena privativa de la libertad",
+            "Registro Nacional de Reincidencia y Estadística Criminal y Carcelaria (REGISTRO NACIONAL DE REINCIDENCIA Y ESTADÍSTICA CRIMINAL)",
+            "juez federal (competencia federal)",
+            "apología del crimen (apología del delito)",
+            "ingreso de divisas",
+            "responsabilidad civil",
+            "prórroga de la competencia",
+            "responsabilidad médica",
+            "entrega de estupefacientes a título gratuito",
+            "competencia del fuero federal (competencia federal)",
+            "procesos de ejecución",
+            "drogas (medicamentos)",
+            "medidas de seguridad curativas",
+            "expendio de medicamentos",
+            "medidas de seguridad educativas",
+            "industria química",
+            "uso indebido de estupefacientes",
+            "blanqueo de dinero (exteriorización de capitales)",
+            "blanqueo de activos (exteriorización de capitales)",
+            "competencia federal",
+            "rehabilitación de drogadictos",
+            "pena",
+            "agravantes (agravantes de la pena)",
+            "justicia federal (competencia federal)",
+            "juicios de ejecución (procesos de ejecución)",
+            "Registro Nacional de Precursores Químicos",
+            "Salud pública",
+            "pena de inhabilitación",
+            "responsabilidad profesional",
+            "inhabilitación (penal) (pena de inhabilitación)",
+            "blanqueo de divisas (exteriorización de capitales)",
+            "juicios ejecutorios (procesos de ejecución)",
+            "tenencia de estupefacientes",
+            "pena en suspenso (condena condicional)",
+            "exteriorización voluntaria de la tenencia de moneda extranjera en el país y en el exterior (exteriorización de capitales)",
+            "jurisdicción y competencia",
+            "delitos contra la tranquilidad pública (delitos contra el orden público)",
+            "fármacos (medicamentos)",
+            "especialidades medicinales (medicamentos)",
+            "obligaciones y contratos (derechos personales)",
+            "ingreso de capitales (ingreso de divisas)",
+            "precursores químicos",
+            "tenencia con fines de comercialización (comercialización ilegal de estupefacientes)"
+          ]
+        }
+      },
+      "generalidades": {
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 47 OBSERVACION: POR ART. 1 DE LA LEY 23.975 (B.O. 17/9/91) SE ESTABLECE QUE LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN LA PRESENTE LEY SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS, EXCEPTO LOS FIJADOS EN LOS ARTS. 2 Y 3.\n\nOBSERVACION VER ART. 10 LEY 24.316 (B.O. 19-05-94) POR EL CUAL SE ESTABLECE QUE LAS DISPOSICIONES DE LA LEY 24.316 NO ALTERARAN LOS REGIMENES ESPECIALES DISPUESTOS POR LA PRESENTE OBSERVACION VER DECRETO 262/98 QUE CREA LA OFICINA DE PROTECCION DE TESTIGOS E IMPUTADOS EN EL AMBITO DE LA SECRETARIA DE JUSTICIA (B.O. 18-03-98).",
+        "adherida-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "ADHERIDA_POR_0",
+            "ref": "LEY D 001081 1927 10 25 0001 000 0000 000"
+          }
+        }
+      },
+      "articulo": [
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": "SUSTITUIDO",
+              "id": "MODIFICA_A_0",
+              "ref": "CPE C 011179 1984 12 21 0204 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.- (Nota de redacción) (MODIFICA LEY 11.179 T.O. 84"
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": "INCORPORADO",
+              "id": "MODIFICA_A_0",
+              "ref": "CPE C 011179 1984 12 21 0204 002 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.- (Nota de redacción) (MODIFICA LEY 11.179 T.O. 84"
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": "INCORPORADO",
+              "id": "MODIFICA_A_0",
+              "ref": "CPE C 011179 1984 12 21 0204 003 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "*ARTICULO 3.- (Nota de redacción) (MODIFICA LEY 11.179 T.O. 84"
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": "INCORPORADO",
+              "id": "MODIFICA_A_0",
+              "ref": "CPE C 011179 1984 12 21 0204 004 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.- (Nota de redacción) (MODIFICA LEY 11.179 T.O. 64"
+        },
+        {
+          "numero-articulo": 5,
+          "antecedentes": {
+            "referencia-normativa": [
+              {
+                "cr": "B.O. 09/01/1995. Ultimo párrafo incorporado.",
+                "id": "ANTECEDENTES_0",
+                "ref": "LEY C 024424 1994 12 07 0001 000 0000 000"
+              },
+              {
+                "cr": "B.O. 31/08/2005. Ultimo párrafo incorporado.",
+                "id": "ANTECEDENTES_1",
+                "ref": "LEY C 026052 2005 07 27 0001 000 0000 000"
+              }
+            ]
+          },
+          "texto": "*Artículo 5°: Será reprimido con prisión de cuatro (4) a quince (15) años y multa de cuarenta y cinco (45) a novecientas (900) unidades fijas el que sin autorización o con destino ilegítimo:\n\na) Siembre o cultive plantas o guarde semillas, precursores químicos o cualquier otra materia prima para producir o fabricar estupefacientes, o elementos destinados a tales fines;\n\nb) Produzca, fabrique, extraiga o prepare estupefacientes;\n\nc) Comercie con estupefacientes, precursores químicos o cualquier otra materia prima para su producción o fabricación o los tenga con fines de comercialización, o los distribuya, o dé en pago, o almacene o transporte;\n\nd) Comercie con plantas o sus semillas, utilizables para producir estupefacientes, o las tenga con fines de comercialización, o las distribuya, o las dé en pago, o las almacene o transporte;\n\ne) Entregue, suministre, aplique o facilite a otros estupefacientes a título oneroso. Si lo fuese a título gratuito, se aplicará prisión de tres (3) a doce (12) años y multa de quince (15) a trescientas (300) unidades fijas.\n\nSi los hechos previstos en los incisos precedentes fueren ejecutados por quien desarrolla una actividad cuyo ejercicio dependa de una autorización, licencia o habilitación del poder público, se aplicará, además, inhabilitación especial de cinco (5) a quince (15) años.\n\nEn el caso del inciso a), cuando por la escasa cantidad sembrada o cultivada y demás circunstancias, surja inequívocamente que ella está destinada a obtener estupefacientes para consumo personal, la pena será de un (1) mes a dos (2) años de prisión y serán aplicables los artículos 17, 18 y 21.\n\nEn el caso del inciso e) del presente artículo, cuando la entrega, suministro o facilitación fuere ocasional y a título gratuito y por su escasa cantidad y demás circunstancias, surgiere inequívocamente que es para uso personal de quien lo recepta, la pena será de seis (6) meses a tres (3) años de prisión y, si correspondiere, serán aplicables los artículos 17, 18 y 21.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Sustituido.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0001 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Artículo 6°: Será reprimido con prisión de cuatro (4) a quince (15) años y multa de cuarenta y cinco (45) a novecientas (900) unidades fijas el que introdujera al país estupefacientes fabricados o en cualquier etapa de su fabricación, precursores químicos o cualquier otra materia prima destinada a su fabricación o producción, habiendo efectuado una presentación correcta ante la Aduana y posteriormente alterara ilegítimamente su destino de uso.\n\nEn estos supuestos la pena será de tres (3) a doce (12) años de prisión cuando surgiere inequívocamente, por su cantidad, que los mismos no serán destinados a comercialización dentro o fuera del territorio nacional.\n\nSi los hechos fueren realizados por quien desarrolle una actividad cuyo ejercicio depende de autorización, licencia o habilitación del poder público, se aplicará además inhabilitación especial de cinco (5) a veinte (20) años.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Sustituido.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0002 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "CAD C 022415 1981 03 02 0865 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "CAD C 022415 1981 03 02 0866 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 7,
+          "texto": "Artículo 7°: Será reprimido con prisión de ocho (8) a veinte (20) años y multa de noventa (90) a mil ochocientas (1.800) unidades fijas, el que organice o financie cualquiera de las actividades ilícitas a que se refieren los artículos 5° y 6° de esta ley, y los artículos 865, inciso h), y 866 de la ley 22.415",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Sustituido.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0003 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.-  Será reprimido con reclusión o prisión de tres a quince años y multa de  seis  mil  a  trescientos  mil  australes  e inhabilitación especial  de  cinco  a  doce  años,  el  que estando autorizado para la producción, fabricación, extracción, preparación,  importación,  exportación, distribución  o  venta  de estupefacientes    los   tuviese  en  cantidades distintas  de  las autorizadas; o prepare o  emplee compuestos naturales, sintéticos u oficinales que oculten o disimulen  sustancias  estupefacientes; y a que  aplicare,  entregare,  o  vendiere estupefacientes  sin  receta médica o en cantidades mayores a las recetadas.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO  9.-  Será  reprimido con prisión de dos a seis años y multa  de tres  mil  a cincuenta  mil  australes  e  inhabilitación especial  de  uno  a cinco  años,  el  médico  u  otro  profesional autorizado para recetar,  que prescribiera, suministrare o entregare estupefacientes fuera de los  casos  que  indica la terapéutica o en dosis  mayores  de  las  necesarias.  Si  lo hiciera   con  destino ilegítimo  la  pena de reclusión o prisión será de cuatro  a  quince años.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "ARTICULO  10.- Será reprimido con reclusinn o prisión de tres a doce años y multa  de  tres  mil  a  cincuenta  mil australes el que facilitare,  aunque sea  a título gratuito, un lugar  o  elementos, para que se lleve a cabo alguno  de  los  hechos  previstos  por los artículos  anteriores. La  misma pena se aplicará al que facilitare un  lugar  para  que  concurran  personas  con  el objeto  de  usar estupefacientes.\n\nEn caso que el lugar fuera un local  de  comercio,  se  aplicará  la accesoria de  inhabilitación para ejercer el comercio por el tiempo de la condena, la que se elevará al doble del tiempo de la misma si se tratare de un negocio de diversión.\n\nDurante la sustanciación  del  sumario  criminal  el juez competente podrá decretar preventivamente la clausura del local.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "ARTICULO  11.- Las penas previstas en los artículos precedentes serán aumentadas  en un tercio del máximo a la mitad del mínimo, sin que las mismas puedan  exceder el máximo legal de la especie de pena de que se trate:\n\na) Si los hechos se cometieren  en  perjuicio de mujeres embarazadas o de personas disminuidas psíquicamente,  o  sirviéndose  de menores de dieciocho años o sin perjuicio de éstos;\n\nb)  Si  los  hechos  se cometieren subrepticiamente o con violencia, intimidación o engaño.\n\nc) Si en los hechos intervinientes  tres  o más personas organizadas para cometerlos;\n\nd) Si los hechos se cometieren por un funcionario  público encargado de la prevención o persecución de los delitos aquí previstos  o  por un  funcionario público  encargado  de  la  guarda  de  presos y en perjuicio de éstos;\n\ne)  Cuando  el  delito  se  cometiere  en las inmediaciones o en  el interior de  un establecimiento de enseñanza,  centro  asistencial, lugar de detención, institución  deportiva,  cultural o social o en sitios donde se realicen espectáculos o diversiones  públicos  o  en otros  lugares  a  los  que escolares  y  estudiantes  acudan  para realizar    actividades  educativas, deportivas  o  sociales;\n\nf) Si los hechos  se  cometieren por un docente, educador o empleado de establecimientos  educacionales  en  general,  abusando  de  sus funciones específicas."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "ARTICULO  12.-  Será reprimido con prisión de dos a seis años y multa de seiscientos a doce mil australes:\n\na)  El  que  preconizare    o  difundiere  públicamente  el  uso  de estupefacientes, o indujere a otro a consumirlos;\n\nb) El que usare estupefacientes  con  ostentación y trascendencia al público.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "ARTICULO  13.-  Si  se  usaren estupefacientes para facilitar o ejecutar otro delito, la pena prevista para el mismo se incrementará en un tercio del mínimo  y  del  máximo,  no  pudiendo exceder  del  máximo  legal  de  la especie de pena de que se trate."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "ARTICULO  14.-  Será reprimido con prisión de uno a seis años y multa de trescientos a  seis  mil  australes  el  que  tuviere en su poder estupefacientes.\n\nLa pena será de un mes a dos años de prisión cuando, por  su  escasa cantidad y demás  circunstancias,  surgiere inequívocamente que la tenencia es para uso personal.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "ARTICULO  15.-  La tenencia y el consumo de hojas de coca en su estado natural destinado  a  la práctica del coqueo o masticación, o a  su empleo como infusión, no  será  considerada  como  tenencia  o consumo de estupefacientes."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "*ARTICULO  16.-Cuando  el  condenado  por  cualquier  delito dependiere  física  o  psíquicamente  de  estupefacientes,  el  juez impondrá,  además  de  la pena, una medida de seguridad curativa que consistirá en un tratamiento  de  desintoxicación  y  rehabilitación por  el  tiempo  necesario  a  estos fines, y cesará por resolución judicial,  previo  dictamen  de  peritos  que así  lo aconsejen.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 08-03-95). Se establece que los tratamiento de desintoxicación y rehabilitación deberán ser cubiertos por la obra social de la cual es beneficiaria la persona.",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 024455 1995 02 08 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "*ARTICULO 17.-En el caso del artículo 14, segundo párrafo, si en el juicio se  acreditase  que  la  tenencia  es  para uso personal, declarada la culpabilidad del autor y que el mismo  depende física o psíquicamente  de estupefacientes, el juez podrá dejar  en  suspenso la aplicación de  la  pena y  someterlo  a  una medida de seguridad curativa   por el  tiempo  necesario para  su  desinformación    y rehabilitación.\n\nAcreditado    su  resultado  satisfactorio,  se  lo  eximirá  de  la aplicación de la  pena.  Si transcurridos dos años de tratamiento no se ha obtenido un grado aceptable  de  recuperación  por su falta de colaboración, deberá aplicársele la pena y continuar con  la  medida de  seguridad  por  el  tiempo necesario  o  solamente esta última.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 08-03-95). Se establece que los tratamiento de desintoxicación y rehabilitación deberán ser cubiertos por la obra social de la cual es beneficiaria la persona.",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 024455 1995 02 08 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "*ARTICULO  18.-En  el  caso de artículo 14, segúndo párrafo, si durante el  sumario  se acreditase  por  semiplena  prueba  que  la tenencia  es para uso personal  y  existen  indicios  suficientes  a criterio del  juez  de  la responsabilidad  del  procesado  y  éste dependiere   física  o  psíquicamente de  estupefacientes,  con  su consentimiento,  se  le  aplicará  un tratamiento  curativo  por el tiempo  necesario  para  su desintoxicación  y rehabilitación y se suspenderá el trámite del sumario.\n\nAcreditado  su  resultado  satisfactorio, se dictará  sobreseimiento definitivo. Si transcurridos  dos  años de tratamiento, por falta de colaboración  del  procesado  no se obtuvo  un  grado  aceptable  de recuperación, se reanúdara el trámite  de  la  causa  y, en su caso, podrá aplicársele la pena y continuar el tratamiento por  el  tiempo necesario, o mantener solamente la medida de seguridad.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 08-03-95). Se establece que los tratamiento de desintoxicación y rehabilitación deberán ser cubiertos por la obra social de la cual es beneficiaria la persona.",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 024455 1995 02 08 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "*ARTICULO 19.-La medida de seguridad que comprende el tratamiento  de desintoxicación  y  rehabilitacinn, prevista en los artículos  16,  17  y  18 se  llevará  a cabo  en  establecimientos adecuados que el tribunal determine de una  lista  de  instituciones bajo  conducción profesional reconocidas y evaluadas periódicamente, registradas  oficialmente  y con autorización de habilitación por la autoridad  sanitaria  nacional  o provincial,  quien  hará conocer mensualmente la lista actualizada  al  Poder  Judicial,  y  que será difundida en forma pública.\n\nEl   tratamiento  podrá  aplicársele  preventivamente  al  procesado cuando prestare  su  consentimiento  para  ello  o cuando existiere peligro de que se dañe a sí mismo o a los demás.\n\nEl  tratamiento  estará  dirigido  por  un  equipo  de  técnicos   y comprenderá   los  aspectos  médicos,  psiquiátricos,  psicológicos, pedagógicos,  criminológicos    y  de  asistencia  social,  pudiendo ejecutarse en forma ambulatoria, con internación o alternativamente, según el caso.\n\nCuando el tratamiento se aplicare  al  condenado  su  ejecución será previa, computándose  el  tiempo  de duración de la misma  para  el cumplimiento de la pena. Respecto de  los  procesados,  el tiempo de tratamiento  suspenderá  la prescripción  de la acción penal.  El Servicio Penitenciario Federal o Provincial  deberá  arbitrar los medios para  disponer  en  cada unidad de un lugar donde, en  forma separada  del resto  de los demás  internos,  pueda  ejecutarse  la medida de seguridad de rehabilitación de los artículos 16, 17 y 18.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 08-03-95). Se establece que los tratamiento de desintoxicación y rehabilitación deberán ser cubiertos por la obra social de la cual es beneficiaria la persona.",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 024455 1995 02 08 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "ARTICULO  20.- Para la aplicación de los supuestos establecidos en los artículos  16,  17  y 18 el juez, previo dictamen de peritos, deberá distinguir entre el delincuente  que  hace  uso  indebido  de estupefacientes  y  el adicto a dichas drogas que ingresa al delito para  que  el tratamiento de rehabilitación  en  ambos  casos,  sea establecido   en  función  del  nivel de  patología  y  del  delito cometido, a los  efectos de la orientación terapéutica más adecuada."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "ARTICULO 21.- En el caso del artículo 14, segundo párrafo, si el procesado no  dependiere  física o psíquicamente de estupefacientes por tratarse de un principiante  o  experimentador,  el  juez  de la causa  podrá,  por  única vez,  sustituir la pena por una medida de seguridad  educativa  en  la  forma y  modo  que  judicialmente  se determine.\n\nTal  medida,  debe  comprender  el cumplimiento  obligatorio  de  un programa especializado  relativo  al    comportamiento  responsable frente al uso y tenencia indebida de estupefacientes,  que  con  una duración  mínima  de  tres meses, la autoridad educativa nacional o provincial, implementará a los efectos  del  mejor  cumplimiento de esta ley.\n\nLa sustitución será comunicada al Registro Nacional de  Reincidencia y Estadística  Criminal  y  Carcelaria, organismo que lo comunicará solamente  a los  tribunales  del  país  con  competencia  para  la aplicación de la presente Ley, cuando  éstos  lo  requiriesen.  Si   concluido  el  tiempo  de  tratamiento  éste  no  hubiese  dado resultado satisfactorio por la falta de colaboración del condenado, el  tribunal  hará cumplir  la  pena  en  la  forma  fijada  en  la sentencia."
+        },
+        {
+          "numero-articulo": 22,
+          "texto": "ARTICULO  22.-  Acreditado  un  resultado  satisfactorio de las medidas de recuperación establecidas en los artículos  17, 18  y 21 si  después de un lapso de tres años de dicha recuperación, el autor alcanzara    una reinserción  social  plena,  familiar,  laboral  y educativa, el  juez  previo dictamen de peritos, podrá librar oficio al  Registro  Nacional de Reincidencia  y Estadística  Criminal  y Carcelaria para  la  supresión  de la  anotación relativa al uso y tenencia indebida de estupefacientes."
+        },
+        {
+          "numero-articulo": 23,
+          "texto": "*ARTICULO 23.- Será reprimido con prisión de dos a seis años e inhabilitación especial de cuatro a ocho, años el funcionario público dependiente de la autoridad sanitaria con responsabilidad funcional sobre el control de la comercialización de estupefacientes, que no ejecutare los deberes impuestos por las leyes o reglamentos a su cargo u omitiere cumplir las órdenes que en consecuencia de aquéllos le impartieren sus superiores jerárquicos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Sustituido. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "Artículo 24: El que, sin autorización o con destino ilegítimo, ingrese precursores químicos en la zona de seguridad de frontera, será reprimido con prisión de un (1) año a seis (6) años, multa de quince (15) a trescientas (300) unidades fijas e inhabilitación especial de uno (1) a cuatro (4) años. Se dispondrá además el comiso de la mercadería en infracción, sin perjuicio de las demás sanciones que pudieran corresponder.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Sustituido.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0004 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 10-05-00). ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 025246 2000 04 13 0029 000 0000 000"
+            }
+          },
+          "numero-articulo": 25,
+          "texto": "*ARTICULO  25.-  NOTA DE REDACCION: (DEROGADO POR LEY 25246)"
+        },
+        {
+          "numero-articulo": 26,
+          "texto": "ARTICULO 26.- En la investigación de los delitos previstos en la Ley  no habrá reserva bancaria o tributaria alguna. El levantamiento de la  reserva sólo podrá ser ordenado por el Juez de la causa.\n\nLa información  obtenida  sólo  podrá ser utilizada en relación a la Investigación de los hechos previstos en esta Ley."
+        },
+        {
+          "numero-articulo": "26 002",
+          "texto": "*ARTICULO 26 Bis.- La prueba que consista en fotografías, filmaciones o grabaciones, será evaluada por el tribunal en la medida en que sea comprobada su autenticidad.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0003 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 27,
+          "texto": "Artículo 27: En todos los casos en que el autor de un delito previsto en esta ley lo cometa como agente de una persona jurídica y la característica requerida para el autor no la presente éste sino la persona jurídica, será reprimido como si el autor presentare esta característica.\n\nCuando cualquier delito previsto en esta ley sea cometido a través de una persona jurídica, se aplicará a esta multa de doscientas treinta (230) a mil ochocientas (1.800) unidades fijas, sin perjuicio de las sanciones que correspondan a los autores y partícipes que hubieren actuado en su nombre, representación, interés o beneficio. En caso de reincidencia será sancionada con la cancelación de la personería jurídica.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Sustituido.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0005 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 28,
+          "texto": "ARTICULO  28.- El que públicamente imparta instrucciones acerca de la producción, fabricación, elaboración o uso de estupefacientes,  será  reprimido  con  prisión  de dos a ocho años.\n\nEn la misma pena incurrirá quien por medios masivos  de comunicación social explique  en  detalle el modo de emplear como estupefaciente cualquier elemento de uso o venta libre."
+        },
+        {
+          "numero-articulo": 29,
+          "texto": "ARTICULO  29.-  Será reprimido con prisión de seis meses a tres años  el que  falsificare   recetas  médicas,  o  a  sabiendas  las imprimiera con datos supuestos  o con datos ciertos sin autorización del profesional responsable de la  matrícula;  quien las suscribiere sin facultad para hacerlo o quien las aceptare teniendo conocimiento  de  su  ilegítima procedencia o irregularidad. En  el caso que correspondiere  se  aplicará la accesoria de inhabilitación para ejercer el comercio por el  doble  de  tiempo  de  la  condena."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "CAD C 022415 1981 03 02 0866 000 0000 000"
+            }
+          },
+          "numero-articulo": "29 002",
+          "texto": "ARTICULO 29 BIS.- Será reprimido con reclusión o prisión de uno a seis años, el que tomare parte en una confabulación de dos o más personas, para cometer alguno de los delitos previstos en los artículos 5, 6, 7, 8, 10 y 25 de la presente ley, y en el artículo 866 del Código Aduanero. La confabulación será punible a partir del momento en que alguno de sus miembros realice actos manifiestamente reveladores de la decisión común de ejecutar el delito para el que se habían concertado.\n\nQuedará eximido de pena el que revelare la confabulación a la autoridad antes de haberse comenzado la ejecución del delito para el que se la había formado, así como el que espontáneamente impidiera la realización del plan.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0004 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "CAD C 022415 1981 03 02 0000 000 0000 000"
+            }
+          },
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 2/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027304 2016 10 19 0017 000 0000 000"
+            }
+          },
+          "numero-articulo": "29 003",
+          "texto": "ARTICULO 29 TER.- A la persona incursa en cualquiera de los delitos previstos en la presente ley y en el artículo 866 del Código Aduanero, el tribunal podrá reducirle las penas hasta la mitad del mínimo y del máximo o eximirla de ellas, cuando durante la sustanciación del proceso o con anterioridad a su iniciación:\n\na) Revelare la identidad de coautores, partícipes o encubridores de los hechos investigados o de otros conexos, proporcionando datos suficientes que permitan el procesamiento de los sindicados o un significativo progreso de la investigación.\n\nb) Aportare información que permita secuestrar sustancias, materias primas precursores químicos, medios de transporte, valores, bienes, dinero o cualquier otro activo de importancia, provenientes de los delitos previstos en esta ley.\n\nA los fines de la exención de pena de valorará especialmente la información que permita desbaratar una organización dedicada a la producción, comercialización o tráfico de estupefacientes.\n\nLa reducción o eximición de pena no procederá respecto de la pena de inhabilitación.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0005 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 30,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "B.O. 28/08/1992. Sustituido.",
+              "id": "ANTECEDENTES_0",
+              "ref": "LEY C 024112 1992 08 05 0001 000 0000 000"
+            }
+          },
+          "texto": "Artículo 30: El juez dispondrá la destrucción por la autoridad nacional correspondiente de los estupefacientes en infracción o de los elementos destinados a su elaboración, salvo que pertenecieren a un tercero no responsable o que pudieran ser aprovechados por la misma autoridad, dejando expresa constancia del uso a atribuirles. Las especies vegetales de Papaver somniferum L, Erithroxylon coca Lam y Cannabis sativa L se destruirán por incineración.\n\nEn todos los casos, previamente, deberá practicarse una pericia para determinar su naturaleza, calidad y cantidad, conservando las muestras necesarias para la sustanciación de la causa o eventuales nuevas pericias, muestras que serán destruidas cuando el proceso haya concluido definitivamente.\n\nA solicitud del Registro Nacional de Precursores Químicos establecido en el artículo 44, el juez entregará una muestra para la realización de una pericia para determinar la naturaleza y cantidades de los precursores y sustancias químicas presentes en la misma. Dicho procedimiento será realizado conforme a la reglamentación que se dicte al respecto.\n\nLa destrucción a que se refiere el párrafo primero se realizará en acto público dentro de los cinco (5) días siguientes de haberse practicado las correspondientes pericias y separación de muestras en presencia del juez o del secretario del juzgado y de dos (2) testigos y se invitará a las autoridades competentes del Poder Ejecutivo del área respectiva.\n\nSe dejará constancia de la destrucción en acta que se agregará al expediente de la causa firmada por el juez o el secretario, testigos y funcionarios presentes.\n\nAdemás se procederá al comiso de los bienes e instrumentos empleados para la comisión del delito, salvo que pertenecieren a una persona ajena al hecho y que las circunstancias del caso o elementos objetivos acreditaren que no podía conocer tal empleo ilícito. Igualmente se procederá a la incautación del beneficio económico obtenido por el delito.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Sustituido.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0006 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 31,
+          "texto": "ARTICULO  31.-  Efectivos  de cualesquiera de los organismos de seguridad y de la Administración  Nacional  de Aduanas podrán actuar en  jurisdicción  de  las  otras  en  persecusión  de   delicuentes, sospechosos  de  delitos  e infractores  de  esta  Ley  o  para  la realización de  diligencias  urgentes relacionadas  con  la misma, debiendo darse inmediato conocimiento al organismo de seguridad  del lugar.\n\nLos  organismos de seguridad y la Administración Nacional de Aduanas adoptarán un  mecanismo de consulta permanente y la Policía Federal Argentina ordenará la información  que  le  suministren  aquéllos, quienes  tendrán  un  sistema de acceso al banco de datos para  una eficiente  lucha contra el tráfico ilícito de  estupefacientes  en todo el país.\n\nMantendrán su  vigencia  los  convenios  que  hubiesen celebrado los organismos de seguridad, la Administración Nacional  de  Aduanas  y demás entes administrativos  con  el  objeto  de  colaborar  y aunar esfuerzos  en  la lucha  contra el narcotráfico y la prevención del abuso de drogas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "CAD C 022415 1981 03 02 0000 000 0000 000"
+            }
+          },
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 22/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027319 2016 11 02 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": "31 002",
+          "texto": "*ARTICULO 31 Bis.- Durante el curso de una investigación y a los efectos de comprobar la comisión de algún delito previsto en esta ley o en el artículo 866 del Código Aduanero, de impedir su consumación, de lograr la individualización o detención de los autores, partícipes o encubridores, o para obtener y asegurar los medios de prueba necesarios, el juez por resolución fundada podrá disponer, si las finalidades de la investigación no pudieran ser logradas de otro modo, que agentes de las fuerzas de seguridad en actividad, actuando en forma encubierta:\n\na) Se introduzcan como integrantes de organizaciones delictivas que tengan entre sus fines la comisión de los delitos previstos en esta ley o en el artículo 866 del Código Aduanero, y b) Participen en la realización de alguno de los hechos previstos en esta ley o en el artículo 866 del Código Aduanero.\n\nLa designación deberá consignar el nombre verdadero del agente y la falsa identidad con la que actuará en el caso, y será reservada fuera de las actuaciones y con la debida seguridad.\n\nLa información que el agente encubierto vaya logrando, será puesta de inmediato en conocimiento del juez.\n\nLa designación de un agente encubierto deberá mantenerse en estricto secreto. Cuando fuere absolutamente imprescindible aportar como prueba la información personal del agente encubierto, éste declarará como testigo, sin perjuicio de adoptarse, en su caso, las medidas previstas en el artículo 31 quinques.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0006 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 22/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027319 2016 11 02 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": "31 003",
+          "texto": "*ARTICULO 31 Ter.- No será punible el agente encubierto que como consecuencia necesaria del desarrollo de la actuación encomendada, se hubiese visto compelido a incurrir en un delito, siempre que éste no implique poner en peligro cierto la vida o la integridad física de una persona o la imposición de un grave sufrimiento físico o moral a otro.\n\nCuando el agente encubierto hubiese resultado imputado en un proceso, hará saber confidencialmente su carácter al juez interviniente, quien en forma reservada recabará la pertinente información a la autoridad que corresponda.\n\nSi el caso correspondiere a las previsiones del primer párrafo de este artículo, el juez lo resolverá sin develar la verdadera identidad del imputado.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0007 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 22/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027319 2016 11 02 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": "31 004",
+          "texto": "*ARTICULO 31 Quater.- Ningún agente de las Fuerzas de Seguridad podrá ser obligado a actuar como agente encubierto. La negativa a hacerlo no será tenida como antecedente desfavorable para ningún efecto.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0008 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 22/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027319 2016 11 02 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": "31 005",
+          "texto": "*ARTICULO 31 Quinques.- Cuando peligre la seguridad de la persona que haya actuado como agente encubierto por haberse develado su verdadera identidad, tendrá derecho a optar entre permanecer activo o pasar a retiro, cualquiera fuese la cantidad de años de servicio que tuviera. En este último caso se le reconocerá un haber de retiro igual al que le corresponda a quien tenga dos grados más del que él tiene.\n\nEn cuanto fuere compatible, se aplicarán las disposiciones del artículo 33 bis.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0009 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 22/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027319 2016 11 02 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": "31 006",
+          "texto": "*ARTICULO 31 Sexies.- El funcionario o empleado público que indebidamente revelare la real o nueva identidad de un agente encubierto o, en su caso, la nueva identidad o el domicilio de un testigo o imputado protegido, será reprimido con prisión de dos a seis años, multa de diez mil a cien mil pesos e inhabilitación absoluta perpetua.\n\nEl funcionario o empleado público que por imprudencia, negligencia o inobservancia de los deberes a su cargo, permitiere o diere ocasión a que otro conozca dicha información, será sancionado con prisión de uno a cuatro años, multa de un mil a treinta mil pesos e inhabilitación especial de tres a diez años.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0010 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 32,
+          "texto": "ARTICULO  32.-  Cuando  la  demora  en  el  procedimiento pueda comprometer el éxito de la investigación, el juez  de la causa podrá actuar  en  ajena  jurisdicción  territorial,  ordenando    a    las autoridades  de prevención las diligencias que entienda pertinentes, debiendo  comunicar  las medidas  dispuestas  al  juez  del  lugar. Además, las autoridades  de prevención deben poner en conocimiento del juez del lugar los resultados  de las  diligencias practicadas, poniendo a disposición del mismo las personas detenidas  a  fin  de que  este  magistrado  controle  si  la  privación  de la  libertad responde  estrictamente  a  las  medidas  ordenadas, constatado este extremo el juez del lugar pondra a los detenidos  a  disposición del juez de la causa."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 22/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027319 2016 11 02 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": 33,
+          "texto": "*ARTICULO 33.- El juez de la causa podrá autorizar a la autoridad de prevención que postergue la detención de personas o el secuestro de estupefacientes cuando estime que la ejecución inmediata de dichas medidas puede comprometer el éxito de la investigación.\n\nEl juez podrá incluso suspender la interceptación en territorio argentino de una remesa ilícita de estupefacientes y permitir su salida del país, cuando tuviere seguridades de que será vigilada por las autoridades judiciales del país de destino. Esta medida deberá disponerse por resolución fundada, haciéndose constar, en cuanto sea posible, la calidad y cantidad de la sustancia vigilada como así también su peso.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 09-01-95). Segundo párrafo incorporado.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0011 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 22/11/2016) ARTICULO DEROGADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 027319 2016 11 02 0019 000 0000 000"
+            }
+          },
+          "numero-articulo": "33 002",
+          "texto": "*ARTICULO 33 Bis.- Cuando las circunstancias del caso hicieren presumir fundadamente un peligro cierto para la vida o la integridad física de un testigo o de un imputado que hubiese colaborado con la investigación, el tribunal deberá disponer las medidas especiales de protección que resulten adecuadas.\n\nEstan podrán incluso consistir en la sustitución de la identidad del testigo o imputado, y en la provisión de los recursos económicos indispensables para el cambio de domicilio y de ocupación, si fuesen necesarias. La gestión que corresponda quedará a cargo del Ministerio de Justicia de la Nación.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0012 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 34,
+          "texto": "*ARTICULO 34.- Los delitos previstos y penados por esta ley serán de competencia de la justicia federal en todo el país, excepto para aquellas provincias y la Ciudad Autónoma de Buenos Aires, que, mediante ley de adhesión, opten por asumir su competencia en las condiciones y con los alcances que se prevén a continuación:\n\n1. Artículo 5º incisos c) y e), cuando se comercie, entregue, suministre o facilite estupefacientes fraccionados en dosis destinadas directamente al consumidor.\n\n2. Artículo 5º penúltimo párrafo.\n\n3. Artículo 5º Ultimo párrafo.\n\n4. Artículo 14.\n\n5. Artículo 29.\n\n6. Artículos 204, 204 bis, 204 ter y 204 quater del Código Penal.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 31/08/2005) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 026052 2005 07 27 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "CAD C 022415 1981 03 02 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": "34 002",
+          "texto": "*ARTICULO 34 Bis.- Las personas que denuncien cualquier delito previsto en esta ley o en el artículo 866 del Código Aduanero, se mantendrán en el anonimato.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Incorporado. (B.O. 09-01-95).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 024424 1994 12 07 0013 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "34 003",
+          "texto": "Artículo 34 ter: Créase en cada jurisdicción que haya ejercido la opción a la que refiere el    artículo 34 de la presente ley, una mesa de intercambio de información que está integrada por los Jueces Federales, los representantes del Ministerio Público Fiscal de la Nación, los Fiscales Provinciales y de la Ciudad Autónoma de Buenos Aires y/o los Jueces Provinciales, que tengan a su cargo las investigaciones por infracción a la ley 23.737 y sus modificatorias y por los representantes de la Procuraduría de Narcocriminalidad. En dicho ámbito se intercambiarán criterios de política criminal en torno a las investigaciones y se compartirá toda la información relacionada con las causas e investigaciones en curso.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 14/5/2019) ARTICULO INCORPORADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027502 2019 04 24 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": "INCORPORADO",
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 010903 1919 09 29 0018 002 0000 000"
+            }
+          },
+          "numero-articulo": 35,
+          "texto": "ARTICULO 35.- Nota de redacción: (MODIFICA LEY 10.903)."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "CCI C 000340 1869 09 25 0307 000 0000 000  A"
+            }
+          },
+          "numero-articulo": 36,
+          "texto": "ARTICULO 36.- Si como consecuencia de infracciones a la presente Ley,  el juez  de  la  causa advirtiere que el padre o la madre han comprometido  la seguridad,   la  salud  física  o  psíquica  o  la moralidad  de sus hijos menores,  deberá  remitir  los  antecedentes pertinentes    al   juez competente  para  que  resuelva  sobre  la procedencia de las previsiones  del artículo  307,  inciso 3,  del Código Civil."
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": "SUSTITUIDO",
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 020655 1974 03 21 0025 000 0026 000"
+            }
+          },
+          "numero-articulo": 37,
+          "texto": "ARTICULO 37.- Nota de redacción: (MODIFICA LEY 20.655"
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": "INCORPORADO",
+              "id": "MODIFICA_A_0",
+              "ref": "LEY C 020655 1974 03 21 0026 002 0000 000"
+            }
+          },
+          "numero-articulo": 38,
+          "texto": "ARTICULO 38.- Nota de redacción: (MODIFICA LEY 20.655)"
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "CAD C 022415 1981 03 02 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 39,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O. 30-12-91). Ultimo párrafo incorporado.",
+              "id": "ANTECEDENTES_0",
+              "ref": "LEY C 024061 1991 12 19 0022 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO  39.-  Salvo que se hubiese resuelto con anterioridad, la sentencia condenatoria decidirá definitivamente respecto de los bienes decomisados y de los beneficios económicos a que se refiere el    artículo 30.\n\nLos bienes o el producido de su venta se destinarán a la Lucha contra el Tráfico ilegal de estupefacientes, su prevención y la rehabilitación de los afectados por el consumo.\n\nEl mismo destino se dará a las multas que se recauden por aplicación de esta ley.\n\nAsimismo, el mismo destino se le dará a los bienes decomisados o al producido de su venta, por los delitos previstos en la sección XII, Título I de la Ley 22.415, cuando el objeto de dichos delitos sean estupefacientes, precursores o productos químicos.\n\nEn las causas de jurisdicción federal y nacional los jueces o las autoridades competentes entregarán las multas, los beneficios económicos y los bienes decomisados o el producido de su venta a que se refieren los párrafos precedentes, conforme lo establecido por esta ley.\n\nEn las causas de jurisdicción provincial las multas, los beneficios económicos y los bienes decomisados o el producido de su venta, corresponderá a la provincia.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 31/08/2005) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 026052 2005 07 27 0006 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 31/1/01) APRUEBA CONVENIO ENTRE LA CORTE SUPREMA DE JUSTICIA DE LA NACION Y LA SECRETARIA DE PROGRAMACION PARA LA PREVENCION DE LA DROGADICCION Y LA LUCHA CONTRA EL NACOTRAFICO",
+                "id": "OBSERVADO_POR_0",
+                "ref": "DEC C 000101 2001 01 25 0000 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 17-09-91) LOS MONTOS DE LAS PENAS DE MULTA ESTABLECIDOS EN EL PRESENTE SE AUMENTARAN A LA CANTIDAD QUE RESULTE DE MULTIPLICAR POR 375 LOS MINIMOS Y MAXIMOS",
+                "id": "OBSERVADO_POR_1",
+                "ref": "LEY C 023975 1991 08 14 0001 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "modifica-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "MODIFICA_A_0",
+              "ref": "CPE C 011179 1984 12 21 0077 000 0000 000"
+            }
+          },
+          "numero-articulo": 40,
+          "texto": "ARTICULO 40.- Nota de redacción: (MODIFICA LEY 11.179 T.O. 84)."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 020771 1974 09 26 0010 000 0000 000"
+            }
+          },
+          "numero-articulo": 41,
+          "texto": "ARTICULO  41.-  Hasta  la  publicación del decreto por el Poder Ejecutivo Nacional a que se refiere  el  artículo  anterior,  valdrá como  Ley complementaria  las  listas  que  hubiese  establecido la autoridad  sanitaria nacional  en  virtud  de lo dispuesto  por  el artículo 10 de la Ley 20.771, que tuviesen vigencia en  la fecha de promulgación de la presente ley."
+        },
+        {
+          "numero-articulo": 42,
+          "texto": "ARTICULO  42.-  El  Ministerio  de  Educación  y  Justicia  en coordinación  con  el  Ministerio  de  Salud  y  Acción Social y las autoridades educaciones y sanitarias provinciales,  considerarán  en todos  los  programas de formación de profesionales de la educación, los diversos aspectos  del uso indebido de droga, teniendo presente las orientaciones de los tratados internacionales suscriptos por el país, las políticas y estrategías de los organismos internacionales especializados  en  la  materia,  los avances de la  investigación científica relativa a los estupefacientes y los informes específicos de la Organización Mundial de la Salud.\n\nSobre las mismas pautas, desarrollarán  acciones  de  información  a los educandos,  a  los  grupos  organizados  de la comunidad y a la población en general."
+        },
+        {
+          "numero-articulo": 43,
+          "texto": "ARTICULO  43.- El Estado nacional asistirá económicamente a las provincias que cuenten  o contaren en el futuro con centros públicos de  recuperación  de los  adictos    a  los  estupefacientes.  El Poder Ejecutivo nacional incluirá anualmente  en  el  presupuesto nacional una partida destinada a tales fines. Asimismo proveerá  de asistencia técnica a dichos centros."
+        },
+        {
+          "numero-articulo": 44,
+          "informacion-vinculada": 1E+19,
+          "texto": "Artículo 44: El Poder Ejecutivo nacional elaborará y actualizará periódicamente, por decreto, listados de precursores, sustancias o productos químicos que, por sus características o componentes, puedan servir de base o ser utilizados en la elaboración de estupefacientes. La reglamentación establecerá qué tipo de mezclas que contengan en su formulación dichas sustancias químicas estarán sujetas a fiscalización. Las personas físicas o jurídicas que produzcan, fabriquen, preparen, elaboren, reenvasen, distribuyan, comercialicen por mayor o menor, almacenen, importen, exporten, transporten, transborden o realicen cualquier otro tipo de transacción, tanto nacional como internacional, con sustancias o productos químicos incluidos en el listado al que se refiere el párrafo anterior, deberán inscribirse en el Registro Nacional de Precursores Químicos.\n\nIgual obligación tendrán las personas físicas o jurídicas que fabriquen, enajenen, adquieran, importen, exporten o almacenen máquinas para elaborar cápsulas, tabletas o comprimidos.\n\nEl incumplimiento de las obligaciones establecidas en los párrafos segundo y tercero será reprimido con prisión de seis (6) meses a tres (3) años, sin perjuicio de las demás sanciones que pudieran corresponder.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Sustituido.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0007 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": "44 002",
+          "texto": "Artículo 44 bis: El que falseare los datos suministrados al Registro Nacional de Precursores Químicos u omitiere su presentación, será reprimido con prisión de uno (1) a seis (6) años, e inhabilitación especial de dos (2) a seis (6) años.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Incorporado.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0008 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 45,
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "B.O. 17/09/1991. Derogado.",
+              "id": "ANTECEDENTES_0",
+              "ref": "LEY C 023975 1991 08 14 0003 000 0000 000"
+            }
+          },
+          "texto": "Artículo 45: A los efectos de esta ley, una (1) unidad fija equivale en pesos al valor de un (1) formulario de inscripción de operadores en el Registro Nacional de Precursores Químicos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "B.O. 08/11/2016. Incorporado.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "LEY C 027302 2016 10 19 0009 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 46,
+          "texto": "*ARTICULO 46.- Nota de redacción: (MODIFICA LEY 20.771).",
+          "deroga-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "DEROGA_A_0",
+              "ref": "LEY C 020771 1974 09 26 0001 000 0011 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 47,
+          "texto": "ARTICULO 47.- Comuníquese al Poder Ejecutivo."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "PIERRI-DUHALDE-PEREYRA ARANDIA DE PEREZ PARDO-IRIBARNE"
+      },
+      "id-infojus": "LNS0003539"
+    }
+  }
+}

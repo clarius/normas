@@ -1,0 +1,361 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-073-1101-7391soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992155066,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "111370-nacional-decreto-reglamentario-leyes-11544-11317-4661-11640-sobre-trabajo-personal-establecimientos-asistenciales-dn19371011370-1937-08-04"
+      }
+    },
+    "content": {
+      "mecanografico": 19371011370,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 111370,
+      "timestamp-m": "2012-03-27T08:59:22",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1937-08-04",
+      "standard-normativo": "DEC C 111370 1937 08 04",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LAS LEYES 11.544, 11.317, 4.661, 11.640 SOBRE TRABAJO DEL PERSONAL DE ESTABLECIMIENTOS ASISTENCIALES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1937 08 13"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "SUST. PRIMER PARRAFO ART. 12 (B.O. 38-08-11)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 115473 1937 10 01 0001 000"
+          },
+          {
+            "cr": "SUST. ARTS. 1 Y 5 (B.O. 44-05-11)",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 010819 1944 04 28 0001 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL S/N DEL 4 DE AGOSTO DE 1937",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2012-03-27",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE DETERMINAN LAS DISPOSICIONES APLICABLES AL PERSONAL QUE PRESTA SERVICIOS EN ESTABLECIMIENTOS ASISTENCIALES REGLAMENTANDO LAS LEYES 11.544, 11.317, 4.661, 11.640.",
+        "observaciones-generales": "OBSERVACION: LA LEY 4.661 QUE REGLAMENTA EL PRESENTE DECRETO FUE DEROGADA POR LA LEY 18.204 (B.O. 69-05-15) OBSERVACION: LA LEY 11.317 QUE REGLAMENTA EL PRESENTE DECRETO FUE PARCIALMENTE DEROGADA POR LA LEY 20.744  (B.O.  74-09-27)",
+        "reglamenta-a": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_0",
+              "ref": "LEY C 011544 1929 08 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_1",
+              "ref": "LEY C 011317 1924 09 30 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_2",
+              "ref": "LEY C 004661 1905 08 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_3",
+              "ref": "LEY C 011640 1932 09 29 0000 000 0000 000"
+            }
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajadores de la salud"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores de la salud"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "profesionales de la salud",
+                "trabajadores de la sanidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal adscripto"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal de planta permanente/personal adscripto"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "personal permanente",
+                "adscripción de personal",
+                "relación de empleo público",
+                "personal efectivo",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "médicos"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/responsabilidades especiales/ejercicio profesional/médicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "profesional liberal",
+                "ejercicio de profesiones liberales",
+                "profesional universitario",
+                "profesiones liberales",
+                "actividades profesionales",
+                "ejercicio de la profesión",
+                "Derecho de daños",
+                "régimen de responsabilidad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jornada de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/jornada de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "horas de trabajo",
+                "jornada legal de trabajo",
+                "jornada laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajo de menores"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/trabajo de menores"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Departamento Nacional del Trabajo"
+            },
+            "preferido": {
+              "termino": "Departamento Nacional del Trabajo"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "reglamento de ejecución (decreto reglamentario)",
+            "agentes de la administración pública",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "profesional universitario (ejercicio profesional)",
+            "personal del sector público (agentes de la administración pública)",
+            "jornada laboral (jornada de trabajo)",
+            "responsabilidades especiales",
+            "situaciones de revista",
+            "personal permanente (personal de planta permanente)",
+            "actividades profesionales (ejercicio profesional)",
+            "relación de empleo público (empleo público)",
+            "funcionarios y empleados públicos (agentes de la administración pública)",
+            "Derecho administrativo",
+            "jornada legal de trabajo (jornada de trabajo)",
+            "responsabilidad por daños (responsabilidad civil)",
+            "ejercicio de profesiones liberales (ejercicio profesional)",
+            "Administración Pública",
+            "personal efectivo (personal de planta permanente)",
+            "trabajadores de la salud",
+            "ejercicio de la profesión (ejercicio profesional)",
+            "ejercicio profesional",
+            "acto administrativo",
+            "responsabilidad civil",
+            "jornada de trabajo",
+            "decreto reglamentario",
+            "personal adscripto",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "reglamentos",
+            "agentes de la Administración (agentes de la administración pública)",
+            "contrato laboral (contrato de trabajo)",
+            "actividades laborales",
+            "personal del Estado (agentes de la administración pública)",
+            "acto administrativo de alcance general",
+            "profesionales de la salud (trabajadores de la salud)",
+            "reglamento administrativo (reglamentos)",
+            "Departamento Nacional del Trabajo",
+            "Derecho civil",
+            "Derecho de daños (responsabilidad civil)",
+            "profesional liberal (ejercicio profesional)",
+            "personal de planta permanente",
+            "trabajadores de la sanidad (trabajadores de la salud)",
+            "función pública (Administración Pública)",
+            "médicos",
+            "adscripción de personal (personal adscripto)",
+            "contrato de trabajo",
+            "derecho del trabajo (Derecho laboral)",
+            "agentes públicos (agentes de la administración pública)",
+            "trabajo de menores",
+            "profesiones liberales (ejercicio profesional)",
+            "Derecho laboral",
+            "empleo público",
+            "horas de trabajo (jornada de trabajo)"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "(Nota de redacción) SIN TEXTO"
+      },
+      "segmento": [
+        {
+          "titulo-particion": "Disposiciones generales",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "*Art. 1.- Este reglamento se aplicará en la Capital Federal y Territorios  Nacionales,  a  los establecimientos que se designan a continuación: hospitales, clínicas,  sanatorios,  manicomios, casas de  salud, asilos y similares. A todo el territorio  de  la  Nación son aplicables  las  disposiciones del mismo que reglamentan la ley 11.544."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "Art. 2.- Las normas generales de aplicación de las leyes sobre jornada,  descanso  semanal  y trabajo de mujeres y menores regirán en  los  establecimientos mencionados  en  todo  cuanto  no  fueren expresamente modificadas por el presente reglamento."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "Disposiciones de aplicación de la ley N. 11.544",
+          "articulo": [
+            {
+              "numero-articulo": 3,
+              "texto": "Art. 3.- A los efectos del inc. a) del art. 3 de la ley 11.544, se entenderá  comprendido dentro de la denominación de empleados de dirección o vigilancia al siguiente personal:\n\na) Director, jefe  de  servicio  o  consultorio,  jefe de farmacia, jefe  de  laboratorio  o  de  servicios  similares relativos  a  la atención  médica  de  los  pacientes,  jefe  de   enfermeros;\n\nb)  Médicos,  odontólogos,  practicantes  mayores,  parteras;\n\nc) Religiosos;\n\nd)  Administrador,  contador,  ecónomo  o  jefe  de servicio  o  de sección administrativa del establecimiento;\n\ne) Mayordomo, jefe de cocina, jefe de lavadero, jefes  de secciones que empleen personal obrero o de maestranza."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art.  4.-  El  tiempo  destinado a las comidas que el personal efectúe en el establecimiento  no se computará en la duración de la jornada,  siempre  que  figure  en la  planilla  de  horarios  como intervalo  de  descanso  prefijado de  una  duración  no  menor  de cuarenta y cinco minutos,  en  cuyo  caso  se aplicará lo dispuesto por el art. 11."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "*Art.  5.-  Con las excepciones establecidas para el personal mencionado en el artículo  3  de  este  decreto,  la  duración  del trabajo de las personas de ambos sexos ocupadas en los establecimientos  a  que  se  refiere  el art. 1 del mismo no podrá exceder de 8 horas diarias o de 48 semanales.\n\nLos serenos o serenas podrán trabajar hasta  10 horas diarias o 60 semanales, siempre que no lo hagan en otros servicios  que  los  de vigilancias en general."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art. 6.- En ningún establecimiento o sección de establecimiento podrá  ocuparse  al  personal  sino  de  conformidad con el horario señalado  en una planilla que establecerá la  distribución  semanal de  las horas  de  trabajo.  La  planilla  señalará  las  horas  de comienzo y fin de cada jornada, así como los descansos intercalados que se fijen."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art.  7.-  La  planilla  de horarios, fechada y sellada por el Departamento Nacional del Trabajo,  será  colocada en lugar visible en  cada  local  de  trabajo donde deba regir el  horario  en  ella señalado. Toda modificación  de  este  horario deberá ser precedida de  una  rectificación  de  la  planilla efectuada  ante  el  mismo Departamento."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art.  8.-  Siempre que las horas de trabajo y descanso no sean las  mismas  para  todo    el  personal  del  establecimiento,  las planillas de horarios serán  nominativas.  Sin  embargo, en caso de organización  del  trabajo por equipos, la nómina del  personal  de cada  equipo  podrá  no  figurar  en  la  planilla  de  horarios  a condición de que se relacione  íntegramente en un registro especial visado  por  las autoridades de aplicación.  En  este  registro  se anotarán las altas  y bajas de cada equipo, pero ningún miembro del equipo podrá ser pasado  al  que  le  sucede  en  turno  sin  aviso directo,  telegráfico  o por carta certificada, dado a la autoridad de aplicación con anticipación de veinticuatro horas."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art. 9.- Cada vez que se contrate un nuevo empleado u obrero o se ocupe  personal  suplente, se practicarán antes de su entrada al trabajo las anotaciones  pertinentes  en el registro autorizado por el  art.  anterior,  con especificación del  nombre  y  horario  de trabajo de cada persona  ocupada  en esas condiciones, aunque no se trate  de  miembros  de  un equipo. En  este  último  casa,  si  el servicio de una misma persona  se  prolongase  más  de  cuatro días consecutivos, deberá ser incluida en la planilla de horario,  o  en un  suplemento  de  ésta,  en  la  forma  prevista  por  el art. 7."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "Art. 10.- Solamente podrán excederse los límites de la jornada y semana  normales  de  trabajo,  o los señalados en el art. 5, con horas suplementarias, cuando se trate  de  personal de las salas de operaciones que deba ser retenido con motivo  de  una intervención.\n\nEn este caso se hará constar la iniciación del período suplementario  de  trabajo,  tan  pronto  como se produzca,  en  el registro especial previsto por el art. 6, inc.  c)  de  la  ley  11 544,  y  también  la  hora en que termine. Las horas suplementarias serán remuneradas con el  recargo  establecido  por el art. 5 de la ley."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art. 11.- Se considerará infracción a la ley 11.544, o a la que en  su   caso  corresponda,  la  permanencia  del  personal  en  el establecimiento  fuera de las horas señaladas para su trabajo en la planilla o registro  de  horarios,  excepto cuando se aloje en él o reciba  comida  durante las horas de descanso,  caso  en  que  sólo habrá infracción  cuando  resulten  constatados  hechos o actos que dejen presumir una efectiva prestación de servicios."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "Disposiciones de aplicación de la ley N. 11.317",
+          "articulo": [
+            {
+              "numero-articulo": 12,
+              "texto": "*Art. 12.- La jornada de trabajo de las mujeres ocupadas en la maÑana  y  en  la  tarde  de  un mismo día, deberá dividirse en dos guardias  separadas,  por  un  descanso  mínimo  de  dos  horas  al mediodía, a cuyo efecto se considerará  como  tal  el intervalo que transcurre entre las 12 y las 16 horas."
+            },
+            {
+              "numero-articulo": 13,
+              "texto": "(Nota de redacción) Art. 13.- No grabable por ser reglamentario del art. 6 de la Ley 11.317."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "Disposiciones  de  aplicación  de  las  leyes  N.  4.661  y  11.640",
+          "articulo": [
+            {
+              "numero-articulo": 14,
+              "texto": "Art. 14.- El personal de los establecimientos en que se aplica este decreto  que  en virtud de las excepciones autorizadas por las leyes  4.661  y 11.640  y  sus  reglamentos  trabajase  dentro  del período comprendido  entre  las  horas  13  del  sábado  y  24  del domingo,  tendrá un descanso compensatorio otorgado en la siguiente forma:\n\na) Si trabajara  en  horas  comprendidas  entre las 13 y las 24 del sábado  y  no  lo hiciera el domingo inmediato,  tendrá  medio  día libre por semana,  en forma de reducción de una jornada a no más de cinco horas, debiendo  esa  jornada  ser  precedida  de un descanso corrido de dieciseis horas o más y seguida por otro de  diez  horas o más, o viceversa;\n\nb)  Si  no  trabajara  entre  las  13  y  las 24 del sábado pero lo hiciera en el domingo inmediato, tendrá un  día libre por semana en forma de un descanso corrido de treinta y dos  horas  o  más  entre dos jornadas;\n\nc)  Si  trabajara  en  horas comprendidas entre las 13 y las 24 del sábado y también el domingo,  pero  no  después  de  las 13 de este día,  tendrá  un  descanso  igual  al  fijado  en el inc. b).\n\nd) Si trabajara en horas comprendidas entre las  13  y  las  24 del sábado  y también entre las 13 y las 24 del domingo, tendrá un  día y medio libre  por  semana,  en forma de reducción de una jornada a no más de cinco horas, debiendo  esa  jornada  ser precedida por un descanso  corrido  de cuarenta horas o más y seguida  por  otro  de diez horas o más, o viceversa;\n\ne)  En  los  casos contemplados  en  los  incisos  precedentes,  el descanso compensatorio  establecido  podrá  ser  sustituido  por un sistema en que, conservándose sin excepción un descanso corrido  de treinta  y  dos  horas  o más por semana, la compensación de medias jornadas se realice acumulativamente  en  períodos no mayores de un año,  a  razón de tantos días libres corridos  como  la  mitad  del número de  medias jornadas compensables. La autoridad de aplicación establecerá  los  medios  de  contralor  necesarios para vigilar el otorgamiento  de  la  vacación  compensatoria    en  la  forma  que corresponda."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art.  15.-  En caso de ausencia inesperada de un empleado cuyo nombre figurase en  la  planilla  de  horarios  o  en  la nómina de equipo  inscripta en el registro especial, podrá recurrirse  a  los servicios  de  otro  empleado  a quien correspondiera en ese día el descanso habdomadario, siempre que  hubieran  transcurrido  por  lo menos  diez  horas  desde el fin de su jornada anterior y que antes de comenzar la suplencia  se  le anote en el referido registro y se fije en el mismo, de conformidad  con  lo dispuesto por el art. 14, el  descanso  de  que  gozará dicho empleado  en  substitución  del dejado sin efecto."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art. 16.- Comuníquese, publíquese, dése a la Dirección General del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "JUSTO - ALVARADO"
+          }
+        }
+      ],
+      "id-infojus": "DN19371011370"
+    }
+  }
+}

@@ -1,0 +1,845 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-627-2000-1991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990500649,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "2726-nacional-decreto-reglamentario-ley-empleo-24013-prestacion-transitoria-desempleo-dn19910002726-1991-12-26"
+      }
+    },
+    "content": {
+      "mecanografico": 19910002726,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 2726,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1991-12-26",
+      "standard-normativo": "DEC C 002726 1991 12 26",
+      "titulo-norma": "DECRETO REGLAMENTARIO LEY DE EMPLEO 24013. PRESTACION TRANSITORIA POR DESEMPLEO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1992 01 02"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 2.726/1991",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2011-08-18",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA PERCEPCION, RECONOCIMIENTO, SUSPENSION, REANUDACION Y EXTINCION DEL DERECHO A LA PRESTACION TRANSITORIA POR DESEMPLEO. SE ESTABLECE LA FIGURA LEGAL DEL DESEMPLEADO ASI COMO LOS SUPUESTOS DE APLICACION EN CASO DE DESPIDO DEL TRABAJADOR PARA SU INSCRIPCION EN EL REGISTRO. SE EXCLUYEN DEL PRESENTE REGIMEN A OBREROS DE LA CONSTRUCCION, TRABAJADORES AGRARIOS, PERSONAL DOMESTICO Y PERSONAL CESANTE DEL SECTOR PUBLICO.",
+        "observaciones-generales": "NRO.  DE  ART.  QUE ESTABLECE LA ENTRADA EN VIGENCIA 0020 FECHA DE ENTRADA EN VIGENCIA 1992 01 02",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 024013 1991 11 13 0152 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ley de empleo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/política laboral/ley de empleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "ley nacional de empleo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regularización del trabajador"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/prueba del contrato de trabajo/registros laborales/empleo no registrado/regularización del trabajador"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "regularización laboral",
+                "trabajador no registrado",
+                "trabajo en negro",
+                "trabajo no registrado",
+                "inscripción del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "empleo no registrado"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/prueba del contrato de trabajo/registros laborales/empleo no registrado"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "trabajador no registrado",
+                "trabajo en negro",
+                "trabajo no registrado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "desempleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "subsidio por desempleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo/seguro de desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "subsidio por desempleo",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/trabajador"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "asalariados",
+                "empleado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "contrato laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "obreros de la construcción"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores de la construcción"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "obreros de la construcción"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajadores rurales"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores rurales"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "trabajadores agrarios",
+                "trabajo agrícola",
+                "agricultores",
+                "trabajo agrario",
+                "trabajo rural"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio doméstico"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/personal de casas particulares"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "trabajadores de casas particulares",
+                "trabajo doméstico",
+                "servicio doméstico"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal del sector público"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal del sector público",
+                "relación de empleo público",
+                "personal del Estado",
+                "agentes de la Administración",
+                "agentes públicos",
+                "funcionarios y empleados públicos",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Único de Registro Laboral"
+            },
+            "preferido": {
+              "termino": "Sistema Único de Registro Laboral"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "contrato de trabajo eventual"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/modalidades del contrato de trabajo/modalidades no promovidas/contrato de trabajo eventual"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "trabajo eventual"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "despido"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "distracto laboral",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "despido sin justa causa"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/despido sin causa"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "despido sin justa causa",
+                "despido injustificado",
+                "despido incausado",
+                "distracto laboral",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "despido por fuerza mayor"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/despido por fuerza mayor"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "distracto laboral",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "despido por falta o disminución de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/despido por falta o disminución de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "despido por causas económicas",
+                "denuncia del contrato de trabajo",
+                "despido por disminución o falta de trabajo",
+                "disminución del trabajo",
+                "distracto laboral",
+                "extinción por falta o disminución de trabajo",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extinción del contrato de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "distracto",
+                "distracto laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "despido indirecto"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/despido indirecto"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "distracto laboral",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extinción por quiebra o concurso del empleador"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/extinción por quiebra o concurso del empleador"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "distracto laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "locación de servicios"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/Contratos/contratos civiles/locación/locación de servicios"
+            },
+            "sinonimos": {
+              "termino": [
+                "arrendamiento",
+                "contrato de locación",
+                "contrato de locación de servicios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajo de temporada"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/modalidades del contrato de trabajo/modalidades no promovidas/contrato de trabajo de temporada"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "contrato de temporada",
+                "trabajo de temporada"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "declaración jurada"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/etapas del proceso/etapa probatoria/prueba/declaración jurada"
+            },
+            "sinonimos": {
+              "termino": [
+                "desarrollo del juicio",
+                "etapas procesales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios/indemnización"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por daños",
+                "indemnización del daño",
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asistencia sanitaria"
+            },
+            "preferido": {
+              "termino": "Salud pública/asistencia sanitaria"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "empleador"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/empleador"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "patrón"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Fondo nacional de empleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/Fondo nacional de empleo"
+            },
+            "sinonimos": {
+              "termino": "SUSS"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio militar obligatorio"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/servicio militar/servicio militar obligatorio"
+            },
+            "sinonimos": {
+              "termino": "servicio de conscripción"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "procedimiento administrativo"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/procedimiento administrativo"
+            },
+            "sinonimos": {
+              "termino": "proceso administrativo"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección Nacional de Empleo"
+            },
+            "preferido": {
+              "termino": "Dirección Nacional de Empleo"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Trabajo y Seguridad Social"
+            },
+            "preferido": {
+              "termino": "Ministerio de Trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Trabajo, Empleo y Seguridad Social",
+                "Ministerio de Trabajo, Empleo y Formación de Recursos Humanos",
+                "Ministerio de Trabajo y Seguridad Social de la Nación",
+                "Ministerio de Trabajo y Seguridad Social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "prestación transitoria por desempleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo/prestación transitoria por desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "SUSS"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "política laboral",
+            "etapas procesales (etapas del proceso)",
+            "ley nacional de empleo (ley de empleo)",
+            "agentes de la administración pública",
+            "despido incausado (despido sin causa)",
+            "etapa probatoria",
+            "modalidades del contrato de trabajo",
+            "agricultores (trabajadores rurales)",
+            "contrato de trabajo eventual",
+            "prueba",
+            "trabajadores agrarios (trabajadores rurales)",
+            "Obligaciones y contratos",
+            "arrendamiento (locación)",
+            "extinción por falta o disminución de trabajo (despido por falta o disminución de trabajo)",
+            "trabajador",
+            "proceso administrativo (procedimiento administrativo)",
+            "trabajo eventual (contrato de trabajo eventual)",
+            "Contratos",
+            "modalidades no promovidas",
+            "Administración Pública",
+            "trabajador no registrado (empleo no registrado)",
+            "asistencia sanitaria",
+            "inscripción del trabajador (regularización del trabajador)",
+            "acto administrativo",
+            "ley de empleo",
+            "etapas del proceso",
+            "SUSS (Sistema único de la seguridad social)",
+            "extinción del contrato de trabajo",
+            "trabajo agrario (trabajadores rurales)",
+            "Ministerio de Trabajo y Seguridad Social (Ministerio de Trabajo)",
+            "decreto reglamentario",
+            "despido sin causa",
+            "contrato de locación (locación)",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "sistema integral de prestaciones por desempleo y servicio de sepelio",
+            "reglamentos",
+            "agentes de la Administración (agentes de la administración pública)",
+            "subsidio por desempleo (seguro de desempleo)",
+            "contrato laboral (contrato de trabajo)",
+            "despido injustificado (despido sin causa)",
+            "sujetos del contrato de trabajo",
+            "despido del trabajador (despido)",
+            "personal del Estado (agentes de la administración pública)",
+            "derecho militar",
+            "Derecho procesal",
+            "despido indirecto",
+            "reglamento administrativo (reglamentos)",
+            "procedimiento administrativo",
+            "Derecho civil",
+            "empleado (trabajador)",
+            "Derecho de daños (responsabilidad civil)",
+            "despido por fuerza mayor",
+            "trabajadores de la construcción",
+            "función pública (Administración Pública)",
+            "subsidios de la Seguridad Social",
+            "Defensa nacional",
+            "servicio militar obligatorio",
+            "trabajo rural (trabajadores rurales)",
+            "Sistema Único de Registro Laboral",
+            "trabajo agrícola (trabajadores rurales)",
+            "Derecho laboral",
+            "empleo público",
+            "trabajo en negro (empleo no registrado)",
+            "registros laborales",
+            "despido",
+            "desarrollo del juicio (etapas del proceso)",
+            "distracto laboral (extinción del contrato de trabajo)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "daños y pérdidas (daños y perjuicios)",
+            "prestación transitoria por desempleo",
+            "trabajo no registrado (empleo no registrado)",
+            "asalariados (trabajador)",
+            "personal del sector público (agentes de la administración pública)",
+            "contratos civiles",
+            "Ministerio de Trabajo y Seguridad Social de la Nación (Ministerio de Trabajo)",
+            "locación de servicios",
+            "Ministerio de Trabajo",
+            "extinción por quiebra o concurso del empleador",
+            "Fondo nacional de empleo",
+            "relación de empleo público (empleo público)",
+            "personal de casas particulares",
+            "funcionarios y empleados públicos (agentes de la administración pública)",
+            "patrón (empleador)",
+            "Derecho administrativo",
+            "empleo no registrado",
+            "Sistema único de la seguridad social",
+            "regularización del trabajador",
+            "despido por disminución o falta de trabajo (despido por falta o disminución de trabajo)",
+            "locación",
+            "responsabilidad por daños (responsabilidad civil)",
+            "contrato de locación de servicios (locación de servicios)",
+            "Seguridad social",
+            "indemnización",
+            "despido sin justa causa (despido sin causa)",
+            "indemnización por daños (indemnización)",
+            "responsabilidad civil",
+            "disminución del trabajo (despido por falta o disminución de trabajo)",
+            "distracto (extinción del contrato de trabajo)",
+            "Ministerio de Trabajo, Empleo y Formación de Recursos Humanos (Ministerio de Trabajo)",
+            "despido por causas económicas (despido por falta o disminución de trabajo)",
+            "prueba del contrato de trabajo",
+            "seguro de desempleo",
+            "regularización laboral (regularización del trabajador)",
+            "actividades laborales",
+            "trabajo de temporada (contrato de trabajo de temporada)",
+            "Ministerio de Trabajo, Empleo y Seguridad Social (Ministerio de Trabajo)",
+            "despido por falta o disminución de trabajo",
+            "acto administrativo de alcance general",
+            "daños y perjuicios",
+            "desocupación (desempleo)",
+            "indemnización del daño (indemnización)",
+            "declaración jurada",
+            "contrato de trabajo de temporada",
+            "desempleo",
+            "Salud pública",
+            "servicio doméstico (personal de casas particulares)",
+            "obreros de la construcción (trabajadores de la construcción)",
+            "servicio de conscripción (servicio militar)",
+            "sistema integral de prestaciones por desempleo (sistema integral de prestaciones por desempleo y servicio de sepelio)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "servicio militar",
+            "trabajadores rurales",
+            "agentes públicos (agentes de la administración pública)",
+            "trabajadores de casas particulares (personal de casas particulares)",
+            "denuncia del contrato de trabajo (despido)",
+            "empleador",
+            "Dirección Nacional de Empleo",
+            "contrato de temporada (contrato de trabajo de temporada)",
+            "contrato de trabajo en general",
+            "trabajo doméstico (personal de casas particulares)",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024013 1991 11 13 0000 000 0000 000"
+          }
+        },
+        "texto": "la Ley 24.013, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024013 1991 11 13 0152 000 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  el  artículo 152 de la Ley 24.013 instituye la prestación transitoria por  desempleo,  cuyo pago debe comenzar a realizarse a los 90 días de sancionada la Ley.\n\nQue  ese artículo dispone que  los  requisitos,  montos  y  plazos deben ser establecidos por la reglamentación.\n\nQue estas  disposiciones tienen como objetivo compatibilizarla con los requisitos,  condiciones  y  características  de  la prestación permanente que la sucederá.\n\nQue  por  ello,  se  reiteran  las  normas relativas al ámbito  de aplicación, obligaciones  del  beneficiario    y    el  empleador, definición  de  la  situación  legal  de  desempleo  y causales  de suspensión  y extinción, reduciéndose los plazos de presentación  y de  prestaciones,    acordes    con  su  carácter  transitorio.\n\nQue esta reiteración tiene como  objeto  facilitar  su  manejo por los beneficiarios.\n\nQue  los  pagos  realizados  en concepto de prestación transitoria serán considerados a cuenta de  la  permanente,  a fin de facilitar la transición de un régimen a otro.\n\nQue el universo de beneficiarios de la prestación  transitoria por desempleo  comprende  a aquellos trabajadores cuya situación  legal de desempleo comience a  partir del día 26 de diciembre de 1991, es decir desde la vigencia de la Ley 24.013.\n\nQue se faculta al MINISTERIO  DE  TRABAJO  Y  SEGURIDAD  SOCIAL  a fijar  el  monto  de  la  prestación transitoria por desempleo, así como  a dictar las normas complementarias  para  la  aplicación  de este decreto.\n\nQue  el    presente  decreto  se  dicta  de  conformidad  con  las facultades reglamentarias  otorgadas  al  PODER  EJECUTIVO NACIONAL por    el  artículo  86  inciso  2  de  la  CONSTITUCION  NACIONAL."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art. 1: La prestación transitoria por desempleo instituida por el artículo  152  de la Ley 24.013 se reglamenta por las siguientes normas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 020744 1976 05 13 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "Art. 2: Las disposiciones de este decreto serán de aplicación a todos  los trabajadores cuyo contrato de trabajo se rija por la Ley de Contrato  de  Trabajo  (t.  o.  1976).  No  será aplicable a los trabajadores  comprendidos  en  el  Régimen  Nacional   de  Trabajo Agrario,  a los  trabajadores  del  servicio  doméstico, a quienes hayan  dejado  de  prestar  servicios en la Administración  Pública Nacional,  Provincial  o  Municipal    afectados   por  medidas  de racionalización administrativa y a los comprendidos  en  el régimen legal para la industria de la construcción."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3:  Para  tener  derecho a la prestación transitoria por desempleo  los  trabajadores  deberán    reunir    los   siguientes requisitos:\n\na)  Encontrarse en situación legal de desempleo y disponible  para ocupar un puesto de trabajo adecuado.\n\nb) Estar  inscriptos  en el Sistema Unico de Registro Laboral o en el ex-Instituto Nacional  de  Previsión  Social,  hasta tanto aquél comience a funcionar.\n\nc) Haber cotizado al Fondo Nacional de Empleo durante  un  período mínimo  de doce (12) meses durante los tres (3) años anteriores  al cese del  contrato de trabajo que dio lugar a la situación legal de desempleo,  o  al  ex-Instituto Nacional de Previsión Social por el período anterior a la  existencia  del  Sistema  Unico del Registro Laboral.\n\nd)  Los  trabajadores  contratados  a  través  de las empresas  de servicios  eventuales  habilitadas  por  la  autoridad  competente, tendrán  un  período  de  cotización  mínimo de noventa  (90)  días durante los doce (12) meses anteriores  al  cese de la relación que dio lugar a la situación legal de desempleo.\n\ne)  No  percibir  jubilación,  pensión, retiro o  prestaciones  no contributivas.\n\nf) Haber solicitado el otorgamiento  de  la  prestación  dentro de los treinta (30) días de extinguida la relación laboral, plazo  que comenzará  a  contarse a partir de la vigencia de la Ley 24.013. Si la solicitud se  presentara  fuera del plazo, los días que excedan de aquél serán descontados del total  del período de prestación que le correspondiere."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 020744 1976 05 13 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art.  4:  Se encontrarán bajo situación legal de desempleo los trabajadores  comprendidos    en    los  siguientes  supuestos.\n\na) Despido sin justa causa (artículo  245),  Ley  de  Contrato  de Trabajo (t. o. 1976).\n\nb)  Despido  por fuerza mayor o por falta o disminución de trabajo no  imputable al  empleador  (artículo  247)  Ley  de  Contrato  de Trabajo (t. o. 1976).\n\nc) Resolución  del contrato por denuncia del trabajador fundada en justa causa (artículos  242  y 246), Ley de Contrato de Trabajo (t. o. 1976).\n\nd) Extinción del contrato por  quiebra  o  concurso  del empleador (artículo  251),  Ley  de  Contrato  de  Trabajo  (t. o. 1976).\n\ne) Expiración del tiempo convenido, realización de  la  obra tarea asignada, o del servicio objeto del contrato.\n\nf)  Muerte,  jubilación  o  invalidez  del  empresario  individual cuando éstas determinen la extinción del contrato.\n\ng)  No  reiniciación  o  interrupción  del contrato de trabajo  de temporada por causas ajenas al trabajador.\n\nSi hubiere duda sobre la existencia de la  relación  laboral  o la justa  causa  del despido se requerirá actuación administrativa del MINISTERIO DE TRABAJO  Y  SEGURIDAD  SOCIAL  DE  LA NACION o de los organismos  en  que  éste delegue la determinación sumaria  de  la verosimilitud de la situación invocada."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5: La extinción de la relación laboral que da lugar a la situación legal  de  desempleo  debe haberse producido a partir del 26 de diciembre de 1991."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6:  La  solicitud  tendrá carácter de declaración jurada respecto de los hechos consignados  en  la  misma e interrumpirá el plazo  de  presentación  aunque  adolezca de errores  u  omisiones.\n\nTambién  se  formalizará  con ella la  iniciación  del  trámite  de búsqueda  de  empleo  ante la  Dirección  Nacional  de  Empleo  del MINISTERIO DE TRABAJO Y  SEGURIDAD  SOCIAL  DE  LA  NACION o, en su caso, de los otros organismos autorizados."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art.  7:  El  derecho  a  la  percepción  de  las prestaciones comenzará  a  los  TREINTA  (30)  días  corridos  de presentada  la solicitud,  plazo  que  podrá  ser  reducido  por el MINISTERIO  DE TRABAJO Y SEGURIDAD SOCIAL.\n\nEn los casos de trabajadores que hubieran percibido indemnizaciones o gratificaciones por cese de la  relación  laboral dentro  de  los  SEIS (6) meses anteriores a la presentación de  la solicitud de prestación  transitoria  por  desempleo, el MINISTERIO DE  TRABAJO  Y  SEGURIDAD  SOCIAL podrá establecer  un  período  de espera  diferenciado  de  hasta    SESENTA    (60)  días  corridos."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art.  8: El tiempo de prestación estará en relación al período de  cotización  dentro  de  los  tres  (3)  años  anteriores  a  la extinción  del  contrato  que  dio  origen  a la situación legal de desempleo con arreglo a la siguiente escala:\n\n Período  Per[iodo de Cotizaci[on                 Duraci[on de las Prestaciones  de 12 a 24 meses                        4 meses de 24 o m[as                            6 meses   Para los trabajadores eventuales comprendidos en  el  inciso d) del artículo  113  de  la  Ley  24.013, la duración de las prestaciones será de un (1) día por cada TRES  (3)  de  servicios  prestados con cotización con el tope máximo de CUATRO (4) meses.\n\nEl MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL determinará  la  forma de  acumular los períodos de cotización efectuados por las diversas modalidades  en las  que  se  hubiera  desempeñado  el trabajador."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art.  9:  La  prestación  transitoria  por  desempleo  estará integrada por:\n\na)  Una  suma  de  dinero mensual que determinará el MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL,  la  que  no estará sujeta a embargo ni deducciones.\n\nb) Prestaciones médico-asistenciales de  acuerdo  a  lo  dispuesto por las Leyes 23.660 y 23.661."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art.  10:  El  período  de  percepción  de las prestaciones se computará  a  los  efectos  previsionales  con  el alcance  de  los incisos a) y b) del artículo 12 de la Ley 24.013 y su reglamentación."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art.  11:  El  trabajador  que hubiera percibido la prestación transitoria por desempleo, en todo  o  en  parte,  tendrá derecho a obtener la prestación del Título IV, Capítulo Unico  de  la  Ley 24 013  si  reuniere  los  requisitos  para  ello,  en  cuyo  caso los importes  percibidos en  concepto  de prestación transitoria serán considerados como pagos a cuenta de lo  que  le  correspondiere por aquélla."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art. 12: Los empleadores están obligados a:\n\na)  Efectuar  las  inscripciones  del  artículo 7 de la Ley 24.013  b) Ingresar sus contribuciones al Fondo  Nacional  de  Empleo.\n\nc)  Proporcionar  a  la  autoridad de aplicación la documentación, datos y certificaciones que se le requieran.\n\nd) Comprobar fehacientemente  que  el trabajador en el caso de que fuera  perceptor  de  prestaciones  transitorias    por  desempleo, hubiera cursado la correspondiente baja al momento de  incorporarse a la empresa."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "Art. 13: Los beneficiarios están obligados a:\n\na)  Proporcionar a la autoridad de aplicación la documentación que se le  requiera,  así  como comunicar los cambios de domicilio o de residencia.\n\nb) Aceptar los empleos  adecuados  que  le  sean  ofrecidos por el MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL y asistir a  las  acciones de formación para las que sean convocados.\n\nc)    Aceptar   los  controles  que  establezca  la  autoridad  de aplicación.\n\nd) Solicitar la  extinción  o  suspensión del pago de prestaciones por desempleo, al momento de incorporarse  a  un  nuevo  puesto  de trabajo.\n\ne)  Reintegrar los montos de prestaciones indebidamente percibidas de conformidad  con  lo  que  determine  la autoridad de aplicación  f)  Declarar  gratificaciones e indemnizaciones  por  cese  de  la relación laboral,  correspondientes  a  los últimos SEIS (6) meses."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "Art. 14: La percepción de las prestaciones se suspenderá cuando el beneficiario:\n\na)  No comparezca ante requerimiento de la autoridad de aplicación sin causa que lo justifique.\n\nb) No  dé  cumplimiento  a  las  obligaciones  establecidas en los incisos  a),  b)  y  c),  del  artículo  13  de  este  decreto.\n\nc)  Cumpla el servicio militar obligatorio salvo que tenga  cargas de familia.\n\nd)Sea  condenado  penalmente  con pena de privación de la libertad  e)  Celebre  contrato de trabajo de  duración  determinada  por  un plazo  menor  a  DOCE  (12)  meses,  de  duración  indeterminada  o eventual.\n\nLa suspensión de  la  prestación no afecta el período de prestación que le restaba percibir  al  beneficiario  pudiendo  reanudarse  al finalizar la causa que le dio origen."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Art.  15: El derecho a la prestación se extinguirá en caso que el beneficiario  quede comprendido en los siguientes supuestos:\n\na) Haber agotado  el  plazo de duración de las prestaciones que le hubiere correspondido.\n\nb) Haber obtenido jubilación, retiro o prestaciones no contributivas.\n\nc) Haber celebrado contrato  de  trabajo  por  un plazo superior a DOCE (12) meses.\n\nd) Haber obtenido las prestaciones por desempleo  mediante fraude, simulación o reticencia.\n\ne)  Continuar  percibiendo la prestación cuando correspondiere  su suspensión.\n\nf) Incumplir las  obligaciones  establecidas en los incisos d), e) y f) del artículo 13, de este Decreto.\n\ng)  Negarse  reiteradamente  a  aceptar    los  empleos  adecuados ofrecidos  por el MINISTERIO DE TRABAJO Y SEGURIDAD  SOCIAL  DE  LA NACION."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 019549 1972 04 03 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 16,
+          "texto": "Art.  16:  Las  normas  de  procedimiento  a aplicar serán las siguientes:\n\na)  La  resolución  de reconocimiento, suspensión,  reanudación  y extinción del derecho  a  las  prestaciones  por  desempleo  deberá fundarse y contra ella podrá interponerse recurso administrativo  o judicial.\n\nb) 1. Cuando la actuación administrativa sea denegada expresamente    podrá  interponerse  recurso  por  ante  la  CAMARA NACIONAL DE APELACIONES  DE  LA  SEGURIDAD  SOCIAL,  en el plazo de TREINTA  (30)  días siguientes a la fecha en que sea notificada  la denegatoria.\n\n2. Si no recae  resolución expresa en el recurso administrativo en el  plazo  de  CUARENTA   Y  CINCO  (45)  días  de  presentado,  el interesado  podrá requerir  pronto  despacho  y  si  transcurrieren otros TREINTA  (30)  días sin emitir resolución, se considerará que existe silencio de la  administración  y  quedará  expedita  la vía judicial.\n\nc)  En  todo  lo  no  contemplado expresamente por la Ley 24.013 y este Decreto, regirá supletoriamente la Ley 19.549 y su reglamentación."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 002284 1991 10 31 0087 000 0000 000"
+            }
+          },
+          "numero-articulo": 17,
+          "texto": "Art.  17:  La  prestación  transitoria  por  desempleo  será gestionada  por  el  MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL DE LA NACION y financiada con  los  recursos  del  Sistema  Unico  de  la Seguridad Social (articulo 87, Decreto 2284/91)."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "Art.  18:  La prestación comenzará a pagarse el 26 de marzo de 1992. El MINISTERIO  DE  TRABAJO Y SEGURIDAD SOCIAL queda facultado para adelantar esa fecha."
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "Art.  19:  El  MINISTERIO  DE TRABAJO Y SEGURIDAD SOCIAL DE LA NACION queda facultado para dictar  las normas complementarias para la aplicación de este Decreto."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "Art. 20: El presente Decreto comenzará a regir a partir del día de su publicación."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "Art. 21: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - DIAZ"
+      },
+      "id-infojus": "DN19910002726"
+    }
+  }
+}

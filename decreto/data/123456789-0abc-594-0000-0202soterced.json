@@ -1,0 +1,615 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-594-0000-0202soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1591218467167,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "495-nacional-movilidad-jubilatoria-prestaciones-previsionales-sistema-integrado-previsional-argentino-pension-universal-para-adulto-mayor-pensiones-contributivas-graciables-pension-honorifica-veterano-guerra-asignaciones-familiares-comprendidas-ley-24714-dn20200000495-2020-05-26"
+      }
+    },
+    "content": {
+      "mecanografico": 20200000495,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 495,
+      "timestamp": "2020-06-03T17:41:15",
+      "timestamp-alta": "2020-05-27T09:53:33",
+      "timestamp-m": "2020-06-03T17:41:15",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2020-05-26",
+      "standard-normativo": "DEC C 000495 2020 05 26",
+      "titulo-norma": "Movilidad Jubilatoria de las Prestaciones previsionales del Sistema Integrado Previsional Argentino; la Pensión Universal para el Adulto Mayor; las Pensiones no Contributivas y graciables; la Pensión Honorífica de Veterano de Guerra y las Asignaciones Familiares comprendidas en la Ley 24.714",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2020 05 27"
+        }
+      },
+      "lugar-emision": "CAPITAL FEDERAL",
+      "nombre-coloquial": "DECRETO NACIONAL 495/2020",
+      "analista": "Rocca, Adriana",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2020-05-27",
+      "fecha-mod": "2020-06-03",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "Se establece la Movilidad Jubilatoria de las Prestaciones previsionales del Sistema Integrado Previsional Argentino; la Pensión Universal para el Adulto Mayor; las Pensiones no Contributivas y graciables; la Pensión Honorífica de Veterano de Guerra y las Asignaciones Familiares comprendidas en la Ley 24.714",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 11 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 9 FECHA DE ENTRADA EN VIGENCIA : 27/5/2020"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "emergencia pública"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/estado de emergencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "emergencia pública",
+                "acción social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delegación legislativa"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Legislativo/facultades del Poder Legislativo/facultades legislativas/delegación legislativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "facultades legisferantes",
+                "poderes públicos",
+                "actos del Poder Legislativo",
+                "delegación de atribuciones legislativas",
+                "legislación delegada",
+                "función legisferante"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "movilidad jubilatoria"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones/haber jubilatorio/movilidad del haber jubilatorio"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "movilidad jubilatoria",
+                "82% móvil",
+                "jubilaciones y pensiones",
+                "régimen de movilidad de haberes",
+                "previsión social",
+                "proporcionalidad del haber jubilatorio",
+                "movilidad del haber previsional",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sistema integrado previsional argentino"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/sistema integrado previsional argentino"
+            },
+            "sinonimos": {
+              "termino": "previsión social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensión universal para el adulto mayor"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones no contributivas/pensión a la vejez"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "pensión universal para el adulto mayor",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones no contributivas"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones no contributivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensión honorífica de veteranos de la Guerra del Atlántico Sur"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/guerra/veteranos de guerra/excombatientes de Malvinas/pensión honorífica de veteranos de la Guerra del Atlántico Sur"
+            },
+            "sinonimos": {
+              "termino": [
+                "defensa nacional",
+                "ex combatientes de Islas Malvinas",
+                "ex combatientes de Malvinas",
+                "excombatientes",
+                "ex combatientes"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignaciones familiares"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "82% móvil (movilidad del haber jubilatorio)",
+            "haber previsional (beneficios previsionales)",
+            "movilidad jubilatoria (movilidad del haber jubilatorio)",
+            "asignaciones familiares",
+            "haber jubilatorio",
+            "pensión a la vejez",
+            "prestaciones previsionales (beneficios previsionales)",
+            "veteranos de guerra",
+            "emergencia pública (estado de emergencia)",
+            "Bienestar social",
+            "subsidio familiar (asignaciones familiares)",
+            "facultades legisferantes (facultades legislativas)",
+            "adicional por cargas de familia (asignaciones familiares)",
+            "Sistema único de la seguridad social",
+            "defensa nacional (Defensa y seguridad)",
+            "Seguridad social",
+            "delegación de atribuciones legislativas (delegación legislativa)",
+            "pensión universal para el adulto mayor (pensión a la vejez)",
+            "ex combatientes de Islas Malvinas (excombatientes de Malvinas)",
+            "pensión honorífica de veteranos de la Guerra del Atlántico Sur",
+            "proporcionalidad del haber jubilatorio (movilidad del haber jubilatorio)",
+            "SUSS (Sistema único de la seguridad social)",
+            "actos del Poder Legislativo (facultades del Poder Legislativo)",
+            "Poder Legislativo",
+            "excombatientes de Malvinas",
+            "asistencia familiar (asignaciones familiares)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "función legisferante (facultades legislativas)",
+            "facultades del Poder Legislativo",
+            "previsión social (sistema previsional)",
+            "Defensa y seguridad",
+            "guerra",
+            "estado de emergencia",
+            "derechos previsionales (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones",
+            "acción social (Bienestar social)",
+            "poderes públicos (poderes del Estado)",
+            "sistema integrado previsional argentino",
+            "salario familiar (asignaciones familiares)",
+            "régimen de movilidad de haberes (movilidad del haber jubilatorio)",
+            "emergencias sociales",
+            "pensiones no contributivas",
+            "subsidios de la Seguridad Social",
+            "pensiones graciables",
+            "ex combatientes (veteranos de guerra)",
+            "excombatientes (veteranos de guerra)",
+            "movilidad del haber previsional (movilidad del haber jubilatorio)",
+            "ex combatientes de Malvinas (excombatientes de Malvinas)",
+            "poderes del Estado",
+            "facultades legislativas",
+            "legislación delegada (delegación legislativa)",
+            "Derecho constitucional",
+            "delegación legislativa",
+            "movilidad del haber jubilatorio",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022929 1983 09 27 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024714 1996 10 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 026417 2008 10 01 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 026425 2008 11 20 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 027160 2015 07 15 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "LEY C 027260 2016 06 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DNU C 000160 2005 02 25 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "DEC C 000921 2016 08 09 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "DEC C 000163 2020 02 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_11",
+              "ref": "DNU C 000260 2020 03 12 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente EX-2020-32753250-ANSES-DPR#ANSES, las Leyes Nros. 22.929, 24.241, 24.714, 26.417, 26.425, 27.160, 27.260, 27.541, sus respectivas modificatorias y complementarias, el Decreto N° 160 de fecha 25 de febrero de 2005, el Decreto N° 921 de fecha 9 de agosto de 2016, el Decreto N° 163 de fecha 18 de febrero de 2020, el Decreto Nº 260 de fecha 12 de marzo de 2020, la Resolución del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL N° 139 de fecha 28 de febrero de 2020, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022929 1983 09 27 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024241 1993 09 23 0032 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024714 1996 10 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 026417 2008 10 01 0010 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 027260 2016 06 29 0006 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 027541 2019 12 21 0001 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DNU C 000160 2005 02 25 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "DEC C 000921 2016 08 09 0002 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DEC C 000163 2020 02 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "CON C 000000 1994 08 22 0076 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "LEY C 024241 1993 09 23 0009 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_11",
+              "ref": "LEY C 024241 1993 09 23 0008 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_12",
+              "ref": "LEY C 024476 1995 03 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_13",
+              "ref": "LEY C 024241 1993 09 23 0017 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_14",
+              "ref": "LEY C 026122 2006 07 20 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_15",
+              "ref": "CON C 000000 1994 08 22 0082 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_16",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_17",
+              "ref": "LEY C 027541 2019 12 21 0055 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "El Presidente de la Nación Argentina decreta:",
+        "texto": "Que por el artículo 1° de la Ley N° 27.541 se declaró la emergencia pública en materia económica, financiera, fiscal, administrativa, previsional, tarifaria, energética, sanitaria y social, y se delegó en el PODER EJECUTIVO NACIONAL determinadas facultades, en los términos del artículo 76 de la CONSTITUCIÓN NACIONAL, con arreglo a las bases de delegación establecidas en su artículo 2°, hasta el 31 de diciembre de 2020.\n\nQue por el artículo 55 de dicha norma se suspendió por CIENTO OCHENTA (180) días la aplicación del artículo 32 de la Ley N° 24.241, sus modificatorias y complementarias, período durante el cual el PODER EJECUTIVO NACIONAL quedó obligado a fijar trimestralmente un incremento de los haberes previsionales correspondientes al régimen general de la citada ley, atendiendo prioritariamente a los beneficiarios de más bajos ingresos.\n\nQue en cumplimiento de dicha manda legal se dictó el Decreto N° 163/20, por el cual se dispuso el primer incremento trimestral correspondiente a los meses de marzo, abril y mayo del año 2020, en atención a los principios cardinales de solidaridad, redistribución y sustentabilidad que rigen el Sistema Previsional.\n\nQue por la resolución del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL N° 139/20 se determinaron los incrementos de diversos conceptos y prestaciones cuya actualización se encuentra ligada a la movilidad suspendida, conforme lo dispuesto por el artículo 5º del decreto precedentemente citado.\n\nQue por medio del presente, y en cumplimiento de lo establecido por los artículos ya referidos de la Ley N° 27.541, se dispone el otorgamiento del segundo incremento trimestral correspondiente para los meses de junio, julio y agosto del año 2020 para las prestaciones previsionales del Sistema Integrado Previsional Argentino (SIPA); la Pensión Universal para el Adulto Mayor; las Pensiones no Contributivas y graciables; la Pensión Honorífica de Veterano de Guerra; y las Asignaciones Familiares comprendidas en la Ley N° 24.714, sus normas modificatorias y complementarias, con excepción a la prevista en el artículo 6° inciso e) de dicha norma.\n\nQue dichos incrementos serán otorgados a partir del mes de junio de 2020 y quedarán incorporados como parte integrante del haber previsional, de las Asignaciones Familiares y de las Pensiones no Contributivas antes citadas.\n\nQue no obstante lo expuesto, existen diversos conceptos y prestaciones cuya actualización periódica remite a los índices de movilidad del suspendido artículo 32 de la Ley N° 24.241, los que por razones de celeridad y economía procesal y atento el carácter alimentario de dichas prestaciones resulta necesario disponerlas en el presente acto.\n\nQue por el artículo 10 de la Ley N° 26.417 se establece que la base imponible máxima prevista en el primer párrafo del artículo 9º de la Ley N° 24.241 y sus modificatorias, se ajustará conforme la evolución del índice previsto en el artículo 32 de la mencionada ley.\n\nQue por el artículo 3° de la citada norma se dispuso que las rentas de referencia que se fijan en el artículo 8º de la Ley N° 24.241 y sus modificatorias se ajustarán conforme la evolución del índice previsto en el artículo 32 de la mencionada ley, con la periodicidad que establezca el PODER EJECUTIVO NACIONAL.\n\nQue mediante el artículo 6° de la Ley N° 27.260 se estableció que el pago de las acreencias resultantes de los Acuerdos Transaccionales en el marco de la Reparación Histórica se realizará en efectivo, cancelándose en un CINCUENTA POR CIENTO (50%) en UNA (1) cuota y el restante CINCUENTA POR CIENTO (50%) en DOCE (12) cuotas trimestrales iguales y consecutivas, que se actualizarán hasta la fecha de efectivo pago, con los mismos incrementos que se otorguen por la movilidad.\n\nQue por el artículo 21 de la ley señalada precedentemente se estableció que los importes de las cuotas de las obligaciones incluidas en el régimen de moratoria previsto en la Ley N° 24.476 y sus modificaciones, se adecuarán semestralmente mediante la aplicación del índice de movilidad establecido por el artículo 32 de la Ley N° 24.241 y sus modificatorias.\n\nQue, por su parte, el artículo 2° del Decreto N° 921/16 también determinó que los valores del SUBSIDIO AUTOMÁTICO NOMINATIVO DE OBRAS SOCIALES (SANO) se ajustarán automáticamente, de conformidad a los plazos y coeficientes de actualización previstos en la Ley Nº 26.417.\n\nQue las prestaciones previsionales otorgadas a los investigadores científicos y tecnológicos a que se refiere la Ley N° 22.929 y sus modificatorias, en el marco del Decreto N° 160/05, también se actualizan conforme lo dispuesto en el artículo 32 de la Ley N° 24.241, actualmente suspendido.\n\nQue resulta necesario establecer un criterio sustitutivo con el fin de actualizar los conceptos y prestaciones citados en los considerandos precedentes, aplicando criterios de razonabilidad y equilibrio.\n\nQue a tales efectos se considera pertinente utilizar para ello el mismo índice determinado para el incremento de los haberes previsionales.\n\nQue, asimismo, corresponde determinar el valor la Prestación Básica Universal (PBU) a que hace referencia el inciso a) del artículo 17 de la Ley N° 24.241, sus modificatorias y complementarias, a partir del 1° de junio de 2020.\n\nQue el ESTADO NACIONAL tiene como uno de sus objetivos principales la protección de los ciudadanos y las ciudadanas y el aseguramiento y goce efectivo de sus derechos esenciales, por lo que resulta de interés prioritario garantizar las prestaciones de la Seguridad Social, priorizando la atención de las familias con mayores necesidades, más aún en este contexto de emergencia pública, profundizado a raíz de la pandemia de COVID-19.\n\nQue la Ley Nº 26.122 regula el trámite y los alcances de la intervención del HONORABLE CONGRESO DE LA NACIÓN respecto de los decretos dictados por el PODER EJECUTIVO NACIONAL, en virtud de lo dispuesto por el artículo 76 de la CONSTITUCIÓN NACIONAL.\n\nQue la citada Ley determina que la Comisión Bicameral Permanente tiene competencia para pronunciarse respecto de la validez o invalidez de los decretos de delegación legislativa.\n\nQue el artículo 22 de dicha norma dispone que las Cámaras se pronuncian mediante sendas resoluciones y que el rechazo o aprobación de los decretos deberá ser expreso, conforme lo establecido en el artículo 82 de la Carta Magna. Que los servicios de asesoramiento jurídico permanente han tomado la intervención que les compete.\n\nQue la presente medida se dicta en uso de las atribuciones conferidas por los artículos 76 y 99 incisos 1 y 2 de la CONSTITUCIÓN NACIONAL y por el artículo 55 de la Ley N° 27.541. Por ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+            }
+          },
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LEY C 024241 1993 09 23 0032 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "ARTÍCULO 1°.- Dispónese que todas las prestaciones previsionales a cargo de la ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (ANSES), otorgadas en virtud de la Ley N° 24.241, sus modificatorias y complementarias, de regímenes nacionales generales anteriores a la misma y sus modificatorias, de regímenes especiales derogados, o por las ex-cajas o institutos provinciales y municipales de previsión cuyos regímenes fueron transferidos a la Nación, los destinatarios y las destinatarias de las pensiones no contributivas y graciables que refieran a la movilidad prevista en el artículo 32 de la Ley N° 24.241 y sus modificatorias y a la Pensión Honorífica del Veterano de Guerra, tendrán un incremento equivalente a SEIS COMA DOCE POR CIENTO (6,12 %) sobre el haber devengado correspondiente al mensual mayo de 2020."
+        },
+        {
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LEY C 024714 1996 10 02 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "ARTÍCULO 2°.- Dispónese un incremento de los rangos de ingresos del grupo familiar y de los montos de las Asignaciones Familiares previstas en la Ley N° 24.714, sus normas modificatorias y complementarias, con excepción de la establecida en el inciso e) del artículo 6° de la misma, el cual será equivalente al SEIS COMA DOCE POR CIENTO (6,12 %) de los rangos y montos establecidos en los Anexos mencionados en el artículo 2° de la Resolución ANSES Nº 75/20."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTÍCULO 3°.- Dispónese que los incrementos otorgados en el presente decreto regirán a partir del 1° de junio de 2020 y quedarán incorporados como parte integrante del haber de las prestaciones alcanzadas y de las Asignaciones Familiares, respectivamente."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026222 2007 02 27 0000 000 0000 000"
+            }
+          },
+          "observa-a": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "OBSERVA_A_0",
+                "ref": "LEY C 024241 1993 09 23 0125 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "OBSERVA_A_1",
+                "ref": "LEY C 024241 1993 09 23 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 4,
+          "texto": "ARTÍCULO 4°.- Dispónese que el haber mínimo garantizado por el artículo 125 de la Ley N° 24.241 (texto según Ley N° 26.222) y el haber máximo de las jubilaciones otorgadas y a otorgar según la Ley N° 24.241, sus modificatorias y complementarias, serán actualizados a partir del 1º de junio de 2020, con un incremento porcentual equivalente al establecido en el artículo 1° del presente decreto.",
+          "observado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 3/06/2020) Por Resolución de la Administración Nacional de Seguridad Social se dispone que el haber mínimo garantizado vigente a partir del mes de junio de 2020 será de ($16.864,05.-).",
+                "id": "OBSERVADO_POR_0",
+                "ref": "RES C 000167 2020 06 01 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 3/06/2020) Por Resolución de la Administración Nacional de Seguridad Social se dispone que el haber máximo vigente a partir del mes de junio de 2020 será de ($113.479,11.-).",
+                "id": "OBSERVADO_POR_1",
+                "ref": "RES C 000167 2020 06 01 0002 000 0000 000"
+              }
+            ]
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DNU C 000160 2005 02 25 0000 000 0000 000"
+            }
+          },
+          "observa-a": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "OBSERVA_A_0",
+                "ref": "LEY C 024241 1993 09 23 0009 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "OBSERVA_A_1",
+                "ref": "LEY C 024241 1993 09 23 0008 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "OBSERVA_A_2",
+                "ref": "LEY C 022929 1983 09 27 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "OBSERVA_A_3",
+                "ref": "LEY C 027260 2016 06 29 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "OBSERVA_A_4",
+                "ref": "LEY C 024476 1995 03 29 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "OBSERVA_A_5",
+                "ref": "LEY C 026970 2014 08 27 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 5,
+          "texto": "ARTÍCULO 5°.- Dispónese que a partir del 1° de junio de 2020 se actualizarán en un porcentual equivalente al establecido en el artículo 1°, los siguientes conceptos:\n\na. El monto mínimo y máximo de la remuneración imponible previsto en el artículo 9° de la Ley N°  24.241, modificatorias y complementarias.\n\nb. Las rentas de referencia de los trabajadores autónomos establecidas en el artículo 8° de la Ley N° 24.241, modificatorias y complementarias.\n\nc. Los valores del SUBSIDIO AUTOMÁTICO NOMINATIVO DE OBRAS SOCIALES (SANO).\n\nd. Las prestaciones previsionales otorgadas a los investigadores científicos y tecnológicos a que se refiere la Ley N° 22.929 y sus modificatorias, en el marco del Decreto N° 160/05. e. Las cuotas pendientes de pago de los Acuerdos Transaccionales suscriptos en el marco de la Reparación Histórica instituida por la Ley N° 27.260.\n\nf. Las cuotas pendientes de pago de los Regímenes de Regularización de Deudas Previsionales previstos en las Leyes N° 24.476 y N° 26.970"
+        },
+        {
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LEY C 024241 1993 09 23 0017 000 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "ARTÍCULO 6°.- Dispónese que a partir del 1° de junio de 2020 el valor de la Prestación Básica Universal a que hace referencia el inciso a) del artículo 17 de la Ley N° 24.241, sus modificatorias y complementarias, será la resultante de aplicar el SEIS COMA DOCE POR CIENTO (6,12 %) sobre el valor de dicha prestación vigente a mayo 2020.",
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 3/06/2020) Por Resolución de la Administración Nacional de Seguridad Social se establece el importe de la Prestación Básica Universal (PBU) aplicable a partir del mes de junio de 2020, en la suma de ($7.215,18.-).",
+              "id": "OBSERVADO_POR_0",
+              "ref": "RES C 000167 2020 06 01 0004 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTÍCULO 7°.- Facúltase a la SECRETARÍA DE SEGURIDAD SOCIAL del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, a la ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (ANSES), a la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS (AFIP), a la SUPERINTENDENCIA DE RIESGOS DEL TRABAJO (SRT) y a la SUPERINTENDENCIA DE SERVICIOS DE SALUD (SSS), en el marco de sus respectivas competencias, a adoptar todas las medidas reglamentarias, complementarias, interpretativas y aclaratorias que sean necesarias para asegurar la efectiva aplicación del presente decreto."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTÍCULO 8°.- Facúltase al Jefe de Gabinete de Ministros a realizar las adecuaciones presupuestarias correspondientes para dar cumplimiento a las disposiciones que se establecen por la presente medida"
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTÍCULO 9°.- Establécese que la presente medida entrará en vigencia el día de su publicación en el BOLETÍN OFICIAL."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "ARTÍCULO 10.- Dése cuenta a la COMISIÓN BICAMERAL PERMANENTE del HONORABLE CONGRESO DE LA NACIÓN."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "ARTÍCULO 11.- Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FERNÁNDEZ-Cafiero-Moroni"
+      },
+      "id-infojus": "DN20200000495"
+    }
+  }
+}

@@ -1,0 +1,771 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-530-1002-2002soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1734706627714,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1035-nacional-decreto-reglamentario-sobre-transporte-cargas-dn20022001035-2002-06-14"
+      }
+    },
+    "content": {
+      "mecanografico": 20022001035,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1035,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2002-06-14",
+      "standard-normativo": "DEC C 001035 2002 06 14",
+      "titulo-norma": "DECRETO REGLAMENTARIO SOBRE TRANSPORTE DE CARGAS",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2002 06 19"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 1",
+            "id": "DEROGA A0",
+            "ref": "DEC C 000105 1998 01 26 0000 000"
+          },
+          {
+            "cr": "POR ART. 55 ANEXO I",
+            "id": "OBSERVA A1",
+            "ref": "DEC C 000253 1995 08 03 0000 000"
+          },
+          {
+            "cr": "POR ART. 56 ANEXO I",
+            "id": "OBSERVA A2",
+            "ref": "DEC C 000253 1995 08 03 0000 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1035/2002",
+      "estado": "Vigente, de alcance general",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2024-12-20",
+      "fecha-mod": "2024-12-20",
+      "timestamp": "2024-12-20T11:50:17",
+      "timestamp-alta": "2024-12-20T11:50:17",
+      "timestamp-m": "2024-12-20T11:50:17",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 24.653 DE TRANSPORTE DE CARGAS.",
+        "anexos-decreto": {
+          "anexo-ley": "A ANEXO I. REGLAMENTACION"
+        },
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 4"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "actos de alcance general",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte automotor"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte automotor"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte de carga"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "transporte en contenedores",
+                "transporte de mercaderías"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte interno"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte interno"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte interjurisdiccional",
+                "transporte aéreo interno",
+                "transporte interprovincial",
+                "tráfico interjurisdiccional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte internacional"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte internacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte terrestre internacional",
+                "transporte aéreo internacional",
+                "transporte marítimo internacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "REGISTRO ÚNICO DEL TRANSPORTE AUTOMOTOR"
+            },
+            "preferido": {
+              "termino": "REGISTRO ÚNICO DEL TRANSPORTE AUTOMOTOR"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte aéreo interno (transporte interno)",
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "transporte de mercaderías (transporte de carga)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "transporte interjurisdiccional (transporte interno)",
+            "reglamentos",
+            "transporte automotor",
+            "transporte marítimo internacional (transporte internacional)",
+            "transporte interno",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "transporte en contenedores (transporte de carga)",
+            "Derecho administrativo",
+            "transporte interprovincial (transporte interno)",
+            "REGISTRO ÚNICO DEL TRANSPORTE AUTOMOTOR",
+            "Transporte",
+            "contrato de transporte",
+            "transporte internacional",
+            "transporte de carga general (transporte de carga)",
+            "tráfico interjurisdiccional (transporte interno)",
+            "acto administrativo",
+            "actos de alcance general (acto administrativo de alcance general)",
+            "transporte aéreo internacional (transporte internacional)",
+            "transporte terrestre internacional (transporte internacional)",
+            "transporte de carga"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+          }
+        },
+        "texto": "el Expediente N. S01:0155810/2002 del Registro del MINISTERIO DE LA PRODUCCION y la  Ley N. 24.653  de Transporte Automotor de Cargas, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000105 1998 01 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000929 2001 07 24 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que la  Ley N. 24.653 instituyó el nuevo régimen al que deberá someterse el Transporte por Automotor de Cargas de carácter nacional e internacional en la medida que no se encuentre reglado por Convenios Internacionales.\n\nQue a través de su aplicación intentó generar las condiciones legales que permitirían el funcionamiento de un servicio eficiente, seguro, con capacidad necesaria para satisfacer los requerimientos de la demanda en un mercado cuyos precios se determinan por la libre interacción de la oferta y la demanda.\n\nQue para cumplir con los objetivos determinados, el Artículo 6 ha creado el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.), en el cual deben inscribirse en forma simple, todos aquéllas que realicen transporte o servicios de transporte, en carácter de actividad exclusiva o no, como condición ineludible para ejercer dicha actividad.\n\nQue a fin de reglamentar la Ley N. 24.653 se dicto el Decreto N. 105 de fecha 26 de enero de 1998.\n\nQue dicha reglamentación determinó la implementación del REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.), estableciendo el procedimiento de inscripción y de expedición de la certificación correspondiente, pero sin unificar la documentación exigible al transportista a los fines de la circulación, al discriminar los procedimientos en función de la categoría de cada transportista.\n\nQue la experiencia ha demostrado la conveniencia de flexibilizar el sistema de inscripción al REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.) a fin de alcanzar en forma eficiente una adecuada organización y funcionamiento del mismo.\n\nQue para el cumplimiento de ese primordial objetivo se estima conveniente simplificar el procedimiento de registración mediante la reformulación de las exigencias relativas a la inscripción de los transportistas en el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.\n\nU.T.A.), y de garantizar el cabal cumplimiento de la libertad de contratación, orientando al autotransporte a través de políticas que contemplen un adecuado control por parte de los organismos competentes.\n\nQue así se ha tomado en cuenta que el régimen de inscripción del transporte por automotor de jurisdicción nacional debe permitir un control suficiente, un trámite simplificado y único, contando con los recursos informáticos que faciliten la recepción, transmisión, archivo y publicidad de las registraciones, atendiendo, al mismo tiempo, a las necesidades de seguridad jurídica.\n\nQue en el marco del CONVENIO PARA MEJORAR LA COMPETITMDAD Y LA GENERACION DE EMPLEO para el sector del transporte de carga automotor, aprobado por Decreto N. 929 de fecha 24 de julio de 2001, el GOBIERNO NACIONAL se comprometió a implementar el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.).\n\nQue en función del conocimiento específico que nace de su competencia material, es necesario que la Autoridad de Aplicación de la Ley N 24.653 y del presente decreto reglamente la implementación del REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A. ), respetando los citados lineamientos.\n\nQue el sistema de transporte por automotor de cargas requiere una reglamentación oportuna, herramientas adecuadas de control y por ende una rápida sanción de las conductas reflejadas en un dinámico régimen sancionatorio.\n\nQue ello se encuentra contemplado por la Ley N. 24.653, que constituye lo que en doctrina se ha denominado leyes penales en blanco, toda vez que permiten a la Administración aplicar las penas que definen dichas leyes, facultando a esta última, a establecer las infracciones y la graduación de las sanciones.\n\nQue, conforme lo ha sostenido la PROCURACION DEL TESORO DE LA NACION, mediante el sistema de leyes penales en blanco se pretende, principalmente, lograr la eficaz y oportuna represión de ciertos hechos que, como las infracciones a las leyes reguladoras de la policía económica y de salubridad, se refieren a situaciones sociales fluctuantes que exigen una legislación de oportunidad (Dictámenes: 207:534).\n\nQue corresponde ordenar diversos aspectos relacionados con los tipos y las escalas punitivas de forma tal que su gravedad encuentre sustento en los parámetros que regulan la actividad en la actualidad.\n\nQue en el Capítulo III del Decreto N. 105 de fecha 26 de enero de 1998, se aprobó el régimen sancionatorio aplicable, exclusivamente, a las personas físicas o jurídicas que realicen servicios de transporte por automotor de cargas, correspondiendo disponer una tipificación diferenciada en materia de cargas generales de las de mercancías peligrosas.\n\nQue en este contexto, cabe destacar que la aplicación de sanciones no persigue como fin la recaudación de fondos, sino que apunta a observar los principios de la prevención general, encaminando las conductas de los administrados a la observancia cabal de las normas que regulan la actividad que desarrollan.\n\nQue en atención a las medidas que por el presente decreto se adoptan corresponde asimismo fijar las pautas para que la Autoridad de Aplicación implemente un régimen de presentación voluntaria, al cual podrán adherirse todas las personas físicas o jurídicas a las cuales se les haya labrado acta de infracción o se les hubiere aplicado sanción de multa por infracciones a las normas que regulan el autotransporte de cargas de jurisdicción nacional, que tienda a equiparar las situaciones pretéritas con la realidad imperante.\n\nQue el régimen aprobado por el presente decreto persigue la consecución de un sistema de transporte de cargas por carretera ordenado, saneado y ágil, a la par que competitivo y ecuánime.\n\nQue en tal sentido, y en el de la protección de los emprendimientos privados nacionales y la protección de la mano de obra involucrada en el desenvolvimiento del sector, se establece una diferenciación precisa entre los conceptos de transporte internacional y de cabotaje, con el fin de erradicar situaciones distorsivas del libre mercado, que han ocasionado en los últimos años severos perjuicios a la actividad.\n\nQue la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA ha tomado la intervención que le compete.\n\nQue el presente acto se dicta en virtud de las facultades conferidas por el Artículo 99, incisos 1 y 2 de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "Artículo 1 - Apruébase la reglamentación de la Ley N. 24.653, que como Anexo I forma parte integrante del presente decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2 - Autorízase a la SECRETARIA DE TRANSPORTE del MINISTERIO DE LA PRODUCCION a aprobar un régimen de presentación voluntaria para los operadores de servicios de transporte de cargas de jurisdicción nacional con relación a las multas aplicadas impagas y a las presuntas infracciones constatadas con anterioridad a la entrada en vigencia del presente decreto, debiendo adecuarse las imputaciones en trámite y el monto de las sanciones impuestas a lo establecido en el Capítulo IV del Anexo I del presente decreto.\n\nLa referida Secretaría establecerá las condiciones para la presentación voluntaria, así como los modos y plazos de pago. La presentación voluntaria exigirá el reconocimiento de la infracción de que se trata, pudiendo establecerse una quita en el monto de la multa correspondiente o prever un plan de pagos, con el objeto de propender a la regularización del sector."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000105 1998 01 26 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "Art. 3 - Derógase el Decreto N. 105 de fecha 26 de enero de 1998."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4 - Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "DUHALDE-Atanasof-Lavagna"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "ANEXO I. REGLAMENTACION DE LA LEY 24.653",
+        "segmento": [
+          {
+            "titulo-particion": "CAPITULO I. PRINCIPIOS GENERALES",
+            "articulo": [
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 1,
+                "texto": "ARTICULO 1: Los servicios de transporte por automotor de cargas de jurisdicción nacional, se regirán por las disposiciones de la Ley N. 24.653, esta reglamentación y las normas complementarias que  dicte la Autoridad de Aplicación."
+              },
+              {
+                "numero-articulo": 2,
+                "texto": "ARTICULO 2: Se hallan comprendidos en el marco legal definido en el artículo anterior los transportistas que realicen los siguientes tráficos:\n\na) Interjurisdiccional: son los que se llevan a cabo entre las Provincias y la Capital Federal, así como los que se realizan en o entre puertos y aeropuertos nacionales con una Provincia o con la Ciudad Autónoma de Buenos Aires.\n\nb) Internacional: son los que tienen origen en la REPUBLICA ARGENTINA y el destino en otro país o viceversa, o los que se efectúen entre terceros países en tránsito por el territorio de la REPUBLICA ARGENTINA de acuerdo a los Convenios Internacionales vigentes, quedando exceptuado la aplicación de aquella normativa cuyos aspectos estén regulados en dichos convenios."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024653 1996 06 05 0005 000 0000 000"
+                  }
+                },
+                "numero-articulo": 3,
+                "texto": "ARTICULO 3: Será Autoridad de Aplicación del presente régimen la SECRETARIA DE TRANSPORTE del MINISTERIO DE LA PRODUCCION conforme lo establecido por el Artículo 5 de la Ley N. 24.653."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 4,
+                "texto": "ARTICULO 4: Únicamente se podrá exigir para circular, a los vehículos afectados al transporte interjurisdiccional de cargas, la siguiente documentación:.\n\na) NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nconstancia de inscripción en el REGISTRO ÚNICO DEL TRANSPORTE AUTOMOTOR (RUTA) en formato digital o físico;\n\nb) constancia de realización de la revisión técnica obligatoria, la que se acreditará mediante la oblea que deberá ser adherida en el parabrisas o cualquier otro instrumento que, a tal fin, determine la Autoridad de Aplicación;\n\nc) Licencia Nacional de Conducir vigente para el tipo de vehículo que conduce;\n\nd) documento de transporte, carta de porte o guía, de conformidad con lo establecido en la Ley Nº 24.653. En caso de transporte internacional la documentación determinada por los Acuerdos, Tratados y Convenios;\n\ne) cédula de Identificación del Automotor;\n\nf) constancia física o digital de la contratación y vigencia de los seguros obligatorios;\n\ng) en los casos de vehículos afectados al transporte de cargas peligrosas, la documentación específica exigida por la normativa vigente en la materia; y.\n\nh) en los supuestos en que el tránsito requiera de un permiso especial de circulación, el instrumento que acredite la concesión del referido permiso.\n\nLa verificación del cumplimiento de los requisitos enumerados en este artículo queda reservada a la Autoridad de Aplicación o a quien esta delegue dicha facultad. Ninguna autoridad provincial, municipal o de la CIUDAD AUTÓNOMA DE BUENOS AIRES podrá exigir el cumplimiento de otros requisitos a los transportistas afectados al presente régimen.",
+                "modificado-por": {
+                  "referencia-normativa": [
+                    {
+                      "cr": "(B.O 16/9/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE LOS 60 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "DEC C 000832 2024 09 13 0001 000 0000 000"
+                    },
+                    {
+                      "cr": "(B.O. 19-12-2024) INCISO A) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                      "id": "MODIFICADO_POR_1",
+                      "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                    }
+                  ]
+                }
+              },
+              {
+                "numero-articulo": 5,
+                "texto": "ARTICULO 5: A los fines de lo previsto en la presente reglamentación, se entenderá que existe transporte por automotor de cargas cuando la capacidad de carga del vehículo afectado a la actividad sea superior a TRES MIL QUINIENTOS (3500) kilogramos, y en el caso de los acoplados o remolcados, desde SETECIENTOS CINCUENTA (750) kilogramos. Se encuentran excluidas del alcance de esta reglamentación las casas rodantes remolcadas o autopropulsadas, sin límite de peso.\n\nLa Autoridad de Aplicación podrá modificar fundadamente las capacidades de carga definidas en el párrafo anterior.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 16/9/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE LOS 60 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DEC C 000832 2024 09 13 0002 000 0000 000"
+                  }
+                }
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": "Inciso g).",
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024653 1996 06 05 0007 000 0000 000"
+                  }
+                },
+                "numero-articulo": 6,
+                "texto": "ARTICULO 6: En los vehículos destinados al transporte de cargas queda prohibido el transporte de pasajeros. A los fines de lo dispuesto por el Artículo 7 inciso g) de la Ley N. 24.653, se entenderá por pasajeros a aquellas personas que paguen una contraprestación para ser trasladadas.\n\nEn ningún caso se podrán transportar personas en la bodega o sobre la carga."
+              },
+              {
+                "numero-articulo": 7,
+                "texto": "ARTICULO 7: La carga que se le entregue a los transportistas, deberá estar bien acondicionada, dando cumplimiento a las normas específicas que establezca la autoridad competente sobre cada producto transportado."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO II. POLITICAS DE TRANSPORTE DE CARGAS",
+            "articulo": {
+              "numero-articulo": 8,
+              "informacion-vinculada": 1E+19,
+              "texto": "ARTICULO 8: La elaboración e implementación de las políticas en materia de transporte de cargas, tendrá como especial objetivo:\n\na) El fortalecimiento del sector, organizado en forma moderna, segura y eficiente para que opere en un mercado libre, competitivo y ordenado, profundizando el control y propendiendo a la erradicación del transporte por automotor de cargas que no se adecue a la presente reglamentación.\n\nb) La participación de las entidades representativas del sector empresario y sindical a los fines de considerar sus opiniones y recomendaciones en la toma de decisiones.\n\nc) NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nLa organización de un registro que dé respuesta a las necesidades de un adecuado control.\n\nA tal efecto, se desarrollará una activa gestión tendiente a la celebración de convenios con organismos públicos o privados para la utilización de los servicios del REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.), evitando su coexistencia con otros.\n\nd) La eliminación de todas las restricciones que impidan o dificulten, en territorio extranjero, la equiparación de tratamiento y de condiciones de operabilidad de los transportistas nacionales, y a tal fin continuar participando ante los foros internacionales, y en especial en el ámbito del MERCADO COMUN DEL SUR (MERCOSUR).\n\ne) La coordinación entre los organismos competentes de un plan conjunto tendiente a la definitiva eliminación de las diferentes modalidades infraccionales que afectan al autotransporte de cargas, mediante la incorporación de modernas tecnologías y control adecuado.\n\nf) La facilitación fronteriza propendiendo a la unificación de los controles en frontera, con el objeto de agilizar los tránsitos, sin desmedro del estricto cumplimiento de la actividad de policía del ESTADO NACIONAL, tendiente a evitar la comisión de ilícitos e infracciones.\n\ng) La colaboración con las entidades recaudatorias, con el objeto de lograr una adecuada percepción de la renta aduanera e impositiva.\n\nh) La elaboración de una acabada estadística sobre la composición, estado y características del parque automotor, conformando una actualizada base de datos.\n\ni) La educación y seguridad vial, tendientes a obtener una drástica disminución de los índices accidentológicos.\n\nj) El transporte multimodal.\n\nk) La preservación del medio ambiente.\n\nl) La capacitación del personal de conducción.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 19-12-2024) INCISO C) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                }
+              }
+            }
+          },
+          {
+            "titulo-particion": "CAPITULO III. REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR.",
+            "articulo": [
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 9,
+                "texto": "ARTICULO 9: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nEl REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.) funcionará en el ámbito de la SECRETARIA DE TRANSPORTE del MINISTERIO DE LA PRODUCCION, quien podrá delegar en la COMISION NACIONAL DE REGULACION DEL TRANSPORTE dependiente del MINISTERIO DE ECONOMIA la supervisión del mismo, o en algún otro organismo público según estime conveniente."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 10,
+                "texto": "ARTICULO 10: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nLa SECRETARIA DE TRANSPORTE del MINISTERIO DE LA PRODUCCION podrá celebrar convenios de colaboración, cooperación y coordinación operativa, con diversas entidades públicas o privadas del sector a fin de implementar el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.), los que podrán prever mecanismos de autogestión y pautas para su financiamiento."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 11,
+                "texto": "ARTICULO 11: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nToda persona física o jurídica que realice transporte o servicios de transporte por automotor como actividad exclusiva o no, deberá obligatoriamente inscribirse en el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.), bajo los requisitos y con el aporte de los datos estadísticos esenciales que oportunamente establezca la Autoridad de Aplicación.\n\nSe encontrará habilitado para realizar transporte de cargas, todo aquél que se inscriba en dicho registro."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 12,
+                "texto": "ARTICULO 12: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nEl REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.) deberá valerse de medios informáticos, a los fines de recepcionar, transmitir, archivar y dar publicidad a sus registros, así como intercambiar información con organismos oficiales, debiendo tomar recaudos de seguridad física y jurídica, para el cumplimiento de esa finalidad."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024653 1996 06 05 0000 000 0000 000"
+                  }
+                },
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 13,
+                "antecedentes": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 16/9/2024) INCISO B) SUSTITUIDO CON VIGENCIA A PARTIR DE LOS 60 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "ANTECEDENTES_0",
+                    "ref": "DEC C 000832 2024 09 13 0003 000 0000 000"
+                  }
+                },
+                "texto": "ARTICULO 13: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nSerán funciones del REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A ):\n\na) Inscribir a toda persona física o de existencia ideal, que realice servicio de transporte por automotor de cargas y que cumpla con los requisitos que establezca la Autoridad de Aplicación de acuerdo a lo estipulado en la Ley N. 24.653.\n\nb) Otorgar el certificado digital que acredite la inscripción.\n\nc) Llevar el registro de altas, bajas y modificaciones, ordenado e informatizado.\n\nd) Procesar la información registrada a los fines de su elaboración estadística.\n\ne) Brindar la información pública a todo aquél que lo requiera, según las normas y recaudos que se establezcan, y difundir las estadísticas elaboradas propendiendo a la mejor calidad de los servicios de transporte y a la transparencia del mercado.\n\nf) Implementar un sistema informático para la elaboración estadística del transporte internacional."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 14,
+                "texto": "ARTICULO 14: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nLas inscripciones de los transportistas se formalizarán de acuerdo a las siguientes categorías, según su especialidad de tráfico, pudiendo los interesados inscribirse en UNA (1) o más categorías:\n\na) Transportista de Carga Masiva o a Granel (T.C.M.G.): comprende a quien realice transporte de bienes homogéneos efectuado por un transportista, que sin necesidad de pasar por su depósito tiene uno o varios destinos y se encuentra respaldado por uno o más documentos contractuales.\n\nb) Transportista de Carga Peligrosa (T.C.Pg.): comprende al transportista que realice traslado de sustancias o mercancías consideradas peligrosas por la normativa vigente, que sin necesidad de pasar por un depósito propio, tiene uno o varios destinos y que se encuentra amparado por uno o más documentos respaldatorios. Si las sustancias o las mercancías fueran acopiadas en el depósito del transportista deberá cumplir en lo pertinente, con las especificaciones previstas para la especialidad de carga fraccionada.\n\nc) Transportista de Carga Fraccionada (T.C.F.): comprende el traslado efectuado por un transportista, como actividad principal o accesoria y con un fin económico, de bienes compatibles que puedan ser consolidados en la misma bodega, acopiados en uno o varios orígenes, de uno a varios dadores de carga, con uno o más destinos y con entregas completas o fraccionadas.\n\nd) Transportista de Carga Propia (T.C.P): comprende los servicios de transporte automotor de cargas realizado por comerciantes, industriales, ganaderos, agricultores, empresas y entidades privadas en general, mediante vehículos automotores de su propiedad, de efectos y mercaderías o efectos sin transformación o elaboración de los mismos. Sólo podrá ser considerado transporte propio de esas mercaderías o productos el efectuado en los vehículos de propiedad de quien transporta, cuando el precio de venta de las mercaderías sea fijo y uniforme, es decir, independiente del lugar de entrega.\n\ne) Transportista de Tráficos Especiales (T.T.E.): comprende actividades que por sus características técnicas requieren de normas específicas de regulación, cuya determinación corresponde a la SECRETARIA DE TRANSPORTE del MINISTERIO DE LA PRODUCCION, como el transporte de caudales, de cargas indivisibles (ingeniería del transporte), de correos o valores bancarios, de recolección de residuos, de trabajos en la vía pública, de ganado mayor o de cualquier otro que determine el referido organismo.\n\nf) Transportista de Carga Internacional (T.C.I.): comprende el traslado de mercaderías efectuado por un transportista entre la REPUBLICA ARGENTINA y otro país."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 15,
+                "texto": "ARTICULO 15: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nA los fines de su inscripción en las referidas categorías y en consideración a su estructura operativa, los transportistas podrán ser:\n\na) Empresa: a cuyos fines deberá encontrarse inscripta en la INSPECCION GENERAL DE JUSTICIA dependiente de la SECRETARIA DE JUSTICIA Y ASUNTOS LEGISLATIVOS del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS. A los fines estadísticos, deberán aportarse los datos relativos a su situación patrimonial, en base a la cantidad de unidades de su propiedad, antigüedad de las mismas y su infraestructura (depósitos, talleres, lavaderos y sucursales).\n\nb) Transportista Individual: a cuyos fines se deberá acreditar el cumplimiento de la obligación de emitir cartas de porte.\n\nc) Fleteros: a cuyos fines se deberá acreditar el nombre y domicilio del principal por cuenta de quien realizará servicios de transporte.\n\nCumplidos los recaudos precedentes se procederá a su inscripción."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 16,
+                "texto": "ARTICULO 16: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nLos dadores de carga sólo podrán contratar a aquellos transportistas que se encuentren debidamente inscriptos en el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.)."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 17,
+                "texto": "ARTICULO 17: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nFacúltase a la SECRETARIA DE TRANSPORTE del MINISTERIO DE LA PRODUCCION a dictar la normativa relacionada con la inscripción, administración y funcionamiento del REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.)."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": "17 002",
+                "antecedentes": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 16/9/2024) ARTICULO INCORPORADO CON VIGENCIA A PARTIR DE LOS 60 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "ANTECEDENTES_0",
+                    "ref": "DEC C 000832 2024 09 13 0004 000 0000 000"
+                  }
+                },
+                "texto": "ARTÍCULO 17 bis.- NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nEl proceso de inscripción en el REGISTRO ÚNICO DEL TRANSPORTE AUTOMOTOR (RUTA) será electrónico, declarativo, gratuito y no exigirá presencialidad."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO IV. REGIMEN SANCIONATORIO",
+            "articulo": [
+              {
+                "numero-articulo": 18,
+                "texto": "ARTICULO 18: La ejecución de transporte de cargas, sin la REVISION TECNICA OBLIGATORIA (R.T.O.) será sancionada con multa de CINCO (5) unidades a DIEZ (10) unidades. El monto de la multa será de DIEZ (10) unidades a VEINTE (20) unidades cuando se efectuare transporte de mercancías peligrosas."
+              },
+              {
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 19,
+                "antecedentes": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 16/9/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE LOS 60 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "ANTECEDENTES_0",
+                    "ref": "DEC C 000832 2024 09 13 0005 000 0000 000"
+                  }
+                },
+                "texto": "ARTICULO 19: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nLa realización del transporte por automotor de cargas sin contar con la inscripción en el REGISTRO ÚNICO DEL TRANSPORTE AUTOMOTOR (RUTA) será sancionada con multa de UNA (1) unidad a CINCO (5) unidades. Será solidariamente responsable el dador o tomador de carga que contratara los servicios de transporte de quien no haya cumplido con la inscripción en el mencionado registro.\n\nLa multa será condonada en aquellos casos en que el infractor inicie la inscripción en el registro dentro del plazo de QUINCE (15) días hábiles de haberse incurrido en la infracción."
+              },
+              {
+                "numero-articulo": 20,
+                "texto": "ARTICULO 20: La ejecución de transporte por automotor de cargas sin contar con la documentación exigida por la normativa vigente para la clase de servicio que realiza, será sancionada con multa de UNA (1) unidad a CINCO (5) unidades."
+              },
+              {
+                "numero-articulo": 21,
+                "texto": "ARTICULO 21: La realización de transporte de cargas local dentro del territorio de la REPUBLICA ARGENTINA, efectuado por un transportista extranjero, será penado conforme lo estipula el Acuerdo de Transporte Internacional Terrestre, aprobado por Resolución N. 263 de fecha 16 de noviembre de 1990 de la ex - SUBSECRETARIA DE TRANSPORTE del ex - MINISTERIO DE OBRAS Y SERVICIOS PUBLICOS y su Régimen de Penalidades aprobado por Disposición N. 242 de fecha 9 de mayo del año 1997 de la ex - SUBSECRETARIA DE TRANSPORTE METROPOLITANO Y DE LARGA DISTANCIA dependiente de la ex - SECRETARIA DE OBRAS PUBLICAS Y TRANSPORTE del ex - MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS. En caso de denuncia o pérdida de vigencia de dichos Acuerdos, se aplicarán iguales penalidades a las allí establecidas en carácter de normativa nacional.\n\nAsimismo el dador o tomador de la carga será solidariamente responsable por las multas que en tal caso se impongan.\n\nLa Autoridad de Aplicación podrá disponer la inmovilización del vehículo con carácter preventivo, hasta tanto se concluyan los procedimientos sumariales respectivos, y sea satisfecho el monto de la multa impuesta.\n\nA los efectos de lo establecido en el presente artículo, se considerará como regla interpretativa, que la carga local se encuentra en situación de ser sujeta a Transporte Internacional Terrestre cuando, al iniciarse el transporte, el mismo sea amparado por un contrato de transporte internacional, donde conste el origen y destino de la carga, siempre que no se efectúen transbordos y el transporte continúe en el mismo vehículo. En esos casos, la mercadería transportada deberá poseer desde el inicio del transporte las condiciones intrínsecas y físicas de embalaje, permisos y/o certificaciones técnicas o sanitarias, exigidas para ser exportada al país de destino.\n\nEn cuanto a la carga de origen extranjero, el transporte internacional deberá concluir en el lugar de destino contratado al inicio del transporte por el dador de la carga, tomándose para ello especialmente en cuenta el contenido del Manifiesto Internacional de Cargas o Carta de Porte Internacional, así como toda otra documentación o acreditación exigible por la normativa vigente."
+              },
+              {
+                "numero-articulo": 22,
+                "texto": "ARTICULO 22: El transporte por automotor de cargas realizado con conductores que no cuenten con la Licencia Nacional de Conducir que corresponda será sancionado con multa de DIEZ (10) unidades a VEINTE (20) unidades. El máximo de la sanción podrá incrementarse hasta DOSCIENTAS (200) unidades cuando el personal afectado hubiera sido expresamente inhabilitado o se le hubiera rechazado el otorgamiento de la referida Licencia Nacional de Conducir o cuando se produjera algún accidente.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 16/9/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE LOS 60 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DEC C 000832 2024 09 13 0006 000 0000 000"
+                  }
+                }
+              },
+              {
+                "numero-articulo": 23,
+                "texto": "ARTICULO 23: La prestación del transporte por automotor de cargas realizado sin la contratación de los seguros exigidos por la reglamentación vigente, será sancionada con multa de VEINTE (20) unidades a CUARENTA (40) unidades. El monto de la multa será de TREINTA (30) unidades a SESENTA (60) unidades cuando se efectuare transporte de mercancías peligrosas. Será solidariamente responsable el dador o tomador de carga que contratare los servicios de transporte de quien no haya dado cumplimiento a la contratación de los seguros aludidos."
+              },
+              {
+                "numero-articulo": 24,
+                "texto": "ARTICULO 24: El transporte de cargas efectuado sin observar las reglamentaciones vigentes dirigidas a garantizar las condiciones de sujeción para el acarreo de cargas de conformidad con lo dispuesto por el Artículo 7 del presente Anexo, será sancionado con multa de CINCO (5) unidades a DIEZ (10) unidades. Si por motivo de la infracción se produjere algún accidente o hecho dañoso la multa será de CINCUENTA (50) unidades a CIEN (100) unidades. Será solidariamente responsable el dador o tomador de cargas que no garantice las condiciones de seguridad en el transporte antes descriptas."
+              },
+              {
+                "numero-articulo": 25,
+                "texto": "ARTICULO 25: La realización del transporte de cargas efectuado en violación de la sanción de caducidad oportunamente impuesta, en cumplimiento de la presente reglamentación, será sancionada con multa de DOSCIENTAS (200) unidades a QUINIENTAS (500) unidades.\n\nEn tal caso, el Organismo de Control podrá disponer la inmovilización del vehículo con carácter preventivo, hasta tanto se ingrese el monto total de la sanción impuesta."
+              },
+              {
+                "numero-articulo": 26,
+                "texto": "ARTICULO 26: La realización del transporte de cargas en violación a las normas prescriptas para la extensión y uso de las cartas de porte o documentación equivalente, será sancionada con multa de CINCO (5) unidades a DIEZ (10) unidades."
+              },
+              {
+                "numero-articulo": 27,
+                "texto": "ARTICULO 27: El desconocimiento de las atribuciones de la Autoridad de Aplicación, del Organismo de Control, o de sus agentes autorizados, impidiéndoles a los mismos el cumplimiento de sus funciones, o la desobediencia a las órdenes debidamente notificadas, será sancionado con multa de TRES (3) unidades a SEIS (6) unidades, sin perjuicio de la pena que correspondiere aplicar por la infracción que en su caso, hubiera dado motivo a la atribución u orden emitida."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 024449 1994 12 23 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 28,
+                "texto": "ARTICULO 28: Cuando el transporte de cargas se realice con vehículos cuyo peso máximo y dimensiones se encuentren excedidos de acuerdo a lo establecido por la normativa vigente, o sin el permiso que lo habilite para ello, será sancionado conforme lo establecido en la  Ley N. 24.449 y su reglamentación. El dador de carga será solidariamente responsable. La Autoridad de Aplicación podrá delegar las funciones de fiscalización y control del régimen del presente artículo."
+              },
+              {
+                "numero-articulo": 29,
+                "texto": "ARTICULO 29: El transporte de pasajeros en vehículos de carga, será reprimido con multa de CINCO (5) unidades a DIEZ (10) unidades.\n\nEl transporte de personas en la bodega de los vehículos o sobre la carga será reprimido con multa de DIEZ (10) unidades a VEINTE (20) unidades. Cuando, por motivo de un accidente resultaran afectadas las personas transportadas en la modalidad mencionada, la multa será de CIEN (100) unidades a DOSCIENTAS (200) unidades y será incrementada a CUATROCIENTAS (400) unidades, si se produjere la muerte de alguna de ellas."
+              },
+              {
+                "numero-articulo": 30,
+                "texto": "ARTICULO 30: La falta de designación de representante legal, acreditado ante la autoridad competente, con amplios poderes de representación para todos los actos administrativos y judiciales, por parte de una empresa extranjera, será sancionada, con multa de VEINTE (20) unidades a CUARENTA (40) unidades."
+              },
+              {
+                "numero-articulo": 31,
+                "texto": "ARTICULO 31: Se impondrá multa de CINCUENTA (50) unidades a CIEN (100) unidades al transportista que adulterare o falseare, en todo o en parte, la oblea identificatoria y/o el certificado de cumplimiento de la REVISIÓN TÉCNICA OBLIGATORIA (RTO) y/o cualquier otro documento exigido por la Autoridad de Aplicación.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 16/9/2024) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE LOS 60 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DEC C 000832 2024 09 13 0007 000 0000 000"
+                  }
+                }
+              },
+              {
+                "numero-articulo": 32,
+                "texto": "ARTICULO 32: La realización del transporte de mercancías peligrosas en vehículos que no cumplan con las condiciones técnicas exigidas, de acuerdo a las disposiciones establecidas para cada mercancía en particular, será sancionada con multa de DIEZ (10) unidades a VEINTE (20) unidades."
+              },
+              {
+                "numero-articulo": 33,
+                "texto": "ARTICULO 33: El transporte de mercancías peligrosas a granel, sin poseer el certificado de habilitación del vehículo o del equipamiento otorgado por la Autoridad de Aplicación, será sancionado con multa de QUINCE (15) unidades a TREINTA (30) unidades."
+              },
+              {
+                "numero-articulo": 34,
+                "texto": "ARTICULO 34: La realización del transporte de cargas peligrosas en vehículos que no posean los paneles de seguridad o rótulos de riesgo o sean utilizados en forma inadecuada, será sancionada con multa de DIEZ (10) unidades a VEINTE (20) unidades.\n\nEn caso de que los mismos sean retirados sin la previa descontaminación de los vehículos, los márgenes de penalidad establecidos en este artículo se reducirán a la mitad.\n\nEl dador o tomador de la carga será solidariamente responsable."
+              },
+              {
+                "numero-articulo": 35,
+                "texto": "ARTICULO 35: El transporte en un mismo vehículo o contenedor de mercancías peligrosas con otro tipo de mercancía o con otros productos peligrosos incompatibles entre sí, será sancionado con multa de DIEZ (10) unidades a VEINTE (20) unidades. El dador o tomador de la carga será solidariamente responsable."
+              },
+              {
+                "numero-articulo": 36,
+                "texto": "ARTICULO 36: El transporte en forma conjunta de mercancías peligrosas con riesgo de contaminación y de productos para uso humano o animal, será sancionado con multa de TREINTA (30) unidades a SESENTA (60) unidades. Será solidariamente responsable el dador o tomador de la carga."
+              },
+              {
+                "numero-articulo": 37,
+                "texto": "ARTICULO 37: El transporte de mercancías peligrosas no permitidas por la autoridad competente será sancionado con multa de TREINTA (30) unidades a SESENTA (60) unidades. Será solidariamente responsable el dador o tomador de la carga."
+              },
+              {
+                "numero-articulo": 38,
+                "texto": "ARTICULO 38: La realización de operaciones de manipulación, carga o descarga de mercancías peligrosas en lugares públicos, o en condiciones inadecuadas de acuerdo a las características de las mercancías y la naturaleza de sus riesgos, de manera que se vea afectada la seguridad, salubridad pública y la preservación ambiental, será sancionada con multa de DIEZ (10) unidades a VEINTE (20) unidades. Será solidariamente responsable el dador o receptor de la carga en caso que dicha operatoria se realice en presencia o con conocimiento del mismo."
+              },
+              {
+                "numero-articulo": 39,
+                "texto": "ARTICULO 39: Cuando como consecuencia del derrame o fuga de la mercancía transportada, por acción u omisión del transportista, se produjere algún hecho grave o accidente en perjuicio de personas o de bienes o afectare el medio ambiente se aplicará multa de CIEN (100) unidades a DOSCIENTAS (200) unidades."
+              },
+              {
+                "numero-articulo": 40,
+                "texto": "ARTICULO 40: Cuando el conductor no adoptare en caso de accidente, avería u otro hecho que obligare a la inmovilización del vehículo, las medidas de seguridad y protección indicadas en la ficha de intervención, el transportista será sancionado con multa de DIEZ (10) unidades a VEINTE (20) unidades."
+              },
+              {
+                "numero-articulo": 41,
+                "texto": "ARTICULO 41: Cuando el transportista dejare de prestar el apoyo que le fuera solicitado por alguna autoridad pública o no informare de inmediato a la Autoridad Competente sobre la detención de un vehículo en caso de emergencia, accidente o avería, con cargas peligrosas, será sancionado con multa de TRES (3) unidades a SEIS (6) unidades."
+              },
+              {
+                "numero-articulo": 42,
+                "texto": "ARTICULO 42: La realización de transporte de cargas peligrosas en vehículos que no posean elemento registrador de operaciones, será sancionado con multa de SIETE (7) unidades a QUINCE (15) unidades.\n\nCuando el mal funcionamiento derivare de una acción dolosa la multa será de QUINCE (15) unidades a TREINTA (30) unidades."
+              },
+              {
+                "numero-articulo": 43,
+                "texto": "ARTICULO 43: El transporte de de cargas peligriosas que se efectuare en unidades de transporte con más de un remolque o semirremolque, será sancionado con multa de DIEZ (10) unidades a VEINTE (20) unidades."
+              },
+              {
+                "numero-articulo": 44,
+                "texto": "ARTICULO 44: Cuando el transporte de mercancías peligrosas se realizare en vehículos desprovistos de equipamientos para situaciones de emergencia o de equipamiento de protección individual, recomendado para el producto transportado, será sancionado con multa de TRES (3) unidades a SEIS (6) unidades."
+              },
+              {
+                "numero-articulo": 45,
+                "texto": "ARTICULO 45: Cuando el vehículo que transportare mercancías peligrosas, careciere de extintores para combatir principios de incendios en el vehículo o en la carga, el transportista será sancionado con multa de TRES (3) unidades a SEIS (6) unidades.\n\nCuando su funcionamiento fuera deficiente se aplicará multa de UNA (1) unidad a TRES (3) unidades."
+              },
+              {
+                "numero-articulo": 46,
+                "texto": "ARTICULO 46: Cuando las mercancías peligrosas no fueren debidamente acondicionadas. de acuerdo a las especificaciones realizadas por el fabricante del producto o cuando fueren mal estibadas o sujetadas de manera inadecuada, el transportista será sancionado con multa de CINCO (5) unidades a DIEZ (10) unidades. Si como consecuencia de lo mencionado se produjere algún hecho grave o accidente en perjuicio de personas o de bienes o afectare el medio ambiente, la multa será de SESENTA (60) unidades a CIENTO VEINTE (120) unidades.\n\nEl dador o tomador de la carga será solidariamente responsable."
+              },
+              {
+                "numero-articulo": 47,
+                "texto": "ARTICULO 47: Cuando alguna persona fumare en el interior del vehículo o en las proximidades del mismo, durante el transporte, carga o descarga de mercancías peligrosas inflamables, el transportista será sancionado con multa de DIEZ (10) unidades a VEINTE (20) unidades."
+              },
+              {
+                "numero-articulo": 48,
+                "texto": "ARTICULO 48: Cuando se efectuare el transporte de cargas peligrosas incumpliendo las normas relativas a la circulación, detención o estacionamiento previstas en la normativa vigente, el transportista será sancionado con multa de CINCO (5) unidades a DIEZ (10) unidades."
+              },
+              {
+                "numero-articulo": 49,
+                "texto": "ARTICULO 49: Cuando se transportaren mercancías peligrosas sin llevar en el interior del vehículo la declaración de carga emitida por el expedidor y las instrucciones escritas (fichas de intervención) en previsión de cualquier accidente, y toda aquella documentación que fuera expresamente exigida por la Autoridad Competente, el transportista será sancionado con multa de DIEZ (10) unidades a VEINTE (20) unidades. Será solidariamente responsable el dador o tomador de la carga."
+              },
+              {
+                "numero-articulo": 50,
+                "texto": "ARTICULO 50: Cuando el personal involucrado en la operación del transporte, procediere a abrir bultos o embalajes que contengan mercancías peligrosas, o entrar en vehículos con equipos capaces de producir ignición de los productos o de sus gases o vapores se aplicará una multa de CINCUENTA (50) unidades a CIEN (100) unidades."
+              },
+              {
+                "numero-articulo": 51,
+                "texto": "ARTICULO 51: Al efecto de la determinación del valor de la unidad de multa. de acuerdo a lo dispuesto por el Artículo 11 de la Ley N. 24.653, deberá tomarse el precio del gasoil para la venta al público minorista de la empresa YACIMIENTOS PETROLIFEROS FISCALES SOCIEDAD ANONIMA en la CAPITAL FEDERAL."
+              },
+              {
+                "numero-articulo": 52,
+                "texto": "ARTICULO 52: En los casos de reincidencia o concurso de infracciones, podrán según los casos incrementarse de DOS (2) a CINCO (5) veces, los topes establecidos en el presente Capítulo.\n\nEn tales supuestos, podrá asimismo disponerse, sin perjuicio de la multa aplicada, la suspensión del permiso o inscripción.\n\nLa sanción de suspensión del permiso o inscripción tendrá carácter temporal y no podrá exceder de CIENTO VEINTE (120) días corridos."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "TOR C 019550 1984 03 20 0059 000 0000 000"
+                  }
+                },
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 53,
+                "texto": "ARTICULO 53: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nSin perjuicio de lo establecido en el artículo anterior, podrá disponerse la caducidad de la inscripción en el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.) como sanción principal o accesoria cuando la reiteración de las infracciones, su importancia en relación con la seguridad, salubridad pública y con la preservación ambiental y los elementos que surjan del sumario así lo ameriten.\n\nEn el caso de las empresas, la sanción de caducidad será extensible a los socios y, de conformidad con lo establecido en el Artículo 59 de la Ley N. 19.550 (T. O. 1984) y sus modificaciones, a sus  administradores y representantes."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO V. DISPOSICIONES GENERALES",
+            "articulo": [
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 000253 1995 08 03 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 54,
+                "texto": "ARTICULO 54: En materia de procedimiento, serán de aplicación las disposiciones del Decreto N. 253 de fecha 3 de agosto de 1995 y sus modificatorios."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 000253 1995 08 03 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 55,
+                "texto": "ARTICULO 55: Derógase el Título II de la Sección II del  Decreto N. 253  de fecha 3 de agosto de 1995."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 000253 1995 08 03 0000 000 0000 000"
+                  }
+                },
+                "numero-articulo": 56,
+                "texto": "ARTICULO 56: Declárase inaplicable al transporte de cargas por carretera el Título III de la Sección II del Decreto N. 253 de fecha 3 de agosto de 1995 y sus modificatorios."
+              },
+              {
+                "referencias-normativas": {
+                  "referencia-normativa": [
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "DEC C 000802 2001 06 15 0010 000 0000 000"
+                    },
+                    {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_1",
+                      "ref": "DEC C 000976 2001 07 31 0000 000 0000 000"
+                    }
+                  ]
+                },
+                "derogado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 19-12-2024) ARTICULO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "DEROGADO_POR_0",
+                    "ref": "DEC C 001109 2024 12 18 0003 000 0000 000"
+                  }
+                },
+                "numero-articulo": 57,
+                "texto": "ARTICULO 57: NOTA DE REDACCION: DEROGADO POR DECRETO 1109/24.\n\nEn virtud de lo dispuesto por el Artículo 10 del Decreto N. 802 de fecha 15 de junio de 2001 y el Artículo 23, inciso a), Apartado III) del Decreto N. 976 de fecha 31 de julio de 2001, los beneficios establecidos en la normativa vigente para el transporte por automotor de cargas de jurisdicción nacional, serán otorgados exclusivamente a aquellos transportistas que se hubieren inscripto en el REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR (R.U.T.A.), de conformidad con lo normado en presente anexo y a lo que en consecuencia establezca la Autoridad de Aplicación."
+              }
+            ]
+          }
+        ]
+      },
+      "id-infojus": "DN20022001035",
+      "fecha-umod": 20241220115707
+    }
+  }
+}

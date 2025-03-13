@@ -1,0 +1,273 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-321-1000-9991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989563715,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1123-nacional-educacion-superior-dn19990001123-1999-10-08"
+      }
+    },
+    "content": {
+      "mecanografico": 19990001123,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1123,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1999-10-08",
+      "standard-normativo": "DEC C 001123 1999 10 08",
+      "titulo-norma": "EDUCACION SUPERIOR.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1999 10 12"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "PUNTO 1 DEL INC. A), POR ART. 1",
+          "id": "OBSERVA A0",
+          "ref": "LEY C 024714 1996 10 02 0005 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1123/99",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1999-10-14",
+      "fecha-mod": "2003-04-10",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE EXIME DEL PAGO DE LA CONTRIBUCION PREVISTA EN EL PUNTO 1 DEL INCISO A) DEL ARTICULO 5 DE LA LEY 24.714, QUE INSTITUYE EL REGIMEN DE ASIGNACIONES FAMILIARES, A LAS INSTITUCIONES UNIVERSITARIAS PRIVADAS REGULADAS DE CONFORMIDAD CON LA LEY N. 24.521 DE EDUCACION SUPERIOR, SOLO CON RELACION A LOS DOCENTES QUE PRESTAN SERVICIOS EN RELACION DE DEPENDENCIA."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "educación superior"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos/educación superior"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "enseñanza superior"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "docentes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/docentes"
+            },
+            "sinonimos": {
+              "termino": [
+                "maestros",
+                "Educación y Cultura",
+                "personal docente",
+                "docencia"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "universidades privadas"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales/universidades/universidades privadas"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "establecimientos educativos",
+                "institutos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "relación de dependencia"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/relación de dependencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "relación de trabajo",
+                "relación laboral",
+                "personal en relación de dependencia"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignaciones familiares"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "establecimientos educativos (establecimientos educacionales)",
+            "docentes",
+            "asistencia familiar (asignaciones familiares)",
+            "escuelas (establecimientos educacionales)",
+            "Cultura y educación",
+            "institutos educativos (establecimientos educacionales)",
+            "enseñanza superior (educación superior)",
+            "asignaciones familiares",
+            "instituciones educativas (establecimientos educacionales)",
+            "contrato laboral (contrato de trabajo)",
+            "establecimientos educacionales",
+            "relación de trabajo (relación de dependencia)",
+            "relación laboral (relación de dependencia)",
+            "educación superior",
+            "relación de dependencia",
+            "establecimientos de enseñanza (establecimientos educacionales)",
+            "subsidio familiar (asignaciones familiares)",
+            "personal docente (docentes)",
+            "infraestructura educativa",
+            "maestros (docentes)",
+            "adicional por cargas de familia (asignaciones familiares)",
+            "salario familiar (asignaciones familiares)",
+            "colegios (establecimientos educacionales)",
+            "Educación y Cultura (Cultura y educación)",
+            "Sistema único de la seguridad social",
+            "subsidios de la Seguridad Social",
+            "docencia (docentes)",
+            "institutos incorporados a la enseñanza oficial (establecimientos educacionales)",
+            "personal en relación de dependencia (relación de dependencia)",
+            "Seguridad social",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "educación",
+            "niveles educativos",
+            "Derecho laboral",
+            "SUSS (Sistema único de la seguridad social)",
+            "universidades",
+            "contrato de trabajo en general",
+            "universidades privadas"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024521 1995 07 20 0000 000 0000 000"
+          }
+        },
+        "texto": "la Ley N. 24.521, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024521 1995 07 20 0075 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 024714 1996 10 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002609 1993 12 22 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000372 1995 03 20 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000292 1995 08 14 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DEC C 000492 1995 09 22 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que la Ley de Educación Superior N. 24.521, establece en su artículo 75 que las instituciones universitarias podrán ser eximidas parcial o totalmente de impuestos y contribuciones previsionales de carácter nacional,  mediante  decreto del PODER EJECUTIVO NACIONAL.\n\nQue  a  su  vez  la Ley N. 24.714, que instituye un Régimen  de Asignaciones  Familiares,   prevé  una  contribución  a  cargo  del empleador  del  NUEVE  POR  CIENTO  (9%)  sobre  el  total  de  las remuneraciones de los trabajadores,  con  la  escala de reducciones prevista en el Decreto N. 2609 de fecha 22 de diciembre  de 1993 y sus  modificatorios,  Decretos  Nros.  372  de fecha 20 de marzo de 1995,  292  de  fecha 14 de agosto de 1995 y 492  de  fecha  22  de septiembre de 1995, destinada a financiar el pago de las asignaciones familiares y el Fondo Nacional de Empleo.\n\nQue las características  particulares  de  la tarea docente en las instituciones universitarias hace conveniente disponer la eximición del pago de la referida contribución, sin perjuicio  del  pago  por parte  del  empleador de las asignaciones familiares a los docentes que presten servicios  en relación de dependencia, de acuerdo a las prestaciones,  monto  y topes  establecidos  en  la  Ley N. 24.714.\n\nQue dicha exención debe  regir  en  relación  a  las instituciones universitarias privadas, otorgándoles así un régimen similar al que poseen las instituciones universitarias estatales.\n\nQue  la  decisión  que  se  adopta  encuadra  en las atribuciones conferidas  por  el  artículo  99,  inciso  1,  de  la CONSTITUCION NACIONAL, y en el artículo 75 de la Ley N. 24.521.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024521 1995 07 20 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "Art. 1: Exímese del pago de la contribución prevista  en  el punto 1 del inciso  a)  del  artículo  5  de  la Ley N. 24.714, que instituye el Régimen de Asignaciones Familiares, a las instituciones universitarias privadas reguladas de  conformidad con la Ley N. 24.521 de Educación Superior, sólo con relación  a  los docentes  que    prestan   servicios  en  relación  de  dependencia."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 024714 1996 10 02 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 2,
+          "texto": "Art.  2:  Las  asignaciones  familiares  correspondientes  a  los docentes  que  presten  servicios  remunerados    en   relación  de dependencia en las instituciones universitarias privadas  a  que se refiere el artículo anterior se regirán, en cuanto a las prestaciones, monto y topes, por lo establecido en la Ley N. 24.714, quedando  a  cargo de los empleadores la financiación de los fondos necesarios para su cobertura."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art. 3: Las disposiciones del presente decreto serán de aplicación respecto de las  remuneraciones  devengadas desde el primer día del mes de su publicación en el Boletín  Oficial  y de las asignaciones que corresponda pagar desde la misma fecha."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4: Comuníquese, publíquese, dése a la Dirección  Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-Rodríguez-A. Uriburu-García Solá-Fernández"
+      },
+      "id-infojus": "DN19990001123"
+    }
+  }
+}

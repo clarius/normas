@@ -1,0 +1,691 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-008-2700-5881soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1671638357437,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "850728-nacional-decreto-reglamentario-ley-1420-sobre-educacion-obligatoria-gratuita-dn18850072800-1885-07-28"
+      }
+    },
+    "content": {
+      "mecanografico": 18850072800,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 850728,
+      "timestamp": "2022-12-21T12:36:16",
+      "timestamp-m": "2022-12-21T12:36:16",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1885-07-28",
+      "standard-normativo": "DEC C 850728 1885 07 28",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 1.420 SOBRE EDUCACION OBLIGATORIA Y GRATUITA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1885 07 28"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL S/N DEL 28 DE JULIO DE 1885",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1999-01-28",
+      "fecha-mod": "2022-12-21",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LA LEY 1.420 SOBRE INSTRUCCION PUBLICA Y GRATUITA,  LAS OBLIGACIONES DE LOS PADRES Y/O TUTORES Y EL REGIMEN PARA LOS  ALUMNOS PARTICULARES. SE FACULTA AL CONSEJO NACIONAL DE EDUCACION  PARA CREAR DISTRITOS ESCOLARES Y A LOS CONSEJOS ESCOLARES PARA  OTORGAR MATRICULAS Y APLICAR MULTAS. SE ESTABLECE UN CENSO PARA  LA  POBLACION ESCOLAR, LA REVALIDACION DE DIPLOMAS, SE CREA UN FONDO  DE PENSIONES Y SE NOMBRAN INSPECTORES. SE FIJA EL REGIMEN PARA  LAS  BIBLIOTECAS, LAS SUBVENCIONES Y LOS EXAMENES.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 001420 1884 06 26 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "actos de alcance general",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación"
+            },
+            "sinonimos": {
+              "termino": "Educación y Cultura"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación media"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos/educación secundaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "nivel secundario",
+                "enseñanza secundaria",
+                "escuela secundaria",
+                "colegio secundario",
+                "Educación y Cultura",
+                "educación media",
+                "enseñanza media"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "establecimientos de enseñanza"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "institutos educativos",
+                "establecimientos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "escuelas"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "institutos educativos",
+                "establecimientos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación de adultos"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/modalidades educativas/educación de adultos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "enseñanza de adultos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal no docente"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/personal no docente"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "personal no docente de establecimientos educacionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "prestación de pensión por fallecimiento",
+                "pensión por fallecimiento",
+                "derecho de pensión",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "fondo escolar permanente"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/política educativa/financiamiento educativo/fondo escolar permanente"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política educacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Contaduría General de la Nación"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/administración financiera/contabilidad pública/Contaduría General de la Nación"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "BANCO NACIÓN"
+            },
+            "preferido": {
+              "termino": "BANCO NACIÓN"
+            },
+            "sinonimos": {
+              "termino": "BANCO DE LA NACIÓN ARGENTINA"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación subvencionada"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/modalidades educativas/educación privada/educación subvencionada"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "establecimientos educacionales subvencionados",
+                "enseñanza subvencionada",
+                "enseñanza privada"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bibliotecas"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/patrimonio cultural/bibliotecas"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "bienes culturales",
+                "bienes de interés cultural"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación privada"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/modalidades educativas/educación privada"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "enseñanza privada"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "CONSEJO NACIONAL DE EDUCACIÓN"
+            },
+            "preferido": {
+              "termino": "CONSEJO NACIONAL DE EDUCACIÓN"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "personal docente de supervisión"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/docentes/supervisores"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal docente de supervisión",
+                "maestros",
+                "Educación y Cultura",
+                "personal docente",
+                "docencia",
+                "inspectores de escuelas",
+                "personal de inspección"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "censo escolar"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/ciencia y tecnología/estadística y censos/censos/censo escolar"
+            },
+            "sinonimos": {
+              "termino": "Educación y Cultura"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "administración financiera",
+            "enseñanza de adultos (educación de adultos)",
+            "ciencia y tecnología",
+            "docentes",
+            "establecimientos educativos (establecimientos educacionales)",
+            "escuelas (establecimientos educacionales)",
+            "Contaduría General de la Nación",
+            "reglamento de ejecución (decreto reglamentario)",
+            "haber previsional (beneficios previsionales)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "enseñanza subvencionada (educación subvencionada)",
+            "derecho de pensión (pensiones)",
+            "escuela secundaria (educación secundaria)",
+            "prestación de pensión por fallecimiento (pensiones)",
+            "modalidades educativas",
+            "prestaciones previsionales (beneficios previsionales)",
+            "establecimientos de enseñanza (establecimientos educacionales)",
+            "política educacional (política educativa)",
+            "personal docente (docentes)",
+            "Economía y finanzas",
+            "maestros (docentes)",
+            "Derecho administrativo",
+            "derecho financiero (Economía y finanzas)",
+            "Educación y Cultura (Cultura y educación)",
+            "docencia (docentes)",
+            "bibliotecas",
+            "educación secundaria",
+            "institutos incorporados a la enseñanza oficial (establecimientos educacionales)",
+            "derecho económico financiero (Economía y finanzas)",
+            "censo escolar",
+            "CONSEJO NACIONAL DE EDUCACIÓN",
+            "personal no docente",
+            "Seguridad social",
+            "patrimonio cultural",
+            "educación",
+            "niveles educativos",
+            "acto administrativo",
+            "cultura",
+            "actos de alcance general (acto administrativo de alcance general)",
+            "pensión por fallecimiento (pensiones)",
+            "educación media (educación secundaria)",
+            "estadística y censos",
+            "decreto reglamentario",
+            "Cultura y educación",
+            "supervisores",
+            "BANCO DE LA NACIÓN ARGENTINA (BANCO NACIÓN)",
+            "institutos educativos (establecimientos educacionales)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "bienes culturales (patrimonio cultural)",
+            "personal no docente de establecimientos educacionales (personal no docente)",
+            "fondo escolar permanente",
+            "reglamentos",
+            "instituciones educativas (establecimientos educacionales)",
+            "previsión social (sistema previsional)",
+            "nivel secundario (educación secundaria)",
+            "establecimientos educacionales",
+            "derechos previsionales (beneficios previsionales)",
+            "enseñanza privada (educación privada)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "sistema previsional",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "censos",
+            "infraestructura educativa",
+            "enseñanza media (educación secundaria)",
+            "colegios (establecimientos educacionales)",
+            "educación de adultos",
+            "educación privada",
+            "establecimientos educacionales subvencionados (educación subvencionada)",
+            "BANCO NACIÓN",
+            "personal docente de supervisión (supervisores)",
+            "colegio secundario (educación secundaria)",
+            "bienes de interés cultural (patrimonio cultural)",
+            "personal de inspección (supervisores)",
+            "educación subvencionada",
+            "pensiones",
+            "financiamiento educativo",
+            "inspectores de escuelas (supervisores)",
+            "contabilidad pública",
+            "enseñanza secundaria (educación secundaria)",
+            "beneficios previsionales",
+            "política educativa"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "Y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+        "texto": "Y"
+      },
+      "segmento": [
+        {
+          "titulo-particion": "OBLIGACIONES Y GRATUIDAD DE LA ENSEÑANZA",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "Art. 1.- La obligación de asistir a la escuela pública para los  alumnos  que  reciban  en  ella  instrucción,  dura  seis  años, no  pudiendo  este  tiempo  ser  aumentado  ni  disminuido, sino en los  casos  particulares y especiales que el Consejo  determinare.\n\nEsta disposición no comprende a los alumnos de escuelas  particulares,  ni  a los niños que se eduquen en casa de sus padres  o tutores."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "Art. 2.- Antes de cumplir 6 años, no podrá ser admitido ningún  niño en  las  escuelas  comunes, pudiendo serlo desde 4 años en los  jardines infantiles o en las escuelas dotadas de clases  especiales, en que se dé  la enseñanza que los programas determinan  para aquéllos."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "Art.  3.-  Ningún  alumno  de  una  escuela  pública, si no ha  cumplido los 14 años, podrá dejar de asistir a sus  cursos antes de  haber terminado los programas."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art.  4.-  Cuando los niños se eduquen en casa de sus padres o  tutores, corresponde  a  éstos probar el hecho ante las autoridades  escolares respectivas."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "Art. 5.- La gratuidad de la enseñanza implica la obligación de  proveer  de textos y útiles a los niños que no puedan costeárselos."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art. 6.- Ningún padre, tutor, patrón, director de fábrica o de  cualquier   otro  establecimiento  industrial  o  comercial,  podrá  substraer de  la  obligación  escolar a los niños que estén bajo su  dependencia."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art.  7.-  Los  niños que cumplan la obligación escolar en las  escuelas  públicas,  deberán   sujerarse  a  las  pruebas  que  los  reglamentos establecen, recibiendo, en consecuencia, el  certificado  respectivo,  que  podrá    ser   presentado,  en  caso  necesario,  a  las  autoridades escolares, para pedir  matrícula  a  principios de año en  las  escuelas  públicas.  Cuando  se trate de  hacer  valer  este certificado para ingresar a los establecimientos  de educación secundaria,  deberá  dicho certificado expresar que el  alumno  ha  concluido  el  6  año  de los  programas  de  enseñanza  primaria, habiendo sido aprobado en los exámenes."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art.  8.- Los niños que quisieran hacer valer sus certificados  para ingresar  en  los Colegios nacionales, y hubieren estudiado en  escuelas particulares  o  en casa de sus padres, tendrán que rendir  los  exámenes  correspondientes    en  las  escuelas  públicas  más  inmediatas."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art.  9.-  Los alumnos de escuelas públicas que en el año 1886  quieran obtener matrícula en los cursos de los Colegios  nacionales, podrán  ser  admitidos  con  el  certificado  de  haber  cursado  y  dado  examen  satisfactorio hasta el 5 grado inclusive.\n\nDesde  1887  en  adelante,  ningún  alumno  será  admitido  en  los  Colegios  nacionales  sin  la  presentación   del  certificado  que  acredite haber cursado y rendido examen satisfactorio  de  los seis  años de las escuelas comunes, de acuerdo con lo establecido  en  el  art. 7."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "Art.  10.-  La  escuela  se  considera al alcance de los niños  cuando no dista más de un kilómetro  de su domicilio, en la Capital  y  demás ciudades, o más de cinco en los  territorios  y  colonias."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art. 11.- Mientras no se dicte otra resolución en contrario, y  de acuerdo  con  lo dispuesto en el art. 73 de la ley de 8 de julio  del año próximo pasado,  en  las  colonias y territorios nacionales  habrá  tantos  distritos  escolares cuantos  sean  los  centros  de  población de determinada importancia que los reclamen,  correspondiendo al Consejo nacional proponer las nuevas  subdivisiones que el crecimiento de la población y las  conveniencias del servicio público hagan necesarias."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "Art.  12.-  Cuando  los  ministros  de  los  diferentes cultos  quisieran   dar  en  las  escuelas  públicas  conferencias    sobre  enseñanza religiosa,  se  dirigirán  a  los Consejos escolares para  que  éstos  designen  el  local y la hora, no  pudiendo  celebrarse  aquéllas si no hubiese una  concurrencia  de más de quince alumnos."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "MATRICULA ESCOLAR",
+          "articulo": [
+            {
+              "numero-articulo": 13,
+              "texto": "Art.  13.-  La matrícula escolar es obligatoria para todos los  niños  del  municipio    de  la  Capital,  colonias  y  territorios  nacionales, y los padres,  tutores o encargados, serán multados con  arreglo a lo dispuesto en el  art.  44,  inc.  8  de  la ley, si no  inscriben a los niños que tengan bajo su autoridad."
+            },
+            {
+              "numero-articulo": 14,
+              "texto": "Art.  14.-  Con  el  objeto  indicado,  los Consejos escolares  tendrán dispuesto el local de sus sesiones diariamente,  desde el 1  de enero de cada año hasta el último día de febrero, de 12  a 5 p.m  ,  a  fin  de  inscribir a todos los niños de 5 a 14 años que deban  acudir o tener matrícula,  hayan  o  no de concurrir a las escuelas  públicas.  Con  este objeto, y para que  nadie  alegue  ignorancia,  deberá el Consejo  nacional  de Educación publicar por dos meses en  dos diarios, a lo menos, uno de  la  mañana  y otro de la tarde, un  aviso permanente que contenga lo dispuesto en  éste y el precedente  artículo."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art.  15.- El certificado de matrícula debe ser exigido en las  escuelas públicas,  en  las  particulares y en los domicilio de los  niños  que  reciben allí educación,  por  los  profesores  que  las  dirijan."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art. 16.- Del 1 al 20 de junio se abrirá nuevamente el libro de  matrícula  para  inscribir  a los niños que hubiesen, en esos meses  llegado a la edad escolar y tuviesen  que  asistir  a las escuelas,  así como aquelos cuyos padres no los hubieran hecho inscribir,  sin  perjuicio de la multa correspondiente a estos últimos."
+            },
+            {
+              "numero-articulo": 17,
+              "titulo-articulo": "MULTAS",
+              "texto": "Art.  17.-  Para hacer efectivas las multas en que incurriesen  los particulares con  arreglo a lo dispuesto en la ley de educación  común,  los  Consejos  escolares   de  distrito  nombrarán  agentes  judiciales,  que  recibirán  como única  compensación  el  20%  del  producido.\n\nLos Consejos escolares serán responsables  de  la mala conducta, en  cuanto a manejo de fondos y dirección de asuntos,  de  las personas  que nombren como agentes suyos."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CENSO ESCOLAR",
+          "articulo": [
+            {
+              "numero-articulo": 18,
+              "texto": "Art. 18.- El censo de la población escolar ordenado por el art.\n\n23 de  la  ley de educación común, se llevará a cabo del 1 al 10 de  mayo de 1887,  y  en  adelante, en los mismos días y con sujeción a  los plazos que designa dicho artículo."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "Art.  19.-  El Consejo nacional incluirá en el presupuesto que  debe elevar al Ministerio  de  Instrucción  Pública, las cantidades  que repute necesarias para sufragar los gastos  del  censo escolar."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "Art.  20.-  Este  será  levantado  por  los preceptores de las  escuelas primarias, siempre que sea posible hacerlo  sin perjudicar  el   servicio  que  les  esté  encomendado,  remitiendo  sus  datos  parciales  a  la oficina central encargada de la superintendencia y  dirección de este trabajo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "REVALIDACION DE DIPLOMAS",
+          "articulo": [
+            {
+              "numero-articulo": 21,
+              "texto": "Art. 21.- Los diplomas de los preceptores extranjeros no podrán  ser  revalidados  sin previa aprobación del candidato, en un examen  de todos los ramos  de  enseñanza, dado en el idioma nacional, ante  la Escuela normal respectiva."
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "Art.  22.-  Los  diplomas  de  los  preceptores  no podrán ser  cambiados  por otros bajo el pretexto de su revalidación,  debiendo  conservar  el  que  tengan  hasta  obtener  otro,  mediante  examen  rendido en la  forma  que  determinen  los reglamentos respectivos."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "FONDOS DE PENSIONES",
+          "articulo": [
+            {
+              "numero-articulo": 23,
+              "texto": "Art.  23.- Desde el 1 de enero de 1886 el Consejo de Educación  establecerá    para  sus  propias  oficinas  y  para  las  escuelas  públicas, un registro  de  asistencia  prescribiendo  las  horas de  concurrir  a  aquéllas  y  a  éstas,  y  establecerá multas por las  faltas que se cometan, destinando el producido  de  ellas  a formar  el fondo de pensiones."
+            },
+            {
+              "numero-articulo": 24,
+              "texto": "Art.  24.-  Desde igual fecha el Consejo de Educación ordenará  que se descuente del  sueldo  de  los preceptores, subpreceptores y  ayudantes, el 2%, destinándolo igualmente  al fondo de pensiones, y  abriendo con tal objeto una cuenta especial  en  el Banco Nacional."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "INSPECTORES",
+          "articulo": [
+            {
+              "numero-articulo": 25,
+              "texto": "Art.  25.-  De  acuerdo con lo establecido por la ley de 25 de  setiembre de 1871, habrá  en  cada  provincia un inspector nacional  de escuelas, que será profesor normal, y estará bajo la  dependencia del Consejo nacional de Educación,  cuyas instrucciones  regirán su conducta.\n\nEstos  empleados serán nombrados por el Ministerio  de  Instrucción  Pública, a propuesta del Consejo nacional de Educación."
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "Art.  26.-  La  inspección  general de escuelas de la Capital,  colonias y territorios, se hará por  medio  de dos inspectores, los  que se ajustarán al reglamento e instrucciones  que  deberá  dictar  el Consejo Nacional de Educación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DISTRITOS ESCOLARES",
+          "articulo": [
+            {
+              "numero-articulo": 27,
+              "texto": "Art.  27.- Mientras no se tome otra resolución, y atendiendo a  lo dispuesto  en  el  art.  73  de  la  ley  de educación común, el  municipio  de la Capital queda dividido en 14 distritos  escolares,  formando uno cada sección electoral."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "Art.  28.-  En cada distrito funcionará un Consejo escolar que  tendrá las atribuciones  y  deberes  que le señale el art. 42 de la  ley de educación."
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "Art.  29.-  Estos Consejos tendrán a su servicio un secretario  rentado,  que  deberá    ser  maestro,  para  que  pueda  hacer  la  inspección  de las escuelas  públicas,  y  a  su  cargo  estará  el  despacho de la  oficina,  debiendo servirse del Banco Nacional como  Tesorería  del  Consejo  de  distrito,  todo  de  acuerdo  con  los  Reglamentos del Consejo."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "Art. 30.- Siempre que se trate del establecimiento de escuelas  de adultos  y  dominicales  se  procederá de acuerdo con el Consejo  Nacional de Educación."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TESORO COMUN DE LAS ESCUELAS Y FONDO PERMANENTE",
+          "articulo": [
+            {
+              "numero-articulo": 31,
+              "texto": "Art.  31.-  La entrega de los impuestos y fondos destinados al  sostén y fomento de  la instrucción primaria, se hará como hasta el  presente, cuando se trate  de los impuestos en vigencia antes de la  sanción de la ley de 8 de junio  del  año  pasado.  Por  lo  que se  refiere  a  los  nuevos  impuestos establecidos por esta última, se  observará el siguiente procedimiento:\n\n1 Al fin de cada mes hará  la  Contaduría  nacional una liquidación  de la cantidad que corresponda al Consejo por  el 20% del producido  de la venta de tierras públicas en colonias y territorios,  que  la  ley  de  educación  común  en  su  art.  44 destina a las escuelas,  debiendo suspender toda liquidación, si antes  de  terminar  el año  económico  se  hubiese entregado al Consejo la cantidad de $200.000  m/n., en cumplimiento  de  lo  que  dicho  artículo  establece. Las  cantidades  correspondientes  por las ventas de tierras  nacionales  en las colonias y territorios que  se  hubiese  hecho desde el 8 de  julio  del  año  1884 hasta el 31 de diciembre del presente,  serán  comprendidas en una  sola  liquidación,  que  se  practicará en los  primeros días de enero próximo;\n\n2  El Banco Nacional practicará una liquidación trimestral  de  los  intereses  percibidos  por  los  depósitos judiciales, y abonará el  50% a la cuenta del Consejo nacional,  dándole  aviso.  Por  lo que  hace  a  los intereses percibidos desde el 8 de julio de 1884 hasta  el 31 de diciembre  próximo,  se  procederá a hacer una liquidación  especial, de cuyo resultado se dará  conocimiento  al Ministerio de  Instrucción Pública y al Consejo de Educación;\n\n3  Las  oficinas  encargadas  de  la  recaudación  del impuesto  de  patentes en la Capital, territorios y colonias, remitirán  al Banco  Nacional directa y diariamente, las cantidades que corresponden  al  15%  que  la  ley destina al Consejo nacional de Educación para los  gastos escolares.  En  las  colonias  y territorios se entregará el  producto de patentes al presidente del  Consejo  de distrito, quien  dará  inmediatamente  cuenta  a éste de las cantidades  percibidas."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "Art. 32.- Queda fijado en $300.000 m/n. el fondo permanente de  escuelas  en  títulos nacionales de renta al 1 de enero de 1886, el  que se aumentará  en  adelante  de acuerdo con lo prescripto en los  arts. 45 y 46 de la ley de educación  común,  y  que  no  podrá ser  distraído del destino especial que le marca dicha ley."
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "Art.  33.- Cuando se trate de la adquisición de terrenos en la  Capital para  construir  edificios  destinados a escuelas públicas,  el Consejo nacional lo comunicará a la  Intendencia  Municipal,  la  que  deberá hacer las observaciones que considere oportunas, dentro  del término  de  ocho  días,  pudiendo  el  Consejo  proceder  a la  adquisición  del  terreno,  si  en el plazo fijado no se le hubiese  observado y la adquisición hubiese  sido aprobada por el Ministerio  de Instrucción Pública. Una vez adquirido  el  terreno  y formulada  la  escritura  respectiva, la Municipalidad hará inmediatamente  el  depósito  de  la  tercera   parte  que  le  corresponde  pagar,  en  cumplimiento de lo dispuesto  por  el  art.  48  de  la ley de 8 de  julio.  En  las  colonias  y  territorios  se procederá de un  modo  análogo."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DIRECCION DE ESCUELAS Y CONSEJO DE EDUCACION",
+          "articulo": [
+            {
+              "numero-articulo": 34,
+              "texto": "Art.  34.- Dos meses antes de terminarse el período por el que  hubiesen sido  nombrados,  tanto el presidente del Consejo como los  vocales,  pasará  aquél al Ministerio  de  Instrucción  Pública  el  aviso respectivo, a  fin  de que adopte oportunamente la resolución  que corresponda."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "Art.  35.-  En  todo el presente año formulará y sancionará el  Consejo  los reglamentos  que  deben  observarse  en  las  escuelas  públicas,  de acuerdo con las prescripciones de la ley de educación  común."
+            },
+            {
+              "numero-articulo": 36,
+              "texto": "Art.  36.-  También reglamentará la inspección de las escuelas  públicas de la Capital,  colonias  y  territorios,  a  la  vez  que  fijará las funciones de los inspectores de las mismas."
+            },
+            {
+              "numero-articulo": 37,
+              "texto": "Art.  37.-  Los  fondos  destinados al sostén y fomento de las  escuelas  públicas,  quedan  bajo   su  cuidado  y  administración,  debiendo colocar las cantidades destinadas  al  fondo permanente en  títulos de renta pública."
+            },
+            {
+              "numero-articulo": 38,
+              "texto": "Art. 38.- En el presente año, el Consejo formulará el proyecto  para  la  organización  del  fondo  de  pensiones  de  preceptores,  condiciones  de  su  administración  y  modo  y  forma en que ha de  hacerse efectivo el derecho a percibir pensión, de  acuerdo  con lo  establecido en el art. 31 de la ley, a fin de que sea  oportunamente  sometido  a  la consideración del Honorable Congreso  por el Ministerio de Instrucción Pública."
+            },
+            {
+              "numero-articulo": 39,
+              "texto": "Art.  39.-  En el desempeño de sus funciones, el Consejo y sus  encargados podrán  pedir el auxilio de la autoridad para llenarlas,  y ésta tendrá la obligación  de  prestarlo  en  todo  tiempo que le  fuere  competentemente  requerido, ya se trate del cumplimiento  de  disposiciones escolares vigentes,  o  de percibir multas impuestas,  o  de  la  adquisición de datos que el Consejo  hubiese  solicitado  para el desempeño de sus funciones."
+            },
+            {
+              "numero-articulo": 40,
+              "texto": "Art.  40.- Todos los decretos que se han dictado reglamentando  la administración  de  los  fondos destinados a sostener y fomentar  el desarrollo de la instrucción  primaria,  así  como estableciendo  la penalidad para los casos de mala administración  de  los mismos,  quedan en vigencia en cuanto no se opongan a las disposiciones  del  presente."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "LEY DE SUBVENCIONES",
+          "articulo": [
+            {
+              "numero-articulo": 41,
+              "texto": "Art.  41.-  El  Consejo  de  Educación procederá aplicando los  decretos reglamentarios en la ejecución  de  las  leyes  de  25  de  setiembre de 1871 y 23 de setiembre de 1870."
+            },
+            {
+              "numero-articulo": 42,
+              "texto": "Art.  42.- El Poder Ejecutivo presentará cada año al Honorable  Congreso el  presupuesto  de las cantidades que hayan de destinarse  al  servicio  de  las  leyes  citadas   en  el  artículo  anterior."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "BIBLIOTECAS  POPULARES  EN  EL  MUNICIPIO,  COLONIAS  Y TERRITORIOS",
+          "articulo": [
+            {
+              "numero-articulo": 43,
+              "texto": "Art.  43.-  Además  de  las prescripciones establecidas en los  arts. 66, 67, 68 y 69 de la ley  de educación común, las comisiones  o direcciones de las Bibliotecas populares  de la Capital, colonias  y territorios, están obligadas a hacer constar  ante  el Consejo de  Educación  que  tanto  las  sumas depositadas como las subvenciones  para tal objeto, han sido empleadas  en  la  compra  de libros para  tales bibliotecas."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "Art.  44.-  Toda  biblioteca  que  hubiese  recibido  alguna  subvención  de  la Nación está obligada a pasar al Consejo nacional  un informe anual sobre su marcha y estado."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DE LAS ESCUELAS Y COLEGIOS PARTICULARES",
+          "articulo": [
+            {
+              "numero-articulo": 45,
+              "texto": "Art.  45.-  Ninguna escuela o colegio particular podrá admitir  alumnos  sin  la presentación  de  la  matrícula  expedida  por  el  Consejo Escolar del respectivo distrito."
+            },
+            {
+              "numero-articulo": 46,
+              "texto": "Art.  46.- La facultad de ordenar la clausura de una escuela o  colegio particular  corresponde,  no sólo al Consejo del respectivo  distrito, cuando se trate de establecimiento  contrario  a la moral  pública  o  a  la salud de los niños, sino también directamente  al  Consejo nacional."
+            },
+            {
+              "numero-articulo": 47,
+              "texto": "Art.  47.-  Las multas de que habla el art. 72 de la ley serán  impuestas por los  Consejos  de distrito o por el Consejo nacional,  según el caso."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "DISPOSICIONES GENERALES",
+          "articulo": [
+            {
+              "numero-articulo": 48,
+              "texto": "Art. 48.- El Consejo nacional de Educación tendrá un abogado y  un procurador,  cuya  remuneración  será  fijada  anualmente  en el  presupuesto  de  esa repartición, y estarán sujetos en el desempeño  de sus funciones a los reglamentos que aquél dictara."
+            },
+            {
+              "numero-articulo": 49,
+              "texto": "Art.  49.-  La  falta de asistencia a las oficinas del Consejo  nacional de Educación  y  a  las  escuelas públicas, será penada de  acuerdo con las disposiciones reglamentarias  que  al  efecto  debe  expedir el Consejo."
+            },
+            {
+              "numero-articulo": 50,
+              "texto": "Art.  50.- Los exámenes a que se refiere el art. 26 de la ley,  para  obtener    certificados    que  habiliten  provisoriamente  a  regentear  escuelas  públicas,  serán   rendidos  en  las  escuelas  normales respectivas, en acto privado, ante  una comisión compuesta  de cinco miembros del cuerpo docente de la misma,  presidida por el  director de la escuela, debiendo a la vez hacer parte  de  ella uno  de  los  inspectores dependientes del Consejo nacional de Educación  que éste designe.\n\nEstos exámenes  tendrán  lugar  en  una  sola época del año, que de  antemano se hará conocer al público, y los  aspirantes  presentarán  directamente    sus    solicitudes,  para  ser  inscriptos,  a  los  directores  de  las  escuelas   normales,  quienes  comunicarán  el  resultado  de  las pruebas al Ministerio  de  Instrucción  Pública,  para que éste lo haga saber al Consejo nacional."
+            },
+            {
+              "numero-articulo": 51,
+              "texto": "Art. 51.- Comuníquese, publíquese, dése a la Dirección General  del Registro Oficial."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "ROCA - WILDE"
+          }
+        }
+      ],
+      "id-infojus": "DN18850072800"
+    }
+  }
+}

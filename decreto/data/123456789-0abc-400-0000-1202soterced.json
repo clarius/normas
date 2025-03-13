@@ -1,0 +1,383 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-400-0000-1202soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1610632941940,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "4-nacional-condicion-epidemiologica-evaluacion-riesgo-medidas-fin-proteger-salud-publica-dn20210000004-2021-01-08"
+      }
+    },
+    "content": {
+      "mecanografico": 20210000004,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 4,
+      "timestamp": "2021-01-14T10:20:29",
+      "timestamp-alta": "2021-01-08T18:48:38",
+      "timestamp-m": "2021-01-14T10:20:29",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2021-01-08",
+      "standard-normativo": "DEC C 000004 2021 01 08",
+      "titulo-norma": "Condición Epidemiológica y Evaluación de Riesgo. Medidas a fin de proteger la Salud Pública",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Suplemento Oficial",
+          "fecha": "2021 01 08"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 4/2021",
+      "analista": "Rocca, Adriana",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2021-01-08",
+      "fecha-mod": "2021-01-14",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "Se disponen medidas para proteger la salud pública frente al aumento de casos de covid 19",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 5.\n\nFECHA DE ENTRADA EN VIGENCIA: 8/1/2021.",
+        "adherida-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "ADHERIDA_POR_0",
+            "ref": "DEC S 000006 2021 01 09 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "emergencia pública"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/estado de emergencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "emergencia pública",
+                "acción social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "emergencia sanitaria"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/emergencia sanitaria"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "coronavirus"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/coronavirus"
+            },
+            "sinonimos": {
+              "termino": "COVID 19"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Salud pública"
+            },
+            "preferido": {
+              "termino": "Salud pública"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "limitación de la circulación"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/prevención de enfermedades/distanciamiento social, preventivo y obligatorio/limitación de la circulación"
+            },
+            "sinonimos": {
+              "termino": [
+                "DISPO",
+                "profilaxis",
+                "prevención de enfermedades y accidentes",
+                "medicina preventiva",
+                "asistencia médica preventiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "horario nocturno"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/prevención de enfermedades/distanciamiento social, preventivo y obligatorio/limitación de la circulación/horario nocturno"
+            },
+            "sinonimos": {
+              "termino": [
+                "DISPO",
+                "profilaxis",
+                "prevención de enfermedades y accidentes",
+                "medicina preventiva",
+                "asistencia médica preventiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "distanciamiento social, preventivo y obligatorio"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/prevención de enfermedades/distanciamiento social, preventivo y obligatorio"
+            },
+            "sinonimos": {
+              "termino": [
+                "profilaxis",
+                "DISPO",
+                "prevención de enfermedades y accidentes",
+                "medicina preventiva",
+                "asistencia médica preventiva"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "horario nocturno",
+            "emergencias sociales",
+            "Salud pública",
+            "coronavirus",
+            "distanciamiento social, preventivo y obligatorio",
+            "emergencia sanitaria",
+            "enfermedades",
+            "prevención de enfermedades",
+            "DISPO (distanciamiento social, preventivo y obligatorio)",
+            "profilaxis (prevención de enfermedades)",
+            "estado de emergencia",
+            "emergencia pública (estado de emergencia)",
+            "Bienestar social",
+            "COVID 19 (coronavirus)",
+            "prevención de enfermedades y accidentes (prevención de enfermedades)",
+            "acción social (Bienestar social)",
+            "asistencia médica preventiva (prevención de enfermedades)",
+            "limitación de la circulación",
+            "medicina preventiva (prevención de enfermedades)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DNU C 000260 2020 03 12 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DNU C 000297 2020 03 19 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DNU C 001033 2020 12 20 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente N° EX-2020-27946119-APN-DSGA#SLYT, la Ley Nº 27.541, los Decretos Nros. 260 del 12 de marzo de 2020, 297 del 19 de marzo de 2020, 1033 del 20 de diciembre de 2020, sus respectivas normas modificatorias y complementarias, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 027541 2019 12 21 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DNU C 000260 2020 03 12 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DNU C 000297 2020 03 19 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DNU C 000325 2020 03 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DNU C 000355 2020 04 11 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "DNU C 000408 2020 04 26 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "DNU C 000459 2020 05 10 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "DNU C 000493 2020 05 24 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_8",
+              "ref": "DNU C 000520 2020 06 07 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_9",
+              "ref": "DNU C 000576 2020 06 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_10",
+              "ref": "DNU C 000605 2020 07 18 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_11",
+              "ref": "DNU C 000641 2020 08 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_12",
+              "ref": "DNU C 000677 2020 08 16 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_13",
+              "ref": "DNU C 000714 2020 08 30 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_14",
+              "ref": "DNU C 000754 2020 09 20 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_15",
+              "ref": "DNU C 000792 2020 10 11 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_16",
+              "ref": "DNU C 000814 2020 10 25 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_17",
+              "ref": "DNU C 000875 2020 11 07 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_18",
+              "ref": "DNU C 000956 2020 11 29 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_19",
+              "ref": "DEC C 000985 2020 12 10 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_20",
+              "ref": "DNU C 001033 2020 12 20 0004 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_21",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_22",
+              "ref": "DNU C 001033 2020 12 20 0027 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_23",
+              "ref": "DNU C 001033 2020 12 20 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+        "texto": "Que mediante el Decreto N° 260/20 se amplió por el plazo de UN (1) año la emergencia pública en materia sanitaria establecida por la Ley N° 27.541, en virtud de la pandemia declarada por la ORGANIZACIÓN MUNDIAL DE LA SALUD (OMS) con relación a la COVID-19.\n\nQue a través del Decreto N° 297/20 se estableció una medida de \"aislamiento social, preventivo y obligatorio\" en todo el país, que fue prorrogada sucesivamente por los Decretos Nros. 325/20, 355/20, 408/20, 459/20 y 493/20, hasta el 7 de junio de 2020, inclusive.\n\nQue por los Decretos Nros. 520/20, 576/20, 605/20, 641/20, 677/20, 714/20, 754/20, 792/20, 814/20, 875/20, 956/20, 985/20 y 1033/20 se fue diferenciando a las distintas áreas geográficas del país, en el marco de la emergencia sanitaria originada por la COVID-19, entre las que pasaron a una etapa de \"distanciamiento social, preventivo y obligatorio\" y aquellas que debieron retornar a la etapa de \"aislamiento social, preventivo y obligatorio\", habiéndose establecido mediante el dictado del citado Decreto Nº 1033/20, en todo el país, el \"distanciamiento social, preventivo y obligatorio\".\n\nQue estas medidas se adoptaron en virtud de la evolución de la pandemia y de acuerdo al estatus sanitario de cada partido, departamento y aglomerado, por sucesivos períodos, hasta el 31 de enero de 2021, inclusive.\n\nQue al 6 de enero de 2021, la REPÚBLICA ARGENTINA acumula un total de 1.676.171 casos de COVID-19 y 43.976 fallecidos y que luego de presentar una disminución en el número de casos confirmados desde el 19 de octubre hasta el 14 de diciembre de 2020, a partir de esa fecha se observa un crecimiento sostenido en el número de casos.\n\nQue desde el dictado del Decreto N° 1033/20 hasta la fecha se ha registrado un sostenido incremento en la cantidad de casos de COVID-19 en el territorio nacional, lo que llevó al día de hoy, a las Provincias del CHACO, de LA PAMPA y de SANTIAGO DEL ESTERO, entre otras, a establecer diversas medidas de protección sanitaria, incluyendo limitaciones de circulación y de actividades en horario nocturno, en uso de las facultades conferidas por la citada norma.\n\nQue las autoridades provinciales y de la CIUDAD AUTÓNOMA DE BUENOS AIRES reunidas en forma virtual con el Presidente de la Nación han manifestado la necesidad de reforzar las medidas de protección sanitaria, particularmente aquellas destinadas a restringir la circulación en horario nocturno, en atención al incremento en la transmisión comunitaria del virus SARS-CoV-2 en el país.\n\nQue en virtud de lo dispuesto en el primer párrafo del artículo 4° del Decreto N° 1033/20, en atención a las condiciones epidemiológicas y a la evaluación de riesgo en los distintos aglomerados, departamentos o partidos de la jurisdicción a su cargo, son las autoridades provinciales y de la CIUDAD AUTÓNOMA DE BUENOS AIRES las que están facultadas para dictar normas reglamentarias para limitar la circulación por horarios o por zonas, con el fin de evitar situaciones que puedan favorecer la propagación del virus SARS-CoV-2.jhgtew3s Que, asimismo, el Decreto N° 1033 dictado el 20 de diciembre de 2020 y vigente hasta el 31 de enero de 2021, en sus artículos 6°, 7° y 25 faculta a los Gobernadores, a las Gobernadoras y al Jefe de Gobierno de la Ciudad Autónoma de Buenos Aires a reglamentar días y horas para las reuniones sociales en el espacio público y para la realización de las actividades económicas, deportivas y artísticas; a dictar los protocolos pertinentes para actividades deportivas y artísticas, así como para establecer requisitos adicionales a estos, siendo responsables del dictado de dichas restricciones en virtud de la evaluación sanitaria de los aglomerados, departamentos o partidos de la jurisdicción a su cargo, así como de la fiscalización del cumplimiento de los protocolos para el funcionamiento de las distintas actividades.\n\nQue a partir de la experiencia nacional e internacional, se ha podido establecer cuáles son las actividades que pueden aumentar el nivel de riesgo de transmisión del referido virus y que ese nivel de riesgo podrá variar dependiendo de la limitación de la cantidad de personas participantes en las mismas y la implementación y cumplimiento de protocolos estrictos.\n\nQue luego de transitados DIEZ (10) meses desde la notificación del primer caso y en virtud de la experiencia se ha logrado identificar con claridad las actividades que implican mayor riesgo y la modificación de la dinámica de contagios en la actualidad.\n\nQue la dinámica actual de la transmisión y la aparición de nuevos casos se origina principalmente en actividades sociales y recreativas nocturnas que implican contacto estrecho prolongado, en espacios cerrados con escasa ventilación o abiertos con aglomeración de personas que dificultan el uso de tapabocas/nariz y el mantenimiento de la distancia física, y conllevan alto riesgo de transmisión, en especial en los grupos de jóvenes que luego se constituyen en agentes de transmisión hacia los grupos de mayor riesgo.\n\nQue, asimismo, esta situación se puede ver agravada por el consumo de alcohol ya que el mismo facilita el relajamiento del cumplimiento de las reglas de conducta y distanciamiento.\n\nQue ante la actual situación epidemiológica esta gestión de gobierno entiende que se deben fortalecer las medidas de prevención de COVID-19, teniendo especialmente en cuenta las particularidades de cada jurisdicción y la dinámica de la epidemia.\n\nQue la restricción de actividades durante el horario nocturno así como de aquellas actividades de alto riesgo de transmisión en cualquier horario resulta razonable en la actual situación sanitaria y tiene como objetivo disminuir la propagación y velocidad de contagio del virus SARS-CoV-2 mientras se desarrolla la estrategia de vacunación que se encuentra implementando el Estado Nacional.\n\nQue la vacunación en nuestro país ha comenzado el día 29 de diciembre de 2020, buscando garantizar que las vacunas estén disponibles en todo el territorio nacional y que la población objetivo las reciba de manera gratuita, equitativa e igualitaria.\n\nQue ha tomado intervención el servicio jurídico pertinente.\n\nQue la presente medida se dicta en uso de las atribuciones conferidas por el artículo 99, incisos 1 y 2 de la CONSTITUCIÓN NACIONAL y por los artículos 4° y 27 del Decreto Nº 1033/20. Por ello,"
+      },
+      "articulo": [
+        {
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "DNU C 001033 2020 12 20 0004 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "titulo-articulo": "CONDICIÓN EPIDEMIOLÓGICA Y EVALUACIÓN DE RIESGO.",
+          "texto": "ARTÍCULO 1°.-  En el marco de lo establecido en el primer párrafo del artículo 4° del Decreto N° 1033/20, se define que existe alto riesgo sanitario y condiciones epidemiológicas que ameritan por parte de los Gobernadores y las Gobernadoras de Provincias y del Jefe de Gobierno de la CIUDAD AUTÓNOMA DE BUENOS AIRES, adoptar medidas de limitación de la circulación, cuando se cumplan los siguientes parámetros sanitarios:\n\nLa razón de casos, definida como el cociente entre el número de casos confirmados acumulados en los últimos CATORCE (14) días y el número de casos confirmados acumulados en los CATORCE (14) días previos, sea superior a UNO COMA VEINTE (1,20).\n\nY la incidencia definida como el número de casos confirmados acumulados de los últimos CATORCE (14) días por CIEN MIL (100.000) habitantes, sea superior a CIENTO CINCUENTA (150)."
+        },
+        {
+          "numero-articulo": 2,
+          "titulo-articulo": "NOCTURNIDAD. SITUACIONES QUE FAVORECEN LA CIRCULACIÓN DEL VIRUS.",
+          "texto": "ARTÍCULO 2°.-  Observando la dinámica de la transmisión de los nuevos contagios del virus SARS-CoV2, las autoridades provinciales y de la CIUDAD AUTÓNOMA DE BUENOS AIRES, con el objetivo de evitar situaciones que puedan favorecer su propagación, deberán priorizar la limitación de la circulación en el horario nocturno, dado que, a partir de la experiencia nacional e internacional, se ha podido establecer que las actividades que conllevan alto riesgo de transmisión son las que implican contacto estrecho prolongado en espacios cerrados con escasa ventilación o abiertos que involucran la concentración de personas, dificultan el uso de tapabocas/ nariz y el mantenimiento de la distancia física."
+        },
+        {
+          "numero-articulo": 3,
+          "titulo-articulo": "ARTICULACIÓN.",
+          "texto": "ARTÍCULO 3°.- Con el fin de colaborar con el monitoreo de los indicadores mencionados en el artículo 1°, el MINISTERIO DE SALUD de la Nación articulará con las autoridades sanitarias de las distintas jurisdicciones."
+        },
+        {
+          "numero-articulo": 4,
+          "titulo-articulo": "CONTROL. COOPERACIÓN.",
+          "texto": "ARTÍCULO 4°.-  En aquellos casos en los cuales los Gobernadores y las Gobernadoras de Provincias o el Jefe de Gobierno de la CIUDAD AUTÓNOMA DE BUENOS AIRES adopten medidas que limiten la circulación de las personas podrán requerir al MINISTERIO DE SEGURIDAD de la Nación o a otras autoridades del Sector Público Nacional su cooperación para realizar controles en rutas, vías de acceso, espacios públicos y demás lugares estratégicos que determinen con el fin de coadyuvar a garantizar el cumplimiento de las medidas de protección sanitaria que evitan la propagación del virus."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTÍCULO 5°.- El presente decreto entrará en vigencia el día de su publicación en el BOLETÍN OFICIAL."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTÍCULO 6°.- Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FERNÁNDEZ-Cafiero-González García"
+      },
+      "id-infojus": "DN20210000004"
+    }
+  }
+}

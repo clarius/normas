@@ -1,0 +1,253 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-807-2000-3991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989983293,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "2708-nacional-decreto-reglamentario-ley-24144-dn19930002708-1993-12-29"
+      }
+    },
+    "content": {
+      "mecanografico": 19930002708,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 2708,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1993-12-29",
+      "standard-normativo": "DEC C 002708 1993 12 29",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 24.144",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 01 05"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 3",
+          "id": "MODIFICA0",
+          "ref": "DEC C 001456 1993 07 08 0003 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 2.708/93",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2003-04-10",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA EL ART. 8 DE LA LEY 24.144.",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 024144 1992 09 23 0008 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "banco central"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos/banco central"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "entidades financieras"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras"
+            },
+            "sinonimos": {
+              "termino": "sistema bancario"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "liquidación"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/procesos de ejecución/ejecución de sentencia/liquidación"
+            },
+            "sinonimos": {
+              "termino": [
+                "actio judicate",
+                "juicios de ejecución",
+                "juicios ejecutorios",
+                "actio iudicati",
+                "actio judicati"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "quiebra"
+            },
+            "preferido": {
+              "termino": "Derecho comercial/concursos/quiebra"
+            },
+            "sinonimos": {
+              "termino": [
+                "concursos y quiebras",
+                "régimen concursal",
+                "juicio concursal",
+                "concurso preventivo y quiebra"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "síndico del concurso"
+            },
+            "preferido": {
+              "termino": "Derecho comercial/concursos/funcionarios y empleados del concurso/síndico del concurso"
+            },
+            "sinonimos": {
+              "termino": [
+                "concursos y quiebras",
+                "régimen concursal",
+                "síndico de la quiebra",
+                "juicio concursal",
+                "concurso preventivo y quiebra"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "ejecución de sentencia",
+            "procesos de ejecución",
+            "banco central",
+            "entidades bancarias (bancos)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "actio iudicati (ejecución de sentencia)",
+            "reglamentos",
+            "síndico del concurso",
+            "Derecho comercial",
+            "juicio concursal (concursos)",
+            "Derecho procesal",
+            "actio judicati (ejecución de sentencia)",
+            "funcionarios y empleados del concurso",
+            "liquidación",
+            "acto administrativo de alcance general",
+            "actio judicate (ejecución de sentencia)",
+            "reglamento administrativo (reglamentos)",
+            "Derecho administrativo",
+            "juicios de ejecución (procesos de ejecución)",
+            "quiebra",
+            "síndico de la quiebra (síndico del concurso)",
+            "juicios ejecutorios (procesos de ejecución)",
+            "concursos",
+            "concursos y quiebras (concursos)",
+            "concurso preventivo y quiebra (concursos)",
+            "Derecho bancario",
+            "régimen concursal (concursos)",
+            "acto administrativo",
+            "bancos",
+            "entidades financieras",
+            "sistema bancario (Derecho bancario)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024144 1992 09 23 0008 000 0000 000"
+          }
+        },
+        "texto": "el  expediente N.183/0566/93 del registro del BANCO CENTRAL DE LA REPUBLICA  ARGENTINA y lo dispuesto en el artículo 8 de la Ley N 24.144, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024144 1992 09 23 0008 000 0000 000"
+          }
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  conforme  lo  reglado  por la norma legal precedentemente citada,  en  los  casos de haberse revocado  la  autorización  para funcionar y dispuesto  la  liquidación  de una entidad bancaria y/o financiera,  con anterioridad a su promulgación,  los  procesos  de quiebra se regirán  por  la  legislación  vigente hasta ese momento\n\nQue ello debe aplicarse, con independencia  de  los  adelantos  de fondos   que  pudiera  haber  efectuado  el  BANCO  CENTRAL  DE  LA REPUBLICA  ARGENTINA  para  la  devolución  de  los  depósitos.\n\nQue,  en  ese  orden,  el  sujeto  que  desempeñará la Sindicatura Concursal  en  tal  supuesto  no  debe ser otro  que  el  Organismo Liquidador que se ha desempeñado en  el proceso extra-judicial.\n\nQue,  en consecuencia, resulta procedente  la  reglamentación  del artículo  8 de la Ley N.24.144, en uso de las facultades conferidas al PODER EJECUTIVO  NACIONAL  por  el  artículo 86, inciso 2, de la CONSTITUCION NACIONAL."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 021526 1977 02 14 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 022529 1982 01 22 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "Art.  1:  Reglaméntase  el  artículo  8  de  la  Ley  N.24.144 estableciendo  que en los casos de haberse revocado la autorización para funcionar y  dispuesto  la liquidación de una entidad bancaria y/o  financiera,  con  anterioridad   a  su  promulgación,  en  los procesos  de  quiebra de las mismas la Sindicatura  Concursal  será desempeñada en  forma  exclusiva  y excluyente por el BANCO CENTRAL DE LA REPUBLICA ARGENTINA, con las  facultades que le otorga la Ley de  Entidades  Financieras  (Leyes N. 21.526  y  22.529)  y  normas concordantes."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2:  La  disposición contenida en el artículo anterior es aplicable también a  los  supuesto  en  los  cuales la quiebra haya sido solicitada por el BANCO CENTRAL DE LA REPUBLICA  ARGENTINA  al órgano  judicial  competente,  con  posterioridad  a  la  sanción y promulgación  de  la  Ley  N.24.144,  en  la  medida  que  el  acto administrativo  que  dispuso  la  revocación  para  funcionar  y la liquidación de la entidad sea anterior a las mismas."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3:  Derógase  el  artículo 3 del Decreto N.1456 del 8 de julio de 1993."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art.  4: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - CAVALLO"
+      },
+      "id-infojus": "DN19930002708"
+    }
+  }
+}

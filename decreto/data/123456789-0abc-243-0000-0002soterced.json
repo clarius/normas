@@ -1,0 +1,361 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-243-0000-0002soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990178819,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "342-nacional-constitucion-fondo-fiduciario-asistencia-entidades-financieras-seguros-dn20000000342-2000-04-18"
+      }
+    },
+    "content": {
+      "mecanografico": 20000000342,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 342,
+      "timestamp": "2013-07-15T14:53:59",
+      "timestamp-m": "2013-07-15T14:53:59",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2000-04-18",
+      "standard-normativo": "DEC C 000342 2000 04 18",
+      "titulo-norma": "CONSTITUCION DEL FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2000 04 25"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 2",
+          "id": "OBSERVA A0",
+          "ref": "DEC C 000445 1995 03 28 0000 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "ART. 9 (B.O. 12-03-2002)",
+            "id": "OBSERVADO POR0",
+            "ref": "DEC C 000456 2002 03 08 0001 000"
+          },
+          {
+            "cr": "B.O. 31-12-2002",
+            "id": "OBSERVADO POR1",
+            "ref": "DEC C 002705 2002 12 27 0001 000"
+          },
+          {
+            "cr": "ART. 1 SUST. (B.O. 31-12-2002)",
+            "id": "MODIFICADO POR2",
+            "ref": "DEC C 002705 2002 12 27 0002 000"
+          },
+          {
+            "cr": "INC. B) ART. 3 SUST. (B.O. 31-12-2002)",
+            "id": "MODIFICADO POR3",
+            "ref": "DEC C 002705 2002 12 27 0003 000"
+          },
+          {
+            "cr": "INC. G) ART. 1 INCORP. (B.O. 22-12-2003)",
+            "id": "MODIFICADO POR4",
+            "ref": "DEC C 001284 2003 12 18 0002 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 342/2000",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "2000-04-26",
+      "fecha-mod": "2013-07-15",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE CONSTITUYE EL FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS. SE ESTABLECE SU OBJETO. SE DISPONE LA DISOLUCION DEL FONDO DE CAPITALIZACION BANCARIA CONSTITUIDO POR DECRETO 445/95."
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION: SE PRORROGA EL PLAZO ESTABLECIDO PARA LA DISOLUCION DEL FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS PREVISTO EN EL ART. 9, DEL 18/4/2002 HASTA EL 29/2/2004, POR ART. 1 DEL DEC. 456/2002. (B.O. 12-03-2002).\n\nOBSERVACION: SE CAMBIA LA DENOMINACION DE \"FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS\" POR LA DE \"FONDO FIDUCIARIO PARA LA RECONSTRUCCION DE EMPRESAS\", POR ART. 1 DEL DEC. 2705/2002 (B.O. 31/12/2002)."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "política económica"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/política económica"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "fondo fiduciario de asistencia a entidades financieras y de seguros"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/fondos fiduciarios/fondo fiduciario de asistencia a entidades financieras y de seguros"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "fondo fiduciario",
+                "derecho económico financiero",
+                "fondo fiduciario público",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "entidades financieras"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras"
+            },
+            "sinonimos": {
+              "termino": "sistema bancario"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asegurador"
+            },
+            "preferido": {
+              "termino": "Derecho comercial/seguros/asegurador"
+            },
+            "sinonimos": {
+              "termino": [
+                "empresa aseguradora",
+                "empresa de seguros",
+                "aseguradora",
+                "compañía aseguradora",
+                "entidades de seguros",
+                "contrato de seguro",
+                "compañía de seguros"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "recursos financieros"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/ingresos públicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "recursos financieros",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Banco Nación"
+            },
+            "preferido": {
+              "termino": "Banco Nación"
+            },
+            "sinonimos": {
+              "termino": "Banco de la Nación Argentina"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "fideicomiso"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/Contratos/contratos civiles/fideicomiso"
+            },
+            "sinonimos": {
+              "termino": "contrato de fideicomiso"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "empresa aseguradora (asegurador)",
+            "fideicomiso",
+            "Banco de la Nación Argentina (Banco Nación)",
+            "aseguradora (asegurador)",
+            "recursos financieros (ingresos públicos)",
+            "fondos fiduciarios",
+            "fondo fiduciario de asistencia a entidades financieras y de seguros",
+            "Derecho comercial",
+            "contratos civiles",
+            "política económica",
+            "entidades de seguros (asegurador)",
+            "asegurador",
+            "fondo fiduciario (fondos fiduciarios)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "Obligaciones y contratos",
+            "compañía aseguradora (asegurador)",
+            "Economía y finanzas",
+            "empresa de seguros (asegurador)",
+            "ingresos públicos",
+            "fondo fiduciario público (fondos fiduciarios)",
+            "derecho financiero (Economía y finanzas)",
+            "Banco Nación",
+            "Contratos",
+            "derecho económico financiero (Economía y finanzas)",
+            "compañía de seguros (asegurador)",
+            "contrato de fideicomiso (fideicomiso)",
+            "Derecho bancario",
+            "contrato de seguro (seguros)",
+            "seguros",
+            "entidades financieras",
+            "sistema bancario (Derecho bancario)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000445 1995 03 28 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000568 1995 10 10 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000298 1997 03 31 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el Expediente N. 001-000662/2000 del Registro del MINISTERIO DE  ECONOMIA  y los Decretos N. 445 del 28 de marzo de 1995, N. 568 del 10 de octubre de  1995 y el N. 298 del 31 de marzo de 1997, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000445 1995 03 28 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000568 1995 10 10 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000298 1997 03 31 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000445 1995 03 28 0008 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 000298 1997 03 31 0001 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que por el Decreto N. 445/95  modificado por los Decretos N. 568/95 y N. 298/97, se constituyó el FONDO  FIDUCIARIO  DE CAPITALIZACION BANCARIA con el objeto de asistir a las entidades que se empeñen en el    proceso  de  capitalización  y  fortalecimiento  del  sistema financiero argentino.\n\nQue a  tales efectos se suscribió un contrato de fideicomiso entre el ESTADO  NACIONAL,  como  fiduciante  y  el  BANCO  DE  LA NACION ARGENTINA, en carácter de fiduciario.\n\nQue el artículo 8 del Decreto N. 445/95 estableció que el  FONDO FIDUCIARIO   DE  CAPITALIZACION  BANCARIA  se  disolvería  una  vez cumplido su objetivo  o  en  el  plazo  de  DOS  (2)  años,  lo que ocurriese primero.\n\nQue el artículo 1 del Decreto N. 298/97 extendió la duración  de dicho Fondo Fiduciario hasta el 26 de febrero de 2000.\n\nQue  el FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA ha contribuido exitosamente, hasta aquí, en numerosos procesos de reestructuración bancaria,  que,  a  su  vez,  ha  coadyuvado al fortalecimiento del sistema  financiero,  y  a superar las  diferentes  y  consecutivas crisis que han amenazado a  la estabilidad sistémica en los últimos años, Que  si  bien el sistema financiero  argentino  se  ha  fortalecido notablemente en los últimos años, se ha evaluado que a los fines de seguir avanzando  en  la  misma  dirección,  no  sólo  subsiste  la necesidad  de  contar con herramientas que permitan la asistencia a entidades financieras tal como en su momento lo constituyó el FONDO FIDUCIARIO DE CAPITALIZACION  BANCARIA,  sino que tal auxilio pueda hacerse extensivo a las compañías de seguros  y  a  sus  sociedades controlantes, en caso de ser requerido.\n\nQue,  en consecuencia, resulta conveniente, cumplido el plazo  de vigencia del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA proceder a la disolución  del mismo y crear un nuevo fondo fiduciario que esté en condiciones de  asistir  en  el  futuro  a  las  entidades antes mencionadas de manera similar a como lo hizo el FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA en los últimos años.\n\nQue a los mismos fines se ha considerado beneficioso  incluir como objeto del fondo a ser creado el otorgamiento de avales,  fianzas y/ u otras garantías.\n\nQue  se considera que el Comité Directivo del fondo fiduciario  a ser creado  resulta  ser  el  órgano  adecuado  a  los fines de dar cumplimiento  a  las tareas emergentes de la disolución  del  FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA.\n\nQue la DIRECCION  GENERAL  DE  ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA ha tomado la intervención que le compete.\n\nQue la presente medida se dicta  en  ejercicio  de  las facultades conferidas por el artículo 99 inciso 1, de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "*Art. 1: Téngase por constituido con efectos desde el 26 de febrero de 2000 el FONDO FIDUCIARIO PARA LA RECONSTRUCCION  DE EMPRESAS con el siguiente objeto:\n\na) Suscribir e integrar aportes de capital, otorgar préstamos convertibles o no en acciones y otorgar  avales, fianzas y/u otras garantías a entidades financieras,  de  seguros,   prestadoras  de  servicios de salud, educación, bienes y servicios culturales, ciencia,  tecnología  y energía nuclear, y de sus sociedades controlantes.\n\nb)  Comprar y vender acciones de entidades financieras, de seguros, prestadoras  de  servicios  de salud, educación, bienes y servicios culturales,  ciencia,  tecnología  y  energía  nuclear,  y  de  sus sociedades controlantes.\n\nc)  Adquirir  activos  de  entidades    financieras,   de  seguros, prestadoras  de  servicios de salud, educación, bienes y  servicios culturales,  ciencia,  tecnología  y  energía  nuclear,  y  de  sus sociedades controlantes.\n\nd) Realizar los activos que adquiera, en forma gradual y progresiva.\n\ne) Realizar las  gestiones  y  transferencias  de activos y pasivos financieros  que  le  encomiende el BANCO CENTRAL DE  LA  REPUBLICA ARGENTINA o el MINISTERIO DE ECONOMIA, todo ello en las condiciones previstas en el presente  decreto y en el contrato de fideicomiso a suscribirse entre el ESTADO  NACIONAL  y  el  BANCO  DE  LA  NACION ARGENTINA,  o  en contratos de fideicomiso que pudiera celebrar  el ESTADO NACIONAL o el propio FONDO FIDUCIARIO PARA LA RECONSTRUCCION DE EMPRESAS.\n\nf) Gestionar la  disolución  del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA  quedando  a su cargo el  cumplimiento  de  los  convenios existentes conforme instrucciones  que  le imparta el MINISTERIO DE ECONOMIA.\n\ng) Asignar  la  suma  que  determine  el  MINISTERIO  DE  ECONOMIA  Y PRODUCCION a la constitución  del  patrimonio  del Fondo Fiduciario para  la  Refinanciación Hipotecaria creado por la  Ley  N  25.798.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Inc. g) incorporado. (B.O. 22-12-2003).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 001284 2003 12 18 0002 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 7-05-2009) Autoriza al Ministerio de Economía y Finanzas Públicas para que, en uso de las atribuciones conferidas en el inc g)determine las sumas del Fondo Fiduciario para la Reconstrucción de Empresas que deberán asignarse al Fondo Fiduciario para la Refinanciación Hipotecaria para la atención de los gastos que demande esta medida",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 026497 2009 04 15 0007 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2: Dispónese la disolución del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA constituido por el Decreto N. 445/95, transfiriéndose la totalidad de sus activos al 26 de febrero de 2000 al FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS y asumiendo éste la totalidad de sus pasivos a igual fecha."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "*Art. 3: El FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS se integrará con los siguientes recursos:\n\na) Transferencia fiduciaria de la totalidad de los activos al 26 de febrero de 2000 del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA.\n\nb) Los recursos provenientes  de  financiamiento  y/o aportes de cualquier naturaleza de entidades financieras y de organismos multilaterales de   crédito  destinados  al  mismo  objeto  de  los fideicomisos.\n\nc) La renta de sus operaciones.\n\nd) Otros recursos que se obtengan para los mismos fines previstos en el contrato de fideicomiso."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4: Todos los derechos del BANCO DE LA NACION ARGENTINA, adquiridos en su carácter de fiduciario del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA, que tengan su origen en los distintos contratos de mutuo y sus contratos anexos celebrados con las entidades financieras que recibieron la asistencia del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA, y las obligaciones negociables emitidas por tales entidades, se mantendrán, sin que sufran cambio alguno, en beneficio del FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS. Esta circunstancia no podrá interpretarse como una novación o cualquier otro tipo de acto jurídico que modifique las obligaciones contraídas por las partes en tales contratos o en virtud de la emisión de los mencionados títulos valores.\n\nAsimismo, el FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS asumirá la totalidad de los compromisos pendientes del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA al 26 de febrero de 2000."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5: La dirección del FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS estará a cargo de un Comité Directivo designado por el Sr. Ministro de Economía."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 000445 1995 03 28 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "Art. 6: El Comité Directivo del FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES  FINANCIERAS Y DE SEGUROS tendrá a su cargo las tareas vinculadas a la disolución del FONDO FIDUCIARIO DE CAPITALIZACION BANCARIA constituído por el Decreto N. 445 del 28 de marzo de 1995.\n\nAsimismo, diseñará un plan de realización de los activos que adquiriese en el futuro, debiendo establecer las normas respectivas y el cronograma en el que se ejecutará, sujeto a las siguientes modalidades:\n\na) Las acciones que adquiriese o las participaciones en el capital de las entidades financieras, entidades de seguros y sus sociedades controlantes, que suscribiere o recibiere en cancelación de préstamos o bonos convertibles en acciones, se realizará mediante remates, licitaciones u ofertas públicas o privadas en los mercados de capitales.\n\nb) Los inmuebles deberán venderse en licitación pública o privada o en remate público según conviniere mejor en cada caso.\n\nc) Los demás activos se realizarán siguiendo las prácticas de la plaza."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7: Los asesores en materia económica, financiera, legal o técnica del MINISTERIO DE ECONOMIA, del BANCO CENTRAL DE LA REPUBLICA ARGENTINA, del BANCO DE LA NACION ARGENTINA o de otras dependencias del Estado dictaminarán o asesorarán a solicitud del Comité Directivo en las materias que éste requiera."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8: El BANCO DE LA NACION ARGENTINA depositará los recursos del FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS en alguna de las entidades calificadas por el BANCO CENTRAL DE  LA REPUBLICA ARGENTINA para custodiar reservas internacionales y llevará por separado el registro contable de sus operaciones."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9: El FONDO FIDUCIARIO DE ASISTENCIA A ENTIDADES FINANCIERAS Y DE SEGUROS se disolverá en un plazo de DOS (2) años, o quedando su liquidación y el cumplimiento de los convenios existentes a cargo de los funcionarios que designe el MINISTERIO DE ECONOMIA."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art. 10: Autorízase al Sr. Ministro de Economía a acordar los términos y condiciones de contrato de fideicomiso con el BANCO DE LA NACION ARGENTINA."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art. 11: El MINISTERIO DE ECONOMIA será la Autoridad de Aplicación del presente decreto y  dictará las normas pertinentes para su implementación."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "Art. 12: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "DE LA RUA-Terragno-Machinea"
+      },
+      "id-infojus": "DN20000000342"
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-678-1000-5891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992191224,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1876-nacional-alumnos-discapacitados-enseanza-media-superior-dn19850001876-1985-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": 19850001876,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1876,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1985-09-27",
+      "standard-normativo": "DEC C 001876 1985 09 27",
+      "titulo-norma": "ALUMNOS DISCAPACITADOS DE LA ENSEÑANZA MEDIA Y SUPERIOR.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1985 10 02"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 5",
+            "id": "ABROGA A0",
+            "ref": "DEC C 001828 1927 07 25 0000 000"
+          },
+          {
+            "cr": "POR ART. 5",
+            "id": "ABROGA A1",
+            "ref": "DEC C 008415 1965 09 29 0000 000"
+          },
+          {
+            "cr": "POR ART. 5",
+            "id": "ABROGA A2",
+            "ref": "DEC C 002859 1976 11 15 0000 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Nacional 1.876/85",
+      "estado": "Vigente, de alcance general",
+      "fecha-alta": "1995-04-04",
+      "fecha-mod": "2003-04-09",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE ESTABLECE QUE LOS ALUMNOS QUE CURSEN ESTUDIOS EN ESTABLECIMIENTOS DE ENSEÑANZA MEDIA Y TERCIARIA Y QUE POR RAZONES DE DEFICIENCIA FISICA NO SE ENCUENTREN EN CONDICIONES DE RENDIR ASIGNATURAS PRACTICAS, PODRAN SER EXCEPTUADOS DE APROBAR DICHAS MATERIAS."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "sanidad escolar"
+            },
+            "preferido": {
+              "termino": "Salud pública/asistencia sanitaria/sanidad escolar"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "establecimientos de enseñanza"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/infraestructura educativa/establecimientos educacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "escuelas",
+                "establecimientos de enseñanza",
+                "Educación y Cultura",
+                "institutos incorporados a la enseñanza oficial",
+                "establecimientos educativos",
+                "institutos educativos",
+                "colegios",
+                "instituciones educativas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "discapacitados"
+            },
+            "preferido": {
+              "termino": "Derechos humanos/derechos humanos de los ancianos y personas con discapacidad/personas con discapacidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "personas con capacidades diferentes",
+                "derechos fundamentales",
+                "discapacitados",
+                "discapacidad",
+                "personas discapacitadas",
+                "minusválidos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "enseñanza superior"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos/educación superior"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "enseñanza superior"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "establecimientos educativos (establecimientos educacionales)",
+            "colegios (establecimientos educacionales)",
+            "Salud pública",
+            "Educación y Cultura (Cultura y educación)",
+            "escuelas (establecimientos educacionales)",
+            "Cultura y educación",
+            "personas con capacidades diferentes (personas con discapacidad)",
+            "derechos humanos de los ancianos y personas con discapacidad",
+            "institutos educativos (establecimientos educacionales)",
+            "institutos incorporados a la enseñanza oficial (establecimientos educacionales)",
+            "enseñanza superior (educación superior)",
+            "Derechos humanos",
+            "personas discapacitadas (personas con discapacidad)",
+            "personas con discapacidad",
+            "instituciones educativas (establecimientos educacionales)",
+            "sanidad escolar",
+            "educación",
+            "derechos fundamentales (Derechos humanos)",
+            "establecimientos educacionales",
+            "asistencia sanitaria",
+            "educación superior",
+            "establecimientos de enseñanza (establecimientos educacionales)",
+            "minusválidos (personas con discapacidad)",
+            "niveles educativos",
+            "discapacidad (personas con discapacidad)",
+            "discapacitados (personas con discapacidad)",
+            "infraestructura educativa"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001328 1927 07 25 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 008415 1965 09 29 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002859 1976 11 15 0000 000"
+            }
+          ]
+        },
+        "texto": "Los Decretos Nros. 1328 de fecha 25 de julio de 1927, 8415 del 29 de  septiembre  de  1965  y  2859  del  15 de noviembre de 1976, mediante los que se permite exceptuar a los  alumnos  que  adolecen de    deficiencias  físicas  de  rendir  asignaturas  prácticas  en establecimientos  de  enseñanza  media,  lo  propuesto por el señor MINISTRO DE EDUCACION Y JUSTICIA, y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  es necesario actualizar y ampliar, con alcances generales, las normas   que  rigen  la  exención  mencionada,  incluyendo  en  ese beneficio,    también,  a  los  estudiantes  que  cursen  el  nivel terciario.\n\nQue ello resulta  posible en la medida en que el impedimento físico sólo implique incapacidad  para  el  desarrollo  de las actividades correspondientes  a  materias  no  fundamentales  de  la    carrera elegida. m/Que esta exención debe quedar condicionada a que en  los certificados  de  estudio  que  se  extiendan  se deje expresamente aclarado  que  el título así obtenido inhabilita a  sus  poseedores para el ejercicio  de  la  docencia  en  las  asignaturas en que se hubiera producido dicha eximición.\n\nQue  para  dar  cumplimiento a todo lo señalado precedentemente  es menester  adoptar    las   providencias  conducentes  a  clarificar debidamente el tema, sin dejar  por  ello de asegurar el derecho de esos alumnos a capacitarse hata los máximos  niveles intelectuales.\n\nQue la medida programada encuentra amparo legal  en  la  atribución conferida al Poder Ejecutivo Nacional por el artículo 86,  inciso 1 de la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- Los alumnos que cursen estudios en los establecimientos  de  enseñanza media y terciaria y que por razones de deficiencia física no  se  encuentren  en  condiciones de rendir asignaturas    prácticas,   cuyo  desarrollo  de  actividades    no corresponda a materias fundamentales  de la carrera elegida, podrán ser exceptuados de aprobar dichas materias.\n\nEn  esos  casos  serán promovidos sin que  deban  cumplir  con  las disposiciones  exigidas    por    la  reglamentación  en  vigencia."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.-  Cada  organismo  de  conducción  determinará,  en su respectivo  ámbito,  las  asignaturas  prácticas cuyo desarrollo de actividades no constituya materias fundamentales  de  cada carrera, a los efectos de otorgar las exenciones previstas."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.- La exención será acordada por resolución ministerial, previo dictamen  de  la dirección Nacional de Sanidad Escolar y del organismo de conducción competente."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "ARTICULO    4.-  Los  títulos  obtenidos  en  las  condiciones  que establece el  artículo  1  no  habilitarán  para el ejercicio de la enseñanza de la o las asignaturas en que haya  recaído  la exención total  o  parcial,  hecho este del que se dejará expresa constancia en  el  pertinente  certificado    de  estudios  que  se  extienda."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  Deróganse  los  Decretos  Nros.  1828 de fecha 25 de julio de 1927, 8415 del 29 de septiembre de 1965  y  2859 del 15 de noviembre de 1976."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO  6.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "ALFONSIN -  ALCONADA ARAMBURU"
+      },
+      "id-infojus": "DN19850001876"
+    }
+  }
+}
