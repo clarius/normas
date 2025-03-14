@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-057-0000-9102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1572527285316,
+      "timestamp": 1572531292817,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,9 @@
         "id-pais": 11
       },
       "numero-norma": 750,
-      "timestamp": "2019-10-31T09:13:21",
+      "timestamp": "2019-10-31T10:28:27",
       "timestamp-alta": "2019-10-31T09:13:21",
-      "timestamp-m": "2019-10-31T09:13:21",
+      "timestamp-m": "2019-10-31T10:28:27",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -56,25 +56,34 @@
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 4 FECHA DE ENTRADA EN VIGENCIA: 1/11/2019"
       },
       "descriptores": {
-        "descriptor": {
-          "elegido": {
-            "termino": "Secretaría Nacional de Niñez, Adolescencia y Familia"
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Primera Infancia Primero"
+            },
+            "preferido": {
+              "termino": "Primera Infancia Primero"
+            },
+            "sinonimos": null
           },
-          "preferido": {
-            "termino": "Secretaría de Niñez, Adolescencia y Familia"
-          },
-          "sinonimos": {
-            "termino": "Secretaría Nacional de Niñez, Adolescencia y Familia"
+          {
+            "elegido": {
+              "termino": "Secretaría Nacional de Niñez, Adolescencia y Familia"
+            },
+            "preferido": {
+              "termino": "Secretaría de Niñez, Adolescencia y Familia"
+            },
+            "sinonimos": {
+              "termino": "Secretaría Nacional de Niñez, Adolescencia y Familia"
+            }
           }
-        },
+        ],
         "suggest": {
           "termino": [
+            "Primera Infancia Primero",
             "Secretaría Nacional de Niñez, Adolescencia y Familia (Secretaría de Niñez, Adolescencia y Familia)",
             "Secretaría de Niñez, Adolescencia y Familia"
           ]
-        },
-        "invalidos": {
-          "termino": "PRIMERA INFANCIA PRIMERO"
         }
       },
       "visto": {
