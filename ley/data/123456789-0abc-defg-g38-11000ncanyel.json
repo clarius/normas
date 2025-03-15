@@ -1,0 +1,143 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g38-11000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1637841791948,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17347-nacional-lnn0001183-1967-07-18"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001183",
+      "numero-norma": 17347,
+      "timestamp": "2021-11-25T08:23:18",
+      "timestamp-m": "2021-11-25T08:23:18",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-07-18",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017347 1967 07 18",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 17.347",
+          "BUENOS AIRES, 18 DE JULIO DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 07 26",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 07 26"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B002719671560",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.347",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2021-11-25",
+      "texto-original": {
+        "file-name": "N0001183.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001183pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22415 (B.O. 23-03-1981) TRANSPORTE-EXPORTACION- IMPORTACION-CONTENEDORES-PODER EJECUTIVO NACIONAL:FUNCIONES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte de mercaderías"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "transporte en contenedores",
+                "transporte de mercaderías"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "exportaciones"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/exportaciones"
+            },
+            "sinonimos": {
+              "termino": "comercio internacional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "importaciones"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/importaciones"
+            },
+            "sinonimos": {
+              "termino": "comercio internacional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contenedores"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga/transporte de contenedores"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "containers",
+                "transporte en contenedores",
+                "contenedores",
+                "transporte de mercaderías"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Aduanero",
+            "operaciones aduaneras",
+            "transporte de contenedores",
+            "containers (transporte de contenedores)",
+            "transporte de mercaderías (transporte de carga)",
+            "Transporte",
+            "contrato de transporte",
+            "exportaciones",
+            "Derecho tributario y aduanero",
+            "comercio internacional (comercio exterior)",
+            "transporte de carga general (transporte de carga)",
+            "comercio exterior",
+            "contenedores (transporte de contenedores)",
+            "importaciones",
+            "transporte en contenedores (transporte de carga)",
+            "transporte de carga"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001183"
+    }
+  }
+}

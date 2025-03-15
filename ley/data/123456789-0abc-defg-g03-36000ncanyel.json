@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g03-36000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627945621218,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16778-nacional-lnn0006330-1965-10-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006330",
+      "numero-norma": 16778,
+      "timestamp": "2021-08-02T19:55:22",
+      "timestamp-m": "2021-08-02T19:55:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1965-10-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016778 1965 10 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.778",
+          "BUENOS AIRES, 29 DE OCTUBRE DE 1965"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1965 01 28",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1966 01 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  025 C19652140",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.778",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-08-02",
+      "texto-original": {
+        "file-name": "N0006330.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006330pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SUBSIDIO PARA CONSTRUIR UNA ESCUELA EN ZARATE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "subsidio estatal"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/subsidio estatal"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "subsidio del Estado",
+                "derecho económico financiero",
+                "subsidios",
+                "subvención estatal",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "derecho financiero (Economía y finanzas)",
+            "subvención estatal (subsidio estatal)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "subsidio del Estado (subsidio estatal)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Estado Nacional",
+            "subsidios (subsidio estatal)",
+            "Economía y finanzas",
+            "subsidio estatal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006330"
+    }
+  }
+}

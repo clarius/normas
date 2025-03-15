@@ -1,0 +1,114 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g03-04100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556025130434,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4321-nacional-lnn0014030-1904-07-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014030",
+      "numero-norma": 4321,
+      "timestamp": "2019-04-23T09:02:23",
+      "timestamp-m": "2019-04-23T09:02:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1904-07-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004321 1904 07 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.321",
+          "BUENOS AIRES, 26 DE JULIO DE 1904"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1904 08 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1904 08 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018890616",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.321",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0014030.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014030pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRESUPUESTO-AUTORIZACION PARA PAGAR CREDITOS DE EJERCICIOS VENCIDOS QUE SE ADEUDAN POR EL DEPARTAMENTO DEL INTERIOR"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "modificación del presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/modificación del presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "modificación del presupuesto",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "presupuesto nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014030"
+    }
+  }
+}

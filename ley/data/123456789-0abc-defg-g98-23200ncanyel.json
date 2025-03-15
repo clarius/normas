@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g98-23200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676552383772,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3871-nacional-lnn0023289-1899-10-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023289",
+      "numero-norma": 3871,
+      "timestamp": "2023-02-16T09:33:19",
+      "timestamp-m": "2023-02-16T09:33:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1899-10-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003871 1899 10 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3871",
+          "BUENOS AIRES, 31 DE OCTUBRE DE 1899"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1899 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": null
+      },
+      "publicacion-privada": "ADLA                                                  000 019190473",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.871",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-16",
+      "texto-original": {
+        "file-name": "N0023289.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0023289pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-CONVERSION A ORO-CONVERSION A ORO DE LA MONEDA FIDUCIDIARIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "moneda de curso legal"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/moneda de curso legal"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "moneda nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/moneda nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sistema financiero",
+            "derecho financiero (Economía y finanzas)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "moneda",
+            "moneda nacional",
+            "moneda de curso legal",
+            "Economía y finanzas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023289"
+    }
+  }
+}

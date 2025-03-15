@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g26-19100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1593000622094,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14363-nacional-lnn0019162-1954-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0019162",
+      "numero-norma": 14363,
+      "timestamp": "2020-06-24T08:53:46",
+      "timestamp-m": "2020-06-24T08:53:46",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1954-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014363 1954 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14363",
+          "BUENOS AIRES, 29 DE SETIEMBRE DE 1954"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1954 11 16",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1954 11 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  015 A19550163",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.363",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-24",
+      "texto-original": {
+        "file-name": "N0019162.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0019162pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PROPIEDAD ENEMIGA-EXCLUYE DEL REGIMEN DEL DECRETO 11599/46 ( PROPIEDAD ENEMIGA) EL PRECIO DE UN INMUEBLE DEL CLUB ALEMAN EN BUENOS AIRES CONDICIONES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0019162"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g07-08100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676458971290,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2791-nacional-lnn0018070-1891-08-08"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018070",
+      "numero-norma": 2791,
+      "timestamp": "2023-02-15T06:41:39",
+      "timestamp-m": "2023-02-15T06:41:39",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1891-08-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002791 1891 08 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 2.791",
+          "BUENOS AIRES, 8 DE AGOSTO DE 1891"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1891 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": null
+      },
+      "publicacion-privada": "ADLA                                                  000 019190221",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.791",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-15",
+      "texto-original": {
+        "file-name": "N0018070.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018070pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PENSION A MARGARITA U. DE IBARGUREN"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "pensiones graciables",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018070"
+    }
+  }
+}

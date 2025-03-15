@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g20-95200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1663239771090,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "1825-nacional-lnn0025902-1958-02-17"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025902",
+      "numero-norma": 1825,
+      "timestamp": "2022-09-15T07:36:17",
+      "timestamp-m": "2022-09-15T07:36:17",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1958-02-17",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 001825 1958 02 17",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO-LEY 1825/58",
+          "BUENOS AIRES, 17 DE FEBRERO DE 1958"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1958 02 25",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1958 02 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A001819580618",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 1.825/58",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2022-09-15",
+      "texto-original": {
+        "file-name": "N0025902.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0025902pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADO POR LEY 16052 (B.O. 30-1-62)-REMODELACION DE ACCESOS FERROVIARIOS-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "obras públicas"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública/obras públicas"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ferrocarriles"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario/ferrocarriles"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "contrato de obra pública",
+            "ferrocarriles",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "contrataciones públicas (contratos administrativos)",
+            "contratos administrativos",
+            "contrataciones del Estado (contratos administrativos)",
+            "obras públicas",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025902"
+    }
+  }
+}

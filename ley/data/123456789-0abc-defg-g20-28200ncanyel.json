@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g20-28200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584708147,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23541-nacional-lnn0028202-1987-09-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028202",
+      "numero-norma": 23541,
+      "timestamp": "2013-07-30T14:28:00",
+      "timestamp-m": "2013-07-30T14:28:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1987-09-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023541 1987 09 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 23.541",
+          "BUENOS AIRES, 24 DE SETIEMBRE DE 1987"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1987 11 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1987 11 06"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.541",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-07-30",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MONUMENTOS CONMEMORATIVOS-DISPONE EL TRASLADO DE LA ESTATUA DEL DOCTOR MARIANO MORENO,DE PLAZA LORENA A PLAZA DE MAYO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "homenajes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monumentos"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes/monumentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "homenajes",
+            "monumentos",
+            "cultura",
+            "política tecnológica (política cultural)",
+            "política científica (política cultural)",
+            "conmemoraciones",
+            "política cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028202"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g45-35200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1493210184857,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14830-nacional-lnn0025354-1959-09-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025354",
+      "numero-norma": 14830,
+      "timestamp": "2017-04-26T05:19:52",
+      "timestamp-m": "2017-04-26T05:19:52",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1959-09-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014830 1959 09 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14830",
+          "BUENOS AIRES, 9 DE SETIEMBRE DE 1959"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1959 09 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  019 A19590080",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.830",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-04-26",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "VETADA POR MENSAJE DEL PODER EJECUTIVO NACIONAL DEL 30/9/59- REPRESION DEL AGIO Y ESPECULACION-MODIFICA Y PRORROGA LEY 14440"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "agio"
+            },
+            "preferido": {
+              "termino": "Derecho penal/delitos contra la fe pública/fraudes al comercio y a la industria/agio"
+            },
+            "sinonimos": {
+              "termino": "agiotaje"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "represión del agio y la especulación"
+            },
+            "preferido": {
+              "termino": "Derecho penal/delitos contra la fe pública/fraudes al comercio y a la industria/agio/represión del agio y la especulación"
+            },
+            "sinonimos": {
+              "termino": "agiotaje"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "delitos contra la fe pública",
+            "represión del agio y la especulación",
+            "fraudes al comercio y a la industria",
+            "agiotaje (agio)",
+            "Derecho penal",
+            "agio"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025354"
+    }
+  }
+}

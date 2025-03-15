@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g33-47200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582204355452,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22128-nacional-lnn0027433-1980-01-03"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027433",
+      "numero-norma": 22128,
+      "timestamp": "2020-02-20T09:51:02",
+      "timestamp-m": "2020-02-20T09:51:02",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1980-01-03",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022128 1980 01 03",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.128",
+          "BUENOS AIRES, 3 DE ENERO DE 1980"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1980 01 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1980 01 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  040 A19800011",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.128",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-20",
+      "texto-original": {
+        "file-name": "N0027433.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027433pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN INMUEBLE UBICADO EN LA CAPITAL FEDERAL CON DESTINO A TRIBUNALES DE JUSTICIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027433"
+    }
+  }
+}

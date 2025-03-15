@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g33-64100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1535728936868,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2883-nacional-lnn0014633-1892-08-10"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014633",
+      "numero-norma": 2883,
+      "timestamp": "2018-08-31T11:28:28",
+      "timestamp-m": "2018-08-31T11:28:28",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1892-08-10",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002883 1892 08 10",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 002883",
+          "BUENOS AIRES 10 DE AGOSTO DE 1892"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1892 08 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O19190250",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.883",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-08-31",
+      "texto-original": {
+        "file-name": "N0014633.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014633pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PERMISO A NICOLAS ORTIZ VIOLA PARA USAR CONDECORACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "homenajes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "condecoraciones"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes/condecoraciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "homenajes",
+            "cultura",
+            "política científica (política cultural)",
+            "política tecnológica (política cultural)",
+            "conmemoraciones",
+            "condecoraciones",
+            "política cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014633"
+    }
+  }
+}

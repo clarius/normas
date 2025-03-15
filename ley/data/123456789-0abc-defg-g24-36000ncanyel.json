@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g24-36000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627945512829,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16667-nacional-lnn0006342-1965-06-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006342",
+      "numero-norma": 16667,
+      "timestamp": "2021-08-02T19:55:22",
+      "timestamp-m": "2021-08-02T19:55:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1965-06-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016667 1965 06 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.667",
+          "BUENOS AIRES, 25 DE JUNIO DE 1965"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1965 07 28",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1965 07 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  025 B19651174",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.667",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-08-02",
+      "texto-original": {
+        "file-name": "N0006342.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006342pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "RESTITUCION A LA PROVINCIA DE JUJUY DE UN INMUEBLE DENOMINADO EL CHUCUPAL. DISTRITO EL CHAMICAL DEPARTAMENTO DE EL CARMEN"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006342"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g50-18200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584900492,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23253-nacional-obras-ferroviarias-lnn0028105-1985-09-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028105",
+      "numero-norma": 23253,
+      "timestamp": "2014-08-29T16:04:45",
+      "timestamp-m": "2014-08-29T16:04:45",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1985-09-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023253 1985 09 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 23253",
+          "BUENOS AIRES, 19 DE SETIEMBRE DE 1985"
+        ]
+      },
+      "titulo-norma": "OBRAS FERROVIARIAS",
+      "datos-publicacion": "BOLETIN OFICIAL   1985 10 09",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1985 10 09"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.253",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBRAS FERROVIARIAS-DISPONESE ALA PROLONGACION DEL FERROCARRIL GENERAL JULIO A. ROCA,DESDE ZAPALA HASTA EL LIMITE CON LA REPUBLICA DE CHILE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028105"
+    }
+  }
+}

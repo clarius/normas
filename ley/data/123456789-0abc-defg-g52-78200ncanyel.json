@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g52-78200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043471774,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24518-nacional-lnn0028725-1995-07-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028725",
+      "numero-norma": 24518,
+      "timestamp": "2019-04-23T14:40:55",
+      "timestamp-m": "2019-04-23T14:40:55",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1995-07-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024518 1995 07 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley N. 24518.",
+          "Buenos Aires, 5 de julio de 1995."
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1995 08 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1995 08 04"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.518",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0028725.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028725pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA A ERIGIR UN MONOLITO CONMEMORATIVO DEL CENTENARIO DE LA FUNDACION DE LA ASOCIACION DEL FUTBOL ARGENTINO FUNDACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "conmemoraciones"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Asociación de Fútbol Argentino"
+            },
+            "preferido": {
+              "termino": "Asociación de Fútbol Argentino"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "cultura",
+            "política científica (política cultural)",
+            "política tecnológica (política cultural)",
+            "conmemoraciones",
+            "Asociación de Fútbol Argentino",
+            "política cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028725"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g16-45200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583882451,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20119-nacional-lnn0025461-1973-01-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025461",
+      "numero-norma": 20119,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-01-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020119 1973 01 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20119",
+          "BUENOS AIRES, 25 DE ENERO DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 02 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 02 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003319730259",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.119",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20135 (B.O. 9-2-73)-INCORPORA PENALIDADES A LA LEY 19684 SOBRE VEDA AL CONSUMO DE CARNES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "carnes"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/industria de la carne/carnes"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "veda de carnes"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/industria de la carne/carnes/veda de carnes"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria",
+                "productos industriales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "industria alimenticia",
+            "carnes",
+            "veda de carnes",
+            "productos industriales (actividad industrial)",
+            "industria de la carne",
+            "industria (actividad industrial)",
+            "Actividades económicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025461"
+    }
+  }
+}

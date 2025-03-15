@@ -1,0 +1,117 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g24-35200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1493210015246,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15696-nacional-lnn0025342-1960-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025342",
+      "numero-norma": 15696,
+      "timestamp": "2017-04-26T05:19:05",
+      "timestamp-m": "2017-04-26T05:19:05",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015696 1960 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15696",
+          "BUENOS AIRES, 30 DE SETIEMBRE DE 1960"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1960 09 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  020 A19600131",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.696",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-04-26",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "VETADO POR MENSAJE DEL PODER EJECUTIVO NACIONAL DE 24/10/60- INDEMNIZACION POR PEDIDO-AUMENTO DEL TOPE MAXIMO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "despido"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "distracto laboral",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización por despido"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/indemnización por despido"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "distracto laboral",
+                "indemnización por antigüedad",
+                "despido del trabajador"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "despido del trabajador (despido)",
+            "distracto laboral (extinción del contrato de trabajo)",
+            "denuncia del contrato de trabajo (despido)",
+            "distracto (extinción del contrato de trabajo)",
+            "indemnización por despido",
+            "Derecho laboral",
+            "extinción del contrato de trabajo",
+            "indemnización por antigüedad (indemnización por despido)",
+            "contrato laboral (contrato de trabajo)",
+            "despido",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025342"
+    }
+  }
+}

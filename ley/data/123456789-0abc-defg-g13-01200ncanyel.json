@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g13-01200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584709734,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14481-nacional-lnn0021031-1958-09-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0021031",
+      "numero-norma": 14481,
+      "timestamp": "2013-07-30T14:27:59",
+      "timestamp-m": "2013-07-30T14:27:59",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1958-09-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014481 1958 09 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14.481",
+          "BUENOS AIRES, 22 DE SEPTIEMBRE DE 1958"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1958 10 09",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1958 10 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  018 A19580130",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.481",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-07-30",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SUBSIDIO-CONTRIBUCION PARA UN MONUMENTO EN LA COLONIA SAN CARLOS PROVINCIA DE SANTA FE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "homenajes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monumentos"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes/monumentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "homenajes",
+            "monumentos",
+            "cultura",
+            "política tecnológica (política cultural)",
+            "política científica (política cultural)",
+            "conmemoraciones",
+            "política cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0021031"
+    }
+  }
+}

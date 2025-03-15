@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g35-68200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043432274,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24336-nacional-lnn0028653-1994-06-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028653",
+      "numero-norma": 24336,
+      "timestamp": "2019-04-23T14:41:25",
+      "timestamp-m": "2019-04-23T14:41:25",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1994-06-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024336 1994 06 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY N. 24.336",
+          "BUENOS AIRES, 9 DE JUNIO DE 1994"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1994 07 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 07 08"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.336",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0028653.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028653pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "APRUEBA LA CUENTA GENERAL CORRESPONDIENTE AL EJERCICIO 1989"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "aprobación del presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/aprobación del presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cuentas generales"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/cuentas generales"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "cuentas generales del ejercicio",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "cuentas generales",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "aprobación del presupuesto",
+            "derecho económico financiero (Economía y finanzas)",
+            "cuentas generales del ejercicio (cuentas generales)",
+            "Economía y finanzas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028653"
+    }
+  }
+}

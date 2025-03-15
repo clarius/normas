@@ -1,0 +1,582 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-243-0000-2991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990115027,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "342-nacional-decreto-reglamentario-sobre-ley-empleo-24013-dn19920000342-1992-02-24"
+      }
+    },
+    "content": {
+      "mecanografico": 19920000342,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 342,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1992-02-24",
+      "standard-normativo": "DEC C 000342 1992 02 24",
+      "titulo-norma": "DECRETO REGLAMENTARIO SOBRE LA LEY DE EMPLEO N. 24.013",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1992 02 28"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 342/1992",
+      "estado": "Derogada",
+      "fecha-alta": "2000-01-06",
+      "fecha-mod": "2011-08-16",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTAN LOS ARTICULOS 75 AL 80 DE LA LEY DE EMPLEO N.\n\n24.013, Y LOS ARTICULOS 29 ULTIMO PARRAFO Y 29 BIS DE LA LEY DE CONTRATO DE TRABAJO N. 20.744 SOBRE EMPRESAS DE SERVICIOS EVENTUALES.",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 001694 2006 11 22 0031 000 0000 000"
+          }
+        },
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 24 OBSERVACION: EL PRESENTE DECRETO HA SIDO DEROGADO POR ART. 31 DEL DEC. 1694/2006 (B.O. 27/11/2006).",
+        "reglamenta-a": {
+          "referencia-normativa": [
+            {
+              "cr": "ULTIMO PARRAFO",
+              "id": "REGLAMENTA_A_0",
+              "ref": "LCT C 020744 1976 05 13 0029 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_1",
+              "ref": "LCT C 020744 1976 05 13 0029 002 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_2",
+              "ref": "LEY C 024013 1991 11 13 0075 000 0080 000"
+            }
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ley de empleo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/política laboral/ley de empleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "ley nacional de empleo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "empresas de servicios eventuales"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/interposición laboral/empresas de servicios eventuales"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "agencias de servicios eventuales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de trabajo eventual"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/modalidades del contrato de trabajo/modalidades no promovidas/contrato de trabajo eventual"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "trabajo eventual"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jornada laboral"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/jornada de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "horas de trabajo",
+                "jornada legal de trabajo",
+                "jornada laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios/indemnización"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por daños",
+                "indemnización del daño",
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aportes previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/aportes y contribuciones previsionales/aportes previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "aportes jubilatorios",
+                "derecho de los recursos de la seguridad social",
+                "obligaciones previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agentes de retención"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sujetos imponibles/responsables/agentes de retención"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "sujetos de los deberes impositivos",
+                "sujetos pasivos del impuesto",
+                "responsables por deuda ajena",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "habilitación del establecimiento"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Municipalidad/habilitación municipal/habilitación del establecimiento"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen municipal",
+                "municipio",
+                "habilitación comercial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "establecimiento comercial"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad comercial/establecimiento comercial"
+            },
+            "sinonimos": {
+              "termino": "explotación comercial"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inscripción registral"
+            },
+            "preferido": {
+              "termino": "Derecho civil/inscripción registral"
+            },
+            "sinonimos": {
+              "termino": [
+                "inscripción en el registro",
+                "derecho registral"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "aportes y contribuciones previsionales",
+            "responsables",
+            "Derecho Tributario",
+            "política laboral",
+            "reglamento de ejecución (decreto reglamentario)",
+            "ley nacional de empleo (ley de empleo)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "modalidades del contrato de trabajo",
+            "Derecho tributario y aduanero",
+            "daños y pérdidas (daños y perjuicios)",
+            "sujetos pasivos del impuesto (sujetos imponibles)",
+            "jornada laboral (jornada de trabajo)",
+            "municipio (Municipalidad)",
+            "contrato de trabajo eventual",
+            "habilitación comercial (habilitación del establecimiento)",
+            "obligaciones previsionales (aportes y contribuciones previsionales)",
+            "derecho registral (inscripción registral)",
+            "derecho fiscal (Derecho Tributario)",
+            "Derecho administrativo",
+            "responsables por deuda ajena (responsables)",
+            "inscripción registral",
+            "trabajo eventual (contrato de trabajo eventual)",
+            "jornada legal de trabajo (jornada de trabajo)",
+            "modalidades no promovidas",
+            "responsabilidad por daños (responsabilidad civil)",
+            "Seguridad social",
+            "indemnización",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "sujetos imponibles",
+            "acto administrativo",
+            "empresas de servicios eventuales",
+            "ley de empleo",
+            "habilitación municipal",
+            "agencias de servicios eventuales (empresas de servicios eventuales)",
+            "indemnización por daños (indemnización)",
+            "jornada de trabajo",
+            "responsabilidad civil",
+            "aportes jubilatorios (aportes previsionales)",
+            "recursos de la seguridad social",
+            "inscripción en el registro (inscripción registral)",
+            "régimen municipal (Municipalidad)",
+            "agentes de retención",
+            "decreto reglamentario",
+            "actividad comercial",
+            "sujetos de los deberes impositivos (sujetos imponibles)",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "habilitación del establecimiento",
+            "reglamentos",
+            "derecho público fiscal (Derecho Tributario)",
+            "contrato laboral (contrato de trabajo)",
+            "sujetos del contrato de trabajo",
+            "explotación comercial (actividad comercial)",
+            "establecimiento comercial",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "interposición laboral",
+            "daños y perjuicios",
+            "Derecho civil",
+            "Actividades económicas",
+            "Municipalidad",
+            "indemnización del daño (indemnización)",
+            "Derecho de daños (responsabilidad civil)",
+            "aportes previsionales",
+            "contrato de trabajo",
+            "derecho del trabajo (Derecho laboral)",
+            "Derecho laboral",
+            "horas de trabajo (jornada de trabajo)",
+            "contrato de trabajo en general"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 024013 1991 11 13 0000 000 0000 000"
+          }
+        },
+        "texto": "la Ley N. 24.013, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LCT C 020744 1976 05 13 0029 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LCT C 020744 1976 05 13 0245 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 024013 1991 11 13 0075 000 0080 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 024013 1991 11 13 0000 000 0000 000"
+            },
+            {
+              "cr": "inc. 2",
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "CON C 000000 1853 05 01 0086 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que la presente norma reglamentaria se dicta con el objetivo de hacer  operativa  la  norma  del artículo 29, último párrafo, de la Ley de Contrato de Trabajo (t.  o.)  y  los artículos 75 a 80 de la Ley N. 24.013, y en uso de las facultades otorgadas por el art. 86, inc. 2 de la CONSTITUCION NACIONAL.\n\nQue se estima conveniente describir en forma  clara  y  precisa la relación  laboral de los trabajadores eventuales en función  de  la modalidad itinerante  de  su  desempeño,  para asegurar el carácter permanente  del  contrato  de trabajo con la empresa  de  servicios eventuales.\n\nQue a tal fin se precisan las  características  de  la relación de trabajo entre la empresa de servicios eventuales y los trabajadores  que  prestan  servicios  en  empresas  usuarias  cuya relación   es  permanente  y  discontinua;  así  como  el  carácter permanente  y  continuo  de la relación de trabajo entre la empresa de servicios eventuales y  los trabajadores que se desempeñan en su sede, oficinas, agencias, filiales, etc.\n\nQue  a  fin  de preservar la dignidad  del  trabajo,  asegurará  el empleo de este tipo de trabajadores y jerarquizará el profesionalismo  de  las  empresas  del  sector,  se  establece  un período  de interrupción entre contrato y contrato que no podrá ser mayor de SESENTA  (60)  días  corridos  o  CIENTO VEINTE (120) días alternados  en  UN  (1)  año, al cabo de los cuales  el  trabajador podrá  exigir,  previa intimación,  que  la  empresa  de  servicios eventuales le abone  la  indemnización  por  despido prevista en el artículo  245  de la Ley de Contrato de Trabajo,  más  el  preaviso  Que  contemplando    las    circunstancias  de  la  existencia  de condiciones de  trabajo  y  salariales    desiguales   durante  el desarrollo  de  las tareas del trabajador para diferentes  empresas usuarias se establecen  normas  para  mantener  cierta  uniformidad respecto  de  la  distancia  entre  su  domicilio  y el destino  de trabajo    donde  deba  ejecutar  la  prestación,  la  notificación fehaciente de  su  nuevo  lugar  de trabajo, nivel de remuneración, categoría y horario de trabajo, así  como la continuidad de ciertas condiciones de trabajo propias de su categoría  laboral  y del tipo de tareas que desempeña.\n\nQue  el sistema de retención de aportes y contribuciones dispuesto en la Ley  N.24.013  permite  que  sea la empresa usuaria la que lo efectúe  sobre  el  monto  total  de remuneraciones  que  por  todo concepto haya facturado la empresa  de  servicios  eventuales  y lo deposite  a  su nombre en el Sistema Unico de Seguridad Social.\n\nQue a fin de  fomentar  la contratación de trabajadores con cargas de familia, se establece que  la contribución del 7,5 % destinada a asignaciones familiares sea directamente  compensada  o  depositada por las empresas de servicios eventuales.\n\nQue  en base a posibles situaciones de fraude o incumplimiento  de la ley,  la empresa  usuaria será directamente responsable por los aportes no retenidos o  depositados,  sus  intereses y accesorios y le  serán  aplicables  las  sanciones  penales  y   administrativas previstas en la legislación vigente.\n\nQue resulta conveniente reforzar las facultades de  control  de la autoridad  de  aplicación,  como  medio  para  que  las empresas se ajusten  en  todos  los  casos a la finalidad del sistema,  que  se precisa con claridad, y adecuen su  funcionamiento  al  ámbito  de actuación legalmente autorizado.\n\nQue    por  tal  motivo  se  establece  un  sistema  de  garantías principales y  accesorias  que aseguren la solvencia de la empresa de servicios eventuales ante  la  posibilidad  de  incumplimientos, así  como  el  cumplimiento  de ciertos requisitos para  su  futura devolución.\n\nQue además de ello, se prevé  un  sistema  de  sanciones  para  el incumplimiento  de  las normas establecidas, de conformidad con las leyes vigentes en la materia.\n\nQue corresponde asimismo,  otorgar un plazo de adecuación a fin de que  las  empresas  de  servicios    eventuales   que  se  hubiesen registrado  cumplimenten  los  nuevos  requisitos  exigidos    para obtener  su  habilitación  como  tales,  pudiendo  la  autoridad de aplicación    dictará    las  normas  complementarias  que  resulten necesarias.\n\nQue las normas dispuestas  se adecuan a los mecanismos aconsejados por la ORGANIZACION INTERNACIONAL  DEL  TRABAJO  para  controlar el funcionamiento  de este tipo de empresas y se fundamentan  en  las facultades otorgadas  al  PODER  EJECUTIVO NACIONAL por el artículo 86, inciso 2 de la CONSTITUCION NACIONAL."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LCT C 020744 1976 05 13 0029 002 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "Art. 1: El presente decreto reglamenta los arts. 75 a 80 de la Ley N.24.013.  Quedan sujetas a sus normas las empresas dedicadas a la prestación  de    servicios   eventuales,  de  acuerdo  con  lo establecido en el art. 29 bis de la  Ley de Contrato de Trabajo (t. o.) y la Ley N. 24.013."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2:  Se  considera  Empresa  de Servicios Eventuales a la entidad que, constituida como persona jurídica,  tenga  por  objeto exclusivo  poner  a  disposición  de terceras personas -en adelante usuarias-  a  personal  industrial,  administrativo,    técnico   o profesional,    para    cumplir,  en  forma  temporaria,  servicios extraordinarios determinados de antemano o exigencias extraordinarias  y  transitorias   de  la  empresa,  explotación  o establecimiento, toda vez que no pueda  preverse  un  plazo  cierto para la finalización del contrato."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3:  La  empresa  de  servicios  eventuales podrá asignar trabajadores  a  las  usuarias  cuando  los  requerimientos  de  la segunda tengan por causa alguna de las siguientes circunstancias:\n\na)  En  caso de ausencia de un trabajador permanente,  durante  el período de ausencia.\n\nb) En caso  de  licencias o suspensiones legales o convencionales, durante  el período   en  que  se  extiendan,  excepto  cuando  la suspensión sea producto de  una huelga o por fuerza mayor, falta o disminución de trabajo.\n\nc)  En  caso  de incremento en la  actividad  de  la  empresa  que requiera, en forma  ocasional  y extraordinaria, un mayor número de trabajadores.\n\nd)  En  caso de organización de Congresos,  Conferencias,  Ferias, Exposiciones o Programaciones.\n\ne) En caso  de  un trabajo que requiera ejecución inaplazable para prevenir accidentes,  por  medidas  de  seguridad  urgentes  o para reparar equipos del establecimiento, instalaciones o edificios  que hagan  peligrar  a  los  trabajadores o a terceros, siempre que las tareas no puedan ser realizadas  por personal regular de la empresa usuaria.\n\nf) En general, cuando atendiendo  a  necesidades extraordinarias o transitorias hayan de cumplirse tareas  ajenas  al  giro  normal  y habitual de la empresa usuaria."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4: Los trabajadores que la empresa de servicios eventuales contrate  para  prestar  servicios en su sede, filiales, agencias u oficinas, serán considerados  vinculados por un contrato de trabajo permanente continuo.\n\nPara la contratación de este tipo  de  trabajadores, la empresa de servicios eventuales podrá utilizar las modalidades  previstas  por la  Ley  N.  24.013. En tales supuestos, se le aplicarán las normas del Título III, Capítulos 1 y 2 de la citada norma.\n\nLos trabajadores  que  la empresa de servicios eventuales contrate para prestar servicios bajo  la  modalidad  de  contrato de trabajo eventual, serán considerados vinculados a la empresa  de  servicios eventuales  por  un  contrato  de  trabajo  permanente discontinuo."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5: Serán de aplicación a los trabajadores dependientes de la empresa  de  servicios  eventuales,  cualquiera  sea  el tipo de contrato,  las  leyes  sobre accidentes de trabajo, jubilaciones  y pensiones, asignaciones  familiares,  seguro  de  vida obligatorio, asociaciones  sindicales, negociación colectiva, y obras  sociales."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LCT C 020744 1976 05 13 0232 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LCT C 020744 1976 05 13 0244 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "LCT C 020744 1976 05 13 0245 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 6,
+          "texto": "Art.  6:  Cuando  la  relación  de trabajo entre la empresa de servicios eventuales y el trabajador fuere permanente y discontinua, la prestación de servicios  deberá  sujetarse  a  las siguientes condiciones:\n\n1) El período  de  interrupción  entre  los distintos contratos de trabajo eventual en empresas usuarias no podrá  superar los SESENTA (60) días corridos o los CIENTO VEINTE (120) días  alternados en UN (1) año aniversario.\n\n2)  El  nuevo  destino  de  trabajo  que  otorgue  la  empresa  de servicios  eventuales  podrá  comprender  otra actividad o convenio colectivo  sin  menoscabo  de  los  derechos  correspondientes  del trabajador.\n\n3)  El  nuevo  destino de trabajo podrá variar el  horario  de  la jornada  de trabajo,  pero  el  trabajador  no  estará  obligado  a aceptar un  trabajo nocturno o insalubre cuando no lo haya aceptado anteriormente.\n\n4)  El  nuevo  destino  de  trabajo  que  otorgue  la  empresa  de servicios  eventuales  deberá  estar comprendido dentro de un radio de  TREINTA  (30)  kilómetros  del  domicilio  del  trabajador.\n\n5) Durante el período de interrupción,  previsto  en el inciso 1), la empresa de servicios eventuales deberá notificar  al trabajador, con  intervención  de  la  autoridad  administrativa, por telegrama colacionado  o  carta  documento,  su  nuevo    destino    laboral, informándole nombre y domicilio de la empresa usuaria donde  deberá presentarse  a  prestar  servicios,  categoría  laboral, régimen de remuneraciones y horario de trabajo.\n\n6) Transcurrido el plazo máximo fijado en el inciso  1) sin que la empresa  de servicios  eventuales  hubiera  asignado al trabajador nuevo  destino,  éste  podrá  denunciar  el  contrato  de  trabajo, haciéndose  acreedor  de  las indemnizaciones establecidas  en  los artículos  232  y 245 de la Ley de  Contrato  de  Trabajo,  previa intimación en forma  fehaciente  por  un plazo de VEINTICUATRO (24) horas.\n\n7)  En  caso  de  que la empresa de servicios  eventuales  hubiese asignado al trabajador  nuevo  destino laboral en forma fehaciente, y el mismo no retome sus tareas  en  el  término de CUARENTA Y OCHO (48) horas, la empresa de servicios eventuales  podrá  denunciar el contrato  de trabajo por la causal prevista en el artículo 244  de la Ley de Contrato de Trabajo."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "*Art. 7.- Serán agentes de retención los empleadores que ocupen trabajadores    a  través  de  empresas  de  servicios  eventuales, habilitadas por la autoridad competente.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo sustituido. (B.O. 02-12-1994).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 002086 1994 11 28 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo derogado. (B.O. 02-12-1994).",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 002086 1994 11 28 0003 000 0000 000"
+            }
+          },
+          "numero-articulo": 8,
+          "texto": "*Art.  8.-  (Nota  de  redacción)  (Derogado  por  art.  3 del art. 2086/94)."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "*Art.  9.-  Los  montos  que en concepto de sueldos y jornales facturen  las  empresas  de  servicios  eventuales  no  podrán  ser inferiores a los que correspondan  por  la  convención colectiva de la  actividad  o  categoría  en  la  que  efectivamente  preste  el servicio contratado. De constatarse una errónea  discriminación  de los   importes  facturados,  se  presumirá  evasión  de  aportes  y contribuciones,  siendo  de aplicación las multas y penas vigentes.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo sustituido. (B.O. 02-12-1994).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 002086 1994 11 28 0002 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo derogado. (B.O. 02-12-1994).",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 002086 1994 11 28 0003 000 0000 000"
+            }
+          },
+          "numero-articulo": 10,
+          "texto": "*Art.  10.-  (Nota de redacción) (Derogado por art. 3 del dec. 2086/94)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo derogado. (B.O. 02-12-1994).",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 002086 1994 11 28 0003 000 0000 000"
+            }
+          },
+          "numero-articulo": 11,
+          "texto": "*Art.  11.-  (Nota de redacción) (Derogado por art. 3 del Dec. 2086/94)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo derogado. (B.O. 02-12-1994).",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 002086 1994 11 28 0003 000 0000 000"
+            }
+          },
+          "numero-articulo": 12,
+          "texto": "*Art.  12.-  (Nota de redacción) (Derogado por art. 3 del Dec. 2086/94)."
+        },
+        {
+          "observa-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "OBSERVA_A_0",
+              "ref": "LCT C 020744 1976 05 13 0052 000 0000 000"
+            }
+          },
+          "numero-articulo": 13,
+          "texto": "Art.  13:  Las  empresas  usuarias  y  de servicios eventuales deberán  llevar  una  sección  particular  del libro  especial  del artículo  52 de la Ley de Contrato de Trabajo,  que  contendrá:\n\n1.- EMPRESAS USUARIAS a) Individualización  del trabajador que preste servicios a través de una empresa de servicios eventuales;\n\nb) categoría profesional y tareas a desarrollar;\n\nc) fecha de ingreso y egreso;\n\nd) remuneración denunciada  por la empresa de servicios eventuales o el monto total de la facturación;\n\ne) nombre, denominación o razón  social  y domicilio de la empresa de  servicios  eventuales  a través de la cual  fue  contratado  el trabajador.\n\n2.- EMPRESAS DE SERVICIOS EVENTUALES a) Individualización del trabajador  que  preste servicios bajo la modalidad de contrato de trabajo eventual;\n\nb) categoría profesional y tarea a desarrollar;\n\nc) fecha de ingreso y egreso en cada destino;\n\nd) remuneración;\n\ne)  nombre,  denominación  o  razón  social  y  domicilio  de  las empresas usuarias donde fuera contratado el trabajador."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "* Art. 14: Las empresas de servicios eventuales deberán gestionar su habilitación  por  ante  el  MINISTERIO  DE  TRABAJO Y SEGURIDAD SOCIAL  a  los  fines  de  obtener  su  inscripción en el  Registro pertinente.\n\nSerán requisitos indispensables los siguientes:\n\na) Incluir en su denominación social la expresión \"Empresa de Servicios Eventuales\";\n\nb) Tener como mínimo un capital social inicial de Pesos CIENTO CUARENTA MIL ($ 140.000);\n\nc) Agregar los documentos constitutivos y copias de las actas de directorio designando administradores, directores o gerentes cuando así lo exigiere el tipo social;\n\nd) Declaración de las áreas geográficas dentro de las que se proveerá trabajadores a las empresas usuarias, así como, informar el domicilio de la sede central, locales, oficinas o sucursales;\n\ne) Acreditar las inscripciones impositivas y de seguridad social;\n\nf) Acreditar la contratación de seguro de vida obligatorio;\n\ng) Constituir la garantía a la que se refiere el artículo  78  de la Ley N. 24.013;\n\nh) Constituir domicilio en la sede de su administración a los efectos legales entre las partes y la autoridad de aplicación.\n\nCualquier  cambio  o  modificación  de los precitados  requisitos así como también la apertura de nuevos  locales, oficinas, agencias o sucursales, deberán ser comunicados a la autoridad de aplicación con  una  antelación de DIEZ (10) días hábiles  a  su  realización.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo modificado. (B.O. 02-09-1999).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000951 1999 08 30 0001 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "Art.  15:  Antes  del  31 de marzo de cada año las empresas de servicios  eventuales deberán  presentar  una  declaración  jurada, actualizando  los  datos  consignados  en el artículo anterior.\n\nTrimestralmente,  deberán  proveer  a la autoridad  administrativa del  trabajo un resumen de los contratos  suscriptos  con  empresas usuarias,    haciendo   constar  la  calificación  profesional  del trabajador, la cuantía de  la  remuneración  y  la  duración  de la prestación de servicios para la empresa usuaria."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 018694 1970 05 29 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 16,
+          "texto": "* Art. 16: Sin perjuicio de las sanciones impuestas por la Ley 18. 694,  las  empresas  de  servicios  eventuales  que  incurrieran en algunas  de  las  irregularidades previstas en este Decreto,  serán pasibles de las sanciones  previstas  en  este  artículo,  las  que serán  juzgadas  conforme  a  las normas procesales administrativas correspondientes.\n\na)  Las  personas  físicas o jurídicas  de  cualquier  carácter  o denominación,  sus  coautores,    cómplices   o  encubridores,  que pretendiesen  actuar  o  actuaren,  por sí o encubiertamente,  como empresas de servicios eventuales autorizadas,  o  que por cualquier medio invocaren indujeran o publicitaren esa calidad,  sin  ajustar su   ejercicio  a  las  normas  de  habilitación  y  reconocimiento estatuidas  por  la  Ley  Nacional  de Empleo y este Decreto, serán sancionadas con la clausura de sus oficinas  y secuestro de toda la documentación existente y una multa que se graduará  de veinte (20) a cien (100) sueldos básicos del personal administrativo,  Clase A, del  Convenio  Colectivo  de  Trabajo  para  empleados  de Comercio (130/75).\n\nb)   Las  empresas  de  servicios  eventuales  que  no  cumplieran efectivamente, en tiempo y forma, con las obligaciones establecidas en este decreto, serán pasibles de una multa en pesos que se graduará entre el UNO POR CIENTO (1 %) y el CUATRO POR CIENTO (4%) de la garantía que debiera  tener  constituida en dicho momento.\n\nLa empresa de servicios eventuales que no tuviera constituida su garantía en legal forma será suspendida en forma inmediata. Si no lo hiciere dentro de los QUINCE (15) días subsiguientes se cancelará su habilitación.\n\nSin  perjuicio  de  la  multa  referida,  la  empresa de servicios eventuales deberá cumplimentar la exigencia de capital mínimo requerido por este decreto dentro de los QUINCE (15) días de intimada  por la autoridad de contralor.\n\nTranscurrido    dicho  plazo  sin  que  la  empresa  de  servicios eventuales cumplimentara  lo  requerido,  se  la  sancionará con la pérdida  de la habilitación administrativa y la cancelación  de  la inscripción en el registro especial.\n\nc)  Las  empresas    de  servicios  eventuales  que  perciban  del trabajador  alguna  suma  por  su  inscripción  o  contratación,  o practiquen a éstos por  tales  hechos  otros descuentos que no sean los  autorizados  por  Ley  o Convenio, serán  sancionadas  con  la pérdida  de  la habilitación administrativa  y  cancelación  de  la inscripción en el registro especial.\n\nd)  Sin perjuicio  de  las  sanciones  a  que  hubiere  lugar  por aplicación  de  la  legislación vigente, el incumplimiento de los requisitos  formales exigidos  en  este  decreto  será  sancionado, previa  intimación  comunicada  fehacientemente  por  el  plazo  de QUINCE (15)  días, con la clausura preventiva del establecimiento y la suspensión de la habilitación para funcionar.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo modificado. (B.O. 02-09-1999).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000951 1999 08 30 0002 000 0000 000"
+            }
+          },
+          "observado-por": {
+            "referencia-normativa": {
+              "cr": "SE RATIFICA LO DISPUESTO EN EL PRESENTE PARA LAS EMPRESASDE SERVICIOS EVENTUALES (B.O. 06-01-2000).",
+              "id": "OBSERVADO_POR_0",
+              "ref": "LEY C 025212 1999 12 24 0015 000 0000 000 B"
+            }
+          }
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "Art.  17: Los trabajadores contratados por empresas usuarias a través de empresas  de  servicios  eventuales  que no se encuentren habilitadas por el MINISTERIO DE TRABAJO Y SEGURIDAD  SOCIAL, serán considerados  como  personal  permanente  continuo  de  la  empresa usuaria.  Asimismo,  esta  última  será solidariamente responsable, con la empresas de servicios eventuales  de  la  multa especificada en el inciso a) del artículo anterior."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "*  Art.  18:  Al  momento  de  solicitarse  la  inscripción en el registro  especial  las  empresas  de servicios eventuales  deberán constituir a favor del MINISTERIO DE  TRABAJO  Y  SEGURIDAD  SOCIAL las siguientes garantías:\n\n1) Garantía principal: depósito en caución de  efectivo, valores o títulos  públicos  nacionales  equivalentes  a  CIEN (100)  sueldos básicos  del  personal  administrativo,  clase  A,  del    Convenio Colectivo de Trabajo, para empleados de comercio (CCT. N 130/75 o el que lo reemplace), vigente en la CIUDAD AUTONOMA DE BUENOS AIRES por la jornada legal o convencional excluida la antigüedad.\n\nLa equivalencia  de  los títulos o valores se determinará según el valor  de  cotización en  Bolsa  de  los  títulos  a  la  época  de constituirse  la  garantía, el que será certificado por el BANCO DE LA NACION ARGENTINA, donde deberá efectuarse  el  depósito.\n\nEl Estado  no  abonará  intereses  por  los depósitos en garantía.\n\nLos que devengaren los títulos o valores integrarán la caución.\n\n2)  Garantía  accesoria:  Además  del  depósito  en  caución,  las empresas  de  servicios  eventuales  deberán  otorgar,  a favor del MINISTERIO  DE  TRABAJO  Y  SEGURIDAD SOCIAL, una garantía por  una suma equivalente al triple de  la  que  surja  del  inciso  1)  del presente artículo.\n\nEsta  garantía  se otorgará, a elección de la empresa de servicios eventuales, a través de los siguientes medios:\n\na) Valores o títulos públicos nacionales.\n\nb) Aval bancario o garantía real a satisfacción del MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL.\n\n3) La garantía principal establecida en el inciso 1) de este artículo, deberá ajustarse antes del 31 de marzo de cada año, a un valor equivalente al CINCO POR CIENTO (5 %) del total de las remuneraciones brutas abonadas por la empresa de servicios eventuales a sus dependientes en el año inmediato anterior.\n\nEl monto de la garantía principal no podrá en ningún caso ser inferior a la determinacion en el inciso 1).\n\n4) La diferencia que pudiere surgir de la aplicación del inciso 3) deberá integrarse en efectivo, valores o títulos públicos nacionales, en la fecha indicada en el mencionado inciso.\n\nSi resultare un valor inferior al determinado en el ejercicio anterior, el excedente en depósito será de libre disponibilidad para la empresa de servicios eventuales. En tal supuesto,el MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL con posterioridad al 31 de marzo, autorizará el retiro de la diferencia que correspondiere entre el último ejercicio y el anterior, una vez cumplimentado en tiempo y forma el reajuste anual y los demás requisitos exigibles.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "Artículo modificado. (B.O. 02-09-1999).",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000951 1999 08 30 0003 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "Art.  19:  Para  la  restitución  de  los  títulos  o valores depositados  en  caución,  el  interesado  deberá  cumplir  con los siguientes recaudos:\n\na)  Acompañar  declaración  jurada  en  la  que  conste:  fecha de cesación   de  actividades,  nómina  del  personal  ocupado,  haber abonado la  totalidad  de  las  remuneraciones  e  indemnizaciones; detalle  de  los Sindicatos, Obras Sociales, Cajas Previsionales  y de Subsidios Familiares  en  las que se encuentren comprendidas las actividades  desarrolladas.  Esta    declaración    deberá    estar certificada  por  Contador Público Nacional, el que deberá detallar la fecha de vencimiento  de los pagos de aportes y contribuciones y el cumplimiento en tiempo  o  el  pago  de los recargos, intereses, multas  y  actualizaciones  por  los  efectuados   tardíamente.\n\nb) Acompañar certificados de libre deuda o constancia  equivalente otorgados por el Sistema Unico de Seguridad Social.\n\nc) Publicación de Edictos por el término de CINCO (5) días  en  el Boletín  Oficial  y  en  el  Provincial  que  corresponda  al  área geográfica  de  actuación,  emplazando  a  los  acreedores  por  el término  de NOVENTA (90) días corridos. Estas publicaciones deberán ser efectuadas por el interesado.\n\nd) No tener  juicios  laborales  en  trámite.  A  tal  efecto,  el MINISTERIO  DE  TRABAJO  Y  SEGURIDAD  SOCIAL  deberá oficiar a los tribunales  que entiendan en la materia laboral correspondiente  al área geográfica  de  actuación  a fin de que informen si la empresa que  requiere su cancelación tiene  juicios  laborales  pendientes, corriendo  su  diligenciamiento  por  cuenta  de la interesada.\n\ne)  No tener anotados embargos o cualquier otra  medida  cautelar.\n\nEn caso  de  que  la  empresa peticionante se halle afectada por un embargo ejecutorio o preventivo  o  cualquier otra medida cautelar, no  le  será  restituida  la parte de los  valores  depositados  en caución  afectados  por dicha  medida  o  las  garantías  o  avales caucionados  de  no  ser  suficientes  aquéllos,  salvo  aceptación judicial de sustitución de embargo.\n\nf) No haber sido sancionada  con  la  cancelación  de habilitación para funcionar."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "Art.  20:  Cumplidos todos los requisitos establecidos en este decreto  y  no  existiendo  otros  impedimentos,  la  autoridad  de aplicación autorizará  la  restitución de los títulos, valores y la liberación o cancelación de  los  avales  y  garantías otorgadas en caución dentro del plazo de treinta (30) días."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "Art.  21:  Las  empresas  que se encuentren inscriptas deberán adecuarse a las normas reglamentarias  establecidas por el presente decreto dentro de los CIENTO VEINTE (120)  días  a  contar desde su vigencia.  Transcurrido  dicho  plazo, caducará automáticamente  la inscripcion de la empresa de servicios  eventuales  en  el registro especial."
+        },
+        {
+          "numero-articulo": 22,
+          "texto": "Art. 22: Facúltase al MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL para dictar  las  normas  interpretativas y complementarias de este decreto."
+        },
+        {
+          "numero-articulo": 23,
+          "texto": "Art. 23: Derógase el Decreto N. 1455/85.",
+          "deroga-a": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "DEROGA_A_0",
+              "ref": "DEC C 001455 1985 08 08 0000 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "Art. 24: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM - DIAZ"
+      },
+      "id-infojus": "DN19920000342"
+    }
+  }
+}

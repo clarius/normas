@@ -1,0 +1,126 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g32-30000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1623063963883,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21103-nacional-lnn0000323-1975-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000323",
+      "numero-norma": 21103,
+      "timestamp": "2021-06-06T19:14:43",
+      "timestamp-m": "2021-06-06T19:14:43",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1975-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021103 1975 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.103",
+          "BUENOS AIRES, 29 DE SEPTIEMBRE DE 1975"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1975 11 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1975 11 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  D003519753564",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.103",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-06-06",
+      "texto-original": {
+        "file-name": "N0000323.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0000323pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO MODIFICATORIA-SEGURIDAD SOCIAL-SUBSIDIOS Y ASIGNACIONES FAMILIARES-TRABAJO-REGIMENES ESPECIALES-TRABAJO AGRARIO. CAJAS DE SUBSIDIOS Y ASIGNACIONES  FAMILIARES-CAJA DE SUBSIDIOS FAMILIARES PARA EMPLEADOS DE COMERCIO. REESTABLECE TEMPORARIAMENTE LA VIGENCIA DE LA L. 19.563"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "asignaciones familiares"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajo agrario"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores rurales"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "trabajadores agrarios",
+                "trabajo agrícola",
+                "agricultores",
+                "trabajo agrario",
+                "trabajo rural"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "salario familiar (asignaciones familiares)",
+            "asistencia familiar (asignaciones familiares)",
+            "Sistema único de la seguridad social",
+            "subsidios de la Seguridad Social",
+            "Seguridad social",
+            "asignaciones familiares",
+            "agricultores (trabajadores rurales)",
+            "trabajo rural (trabajadores rurales)",
+            "derecho del trabajo (Derecho laboral)",
+            "trabajadores rurales",
+            "actividades laborales",
+            "trabajo agrícola (trabajadores rurales)",
+            "trabajadores agrarios (trabajadores rurales)",
+            "Derecho laboral",
+            "subsidio familiar (asignaciones familiares)",
+            "SUSS (Sistema único de la seguridad social)",
+            "trabajo agrario (trabajadores rurales)",
+            "adicional por cargas de familia (asignaciones familiares)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000323"
+    }
+  }
+}

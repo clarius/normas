@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g71-28100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599516537315,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14926-nacional-lnn0018217-1959-11-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018217",
+      "numero-norma": 14926,
+      "timestamp": "2020-09-07T18:25:22",
+      "timestamp-m": "2020-09-07T18:25:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1959-11-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014926 1959 11 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14.926",
+          "BUENOS AIRES, 5 DENOVIEMBRE DE 1959"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1959 12 21",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1959 12 21"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  019 A19590140",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.926",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-07",
+      "texto-original": {
+        "file-name": "N0018217.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018217pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA TRANSFERENCIA-TRANSFERENCIA DE LA CAPILLA SAN IGNACIO AL OBISPADO DE GUALEGUAYCHU,ENTRE RIOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "capillas"
+            },
+            "preferido": {
+              "termino": "capillas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transferencia del inmueble"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos reales/dominio/transmisión del dominio/transferencia del inmueble"
+            },
+            "sinonimos": {
+              "termino": "transferencia del dominio"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transferencia del dominio (transmisión del dominio)",
+            "derechos reales",
+            "capillas",
+            "transmisión del dominio",
+            "Derecho civil",
+            "transferencia del inmueble",
+            "dominio"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018217"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g49-16200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1574691305171,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "13028-nacional-lnn0026194-1947-09-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026194",
+      "numero-norma": 13028,
+      "timestamp": "2019-11-25T10:10:40",
+      "timestamp-m": "2019-11-25T10:10:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1947-09-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 013028 1947 09 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 13028",
+          "BUENOS AIRES, 26 DE SETIEMBRE DE 1947"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1947 10 14",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1947 10 14"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000719470362",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 13.028",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2019-11-25",
+      "texto-original": {
+        "file-name": "N0026194.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0026194pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 13996 (B.O. 12-10-1950) PERO LEY 13996 DEROGADA POR LEY 14777 (B.O. 12-11-1954)-MODIFICA DECRETO 28663/45 SOBRE INSTITUTO AEROTECNICO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Fuerza Aérea"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/derecho militar/Fuerzas Armadas/Fuerza Aérea"
+            },
+            "sinonimos": {
+              "termino": [
+                "defensa nacional",
+                "aeronáutica nacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Instituto Aerotécnico"
+            },
+            "preferido": {
+              "termino": "Instituto Aerotécnico"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Instituto Aerotécnico",
+            "Fuerza Aérea",
+            "defensa nacional (Defensa y seguridad)",
+            "derecho militar",
+            "aeronáutica nacional (Fuerza Aérea)",
+            "Defensa y seguridad",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026194"
+    }
+  }
+}

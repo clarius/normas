@@ -1,0 +1,131 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g90-18100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676458953861,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2356-nacional-lnn0018109-1888-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018109",
+      "numero-norma": 2356,
+      "timestamp": "2023-02-15T06:40:22",
+      "timestamp-m": "2023-02-15T06:40:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1888-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002356 1888 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 2.356",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1888"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1888 09 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880440",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.356",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-15",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DONACION DE TIERRAS FISCALES-TIERRAS FISCALES AL GENERAL EUSTAQUIO FRIAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transferencia de bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/transferencia de bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "donación"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/contratos/contratos civiles/donación"
+            },
+            "sinonimos": {
+              "termino": "obligaciones y contratos"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "terrenos"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles/terrenos"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "cosas inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "contratos civiles",
+            "donación",
+            "transferencia de bienes del Estado",
+            "bienes inmuebles",
+            "bienes",
+            "terrenos",
+            "inmuebles (bienes inmuebles)",
+            "bienes del Estado",
+            "obligaciones y contratos (derechos personales)",
+            "contratos",
+            "derechos personales",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018109"
+    }
+  }
+}

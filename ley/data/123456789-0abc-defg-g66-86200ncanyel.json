@@ -1,0 +1,126 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g66-86200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1624532653329,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19223-nacional-lnn0026866-1971-09-08"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026866",
+      "numero-norma": 19223,
+      "timestamp": "2021-06-24T07:09:56",
+      "timestamp-m": "2021-06-24T07:09:56",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1971-09-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019223 1971 09 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19223",
+          "BUENOS AIRES, 8 DE SETIEMBRE DE 1971"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1971 09 16",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1971 09 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  031 C19712861",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.223",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-06-24",
+      "texto-original": {
+        "file-name": "N0026866.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0026866pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICATORIA DE LEY 17583 SIN EFICACIA POR AMBITO TEMPORAL CUMPLIDO Y LEY 18755 DEROGADA-REAJUSTE DE PRESTACIONES JUBILATORIAS NO PRESCRIPTAS-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "deuda previsional"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/liquidación de recursos de la Seguridad Social/deuda previsional"
+            },
+            "sinonimos": {
+              "termino": [
+                "deuda por aportes previsionales",
+                "derecho de los recursos de la seguridad social"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "recursos de la seguridad social",
+            "deuda por aportes previsionales (deuda previsional)",
+            "liquidación de recursos de la Seguridad Social",
+            "haber previsional (beneficios previsionales)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "derechos previsionales (beneficios previsionales)",
+            "sistema previsional",
+            "deuda previsional",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026866"
+    }
+  }
+}

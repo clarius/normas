@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g01-88000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1568891513203,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "8846-nacional-lnn0008810-1912-01-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0008810",
+      "numero-norma": 8846,
+      "timestamp": "2019-09-19T07:32:00",
+      "timestamp-m": "2019-09-19T07:32:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1912-01-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 008846 1912 01 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 8.846",
+          "BUENOS AIRES, 11 DE ENERO DE 1912"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1912 01 30",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1912 01 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190838",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 8.846",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-09-19",
+      "texto-original": {
+        "file-name": "N0008810.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0008810pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO SUPLEMENTARIO AL DEPARTAMENTO DE HACIENDA PARA CONSTRUCCION CASILLA EN EL RESGUARDO DE ZARATE."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0008810"
+    }
+  }
+}

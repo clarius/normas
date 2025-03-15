@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g94-74100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1534860991084,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3003-nacional-lnn0014749-1893-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014749",
+      "numero-norma": 3003,
+      "timestamp": "2018-08-16T14:15:04",
+      "timestamp-m": "2018-08-16T14:15:04",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1893-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003003 1893 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 003003",
+          "BUENOS AIRES 30 DE SEPTIEMBRE DE 1893"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1893 10 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1893 10 08"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O19190261",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.003",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-08-16",
+      "texto-original": {
+        "file-name": "N0014749.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014749pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "VENTA DE TIERRAS FISCALES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "venta de bienes"
+            },
+            "preferido": {
+              "termino": "venta de bienes"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "venta de bienes",
+            "Estado Nacional",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014749"
+    }
+  }
+}

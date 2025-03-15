@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g36-14200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583818116,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2379-nacional-lnn0024163-1888-10-16"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024163",
+      "numero-norma": 2379,
+      "timestamp": "2013-06-07T12:43:23",
+      "timestamp-m": "2013-06-07T12:43:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1888-10-16",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002379 1888 10 16",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 2379",
+          "BUENOS AIRES, 16 DE OCTUBRE DE 1888"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1888 10 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880496",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.379",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "texto-original": {
+        "file-name": "N0024163.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0024163html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-SUSPENSION DEL PAGO DE LAS GARANTIAS ACORDADAS A LOS FERROCARRILES QUE NO CUMPLAN SUS COMPROMISOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "ferrocarriles"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario/ferrocarriles"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "garantía"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/Contratos/contratos civiles/fianza"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de fianza",
+                "garantía"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "contratos civiles",
+            "ferrocarriles",
+            "transporte ferroviario",
+            "fianza",
+            "Contratos",
+            "Transporte",
+            "Obligaciones y contratos",
+            "contrato de transporte",
+            "contrato de fianza (fianza)",
+            "garantía (fianza)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024163"
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g51-08100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599084370735,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15381-nacional-lnn0018015-1960-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018015",
+      "numero-norma": 15381,
+      "timestamp": "2020-09-02T18:53:22",
+      "timestamp-m": "2020-09-02T18:53:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015381 1960 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15.381",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 10 31",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 10 31"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  020 A19600083",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.381",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-02",
+      "texto-original": {
+        "file-name": "N0018015.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018015pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CESION DE TERRENOS AL BANCO HIPOTECARIO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "cesión de derechos"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/contratos/contratos civiles/cesión de derechos"
+            },
+            "sinonimos": {
+              "termino": [
+                "cesión de derechos y acciones",
+                "obligaciones y contratos",
+                "transmisión de derechos"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "cesión de derechos",
+            "Derecho constitucional",
+            "Estado",
+            "cesión de derechos y acciones (cesión de derechos)",
+            "contratos civiles",
+            "transmisión de derechos (cesión de derechos)",
+            "Estado Nacional",
+            "obligaciones y contratos (derechos personales)",
+            "Derecho civil",
+            "derechos personales",
+            "contratos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018015"
+    }
+  }
+}

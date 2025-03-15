@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g16-95000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627383979592,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17490-nacional-lnn0005961-1967-10-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005961",
+      "numero-norma": 17490,
+      "timestamp": "2021-07-27T07:53:20",
+      "timestamp-m": "2021-07-27T07:53:20",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-10-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017490 1967 10 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.490",
+          "BUENOS AIRES, 23 DE OCTUBRE DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 11 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 11 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 C19672791",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.490",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-27",
+      "texto-original": {
+        "file-name": "N0005961.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005961pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONVENIO ENTRE LA CAJA NACIONAL DE PREVISION PARA PERSONAL BANCARIO Y ATLANTIS SA DE PRESTAMOS Y EDIFICACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "personal bancario"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/empleados de banco"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "empleados bancarios",
+                "personal bancario",
+                "bancarios",
+                "trabajadores de servicios financieros",
+                "trabajadores bancarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Caja Nacional de Previsión para el Personal Bancario y de Seguros"
+            },
+            "preferido": {
+              "termino": "Caja Nacional de Previsión para el Personal Bancario y de Seguros"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "trabajadores de servicios financieros (empleados de banco)",
+            "bancarios (empleados de banco)",
+            "actividades laborales",
+            "Caja Nacional de Previsión para el Personal Bancario y de Seguros",
+            "personal bancario (empleados de banco)",
+            "Derecho laboral",
+            "empleados bancarios (empleados de banco)",
+            "empleados de banco",
+            "trabajadores bancarios (empleados de banco)",
+            "derecho del trabajo (Derecho laboral)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005961"
+    }
+  }
+}

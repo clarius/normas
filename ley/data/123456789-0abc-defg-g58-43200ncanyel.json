@@ -1,0 +1,116 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g58-43200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1616422192704,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "2873-nacional-lnn0023485-1958-03-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023485",
+      "numero-norma": 2873,
+      "timestamp": "2021-03-22T10:38:33",
+      "timestamp-m": "2021-03-22T10:38:33",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1958-03-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 002873 1958 03 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY 002873/58",
+          "BUENOS AIRES 13 DE MARZO DE 1958"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1958 04 01",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1958 04 01"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  018 A19580644",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 2.873/58",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-03-22",
+      "texto-original": {
+        "file-name": "N0023485.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0023485pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "APROBACION DEL INFORME DE LA COMISION NACIONAL DE CLIMATOLOGIA Y AGUAS MINERALES CREADA POR LEY 11621"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "agua mineral"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/elaboración de productos alimenticios/elaboración de bebidas/agua mineral"
+            },
+            "sinonimos": {
+              "termino": [
+                "elaboración de alimentos",
+                "productos industriales",
+                "industria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aguas termales"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos hídricos/aguas termales"
+            },
+            "sinonimos": {
+              "termino": [
+                "recursos hidrotermales",
+                "aguas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "productos industriales (actividad industrial)",
+            "recursos hidrotermales (aguas termales)",
+            "recursos hídricos",
+            "industria alimenticia",
+            "agua mineral",
+            "elaboración de alimentos (elaboración de productos alimenticios)",
+            "aguas termales",
+            "aguas (recursos hídricos)",
+            "elaboración de productos alimenticios",
+            "elaboración de bebidas",
+            "industria (actividad industrial)",
+            "Recursos naturales",
+            "Actividades económicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023485"
+    }
+  }
+}

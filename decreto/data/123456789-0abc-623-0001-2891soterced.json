@@ -1,0 +1,649 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-623-0001-2891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1726061450843,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "326-nacional-decreto-reglamentario-ley-17285-codigo-aeronautico-dn19821000326-1982-02-10"
+      }
+    },
+    "content": {
+      "mecanografico": 19821000326,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 326,
+      "fecha": "1982-02-10",
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DEC C 000326 1982 02 10",
+      "titulo-norma": "DECRETO REGLAMENTARIO LEY 17.285 CODIGO AERONAUTICO.",
+      "nombre-coloquial": "DECRETO NACIONAL 326/1982",
+      "lugar-emision": "BUENOS AIRES",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1982 02 15"
+        }
+      },
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2024-09-11",
+      "fecha-mod": "2024-09-11",
+      "timestamp": "2024-09-11T10:23:59",
+      "timestamp-alta": "2024-09-11T10:23:59",
+      "timestamp-m": "2024-09-11T10:23:59",
+      "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000816 2024 09 10 0003 000 0000 000"
+          }
+        },
+        "sintesis": "SE APRUEBA UNA REGLAMENTACION PARCIAL AL CODIGO AERONAUTICO (LEY 17.285).",
+        "anexos-decreto": {
+          "anexo-ley": "A REGLAMENTACION"
+        },
+        "informacion-vinculada": 1E+19,
+        "reglamenta-a": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_0",
+              "ref": "CAE C 017285 1967 05 17 0133 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_1",
+              "ref": "CAE C 017285 1967 05 17 0135 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REGLAMENTA_A_2",
+              "ref": "CAE C 017285 1967 05 17 0208 000 0000 000"
+            }
+          ]
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "actos de alcance general",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "código aeronáutico"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/código aeronáutico"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte aéreo comercial"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte aéreo"
+            },
+            "sinonimos": {
+              "termino": [
+                "aviación comercial",
+                "contrato de transporte aéreo",
+                "transporte aéreo comercial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte aéreo de mercancías"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga/transporte aéreo de carga"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "transporte aéreo de mercadería",
+                "transporte aéreo de mercancías",
+                "transporte en contenedores",
+                "transporte de mercaderías"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte aéreo internacional"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte internacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte terrestre internacional",
+                "transporte aéreo internacional",
+                "transporte marítimo internacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aeronaves"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/aeronaves"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "suspensión del agente"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/empleo público/régimen disciplinario administrativo/sanciones disciplinarias administrativas/suspensión del agente"
+            },
+            "sinonimos": {
+              "termino": [
+                "medidas disciplinarias (administrativo)",
+                "relación de empleo público",
+                "sanciones disciplinarias (administrativo)",
+                "facultades disciplinarias (administrativo)",
+                "función pública"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "faltas aeronáuticas"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/faltas aeronáuticas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "pases libres"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de pasajeros/billete de pasaje/pases libres"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte público de pasajeros",
+                "transporte de personas",
+                "contrato de viaje",
+                "contrato de pasaje"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "recurso de apelación (administrativo)"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/procedimiento administrativo/recursos administrativos/recurso de apelación (administrativo)"
+            },
+            "sinonimos": {
+              "termino": [
+                "recurso de apelación contencioso administrativo",
+                "proceso administrativo"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte aéreo de carga",
+            "transporte aéreo",
+            "transporte de personas (transporte de pasajeros)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "transporte marítimo internacional (transporte internacional)",
+            "transporte público de pasajeros (transporte de pasajeros)",
+            "billete de pasaje",
+            "relación de empleo público (empleo público)",
+            "Derecho administrativo",
+            "proceso administrativo (procedimiento administrativo)",
+            "contrato de transporte",
+            "transporte aéreo de mercancías (transporte aéreo de carga)",
+            "Administración Pública",
+            "transporte aéreo de mercadería (transporte aéreo de carga)",
+            "transporte de carga general (transporte de carga)",
+            "acto administrativo",
+            "actos de alcance general (acto administrativo de alcance general)",
+            "código aeronáutico",
+            "suspensión del agente",
+            "transporte terrestre internacional (transporte internacional)",
+            "transporte aéreo comercial (transporte aéreo)",
+            "decreto reglamentario",
+            "transporte de pasajeros",
+            "transporte de mercaderías (transporte de carga)",
+            "reglamentos",
+            "régimen disciplinario administrativo",
+            "aviación comercial (transporte aéreo)",
+            "sanciones disciplinarias (administrativo) (sanciones disciplinarias administrativas)",
+            "facultades disciplinarias (administrativo) (régimen disciplinario administrativo)",
+            "acto administrativo de alcance general",
+            "aeronaves",
+            "reglamento administrativo (reglamentos)",
+            "procedimiento administrativo",
+            "transporte en contenedores (transporte de carga)",
+            "contrato de viaje (transporte de pasajeros)",
+            "faltas aeronáuticas",
+            "contrato de pasaje (transporte de pasajeros)",
+            "contrato de transporte aéreo (transporte aéreo)",
+            "medidas disciplinarias (administrativo) (sanciones disciplinarias administrativas)",
+            "función pública (Administración Pública)",
+            "Transporte",
+            "recurso de apelación contencioso administrativo (recurso de apelación (administrativo))",
+            "pases libres",
+            "transporte internacional",
+            "recursos administrativos",
+            "Derecho aeronáutico",
+            "empleo público",
+            "sanciones disciplinarias administrativas",
+            "recurso de apelación (administrativo)",
+            "transporte de carga",
+            "transporte aéreo internacional (transporte internacional)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022390 1981 02 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "CAE C 017285 1967 05 17 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "la Ley N. 22.390, modificatoria de la Ley N. 17.285 -Código Aeronáutico- lo informado en Expediente N. 459.871 (F.A.), y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022390 1981 02 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "CAE C 017285 1967 05 17 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que la citada Ley N. 22.390 substituyó normas del Código Aeronáutico aplicables al transporte aéreo comercial y otras para las restantes actividades aeronáuticas.\n\nQue las normas específicas para el transporte aéreo comercial requieren la reglamentación que permita su aplicación inmediata.\n\nQue la diferenciación de sectores resultante del dictado de la Ley N. 22.390 permite la reglamentación de las nuevas normas del Código Aeronáutico, privativas del transporte aéreo comercial.\n\nQue simultáneamente, se hace necesario dejar sin efecto el Decreto N. 784/72, reglamentario del Título XIII - Capítulo I - Faltas de la Ley N. 17.285, Código Aeronáutico, en todo lo aplicable específicamente al transparente aéreo comercial."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 022390 1981 02 06 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "CAE C 017285 1967 05 17 0133 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "CAE C 017285 1967 05 17 0135 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "CAE C 017285 1967 05 17 0208 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "ARTICULO 1.- Apruébase la Reglamentación de la Ley N. 17.285 Código Aeronáutico- modificada por la Ley N. 22.390, para los Artículos 133, 135 y 208 -incisos 1), 2) apartado a), 4) y 5)- referidos al transporte aéreo comercial, cuyo texto obra como Anexo 1 del presente Decreto."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO 2.- Déjase sin efecto, a partir de la fecha, el Decreto N. 784/72 en todo lo aplicable al transporte aéreo comercial que se oponga al presente."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO 3.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "GALTIERI - FRUGOLI"
+      },
+      "anexo": {
+        "anexo": "A",
+        "titulo-anexo": "REGLAMENTACION",
+        "segmento": [
+          {
+            "titulo-particion": "CAPITULO I FISCALIZACION DE ACTIVIDADES COMERCIALES",
+            "segmento": [
+              {
+                "titulo-particion": "INTERRUPCION Y RECAUDACION DE SERVICIOS (ARTICULO 133 INCISO 4)",
+                "articulo": [
+                  {
+                    "numero-articulo": 1,
+                    "texto": "1. La Autoridad Aeronáutica, de solicitud de un prestatarios de servicios regulares de transporte aéreo -internos o internacionales, de bandera propia o extranjera- y fundada en razones que así lo aconsejen, podrá autorizar la interrupción de todos los servicios de los que fuera titular aquél, por un término máximo de ciento ochenta (180) días a partir del cual, si no fuera reanudados, iniciará los trámites para hacer efectiva la caducidad o el retiro de la concesión o autorización. Se tomarán en cuenta, para los transportadores extranjeros, los comprobantes resultantes de los Acuerdos Bilaterales vigentes."
+                  },
+                  {
+                    "numero-articulo": 2,
+                    "texto": "2. Las interrupciones parciales de servicios regulares de transporte aéreo -internos o internacionales, de bandera propia o extranjera- oportunamente solicitadas por el titular para una ruta, tramo de ruta o escala, y fundadas suficientemente, podrán ser autorizadas por la Autoridad Aeronáutica también por un período de ciento ochenta (180) días, renovable si subsistieran las causas y siempre que necesidades de interés público no aconsejaran otorgar la concesión o autorización a otro transportador en condiciones de llevar a cabo los servicios interrumpidos. Subsistirá la misma reserva prevista en el número precedente para los transportadores extranjeros."
+                  },
+                  {
+                    "numero-articulo": 3,
+                    "texto": "3. En el caso de servicios no regulares, internos o internacionales de bandera, pronto se aplicarán procedimientos y plazo similares a los establecidos en el número 1. Se considerará, asimismo, interrupción de servicios la falta de actividad específica de transporte aéreo en un lapso de ciento ochenta (180) días, mediare o no solicitud del prestatario, término a partir del cual, se iniciarán los trámites para el retiro de la autorización."
+                  },
+                  {
+                    "numero-articulo": 4,
+                    "texto": "4. La autorización para la reanudación de los servicios interrumpidos procederá, a solicitud de los interesados, si es presentada antes del vencimiento del plazo establecido."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "REPRESENTACION Y AGENCIAS DE EMPRESAS EXTRANJERAS QUE NO OPERAN EN EL PAIS (ARTICULO 433 - INCISO 8)",
+                "articulo": [
+                  {
+                    "numero-articulo": 5,
+                    "texto": "5. Las representaciones y agencias establecidas en territorio argentino por empresas extranjeras de transporte aéreo que no operan en el país, estarán sujetas -sin perjuicio del cumplimiento de las exigencias impuestas por las normas de otras áreas de la Administración Pública- a la aprobación como condición previa a su instalación y a la fiscalización de su funcionamiento por la Autoridad Aeronáutica en todo cuando haga a cumplimiento de la Ley N. 17.285 y normas complementarias, y en particular, a la promoción y comercialización del transporte de pasajeros y de carga."
+                  },
+                  {
+                    "numero-articulo": 6,
+                    "texto": "6. La Autoridad Aeronáutica exigirá y asegurará, como requisito mandatario para la autorización de instalación y funcionamiento, reciprocidad real y efectiva para con los transportadores argentinos, entendiéndose por tal la posibilidad y conveniencia, para éstos, de establecer representaciones o agencias en el respectivo país en igualdad de condiciones y facilidades respecto de las que el Gobierno Argentino confiere."
+                  },
+                  {
+                    "numero-articulo": 7,
+                    "texto": "7. La fiscalización de tales representaciones y agencias serán llevadas a cabo por la Autoridad Aeronáutica en salvaguarda y tutela de los intereses del Estado y del usuario, cubriendo las siguientes exigencias generales:\n\n1) Emitir en territorio argentino los documentos de transporte billetes de pasajes y guías o cartas de porte aéreas- para asegurar al usuario el beneficio de la aplicación de la ley y jurisdicción argentinos en caso de reclamo y cubrir los intereses del Estado en cuanto a la percepción de los tributos a los que -en cualquier concepto- diera lugar la actividad de dichas representaciones y agencias.\n\n2) Cumplir las tarifas -precios, condiciones y comisiones- aprobadas por el Gobierno Argentino.\n\n3) Otorgar garantía, mediante depósito por valor de doscientos millones de pesos ($200.000.000) en efectivo o garantía real, bancaria o seguro, equivalente:\n\nEl valor de dicha garantía se actualizará semestralmente -en enero y julio de cada año- sobre la base de la variación del índice general de precios mayoristas, publicados oficialmente, que correspondiera al semestre inmediato anterior.\n\nEl depósito en efectivo se hará en el Banco de la Nación Argentina, a la orden de la Autoridad Aeronáutica.\n\nEl presente requisito podrá no ser exigido si transportadores argentinos operasen sobre bases permanentes en el país de bandera de dichas empresas o mantuvieran en dicho territorio representaciones o agencias en estricto criterio de reciprocidad.\n\n4) Observan las prescripciones de la Ley N. 17.285 y demás normas complementarias."
+                  },
+                  {
+                    "numero-articulo": 8,
+                    "texto": "3. La autoridad Aeronáutica emitirá los instrumentos necesarios para llevar a cabo lo previsto por los números 5 al 7, precedentes"
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "CALIFICACION DE LA APTITUD DE LAS AERONAVES (ART. 133 INC. 9)",
+                "articulo": [
+                  {
+                    "numero-articulo": 9,
+                    "texto": "9. La Autoridad Aeronáutica calificará la aptitud de las aeronaves que, para el transporte comercial de pasajeros o carga, prevean incorporar las empresas de bandera argentina y se expedirá sobre la conveniencia de tal incorporación tomando en cuenta, como factores principales, la clase de servicios a ser prestados, la dimensión presente y evolución de los mercados que serán servidos;\n\nla infraestructura disponible; el criterio de máxima homogeneización del parque de aeronaves y repuestos y la economía de las explotaciones."
+                  },
+                  {
+                    "numero-articulo": 10,
+                    "texto": "10. A tal efecto, los titulares y postulantes de prestaciones deberán someter los estudios referidos al equipamiento como paso previo y condicionante de la incorporación y afectación de las aeronaves, así como también de su ingreso al país, cuyo trámite deberá ser iniciado ante dicha autoridad."
+                  },
+                  {
+                    "numero-articulo": 11,
+                    "texto": "11. La calificación y opinión sobre la conveniencia, emitidas por la Autoridad Aeronáutica, serán, asimismo, requisito indispensable en todos los casos en los que se solicite la provisión de avales, garantías u otras facilidades a cargo del Estado, para cualquier tipo de equipamiento."
+                  },
+                  {
+                    "numero-articulo": 12,
+                    "texto": "*12.- (Nota de redacción) (Derogado por art. 20 del Dec. 1492)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO II EXTINCION DE LAS CONCESIONES Y AUTORIZACIONES CADUCIDAD DE LAS CONCESIONES Y RETIRO DE LAS AUTORIZACIONES (ARTICULO 135)",
+            "articulo": [
+              {
+                "numero-articulo": 13,
+                "texto": "13. En caso de producirse cualquiera de las actuaciones en el Artículo 135 de la Ley N. 17.286, procederá la caducidad de la concesión o el retiro de la autorización, medidas éstas que serán dictadas por la Autoridad que las hubiese otorgado."
+              },
+              {
+                "numero-articulo": 14,
+                "texto": "14. La Autoridad de Aplicación comunicará por escrito, al transportador interesado, la iniciación del trámite de caducidad o retiro, a los efectos del cumplimiento del recaudo previsto en el Artículo 137 de la Ley N. 17.285."
+              },
+              {
+                "numero-articulo": 15,
+                "texto": "15. El descargo del interesado deberá ser presentado por escrito en el término de Veinte (20) días hábiles contados a partir del recibo de dicha comunicación. Durante este período tendrá derecho -a su solicitud y por sí o por su apoderado- a la vista del expediente."
+              },
+              {
+                "numero-articulo": 16,
+                "texto": "16. Recibido el descargo, la Autoridad de Aplicación se expedirá sobre el mismo. La no presentación en término dará por cumplido el requisito prescripto en el Artículo 137 de la Ley N.\n\n17.285. La resolución de la Autoridad de Aplicación será precedida por dictamen del órgano jurídico respectivo."
+              },
+              {
+                "numero-articulo": 17,
+                "texto": "17. En los casos de caducidad de concesiones o de retiro de autorizaciones otorgadas por el Poder Ejecutivo, la Autoridad de Aplicación seguirá el mismo procedimiento y elevará los antecedentes para el dictado del Decreto correspondiente."
+              },
+              {
+                "numero-articulo": 18,
+                "texto": "18. Sin perjuicio de lo establecido en los números 13 al 17 precedentes, la Autoridad de Aplicación podrá disponer la suspensión preventiva de los servicios cuando esté configurada cualquiera de las causales que motiven la caducidad de la concesión o el retiro de la autorización, mientras se substancien las actuaciones previstas en los citados números y hasta que se dicte la medida definitiva."
+              },
+              {
+                "numero-articulo": 19,
+                "texto": "19. La suspensión preventiva será mandatoria:\n\n1) Si el incumplimiento de las obligaciones substanciales fuese en lo relativo a la capacidad técnica y seguridad de la operación, tanto por carencia o deficiencias del equipo y de su mantenimiento como del personal de tripulaciones.\n\n2) Si no se diese cumplimiento a la cobertura de riesgos prevista por el Título X (Seguros) del Código Aeronáutico (Inciso 6) del Artículo 135 de la Ley N. 17.285."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO III FALTAS",
+            "segmento": [
+              {
+                "titulo-particion": "INFRACCIONES Y SANCIONES (ARTICULO 208) APERCIBIMIENTO (ARTICULO 208 INCISO 1)",
+                "articulo": [
+                  {
+                    "numero-articulo": 20,
+                    "texto": "20. Serán sancionados con \"Apercibimiento\" los transportadores, sus representantes o agentes o los terceros que no diesen cumplimiento en término a las obligaciones de proporcionar información, tanto la prevista por la Ley N. 17.285 y demás normas complementarias como aquella que le fuera expresamente requerida por la Autoridad de Aplicación en ejercicio de sus facultades, siempre que ello no constituye causal prevista en el Inciso 7) del Artículo 135 de la Ley N. 17.285."
+                  },
+                  {
+                    "numero-articulo": 21,
+                    "texto": "21. El apercibimiento impuesto sienta precedente a los efectos de la reincidencia."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "MULTA (ARTICULO 208 INCISO 2) APARTADO A) INFRACCIONES TARIFARIAS",
+                "articulo": [
+                  {
+                    "numero-articulo": 22,
+                    "texto": "*22.- (Nota de redacción) (Derogado por art. 20 del Dec. 1492)."
+                  },
+                  {
+                    "numero-articulo": 23,
+                    "texto": "*23.- (Nota de redacción) (Derogado por art. 20 del Dec.\n\n1492/92)."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "INFRACCIONES AL REGIMEN ADMINISTRATIVO GENERAL",
+                "articulo": [
+                  {
+                    "numero-articulo": 24,
+                    "texto": "24. En el transporte de pasajeros será sancionado con multa de Dos (2) hasta Cien (100) veces el valor de la tarifa máxima vigente para pasajeros, que correspondiese al mayor trayecto establecido en el instrumento que hubiera conferido la concesión, autorización o permiso de servicio, el transportador que cometiese cualquiera de las siguientes infracciones:\n\n1) Emplease aeronaves o personal, con cualquier función a bordo, no afectados previamente a los servicios en concesión o autorización o informados oportunamente en los casos de solicitud de permisos de operación.\n\n2) Dispusiera o permitiese realizar instrucción, que importe la disminución de las condiciones de seguridad, durante el desarrollo de vuelos comerciales.\n\n3) Permitiera que se desempeñe con funciones a bordo, personal física o síquicamente disminuido o bajo la influencia de estimulantes, estupefacientes o bebidas alcohólicas.\n\n4) No discriminase, en su contabilidad, las cuentas y resultados de la actividad específica de transporte aéreo comercial -cuando ésta se realizase en concurrencia con otros rubros del objeto societario- en forma que permita la fiscalización prevista por el Artículo 133 y en concordancia con los Artículos 100, 101 y 128 de la Ley N. 17.285.\n\n5) No efectuará la comunicación de la transferencia de las acciones en los casos previstos por los Artículos 99, incisos 4) y 128 de la Ley N. 17.285.\n\n6) No sometiera a consideración de la Autoridad Aeronáutica los itinerarios, horarios, capacidad y frecuencia de los servicios.\n\n7) No sometiese a consideración de la Autoridad Aeronáutica los acuerdos interempresarios de cualquier naturaleza y finalidad.\n\n8) No diese cumplimiento a los itinerarios, horarios, frecuencias o capacidad aprobados.\n\n9) Substituyese equipo aprobado para sus servicios, por otro, cualesquiera fuesen las razones invocadas.\n\n10) No llevase a bordo, o no presentase a requerimiento de la Autoridad respectiva, la documentación de la aeronave, su tripulación, carga y la que acredite la cobertura de seguros exigibles.\n\n11) Ejerciese derechos de tráfico que no le hubieran sido expresamente otorgados en concesión, autorización o permiso de operación.\n\n12) Promoviese o permitiese la promoción de servicios no autorizados o la publicidad de tarifas no aprobadas o construidas sin arreglo a las normas vigentes.\n\n13) Sobrevolase territorio argentino sin autorización o no diese cumplimiento a las normas vigentes para el sobrevuelo o la operación.\n\n14) Efectuase operación no comercial en territorio argentino sin autorización previa.\n\n15) Efectuase operación comercial no autorizada expresamente en territorio argentino.\n\n16) No diese cumplimiento a las obligaciones emergentes de su condición de prestatario de servicios, en relación con el Artículo 150 de la Ley N. 17.285.\n\n17) Fuese reincidente en no proporcionar información en término, siempre que ello no constituyese causal prevista por el Artículo 135 de la Ley N. 17.285.\n\n18) No diese cumplimiento a cualquier exigencia o condición contenida en el instrumento de concesión, autorización o permiso.\n\n10) No diese cumplimiento a las disposiciones complementarias que, respecto de la Ley N. 17.285 su reglamentación y demás normas, dictase la Autoridad Aeronáutica en ejercicio de las facultades y atribuciones establecidas por el Artículo 133 de dicha Ley."
+                  },
+                  {
+                    "numero-articulo": 25,
+                    "texto": "25. En el transporte de carga será sancionado con multa de dos (2) hasta doscientas (200) veces el valor de la tarifa máxima vigente para cien kilogramos (100 kg) de carga que correpondiese al mayor trayecto contenido en el instrumento de concesión, autorización o permiso, el transportador que cometiera cualquiera de las siguientes infracciones:\n\n1) Emplease aeronaves o personal con cualquier función a bordo no afectados previamente a los servicios en concesión o autorización o informados oportunamente en los casos de solicitud de permisos de operación.\n\n2) Dispusiera o permitiese realizar instrucción, que importe la disminución de las condiciones de seguridad, durante el desarrollo de vuelos comerciales.\n\n3) Permitiera que se desempeñe con funciones a bordo, personal física o síquicamente disminuido o bajo la influencia de estimulantes, estupefacientes o bebidas alcohólicas.\n\n4) No discriminase, en su contabilidad las cuentas y resultados de la actividad específica de transporte aéreo comercial -cuando ésta se realizase en concurrencia con otros rubros del objeto societario en forma que permita la fiscalización prevista por el Artículo 133 y en concordancia con los Artículos 100, 101 y 125 de la Ley N. 17.285.\n\n5) No efectuará la comunicación de la transferencia de las acciones en los casos previstos por los Artículos 99, inciso 4) y 128 de la Ley N. 17.285.\n\n6) No sometiese a consideración de la Autoridad Aeronáutica los itinerarios horarios capacidad y frecuencia de los servicios.\n\n7) No sometiese a consideración de la Autoridad Aeronáutica los acuerdos interempresarios de cualquier naturaleza o finalidad.\n\n8) No diese cumplimiento a los itinerarios, horarios, frecuencias o capacidad aprobados.\n\n9) Substituyese equipo aprobado para sus servicios por otro, cualesquiera fuesen las razones invocadas.\n\n10) No llevase a bordo o no presentase a requerimiento de la Autoridad respectiva la documentación de la aeronave, su tripulación , carga y la que acredite la cobertura de seguros exigibles.\n\n11) Dejase producir el vencimiento de la cobertura de riesgos prevista por el Título X de la Ley número 17.285, siempre que subsanase tal deficiencia dentro del término de veinticuatro (24) horas de ocurrida y no llegase al empleo del equipo en descubierto.\n\n12) Ejerciese derechos de tráfico que no le hubieran sido expresamente otorgados en concesión, autorización o permiso de operación.\n\n13) Promoviese o permitiese la promoción de servicios no autorizados o la publicidad de tarifas no aprobadas o construidas sin arreglo a las normas vigentes.\n\n14) Emitiese documentación incompleta, inexacta o que no correspondiese al origen o destino reales de la carga para ejercer derechos de tráfico que no tuviese concedidos.\n\n15) Sobrevolase territorio argentino sin autorización o no diese cumplimiento a las normas vigentes para el sobrevuelo o la operación.\n\n16) Efectuase operación no comercial en territorio argentino sin autorización previa.\n\n17) Efectuase operación comercial no autorizada expresamente en territorio argentino.\n\n18) No declarase la existencia de carga restringida o peligrosa a bordo de una aeronave que operase en territorio argentino o lo sobrevolase o la transportara sin autorización.\n\n19) Fuese reincidente en no proporcionar información en término, siempre que ello no constituyese causal prevista por el Artículo 135 de la Ley N. 17.285.\n\n20) No diese cumplimiento a cualquier exigencia o condición contenida en el instrumento de concesión, autorización o permiso.\n\n21) No diese cumplimiento a las disposiciones complementarias que, respecto de la Ley N. 17.285 su reglamentación y demás normas, dictase la Autoridad Aeronáutica en ejercicio de las facultades y atribuciones establecidas por el Artículo 133 de dicha ley."
+                  },
+                  {
+                    "numero-articulo": 26,
+                    "texto": "26. En las infracciones sancionadas por los números 20, 22 y 23, la responsabilidad primaria será del transportador autorizado."
+                  },
+                  {
+                    "numero-articulo": 27,
+                    "texto": "27. Para el cumplimiento de los números 22, 23, 24 y 25 se tomarán como base de las multas:\n\n1) Como \"tarifa máxima vigente para pasajeros\", la normal de clase económica, aprobada por la Autoridad Aeronáutica, que rigiera al momento de producirse la infracción.\n\n2) Como \"tarifa máxima vigente para carga\" la tarifa de carga general que correspondiera a cien kilogramos (100 kg.), aprobada por la Autoridad Aeronáutica, que rigiera al momento de producirse la infracción.\n\n3) Como \"mayor trayecto\":\n\na) Al del servicio cuyo itinerario cubriera la mayor distancia entre todos los comprendidos en la concesión o autorización de la que fuera titular el transportador -nacional o de bandera extranjera- que cometiese la infracción.\n\nb) Cuando se tratase de transportadores nacionales o de bandera extranjera que operasen en virtud de una autorización no limitada a rutas determinadas o de un permiso precario o esporádico, se tomará en cuenta el itinerario cumplido en el servicio en el que se cometiera la infracción. Si la infracción tuviera fundamento en la inexistencia de una autorización o permiso, se considerará el trayecto que medie entre el origen y el destino del vuelo en el que ésta se produjera."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "SUSPENSION TEMPORARIA DE SERVICIOS (ARTICULO 208 INCISO 4)",
+                "articulo": [
+                  {
+                    "numero-articulo": 28,
+                    "texto": "28. La suspensión temporaria de servicios podrá ser impuesta por la Autoridad Aeronáutica para las infracciones previstas en los números 22, 23, 24 y 25 de la presente reglamentación en substitución de la multa o, como accesoria de ésta, en los casos en lo que, a su juicio la gravedad y la reincidencia de las transgresiones así lo hicieran aconsejable."
+                  },
+                  {
+                    "numero-articulo": 29,
+                    "texto": "29. La suspensión en su mayor graduación -seis (6) meses- será aplicada por la misma Autoridad que hubiera dictado el instrumento de concesión, autorización o permiso."
+                  }
+                ]
+              },
+              {
+                "titulo-particion": "CADUCIDAD DE LA CONCESION Y RETIRO DE LA AUTORIZACION O PERMISO DE SERVICIO (ARTICULO 208 INCISO 5)",
+                "articulo": [
+                  {
+                    "numero-articulo": 30,
+                    "texto": "30. La caducidad de las concesiones o el retiro de la autorización o permiso se aplicará como sanción -sin perjuicio de lo establecido en el Artículo 135 de la Ley N. 17.285- en todos los casos en los que exista como antecedente la suspensión temporaria impuesta en su máxima graduación -número 29 precedente- o cuando la acumulación de sanciones revelase la inadaptabilidad del infractor. Será impuesta por la misam Autoridad que hubiera dictado la medida que otorgará la concesión, autorización o permiso de servicios."
+                  },
+                  {
+                    "numero-articulo": 31,
+                    "texto": "31. Se considerará reincidente al infractor que, en el lapso de cuatro (4) años anteriores a la fecha de la falta en cuestión, haya sido sancionado."
+                  },
+                  {
+                    "numero-articulo": 32,
+                    "texto": "32. El importe de las multas previstas por la Ley N. 17.285 y su reglamentación ingresará al Fondo Permanente para el Fomento de la Aviación Civil."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO IV AUTORIDADES DE APLICACION",
+            "articulo": [
+              {
+                "numero-articulo": 33,
+                "texto": "33. Las Autoridades Aeronáuticas que, conforme la legislación reguladora de la competencia en cada uno de los ámbitos de la Administración Pública, ejerzan la dirección de las actividades comerciales de transporte aéreo, serán las Autoridades de Aplicación de la presente reglamentación."
+              },
+              {
+                "numero-articulo": 34,
+                "texto": "34. El primer nivel de dicha Autoridad entenderá como primera instancia en todos los trámites a los que diera lugar la Ley N. 17 285, esta reglamentación y las normas complementarias que se dicten. Entenderá como segunda instancia, para la apelación, la Autoridad que, conforme la legislación aludida en el número 33, tenga a su cargo la dirección integral de las actividades aeronáuticas."
+              },
+              {
+                "numero-articulo": 35,
+                "texto": "35. La elevación de los asuntos que requieran la decisión de instancia superior seguirá la estructura de autoridades resultante de la ya citada legislación de competencia. Este trámite incluirá los antecedentes, informes, dictámenes, opinión y propuesta para la resolución de la Autoridad de Aplicación."
+              }
+            ]
+          },
+          {
+            "titulo-particion": "CAPITULO V PROCEDIMIENTO",
+            "articulo": [
+              {
+                "numero-articulo": 36,
+                "texto": "36. El procedimiento de comprobación de las infracciones aeronáuticas se iniciará por denuncia o de oficio. Toda denuncia emanada de organismos estatales o de sus funcionarios o agentes dará lugar a la iniciación del procedimiento, sin necesidad de cumplirse otra formalidad. Las denuncias formuladas por particulares, personas físicas o jurídicas, originarán la correspondiente investigación sólo después de la ratificación de sus firmantes dentro de los cinco (5) días de ser requerida. Las denuncias no ratificadas podrán dar origen al procedimiento cuando, a criterio de la Autoridad de Aplicación tengan visos de verosimilitud."
+              },
+              {
+                "numero-articulo": 37,
+                "texto": "37. Los funcionarios facultados por las Autoridades de Aplicación al comprobar la existencia de una infracción procederán a labrar el acta prevista por el Artículo 203 de la Ley N. 17.285, en lo posible en presencia del presunto infractor y de testigos que contendrán:\n\n1) Lugar, fecha y hora en que se extiende.\n\n2) Nombre y apellido del presunto infractor y de todos los intervinientes, con aclaración de la función o cargo del o de los agentes o funcionarios firmantes y sus domicilios.\n\n3) Nombres, apellidos y domicilios de los testigos del hecho.\n\n4) Relación circunstanciada del hecho con la intervención que le cupo al imputado.\n\n5) Disposición legal presuntivamente transgredida.\n\n6) Constancia del agregado el testimonio o prueba material de la infracción, si la hubiera (billete en infracción, guías, etc.).\n\n7) Todo otro dato o elemento de juicio que conduzca al debido esclarecimiento de los hechos."
+              },
+              {
+                "numero-articulo": 38,
+                "texto": "38. Las actas así labradas serán elevadas a la Autoridad de Aplicación, dentro del término de cuarenta y ocho (48) horas, acompañadas de todo antecedente que facilite la comprobación del hecho que motivará el procedimiento."
+              },
+              {
+                "numero-articulo": 39,
+                "texto": "39. En los casos de denuncia también deberá labrarse el acta prevista en el número anterior a cargo del funcionario que la Autoridad de Aplicación designe para la investigación."
+              },
+              {
+                "numero-articulo": 40,
+                "texto": "40. El procedimiento de investigación será sumario y actuado.\n\nAsegurará la existencia de dos instancias, la inviolabilidad del derecho de defensa y observará la mayor celeridad en todos sus trámites."
+              },
+              {
+                "numero-articulo": 41,
+                "texto": "41. A los fines de la investigación, el instructor está facultado para:\n\n1) Citar al imputado, representante legal de sociedades o entidades, testigos o cualquier otra persona cuya presencia considere necesaria para aclarar aspectos de la investigación, en forma directa o por intermedio de la Autoridad que lo hubiere designado.\n\n2) Tomar declaraciones, ampliaciones, practicar careos y efectuar reconocimientos.\n\n3) Requerir se practiquen peritajes y comprobaciones.\n\n4) Requerir informes de autoridades de entes públicos o privados.\n\n5) Practicar cualquier otra diligencia que resultare útil para la investigación."
+              },
+              {
+                "numero-articulo": 42,
+                "texto": "42. La declaración del imputado podrá ser personal o por escrito. En este último caso recibirá una notificación de imputación para su descargo y prueba, que deberá ser contestada dentro del plazo de diez (10) días hábiles bajo apercibimiento de que, en caso de no hacerlo, se tendrá por reconocida su responsabilidad en los hechos que se le atribuyen sin perjuicio de la prosecución de las actuaciones con arreglo a las constancias reunidas."
+              },
+              {
+                "numero-articulo": 43,
+                "texto": "43. Sin perjuicio del recaudo precedente el escrito de descargo deberá ser devuelto con la firma del imputado certificada por autoridad judicial, militar o policial o por escribano público. En el caso de personas jurídicas, la firma será de su representante legal o apoderado quienes, simultáneamente, deberán acreditar la personería que invocan."
+              },
+              {
+                "numero-articulo": 44,
+                "texto": "44. Si el presunto infractor aportase pruebas documentales, éstas deberán ser remitidas con el escrito de descargo o presentadas dentro de los tres (3) días hábiles posteriores a la fecha de su declaración personal, o a la del descargo siempre que, en ambos casos y oportunidades, hiciera presente su decisión de remitir tales pruebas y diese el detalle de los antecedentes a aportar."
+              },
+              {
+                "numero-articulo": 45,
+                "texto": "45. El presunto infractor recibirá en el momento que concurriese a prestar declaración o juntamente con la notificación de imputación y descargo, la transcripción de los números 42, 43 y 44 de la presente reglamentación."
+              },
+              {
+                "numero-articulo": 46,
+                "texto": "46. Cumplidas todas las diligencias y medidas de prueba, el instructor procederá a cerrar las actuaciones y elevará las mismas a la Autoridad de Aplicación, con informe explicativo, emitiendo opinión sobre la forma de resolver el caso."
+              }
+            ],
+            "segmento": {
+              "titulo-particion": "RESOLUCION DE LAS ACTUACIONES",
+              "articulo": [
+                {
+                  "numero-articulo": 47,
+                  "texto": "47. Recibidas las actuaciones por la autoridad de Aplicación y previo dictámen, e informe técnico si éste correspondiera, la misma emitirá el acto administrativo que resuelva lo actuado notificándoselo al interesado con copia o por cualquier medio escrito y registrable.\n\nRecurso de apelación"
+                },
+                {
+                  "numero-articulo": 48,
+                  "texto": "48. La resolución de la Autoridad de Aplicación será recurrible ante la instancia superior. El recurso de apelación será interpuesto dentro del término de diez (10) días hábiles de notificada la resolución y presentado a la misma Autoridad que hubiera dictado la medida, por escrito. Sin estos requisitos el recurso será desestimado."
+                },
+                {
+                  "numero-articulo": 49,
+                  "texto": "49. Durante el término para interponer el recurso de apelación, el interesado podrá tomar vista de las actuaciones, a su solicitud, por sí o por intermedio de su representante."
+                },
+                {
+                  "numero-articulo": 50,
+                  "texto": "50. Admitido el recurso, las actuaciones serán elevadas a la Autoridad que deba resolver la apelación y ésta, previo dictámen, se pronunciará sobre el mismo."
+                },
+                {
+                  "numero-articulo": 51,
+                  "texto": "51. La Autoridad que deba resolver la apelación podrá disponer la ampliación de las actuaciones, si lo juzgare necesario."
+                },
+                {
+                  "numero-articulo": 52,
+                  "texto": "52. Substanciadas las nuevas diligencias, se dará vista al imputado por cinco (5) días hábiles para que, dentro de este término, amplíe sus razones, si lo considerare necesario. Cumplido este recaudo, la Autoridad que interviniese en instancia de apelación, dictará pronunciamiento, previa intervención de la asesoría legal de su dependencia."
+                },
+                {
+                  "numero-articulo": 53,
+                  "texto": "53. La decisión de la Autoridad que entienda en apelación agotará la vía administrativa y dejará expedido el procedimiento previsto en el artículo 215 de la Ley N. 17.285."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "id-infojus": "DN19821000326",
+      "fecha-umod": 20240911103050
+    }
+  }
+}

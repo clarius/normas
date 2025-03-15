@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g83-93200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584723862,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "163-nacional-lnn0023938-1857-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023938",
+      "numero-norma": 163,
+      "timestamp": "2013-01-19T19:16:25",
+      "timestamp-m": "2013-01-19T19:16:25",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1857-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000163 1857 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 163",
+          "PARANA, 29 DE SETIEMBRE DE 1857"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1862 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1862 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800169",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 163",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-REIMPLANTA Y SUSPENDE VIGENCIA DE LA LEY 100 QUE CREABA LA ADMINISTRACION E INSPECCION DE CORREOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "servicio postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "correos"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "servicio postal",
+            "correos",
+            "medios de difusión (Comunicaciones)",
+            "medios de comunicación (Comunicaciones)",
+            "Comunicaciones"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023938"
+    }
+  }
+}

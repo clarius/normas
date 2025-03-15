@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g19-76000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1594210330834,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16861-nacional-lnn0006791-1965-10-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006791",
+      "numero-norma": 16861,
+      "timestamp": "2020-07-08T08:42:32",
+      "timestamp-m": "2020-07-08T08:42:32",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1965-10-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016861 1965 10 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.861",
+          "BUENOS AIRES, 30 DE OCTUBRE DE 1965"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1965 12 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1965 12 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  025 C19652188",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.861",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-07-08",
+      "texto-original": {
+        "file-name": "N0006791.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006791pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES EN LOS DEPARTAMENTOS DE SAN RAFAEL (CAMPO \"PIEDRA DE AFILAR\") Y DE MALARGUE (CAMPO DE LA \"LAGUNA BLANCA\") PROVINCIA DE MENDOZA PARA COLONIZACION RURAL. ADJUDICACION DE TIERRAS AL CONSEJO AGRARIO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006791"
+    }
+  }
+}

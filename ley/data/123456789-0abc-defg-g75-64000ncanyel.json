@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g75-64000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584351513,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20122-nacional-lnn0004657-1973-01-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004657",
+      "numero-norma": 20122,
+      "timestamp": "2014-09-02T12:54:43",
+      "timestamp-m": "2014-09-02T12:54:43",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-01-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020122 1973 01 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20.122",
+          "BUENOS AIRES, 26 DE ENERO DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 02 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 02 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  033 A19730265",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.122",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-09-02",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONDONACION DE DEUDAS-CONDONANSE DEUDAS IMPOSITIVAS A \"TEXTIL FORMOSA EMPRESA PROVINCIAL\""
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extinción de las obligaciones"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones"
+            },
+            "sinonimos": {
+              "termino": "obligaciones personales"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remisión de deudas"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones/remisión de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "condonación de deudas",
+                "obligaciones personales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de las obligaciones",
+            "Derecho constitucional",
+            "Estado",
+            "obligaciones",
+            "Obligaciones y contratos",
+            "Estado Nacional",
+            "remisión de deudas",
+            "obligaciones personales (obligaciones)",
+            "condonación de deudas (remisión de deudas)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004657"
+    }
+  }
+}

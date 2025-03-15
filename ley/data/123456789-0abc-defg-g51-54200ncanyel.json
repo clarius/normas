@@ -1,0 +1,101 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g51-54200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584228787,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16761-nacional-lnn0024515-1965-10-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024515",
+      "numero-norma": 16761,
+      "timestamp": "2013-01-19T19:15:51",
+      "timestamp-m": "2013-01-19T19:15:51",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1965-10-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016761 1965 10 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16761",
+          "BUENOS AIRES, 27 DE OCTUBRE DE 1965"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1965 11 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1965 11 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  025 C19652136",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.761",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 18188-SUPRESION DE DECIMALES DE PESOS MONEDA NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "moneda nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/moneda nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "suma expresada en pesos"
+            },
+            "preferido": {
+              "termino": "suma expresada en pesos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sistema financiero",
+            "derecho financiero (Economía y finanzas)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "moneda",
+            "moneda nacional",
+            "Economía y finanzas",
+            "suma expresada en pesos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024515"
+    }
+  }
+}

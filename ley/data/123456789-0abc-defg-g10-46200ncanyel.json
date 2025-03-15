@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g10-46200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583735620,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "816-nacional-lnn0026401-1876-10-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026401",
+      "numero-norma": 816,
+      "timestamp": "2013-01-19T19:15:35",
+      "timestamp-m": "2013-01-19T19:15:35",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1876-10-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000816 1876 10 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 816",
+          "BUENOS AIRES, 4 DE OCTUBRE DE 1876"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1876 10 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000018801119",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 816",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "OBSERVACION DEROGADA POR LEY 20216"
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20216-(B.O. 23-3-73)-CORREOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "servicio postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "correos"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "servicio postal",
+            "correos",
+            "medios de difusión (Comunicaciones)",
+            "medios de comunicación (Comunicaciones)",
+            "Comunicaciones"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026401"
+    }
+  }
+}

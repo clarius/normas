@@ -1,0 +1,128 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g12-04000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584534190,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21736-nacional-lnn0004021-1978-01-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004021",
+      "numero-norma": 21736,
+      "timestamp": "2013-09-06T15:21:51",
+      "timestamp-m": "2013-09-06T15:21:51",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1978-01-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021736 1978 01 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.736",
+          "BUENOS AIRES, 23 DE ENERO DE 1978"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1978 01 26",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1978 01 26"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  038 A19780070",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.736",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-09-06",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DONACION INMUEBLE LA QUERENCIA-BARILOCHE-AL CIRCULO DE SUBOFICIALES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transferencia de bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/transferencia de bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "donación"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/Contratos/contratos civiles/donación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "bienes inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Contratos",
+            "cosas inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "contratos civiles",
+            "donación",
+            "transferencia de bienes del Estado",
+            "bienes inmuebles",
+            "Obligaciones y contratos",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "bienes del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004021"
+    }
+  }
+}

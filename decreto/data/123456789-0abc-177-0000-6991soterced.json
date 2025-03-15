@@ -1,0 +1,358 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-177-0000-6991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989146151,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "771-nacional-regimen-asignaciones-familiares-dn19960000771-1996-07-15"
+      }
+    },
+    "content": {
+      "mecanografico": 19960000771,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 771,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1996-07-15",
+      "standard-normativo": "DEC C 000771 1996 07 15",
+      "titulo-norma": "REGIMEN DE ASIGNACIONES FAMILIARES",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1996 07 16"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "SUSTITUYE ART. 4 (B.O. 96-08-23)",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 000968 1996 08 16 0007 000"
+          },
+          {
+            "cr": "B.O. 18-10-1996",
+            "id": "DEROGADO POR1",
+            "ref": "LEY C 024714 1996 10 02 0025 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 771/1996",
+      "estado": "Derogada",
+      "fecha-alta": "2003-05-22",
+      "fecha-mod": "2008-12-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE FIJAN LOS MONTOS, REQUISITOS Y CONDICIONES DE ACCESO A LAS PRESTACIONES ESTABLECIDAS EN EL NUEVO REGIMEN LEGAL DE ASIGNACIONES FAMILIARES DISPUESTO POR DECRETO 770/96.",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "B.O. 18-10-1996",
+            "id": "DEROGADO_POR_0",
+            "ref": "LEY C 024714 1996 10 02 0025 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 10"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "asignaciones familiares"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por maternidad"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por maternidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio por maternidad",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por nacimiento de hijo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por nacimiento de hijo"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por adopción"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por adopción"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por hijo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por hijo"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "asignación por hijo incapacitado"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares/asignación por hijo con discapacidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "asignación por hijo incapacitado",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS",
+                "asignación por hijo discapacitado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "antigüedad mínima"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/cómputo de servicios/antigüedad/antigüedad mínima"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "prueba de servicios",
+                "tiempo de servicio",
+                "reconocimiento de servicios",
+                "tiempo trabajado",
+                "tiempo de servicios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/Sistema Integrado de Jubilaciones y Pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "previsión social",
+                "SIJP",
+                "SIJYP"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "afiliados previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/derecho de los beneficios de la seguridad social/afiliación previsional/afiliados previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho previsional",
+                "afiliación del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "antigüedad en la afiliación"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/cómputo de servicios/antigüedad/antigüedad en la afiliación"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "prueba de servicios",
+                "tiempo de servicio",
+                "reconocimiento de servicios",
+                "tiempo trabajado",
+                "tiempo de servicios"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "afiliación previsional",
+            "cómputo de servicios",
+            "asistencia familiar (asignaciones familiares)",
+            "previsión social (sistema previsional)",
+            "asignaciones familiares",
+            "asignación por hijo discapacitado (asignación por hijo con discapacidad)",
+            "antigüedad mínima",
+            "SIJYP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "reconocimiento de servicios (cómputo de servicios)",
+            "asignación por nacimiento de hijo",
+            "sistema previsional",
+            "asignación por hijo",
+            "derecho de los beneficios de la seguridad social",
+            "subsidio familiar (asignaciones familiares)",
+            "asignación por maternidad",
+            "tiempo de servicios (cómputo de servicios)",
+            "adicional por cargas de familia (asignaciones familiares)",
+            "salario familiar (asignaciones familiares)",
+            "afiliados previsionales",
+            "subsidio por maternidad (asignación por maternidad)",
+            "derecho previsional (derecho de los beneficios de la seguridad social)",
+            "Sistema único de la seguridad social",
+            "subsidios de la Seguridad Social",
+            "Sistema Integrado de Jubilaciones y Pensiones",
+            "Seguridad social",
+            "asignación por adopción",
+            "derecho del trabajo (Derecho laboral)",
+            "asignación por hijo con discapacidad",
+            "antigüedad en la afiliación",
+            "afiliación del trabajador (afiliados previsionales)",
+            "SIJP (Sistema Integrado de Jubilaciones y Pensiones)",
+            "asignación por hijo incapacitado (asignación por hijo con discapacidad)",
+            "prueba de servicios (cómputo de servicios)",
+            "Derecho laboral",
+            "SUSS (Sistema único de la seguridad social)",
+            "tiempo trabajado (antigüedad)",
+            "tiempo de servicio (antigüedad)",
+            "antigüedad"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "DNU C 000770 1996 07 15 0000 000 0000 000"
+          }
+        },
+        "texto": "el Decreto de Necesidad y Urgencia N. 770/96, que establece un nuevo régimen legal de Asignaciones Familiares, y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  es  necesario  fijar  los  montos, requisitos y condiciones de acceso  a  las prestaciones reguladas  por  el  nuevo  ordenamiento.\n\nQue la regulación de todos estos aspectos debe mantener congruencia  con los fines y objetivos que inspiran la modificación del régimen de asignaciones familiares, orientados a la redistribución  de  sus  recursos para favorecer a los sectores con menores  ingresos,  y  a la simplificación  del  actual  cuadro  de prestaciones que la adecuen  a  las  características actuales de la situación socio-económica.\n\nQue resulta particularmente importante,  en  resguardo  de  dichos objetivos,  el  énfasis  puesto  en  la  Asignación  por Hijo, y la duplicación  de  su  monto  para  los  trabajadores y jubilados  de menores  ingresos,  como  uno  de  los instrumentos  que  habrá  de contribuir eficazmente a acentuar el  componente redistributivo del sistema.\n\nPor ello, en virtud de lo dispuesto en  el  artículo 99, inciso 2, de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Art. 1: La asignación por maternidad consistirá  en el pago de una suma mensual igual a la remuneración que la trabajadora hubiera debido percibir en su empleo, que se abonará durante el  período de licencia legal correspondiente.\n\nPara el goce de esta asignación se requerirá una antigüedad  mínima y continuada en el empleo de TRES (3) meses."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2: La asignación por nacimiento o adopción consistirá en  el pago de  una  suma  que se abonará al trabajador o beneficiario del Sistema Integrado de  Jubilaciones  y Pensiones (SIJP) en el mes en que se acredite el nacimiento o la adopción.\n\nPara el goce de esta asignación se requerirá  una antigüedad mínima y  continuada  en  el  empleo  de  SEIS  (6) meses a la  fecha  del nacimiento o la adopción."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 022431 1981 03 16 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "Art. 3: La asignación por hijo consistirá  en  el pago de una suma mensual que se abonará al trabajador o beneficiario  del  SIJP  por cada  hijo  que  se  encuentre  a  su  cargo desde el momento de la concepción hasta los DIECIOCHO (18) años de edad.\n\nPara  el goce de esta asignación durante  el  período  anterior  al nacimiento  se  requerirá  una antigüedad mínima y continuada en el empleo de TRES (3) meses.\n\nCuando se tratare de hijo con  discapacidad,  en los términos de la ley 22.431, se podrá fijar un monto diferencial  en la prestación y no regirá el límite de edad."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "*Art.  4: A los fines de este Decreto, también serán  considerados como hijos,  los  menores  o personas con discapacidad cuya guarda, herencia o tutela haya sido  acordada  al trabajador o beneficiario del  Sistema  Integrado  de  Jubilaciones y  Pensiones  (SIJP)  por autoridad judicial o administrativa competente. En tales supuestos los padres que hubieran resultado desplazados de la repesentación legal o necesaria, no  tendrán  por  esos hijos derecho al cobro de las mencionadas asignaciones."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art. 5: Las asignaciones mensuales se harán  efectivas  juntamente con la remuneración cuando ésta sea de pago mensual.\n\nLa  Secretaría  de  Seguridad  Social  del MINISTERIO DE TRABAJO  Y SEGURIDAD  SOCIAL  DE  LA  NACION  se  encuentra    facultada  para establecer la forma de efectivizar las prestaciones en  caso de que la época de pago de la remuneración fuere diferente a la  descripta en el párrafo precedente."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6: El PODER EJECUTIVO NACIONAL se encuentra facultado  para regular  los   casos  de  pluricobertura;  establecer  coeficientes zonales diferenciados para aplicar sobre el monto de las prestaciones, y alícuota de las contribuciones."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7: Las prestaciones que establece este decreto son inembargables,  no  constituyen  remuneración  ni  están  sujetas a gravámenes  y tampoco serán tenidas en cuenta para la determinación del sueldo anual  complementario ni para el pago de indemnizaciones por despido, enfermedad,  accidente  o  para  cualquier otro efecto."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8: Los beneficiarios del Sistema Integrado  de Jubilaciones y Pensiones (SIJP) tendrán derecho a la percepción de las prestaciones establecidas en el presente decreto sin  necesidad  de gozar de antigüedad alguna."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art.  9:  Fíjase  el  monto  de  las prestaciones que otorga este decreto en los siguientes valores:\n\na) Asignación por nacimiento o adopción  PESOS  DOSCIENTOS  ($ 200).\n\nb)  Asignación por hijo PESOS CUARENTA ($ 40) para quienes perciban una remuneración  mensual que no exceda de PESOS QUINIENTOS ($ 500) y PESOS VEINTE ($ 20)  para quienes perciban una remuneración entre PESOS QUINIENTOS ($ 500) y PESOS MIL ($ 1.000).\n\nd) Asignación por hijo con discapacidad PESOS CIENTO VEINTE ($ 120)."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art. 10: Comuníquese,  publíquese,  dése  a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "FIRMANTES"
+      },
+      "id-infojus": "DN19960000771"
+    }
+  }
+}

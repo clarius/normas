@@ -1,0 +1,88 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g81-58200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584049169,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "6301-nacional-lnn0028518-1958-04-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028518",
+      "numero-norma": 6301,
+      "timestamp": "2013-06-07T12:43:15",
+      "timestamp-m": "2013-06-07T12:43:15",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1958-04-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 006301 1958 04 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO-LEY 6301/58",
+          "BUENOS AIRES, 29 DE ABRIL DE 1958"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1958 04 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A001819580959",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 6.301/58",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADO POR LEY 14777 (B.O. 29-12-58)-LEY PARA EL PERSONAL MILITAR"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "personal militar"
+          },
+          "preferido": {
+            "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/personal militar"
+          },
+          "sinonimos": {
+            "termino": [
+              "personal de las Fuerzas Armadas",
+              "personal de las fuerzas armadas y de seguridad",
+              "militares"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "militares (personal militar)",
+            "personal de las fuerzas armadas y de seguridad (personal militar)",
+            "personal militar",
+            "personal de las Fuerzas Armadas (personal militar)",
+            "derecho militar",
+            "Defensa nacional",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028518"
+    }
+  }
+}

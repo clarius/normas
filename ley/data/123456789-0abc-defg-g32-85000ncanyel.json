@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g32-85000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1619557691096,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17716-nacional-lnn0005823-1968-04-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005823",
+      "numero-norma": 17716,
+      "timestamp": "2021-04-27T17:56:44",
+      "timestamp-m": "2021-04-27T17:56:44",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-04-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017716 1968 04 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.716",
+          "BUENOS AIRES, 5 DE ABRIL DE 1968"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1968 05 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 05 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  028 B19681828",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.716",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-04-27",
+      "texto-original": {
+        "file-name": "N0005823.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005823pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION INMUEBLE EN LA CAPITAL DE LA PROVINCIA DE CORRIENTES PARA INSTALACION JUZGADO FEDERAL DE PRIMERA INSTANCIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005823"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g91-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1639134454577,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "6789-nacional-lnn0026319-1909-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026319",
+      "numero-norma": 6789,
+      "timestamp": "2021-12-10T07:11:41",
+      "timestamp-m": "2021-12-10T07:11:41",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1909-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 006789 1909 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 6789",
+          "BUENOS AIRES, 30 DE SETIEMBRE DE 1909"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1909 10 23"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190782",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 6.789",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2021-12-10",
+      "texto-original": {
+        "file-name": "N0026319.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0026319pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 8930 (B.O. 10-10-12)-DERECHOS DE ANALISIS- PRODUCTOS HIGIENICOS Y DE TOCADOR-"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "productos de tocador"
+          },
+          "preferido": {
+            "termino": "Actividades económicas/actividad industrial/productos de higiene personal/artículos de tocador"
+          },
+          "sinonimos": {
+            "termino": [
+              "productos de tocador",
+              "productos industriales",
+              "industria"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "productos de tocador (artículos de tocador)",
+            "productos industriales (actividad industrial)",
+            "productos de higiene personal",
+            "industria (actividad industrial)",
+            "artículos de tocador",
+            "Actividades económicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026319"
+    }
+  }
+}

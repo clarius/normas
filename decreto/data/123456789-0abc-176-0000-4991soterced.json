@@ -1,0 +1,638 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-176-0000-4991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1640723739231,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "671-nacional-disposiciones-caracter-general-aplicables-aeronavegacion-dn19940000671-1994-05-04"
+      }
+    },
+    "content": {
+      "mecanografico": 19940000671,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 671,
+      "timestamp": "2021-12-27T11:58:44",
+      "timestamp-m": "2021-12-27T11:58:44",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1994-05-04",
+      "standard-normativo": "DEC C 000671 1994 05 04",
+      "titulo-norma": "DISPOSICIONES DE CARACTER GENERAL APLICABLES A LA AERONAVEGACION.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 05 09"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 671/1994",
+      "analista": "Rocca, Adriana",
+      "estado": "Derogada",
+      "fecha-alta": "1995-04-05",
+      "fecha-mod": "2021-12-27",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTAN LAS NORMAS Y SE FIJAN LIMITES Y TOPES DE CARACTER GENERAL CON RELACION A LAS ACTIVIDADES DEL PERSONAL AERONAVEGANTE CIVIL SE DETERMINAN LOS ALCANCES, DEFINICIONES, PERIODOS DE ACTIVIDAD MAXIMA PARA EL TRANSPORTE AEREO REGULAR, NO REGULAR Y TRABAJO AEREO DESCANSOS MINIMOS, EXCEPCIONES Y DIPOSICIONES GENERALES",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 24/12/2021)",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000877 2021 12 23 0004 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "circulación aérea"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/circulación aérea"
+            },
+            "sinonimos": {
+              "termino": [
+                "aeronavegación",
+                "navegación aérea"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aeronaves"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/aeronaves"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte aéreo"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte aéreo"
+            },
+            "sinonimos": {
+              "termino": [
+                "aviación comercial",
+                "contrato de transporte aéreo",
+                "transporte aéreo comercial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "policía aeronáutica"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía de seguridad aeroportuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "policía aeronáutica",
+                "personal de seguridad",
+                "policía aeronáutica nacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "personal aeronáutico"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores aeronáuticos"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "personal aeronáutico"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ingreso al trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/ingreso al trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "antigüedad"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/cómputo de servicios/antigüedad"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "prueba de servicios",
+                "tiempo de servicio",
+                "reconocimiento de servicios",
+                "tiempo de servicios",
+                "tiempo trabajado"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aeropuertos"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/infraestructura aeronáutica/aeropuertos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "aportes patronales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/aportes y contribuciones previsionales/contribuciones patronales"
+            },
+            "sinonimos": {
+              "termino": [
+                "contribuciones previsionales",
+                "derecho de los recursos de la seguridad social",
+                "aportes patronales",
+                "obligaciones previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aterrizaje"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/circulación aérea/aterrizaje"
+            },
+            "sinonimos": {
+              "termino": [
+                "aeronavegación",
+                "navegación aérea"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "adicionales de remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración/remuneraciones accesorias/adicionales de remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "estímulos",
+                "plus",
+                "incentivos",
+                "salario",
+                "bonificaciones",
+                "sueldo",
+                "suplemento salarial",
+                "retribución",
+                "suplementos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "subsidio por desempleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo/seguro de desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "subsidio por desempleo",
+                "SUSS"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte aéreo",
+            "aportes y contribuciones previsionales",
+            "suplemento salarial (adicionales de remuneración)",
+            "personal de seguridad (fuerzas de seguridad)",
+            "circulación aérea",
+            "fuerzas de seguridad",
+            "navegación aérea (circulación aérea)",
+            "reconocimiento de servicios (cómputo de servicios)",
+            "obligaciones previsionales (aportes y contribuciones previsionales)",
+            "remuneración",
+            "tiempo de servicios (cómputo de servicios)",
+            "adicionales de remuneración",
+            "personal aeronáutico (trabajadores aeronáuticos)",
+            "policía aeronáutica (policía de seguridad aeroportuaria)",
+            "Sistema único de la seguridad social",
+            "defensa nacional (Defensa y seguridad)",
+            "contrato de transporte",
+            "Seguridad social",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "suplementos (adicionales de remuneración)",
+            "seguridad pública",
+            "bonificaciones (adicionales de remuneración)",
+            "ingreso al trabajo",
+            "prueba de servicios (cómputo de servicios)",
+            "SUSS (Sistema único de la seguridad social)",
+            "tiempo trabajado (antigüedad)",
+            "sueldo (remuneración)",
+            "policía aeronáutica nacional (policía de seguridad aeroportuaria)",
+            "tiempo de servicio (antigüedad)",
+            "aterrizaje",
+            "policía de seguridad aeroportuaria",
+            "recursos de la seguridad social",
+            "cómputo de servicios",
+            "transporte aéreo comercial (transporte aéreo)",
+            "estímulos (adicionales de remuneración)",
+            "plus (adicionales de remuneración)",
+            "sistema integral de prestaciones por desempleo y servicio de sepelio",
+            "contribuciones patronales",
+            "seguro de desempleo",
+            "subsidio por desempleo (seguro de desempleo)",
+            "Defensa y seguridad",
+            "contrato laboral (contrato de trabajo)",
+            "aportes patronales (contribuciones patronales)",
+            "actividades laborales",
+            "aviación comercial (transporte aéreo)",
+            "infraestructura aeronáutica",
+            "salario (remuneración)",
+            "aeronaves",
+            "policía",
+            "desocupación (desempleo)",
+            "trabajadores aeronáuticos",
+            "desempleo",
+            "contrato de transporte aéreo (transporte aéreo)",
+            "contribuciones previsionales (contribuciones patronales)",
+            "subsidios de la Seguridad Social",
+            "aeronavegación (circulación aérea)",
+            "Transporte",
+            "sistema integral de prestaciones por desempleo (sistema integral de prestaciones por desempleo y servicio de sepelio)",
+            "incentivos (adicionales de remuneración)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "Derecho laboral",
+            "Derecho aeronáutico",
+            "retribución (remuneración)",
+            "seguridad nacional (seguridad pública)",
+            "remuneraciones accesorias",
+            "antigüedad",
+            "aeropuertos"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "el Expediente N. 5.350.211 (FAA), lo informado por el señor Jefe del Estado Mayor General de la Fuerza Aérea, lo propuesto por el Señor Ministro de Defensa, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "TOR C 022520 1992 03 12 0018 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 017285 1967 05 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 022390 1981 02 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "TOR C 020744 1956 05 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "CCA C 017285 1967 05 17 0087 000 0000 000"
+            },
+            {
+              "cr": "EX-COMANDO EN JEFE DE LA FUERZA AEREA",
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "RES C 000571 1968 10 07 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que de conformidad con el Inciso 22 del Artículo 18 de la Ley de Ministerios -t.o. 1992- es atribución del Ministerio de Defensa entender en el registro, habilitación, fiscalización y dirección técnica de los actos y actividades vinculadas a la navegación por aire.\n\nQue el Título V del Código Aeronáutico (Ley 17.285 modificada por la Ley 22.390) legisla, entre otros temas, sobre el personal que realiza funciones aeronáuticas a bordo de aeronaves de matrícula argentina.\n\nQue las disposiciones de la Resolución N. 571 del ex COMANDO EN JEFE DE LA FUERZA AEREA, de fecha 7 de octubre de 1968, que raglamentan la actividad del personal aeronavegante civil en lo relativo a los tiempos máximos de la misma y a los correspondientes descansos mínimos necesarios, deben ser objeto de actualización, atento el lapso transcurrido desde su aprobación y el desarrollo tecnológico sobreviniente, en cuanto al moderno material de vuelo y su mayor autonomía de operación, lo cual ha generado nuevas situaciones que requieren un tratamiento acorde a la existencia de tales hechos.\n\nQue las normas cuyo dictado se propicia, constituyen un cuerpo orgánico que tiene por objeto preservar la seguridad de la operación de las aeronaves, en lo relativo a la actividad del personal que se desempeña a bordo en funciones técnicas y de seguridad, a órdenes del explotador.\n\nQue la fatiga que experimentan  las  tripulaciones con motivo o en ocasión del vuelo, constituye un factor  de fundamental ponderación respecto  a la seguridad del mismo, a cuyo  fin  resulta  necesario determinar  los períodos de actividad del personal, en lo que atañe a los tiempos máximos de servicios, de vuelo, de tareas específicas y,  asimismo,  al  lapso que, como tope, dicho personal permanecerá fuera del lugar habitual de residencia.\n\nQue, consecuentemente, es preciso  dictar  regulaciones  referidas al descanso mínimo  compatible  con  cada  una de las situaciones contempladas, con  el objeto de asegurar que los  efectos  que  la fatiga produce en el organismo  de las personas integrantes de las tripulaciones, se reduzcan a límites  aceptables  desde el punto de vista médico-aeronáutico, acorde con lo que aconseja la experiencia adquirida hasta el presente.\n\nQue es del caso señalar, que las normas a dictarse  se  relacionan en  forma directa  con la problemática de la fatiga y el cansancio de las tripulaciones, desde  el punto de vista médico-aeronáutico, prescindiéndose en el tratamiento de  las  cuestiones bajo examen, de lo inherente a la materia laboral del personal  aeronáutico,  ya que  la  misma  está  regida  por  la  Ley  de Contrato de Trabajo, convenios  colectivos, estatutos particulares,  etc. (Sistema  del Artículo 87 del Código Aeronáutico).\n\nQue teniendo  en cuenta la posibilidad de situaciones particulares que  puedan presentarse  con  motivo  de  las  características  de ciertos vuelos  y  a fin de preservar la seguridad de la operación aérea, la determinación  de los tiempos de descanso debe ser objeto de consideración especial.\n\nQue resulta conveniente que,  en  lo  futuro,  se  efectúen nuevos estudios  y se  propongan  a  este  régimen  las modificaciones  o innovaciones  que  la práctica aconseje, como consecuencia  de  la experiencia acumulada y  del progreso  tecnológico  que evidencien las nuevas aeronaves que se utilicen en el país.\n\nQue la decisión a adoptar se fundamenta en la atribución que el PODER EJECUTIVO NACIONAL tiene para reglamentar leyes nacionales, conferidas por los Incisos 1) y 2) del Artículo 86 de la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "titulo-articulo": "I - ALCANCE",
+          "texto": "Art. 1: La presente reglamentación establece las normas y fija límites  topes de  carácter general con relación a las actividades del personal aeronavegante civil.  Su  aplicación  y  cumplimiento corresponde  a  todos  los explotadores  de aeronaves y a todo  el personal que integre las tripulaciones de las  mismas.  La solución de  aquellos  casos  o situaciones no contempladas específicamente, deberá  ser  propuesta  para   su estudio  y  consideración a  la autoridad aeronáutica."
+        },
+        {
+          "numero-articulo": 2,
+          "titulo-articulo": "II - DEFINICIONES",
+          "texto": "Art. 2: A los efectos de la interpretación y aplicación de las presentes normas, se entiende por:\n\na) Aeronaves Clase A: Las  aeronaves  de  menos de SEISCIENTOS KILOMETROS  POR  HORA (600 Km./h) de velocidad, desarrollada  a  la altura óptima de operación  y  con  peso  máximo de aterrizaje.\n\nb)  Aeronave  Clase  B: Las de más de SEISCIENTOS  KILOMETROS  POR HORA(600 Km./h) de velocidad  y  hasta  número MACH 1 en las mismas condiciones señaladas en el inciso anterior.\n\nc) Base: Lugar donde el explotador tiene su centro de operaciones, al cual se encuentra afectado  con carácter permanente el miembro de la tripulación.\n\nd)  Descanso  nocturno normal: Abarca el lapso  comprendido  entre las 23:00 y las 06:00 hora local.\n\ne) Día calendario:  Intervalo  entero  que  corre  de medianoche a medianoche.\n\nf) Día horario: Intervalo de VEINTICUATRO (24) horas consecutivas.g) Explotador: Persona de existencia física  o  ideal, que  utiliza  legítimamente la aeronave por cuenta propia, aun sin fines de lucro.\n\nh) Medios de descanso a bordo  para  el  miembro de la tripulación de  vuelo: Lugares  e  instalaciones  que  ofrezcan   comodidad  e independencia, a fin de proporcionarle descanso durante  el  tiempo de vuelo.\n\ni)  Períodos de actividad: Períodos de VEINTICUATRO (24) y CUARENTA Y OCHO (48) horas  consecutivas,  de SIETE (7) días consecutivos, mensuales, trimestrales y anual calendario,  dentro  de  los cuales el    explotador programa  la  actividad  a  desarrollar  por  sus tripulaciones    y/o    la actividad  que  las  mismas  realizarán efectivamente.\n\nj) Tareas específicas: Tareas  inherentes  a las facultades que le confieren a su titular los certificados de idoneidad  otorgados por la  autoridad competente y que se cumplen en ocasión del  ejercicio de las mismas en la aeronave donde se desempeña.\n\nk) Tiempo  de descanso: Lapso durante el cual se releva al miembro de la tripulación,  de todas las tareas y obligaciones relacionadas con  su actividad al  finalizar    el   tiempo  de  servicio.\n\nl) Tiempo de servicio: Período durante el  cual  un  miembro de la tripulación está  a  disposición  del  explotador  en  actividades relacionadas con su empleo.\n\nEn el tiempo de servicio quedan incluidos, a título enunciativo, el tiempo de servicio de vuelo, el tiempo de instrucción en tierra, el tiempo de entrenador o de estudios realizados por encargo del explotador, el tiempo de traslado y el tiempo de guardia.\n\nm) Tiempo de servicio de vuelo:  Lapso  necesario  para  preparar, ejecutar y finalizar administrativamente un vuelo.\n\nSe calculará, según el horario establecido o previsto, desde  una hora antes de la  iniciación  del  vuelo o serie de vuelos, hasta media hora después de finalizado el o los mismos.\n\nn) Tiempo de vuelo: Lapso total transcurrido  desde  el momento en que la aeronave comienza a moverse por su propia fuerza con el objeto de despegar y hasta el momento en que se detiene al finalizar el vuelo.\n\n(Este tiempo es sinónimo de \"calza a calza\") ñ) Tiempo de vuelo en tareas específicas: Lapso durante el vuelo en el cual el titular del certificado de idoneidad ejerce en la aeronave las tareas inherentes a las facultades que le confieren dichos certificados.\n\no) Tiempo máximo fuera  de base: Cantidad máxima de días mensuales fuera de base, que el explotador  puede  programar al miembro de la tripulación  para el cumplimiento de su actividad  de  vuelo.\n\np) Tripulante: Persona a quien el explotador asigna obligaciones a cumplir a bordo, durante el tiempo de vuelo.\n\nq) Tripulación de vuelo: Persona o conjunto de personas que desempeñan funciones técnicas esenciales en la conducción de una aeronave.\n\nr) Tripulación de cabina: Personas empleadas por el explotador para desempeñar en la cabina de pasajeros funciones de seguridad y atención a los mismos."
+        }
+      ],
+      "segmento": [
+        {
+          "titulo-particion": "III  -  PERIODOS  DE ACTIVIDAD MAXIMA PARA TRANSPORTE AEREO REGULAR",
+          "articulo": [
+            {
+              "numero-articulo": 3,
+              "texto": "Art. 3: Estos períodos son los señalados en la Tabla que figura como \"Anexo I\" de esta reglamentación, en la cual se establecen los tiempos máximos de vuelo y de servicio de vuelo para las distintas tripulaciones de vuelo, por períodos de VEINTICUATRO (24) y CUARENTA Y OCHO (48) horas consecutivas y de SIETE (7) días consecutivos, mensual, trimestral y anual calendario, y según operen aeronaves Clase A o B."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art. 4: Los tiempos de vuelo y de servicio de vuelo fijados en la Tabla-Anexo I, para todos los períodos, constituyen limitaciones a la programación del explotador y a la actividad real del miembro de la tripulación."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "Art. 5: Las tripulaciones de vuelo VI y VII, deben contar con medios de descanso horizontal a bordo (Literas o similares). En caso contrario, los tiempos máximos de servicio de vuelo se ajustarán al de las tripulaciones III y IV, respectivamente (Tabla Anexo I)."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art.  6 : Las tripulaciones de vuelo VI y VII que no dispongan de los medios  expresados  en el Artículo 5, deberán contar a bordo con asiento para pasajeros para  su  exclusivo  uso, en la cantidad necesaria a fin de que sus integrantes lo puedan  ocupar durante el tiempo  que  no  se  encuentren desempeñando  tareas  específicas."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art. 7: La tripulación de vuelo IV que no cuente con los medios dispuestos en el Artículo 5, deberá ajustarse a lo determinado por el Artículo 6 y cumplirá los tiempos máximos de servicio de vuelo de la tripulación III de la Tabla-Anexo I."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art. 8 : Las tripulaciones de vuelo VI y VII de la Tabla-Anexo I  que no  dispongan  de  equipos  inerciales  de  navegación  o similares,  ajustarán los tiempos máximos de vuelo y de servicio de vuelo a lo de  las  tripulaciones  III y IV, respectivamente, de la Tabla mencionada."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art. 9: Las tripulaciones de vuelo podrán cumplir un tiempo de vuelo máximo, en sus respectivas tareas específicas, de hasta DIEZ (10) horas en un período de VEINTICUATRO (24) horas consecutivas.\n\nLos comandantes determinarán -en la documentación reglamentaria de a bordo- los turnos pertinentes, a los efectos de dar cumplimiento a lo aquí establecido."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "Art. 10 : El explotador determinará la cantidad y especialidad de los tripulantes  de cabina, de acuerdo con la clase de servicio a  prestar y de manera  que  su  tiempo  de  vuelo  en  sus  tareas específicas,  no  exceda de  DOCE  (12)  horas  en  un  período de VEINTICUATRO (24) horas consecutivas."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art. 11: El tiempo de vuelo que se efectúe en los períodos que corresponden al descanso nocturno normal no debe sumar más de CATORCE (14) horas en un lapso de SETENTA Y DOS (72) horas consecutivas."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "Art. 12: El tiempo de servicio de vuelo que transcurra dentro del período de descanso nocturno normal interrumpido, será disminuido a razón de QUINCE (15) minutos por cada hora o fracción de dicho período, hasta un máximo de DOS (2) horas por la totalidad del período, en los casos en que la tripulación cuente con medios de descanso a bordo. En las Aeronaves que no cuenten con dichos medios, sus tripulaciones verán disminuido su tiempo de servicio de vuelo, a razón de TREINTA (30) minutos por cada hora o fracción de período del descanso nocturno normal interrumpido, hasta un máximo de TRES HORAS TREINTA (3:30) por la totalidad del período."
+            },
+            {
+              "numero-articulo": 13,
+              "texto": "Art. 13: Cuando la aeronave, al iniciar el vuelo, no cuente con piloto automático y/o radar y/o cabina altimática, el tiempo de vuelo para el período de VEINTICUATRO (24) horas, será reducido en la forma que se indica a continuación:\n\na) Aeronave Clase A: Por falta de piloto automático y/o radar meteorológico: el DIEZ POR CIENTO (10 %).\n\nb) Aeronave Clase B: Por  falta  de  piloto  automático  y/o radar meteorológico: el QUINCE POR CIENTO (15 %).\n\nc) Aeronaves Clase A y B: Por falta de cabina altimática:  el DIEZ POR CIENTO (10 %).\n\nd) En caso de concurrencia: La limitación será el resultado  de la sumatoria de  los  porcentajes  respectivos,  hasta  un  máximo de VEINTE POR CIENTO (20 %) en la aeronave Clase A y en un VEINTICINCO (25 %) en la aeronave Clase B.\n\ne)  Por  falta  de  radar,  cuando  el  vuelo  pueda realizarse en condiciones meteorológicas \"sin restricciones\", no  se  aplicará la reducción."
+            },
+            {
+              "numero-articulo": 14,
+              "texto": "Art. 14: En el período de VEINTICUATRO (24) horas la cantidad máxima será de SEIS (6) aterrizajes. Dicha cantidad será disminuida  en  cualquier  condición y  en el período señalado, de acuerdo a lo que a continuación se indica:\n\na)  Hasta  DOS  (2)  horas  de  vuelo:  Un máximo  de  CUATRO  (4) aterrizajes o  hasta  SEIS (6) aterrizajes siempre  que  entre  el cuarto y los siguientes disponga  de  un  descanso no menor de UNA (1) hora.\n\nb) Entre DOS (2) y OCHO (8) horas de vuelo: Un máximo de SEIS (6) aterrizajes.\n\nc) Entre OCHO (8) y ONCE (11) horas de vuelo: Un máximo de CINCO (5) aterrizajes.\n\nd) Entre ONCE (11) y CATORCE (14) horas de vuelo: Un máximo de CUATRO (4) aterrizajes.\n\ne) Más de CATORCE (14) horas de vuelo: Un máximo de DOS (2) aterrizajes."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art.  15 : Cuando se programe la actividad de un miembro de la tripulación  para  que vuele en distintas tripulaciones y/o tipo de aeronaves, los tiempos de  vuelo  y  servicio  de vuelo a tener en cuenta,  serán  los  que correspondan  a  la  situación    en  que desarrolla la mayor parte de esa actividad."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art. 16 : El miembro de la tripulación que realiza un servicio de vuelo de  regreso  a  su base y se vence antes de llegar, podrá continuar en traslado en el  mismo vuelo como personal transportado y este lapso se computará como tiempo de servicio y será sumado al  tiempo de servicio de vuelo cumplido,  a los fines exclusivos de la determinación del descanso correspondiente."
+            },
+            {
+              "numero-articulo": 17,
+              "texto": "Art. 17 : En todas las tripulaciones integradas por TRES (3) o más pilotos,  por lo menos DOS (2) de ellos deben estar habilitados como pilotos para operar la aeronave en la ruta."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "Art. 18 : Se programará la actividad de la tripulación de vuelo de manera que,  en un período de TREINTA (30) días calendarios, no se exceda de DIECIOCHO (18) días fuera de base."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "IV  - PERIODOS DE ACTIVIDAD MAXIMA PARA TRANSPORTE AEREO NO REGULAR",
+          "articulo": [
+            {
+              "numero-articulo": 19,
+              "texto": "Art.  19 : En el período de VEINTICUATRO (24) horas, cuando la tripulación  esté  integrada por UN (1) piloto y disponga -entre un vuelo y otro- de un descanso  continuado  no  menor  de CUATRO (4) horas,  podrá  cumplir  hasta DIEZ (10) horas de vuelo, manteniendo los  tiempos  de  actividad    y descanso  correspondientes  a  la tripulación  N  I  del transporte aéreo regular  (Tabla-Anexo  I)."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "Art. 20 : En el caso de las tripulaciones formadas por DOS (2) pilotos  y UN  (1)  técnico  mecánico  de  a bordo, y por TRES (3) pilotos  y DOS (2) técnicos mecánicos de a bordo,  los  tiempos  de actividad  máxima  y  descanso  correspondientes  se regirán por la Tabla-Anexo II."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "V - PERIODOS DE ACTIVIDAD MAXIMA PARA TRABAJO AEREO",
+          "articulo": [
+            {
+              "numero-articulo": 21,
+              "texto": "Art.  21  : En las distintas formas de trabajo agro-aéreo, los explotadores y los  miembros  de  la tripulación se ajustarán a los tiempos máximos, en los períodos de  horas y días consecutivos, que se indican en la Tabla-Anexo III."
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "Art.  22  :  Los  valores  establecidos en la Tabla-Anexo III, únicamente serán de aplicación para aeronaves de diseño específico, respecto a las tareas de aeroaplicación. Para el resto de las aeronaves, se considerarán los  tiempos de SEIS (6) horas en VEINTICUATRO (24) horas, en etapas no mayores  de  TRES (3) horas, con un descanso no menor de UNA (1) hora."
+            },
+            {
+              "numero-articulo": 23,
+              "texto": "Art. 23 : En toda otra actividad de trabajo aéreo no comprendida  en  el Artículo 21, los explotadores y los miembros de las tripulaciones  se ajustarán  a  los  tiempos  máximos  -en los períodos  de  horas  y  días consecutivos- establecidos en la Tabla Anexo IV."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "VI - DESCANSOS MINIMOS",
+          "articulo": [
+            {
+              "numero-articulo": 24,
+              "texto": "Art. 24 : El descanso debe ser otorgado a partir de la hora de finalización  del  tiempo  de  servicio  de  vuelo  cumplido  en la actividad inmediata  anterior.  El  explotador debe otorgar -y los miembros  de la tripulación deben cumplir-  los  descansos  mínimos que establece la Tabla-Anexo V."
+            },
+            {
+              "numero-articulo": 25,
+              "texto": "Art. 25 : El explotador deberá dar instrucciones a los miembros de la tripulación  para  que  durante  los períodos de descanso se abstengan  de toda  otra actividad que contradiga  el  objeto  del mismo, siendo el tripulante el responsable del correcto cumplimiento del descanso."
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "Art. 26 : En el período de VEINTICUATRO (24) horas consecutivas,  al momento  de  iniciarse  el tiempo de servicio de vuelo programado, el miembro de la tripulación  deberá haber gozado de  un  descanso  previo,  en  base o fuera de ella, cuya  duración dependerá del tiempo de servicio  cumplido en las VEINTICUATRO (24) horas consecutivas inmediatamente anteriores,  según lo establecido en la Tabla-Anexo V."
+            },
+            {
+              "numero-articulo": 27,
+              "texto": "Art.  27  : Si el miembro de la tripulación se halla en base o fuera de ella y  va  a  disponer íntegramente del descanso nocturno normal,  el tiempo de descanso  que  le  corresponde  será  el  que establece  la  Columna  II de la Tabla-Anexo V. Si no va a disponer totalmente del descanso nocturno  normal, el tiempo de descanso que le corresponda será el que determina  la Columna III de la referida Tabla.  Cuando el tiempo de servicio de  vuelo  comprenda  más del CINCUENTA   POR  CIENTO  (50  %)  del  período  correspondiente  al descanso nocturno  normal  interrumpido  (23:00  a  06:00 horas) se adicionarán  DOS  (2) horas al tiempo indicado en la misma  Columna III para dichas horas de servicio."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "Art. 28 : Cuando un tripulante realice un vuelo por el que deba permanecer  fuera  de  base,  tendrá  a  su  regreso  un  descanso posterior cuya duración será equivalente al TREINTA POR CIENTO (30 %) de los días que permaneció  fuera de base, sin incluir en éstos los d ás de salida y llegada y hasta  un máximo de CUATRO (4) días.\n\nEn este descanso se considerará incluido el descanso correspondiente al servicio de vuelo de  llegada,  y  nunca  deberá ser menor que el establecido en el Anexo V."
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "Art.  29  : En el período de SIETE (7) días consecutivos, cada miembro de la tripulación debe disponer como mínimo de VEINTICUATRO (24)  horas consecutivas  de descanso en base o fuera de ella, respetándose los tiempos máximos  de  vuelo  de  la  Tabla Anexo I para dicho período."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "Art. 30 : En cada mes calendario, el miembro de la tripulación debe disponer  de  DIEZ (10) días de descanso, de los cuales por lo menos OCHO (8) deben  ser  de  descanso  en base. De estos últimos para servicios de cabotaje y países limítrofes-  TRES (3) deben ser continuados,  y  para  los demás servicios internacionales,  CUATRO (4) días serán continuados."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "Art. 31 : En cada año calendario, el miembro de la tripulación debe disponer  de  TREINTA  (30)  días  consecutivos  de  descanso vacaciones anuales-  que podrán tomarse en períodos no menores  de QUINCE (15) días.\n\nEn la estación del año  opuesta  a dichas vacaciones anuales, debe disponer además de DIEZ (10) días consecutivos  de  descanso  en la forma  en  que convenga  cada  explotador  con  el  miembro  de la tripulación.  Es obligatorio  el  goce  de los días de vacaciones."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "Art. 32 : En los aeródromos terminales y en los de escala donde -por horario-  se  producen  esperas relativamente prolongadas, el explotador debe disponer, cuando  así  fuere  posible,  de un lugar adecuado  con comodidad e independencia para el descanso momentáneo de los miembros de la tripulación."
+            },
+            {
+              "numero-articulo": 33,
+              "texto": "Art.  33  : En los vuelos transmeridianos, los miembros de las tripulaciones que  transpongan  más  de  CUATRO  (4) husos horarios hacia el este y/o SEIS (6) husos horarios hacia el  Oeste,  deberán tener:  a) VEINTICUATRO  (24)  horas  consecutivas de descanso por huso horario, luego de haber transpuesto  CUATRO (4) husos horarios desde la base hacia el este.\n\nb)  DOCE  (12)  horas  consecutivas  de  descanso  por  cada  huso horario, luego de haber transpuesto SEIS (6)  husos  horarios desde la base al oeste.\n\nc) DOCE (12) horas consecutivas de descanso por cada huso horario para aquellos vuelos de regreso a base, luego de haber transpuesto CUATRO (4) husos horarios hacia el este y/o SEIS (6) husos horarios hacia el oeste.\n\nd) Los tiempos de descanso especificados en a), b) y c), se iniciarán después de cumplir el tiempo de descanso mínimo establecido en la Tabla-Anexo V.\n\ne) Previo a la iniciación de los vuelos, deberán disponer de VEINTICUATRO (24) horas consecutivas sin haber cumplido tiempo de servicio."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "VII - EXCEPCIONES",
+          "articulo": [
+            {
+              "numero-articulo": 34,
+              "texto": "Art. 34: El presente régimen de excepciones que se establece, tiene como propósito la regulación del exceso de los tiempos máximos en actividad de vuelo, dentro de determinados límites y en circunstancias que lo justifiquen."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "Art. 35: Las excepciones podrán aplicarse a los tiempos máximos establecidos en la Tabla-Anexo I, en el período de VEINTICUATRO (24) horas pudiendo incrementarse hasta un VEINTE POR CIENTO (20 %)."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "CCA C 017285 1967 05 17 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 36,
+              "texto": "Art. 36: Las excepciones son aplicables en los casos previstos en el  Título VIII  del  Código  Aeronáutico  y,  además,  en:\n\na) Operaciones de auxilio, abastecimiento, evacuación, y en caso de emergencias producidas por desastres graves, tales como terremotos, inundaciones, naufragios, accidentes de aviación, etc.\n\nb) Situaciones de emergencia que obedezcan a problemas de defensa nacional."
+            },
+            {
+              "numero-articulo": 37,
+              "texto": "Art.  37  : Las excepciones también son admisibles, a criterio del comandante de  aeronave,  cuando  las  condiciones  y estado de fatiga  de  la tripulación posibiliten la terminación de un  vuelo que, debido a circunstancias  imprevistas  y  ajenas al explotador, no  haya  podido realizarse  de acuerdo al horario  establecido  e igualmente  podrá incrementar en  un  aterrizaje  más,  según  los máximos previstos  para las horas de vuelo."
+            },
+            {
+              "numero-articulo": 38,
+              "texto": "Art. 38 : Cuando se aplique el régimen de excepción previsto en este capítulo,  el  comandante  de  la aeronave deberá producir un informe circunstanciado al explotador.  Por  su  parte, éste deberá llevar un registro especial en el cual asentará tales  excepciones."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "VIII - DISPOSICIONES GENERALES Y FINALES",
+          "articulo": [
+            {
+              "numero-articulo": 39,
+              "texto": "Art.  39  :  El  personal aeronáutico de a bordo deberá llevar consigo la documentación  actualizada que acredite la actividad que realiza,  quedando obligado    a  presentarla  ante  la  autoridad competente cuando ésta lo requiera.  El explotador de aeronave, por su parte, deberá asegurar que su personal  dependiente  cumpla  con la obligaci nn anteriormente señalada."
+            },
+            {
+              "numero-articulo": 40,
+              "texto": "Art.  40  :  Cada  uno de los miembros de la tripulación podrá efectuar otra actividad de  vuelo  -remunerada o no- siempre que la misma  no  exceda la  suma total de los  tiempos  de  vuelo  y  de servicio establecidos en esta reglamentación."
+            },
+            {
+              "numero-articulo": 41,
+              "texto": "Art. 41 : El respectivo tripulante es el responsable de: a) No exceder los  límites máximos de horas de vuelo y de servicio en la suma  de  las actividades  que  desarrolla;  b)  Cumplir  con  los descansos correspondientes  a  dicha  suma  de actividades antes de iniciar, un nuevo vuelo; c) Notificar a cada uno de los explotadores involucrados las actividades cumplidas."
+            },
+            {
+              "numero-articulo": 42,
+              "texto": "Art.  42  :  El  explotador integrará las tripulaciones de sus aeronaves con  la  cantidad   mínima  que  fijen  las  respectivas reglamentaciones  de operaciones  y,  además,  con  la  cantidad  y especialidad de miembros  de tripulación  adicionales que resulten necesarias de acuerdo a la operación a que esté  afectada  cada una de las aeronaves."
+            },
+            {
+              "numero-articulo": 43,
+              "texto": "Art. 43: Cuando el explotador disponga o permita que un miembro de la tripulación de su dependencia efectúe otras tareas o servicios en tierra, ajenos a los específicos y afines que le correspondan como tal, deberá tener en cuenta que la extensión y frecuencia de los mismos no interfieran los descansos aquí establecidos ni constituyan factores concurrentes a la fatiga de vuelo. Igual obligación deberá adoptar el miembro de la tripulación, en la ejecución de tareas ajenas a su empleo y durante su período de descanso."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "Art. 44: Una vez designado un miembro para integrar una tripulación, en caso de producirse demora, el tiempo de servicio de vuelo comenzará a computarse conforme a lo establecido en el Artículo 2, inciso m) y se interrumpirá en el momento de ser notificado de tal demora.\n\nEl cómputo se reanudará a partir de la hora que corresponda a la presentación para la partida efectiva de la aeronave, adicionándose el primer lapso al segundo."
+            },
+            {
+              "numero-articulo": 45,
+              "texto": "Art. 45: Será considerado tiempo de servicio:\n\na) El tiempo que invierta cualquier miembro de la tripulación en instrucción y/o comprobación de cualquier índole en tierra, así como en otras actividades ordenadas por  el explotador, en relación con sus tareas específicas o empleo.\n\nb) El tiempo durante el cual el miembro de la tripulación se halle a disposición del explotador, en los aeródromos o lugar designado por el mismo, concrete o no su utilización en tareas a su servicio.\n\nc) El CINCUENTA  POR CIENTO (50 %) del tiempo en que el miembro de la tripulación se halle  -a  disposición del explotador- cumpliendo guardia en su domicilio. Este  tiempo se considerará sólo al efecto del  cómputo  semanal  y mensual de  sus  horas  de  servicio.\n\nd) El tiempo que invierta cualquier miembro de la tripulación para ser trasladado en vuelo, por conveniencia del explotador, a fin de tomar un servicio asignado o para regresar del mismo."
+            },
+            {
+              "numero-articulo": 46,
+              "texto": "Art. 46: El CINCUENTA POR CIENTO (50 %) del tiempo que un miembro de la tripulación invierta en equipos sintéticos de instrucción, será considerado como tiempo de vuelo solamente a los efectos  de esta reglamentación."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "CCA C 017285 1967 05 17 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 47,
+              "texto": "Art. 47: El incumplimiento de las normas contenidas en esta reglamentación por parte del explotador y/o miembros de la tripulación, dará lugar  a la aplicación de las sanciones previstas en el Capítulo I del Título  XIII  del Código  Aeronáutico  y  sus reglamentaciones."
+            },
+            {
+              "numero-articulo": 48,
+              "texto": "Art. 48: Cuando circunstancias de interés nacional o general así lo justifiquen, las partes involucradas, podrán proponer a la autoridad aeronáutica competente la consideración de casos especiales para resolver modos operativos que no estén contemplados en la presente reglamentación. La autoridad aeronáutica podrá autorizar en forma transitoria la operación solicitada por un período no mayor de UN (1) año."
+            },
+            {
+              "numero-articulo": 49,
+              "texto": "Art. 49: Teniendo en cuenta los cambios constantes que se producen en la tecnología de los medios aéreos y el avance en materia de investigación médico-aeronáutica, la autoridad competente revisará el contenido de la presente reglamentación en períodos no mayores de CUATRO (4) años, consultando a todos los sectores involucrados."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "TOR C 022520 1992 03 12 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 50,
+              "texto": "Art. 50: El MINISTERIO DE DEFENSA -ESTADO MAYOR GENERAL DE LA FUERZA AEREA- en los términos y con los alcances previstos en la Ley de Ministerios -t.o. 1992- será la Autoridad de Aplicación del presente decreto, la que determinará los órganos que tendrán a su cargo el control y la fiscalización del efectivo cumplimiento de dichas disposiciones legales."
+            },
+            {
+              "numero-articulo": 51,
+              "texto": "Art. 51: Facúltase al MINISTERIO DE DEFENSA para que por intermedio del ESTADO MAYOR GENERAL DE LA FUERZA AEREA -COMANDO DE REGIONES AEREAS y sus órganos dependientes- cumplimenten lo dispuesto en el Artículo 49 del presente decreto y dicte las eventuales adaptaciones, modificaciones o complementaciones del mismo."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": "ex-COMANDO EN JEFE DE LA FUERZA AEREA",
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "RES C 000571 1968 10 07 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 52,
+              "texto": "Art. 52: Derógase la Resolución N. 571 de fecha 7 de octubre de 1968 del ex-COMANDO EN JEFE DE LA FUERZA AEREA y toda norma que se oponga a la presente."
+            },
+            {
+              "numero-articulo": 53,
+              "texto": "Art. 53: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "MENEM - CAMILION - CAVALLO."
+          }
+        }
+      ],
+      "id-infojus": "DN19940000671"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g65-68200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584652025,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24345-nacional-lnn0028656-1994-06-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028656",
+      "numero-norma": 24345,
+      "timestamp": "2013-07-22T14:12:04",
+      "timestamp-m": "2013-07-22T14:12:04",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1994-06-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024345 1994 06 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY N. 24.345",
+          "BUENOS AIRES, 9 DE JUNIO DE 1994"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1994 07 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 07 08"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.345",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-07-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "IMPONE AL AEROPUERTO INTERNACIONAL DE RIO GALLEGOS EN NOMBRE DE \"PILOTO CIVIL NORBERTO FERNANDEZ\""
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "aeropuertos internacionales"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/infraestructura aeronáutica/aeropuertos/aeropuertos internacionales"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Río Gallegos"
+            },
+            "preferido": {
+              "termino": "Río Gallegos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "infraestructura aeronáutica",
+            "Río Gallegos",
+            "Derecho aeronáutico",
+            "aeropuertos",
+            "aeropuertos internacionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028656"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g56-66000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1594210140828,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16578-nacional-lnn0006665-1964-10-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006665",
+      "numero-norma": 16578,
+      "timestamp": "2020-07-08T08:42:32",
+      "timestamp-m": "2020-07-08T08:42:32",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1964-10-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016578 1964 10 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.578",
+          "BUENOS AIRES, 29 DE OCTUBRE DE 1964"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1964 11 24",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1964 11 24"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  024 C19642058",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.578",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-07-08",
+      "texto-original": {
+        "file-name": "N0006665.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006665pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CESION DE INMUEBLE EN CAPITAL FEDERAL PARA SEDE SOCIAL DEL CLUB ALMAGRO POR INTEMEDIO DE TRANSPORTES DE BUENOS AIRES (EN LIQUIDACION)"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006665"
+    }
+  }
+}

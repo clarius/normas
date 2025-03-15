@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g65-20000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1623063991936,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21446-nacional-lnn0000256-1976-10-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000256",
+      "numero-norma": 21446,
+      "timestamp": "2021-06-06T19:14:43",
+      "timestamp-m": "2021-06-06T19:14:43",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1976-10-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021446 1976 10 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.446",
+          "BUENOS AIRES, 27 DE OCTUBRE DE 1976"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1976 11 03",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 11 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  D003619762864",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.446",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-06-06",
+      "texto-original": {
+        "file-name": "N0000256.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0000256pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO MODIFICATORIA-SEGURIDAD SOCIAL-JUBILACIONES Y PENSIONES-DIRECCION NACIONAL DE RECAUDACION PREVISIONAL-MODIFICA LEY 20147- COMPLETA LEY 20147"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "jubilaciones y pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección Nacional de Recaudación Previsional"
+            },
+            "preferido": {
+              "termino": "Dirección Nacional de Recaudación Previsional"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "Dirección Nacional de Recaudación Previsional",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000256"
+    }
+  }
+}

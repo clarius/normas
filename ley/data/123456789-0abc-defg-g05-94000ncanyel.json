@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g05-94000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584047291,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19789-nacional-lnn0004950-1972-08-18"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004950",
+      "numero-norma": 19789,
+      "timestamp": "2013-08-22T13:20:49",
+      "timestamp-m": "2013-08-22T13:20:49",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-08-18",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019789 1972 08 18",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19.789",
+          "BUENOS AIRES, 18 DE AGOSTO DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 08 25",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 08 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  032 C19723416",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.789",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN INMUEBLE SITUADO EN MENDOZA PROPIEDAD DE ELVIRA VIDELA DE CAPETILLO DESTINADO AL MINISTERIO DE OBRAS Y SERVICIOS PUBLICOS."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004950"
+    }
+  }
+}

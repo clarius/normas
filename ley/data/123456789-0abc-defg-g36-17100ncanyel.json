@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g36-17100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627945621095,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17527-nacional-lnn0017163-1967-11-08"
+      }
+    },
+    "content": {
+      "mecanografico": "N0017163",
+      "numero-norma": 17527,
+      "timestamp": "2021-08-02T19:55:24",
+      "timestamp-m": "2021-08-02T19:55:24",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-11-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017527 1967 11 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.527",
+          "BUENOS AIRES, 8 DE NOVIEMBRE DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 11 14",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 11 14"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 C19672817",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.527",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-08-02",
+      "texto-original": {
+        "file-name": "N0017163.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0017163pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-MORATORIA PREVISIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "moratoria previsional"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/aportes y contribuciones previsionales/extinción de la obligación previsional/regularización previsional/moratoria previsional"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen de normalización previsional",
+                "derecho de los recursos de la seguridad social",
+                "obligaciones previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "recursos de la seguridad social",
+            "aportes y contribuciones previsionales",
+            "moratoria previsional",
+            "régimen de normalización previsional (regularización previsional)",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "obligaciones previsionales (aportes y contribuciones previsionales)",
+            "regularización previsional",
+            "Seguridad social",
+            "extinción de la obligación previsional"
+          ]
+        }
+      },
+      "id-infojus": "LNN0017163"
+    }
+  }
+}

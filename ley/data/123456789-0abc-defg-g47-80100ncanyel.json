@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g47-80100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1560960599338,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "7377-nacional-lnn0010874-1910-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0010874",
+      "numero-norma": 7377,
+      "timestamp": "2019-06-19T12:06:38",
+      "timestamp-m": "2019-06-19T12:06:38",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1910-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 007377 1910 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 7.377",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1910"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1910 10 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1910 10 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190802",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 7.377",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-06-19",
+      "texto-original": {
+        "file-name": "N0010874.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0010874pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PREMIO A CARLOS SMITH POR SERVICIOS PRESTADOS"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "premios"
+          },
+          "preferido": {
+            "termino": "Derecho laboral/contrato de trabajo/remuneración/remuneraciones accesorias/gratificaciones"
+          },
+          "sinonimos": {
+            "termino": [
+              "contrato laboral",
+              "derecho del trabajo",
+              "salario",
+              "sueldo",
+              "premios",
+              "retribución"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "premios (gratificaciones)",
+            "salario (remuneración)",
+            "Derecho laboral",
+            "retribución (remuneración)",
+            "sueldo (remuneración)",
+            "gratificaciones",
+            "remuneración",
+            "remuneraciones accesorias",
+            "contrato laboral (contrato de trabajo)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo"
+          ]
+        },
+        "invalidos": {
+          "termino": "SERVICIOS"
+        }
+      },
+      "id-infojus": "LNN0010874"
+    }
+  }
+}

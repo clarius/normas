@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g92-24000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043272501,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21827-nacional-lnn0004229-1978-06-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004229",
+      "numero-norma": 21827,
+      "timestamp": "2019-04-23T14:41:20",
+      "timestamp-m": "2019-04-23T14:41:20",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1978-06-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021827 1978 06 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.827",
+          "BUENOS AIRES, 27 DE JUNIO DE 1978"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1978 06 30",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1978 06 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  038 C19782366",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.827",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0004229.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0004229pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "RATIFICACION DE ENAJENACIONES DE DIVERSOS INMUEBLES DEL CONSEJO NACIONAL DE EDUCACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004229"
+    }
+  }
+}

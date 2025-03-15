@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g09-60200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1624532729136,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19907-nacional-lnn0020690-1972-10-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020690",
+      "numero-norma": 19907,
+      "timestamp": "2021-06-24T07:09:49",
+      "timestamp-m": "2021-06-24T07:09:49",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-10-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019907 1972 10 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19907",
+          "BUENOS AIRES, 23 DE OCTUBRE DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 10 30",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 10 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  032 D19725089",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.907",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-06-24",
+      "texto-original": {
+        "file-name": "N0020690.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0020690pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-PRORROGA PLAZO PARA FORMULACION DE DENUNCIAS Y RENOVACION DE CONVENCIONES COLECTIVAS DE TRABAJO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "negociación colectiva"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/negociación colectiva"
+            },
+            "sinonimos": {
+              "termino": "derecho del trabajo"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "convenciones colectivas de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/negociación colectiva/convenios colectivos de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "convenciones colectivas de trabajo",
+                "convención colectiva",
+                "convenio colectivo"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "convención colectiva (convenios colectivos de trabajo)",
+            "convenios colectivos de trabajo",
+            "Derecho laboral",
+            "convenciones colectivas de trabajo (convenios colectivos de trabajo)",
+            "derecho colectivo del trabajo",
+            "convenio colectivo (convenios colectivos de trabajo)",
+            "negociación colectiva",
+            "derecho del trabajo (Derecho laboral)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020690"
+    }
+  }
+}

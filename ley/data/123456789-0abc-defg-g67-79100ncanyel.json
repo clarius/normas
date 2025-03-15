@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g67-79100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1593000495998,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12761-nacional-lnn0019776-1942-09-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0019776",
+      "numero-norma": 12761,
+      "timestamp": "2020-06-24T08:53:50",
+      "timestamp-m": "2020-06-24T08:53:50",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1942-09-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012761 1942 09 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 12761",
+          "BUENOS AIRES, 1 DE SETIEMBRE DE 1942"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1942 09 16",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1942 09 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  002 019420020",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.761",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-24",
+      "texto-original": {
+        "file-name": "N0019776.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0019776pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZACION AL PRESIDENTE DE LA REPUBLICA PARA AUSENTARSE DE LA CAPITAL Y DEL PAIS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "autorización para salir del país"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/salida del país/viaje al exterior/autorización para viajar"
+            },
+            "sinonimos": {
+              "termino": [
+                "autorización para salir del país",
+                "autorización para viajar al exterior"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "presidente de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/Poder Ejecutivo Nacional/presidencia de la Nación/presidente de la Nación"
+            },
+            "sinonimos": {
+              "termino": "poderes públicos"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presidencia de la Nación",
+            "presidente de la Nación",
+            "autorización para viajar",
+            "poderes del Estado",
+            "Poder Ejecutivo Nacional",
+            "autorización para viajar al exterior (autorización para viajar)",
+            "autorización para salir del país (autorización para viajar)",
+            "Derecho constitucional",
+            "salida del país",
+            "Poder Ejecutivo",
+            "poderes públicos (poderes del Estado)",
+            "migraciones",
+            "Derecho administrativo",
+            "viaje al exterior"
+          ]
+        }
+      },
+      "id-infojus": "LNN0019776"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g44-30200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1609240369082,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12888-nacional-lnn0020344-1946-11-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020344",
+      "numero-norma": 12888,
+      "timestamp": "2020-12-29T06:49:00",
+      "timestamp-m": "2020-12-29T06:49:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1946-11-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012888 1946 11 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 012888",
+          "BUENOS AIRES 15 DE NOVIEMBRE DE 1946"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1947 06 17",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1947 06 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  006 O19460023",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.888",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-12-29",
+      "texto-original": {
+        "file-name": "N0020344.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0020344pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SE ABRE UN CREDITO DE $160000 PARA CUBRIR LOS GASTOS DE LA MISION ARGENTINA A LAS FIESTAS DE TRANSMISION DEL MANDO EN LA REPUBLICA DE LOS ESTADOS UNIDOS DEL BRASIL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020344"
+    }
+  }
+}

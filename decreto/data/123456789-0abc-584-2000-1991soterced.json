@@ -1,0 +1,433 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-584-2000-1991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989366026,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "2485-nacional-decreto-reglamentario-ley-23966-sobre-impuesto-combustibles-dn19910002485-1991-11-25"
+      }
+    },
+    "content": {
+      "mecanografico": 19910002485,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 2485,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1991-11-25",
+      "standard-normativo": "DEC C 002485 1991 11 25",
+      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY 23.966 SOBRE IMPUESTO A LOS COMBUSTIBLES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1991 12 09"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 7",
+            "id": "DEROGA A0",
+            "ref": "DEC C 002733 1990 00 00 0000 000"
+          },
+          {
+            "cr": "POR ART. 8",
+            "id": "DEROGA A1",
+            "ref": "DEC C 008946 1969 00 00 0000 000"
+          },
+          {
+            "cr": "POR ART. 8",
+            "id": "DEROGA A2",
+            "ref": "DEC C 003368 1973 00 00 0000 000"
+          },
+          {
+            "cr": "POR ART. 8",
+            "id": "DEROGA A3",
+            "ref": "DEC C 001978 1979 00 00 0000 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "SUSTITUYE ART. 2 B.O. 15-04-96",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 000402 1996 04 12 0002 000"
+          },
+          {
+            "cr": "B.O. 27-01-1998",
+            "id": "DEROGADO POR1",
+            "ref": "DEC C 000074 1998 01 22 0003 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 2485/1991",
+      "estado": "Derogada",
+      "fecha-alta": "2003-05-23",
+      "fecha-mod": "2003-07-14",
+      "uid-alta": "SAUID",
+      "uid-mod": "SAUID",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA EL ARTICULO 7 DE LA LEY 23966 POR EL CUAL SE CREO EL IMPUESTO SOBRE LOS COMBUSTIBLES.",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "B.O. 27-01-1998",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000074 1998 01 22 0003 000 0000 000"
+          }
+        },
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 023966 1991 08 01 0007 000 0007 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 9"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuesto a los combustibles líquidos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuesto sobre los combustibles líquidos y el gas natural"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "impuesto a los combustibles líquidos",
+                "impuesto a los combustibles gaseosos",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contribuyentes"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/sujetos imponibles/contribuyentes"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "sujetos de los deberes impositivos",
+                "sujetos pasivos del impuesto",
+                "responsables por deuda propia",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "hecho imponible"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria/hecho imponible"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "obligación impositiva",
+                "derecho fiscal",
+                "hecho imponible tributario",
+                "acto imponible",
+                "obligaciones fiscales",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "base imponible"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/obligación tributaria/hecho imponible/base imponible"
+            },
+            "sinonimos": {
+              "termino": [
+                "deberes fiscales",
+                "obligación impositiva",
+                "derecho fiscal",
+                "base imponible tributaria",
+                "base de cálculo",
+                "hecho imponible tributario",
+                "monto imponible",
+                "acto imponible",
+                "obligaciones fiscales",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección General Impositiva"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/AFIP/AFIP DGI"
+            },
+            "sinonimos": {
+              "termino": [
+                "Administración Federal de Ingresos Públicos",
+                "DGI",
+                "Administración Federal de Ingresos Públicos Dirección General Impositiva",
+                "Dirección General Impositiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "delegación de facultades"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Administración Pública/facultades de la administración/facultades reglamentarias/delegación de facultades a la Administración"
+            },
+            "sinonimos": {
+              "termino": [
+                "potestad reglamentaria",
+                "potestades administrativas",
+                "función pública",
+                "facultades de la administración pública",
+                "delegación de facultades"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "combustibles"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/combustibles"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "exenciones impositivas"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/beneficios tributarios/exenciones impositivas"
+            },
+            "sinonimos": {
+              "termino": [
+                "franquicias tributarias",
+                "exenciones tributarias",
+                "derecho fiscal",
+                "exención de pago del impuesto",
+                "beneficios impositivos",
+                "derecho público fiscal",
+                "exenciones de tasas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "derivados del petróleo"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos minerales/minería/productos mineros/hidrocarburos/petróleo/derivados del petróleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "actividad minera",
+                "Derecho Minero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "facultades de la administración pública (facultades de la administración)",
+            "AFIP",
+            "Derecho Tributario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "delegación de facultades (delegación de facultades a la Administración)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "impuesto sobre los combustibles líquidos y el gas natural",
+            "Derecho tributario y aduanero",
+            "exención de pago del impuesto (exenciones impositivas)",
+            "tributos",
+            "sujetos pasivos del impuesto (sujetos imponibles)",
+            "combustibles",
+            "impuesto a los combustibles gaseosos (impuesto sobre los combustibles líquidos y el gas natural)",
+            "acto imponible (hecho imponible)",
+            "base imponible tributaria (base imponible)",
+            "franquicias tributarias (exenciones impositivas)",
+            "derecho fiscal (Derecho Tributario)",
+            "base imponible",
+            "Derecho administrativo",
+            "DGI (AFIP DGI)",
+            "potestades administrativas (facultades de la administración)",
+            "monto imponible (base imponible)",
+            "gravámenes (tributos)",
+            "facultades de la administración",
+            "exenciones de tasas (exenciones impositivas)",
+            "delegación de facultades a la Administración",
+            "base de cálculo (base imponible)",
+            "Administración Federal de Ingresos Públicos Dirección General Impositiva (AFIP DGI)",
+            "exenciones impositivas",
+            "Administración Pública",
+            "derivados del petróleo",
+            "contribuyentes",
+            "productos mineros",
+            "sujetos imponibles",
+            "acto administrativo",
+            "hecho imponible tributario (hecho imponible)",
+            "Derecho Minero (minería)",
+            "petróleo",
+            "hidrocarburos",
+            "deberes fiscales (obligación tributaria)",
+            "beneficios tributarios",
+            "decreto reglamentario",
+            "facultades reglamentarias",
+            "sujetos de los deberes impositivos (sujetos imponibles)",
+            "obligaciones fiscales (obligación tributaria)",
+            "reglamentos",
+            "derecho público fiscal (Derecho Tributario)",
+            "hecho imponible",
+            "recursos minerales",
+            "responsables por deuda propia (contribuyentes)",
+            "obligación tributaria",
+            "AFIP DGI",
+            "obligación impositiva (obligación tributaria)",
+            "actividad minera (minería)",
+            "Dirección General Impositiva (AFIP DGI)",
+            "potestad reglamentaria (facultades reglamentarias)",
+            "recursos energéticos",
+            "acto administrativo de alcance general",
+            "reglamento administrativo (reglamentos)",
+            "minería",
+            "Recursos naturales",
+            "función pública (Administración Pública)",
+            "beneficios impositivos (beneficios tributarios)",
+            "Administración Federal de Ingresos Públicos (AFIP)",
+            "impuesto a los combustibles líquidos (impuesto sobre los combustibles líquidos y el gas natural)",
+            "impuestos",
+            "exenciones tributarias (exenciones impositivas)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 023966 1991 08 01 0007 000 0000 000"
+          }
+        },
+        "texto": "lo  dispuesto  por  el  artículo  7  de  la  Ley  N. 23.966, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023966 1991 08 01 0007 000 0008 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 023966 1991 08 01 0004 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 023966 1991 08 01 0021 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 001212 1989 11 08 0017 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  resulta  necesario  reglamentar  las  disposiciones  del impuesto aprobado por el mencionado artículo 7.\n\nQue   se  estima  conveniente  facultar  a  la  DIRECCION  GENERAL IMPOSITIVA  para  establecer  el  régimen de inventario permanente, como  asimismo,  establecer  las  tolerancias    por   faltantes  o excedentes de productos gravados.\n\nQue  corresponde  hacer  uso  de  la  facultad  dispuesta  por  el artículo 8 del mencionado texto, para exceptuar del impuesto  a los combustibles  que  se  destinen a las usinas eléctricas de servicio público.\n\nQue resulta procedente  aclarar  sobre  qué bases imponibles deben aplicarse las tasas mencionadas en el inciso  a)  del  artículo  21 del  texto  que  se  reglamenta,  para la etapa de comercialización mayorista  de  combustibles  líquidos  y  la  distribución  de  gas natural por redes.\n\nQue,  además, debe cumplimentarse  lo  dispuesto  por  el  segundo párrafo del artículo 4 del texto del referido impuesto, determinando    las   características  técnicas  de  los  productos gravados.\n\nQue  al respecto debe  tenerse  en  cuenta  lo  dispuesto  por  el artículo  17,  del Decreto N. 1212 de fecha 8 de noviembre de 1989.\n\nQue,  en consecuencia,  las  caracterizaciones  pertinentes  deben contemplar  dicha  normativa,  correspondiendo  pues  asignarle  un carácter genérico.\n\nQue    el  presente  se  dicta  haciendo  uso  de  las  facultades conferidas  por  los  artículos  4,  7  y  8 del texto del impuesto aprobado por el artículo 7 de la Ley N. 23.966 y  por  el  artículo 86, inciso 1, de la CONSTITUCION NACIONAL."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 023988 1991 08 21 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "Art. 1: A los fines de la aplicación del inciso b) del artículo 3 del  texto  del  impuesto aprobado por el artículo 7 de la Ley N.\n\n23.966 modificada por  la  Ley  N.  23.988,  se  dispone  que:\n\na)  Las  empresas  que  refinen  combustibles  líquidos  y/u otros derivados  de  hidrocarburos  en  todas  sus  formas,  consideradas sujetos pasivos, son aquéllas que refinen petróleo crudo  y/u otros cortes  de  petróleo  o  las  que  elaboren  los  productos  que se detallan  en el artículo 4, Capítulo I (Combustibles Líquidos),  en plantas de  refinación  o elaboración propias y estén inscriptas en el  Registro  de  Empresas  Petroleras    de  la  SUBSECRETARIA  DE COMBUSTIBLES DE LA NACION.\n\nb)  La  marca  propia a que se refiere el apartado  3  del  tercer párrafo  del  inciso   b)  del  mencionado  artículo  deberá  estar inscripta en el \"Registro  de  Marcas  y Patentes\" y las estaciones de  servicio  que  comercialicen  los  productos  gravados  deberán hacerlo  con  exclusividad de marca, exhibiendo  ésta  en  todo  el ámbito  de  la estación  de  servicio  (surtidores,  marquesinas  y carteles).\n\nc) Se entiende  por  las  plantas  de  almacenaje  y  despacho  de combustibles  acordes con los volúmenes que se comercialicen, a los fines  del  apartado  4  del  tercer  párrafo  del  inciso  b)  del mencionado art  cculo,  a  aquéllas  que  sean  de  propiedad de la empresa  comercializadora y cuya capacidad de almacenamiento  total sea equivalente  a  no  menos  de  TREINTA  (30)  días de ventas de productos  gravados,  computándose a tal fin el promedio  de  venta diaria de los últimos TRES  (3)  meses  calendarios anteriores a la presentación y no menor a DIEZ MIL METROS  CUBICOS  (10.000  m3). A tal  efecto  no  se computará la capacidad de almacenamiento de las estaciones de servicio  ni  de  las  unidades  de  transporte.\n\nd) La empresa comercializadora que solicite la inscripción  en  el Registro  de  Empresas  Petroleras  prevista  en  el apartado 2 del tercer  párrafo  del  inciso  b)  del  artículo  mencionado  deberá acreditar  ante la SUBSECRETARIA DE COMBUSTIBLES un  patrimonio  no inferior  al   impuesto  más  alto  creado  por  la  Ley  N  23.966 modificada por  la  LeyN.  23.988 sobre un volumen de CINCUENTA MIL METROS CUBICOS (50.000  m3) de combustible.\n\nLa inscripción en este carácter  será  otorgada por el plazo de UN (1) año y caducará automáticamente al vencimiento  del  mismo. Para su  renovación  los  interesados  deberán acreditar el cumplimiento actual de las condiciones fijadas precedentemente."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "* Art.  2:  A  los efectos de la aplicación y liquidación del gravamen sobre los combustibles líquidos y otros derivados del petróleo, a que se refiere el artículo 4 del texto del impuesto aprobado  por el artículo 7 del Título III de la Ley N. 23.966 y sus modificaciones, quedan comprendidos en el régimen los siguientes hidrocarburos y  derivados de hidrocarburos, entendiéndose que estas definiciones lo son al solo efecto fiscal y no afectan las facultades de la SECRETARIA DE ENERGIA Y TRANSPORTE dependiente del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS para establecer especificaciones técnicas para la comercialización de combustibles que se consumen en el país.\n\nNAFTA:  Toda  mezcla  de  hidrocarburos  livianos apta  para  su utilización  en  motores térmicos de combustión interna, a  volumen constante, para el accionamiento de vehículos. La separación de productos con más de 92 RON (número de octano método research) deberá realizarse mediante norma ASTM D 2699 o IRAM-IAP A 6527.\n\nNAFTA SIN PLOMO: Podrá admitir hasta un máximo de TRECE MILESIMOS (0,013) gramos de plomo por litro, medidos según norma ASTM D 3116 o IRAM-IAP A 6521.\n\nLas  empresas  productoras y comercializadoras  identificarán  los tipos y calidades de naftas de su elaboración y/o comercialización, para  su  caracterización  de  conformidad a las disposiciones del citado artículo 4, incluyéndola en los surtidores de despacho.\n\nKEROSENE:  Toda  mezcla  de hidrocarburos intermedios  básicamente apta para y destinada a su  utilización en artefactos domésticos de calefacción  o de cocina, que  presente  las  condiciones  técnicas necesarias para  tal destino en condiciones aceptables de seguridad y eficiencia.\n\nGAS  OIL:  Toda  mezcla   de  hidrocarburos  intermedios  para  su utilización en motores térmicos  de  combustión  interna  a presión constante,  para el accionamiento de vehículos y maquinarias,  cuyo índice de cetano método ASTM D 976 o IRAM-IAP A 6682 no sea inferior a CUARENTA Y CINCO (45).\n\nDIESEL  OIL:  Toda  mezcla  de  hidrocarburos    intermedios   y/o residuales   apta  para  su  utilización  en  motores  térmicos  de combustión interna  a  presión  constante, para el accionamiento de vehículos,  maquinarias  o  en  plantas    de  energía  térmica  de combustión externa, cuyo índice de cetano método ASTM D 976 o IRAM-IAP A 6682 sea inferior a CUARENTA Y CINCO (45).\n\nFUEL OIL: Toda mezcla  de hidrocarburos pesados y/o residuales con características térmicas  adecuadas para su utilización en calderas o plantas de energía térmica  de  combustión externa y/o grandes motores de combustión interna  a  presión  constante.\n\nSOLVENTES:  Todo  hidrocarburo o mezcla de hidrocarburos derivados del petróleo, sin contenido de plomo, con límites de destilación especialmente seleccionados, para  uso industrial, químico y/o doméstico, cuya curva de destilación método ASTM D 86 o IRAM-IAP A 6600, tenga un punto inicial mínimo de CUARENTA GRADOS CENTIGRADOS (40 C) y un punto seco máximo de CIENTO CINCUENTA  GRADOS  CENTIGRADOS (150 C).\n\nAGUARRAS: Toda mezcla de hidrocarburos y destilados base derivados de petróleo, para uso industrial, químico  y/o doméstico cuya curva de destilación, método ASTM D 86 o IRAM-IAP 6600, tenga un punto inicial mínimo a CIENTO CUARENTA Y CINCO GRADOS CENTIGRADOS (145 C) y alcance un punto seco máximo de DOSCIENTOS SESENTA GRADOS CENTIGRADOS (260 C).\n\nGASOLINA NATURAL: Toda mezcla de hidrocarburos líquidos a VEINTICINCO GRADOS CENTIGRADOS (25 C) y presión atmosférica, extraída del gas natural en los separadores de líquidos y las plantas de tratamientos, quedando exceptuadas aquellas mezclas formadas mayoritariamente por propano y butano.\n\nNAFTA VIRGEN: Toda mezcla de hidrocarburos livianos obtenida por destilación directa a presión atmosférica del petróleo y cuya curva de destilación método ASTM D 86 o IRAM-IAP A 6600, tenga un punto inicial mínimo de VEINTICINCO GRADOS CENTIGRADOS (25 C) y un punto final máximo de DOSCIENTOS VEINTICINCO GRADOS CENTIGRADOS (225 C)."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3:  Aquellos  productos  cuyas especificaciones técnicas permitan  eventualmente  clasificarlos    en  más  de  una  de  las categorías  definidas  en el artículo 2, se considerarán  incluidos en la categoría gravada  con  el  mayor  monto  de  impuesto.\n\nLos  gravámenes  a los combustibles líquidos y otros derivados del petróleo se considerarán devengados cualquiera fuere la denominación con que  el  producto  se  comercialice,  debiendo los responsables    legales   proceder  a  su  liquidación  e  ingreso, atendiendo  exclusivamente   a  las  características  técnicas  del producto y a las pautas que este decreto establece."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4: Facúltase a la DIRECCION GENERAL IMPOSITIVA para:\n\na)  establecer  el  régimen  de  inventario  permanente  para  los responsables;\n\nb) fijar  las  tolerancias  por  faltantes o excedentes producidos por causas naturales, en refinerías  y depósitos o en el traslado o empleo de combustibles."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5:  En uso de la facultad otorgada por el artículo 8 del texto del impuesto  aprobado  por el artículo 7 de la Ley N.23.966, exceptúase del impuesto creado  por  dicha  ley  al Gas Oil, Diesel Oil  y  Fuel  Oil  cuando  sean empleados como combustibles  en  la generación de energía eléctrica  para  servicios públicos, hasta el 31 de diciembre de 1992."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6: En relación a lo dispuesto en el inciso b) del artículo 21 del  texto  del  impuesto aprobado por el artículo 7 de la Ley N 23.966, respecto a las  bases  imponibles  sobre las que se aplican las  tasas  referidas  en  el inciso a) de dicho  artículo  21,  se aclara que:\n\na)  La  etapa  de  comercialización    mayorista  de  combustibles líquidos  estará  sujeta  a  la  misma  tasa máxima  que  la  etapa industrial  y  la base imponible será el valor  agregado  en  dicha etapa, excluidos  el impuesto al valor agregado y el impuesto sobre los combustibles líquidos.\n\nb) La base imponible  para  el  caso  de  la  tarifa  domiciliaria cuando  se  trate  de gas natural distribuido por redes excluye  al impuesto al valor agregado,  al impuesto aprobado por el artículo 7 de la Ley N.23.966 y a los tributos  locales  que  graven consumos, utilización   de  espacios  públicos  o  cualquier  otro  concepto."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art.  7:  Derógase  el  Decreto  N. 2.733/90 a partir del 1 de setiembre de 1991."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art. 8: Las disposiciones del presente decreto tendrán vigencia a partir  del  1  de setiembre de 1991 excepto lo dispuesto por los artículos 2 y 3, cuya  vigencia  operará  a  partir  del primer día hábil del mes siguiente al de su publicación en el Boletín Oficial.\n\nDesde  la  misma  fecha quedarán derogados los Decretos N.8946/69, N.3368/73 y N.1998/79  y  toda norma de igual o menor jerarquía que se oponga a lo establecido en el presente."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art.  9: Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-CAVALLO"
+      },
+      "id-infojus": "DN19910002485"
+    }
+  }
+}

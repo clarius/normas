@@ -1,0 +1,120 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g96-54200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584457864,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1809-nacional-lnn0024569-1886-09-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024569",
+      "numero-norma": 1809,
+      "timestamp": "2013-06-07T12:43:23",
+      "timestamp-m": "2013-06-07T12:43:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1886-09-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001809 1886 09 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1809",
+          "BUENOS AIRES, 25 DE SETIEMBRE DE 1886"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1886 09 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880198",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.809",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "texto-original": {
+        "file-name": "N0024569.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0024569html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-NUEVO REGIMEN POR LEY 1901-JERARQUIA MILITAR EN LA ARMADA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Fuerzas Armadas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "personal militar"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/personal militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal de las Fuerzas Armadas",
+                "personal de las fuerzas armadas y de seguridad",
+                "militares"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ascenso militar"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/personal militar/carrera militar/ascenso militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal de las Fuerzas Armadas",
+                "personal de las fuerzas armadas y de seguridad",
+                "militares"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "ascenso militar",
+            "militares (personal militar)",
+            "personal de las fuerzas armadas y de seguridad (personal militar)",
+            "personal militar",
+            "personal de las Fuerzas Armadas (personal militar)",
+            "derecho militar",
+            "Defensa nacional",
+            "carrera militar",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024569"
+    }
+  }
+}

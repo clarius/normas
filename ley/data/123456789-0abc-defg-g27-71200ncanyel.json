@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g27-71200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1602685052597,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "340-nacional-lnn0021772-1963-01-16"
+      }
+    },
+    "content": {
+      "mecanografico": "N0021772",
+      "numero-norma": 340,
+      "timestamp": "2020-10-14T10:46:43",
+      "timestamp-m": "2020-10-14T10:46:43",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1963-01-16",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 000340 1963 01 16",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 340 RATIFICADO POR LEY 16478",
+          "BUENOS AIRES, 16 DE ENERO DE 1963"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1963 01 21",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1963 01 21"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  023 A19630024",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 340/63",
+      "ratificado-por": "RATIFICADO POR LEY 16478",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-10-14",
+      "texto-original": {
+        "file-name": "N0021772.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0021772pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "JUNTA NACIONAL DE GRANOS-UTILIZACION DE SUS GRUPOS ELECTROGENOS POR COOPERATIVAS DE CONSUMO DE ELECTRICIDAD"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Junta Nacional de Granos"
+            },
+            "preferido": {
+              "termino": "Junta Nacional de Granos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "energía eléctrica"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía eléctrica"
+            },
+            "sinonimos": {
+              "termino": "electricidad"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cooperativas eléctricas"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía eléctrica/cooperativas eléctricas"
+            },
+            "sinonimos": {
+              "termino": "electricidad"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "cooperativas eléctricas",
+            "energía eléctrica",
+            "electricidad (energía eléctrica)",
+            "recursos energéticos",
+            "Junta Nacional de Granos",
+            "Recursos naturales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0021772"
+    }
+  }
+}

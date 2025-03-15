@@ -1,0 +1,118 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g80-07200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1605183067463,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17059-nacional-lnn0027008-1966-12-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027008",
+      "numero-norma": 17059,
+      "timestamp": "2020-11-12T08:17:07",
+      "timestamp-m": "2020-11-12T08:17:07",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1966-12-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017059 1966 12 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17059",
+          "BUENOS AIRES, 13 DE DICIEMBRE DE 1966"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1966 12 27",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1966 12 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 C19671637",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.059",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-11-12",
+      "texto-original": {
+        "file-name": "N0027008.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027008pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "COMPETENCIA DE LA POLICIA FEDERAL PARA ORDENAR EL TRANSITO EN LA CIUDAD DE BUENOS AIRES-MODIFICATORIA DE LEY 16979"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "policía federal"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía federal"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "Policía Federal Argentina",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tránsito"
+            },
+            "preferido": {
+              "termino": "Transporte/vehículos/automotores/tránsito automotor"
+            },
+            "sinonimos": {
+              "termino": [
+                "tránsito",
+                "tránsito vehicular"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "automotores",
+            "defensa nacional (Defensa y seguridad)",
+            "Transporte",
+            "Policía Federal Argentina (policía federal)",
+            "vehículos",
+            "personal de seguridad (fuerzas de seguridad)",
+            "tránsito vehicular (tránsito automotor)",
+            "Defensa y seguridad",
+            "fuerzas de seguridad",
+            "tránsito automotor",
+            "seguridad pública",
+            "tránsito (tránsito automotor)",
+            "policía federal",
+            "seguridad nacional (seguridad pública)",
+            "policía"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027008"
+    }
+  }
+}

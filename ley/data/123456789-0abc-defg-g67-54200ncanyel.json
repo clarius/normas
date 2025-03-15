@@ -1,0 +1,109 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g67-54200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584560136,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1735-nacional-lnn0024576-1885-10-14"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024576",
+      "numero-norma": 1735,
+      "timestamp": "2013-06-07T12:43:23",
+      "timestamp-m": "2013-06-07T12:43:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1885-10-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001735 1885 10 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1735",
+          "BUENOS AIRES, 14 DE OCTUBRE DE 1885"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1885 10 14"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000 18880018",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.735",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-DERECHOS ADUANEROS PARA EL AÑO 1886"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Derecho tributario y aduanero"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "tributos aduaneros"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros"
+            },
+            "sinonimos": {
+              "termino": [
+                "aranceles aduaneros",
+                "derechos de aduana"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sanciones aduaneras"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/sanciones aduaneras"
+            },
+            "sinonimos": {
+              "termino": "penas aduaneras"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Aduanero",
+            "penas aduaneras (sanciones aduaneras)",
+            "sanciones aduaneras",
+            "tributos aduaneros",
+            "aranceles aduaneros (tributos aduaneros)",
+            "derechos de aduana (tributos aduaneros)",
+            "Derecho tributario y aduanero"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024576"
+    }
+  }
+}

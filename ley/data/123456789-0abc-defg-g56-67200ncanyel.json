@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g56-67200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582204429322,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22569-nacional-lnn0027665-1982-04-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027665",
+      "numero-norma": 22569,
+      "timestamp": "2020-02-20T09:51:03",
+      "timestamp-m": "2020-02-20T09:51:03",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1982-04-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022569 1982 04 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 022569",
+          "BUENOS AIRES 21 DE ABRIL DE 1982"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1982 04 26",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1982 04 26"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  042 B19821236",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.569",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-20",
+      "texto-original": {
+        "file-name": "N0027665.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027665pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES DE CAPITAL FEDERAL PARA CONSTRUIR UNA PLAZA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027665"
+    }
+  }
+}

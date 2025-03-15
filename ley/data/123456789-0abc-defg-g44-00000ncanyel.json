@@ -1,0 +1,123 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g44-00000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1618920355173,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21910-nacional-lnn0000044-1978-12-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000044",
+      "numero-norma": 21910,
+      "timestamp": "2021-04-20T08:37:01",
+      "timestamp-m": "2021-04-20T08:37:01",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1978-12-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021910 1978 12 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.910",
+          "BUENOS AIRES, 19 DE DICIEMBRE DE 1978"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1978 12 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1978 12 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003919780003",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.910",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-04-20",
+      "texto-original": {
+        "file-name": "N0000044.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0000044pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO OBSERVATORIO DEL DLE 7777/56- DEFENSA Y SEGURIDAD FUERZAS POLICIALES-POLICIA FEDERAL-PERSONAL POLICIAL-PERSONAL SUPERIOR-PERSONAL SUBALTERNO-BONIFICACION POR DESTINO-DEROGACION."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "personal policial"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/personal policial"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "funcionario policial",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "personal policial",
+            "defensa nacional (Defensa y seguridad)",
+            "personal de seguridad (fuerzas de seguridad)",
+            "contrato laboral (contrato de trabajo)",
+            "Defensa y seguridad",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "fuerzas de seguridad",
+            "funcionario policial (personal policial)",
+            "seguridad pública",
+            "salario (remuneración)",
+            "Derecho laboral",
+            "retribución (remuneración)",
+            "sueldo (remuneración)",
+            "seguridad nacional (seguridad pública)",
+            "remuneración",
+            "policía"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000044"
+    }
+  }
+}

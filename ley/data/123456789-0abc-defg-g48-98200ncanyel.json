@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g48-98200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1536182026497,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24616-nacional-lnn0028984-1996-01-07"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028984",
+      "numero-norma": 24616,
+      "timestamp": "2018-09-05T17:10:45",
+      "timestamp-m": "2018-09-05T17:10:45",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1996-01-07",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024616 1996 01 07",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 24.616",
+          "Buenos Aires, 7 de enero de 1996"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1996 01 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1996 01 22"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.616",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1999-01-25",
+      "fecha-mod": "2018-09-05",
+      "texto-original": {
+        "file-name": "N0028984.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028984pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DEL INMUEBLE CONOCIDO COMO CASA DE LEGUIZAMON O CASA DE ARIAS VELAZQUEZ Y SUS BIENES MUEBLES Y ACCESORIOS, UBICADO EN LA CIUDAD DE SALTA, CON DESTINO A UN MUSEO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028984"
+    }
+  }
+}

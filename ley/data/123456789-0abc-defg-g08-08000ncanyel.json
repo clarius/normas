@@ -1,0 +1,120 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g08-08000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582035096461,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "9778-nacional-lnn0008080-1915-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0008080",
+      "numero-norma": 9778,
+      "timestamp": "2020-02-18T10:45:42",
+      "timestamp-m": "2020-02-18T10:45:42",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1915-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 009778 1915 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 9.778",
+          "BUENOS AIRES, 29 DE SEPTIEMBRE DE 1915"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1915 11 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1915 11 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019191022",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 9.778",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-18",
+      "texto-original": {
+        "file-name": "N0008080.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0008080pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ACUERDA VENIA A OSVALDO MAGNASCO Y LUIS ALVAREZ PRADO PARA DEMANDAR A LA NACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "actos y diligencias procesales"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/actos y diligencias procesales"
+            },
+            "sinonimos": {
+              "termino": [
+                "diligencias procesales",
+                "actos procesales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "venia judicial"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/actos y diligencias procesales/autorización judicial"
+            },
+            "sinonimos": {
+              "termino": [
+                "venia judicial",
+                "diligencias procesales",
+                "actos procesales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "actos procesales (actos y diligencias procesales)",
+            "diligencias procesales (actos y diligencias procesales)",
+            "actos y diligencias procesales",
+            "venia judicial (autorización judicial)",
+            "Derecho procesal",
+            "Estado Nacional",
+            "autorización judicial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0008080"
+    }
+  }
+}

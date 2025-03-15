@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g65-52200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1493209666956,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "17346-nacional-lnn0022556-1947-12-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0022556",
+      "numero-norma": 17346,
+      "timestamp": "2017-04-26T05:20:00",
+      "timestamp-m": "2017-04-26T05:20:00",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1947-12-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 017346 1947 12 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 17346/57 RATIFICADO POR LEY 14467",
+          "BUENOS AIRES, 30 DE DICIEMBRE DE 1957"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1958 01 17",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1958 01 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  018 A19580445",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 17.346/47",
+      "ratificado-por": "RATIFICADO POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-04-26",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICATORIO DEL DECRETO LEY 3523/57 QUE DECLARA ZONA DE RESERVA AL YACIMIENTO MINERO DE FARALLON NEGRO DE LA PROVINCIA DE CATAMARCA (DECRETO LEY 3523/57 CON AMBITO TEMPORAL CUMPLIDO)-PRORROGA PLAZO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "minas"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos minerales/minería/minas"
+            },
+            "sinonimos": {
+              "termino": [
+                "yacimientos minerales",
+                "Derecho Minero",
+                "actividad minera",
+                "yacimientos mineros"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "zonas de reservas mineras"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos minerales/minería/zonas mineras/zonas de reservas mineras"
+            },
+            "sinonimos": {
+              "termino": [
+                "Derecho Minero",
+                "actividad minera"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "zonas mineras",
+            "actividad minera (minería)",
+            "zonas de reservas mineras",
+            "Derecho Minero (minería)",
+            "Recursos naturales",
+            "minería",
+            "minas",
+            "yacimientos mineros (minas)",
+            "recursos minerales",
+            "yacimientos minerales (minas)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0022556"
+    }
+  }
+}

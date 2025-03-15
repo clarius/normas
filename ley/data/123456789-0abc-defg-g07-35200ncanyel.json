@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g07-35200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584563863,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21308-nacional-lnn0025370-1976-05-07"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025370",
+      "numero-norma": 21308,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1976-05-07",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021308 1976 05 07",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 21308",
+          "BUENOS AIRES, 7 DE MAYO DE 1976"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1976 05 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 05 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B003619761091",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.308",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 21573 (B.O. 11-05-1977)-IMPUESTO A BENEFICIARIOS DE CREDITOS OTORGADOS POR EL SISTEMA FINANCIERO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "impuestos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Economía y finanzas"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho financiero (Economía y finanzas)",
+            "Derecho Tributario",
+            "gravámenes (tributos)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "impuestos",
+            "derecho económico financiero (Economía y finanzas)",
+            "derecho fiscal (Derecho Tributario)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "Economía y finanzas",
+            "tributos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025370"
+    }
+  }
+}

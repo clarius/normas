@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g14-18100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599516559295,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17871-nacional-lnn0018141-1968-08-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018141",
+      "numero-norma": 17871,
+      "timestamp": "2020-09-07T18:25:21",
+      "timestamp-m": "2020-09-07T18:25:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-08-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017871 1968 08 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.871",
+          "BUENOS AIRES, 26 DEAGOSTO DE 1968"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1968 08 30",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 08 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  028 C19683286",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.871",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-07",
+      "texto-original": {
+        "file-name": "N0018141.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018141pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-LIQUIDACION DE SALARIO FAMILIAR-LEGITIMA PERCEPCION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "salario familiar"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/asignaciones familiares"
+            },
+            "sinonimos": {
+              "termino": [
+                "salario familiar",
+                "asistencia familiar",
+                "subsidio familiar",
+                "adicional por cargas de familia",
+                "SUSS"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "salario familiar (asignaciones familiares)",
+            "asistencia familiar (asignaciones familiares)",
+            "Sistema único de la seguridad social",
+            "subsidios de la Seguridad Social",
+            "subsidio familiar (asignaciones familiares)",
+            "SUSS (Sistema único de la seguridad social)",
+            "Seguridad social",
+            "asignaciones familiares",
+            "adicional por cargas de familia (asignaciones familiares)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018141"
+    }
+  }
+}

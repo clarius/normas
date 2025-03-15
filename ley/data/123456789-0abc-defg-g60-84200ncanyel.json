@@ -1,0 +1,101 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g60-84200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584783437,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "213-nacional-lnn0024806-1859-08-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024806",
+      "numero-norma": 213,
+      "timestamp": "2013-06-07T12:43:23",
+      "timestamp-m": "2013-06-07T12:43:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1859-08-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000213 1859 08 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 213",
+          "PARANA, 29 DE AGOSTO DE 1859"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1859 08 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800192",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 213",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "texto-original": {
+        "file-name": "N0024806.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0024806html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO DERECHOS ADUANEROS-PAGO CON BONOS DERECHO ADICIONAL AD VALOREM"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Derecho Aduanero"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "pago de tributos aduaneros"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/pago de tributos aduaneros"
+            },
+            "sinonimos": {
+              "termino": [
+                "aranceles aduaneros",
+                "derechos de aduana"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "pago de tributos aduaneros",
+            "Derecho Aduanero",
+            "tributos aduaneros",
+            "aranceles aduaneros (tributos aduaneros)",
+            "derechos de aduana (tributos aduaneros)",
+            "Derecho tributario y aduanero"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024806"
+    }
+  }
+}

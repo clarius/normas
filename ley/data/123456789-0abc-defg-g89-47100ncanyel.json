@@ -1,0 +1,101 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g89-47100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584167808,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "100-nacional-lnn0017498-1856-09-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0017498",
+      "numero-norma": 100,
+      "timestamp": "2013-06-07T12:43:21",
+      "timestamp-m": "2013-06-07T12:43:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1856-09-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000100 1856 09 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 100",
+          "PARANA, 25 DE SEPTIEMBRE DE 1856"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1856 09 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800148",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 100",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY ABROGADA POR LEY 137 DE PARANA PERO LEY 137 DEROGADA POR LEY 163 DE PARANA QUE SUSPENDE TAMBIEN LEY 100 DE PARANA- ESTABLECIMIENTO DE ADMINISTRACION E INSPECCION GENERAL DE CORREOS Y POSTAS DE LA CONFEDERACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "servicio postal"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "correos"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "servicio postal",
+            "correos",
+            "medios de difusión (Comunicaciones)",
+            "medios de comunicación (Comunicaciones)",
+            "Comunicaciones"
+          ]
+        }
+      },
+      "id-infojus": "LNN0017498"
+    }
+  }
+}

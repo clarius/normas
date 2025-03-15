@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g68-18200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1626692910885,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23491-nacional-lnn0028186-1986-12-17"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028186",
+      "numero-norma": 23491,
+      "timestamp": "2021-07-18T20:10:40",
+      "timestamp-m": "2021-07-18T20:10:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1986-12-17",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023491 1986 12 17",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 23.491",
+          "BUENOS AIRES, 17 DE DICIEMBRE DE 1986"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1987 03 25",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1987 03 25"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.491",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-18",
+      "texto-original": {
+        "file-name": "N0028186.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028186pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PODER EJECUTIVO NACIONAL-AUTORIZACION AL PRESIDENTE DE LA NACION PARA AUSENTARSE DEL PAIS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "autorización para salir del país"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/salida del país/viaje al exterior/autorización para viajar"
+            },
+            "sinonimos": {
+              "termino": [
+                "autorización para salir del país",
+                "autorización para viajar al exterior"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "presidente de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/Poder Ejecutivo Nacional/presidencia de la Nación/presidente de la Nación"
+            },
+            "sinonimos": {
+              "termino": "poderes públicos"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presidencia de la Nación",
+            "presidente de la Nación",
+            "autorización para viajar",
+            "poderes del Estado",
+            "Poder Ejecutivo Nacional",
+            "autorización para viajar al exterior (autorización para viajar)",
+            "autorización para salir del país (autorización para viajar)",
+            "Derecho constitucional",
+            "salida del país",
+            "Poder Ejecutivo",
+            "poderes públicos (poderes del Estado)",
+            "migraciones",
+            "Derecho administrativo",
+            "viaje al exterior"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028186"
+    }
+  }
+}

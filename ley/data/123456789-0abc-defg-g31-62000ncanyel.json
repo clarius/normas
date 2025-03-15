@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g31-62000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1561745634248,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11245-nacional-lnn0002613-1923-10-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0002613",
+      "numero-norma": 11245,
+      "timestamp": "2019-06-28T14:31:14",
+      "timestamp-m": "2019-06-28T14:31:14",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1923-10-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011245 1923 10 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11245",
+          "BUENOS AIRES, 19 DE OCTUBRE DE 1923"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1923 11 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1923 11 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400120",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.245",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-06-28",
+      "texto-original": {
+        "file-name": "N0002613.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0002613pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY CON TEXTOS ORDENADOS OFICIALES POSTERIORES POR DECRETOS 108.\n\n586/37,11498/52 (B.O. 1-12-52)-TARIFAS DE ANALISIS QUIMICOS DEL DEPARTAMENTO NACIONAL DE HIGIENE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "análisis químicos"
+            },
+            "preferido": {
+              "termino": "Salud pública/política sanitaria/control sanitario/análisis químicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "policía sanitaria",
+                "medidas sanitarias",
+                "vigilancia sanitaria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "cobro de aranceles"
+            },
+            "preferido": {
+              "termino": "cobro de aranceles"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "política sanitaria",
+            "vigilancia sanitaria (control sanitario)",
+            "Salud pública",
+            "cobro de aranceles",
+            "medidas sanitarias (control sanitario)",
+            "análisis químicos",
+            "policía sanitaria (control sanitario)",
+            "control sanitario"
+          ]
+        }
+      },
+      "id-infojus": "LNN0002613"
+    }
+  }
+}

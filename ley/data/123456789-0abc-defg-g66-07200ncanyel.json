@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g66-07200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1605726243950,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15448-nacional-lnn0027066-1960-09-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027066",
+      "numero-norma": 15448,
+      "timestamp": "2020-11-18T15:54:55",
+      "timestamp-m": "2020-11-18T15:54:55",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-09-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015448 1960 09 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15448",
+          "BUENOS AIRES, 28 DE SETIEMBRE DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 10 28",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 10 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  020 A19600100",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.448",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-11-18",
+      "texto-original": {
+        "file-name": "N0027066.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027066pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "INDEMNIZACION POR ACCIDENTES DE TRABAJO-MODIFICATORIA DE LA LEY 9688"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "accidentes de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización por accidente de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo/indemnización por accidente de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "indemnización por accidente de trabajo",
+            "accidentes de trabajo",
+            "accidentes y enfermedades de trabajo (accidentes de trabajo)",
+            "Derecho laboral",
+            "derecho del trabajo (Derecho laboral)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027066"
+    }
+  }
+}

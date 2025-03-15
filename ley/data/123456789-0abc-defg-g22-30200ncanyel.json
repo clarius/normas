@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g22-30200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1558699995061,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12955-nacional-lnn0020322-1947-02-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020322",
+      "numero-norma": 12955,
+      "timestamp": "2019-05-24T08:25:47",
+      "timestamp-m": "2019-05-24T08:25:47",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1947-02-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012955 1947 02 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 012955",
+          "BUENOS AIRES 13 DE FEBRERO DE 1947"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1947 03 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1947 03 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  007 O19470215",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.955",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-24",
+      "texto-original": {
+        "file-name": "N0020322.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0020322pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO-CREDITO A LA COMISION DE TERRITORIOS NACIONALES DE LA CAMARA DE DIPUTADOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020322"
+    }
+  }
+}

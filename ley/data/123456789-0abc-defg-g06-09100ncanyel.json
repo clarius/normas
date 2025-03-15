@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g06-09100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1592392116047,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14276-nacional-lnn0019060-1953-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0019060",
+      "numero-norma": 14276,
+      "timestamp": "2020-06-17T07:45:35",
+      "timestamp-m": "2020-06-17T07:45:35",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1953-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014276 1953 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14276",
+          "BUENOS AIRES, 30 DE SETIEMBRE DE 1953"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1954 01 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1954 01 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  013 A19530216",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.276",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-17",
+      "texto-original": {
+        "file-name": "N0019060.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0019060pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES EN LA CIUDAD DE POSADAS MISIONES DESTINADOS A CAMPOS DE DEPORTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0019060"
+    }
+  }
+}

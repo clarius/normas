@@ -1,0 +1,88 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g42-64200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1505165199895,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11122-nacional-lnn0024624-1921-04-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024624",
+      "numero-norma": 11122,
+      "timestamp": "2017-09-11T17:07:37",
+      "timestamp-m": "2017-09-11T17:07:37",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1921-04-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011122 1921 04 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11122",
+          "BUENOS AIRES, 29 DE ABRIL DE 1921"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1921 05 16",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1921 05 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400066",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.122",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-09-11",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 21342-PROCEDIMIENTO PARA JUICIOS DE DESALOJO"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "juicio de desalojo"
+          },
+          "preferido": {
+            "termino": "Derecho procesal/procesos especiales/juicio de desalojo"
+          },
+          "sinonimos": {
+            "termino": [
+              "desalojo",
+              "acción de desalojo",
+              "juicios especiales"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "juicio de desalojo",
+            "procesos especiales",
+            "desalojo (juicio de desalojo)",
+            "Derecho procesal",
+            "acción de desalojo (juicio de desalojo)",
+            "juicios especiales (procesos especiales)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024624"
+    }
+  }
+}

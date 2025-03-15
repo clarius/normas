@@ -1,0 +1,109 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g64-04100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584629140,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4302-nacional-lnn0014046-1904-01-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014046",
+      "numero-norma": 4302,
+      "timestamp": "2013-01-19T19:16:16",
+      "timestamp-m": "2013-01-19T19:16:16",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1904-01-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004302 1904 01 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.302",
+          "BUENOS AIRES, 26 DE ENERO DE 1904"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1904 02 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1904 02 08"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018890614",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.302",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "PRESUPUESTO-AMBITO TEMPORAL CUMPLIDO-PRESUPUESTO GENERAL 1904."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "ley de presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "presupuesto nacional",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014046"
+    }
+  }
+}

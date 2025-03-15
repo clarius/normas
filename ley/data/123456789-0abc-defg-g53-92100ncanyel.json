@@ -1,0 +1,96 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g53-92100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1561720118412,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5543-nacional-lnn0012935-1908-07-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012935",
+      "numero-norma": 5543,
+      "timestamp": "2019-06-28T07:25:35",
+      "timestamp-m": "2019-06-28T07:25:35",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1908-07-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005543 1908 07 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.543",
+          "BUENOS AIRES, 15 DE JULIO DE 1908"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1908 08 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1908 08 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190740",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.543",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-06-28",
+      "texto-original": {
+        "file-name": "N0012935.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0012935pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONCEDESE A LA COMPAÑIA FRANCESA DE FERROCARRILES DE LA PROVINCIA DE SANTA FE EL DERECHO DE CONSTRUIR Y EXPLOTAR UNA VIA FERREA DESDE POZO DEL MOLLE A CORDOBA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012935"
+    }
+  }
+}

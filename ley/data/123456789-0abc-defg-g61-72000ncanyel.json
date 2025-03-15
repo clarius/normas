@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g61-72000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1570533064994,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1919-nacional-lnn0002716-1886-12-08"
+      }
+    },
+    "content": {
+      "mecanografico": "N0002716",
+      "numero-norma": 1919,
+      "timestamp": "2019-10-08T07:11:59",
+      "timestamp-m": "2019-10-08T07:11:59",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1886-12-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001919 1886 12 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 1.919.",
+          "Buenos Aires, 8 de Diciembre de 1886."
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1886 12 08"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.919",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-09-01",
+      "fecha-mod": "2019-10-08",
+      "texto-original": {
+        "file-name": "N0002716.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0002716pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY CON TEXTO ORDENADO OFICIAL POSTERIOR POR DECRETO 456/97 (B.O. 30/05/1997)-CODIGO DE MINERIA-"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "código de minería"
+          },
+          "preferido": {
+            "termino": "Recursos naturales/recursos minerales/minería/código de minería"
+          },
+          "sinonimos": {
+            "termino": [
+              "Derecho Minero",
+              "actividad minera",
+              "código minero"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "código de minería",
+            "actividad minera (minería)",
+            "código minero (código de minería)",
+            "Derecho Minero (minería)",
+            "Recursos naturales",
+            "minería",
+            "recursos minerales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0002716"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g48-51000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1597921564580,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14841-nacional-lnn0001584-1959-09-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001584",
+      "numero-norma": 14841,
+      "timestamp": "2020-08-20T07:55:20",
+      "timestamp-m": "2020-08-20T07:55:20",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1959-09-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014841 1959 09 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 14.841",
+          "Buenos Aires, 25 de septiembre de 1959"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1959 10 07",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1959 10 07"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.841",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-08-20",
+      "texto-original": {
+        "file-name": "N0001584.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001584pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "JUNTA NACIONAL DEL ALGODON-LEY MODIFICATORIA DE LA LEY 14.770-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "algodón"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productos agropecuarios/algodón"
+            },
+            "sinonimos": {
+              "termino": [
+                "producción algodonera",
+                "ganadería",
+                "agricultura",
+                "productos agrícolas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Junta Nacional del Algodón"
+            },
+            "preferido": {
+              "termino": "Junta Nacional del Algodón"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "actividad agropecuaria",
+            "agricultura (actividad agropecuaria)",
+            "productos agropecuarios",
+            "productos agrícolas (productos agropecuarios)",
+            "producción algodonera (algodón)",
+            "ganadería (actividad agropecuaria)",
+            "Junta Nacional del Algodón",
+            "algodón",
+            "Actividades económicas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001584"
+    }
+  }
+}

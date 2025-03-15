@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g81-87200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582204289628,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22727-nacional-lnn0027818-1983-02-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027818",
+      "numero-norma": 22727,
+      "timestamp": "2020-02-20T09:51:04",
+      "timestamp-m": "2020-02-20T09:51:04",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1983-02-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022727 1983 02 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 022727",
+          "BUENOS AIRES 01 DE FEBRERO DE 1983"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1983 02 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1983 02 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  043 A19830029",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.727",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-20",
+      "texto-original": {
+        "file-name": "N0027818.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027818pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "INMUEBLES-RESTITUCION A LOS ACTUALES PROPIETARIOS DEL INMUEBLE DECLARADO DE UTILIDAD PUBLICA POR LEY 15407 UBICADO EN LA CIUDAD DE LA BANDA,PROVINCIA DE SANTIAGO DEL ESTERO."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027818"
+    }
+  }
+}

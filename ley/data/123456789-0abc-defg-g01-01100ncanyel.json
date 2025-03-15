@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g01-01100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1577704181681,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "7047-nacional-lnn0011010-1910-08-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0011010",
+      "numero-norma": 7047,
+      "timestamp": "2019-12-30T07:10:46",
+      "timestamp-m": "2019-12-30T07:10:46",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1910-08-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 007047 1910 08 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 7.047",
+          "BUENOS AIRES, 4 DE AGOSTO DE 1910"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1910 08 18",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1910 08 18"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018890790",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 7.047",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-12-30",
+      "texto-original": {
+        "file-name": "N0011010.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0011010pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZACION AL PRESIDENTE DE LA REPUBLICA PARA AUSENTARSE DEL PAIS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "autorización para salir del país"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/salida del país/viaje al exterior/autorización para viajar"
+            },
+            "sinonimos": {
+              "termino": [
+                "autorización para salir del país",
+                "autorización para viajar al exterior"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "presidente de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/Poder Ejecutivo Nacional/presidencia de la Nación/presidente de la Nación"
+            },
+            "sinonimos": {
+              "termino": "poderes públicos"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presidencia de la Nación",
+            "presidente de la Nación",
+            "autorización para viajar",
+            "poderes del Estado",
+            "Poder Ejecutivo Nacional",
+            "autorización para viajar al exterior (autorización para viajar)",
+            "autorización para salir del país (autorización para viajar)",
+            "Derecho constitucional",
+            "salida del país",
+            "Poder Ejecutivo",
+            "poderes públicos (poderes del Estado)",
+            "migraciones",
+            "Derecho administrativo",
+            "viaje al exterior"
+          ]
+        }
+      },
+      "id-infojus": "LNN0011010"
+    }
+  }
+}

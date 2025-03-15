@@ -1,0 +1,449 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-494-1000-2991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990658088,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1494-nacional-transporte-terrestre-cargas-dn19920001494-1992-08-20"
+      }
+    },
+    "content": {
+      "mecanografico": 19920001494,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1494,
+      "timestamp": "2014-07-17T21:59:22",
+      "timestamp-m": "2014-07-17T21:59:22",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1992-08-20",
+      "standard-normativo": "DEC C 001494 1992 08 20",
+      "titulo-norma": "TRANSPORTE TERRESTRE DE CARGAS.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1992 08 24"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": {
+          "cr": "POR ART. 19",
+          "id": "DEROGA A0",
+          "ref": "DEC C 000405 1981 00 00 0000 000"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "Sustituye art. 3 B.O. 06-09-1994",
+            "id": "MODIFICADO POR0",
+            "ref": "DEC C 001495 1994 08 23 0001 000"
+          },
+          {
+            "cr": "Sustituye art. 13 B.O. 06-09-1994",
+            "id": "MODIFICADO POR1",
+            "ref": "DEC C 001495 1994 08 23 0002 000"
+          },
+          {
+            "cr": "Sustituye art. 16 B.O. 06-09-1994",
+            "id": "MODIFICADO POR2",
+            "ref": "DEC C 001495 1994 08 23 0003 000"
+          },
+          {
+            "cr": "B.O. 16-07-1996",
+            "id": "DEROGADO POR3",
+            "ref": "LEY C 024653 1996 06 05 0013 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.494/1992",
+      "estado": "Derogada",
+      "fecha-alta": "2003-05-22",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE REGULA EL TRANSPORTE TERRESTRE DE CARGAS.",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "B.O. 16-07-1996",
+            "id": "DEROGADO_POR_0",
+            "ref": "LEY C 024653 1996 06 05 0013 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "NRO.  DE  ART.  QUE ESTABLECE LA ENTRADA EN VIGENCIA 21\n\nFECHA DE ENTRADA EN VIGENCIA 1992 08 24"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte terrestre"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte de carga"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "transporte en contenedores",
+                "transporte de mercaderías"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "flete"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transportador/obligaciones del transportador/flete"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones del acarreador",
+                "obligaciones del cargador",
+                "obligaciones del porteador",
+                "obligaciones del transportador por agua",
+                "transportista",
+                "obligaciones del transportista"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inscripción registral"
+            },
+            "preferido": {
+              "termino": "Derecho civil/inscripción registral"
+            },
+            "sinonimos": {
+              "termino": [
+                "inscripción en el registro",
+                "derecho registral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "obligaciones del transportista"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transportador/obligaciones del transportador"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones del acarreador",
+                "obligaciones del cargador",
+                "obligaciones del porteador",
+                "transportista",
+                "obligaciones del transportador por agua",
+                "obligaciones del transportista"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "seguros"
+            },
+            "preferido": {
+              "termino": "Derecho comercial/seguros"
+            },
+            "sinonimos": {
+              "termino": "contrato de seguro"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "responsabilidad del transportista"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transportador/obligaciones del transportador/responsabilidad del transportador"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones del acarreador",
+                "responsabilidad del cargador por agua",
+                "responsabilidad del cargador",
+                "responsabilidad del acarreador",
+                "obligaciones del cargador",
+                "obligaciones del porteador",
+                "responsabilidad del porteador",
+                "responsabilidad del transportador terrestre",
+                "responsabilidad del transportador por agua",
+                "responsabilidad del transportista",
+                "obligaciones del transportador por agua",
+                "transportista",
+                "obligaciones del transportista"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tasa nacional de fiscalización del transporte"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/tasas/tasa nacional de fiscalización del transporte"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "inscripción en el registro (inscripción registral)",
+            "Derecho Tributario",
+            "obligaciones del porteador (obligaciones del transportador)",
+            "transporte de mercaderías (transporte de carga)",
+            "responsabilidad del transportista (responsabilidad del transportador)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "tributos",
+            "flete",
+            "Derecho comercial",
+            "responsabilidad del cargador (responsabilidad del transportador)",
+            "transportista (transportador)",
+            "obligaciones del transportista (obligaciones del transportador)",
+            "derecho registral (inscripción registral)",
+            "responsabilidad del transportador terrestre (responsabilidad del transportador)",
+            "obligaciones del transportador",
+            "responsabilidad del porteador (responsabilidad del transportador)",
+            "derecho fiscal (Derecho Tributario)",
+            "tasa nacional de fiscalización del transporte",
+            "transporte en contenedores (transporte de carga)",
+            "Derecho civil",
+            "responsabilidad del acarreador (responsabilidad del transportador)",
+            "tasas",
+            "gravámenes (tributos)",
+            "inscripción registral",
+            "transportador",
+            "Transporte",
+            "contrato de transporte",
+            "responsabilidad del transportador por agua (responsabilidad del transportador)",
+            "responsabilidad del transportador",
+            "obligaciones del acarreador (obligaciones del transportador)",
+            "transporte de carga general (transporte de carga)",
+            "obligaciones del transportador por agua (obligaciones del transportador)",
+            "contrato de seguro (seguros)",
+            "seguros",
+            "responsabilidad del cargador por agua (responsabilidad del transportador)",
+            "transporte de carga",
+            "obligaciones del cargador (obligaciones del transportador)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 012346 1937 01 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000405 1981 03 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DNU C 002284 1991 10 31 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "la  Ley  N.  12.346  y sus modificaciones, la Ley N. 23.696 de Reforma del Estado; el Decreto  Reglamentario N. 405 del 5 de marzo de  1981, sus modificatorios y complementarios;  y  el  Decreto  N.\n\n2.284 del 31 de octubre de 1991; y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002284 1991 10 31 0005 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 012346 1937 01 05 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 000405 1981 03 05 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que el Artículo 5 del Decreto N. 2.284/91 dispone la desregulación  del  transporte  automotor  de cargas, de la carga y descarga  de  las mercaderías y la liberación  de  la  contratación entre transportistas  y  dadores  de  carga  en  todo el territorio nacional.\n\nQue  a fin de preservar la seguridad jurídica y de  garantizar  el cabal cumplimiento de la libertad de contratación, debe complementarse la citada disposición y deben derogarse expresamente  las reglamentaciones que impiden la desregulación del sector.\n\nQue si bien el  sistema  de  transporte  automotor  de  cargas  se encuentra  organizado  sobre  la  base  de  una  amplia  apertura y competencia,  no  se  justifica  actualmente  el  mantenimiento  de ciertas restricciones.\n\nQue  la  Ley  N.  12.346  faculta  a la autoridad de aplicación  a determinar  en  cada  caso  lo  que  debe entenderse  por  servicio público de transporte.\n\nQue  no  se  justifica  en  este  momento  histórico  mantener  al transporte  de  cargas  bajo  el  régimen  de  servicio    público, caracterizado  por  concesiones  o permisos que el Estado otorga  a los particulares, y se considera razonable  reemplazar  el  régimen de  concesiones  estatales  por un régimen de libertades, donde  el particular  no  vea condicionada  su  actividad  de  transporte  de cargas  por carretera  al  permiso  de  la  Administración  Pública Nacional, sino que la ejerza por propio derecho.\n\nQue las  medidas  adoptadas por el presente no suponen un abandono por parte del Estado  del  ejercicio  de  su Poder de Policía, sino una  orientación del mismo hacia la preservación  de  la  seguridad del transporte  y  al  resguardo  de  la  lealtad  comercial  y los derechos  del  consumidor,  cuyos  controles  se  ven  perjudicados cuando  el  Estado  dedica  todos  sus  esfuerzos  y recursos a  la preservación  de  la  ecuación  económica  de  los prestadores.\n\nQue las restricciones establecidas por el Decreto  N. 405/81 a las inversiones extranjeras en el transporte de cargas no  se  condicen con    la   política  del  Gobierno  Nacional  en  la  materia.\n\nQue a fin de  preservar  la  lealtad comercial y los principios de la  libre  competencia,  que  aseguran   a  todos  los  prestadores igualdad  de  condiciones,  deben  instrumentase    mecanismos  que permitan  el reestablecimiento de las condiciones de competitividad del mercado,  cuando  el establecimiento de reservas de cargas o de monopolios por región pudieren afectarla.\n\nQue de lo contrario, el  Gobierno  Federal  contribuiría, a través de su omisión, al fomento de conductas comercialmente  desleales  y a  la  profundización  de  desequilibrios económicos estructurales.\n\nQue  las  consideraciones  precedentes justifican  una  derogación total del Reglamento de Transporte  de  Cargas  por  Carretera y su reemplazo por un nuevo ordenamiento, que recoja los principios  que han  sido  útiles  al  desarrollo de la actividad y adopte aquellos otros que sirvan al crecimiento  económico desde una perspectiva de libertad.\n\nQue  el  presente  decreto  se dicta  en  uso  de  las  facultades concedidas  por  el  Artículo  86,  Inciso  2  de  la  Constitución Nacional y el Artículo 9 de la Ley N. 12.346."
+      },
+      "segmento": [
+        {
+          "titulo-particion": "CAPITULO I DISPOSICIONES GENERALES",
+          "articulo": [
+            {
+              "numero-articulo": 1,
+              "texto": "Art. 1 : AMBITO DE APLICACION . El presente Decreto se aplicará al transporte  terrestre  de  cargas que se desarrolle en el ámbito de  la  jurisdicción  nacional,  que    comprende    el  transporte interjurisdiccional:\n\na) Entre las Provincias y la Capital Federal;\n\nb) Entre Provincias;\n\nc) En los Puertos y aeropuertos nacionales, entre ellos,  o  entre cualquiera  de  ellos  y  la  Capital Federal o las Provincias.\n\nd) Entre cualquier punto del territorio  nacional  y  los  Estados extranjeros."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "Art. 2 : COORDINACION. La autoridad de aplicación del presente podrá  coordinar con las autoridades provinciales la implementación de  este    reglamento,  de  forma  de  lograr  una  más  eficiente organización   o  fiscalización  de  los  servicios  de  transporte interjurisdiccional  e  internacional, a través de la unificación o complementación de procedimientos,  para  lo  cual  podrá  celebrar acuerdos o convenios."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "*Art.  3.-  PRINCIPIOS  RECTORES.  Se  consideran  principios rectores  del transporte de cargas por automotor:\n\na) El libre ingreso al mercado de prestadores.\n\nb) La  libertad  de  contratación entre tomador y dador de cargas.\n\nc) La preservación de la seguridad del tránsito y del  transporte.\n\nd) El respeto por los principios  de  la  libre competencia, de la lealtad comercial, el respeto de los derechos  del  consumidor y la preservación del ambiente contra la contaminación.\n\ne) La intervención de la ADMINISTRACION PUBLICA NACIONAL  limitada y eficiente."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art.  4  :  TRANSPORTE  DE  CARGAS. Se considera transporte de cargas por carretera al transporte  de  cargas  efectuado  por  una persona  física  o  jurídica,  a  título  oneroso  y en igualdad de condiciones para cualquier cargador, mediante la utilización  de un vehículo  o  conjunto  de  vehículos,  sea  por vehículo completo o carga fraccionada."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "Art.  5  :  TRANSPORTE  EXCLUSIVO.  Se  considera  transporte exclusivo   de  cargas  por  carretera,  al  transporte  de  cargas efectuado por  una  persona  física  o  jurídica, a título oneroso, para  un  solo  cargador,  mediante la afectación  continua  de  un vehículo o conjunto de vehículos."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art.  6 : TRANSPORTE PROPIO. Se considera transporte propio de cargas por carretera  al  transporte  de  cargas  efectuado por una persona  física  o  jurídica  productora  o  comercializadora    de aquéllas,    para  su  consumo,  utilización,  transformación,    o comercialización."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art.  7  :  TRANSPORTE  PROPIO Y AJENO. Las personas físicas o jurídicas que realicen transporte  propio  de  cargas por carretera podrán  realizar  al  mismo  tiempo las modalidades  de  transporte definidas  en  los  artículos  anteriores,    cumpliendo   con  los requisitos de inscripción como transportistas de carga ajena  y  el pago    de  la  Tasa  Nacional  de  Fiscalización  del  Transporte."
+            },
+            {
+              "numero-articulo": 8,
+              "texto": "Art. 8 : FLETEROS. El transporte prestado a título oneroso, en forma  exclusiva  o  para  más de un cargador, y por cuenta de otro que actúa como principal, será  considerado  en  todo  caso como un contrato de transporte y no como una relación laboral."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art. 9 : El transporte de cargas por carretera, cualquiera sea su modalidad, no se considera servicio público.\n\nEn vehículos  destinados  al  transporte  de carga queda prohibido transportar pasajeros.\n\nLos    transportistas  de  cargas  ajenas  están  autorizados    a transportar  encomiendas,  paquetes o bultos, cualesquiera sean las dimensiones de los mismos."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO II REGISTRO NACIONAL",
+          "articulo": [
+            {
+              "numero-articulo": 10,
+              "texto": "Art. 10 : INSCRIPCION. Antes de comenzar sus prestaciones, las personas   físicas  o  jurídicas  que  desarrollen  actividades  de transporte  interjurisdiccional  o internacional de cargas ajenas a título oneroso por carretera, cualquiera  sea su modalidad, deberán inscribirse  en el Registro Nacional de Transporte  de  Cargas  por Automotor,  dependiente    de    la  Autoridad  de  Aplicación.\n\nNo podrán ser inscriptos en el Registro  Nacional,  ni  mantenidos en  el  mismo  y  por  lo  tanto  dados de baja, aquellos vehículos matriculados en jurisdicciones provinciales,  o  aquellas  empresas con  domicilio  en  jurisdicciones  provinciales,  en  las  que  se mantengan  reservas  de carga que otorguen exclusividad para dichos vehículos o empresas.\n\nLo dispuesto en este  artículo  entrará  en vigencia a los NOVENTA (90)  días  corridos  de  la  publicación  del  presente   decreto."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art. 11 : INFORMACION A REGISTRAR. Para la inscripción en dicho Registro    deberá    suministrarse   exclusivamente  la  siguiente información, con carácter de declaración jurada:\n\na)  Modalidad  de  transporte  a  realizar   (interjurisdiccional, internacional o ambos; exclusivo para un cargador, o no exclusivo);\n\nb) En el caso de Sociedades: denominación o razón  social y número de inscripción en el Registro Público de Comercio;\n\nc)  En  el caso de personas físicas: apellido y nombre,  número  y clase de documento de identidad;\n\nd) Domicilio legal y real;\n\ne) Categoría  o  tipo, cantidad y características de los vehículos afectados al transporte;\n\nf) Tipos de carga a transportar;\n\ng)  Número  de  inscripción    en   los  registros  impositivos  y previsionales;\n\nh) Constancia del cumplimiento de las  normas relativas a seguros."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "Art.  12  :  La sola inscripción en el Registro Nacional, y el pago de la Tasa Nacional  de  Fiscalización  del  transporte  en el caso  de  transporte  de  cargas  ajenas, otorga al peticionante el derecho a realizar las actividades  de  transporte que declare.\n\nLa  inscripción en el Registro Nacional de  Transporte  de  cargas por  Automotor    será  automática  ante  la  acreditación  de  los requisitos establecidos  en  este  Reglamento, y no podrá sujetar a la  actividad  a  condicionamientos  ni   limitaciones  tarifarias, territoriales, de regularidad o de cupos."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO III OBLIGACIONES DEL TRANSPORTISTA",
+          "articulo": [
+            {
+              "numero-articulo": 13,
+              "texto": "*Art.  13.-  OBLIGACIONES  DEL TRANSPORTISTA. Quienes realicen actividades  de  transporte  deberán  cumplir  con  las  siguientes obligaciones, sin perjuicio de  las  establecidas  en los Convenios Internacionales    y    en   la  Legislación  general  vigente:\n\na) Conservar en buen estado  el  material  rodante,  tomando todos los  recaudos  necesarios  a  fin  de  conservar  la seguridad  del tránsito y evitar accidentes.\n\nb)  Exigir  a  los conductores de vehículos y demás empleados,  el cumplimiento de las  medidas  tendientes  a  velar por la seguridad del tránsito.\n\nc)  Anotar  en el Registro Nacional los nuevos  vehículos  que  se afecten al transporte,  así  como aquellos que se den de baja; sean o no de propiedad de quien realice la actividad.\n\nd) Contratar los seguros establecidos  en  el  artículo  siguiente del presente decreto.\n\ne)  Emitir  la  carta de porte, de acuerdo a lo prescripto por  el Código de Comercio y la legislación vigente.\n\nf) Emitir conocimiento  de  embarque  y manifiesto de carga, en el caso de transporte internacional.\n\ng)  Tener  sus  vehículos  matriculados  y  radicados    en  forma permanente  y  definitiva  en  la  REPUBLICA  ARGENTINA.  En  casos excepcionales,    mediante  resolución  fundada,  la  Autoridad  de Aplicación eximirá  de  esta obligación, a solicitud del interesado y  en forma temporaria, a  transportes  especiales,  específicos  y determinados."
+            },
+            {
+              "numero-articulo": 14,
+              "texto": "Art.  14.-  SEGUROS.  Los  transportistas  deberán  contratar obligatoriamente los seguros que cubran el riesgo de responsabilidad civil por daños a personas o cosas no transportadas.\n\nSi  la  mercadería  fuera  asegurada,  la  cobertura  a  que  hace referencia  el  presente  artículo  podrá  ser  contratada por:\n\na)  El  remitente  o el consignatario de la mercadería.  En  ambos casos deberán presentar  al  transportista,  antes de producirse la recepción de la carga, el certificado de cobertura  emitido  por el Asegurador.  En  dicho  certificado  deben constar obligatoriamente los riesgos cubiertos y la cláusula que  exime  de  responsabilidad al transportista.\n\nb)  El transportista, si la mercadería no fuera asegurada  por  el remitente  o el consignatario. En este caso el remitente declarará, al momento de  realizar  el  despacho,  el  valor de la mercadería, cifra sobre la cual el transportista percibirá  la  correspondiente tasa de riesgo."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art. 15 : RESPONSABILIDAD DEL TRANSPORTISTA, DADOR Y TOMADOR DE LA CARGA.  El  transportista,  el  dador,  y  toda otra persona que intervenga   en  el  contrato  de  transporte  de  cargas,    serán responsables  de  las infracciones a las disposiciones sobre exceso en pesos y dimensiones  de  la  carga, y de la falta o deficiencias de la documentación de la carga.\n\nEn el transporte de cargas fraccionadas,  la  responsabilidad será exclusiva del transportista."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "CAPITULO IV DISPOSICIONES COMPLEMENTARIAS Y TRANSITORIAS",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DNU C 002284 1991 10 31 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "DEC C 000958 1992 06 16 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "DEC C 002673 1992 12 29 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 16,
+              "texto": "*Art. 16.- En lo que fuere pertinente, se aplicará al presente régimen  las  normas  o los principios establecidos en los Decretos Nros. 2.284 del 31 de octubre de 1991 y 958 del 16 de junio de 1992 y  con  referencia  a  las infracciones  a  las  disposiciones  del presente decreto, será de  aplicación  el  Régimen  de  Penalidades prescripto por el Decreto N. 2.673 del 29 de diciembre de 1992, sin perjuicio  que la Autoridad de Aplicación, con carácter preventivo, disponga la  retención  del  vehículo  hasta  tanto se verifique el cumplimiento  de  los  requisitos de los Artículos  13,  14  y  15."
+            },
+            {
+              "numero-articulo": 17,
+              "texto": "Art.  17  :  La  SECRETARIA  DE  TRANSPORTE  del MINISTERIO DE ECONOMIA  Y  OBRAS  Y  SERVICIOS  PUBLICOS  será  la  autoridad  de aplicación del presente Decreto."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "Art.  18  :  La  autoridad de aplicación, conjuntamente con el MINISTERIO  DE  JUSTICIA,  arbitrarán  las  medidas  conducentes  a facilitar  el recambio  de  los  motores  de  los  vehículos,  y  a implementar la documentación pertinente."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "Art.  19 : Derógase el Decreto N. 405/81, sus modificatorios y complementarios  y  toda  otra  norma  que  se  oponga al presente."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "Art. 20 : Invítase a las Provincias a adherir a los principios del presente régimen."
+            },
+            {
+              "numero-articulo": 21,
+              "texto": "Art. 21 : El presente Decreto entrará en vigencia a partir del día de su publicación."
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "Art. 22 : Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "MENEM-CAVALLO"
+          }
+        }
+      ],
+      "id-infojus": "DN19920001494"
+    }
+  }
+}

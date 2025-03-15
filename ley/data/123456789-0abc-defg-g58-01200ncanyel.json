@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g58-01200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1576678409882,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11864-nacional-lnn0021085-1934-08-07"
+      }
+    },
+    "content": {
+      "mecanografico": "N0021085",
+      "numero-norma": 11864,
+      "timestamp": "2019-12-18T10:08:30",
+      "timestamp-m": "2019-12-18T10:08:30",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1934-08-07",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011864 1934 08 07",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11.864",
+          "BUENOS AIRES, 7 DE AGOSTO DE 1934"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1934 08 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1934 08 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400524",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.864",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-12-18",
+      "texto-original": {
+        "file-name": "N0021085.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0021085pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO AL MINISTERIO DE RELACIONES EXTERIORES Y CULTO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0021085"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g94-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676552393407,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4128-nacional-lnn0026349-1902-09-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026349",
+      "numero-norma": 4128,
+      "timestamp": "2023-02-16T09:33:19",
+      "timestamp-m": "2023-02-16T09:33:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1902-09-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004128 1902 09 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4128",
+          "BUENOS AIRES, 26 DE SETIEMBRE DE 1902"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1902 10 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190554",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.128",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2023-02-16",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 17454-(B.O. 7-11-1967)-ACTUALMENTE RIGE LA LEY 17454 (T.O. 81 POR DECRETO 1042-81-MODIFICACION DE LA LEY DE PROCEDIMIENTO EN LO CIVIL"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "ley procesal"
+          },
+          "preferido": {
+            "termino": "Derecho procesal/ley procesal"
+          },
+          "sinonimos": {
+            "termino": [
+              "ley adjetiva",
+              "ley que rige el procedimiento",
+              "ley de forma",
+              "normas procesales"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "ley adjetiva (ley procesal)",
+            "Derecho procesal",
+            "ley procesal",
+            "ley que rige el procedimiento (ley procesal)",
+            "ley de forma (ley procesal)",
+            "normas procesales (ley procesal)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026349"
+    }
+  }
+}

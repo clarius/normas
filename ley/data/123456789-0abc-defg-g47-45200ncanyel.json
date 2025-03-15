@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g47-45200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582204265480,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20014-nacional-lnn0025474-1972-12-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025474",
+      "numero-norma": 20014,
+      "timestamp": "2020-02-20T09:51:02",
+      "timestamp-m": "2020-02-20T09:51:02",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-12-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020014 1972 12 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20014",
+          "BUENOS AIRES, 13 DE DICIEMBRE DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 01 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 01 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003319730012",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.014",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2020-02-20",
+      "texto-original": {
+        "file-name": "N0025474.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0025474pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20527 (B.O. 21-9-73)-CREACION DEL CONSEJO NACIONAL DE EDUCACION COMO ORGANISMO DESCENTRALIZADO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "política educativa"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/política educativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política educacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Consejo Nacional de Educación"
+            },
+            "preferido": {
+              "termino": "Consejo Nacional de Educación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "política educacional (política educativa)",
+            "Consejo Nacional de Educación",
+            "política educativa",
+            "educación"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025474"
+    }
+  }
+}

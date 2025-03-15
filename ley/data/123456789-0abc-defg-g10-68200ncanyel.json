@@ -1,0 +1,101 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g10-68200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1536181935116,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24194-nacional-lnn0028601-1993-03-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028601",
+      "numero-norma": 24194,
+      "timestamp": "2018-09-05T17:10:44",
+      "timestamp-m": "2018-09-05T17:10:44",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1993-03-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024194 1993 03 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY N. 24.194",
+          "BUENOS AIRES, 31 DE MARZO DE 1993"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1992 04 29",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1993 04 29"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.194",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-09-05",
+      "texto-original": {
+        "file-name": "N0028601.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028601pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICA EL ARTICULO 34 DE LA LEY DE SEGURIDAD INTERIOR N. 24059 (B O. 17-1-92)"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Ley de Seguridad Interior"
+            },
+            "preferido": {
+              "termino": "Ley de Seguridad Interior"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "seguridad interior"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/seguridad interior"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "seguridad interior",
+            "seguridad pública",
+            "Ley de Seguridad Interior",
+            "defensa nacional (Defensa y seguridad)",
+            "seguridad nacional (seguridad pública)",
+            "Defensa y seguridad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028601"
+    }
+  }
+}

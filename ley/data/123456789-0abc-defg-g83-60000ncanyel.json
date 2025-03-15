@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g83-60000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1623063908325,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20028-nacional-lnn0000638-1972-12-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000638",
+      "numero-norma": 20028,
+      "timestamp": "2021-06-06T19:14:43",
+      "timestamp-m": "2021-06-06T19:14:43",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-12-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020028 1972 12 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 20028",
+          "BUENOS AIRES, 19 DE DICIEMBRE DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 12 27",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 12 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003319730054",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.028",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-06-06",
+      "texto-original": {
+        "file-name": "N0000638.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0000638pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO OBSERVATORIO-TRABAJO-ACCIDENTES DE TRABAJO-BANCOS-BANCO DE LA NACION ARGENTINA- ESTADO-PODER EJECUTIVO NACIONAL-MINISTERIOS-MINISTERIO DE ACCION SOCIAL-MINISTERIO DE BIENESTAR SOCIAL-CAJA DE ACCIDENTES DE TRABAJO Fondos-Depositos-- MODIFICA L. 18.881"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "accidentes de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "caja de accidentes de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/accidentes de trabajo/fondo de garantía"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "caja de accidentes de trabajo",
+                "caja de garantía",
+                "accidentes y enfermedades de trabajo"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "caja de accidentes de trabajo (fondo de garantía)",
+            "accidentes de trabajo",
+            "caja de garantía (fondo de garantía)",
+            "accidentes y enfermedades de trabajo (accidentes de trabajo)",
+            "Derecho laboral",
+            "fondo de garantía",
+            "derecho del trabajo (Derecho laboral)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000638"
+    }
+  }
+}

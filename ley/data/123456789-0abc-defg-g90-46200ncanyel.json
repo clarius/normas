@@ -1,0 +1,114 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g90-46200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584985616,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "490-nacional-lnn0026409-1871-10-03"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026409",
+      "numero-norma": 490,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1871-10-03",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000490 1871 10 03",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 490",
+          "BUENOS AIRES, 3 DE OCTUBRE DE 1871"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1871 10 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000018800939",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 490",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "OBSERVACION DEROGADA POR ART 3 DE LEY 607"
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 607-(R.N. 1870-73 PAGINA 448)-AUTORIZACION PARA IMPRIMIR TITULOS DE LA DEUDA PUBLICA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "deuda pública"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/deuda pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "títulos públicos"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/títulos públicos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "títulos municipales",
+                "derecho económico financiero",
+                "títulos nacionales",
+                "títulos provinciales",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "títulos públicos",
+            "sistema financiero",
+            "títulos municipales (títulos públicos)",
+            "derecho financiero (Economía y finanzas)",
+            "deuda pública",
+            "títulos nacionales (títulos públicos)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "títulos provinciales (títulos públicos)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026409"
+    }
+  }
+}

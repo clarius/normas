@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g55-83200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676552396851,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4183-nacional-lnn0023855-1903-07-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023855",
+      "numero-norma": 4183,
+      "timestamp": "2023-02-16T09:33:19",
+      "timestamp-m": "2023-02-16T09:33:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1903-07-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004183 1903 07 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4183",
+          "BUENOS AIRES, 11 DE DICIEMBRE DE 1902"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1903 07 24"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190596",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.183",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-16",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "APRUEBA CONVENIO DEL 11 DE DICIEMBRE DE 1902 PARA FACILITAR LA CONVENCION FERROVIARIA DEL 30 DE JUNIO DE 1894"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "FERROCARRILES ARGENTINOS"
+            },
+            "preferido": {
+              "termino": "FERROCARRILES ARGENTINOS"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "FERROCARRILES ARGENTINOS"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023855"
+    }
+  }
+}

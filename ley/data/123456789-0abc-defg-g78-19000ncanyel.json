@@ -1,0 +1,116 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g78-19000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1670929402941,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21480-nacional-lnn0009187-1976-12-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0009187",
+      "numero-norma": 21480,
+      "timestamp": "2022-12-13T07:52:57",
+      "timestamp-m": "2022-12-13T07:52:57",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1976-12-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021480 1976 12 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.480",
+          "BUENOS AIRES, 27 DE DICIEMBRE DE 1976"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1976 12 31",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 12 31"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003719770054",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.480",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2022-12-13",
+      "texto-original": {
+        "file-name": "N0009187.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0009187pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 23799 (B.O. 20-09-1990)-FUERZAS DE SEGURIDAD- PERSONAL DE LAS FUERZAS DE SEGURIDAD DE LA NACION INCAPACITADO-EN FORMA PERMANENTE EN ACTO DE SERVICIO-DEROGA LEY 20774 AHORA REIMPLANTADA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "personal militar"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/derecho militar/Fuerzas Armadas/personal militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal de las Fuerzas Armadas",
+                "defensa nacional",
+                "personal de las fuerzas armadas y de seguridad",
+                "militares"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "accidente en acto de servicio"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/actos de servicio/accidente en acto de servicio"
+            },
+            "sinonimos": {
+              "termino": [
+                "defensa nacional",
+                "soldado lesionado",
+                "incapacidad por acto de servicio"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "accidente en acto de servicio",
+            "militares (personal militar)",
+            "personal de las fuerzas armadas y de seguridad (personal militar)",
+            "personal militar",
+            "actos de servicio",
+            "personal de las Fuerzas Armadas (personal militar)",
+            "incapacidad por acto de servicio (accidente en acto de servicio)",
+            "defensa nacional (Defensa y seguridad)",
+            "derecho militar",
+            "soldado lesionado (accidente en acto de servicio)",
+            "Defensa y seguridad",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0009187"
+    }
+  }
+}

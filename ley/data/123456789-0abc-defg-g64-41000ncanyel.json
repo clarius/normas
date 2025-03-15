@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g64-41000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1581953423779,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15761-nacional-lnn0001446-1960-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001446",
+      "numero-norma": 15761,
+      "timestamp": "2020-02-17T11:37:12",
+      "timestamp-m": "2020-02-17T11:37:12",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015761 1960 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "*LEY 15.761",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 11 07",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 11 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A002019600141",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.761",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-17",
+      "texto-original": {
+        "file-name": "N0001446.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001446pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR NUEVO REGIMEN-ECONOMIA-TRANSPORTE-TRANSPORTE MARITIMO,FLUVIAL Y LACUSTRE- INTERESES MARITIMOS Y FLUVIALES-ESTADO-ADMINISTRACION PUBLICA NACIONAL-EMPRESAS DEL ESTADO-EMPRESA LINEAS MARITIMAS ARGENTINAS- Creación-PODER EJECUTIVO NACIONAL-SECRETARIAS DE ESTADO-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte marítimo"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte por agua/transporte marítimo"
+            },
+            "sinonimos": {
+              "termino": "navegación marítima"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Empresa Líneas Marítimas Argentinas"
+            },
+            "preferido": {
+              "termino": "ELMA"
+            },
+            "sinonimos": {
+              "termino": "Empresa Líneas Marítimas Argentinas"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte por agua",
+            "navegación marítima (transporte marítimo)",
+            "Empresa Líneas Marítimas Argentinas (ELMA)",
+            "Transporte",
+            "contrato de transporte",
+            "ELMA",
+            "transporte marítimo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001446"
+    }
+  }
+}

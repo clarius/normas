@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g48-54100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676552394751,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5131-nacional-lnn0014584-1907-09-12"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014584",
+      "numero-norma": 5131,
+      "timestamp": "2023-02-16T09:51:02",
+      "timestamp-m": "2023-02-16T09:51:02",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1907-09-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005131 1907 09 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.131",
+          "BUENOS AIRES, 12 DE SEPTIEMBRE DE 1907"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1907 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": null
+      },
+      "publicacion-privada": "ADLA                                                  000 019190729",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.131",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-16",
+      "texto-original": {
+        "file-name": "N0014584.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014584pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "INMUEBLES-INDEMNIZACIONES. INDEMNIZACION POR DESALOJO DE CONSTRUCCIONES ERIGIDOS POR ONOFRE DANIERI"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014584"
+    }
+  }
+}

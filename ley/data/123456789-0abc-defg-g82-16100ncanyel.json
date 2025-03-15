@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g82-16100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584635920,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18203-nacional-lnn0016128-1969-05-12"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016128",
+      "numero-norma": 18203,
+      "timestamp": "2013-01-19T19:15:37",
+      "timestamp-m": "2013-01-19T19:15:37",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-05-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018203 1969 05 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 18.203",
+          "BUENOS AIRES, 12 DE MAYO DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1969 05 16",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1969 05 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B002919691397",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.203",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22250 (B.O. 17-07-1980) REGIMEN LEGAL PARA EL PERSONAL DE LA INDUSTRIA DE LA CONSTRUCCION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "industria de la construcción"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria de la construcción"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "obreros de la construcción"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/actividades laborales/trabajadores de la construcción"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "obreros de la construcción"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "industria de la construcción",
+            "actividades laborales",
+            "trabajadores de la construcción",
+            "obreros de la construcción (trabajadores de la construcción)",
+            "Derecho laboral",
+            "productos industriales (actividad industrial)",
+            "industria (actividad industrial)",
+            "Actividades económicas",
+            "derecho del trabajo (Derecho laboral)",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016128"
+    }
+  }
+}

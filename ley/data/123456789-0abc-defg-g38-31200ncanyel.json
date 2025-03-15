@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g38-31200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1603807550358,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "5113-nacional-lnn0021383-1963-06-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0021383",
+      "numero-norma": 5113,
+      "timestamp": "2020-10-27T10:30:23",
+      "timestamp-m": "2020-10-27T10:30:23",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1963-06-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 005113 1963 06 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 5.113",
+          "BUENOS AIRES, 25 DE JUNIO DE 1963"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1963 07 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1963 07 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  023 B19630882",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 5.113/63",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-10-27",
+      "texto-original": {
+        "file-name": "N0021383.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0021383pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA GASTO-REPARACION DE NAVE EN EL AEROPUERTO DEL CALLAO EN LIMA,PERU"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "aeronaves"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/aeronaves"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "reparación de aeronaves"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/aeronaves/reparación de aeronaves"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "aeropuertos"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/infraestructura aeronáutica/aeropuertos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "infraestructura aeronáutica",
+            "Derecho aeronáutico",
+            "aeronaves",
+            "aeropuertos",
+            "reparación de aeronaves"
+          ]
+        }
+      },
+      "id-infojus": "LNN0021383"
+    }
+  }
+}

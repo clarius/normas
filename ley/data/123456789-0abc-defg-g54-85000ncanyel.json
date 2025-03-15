@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g54-85000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1619557697815,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17785-nacional-lnn0005845-1968-06-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005845",
+      "numero-norma": 17785,
+      "timestamp": "2021-04-27T17:56:44",
+      "timestamp-m": "2021-04-27T17:56:44",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-06-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017785 1968 06 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.785",
+          "BUENOS AIRES, 24 DE JUNIO DE 1968"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1968 06 28",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 06 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  028 B19681892",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.785",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-04-27",
+      "texto-original": {
+        "file-name": "N0005845.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005845pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN INMUEBLE SITUADO EN LA CAPITAL FEDERAL CON DESTINO AL DESTACAMENTO DEL CUERPO DE POLICIA MONTADA DE LA SECCIONAL 42"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005845"
+    }
+  }
+}

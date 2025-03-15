@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g91-87200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582204367730,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22730-nacional-lnn0027819-1983-02-02"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027819",
+      "numero-norma": 22730,
+      "timestamp": "2020-02-20T09:51:04",
+      "timestamp-m": "2020-02-20T09:51:04",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1983-02-02",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022730 1983 02 02",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 022730",
+          "BUENOS AIRES 02 DE FEBRERO DE 1983"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1983 02 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1983 02 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  043 A19830031",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.730",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-20",
+      "texto-original": {
+        "file-name": "N0027819.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027819pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRORROGA DE CONCESION DE USO-OTORGADA A LA SOCIEDAD RURAL ARGENTINA CON RESPECTO AL INMUEBLE FISCAL QUE OCUPA EN PALERMO-MODIFICA LEY 22.036."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027819"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g49-03200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1493209633268,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "19700-nacional-lnn0023094-1956-10-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023094",
+      "numero-norma": 19700,
+      "timestamp": "2017-04-26T05:19:43",
+      "timestamp-m": "2017-04-26T05:19:43",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1956-10-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 019700 1956 10 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 19700/56 RATIFICADO POR LEY 14467",
+          "BUENOS AIRES, 24 DE OCTUBRE DE 1956"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1956 10 31",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1956 10 31"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  016 A19561058",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 19.700/56",
+      "ratificado-por": "RATIFICADO POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-04-26",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE BIENES DE LA FIRMA ASTILLEROS TIGRE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "bienes"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "astilleros"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria naval/astilleros"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos industriales",
+                "industria"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "industria naval",
+            "astilleros",
+            "productos industriales (actividad industrial)",
+            "bienes",
+            "industria (actividad industrial)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Actividades económicas",
+            "Derecho administrativo",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023094"
+    }
+  }
+}

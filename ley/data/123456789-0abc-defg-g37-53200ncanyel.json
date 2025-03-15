@@ -1,0 +1,90 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g37-53200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1609240293380,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11621-nacional-lnn0023573-1932-09-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023573",
+      "numero-norma": 11621,
+      "timestamp": "2020-12-29T06:49:01",
+      "timestamp-m": "2020-12-29T06:49:01",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1932-09-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011621 1932 09 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11621",
+          "BUENOS AIRES, 19 DE SETIEMBRE DE 1932"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1932 10 05",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1932 10 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400260",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.621",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-12-29",
+      "texto-original": {
+        "file-name": "N0023573.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0023573pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREA COMISION TECNICA PARA ESTUDIO DE AGUAS TERMALES Y MINERALES"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "aguas termales"
+          },
+          "preferido": {
+            "termino": "Recursos naturales/recursos hídricos/aguas termales"
+          },
+          "sinonimos": {
+            "termino": [
+              "recursos hidrotermales",
+              "aguas"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "aguas (recursos hídricos)",
+            "aguas termales",
+            "recursos hidrotermales (aguas termales)",
+            "Recursos naturales",
+            "recursos hídricos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023573"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g92-19100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1593000557492,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14162-nacional-lnn0019129-1952-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0019129",
+      "numero-norma": 14162,
+      "timestamp": "2020-06-24T08:53:43",
+      "timestamp-m": "2020-06-24T08:53:43",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1952-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014162 1952 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14162",
+          "BUENOS AIRES, 29 DE SETIEMBRE DE 1952"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1952 10 30",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1952 10 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  012 A19520032",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.162",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-24",
+      "texto-original": {
+        "file-name": "N0019129.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0019129pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICA LEY 14002 CON AMBITO TEMPORAL CUMPLIDO PRESUPUESTO DEL DISTRITO FEDERAL-MODIFICATORIA DE LEY 14002 DE PRESUPUESTO DEL DISTRITO FEDERAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Municipalidad de la Ciudad de Buenos Aires"
+            },
+            "preferido": {
+              "termino": "Municipalidad de la Ciudad de Buenos Aires"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "Municipalidad de la Ciudad de Buenos Aires",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0019129"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g82-35100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584431661,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2641-nacional-lnn0015328-1889-10-12"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015328",
+      "numero-norma": 2641,
+      "timestamp": "2013-06-07T12:43:15",
+      "timestamp-m": "2013-06-07T12:43:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1889-10-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002641 1889 10 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 2641",
+          "BUENOS AIRES, 12 DE OCTUBRE DE 1889"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1889 10 12"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A000018890219",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.641",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 2783-AUTORIZACION AL PODER EJECUTIVO PARA VENDER TIERRAS PUBLICAS EN EUROPA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "tierras fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/territorio/tierras/tierras fiscales"
+            },
+            "sinonimos": {
+              "termino": "tierras públicas"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "venta de inmuebles"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/Contratos/contratos civiles/compraventa/compraventa inmobiliaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "venta de inmuebles",
+                "contrato de compraventa",
+                "venta",
+                "compraventa de inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "tierras",
+            "contrato de compraventa (compraventa)",
+            "Contratos",
+            "compraventa",
+            "territorio",
+            "Estado",
+            "Derecho constitucional",
+            "contratos civiles",
+            "venta (compraventa)",
+            "venta de inmuebles (compraventa inmobiliaria)",
+            "tierras públicas (tierras fiscales)",
+            "Obligaciones y contratos",
+            "compraventa de inmuebles (compraventa inmobiliaria)",
+            "compraventa inmobiliaria",
+            "tierras fiscales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015328"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g41-97100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599084481355,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15269-nacional-lnn0017914-1960-02-03"
+      }
+    },
+    "content": {
+      "mecanografico": "N0017914",
+      "numero-norma": 15269,
+      "timestamp": "2020-09-02T18:53:22",
+      "timestamp-m": "2020-09-02T18:53:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-02-03",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015269 1960 02 03",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15.269",
+          "BUENOS AIRES, 3 DE FEBRERO DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 02 27",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 02 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  020 A19600008",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.269",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-02",
+      "texto-original": {
+        "file-name": "N0017914.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0017914pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DECLARA DE UTILIDAD PUBLICA DIVERSOS INMUEBLES UBICADOS EN CAPITAL FEDERAL,A FAVOR DE LA MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0017914"
+    }
+  }
+}

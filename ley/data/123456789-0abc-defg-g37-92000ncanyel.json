@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g37-92000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582035216862,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22710-nacional-lnn0002973-1983-01-12"
+      }
+    },
+    "content": {
+      "mecanografico": "N0002973",
+      "numero-norma": 22710,
+      "timestamp": "2020-02-18T10:45:40",
+      "timestamp-m": "2020-02-18T10:45:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1983-01-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022710 1983 01 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.710",
+          "BUENOS AIRES, 12 DE ENERO DE 1983"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1983 01 14",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1983 01 14"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.710",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-18",
+      "texto-original": {
+        "file-name": "N0002973.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0002973pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO MODIFICATORIO-ESTADO-POBLACION-REGISTRO NACIONAL DE LAS PERSONAS-DERECHO CIVIL-NACIMIENTO-Amnistia-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "identificación de las personas"
+            },
+            "preferido": {
+              "termino": "Derecho civil/persona humana/identificación de las personas"
+            },
+            "sinonimos": {
+              "termino": [
+                "personas de existencia visible",
+                "personas físicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "registro nacional de las personas"
+            },
+            "preferido": {
+              "termino": "Derecho civil/persona humana/identificación de las personas/registro nacional de las personas"
+            },
+            "sinonimos": {
+              "termino": [
+                "personas de existencia visible",
+                "personas físicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "registro nacional de las personas",
+            "identificación de las personas",
+            "persona humana",
+            "Derecho civil",
+            "personas de existencia visible (persona humana)",
+            "personas físicas (persona humana)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0002973"
+    }
+  }
+}

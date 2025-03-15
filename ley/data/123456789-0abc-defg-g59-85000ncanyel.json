@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g59-85000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1619557697902,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18627-nacional-lnn0005895-1970-03-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005895",
+      "numero-norma": 18627,
+      "timestamp": "2021-04-27T17:56:45",
+      "timestamp-m": "2021-04-27T17:56:45",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1970-03-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018627 1970 03 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18.627",
+          "BUENOS AIRES, 13 DE MARZO DE 1970"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1970 03 24",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1970 03 24"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  030 A19700202",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.627",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-04-27",
+      "texto-original": {
+        "file-name": "N0005895.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005895pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES EN MARCOS JUAREZ,PROVINCIA DE CORDOBA, PARA LA CONSTRUCCION DEL SISTEMA DE RADIOENLACE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005895"
+    }
+  }
+}

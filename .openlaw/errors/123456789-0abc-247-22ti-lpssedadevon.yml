@@ -1,0 +1,106 @@
+Attempts: 5
+Exception: >-
+  System.NotSupportedException: Invalid document data'.
+     at Clarius.OpenLaw.Argentina.Document.ParseAsync(String json) in /_/src/OpenLaw/Argentina/Document.cs:line 50
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw/Argentina/SaijClient.cs:line 183
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw/Argentina/SaijClient.cs:line 128
+     at Clarius.OpenLaw.Argentina.SyncCommand.SyncAction.ExecuteAsync() in /_/src/OpenLaw/Argentina/SyncCommand.cs:line 218
+Item:
+  Id: 123456789-0abc-247-22ti-lpssedadevon
+  ContentType: Novedad
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: A
+  Date: 2019-12-14
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-247-22ti-lpssedadevon
+        document-content-type: novedad
+        friendly-url:
+          description: revision-regimen-alta-direccion-publica-revision-regimen-alta-direccion-publica-nv22742-2019-12-14
+      content:
+        seq: 22742
+        archivo: 20
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        nro_norma: 36
+        titulo_1: Revisión del Régimen de Alta Dirección Pública
+        sintesis: Empleo Público. Se establece la suspensión por 180 días del Decreto 788/19, convocándose a la Comisión Negociadora del Convenio Colectivo de la Administración Pública Nacional a reunirse dentro de los próximos 90 días. Modificación del art. 4 del Decreto 1035/18, disponiendo que en  ningún caso la prórroga de designaciones podrá exceder el 31 de marzo. Instrucción de revisar los procesos concursales, la selección de personal y las designaciones efectuadas por procesos concursales durante los últimos 2 años.
+        fecha: 2019-12-14
+        fecha_bo: 2019-12-14
+        fecha_alta: 2019-12-16
+        ppublic_nov: 7
+        d_link:
+          filename: dec362019.pdf
+          uuid: lmnoprst-uvwn-oved-ades-dec362019pdf
+        fecha_umod: 20/12/2019
+        status: A
+        titulo_noticia: Revisión del Régimen de Alta Dirección Pública
+        destacada: 0
+        nro_orden: 99
+        fecha_destacada: 20/12/2019 10:18:16.238147-03
+        fecha_newsletter: 23/12/2019 00:00:00-03
+        jurisdiccion: Nacional
+        subtipo: Decreto
+        id-infojus: NV22742
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-247-22ti-lpssedadevon",
+          "document-content-type": "novedad",
+          "friendly-url": {
+            "subdomain": null,
+            "description": "revision-regimen-alta-direccion-publica-revision-regimen-alta-direccion-publica-nv22742-2019-12-14"
+          }
+        },
+        "content": {
+          "seq": 22742,
+          "archivo": 20,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "nro_norma": 36,
+          "titulo_1": "Revisión del Régimen de Alta Dirección Pública",
+          "sintesis": "Empleo Público. Se establece la suspensión por 180 días del Decreto 788/19, convocándose a la Comisión Negociadora del Convenio Colectivo de la Administración Pública Nacional a reunirse dentro de los próximos 90 días. Modificación del art. 4 del Decreto 1035/18, disponiendo que en  ningún caso la prórroga de designaciones podrá exceder el 31 de marzo. Instrucción de revisar los procesos concursales, la selección de personal y las designaciones efectuadas por procesos concursales durante los últimos 2 años.",
+          "fecha": "2019-12-14",
+          "fecha_bo": "2019-12-14",
+          "fecha_alta": "2019-12-16",
+          "ppublic_nov": 7,
+          "d_link": {
+            "filename": "dec362019.pdf",
+            "uuid": "lmnoprst-uvwn-oved-ades-dec362019pdf"
+          },
+          "fecha_umod": "20/12/2019",
+          "status": "A",
+          "titulo_noticia": "Revisión del Régimen de Alta Dirección Pública",
+          "descriptores": null,
+          "destacada": 0,
+          "nro_orden": 99,
+          "fecha_destacada": "20/12/2019 10:18:16.238147-03",
+          "fecha_newsletter": "23/12/2019 00:00:00-03",
+          "jurisdiccion": "Nacional",
+          "subtipo": "Decreto",
+          "id-infojus": "NV22742"
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-247-22ti-lpssedadevon",
+      "contentType": "novedad",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2019-12-14",
+      "status": "A",
+      "timestamp": null
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional

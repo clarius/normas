@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g89-65000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1626951575989,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18118-nacional-lnn0005698-1969-01-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005698",
+      "numero-norma": 18118,
+      "timestamp": "2021-07-22T07:35:26",
+      "timestamp-m": "2021-07-22T07:35:26",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-01-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018118 1969 01 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18.118",
+          "BUENOS AIRES, 31 DE ENERO DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1969 02 28",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1969 02 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  029 A19690147",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.118",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-22",
+      "texto-original": {
+        "file-name": "N0005698.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005698pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES PARA LA REALIZACION DEL COMPLEJO HIDROELECTRICO EL CHOCON-CERROS COLORADOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005698"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g12-36000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1592392266678,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16795-nacional-lnn0006321-1965-10-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006321",
+      "numero-norma": 16795,
+      "timestamp": "2020-06-17T07:45:33",
+      "timestamp-m": "2020-06-17T07:45:33",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1965-10-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016795 1965 10 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.795",
+          "BUENOS AIRES, 30 DE OCTUBRE DE 1965"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1965 12 21",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1965 12 21"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  025 C19652167",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.795",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-17",
+      "texto-original": {
+        "file-name": "N0006321.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006321pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICA LEY 16662 SUSTITUCION DE UNA LEYENDA DE LA PARTIDA 31 DE LA PROVINCIA DE SANTA FE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Santa Fe"
+            },
+            "preferido": {
+              "termino": "Santa Fe"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "Santa Fe",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006321"
+    }
+  }
+}

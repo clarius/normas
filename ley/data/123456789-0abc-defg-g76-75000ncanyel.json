@@ -1,0 +1,109 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g76-75000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582034863181,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17570-nacional-lnn0005767-1967-12-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005767",
+      "numero-norma": 17570,
+      "timestamp": "2020-02-18T10:45:41",
+      "timestamp-m": "2020-02-18T10:45:41",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-12-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017570 1967 12 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.570",
+          "BUENOS AIRES, 19 DE DICIEMBRE DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 12 20",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 12 20"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 C19672910",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.570",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-18",
+      "texto-original": {
+        "file-name": "N0005767.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005767pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ACADEMIA NACIONAL DE HISTORIA AUTORIZACION PARA USAR EL ANTIGUO CONGRESO NACIONAL PARA ESTABLECER SU SEDE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "academias nacionales"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/academias nacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "historia"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/ciencia y tecnología/ciencias sociales/historia"
+            },
+            "sinonimos": {
+              "termino": "Educación y Cultura"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "ciencia y tecnología",
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "ciencias sociales",
+            "cultura",
+            "academias nacionales",
+            "política científica (política cultural)",
+            "política tecnológica (política cultural)",
+            "historia",
+            "política cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005767"
+    }
+  }
+}

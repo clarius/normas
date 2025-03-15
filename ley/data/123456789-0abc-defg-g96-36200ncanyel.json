@@ -1,0 +1,96 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g96-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584182675,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3335-nacional-lnn0026369-1895-12-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026369",
+      "numero-norma": 3335,
+      "timestamp": "2013-01-19T19:15:31",
+      "timestamp-m": "2013-01-19T19:15:31",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1895-12-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003335 1895 12 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3335",
+          "BUENOS AIRES, 19 DE DICIEMBRE DE 1895"
+        ]
+      },
+      "datos-publicacion": "SIN FECHA         1895 12 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1895 12 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190358",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.335",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 11179 (B.O.3-11-1921) PENAS A LOS REINCIDENTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "reincidencia"
+            },
+            "preferido": {
+              "termino": "Derecho penal/reincidencia"
+            },
+            "sinonimos": {
+              "termino": "régimen de reincidencia"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pena"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena"
+            },
+            "sinonimos": {
+              "termino": "sanción penal"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sanción penal (pena)",
+            "régimen de reincidencia (reincidencia)",
+            "Derecho penal",
+            "pena",
+            "reincidencia"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026369"
+    }
+  }
+}

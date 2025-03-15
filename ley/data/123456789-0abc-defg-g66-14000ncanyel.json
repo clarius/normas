@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g66-14000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557936846232,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21518-nacional-lnn0004166-1977-01-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004166",
+      "numero-norma": 21518,
+      "timestamp": "2019-05-15T12:25:09",
+      "timestamp-m": "2019-05-15T12:25:09",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1977-01-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021518 1977 01 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.518",
+          "BUENOS AIRES, 28 DE ENERO DE 1977"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1977 02 03",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1977 02 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  037 A19770109",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.518",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-15",
+      "texto-original": {
+        "file-name": "N0004166.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0004166pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DECLARACION DE UTILIDAD PUBLICA-EXPROPIACION-INMUEBLE DE LA CALLE SARMIENTO ESQUINA BELGRANO DE SAN MIGUEL-PROVINCIA DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004166"
+    }
+  }
+}

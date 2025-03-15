@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g94-65200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584365057,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18235-nacional-lnn0025649-1969-05-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025649",
+      "numero-norma": 18235,
+      "timestamp": "2013-01-19T19:15:52",
+      "timestamp-m": "2013-01-19T19:15:52",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-05-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018235 1969 05 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18235",
+          "BUENOS AIRES, 30 DE MAYO DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1969 06 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1969 06 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B002919691413",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.235",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "SIN EFICACIA POR ARTICULOS 1 Y 2 DE LA LEY 20509 (B.O. 28-05-73)- EXPULSION DE EXTRANJEROS-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "migraciones"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones"
+            },
+            "sinonimos": {
+              "termino": "inmigración"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros"
+            },
+            "sinonimos": {
+              "termino": "inmigración"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "expulsión de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/admisión y permanencia de extranjeros/expulsión de extranjeros"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmigración",
+                "extranjeros expulsados"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extranjeros expulsados (expulsión de extranjeros)",
+            "admisión y permanencia de extranjeros",
+            "extranjeros",
+            "expulsión de extranjeros",
+            "inmigración (migraciones)",
+            "Derecho administrativo",
+            "migraciones"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025649"
+    }
+  }
+}

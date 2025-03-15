@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g50-46200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584815144,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "667-nacional-lnn0026405-1874-07-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026405",
+      "numero-norma": 667,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1874-07-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000667 1874 07 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 667",
+          "BUENOS AIRES, 24 DE JULIO DE 1874"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1874 07 24"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000018800982",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 667",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "observaciones-generales": "OBSERVACION DEROGADA POR LEY 728"
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 728-(R.N. T. 1874-77 PAGINA 228)-AUTORIZA ADQUISICION DE OBRAS DEL DOCTOR LUIS VARELA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "compraventa"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/Contratos/contratos civiles/compraventa"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de compraventa",
+                "venta"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "contratos civiles",
+            "contrato de compraventa (compraventa)",
+            "venta (compraventa)",
+            "Contratos",
+            "Obligaciones y contratos",
+            "compraventa",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026405"
+    }
+  }
+}

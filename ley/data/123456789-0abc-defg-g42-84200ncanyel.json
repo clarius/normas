@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g42-84200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1513800494924,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "37-nacional-lnn0024824-1863-06-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024824",
+      "numero-norma": 37,
+      "timestamp": "2017-12-20T16:36:02",
+      "timestamp-m": "2017-12-20T16:36:02",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1863-06-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000037 1863 06 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 37",
+          "BUENOS AIRES, 25 DE JUNIO DE 1863"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1863 06 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800357",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 37",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-12-20",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-IMPUESTO DE SELLOS PARA 1863 Y 1864"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "impuestos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/tributos/impuestos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Impuesto de sellos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/tributos/impuestos/Impuesto de sellos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "gravámenes (tributos)",
+            "derecho tributario",
+            "impuestos",
+            "Impuesto de sellos",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "tributos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024824"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g08-33200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1603278494244,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "5748-nacional-lnn0023380-1957-05-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023380",
+      "numero-norma": 5748,
+      "timestamp": "2020-10-20T20:49:09",
+      "timestamp-m": "2020-10-20T20:49:09",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1957-05-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 005748 1957 05 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 5748/57 RATIFICADO POR LEY 14467",
+          "BUENOS AIRES, 30 DE MAYO DE 1957"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1957 06 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1957 06 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  017 A19570520",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 5.748/57",
+      "ratificado-por": "RATIFICADO POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-10-20",
+      "texto-original": {
+        "file-name": "N0023380.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0023380pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "APROBACION DEL ACUERDO SUSCRIPTO CON EL EXPORT-IMPORT BANK DE WASHINGTON EL 15 DE FEBRERO DE 1957 (LINEA DE CREDITO PARA LOCOMOTORAS,VAGONES,EQUIPOS FERROVIARIOS,MAQUINAS TABULADORAS, REMOLCADORES Y EQUIPOS PARA CONSTRUCCION DE CAMINOS)"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023380"
+    }
+  }
+}

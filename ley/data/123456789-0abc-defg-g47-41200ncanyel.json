@@ -1,0 +1,116 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g47-41200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584724149,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11324-nacional-lnn0021474-1925-06-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0021474",
+      "numero-norma": 11324,
+      "timestamp": "2014-09-04T14:36:45",
+      "timestamp-m": "2014-09-04T14:36:45",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1925-06-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011324 1925 06 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11324",
+          "BUENOS AIRES, 28 DE JUNIO DE 1925"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1925 09 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1925 09 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400194",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.324",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-09-04",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEMANDAS CONTRA LA NACION-VENIA A JORGE HAINARD Y OTROS PARA DEMANDAR A LA NACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "actos y diligencias procesales"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/actos y diligencias procesales"
+            },
+            "sinonimos": {
+              "termino": [
+                "diligencias procesales",
+                "actos procesales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "venia judicial"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/actos y diligencias procesales/autorización judicial"
+            },
+            "sinonimos": {
+              "termino": [
+                "venia judicial",
+                "diligencias procesales",
+                "actos procesales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "diligencias procesales (actos y diligencias procesales)",
+            "actos procesales (actos y diligencias procesales)",
+            "actos y diligencias procesales",
+            "venia judicial (autorización judicial)",
+            "Derecho procesal",
+            "Estado Nacional",
+            "autorización judicial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0021474"
+    }
+  }
+}

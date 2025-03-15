@@ -1,0 +1,119 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g90-65200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584492244,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18792-nacional-lnn0025609-1970-09-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025609",
+      "numero-norma": 18792,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1970-09-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018792 1970 09 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY N. 18.792",
+          "BUENOS AIRES, 21 DE SEPTIEMBRE DE 1970"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1970 09 29",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1970 09 29"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.792",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 19374 (B.O. 12-1-1972)-PRIVATIZACION COMPAÑIA NACIONAL AZUCARERA S.A."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Actividades económicas"
+            },
+            "preferido": {
+              "termino": "Actividades económicas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "privatizaciones"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/sujetos de derecho administrativo/empresas del Estado/privatizaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "empresas públicas",
+                "sociedades del Estado",
+                "empresa privatizada"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "industria azucarera"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/industria azucarera"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria",
+                "productos industriales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "industria alimenticia",
+            "sujetos de derecho administrativo",
+            "empresas públicas (empresas del Estado)",
+            "empresa privatizada (privatizaciones)",
+            "empresas del Estado",
+            "privatizaciones",
+            "productos industriales (actividad industrial)",
+            "industria (actividad industrial)",
+            "sociedades del Estado (empresas del Estado)",
+            "industria azucarera",
+            "Derecho administrativo",
+            "Actividades económicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025609"
+    }
+  }
+}

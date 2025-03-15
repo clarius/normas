@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g62-46200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583914743,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "44-nacional-lnn0026426-1855-09-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026426",
+      "numero-norma": 44,
+      "timestamp": "2013-06-07T12:43:15",
+      "timestamp-m": "2013-06-07T12:43:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1855-09-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000044 1855 09 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. C.P. (044)",
+          "PARANA, 13 DE SETIEMBRE DE 1855"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1855 09 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000018800120",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 44",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "observaciones-generales": "OBSERVACION LEY SANCIONADA POR EL CONGRESO DE PARANA"
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 156 (R.N. T. 1863-69 PAGINA 235) PAPEL SELLADO PARA EL AÑO 1855-1857"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "actuaciones administrativas"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/procedimiento administrativo/actuaciones administrativas"
+            },
+            "sinonimos": {
+              "termino": [
+                "expediente administrativo",
+                "proceso administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "papel sellado"
+            },
+            "preferido": {
+              "termino": "papel sellado"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "proceso administrativo (procedimiento administrativo)",
+            "actuaciones administrativas",
+            "expediente administrativo (actuaciones administrativas)",
+            "procedimiento administrativo",
+            "papel sellado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026426"
+    }
+  }
+}

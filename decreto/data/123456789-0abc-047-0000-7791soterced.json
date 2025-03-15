@@ -1,0 +1,147 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-047-0000-7791soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1411054714570,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "740-nacional-se-deja-sin-efecto-arresto-ciudadano-dn19770000740-1977-03-17"
+      }
+    },
+    "content": {
+      "mecanografico": 19770000740,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 740,
+      "timestamp": "2014-09-17T12:41:03",
+      "timestamp-alta": "2013-05-06T08:30:10",
+      "timestamp-m": "2014-09-17T12:41:03",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1977-03-17",
+      "standard-normativo": "DEC C 000740 1977 03 17",
+      "titulo-norma": "Se deja sin efecto arresto de ciudadano",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2014 03 25"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 740/1977",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "2013-05-06",
+      "fecha-mod": "2014-09-17",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "Se deja sin efecto el arresto a disposicion del Poder ejecutivo Nacional",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "arresto"
+            },
+            "preferido": {
+              "termino": "Derecho penal/proceso penal/situación del imputado/detención"
+            },
+            "sinonimos": {
+              "termino": [
+                "arresto",
+                "detención de personas",
+                "juicio criminal",
+                "procedimiento penal",
+                "juicio penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "decreto secreto"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/jerarquía de las leyes/decretos/decretos secretos y reservados/decreto secreto"
+            },
+            "sinonimos": {
+              "termino": [
+                "orden de prelación de las leyes",
+                "jerarquía normativa",
+                "orden jerárquico de las leyes"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "detención",
+            "arresto (detención)",
+            "juicio criminal (proceso penal)",
+            "juicio penal (proceso penal)",
+            "detención de personas (detención)",
+            "jerarquía normativa (jerarquía de las leyes)",
+            "orden jerárquico de las leyes (jerarquía de las leyes)",
+            "situación del imputado",
+            "Derecho constitucional",
+            "proceso penal",
+            "jerarquía de las leyes",
+            "orden de prelación de las leyes (jerarquía de las leyes)",
+            "procedimiento penal (proceso penal)",
+            "decretos secretos y reservados",
+            "Derecho penal",
+            "decretos",
+            "decreto secreto"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001368 1974 11 06 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 002717 1975 10 01 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "los Decretos 1368 del 6 de noviembre de 1974 y 2717 del 1º de octubre de 1975, y"
+      },
+      "considerando": {
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que han desaparecido las causas que determinaron las medidas adoptadas por Decretos 3558/75, 3668/75 y 3740/75, con respecto a algunas de las personas comprendidas en los mismos,Por ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1° - Déjase sin efecto el arresto a disposición del Poder Ejecutivo Nacional para con las personas de Horacio Arístides ZANDONADI (MI 10.262.253), Raúl Jorge OLAVE (MI 10.506.490) y Estela Beatriz LOMBARDO (LC 11.177.622)."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2° - Comuniquese, cúmplase y ARCHIVESE."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "- VIDELA."
+      },
+      "id-infojus": "DN19770000740"
+    }
+  }
+}

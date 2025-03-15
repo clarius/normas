@@ -1,0 +1,109 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g69-58100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1493210123187,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14823-nacional-lnn0018596-1959-08-12"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018596",
+      "numero-norma": 14823,
+      "timestamp": "2017-04-26T05:19:13",
+      "timestamp-m": "2017-04-26T05:19:13",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1959-08-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014823 1959 08 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14.823",
+          "BUENOS AIRES, 12 DE AGOSTO DE 1959"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1959 09 05",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1959 09 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  019 A19590079",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.823",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-04-26",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONVALIDA PROCEDIMIENTO PARA RECONSTRUCCION VIVIENDA-CONVALIDACION COMO CASO DE EXCEPCION DEL PROCEDIMIENTO PARA RECONSTRUCCION DE VIVIENDA DESTRUIDA POR ACCIDENTE DE AVIACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "vivienda"
+            },
+            "preferido": {
+              "termino": "Bienestar social/vivienda"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "construcción de viviendas"
+            },
+            "preferido": {
+              "termino": "Bienestar social/vivienda/construcción de viviendas"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "accidente de aviación"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/accidente de aviación"
+            },
+            "sinonimos": {
+              "termino": "accidente aéreo"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "accidente aéreo (accidente de aviación)",
+            "Bienestar social",
+            "acción social (Bienestar social)",
+            "vivienda",
+            "construcción de viviendas",
+            "Derecho aeronáutico",
+            "accidente de aviación"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018596"
+    }
+  }
+}

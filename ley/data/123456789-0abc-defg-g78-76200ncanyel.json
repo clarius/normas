@@ -1,0 +1,125 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g78-76200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1571314422668,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20194-nacional-lnn0026787-1973-02-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026787",
+      "numero-norma": 20194,
+      "timestamp": "2019-10-17T08:45:23",
+      "timestamp-m": "2019-10-17T08:45:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-02-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020194 1973 02 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20194",
+          "BUENOS AIRES, 28 DE FEBRERO DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 03 09",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 03 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003319730364",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.194",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2019-10-17",
+      "texto-original": {
+        "file-name": "N0026787.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0026787pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "DEROGADO_POR_0",
+              "ref": "LEY C 023554 1988 04 13 0038 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "DEROGADO_POR_1",
+              "ref": "LEY C 025520 2001 11 27 0045 000 0000 000"
+            }
+          ]
+        }
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR ART. 38 LEY 23554 (B.O. 05-05-88)-DEROGADA POR ART. 45 LEY 25520 (B.O. 06-12-01)-MODIFICATORIA DE LA LEY 16970-LEY DE DEFENSA NACIONAL-INTEGRACION Y FUNCIONES DE LA CENTRAL NACIONAL DE INTELIGENCIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "defensa nacional"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad"
+            },
+            "sinonimos": {
+              "termino": "defensa nacional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios de inteligencia"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/servicios de inteligencia"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "servicios de información",
+                "Servicio Nacional de Inteligencia",
+                "defensa nacional",
+                "Servicio de Inteligencia del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "seguridad pública",
+            "servicios de inteligencia",
+            "Servicio Nacional de Inteligencia (servicios de inteligencia)",
+            "defensa nacional (Defensa y seguridad)",
+            "servicios de información (servicios de inteligencia)",
+            "seguridad nacional (seguridad pública)",
+            "Servicio de Inteligencia del Estado (servicios de inteligencia)",
+            "Defensa y seguridad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026787"
+    }
+  }
+}

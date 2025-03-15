@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g65-45200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584668242,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20163-nacional-lnn0025456-1973-02-16"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025456",
+      "numero-norma": 20163,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-02-16",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020163 1973 02 16",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20163",
+          "BUENOS AIRES, 16 DE FEBRERO DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 02 23",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 02 23"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003319730306",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.163",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20744 (B.O. 27-9-77)-ACTUALIZACION DE TOPES EN LAS INDEMNIZACIONES POR DESPIDO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "indemnización por despido"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/despido/indemnización por despido"
+            },
+            "sinonimos": {
+              "termino": [
+                "distracto",
+                "contrato laboral",
+                "derecho del trabajo",
+                "denuncia del contrato de trabajo",
+                "distracto laboral",
+                "indemnización por antigüedad",
+                "despido del trabajador"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tope indemnizatorio"
+            },
+            "preferido": {
+              "termino": "tope indemnizatorio"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "despido del trabajador (despido)",
+            "distracto laboral (extinción del contrato de trabajo)",
+            "denuncia del contrato de trabajo (despido)",
+            "distracto (extinción del contrato de trabajo)",
+            "tope indemnizatorio",
+            "Derecho laboral",
+            "indemnización por despido",
+            "extinción del contrato de trabajo",
+            "indemnización por antigüedad (indemnización por despido)",
+            "contrato laboral (contrato de trabajo)",
+            "despido",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025456"
+    }
+  }
+}

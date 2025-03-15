@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g07-37200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1574691119618,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22283-nacional-lnn0027370-1980-09-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027370",
+      "numero-norma": 22283,
+      "timestamp": "2019-11-25T10:10:40",
+      "timestamp-m": "2019-11-25T10:10:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1980-09-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022283 1980 09 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.283",
+          "BUENOS AIRES, 4 DE SEPTIEMBRE DE 1980"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1980 09 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1980 09 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  040 D19803899",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.283",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-11-25",
+      "texto-original": {
+        "file-name": "N0027370.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027370pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN INMUEBLE UBICADO EN LA CAPITAL FEDERAL DESTINADO AL INSTITUTO DE CARDIOLOGIA Y CIRUJIA CARDIOVASCULAR"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027370"
+    }
+  }
+}

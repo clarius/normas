@@ -1,0 +1,89 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g79-54100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584367283,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3210-nacional-lnn0014597-1895-01-07"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014597",
+      "numero-norma": 3210,
+      "timestamp": "2013-12-19T14:38:39",
+      "timestamp-m": "2013-12-19T14:38:39",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1895-01-07",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003210 1895 01 07",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.210",
+          "BUENOS AIRES, 7 DE ENERO DE 1895"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1895 01 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190334",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.210",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-12-19",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "FERROCARRILES. EXPROPIACION DE TERRENO EN CABALLITO PARA EMPALME DE FERROCARRILES OESTE Y PACIFICO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "dominio del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "dominio del Estado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014597"
+    }
+  }
+}

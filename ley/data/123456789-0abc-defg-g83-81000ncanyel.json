@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g83-81000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584406738,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22243-nacional-lnn0001838-1980-06-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001838",
+      "numero-norma": 22243,
+      "timestamp": "2013-07-22T14:12:07",
+      "timestamp-m": "2013-07-22T14:12:07",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1980-06-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022243 1980 06 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.243",
+          "BUENOS AIRES, 23 DE JUNIO DE 1980"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1980 06 27",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1980 06 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  C004019802414",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.243",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-07-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO MODIFICATORIO-ESTADO-ADMINISTRACION PUBLICA NACIONAL-ORGANISMOS DEL ESTADO-AGRICULTURA-GANADERIA-PRODUCTORES AGROPECUARIOS-REGISTRO NACIONAL DE PRODUCTORES AGROPECUARIOS-Disolución-PODER EJECUTIVO NACIONAL-MINISTERIOS-MINISTERIO DE ECONOMIA:SECRETARIAS DE ESTADO-SECRETARIA DE ESTADO DE AGRICULTURA Y GANADERIA-Funciones-- DEROGA L. 13015"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "productores agropecuarios"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productores agropecuarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "registro nacional de productores agropecuarios"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productores agropecuarios/registro nacional de productores agropecuarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "actividad agropecuaria",
+            "agricultura (actividad agropecuaria)",
+            "productores agropecuarios",
+            "ganadería (actividad agropecuaria)",
+            "registro nacional de productores agropecuarios",
+            "Actividades económicas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001838"
+    }
+  }
+}

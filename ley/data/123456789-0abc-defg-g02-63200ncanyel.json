@@ -1,0 +1,118 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g02-63200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583887683,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "224-nacional-lnn0023620-1867-10-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023620",
+      "numero-norma": 224,
+      "timestamp": "2013-01-19T19:16:24",
+      "timestamp-m": "2013-01-19T19:16:24",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1867-10-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000224 1867 10 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 224",
+          "BUENOS AIRES, 9 DE OCTUBRE DE 1867"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1869 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1869 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800468",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 224",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 262-MODIFICA LEY 162 RETIROS Y PENSIONES MILITARES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Fuerzas Armadas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "personal militar"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/personal militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal de las Fuerzas Armadas",
+                "personal de las fuerzas armadas y de seguridad",
+                "militares"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "retiro militar"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/personal militar/retiro militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "personal de las Fuerzas Armadas",
+                "personal de las fuerzas armadas y de seguridad",
+                "militares",
+                "retiros y pensiones militares"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "militares (personal militar)",
+            "personal de las fuerzas armadas y de seguridad (personal militar)",
+            "personal militar",
+            "personal de las Fuerzas Armadas (personal militar)",
+            "derecho militar",
+            "Defensa nacional",
+            "retiros y pensiones militares (retiro militar)",
+            "retiro militar",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023620"
+    }
+  }
+}

@@ -1,0 +1,823 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g57-00000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1513962706803,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21839-nacional-aranceles-honorarios-abogados-procuradores-lns0000075-1978-07-14"
+      }
+    },
+    "content": {
+      "mecanografico": "S0000075",
+      "numero-norma": 21839,
+      "timestamp": "2017-12-22T13:42:47",
+      "timestamp-m": "2017-12-22T13:42:47",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1978-07-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021839 1978 07 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.839",
+          "BUENOS AIRES,14 DE JULIO DE 1978"
+        ]
+      },
+      "titulo-norma": "ARANCELES Y HONORARIOS DE ABOGADOS Y PROCURADORES.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1978 07 20"
+        }
+      },
+      "sancion": "En  uso  de  las  atribuciones  conferidas  por  el  artículo  5 del Estatuto para EL PRESIDENTE DE LA NACION  ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY: ARANCELES Y HONORARIOS DE ABOGADOS Y PROCURADORES",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.839",
+      "estado": "Derogada",
+      "analista": "Rocca, Adriana",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2017-12-22",
+      "responsable": "Rocca, Adriana",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "TRABAJO-PROFESIONES-ABOGADOS-PROCURADORES-HONORARIOS-Arancel- Ambito de aplicación-Presunción-Pactos-Pacto de Cuota Listis- Sanciones-Labor Judicial-MONEDA:MONEDA NACIONAL-ACTUALIZACION MONETARIA-Etapas Procesales-PROCEDIMIENTO:Regulación-Cobro- Protección-Labor Extrajudicial-DEROGA D.L 30.439/44 RATIFICADO POR L. 12.997 DEROGA L. 14.170"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "ley de aranceles profesionales"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/gastos del proceso/honorarios/ley arancelaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "gastos de justicia",
+                "ley de aranceles de abogados y procuradores",
+                "honorarios profesionales",
+                "gastos procesales",
+                "aranceles profesionales",
+                "honorarios judiciales",
+                "ley de aranceles profesionales",
+                "costas y honorarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "honorarios del abogado"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/gastos del proceso/honorarios/honorarios del abogado"
+            },
+            "sinonimos": {
+              "termino": [
+                "gastos de justicia",
+                "honorarios profesionales",
+                "gastos procesales",
+                "aranceles profesionales",
+                "honorarios judiciales",
+                "costas y honorarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "honorarios del procurador"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/gastos del proceso/honorarios/honorarios del procurador"
+            },
+            "sinonimos": {
+              "termino": [
+                "gastos de justicia",
+                "honorarios profesionales",
+                "gastos procesales",
+                "aranceles profesionales",
+                "honorarios judiciales",
+                "costas y honorarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "regulación de honorarios"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/gastos del proceso/honorarios/regulación de honorarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "regulación de honorarios profesionales",
+                "gastos de justicia",
+                "honorarios profesionales",
+                "gastos procesales",
+                "aranceles profesionales",
+                "honorarios judiciales",
+                "costas y honorarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pacto de cuota litis"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/gastos del proceso/honorarios/honorarios del abogado/pacto de cuota litis"
+            },
+            "sinonimos": {
+              "termino": [
+                "gastos de justicia",
+                "honorarios profesionales",
+                "gastos procesales",
+                "aranceles profesionales",
+                "honorarios judiciales",
+                "costas y honorarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monto del juicio"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/resoluciones judiciales/sentencia/monto del juicio"
+            },
+            "sinonimos": {
+              "termino": [
+                "sentencia judicial",
+                "valor del litigio",
+                "monto del proceso",
+                "monto del agravio",
+                "monto de la sentencia",
+                "monto de la condena",
+                "valor del pleito"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "actualización monetaria"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/clasificación de las obligaciones/obligaciones de dar/obligaciones de dar sumas de dinero/actualización monetaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "repotenciación",
+                "ajuste por inflación",
+                "capital revalorizado",
+                "obligaciones y contratos",
+                "indexación",
+                "obligaciones personales",
+                "prestaciones dinerarias",
+                "obligaciones dinerarias",
+                "deudas de dinero",
+                "capital actualizado",
+                "deudas dinerarias"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "monto de la sentencia (monto del juicio)",
+            "capital revalorizado (actualización monetaria)",
+            "monto de la condena (monto del juicio)",
+            "aranceles profesionales (honorarios)",
+            "clasificación de las obligaciones",
+            "ajuste por inflación (actualización monetaria)",
+            "obligaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "valor del litigio (monto del juicio)",
+            "obligaciones de dar sumas de dinero",
+            "ley de aranceles de abogados y procuradores (ley arancelaria)",
+            "honorarios judiciales (honorarios)",
+            "Derecho procesal",
+            "honorarios del abogado",
+            "capital actualizado (actualización monetaria)",
+            "gastos de justicia (gastos del proceso)",
+            "honorarios del procurador",
+            "monto del juicio",
+            "ley de aranceles profesionales (ley arancelaria)",
+            "derechos personales",
+            "Derecho civil",
+            "obligaciones personales (obligaciones)",
+            "resoluciones judiciales",
+            "valor del pleito (monto del juicio)",
+            "deudas de dinero (obligaciones de dar sumas de dinero)",
+            "regulación de honorarios profesionales (regulación de honorarios)",
+            "repotenciación (actualización monetaria)",
+            "sentencia",
+            "indexación (actualización monetaria)",
+            "prestaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "costas y honorarios (gastos del proceso)",
+            "regulación de honorarios",
+            "obligaciones de dar",
+            "honorarios",
+            "gastos procesales (gastos del proceso)",
+            "pacto de cuota litis",
+            "obligaciones",
+            "actualización monetaria",
+            "gastos del proceso",
+            "deudas dinerarias (obligaciones de dar sumas de dinero)",
+            "sentencia judicial (sentencia)",
+            "monto del proceso (monto del juicio)",
+            "monto del agravio (monto del juicio)",
+            "ley arancelaria",
+            "obligaciones y contratos (derechos personales)",
+            "honorarios profesionales (honorarios)"
+          ]
+        }
+      },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 65 OBSERVACION: LEY DEROGADA POR ART. 65 DE LA LEY 27.423 (B.O. 22/12/2017)",
+        "informacion-vinculada": 1E+19
+      },
+      "segmento": [
+        {
+          "titulo-particion": "TITULO I DISPOSICIONES GENERALES",
+          "segmento": [
+            {
+              "titulo-particion": "Capítulo I Ambito y Presunción",
+              "articulo": [
+                {
+                  "numero-articulo": 1,
+                  "titulo-articulo": "Ambito de aplicación",
+                  "texto": "ARTICULO  1.-  Los  honorarios de los abogados y procuradores por su actividad judicial  o    extrajudicial,    cuando   la  competencia correspondiere a los tribunales nacionales de la Capital  Federal  y los    tribunales   nacionales con  asiento  en  las  provincias  y Territorio Nacional  de  la  Tierra del Fuego, Antártida e Islas del Atlántico Sur, se regularán de acuerdo con esta ley.-"
+                },
+                {
+                  "numero-articulo": 2,
+                  "titulo-articulo": "Ambito personal",
+                  "texto": "*ARTICULO  2.-  Los  profesionales  que actuaren para su cliente con asignación fija, periódica, por un monto  global  o  en  relación de dependencia,  no están  comprendidas  en  la  presente ley, excepto respecto  de  los  asuntos cuya  materia  fuere ajena  a  aquella relación, o cuando mediare condena en costas a  cargo  de las partes intervinientes en el proceso.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 3,
+                  "titulo-articulo": "Presunción",
+                  "texto": "*ARTICULO 3.- La actividad profesional de los abogados y procuradores  se presume  de  carácter  oneroso, en la medida de su oficiosidad,  salvo  en  los casos  en que conforme  a  excepciones legales pudieran o debieran actuar gratuitamente.\n\nSe  presume  gratuito  el  patrocinio  o  representación    de   los ascendientes,    descendientes   o  cónyuge  del  profesional.  Las disposiciones de la presente  ley se aplicarán supletoriamente a la falta de acuerdo expreso en contrario.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Capítulo II Pactos",
+              "articulo": [
+                {
+                  "numero-articulo": 4,
+                  "titulo-articulo": "Requisitos esenciales",
+                  "texto": "ARTICULO  4.-  Los  profesionales podrán pactar con sus clientes que los honorarios por su  actividad  en  uno  o más asuntos o procesos, consistirán en participar  en  el  resultado  de    éstos.-   En  esos  casos,  los  honorarios  del  abogado  y del procurador en conjunto y por todo concepto, no podrán exceder del  CUARENTA  POR CIENTO (40%) del resultado  económico  obtenido,  sin perjuicio del derecho  de  los profesionales  a  percibir los honorarios  que  se declaren a cargo de la parte contraria.- Cuando la participación del profesional  en el resultado del pleito, sea superior al VEINTE POR CIENTO (20%), los gastos que correspondieren  a la defensa del cliente y  la  responsabilidad  de éste  por las costas,  estarán a cargo  del  profesional,  excepto convención en contrario.- Los asuntos  o procesos previsionales, alimentarios y de familia, no podrán ser objeto  de  pactos.  Tampoco  podrán  pactarse honorarios exclusivamente  con relación a la duración del asunto  o  proceso.-"
+                },
+                {
+                  "derogado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 10-01-95).",
+                      "id": "DEROGADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 5,
+                  "titulo-articulo": "Renuncia anticipada o convenio inferior",
+                  "texto": "*ARTICULO 5.- (Nota de redacción) (Derogado por art. 12 Ley 24432)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO II LABOR JUDICIAL",
+          "segmento": [
+            {
+              "titulo-particion": "Capítulo I Principios",
+              "articulo": [
+                {
+                  "numero-articulo": 6,
+                  "titulo-articulo": "Pautas para fijar el monto del honorario",
+                  "texto": "*ARTICULO  6.-  Para  fijar  el  monto  del honorario, se tendrán en cuenta las siguientes  pautas,  sin  perjuicio  de  otras  que  se adecuaren mejor a las circunstancias particulares  de  los asuntos o procesos:\n\na)   el  monto  del  asunto  o  proceso,  si  fuere  susceptible  de apreciacion pecuniaria;\n\nb)  la    naturaleza  y  complejidad  del  asunto  o  proceso;\n\nc) El resultado  que  se  hubiere  obtenido  y  la relación entre la gestión profesional y la probabilidad de efectiva  satisfacción  de la  pretensión reclamada  en  el  juicio  por  el  vencido.\n\nd) el mérito de la  labor  profesional,  apreciada  por  la calidad, eficacia y extensión del trabajo;\n\ne)  la  actuación  profesional  con  respecto  a  la  aplicación del principio de celeridad procesal;\n\nf)  la  trascendencia  jurídica,  moral  y económica que tuviere  el asunto  o proceso para casos futuros, para  el  cliente  y  para  la situación económica de las partes.-",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 10-01-95). Inciso c) sustituido.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 7,
+                  "titulo-articulo": "Abogados. Pautas generales",
+                  "texto": "ARTICULO  7.-  Los  honorarios  de  los  abogados,  por su actividad durante la tramitación del asunto o proceso en primera  instancia, cuando se tratare de sumas  de  dinero o de bienes susceptibles de apreciación  pecuniaria, serán fijados  entre  el  ONCE  POR  CIENTO (11%) y el VEINTE  POR  CIENTO (20%)  del monto del proceso.- Los honorarios del abogado de la parte vencida  serán  fijados entre el SIETE POR CIENTO (7%) y el DIECISIETE POR CIENTO (17%)  del monto del proceso.-"
+                },
+                {
+                  "numero-articulo": 8,
+                  "titulo-articulo": "Mínimos",
+                  "texto": "*ARTICULO  8.-  Salvo  pacto  en  contrario,  los  honorarios de los abogados no  podrá  ser  regulados en suma inferiores a  quinientos pesos ($ 500) en los procesos  de  conocimiento, trecientos pesos ($ 300)  en  los procesos de ejecución y  doscientos  ($  200)  en  los procesos voluntarios.  Cuando se tratare de procesos correccionales; los honorarios mínimos serán  de quinientos pesos ($ 500), y en los demás  procesos  penales serán de un  mil pesos  ($ 1.000).  Las regulaciones mínimas previstas  deberán adecuarse, en su caso, a lo dispuesto en el artículo 10 y en el  Capítulo  III de la presente ley.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 9,
+                  "titulo-articulo": "Procuradores. Pauta general",
+                  "texto": "*ARTICULO  9.-  Los  honorarios  de  los  procuradores serán fijados entre un treinta por ciento (30%) y un cuarenta  por ciento (40%) de lo que le correspondiere a los abogados.\n\nCuando  los  abogados también actuaren como procuradores  percibirán los honorarios  que  correspondiere  fijar  si actuaren por separado abogados y procuradores.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 10,
+                  "titulo-articulo": "Actuación conjunta y sucesiva",
+                  "texto": "ARTICULO  10.-  Cuando  actuaren  conjuntamente  varios  abogados  o procuradores  por  una  misma  parte, a fin de regular honorarios se considerará  que  ha  existido  un  solo    patrocinio  o  una  sola representación, según fuere el caso.- Cuando  actuaren  sucesivamente,  el  honorario  correspondiente  se distribuirá  en  proporción  a  la  importancia  jurídica    de   la respectiva actuación  y  a  la  labor  desarrollada  por cada uno.-"
+                },
+                {
+                  "numero-articulo": 11,
+                  "titulo-articulo": "Diferentes profesionales en litis consorcio",
+                  "texto": "ARTICULO  11.-  En los casos de litis consorcio, activo o pasivo, en que actuaren diferentes  profesionales  al  servicio de cualesquiera de  las partes, los honorarios de cada uno de  ellos  se  regularán atendiendo  a  la respectiva actuación cumplida, al interés de cada litis consorte y a las pautas del  artículo  6,  sin  que el total excediere  en  el  CUARENTA  POR CIENTO (40%) de los honorarios  que correspondieren por la aplicación  del artículo 7, primera parte.-"
+                },
+                {
+                  "numero-articulo": 12,
+                  "titulo-articulo": "Asuntos o procesos propios",
+                  "texto": "ARTICULO  12.-  Los profesionales que actuaren en asuntos o procesos propios, percibirán  sus  honorarios  de  las  partes contrarias, si éstas fueren condenadas a pagar las costas.-"
+                },
+                {
+                  "numero-articulo": 13,
+                  "titulo-articulo": "Actuaciones posteriores. Presunción",
+                  "texto": "ARTICULO  13.-  Al  solo  efecto de regular honorarios, la firma del abogado patrocinante en un  escrito implicará el mantenimiento de su intervención profesional  en las  actuaciones  posteriores,  aunque éstas no fueren firmadas por  él. La intervención profesional cesará por  renuncia del abogado, o cuando así  lo  manifestare  en  forma expresa el cliente o su apoderado.-"
+                },
+                {
+                  "numero-articulo": 14,
+                  "titulo-articulo": "Segunda o ulterior instancia",
+                  "texto": "ARTICULO  14.-  Por  las  actuaciones  correspondientes  a segunda o ulterior instancia, se regulará en cada una de ellas del VEINTICINCO POR CIENTO (25%) al TREINTA Y CINCO POR CIENTO  (35%) de la  cantidad  que  deba  fijarse  para los honorarios  de  primera instancia.  Si  la  sentencia  apelada  fuere revocada en todas sus partes en favor del apelante, el honorario de su  letrado  se fijará en el TREINTA Y CINCO POR CIENTO (35%).-"
+                },
+                {
+                  "numero-articulo": 15,
+                  "titulo-articulo": "Administrador judicial",
+                  "texto": "ARTICULO  15.- Si el profesional actuare como administrador judicial en proceso voluntario,  contencioso o universal, en principio serán aplicadas las pautas del artículo  7,  primera parte, sobre el monto de las utilidades realizadas durante su desempeño. En circunstancias especiales, cuando el honorario resultante  fuere un monto  excesivamente elevado o reducido, podrá aplicarse el criterio de tener  en  cuenta, total o parcialmente, además de las pautas del artículo 6, el  valor  del caudal administrado o ingresos producidos y el lapso de actuación.-"
+                },
+                {
+                  "numero-articulo": 16,
+                  "titulo-articulo": "Interventor y veedor",
+                  "texto": "ARTICULO   16.-  Si  el  profesional  actuare  como  interventor  el honorario se  fijará  en  el  CINCUENTA  POR  CIENTO (50%) de lo que correspondería  al administrador;  si actuare como  veedor,  en  el TREINTA POR CIENTO (30%).-"
+                },
+                {
+                  "numero-articulo": 17,
+                  "titulo-articulo": "Partidor",
+                  "texto": "ARTICULO  17.- Si el profesional actuare como partidor, el honorario se fijará en  el  VEINTE POR CIENTO (20%) del que correspondiere por aplicación del artículo 7, primera parte.-"
+                },
+                {
+                  "numero-articulo": 18,
+                  "titulo-articulo": "Procesos arbitrales y contravencionales",
+                  "texto": "ARTICULO  18.-  En  los  procesos arbitrales y contravencionales, se aplicarán los artículos precedentes  y  los  siguientes,  en  cuanto fueren compatibles con  la  naturaleza  de  dichos  procesos.-"
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Capítulo II Monto del Proceso y de los Honorarios",
+              "articulo": [
+                {
+                  "numero-articulo": 19,
+                  "titulo-articulo": "Monto",
+                  "texto": "ARTICULO   19.-  Se  considerará  monto  del  proceso  la  suma  que resultare de la sentencia o transacción.-"
+                },
+                {
+                  "numero-articulo": 20,
+                  "titulo-articulo": "Proceso sin sentencia ni transacción",
+                  "texto": "*ARTICULO  20.-  Cuando  el  honorario  debiere regularse sin que se hubiere dictado sentencia ni sobrevenido transacción, se considerará  monto  del proceso,  la  suma  razonablemente,  y  por resolución fundada, hubiera correspondido a criterio  del  Tribunal, en  caso  de haber prosperado el reclamo del pretensor. Dicho  monto no podrá ser  en  ningún  caso  superior  a la  mitad  de  la  suma reclamada  en  la  demanda  y reconvención,  cuando ésta se hubiere deducido.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 21,
+                  "titulo-articulo": "Sentencia posterior",
+                  "texto": "ARTICULO   21.-  Si  después  de  fijado  el  honorario  se  dictare sentencia, se  incluiría  en  la  misma  una  nueva  regulación, de acuerdo con los resultados del proceso.-"
+                },
+                {
+                  "numero-articulo": 22,
+                  "titulo-articulo": "Depreciación monetaria",
+                  "texto": "ARTICULO  22.-  A  los  efectos  de  la regulación de honorarios, la depreciación monetaria integrará el monto del juicio.-"
+                },
+                {
+                  "numero-articulo": 23,
+                  "titulo-articulo": "Determinación  del valor de bienes muebles e inmuebles Procedimiento en la tasación judicial",
+                  "texto": "ARTICULO  23.-  Cuando  para  la determinación del monto del proceso debiera establecerse el valor de  bienes  muebles  o  inmuebles,  el Tribunal  correrá vista  al  profesional  y al obligado al pago del honorario,  para  que en el plazo de TRES (3)  días  estimen  dichos valores.- Si  no hubiere conformidad,  el  Tribunal,  previo  dictamen  de  un perito tasador designado de oficio, determinará el valor del bien y establecerá  a cargo de quién quedará el pago del honorario de dicho perito, de acuerdo  con las  posiciones sustentadas respectivamente por las partes.-"
+                },
+                {
+                  "numero-articulo": 24,
+                  "titulo-articulo": "Sucesiones Actuación de más de un profesional Actuación  en  el  interés  particular  de alguna de las partes Albaceas",
+                  "texto": "ARTICULO  24.-  En  los  procesos sucesorios, el monto será el valor del patrimonio que se transmitiere  y  el  honorario  será  el  que resultare  de la aplicación del artículo 7, primera parte, reducido en un VEINTICINCO  POR CIENTO  (25%).  Sobre  los  gananciales  que correspondieren  al cónyuge supérstite, se aplicará el CINCUENTA POR CIENTO (50%) del honorario  que correspondiere por la aplicación del artículo 7, primera parte reducido  en  un VEINTICINCO  POR  CIENTO (25%).-    Deberán    computarse  los  bienes existentes  en  otras jurisdicciones, dentro del país.- En el caso de tramitarse  más  de  una sucesión en un mismo proceso, el monto será el del patrimonio transmitido  en  cada  una de ellas.\n\nSi  actuare  más de un abogado en tareas que importaren el  progreso del proceso sucesorio,  los honorarios se fijarán de acuerdo con las bases precedentes, teniendo  en cuenta el monto total del patrimonio transmitido, la calidad y utilidad  de  la  tarea  y  su  extensión; todos esos honorarios se reputarán comunes y quedarán a cargo  de la sucesión.- Las  actuaciones  profesionales que se realizaren dentro del proceso sucesorio en el solo  interés particular de alguna de las partes, se regularán separadamente  y quedarán a cargo exclusivo de dicha parte - Los honorarios de los profesionales  que  actuaren  como albaceas, o que los asistieren se fijarán de acuerdo con las pautas precedentes, respecto de las actuaciones de iniciación o prosecución del proceso. Si la actuación del profesional  albacea se hubiere  limitado  a lograr el cumplimiento de las mandas dispuestas en el testamento, los  honorarios  se  fijarán atendiendo a su valor económico   y  a  la  extensión  de  las actuaciones    cumplidas.-"
+                },
+                {
+                  "numero-articulo": 25,
+                  "titulo-articulo": "Alimentos",
+                  "texto": "ARTICULO  25.-  En  los  procesos  por  alimentos,  el monto será el importe correspondiente a UN (1) año de la cuota que  se  fijare por la  sentencia,  o la diferencia durante igual lapso en caso de  una posterior reclamación de aumento.-"
+                },
+                {
+                  "numero-articulo": 26,
+                  "titulo-articulo": "Desalojos y consignaciones",
+                  "texto": "ARTICULO  26.-  En  los  procesos  por  desalojo,  el  monto será el importe de UN (1) año de alquiler.- En  los  procesos por consignación de alquileres, el monto  será  el total que se consignare."
+                },
+                {
+                  "numero-articulo": 27,
+                  "titulo-articulo": "Medidas precautorias",
+                  "texto": "ARTICULO  27.- En las medidas cautelares, el monto será el valor que se asegurare  y  se  aplicará  el TREINTA Y TRES POR CIENTO (33%) de las pautas del artículo 7, primera parte.-"
+                },
+                {
+                  "numero-articulo": 28,
+                  "titulo-articulo": "Expropiaciones",
+                  "texto": "*ARTICULO  28.-  En  los procesos por expropiación, el monto será el de  la diferencia que existiere  entre  el  importe  depositado  en oportunidad  de la desposesión  y el valor de la indemnización que fijare la sentencia o se acordare en  la  transacción, comparados en valores constantes.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 29,
+                  "titulo-articulo": "Retrocesión",
+                  "texto": "*ARTICULO  29.-  En  los  procesos por retrocesión, el monto será la diferencia entre el valor del  bien  al  tiempo  de la sentencia que hiciere  lugar  a aquélla  y  el  importe  de la indemnización  que hubiere percibido el expropiado o, en su caso,  el de la transacción todos ellos comparados en valores constantes.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 30,
+                  "titulo-articulo": "Derecho de familia",
+                  "texto": "*ARTICULO 30.- En los procesos sobre  derechos  de  familia, no susceptibles de apreciación pecuniaria, se aplicarán las pautas  del artículo 6.\n\nCuando  hubieren  bienes  sobre  los  cuales  tuviere  incidencia la decisión a que se llegare, con relación al derecho alimentario,  la vocación hereditaria y la revocación de donaciones prenupciales, se tendrá en cuenta el valor  de ellos,  determinado  de  acuerdo a lo dispuesto por el artículo 23.- En  los  divorcios  por  presentación conjunta de los cónyuges,  los honorarios mínimos serán a  la  suma  de  quinientos  pesos ($ 500), salvo pacto en contrario.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 10-01-95). Ultimo párrafo sustituido.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 31,
+                  "titulo-articulo": "Concursos civiles, quiebras y concursos preventivos",
+                  "texto": "ARTICULO  31.-  En  los  concursos  civiles,  quiebras  y  concursos preventivos,  los  honorarios  serán regulados conforme a las pautas del artículo 6 y de la legislación específica.- El honorario del abogado patrocinante  de  cada  acreedor, se fijará aplicando las  pautas  del  artículo 7, primera parte  sobre:\n\na) La suma líquida que debiere  pagarse  al patrocinado en los casos de acuerdo preventivo homologado;\n\nb)  el  valor de los bienes que se adjudicare,  o  la  suma  que  se liquidare al  acreedor,  en  los concursos civiles o quiebras;\n\nc)  el monto del crédito verificado  en  el  pertinente  incidente.-"
+                },
+                {
+                  "numero-articulo": 32,
+                  "titulo-articulo": "Posesión,   interdictos,  mensuras,  deslindes,  división  de  cosas comunes, escrituración.",
+                  "texto": "ARTICULO  32.-  En  las  acciones posesorias, interdictos, mensuras, deslindes, división de cosas  comunes, y por escrituración, el monto del  proceso  será el valor  de  los   bienes  objeto  del  mismo, determinado de acuerdo a lo dispuesto por  el  artículo  23,  si  la actuación  hubiere  sido  en beneficio general, y con relación a la cuota  parte  defendida,  si  la actuación  sólo hubiere  sido  en beneficio del patrocinado.-"
+                },
+                {
+                  "numero-articulo": 33,
+                  "titulo-articulo": "Incidentes",
+                  "texto": "*ARTICULO 33.- En los incidentes, el honorario se regulará entre el dos por ciento  (2%)  y  el  veinte  por  ciento  (20%)  de  lo  que correspondiere  al  proceso  principal,  atendiendo a la vinculación mediata o inmediata que pudieren tener con  la  solución  definitiva del  proceso  principal,  no pudiendo el honorario, salvo pacto  en contrario,  ser  inferior a la suma  de  cincuenta  pesos  ($  50).",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 34,
+                  "titulo-articulo": "Tercerías",
+                  "texto": "ARTICULO 34.- En  las  tercerías,  el monto será del CINCUENTA POR CIENTO (50%) al SETENTA POR CIENTO (70%)  del  que  se reclame en el principal o en la tercería si el de ésta fuere menor.-"
+                },
+                {
+                  "numero-articulo": 35,
+                  "titulo-articulo": "Liquidación de la sociedad conyugal",
+                  "texto": "ARTICULO  35.-  En  la  liquidación de la sociedad conyugal, excepto cuando se disolviere por  muerte de uno de los cónyuges, se regulará al patrocinante de cada parte,  el  CINCUENTA POR CIENTO (50%) de lo que correspondiere por aplicación del  artículo  7,  primera  parte, sobre  el  CINCUENTA POR CIENTO (50%) de la totalidad del activo  de la sociedad conyugal.- Los cálculos  se  harán  sobre  el monto de los bienes existentes al momento de la disolución de la sociedad  conyugal  y sus incrementos durante el proceso, si se produjeren.-"
+                },
+                {
+                  "numero-articulo": 36,
+                  "titulo-articulo": "Hábeas corpus, amparo y extradición",
+                  "texto": "*ARTICULO 36.- En los procesos por hábeas corpus, amparo y extradición, el honorario no podrá ser inferior a la suma de quinientos pesos ($ 500), salvo pacto en contrario.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "titulo-particion": "Capítulo III Etapas Procesales",
+              "articulo": [
+                {
+                  "numero-articulo": 37,
+                  "titulo-articulo": "División en etapas",
+                  "texto": "ARTICULO 37.- Para la regulación de honorarios, los procesos según su naturaleza, se considerarán divididos en etapas.-"
+                },
+                {
+                  "numero-articulo": 38,
+                  "titulo-articulo": "Procesos ordinarios",
+                  "texto": "ARTICULO 38.- Los procesos ordinarios se considerarán divididos en TRES (3) etapas. La primera, comprenderá la demanda escrito de promoción, la reconvención y sus respectivas contestaciones; la segunda, las actuaciones sobre la prueba; y la tercera, los alegatos y cualquier actuación posterior hasta la sentencia definitiva."
+                },
+                {
+                  "numero-articulo": 39,
+                  "titulo-articulo": "Procesos  sumarísimos,  sumarios,  laborales  ordinarios e incidente",
+                  "texto": "ARTICULO    39.-   Los  procesos  sumarios,  sumarísimos,  laborales ordinarios e incidentes,  se  considerarán  divididos  en  DOS  (2) etapas.  La  primera comprenderá  la  demanda, la reconvención, sus respectivas  contestaciones  y el ofrecimiento  de  la  prueba;  la segunda,  las actuaciones sobre producción de  la  prueba  y  demás diligencias hasta la sentencia definitiva.-"
+                },
+                {
+                  "numero-articulo": 40,
+                  "titulo-articulo": "Procesos de ejecución",
+                  "texto": "ARTICULO  40.-  Los procesos de ejecución, se considerarán divididos en DOS (2) etapas.  La primera, comprenderá el escrito inicial y las actuaciones  hasta la   sentencia;  la  segunda,  las  actuaciones posteriores hasta el cumplimiento de la sentencia definitiva.- Si hubiere excepciones el honorario  será  el  que  resultare  de la aplicación del  artículo  7,  primera  parte, con una reducción del DIEZ POR CIENTO (10%). Si no hubiere excepciones,  la reducción será del TREINTA POR CIENTO (30%)."
+                },
+                {
+                  "numero-articulo": 41,
+                  "titulo-articulo": "Procesos especiales",
+                  "texto": "ARTICULO 41.-Los interdictos, procesos por incapacidad, inhabilitación  o rehabilitación,  alimentos, rendición de cuentas, mensura y deslinde, expropiación y demás  procesos  especiales  que no  tramitaren  por  el procedimiento  ordinario,  se  considerarán divididos  en  DOS  (2)  etapas. La primera, comprenderá el escrito inicial y su contestación; la segunda,  las actuaciones posteriores hasta la sentencia definitiva.-"
+                },
+                {
+                  "numero-articulo": 42,
+                  "titulo-articulo": "Concursos civiles, quiebras o concursos preventivos",
+                  "texto": "ARTICULO    42.-Los    concursos   civiles,  quiebras,  o  concursos preventivos,  se  considerarán  divididos  en  DOS  (2)  etapas.  La primera, comprenderá los trámites  cumplidos  hasta  la  declaración quiebra    o apertura  del  concurso;  la  segunda,  los  trámites posteriores hasta la clausura del proceso.-"
+                },
+                {
+                  "numero-articulo": 43,
+                  "titulo-articulo": "Procesos sucesorios",
+                  "texto": "ARTICULO  43.-Los  procesos sucesorios, se considerarán divididos en TRES (3) etapas. La  primera,  comprenderá  el  escrito  inicial; la segunda,  las actuaciones  posteriores  hasta  la  declaratoria  de herederos  o la aprobación de testamento; la tercera,  los  trámites posteriores hasta la terminación del proceso.-"
+                },
+                {
+                  "numero-articulo": 44,
+                  "titulo-articulo": "Procesos arbitrales",
+                  "texto": "ARTICULO  44.-Los  procesos  arbitrales se considerarán divididos en las etapas correspondientes  al    procedimiento  que  se  hubiere dispuesto seguir.-"
+                },
+                {
+                  "numero-articulo": 45,
+                  "titulo-articulo": "Proceso penal",
+                  "texto": "ARTICULO 45.-Los procesos penales se considerarán divididos en TRES (3) etapas. La primera, comprenderá hasta el dictado de los autos de sobreseimiento o de prisión preventiva; la segunda hasta el traslado de la defensa; y la tercera, hasta la sentencia definitiva."
+                },
+                {
+                  "numero-articulo": 46,
+                  "titulo-articulo": "Proceso Correccional",
+                  "texto": "ARTICULO  46.-Los  procesos correccionales se considerarán divididos en DOS (2) etapas. La  primera,  comprenderá  hasta  la  acusación y defensa; la segunda, hasta la sentencia definitiva.-"
+                }
+              ]
+            },
+            {
+              "titulo-particion": "capitulo IV Procedimiento Regulatorio y Cobro Capitulo V Protección del Honorario",
+              "articulo": [
+                {
+                  "numero-articulo": 47,
+                  "titulo-articulo": "Regulación",
+                  "texto": "ARTICULO  47.-Al dictarse sentencia, se regulará el honorario de los profesionales  de ambas partes, aunque no mediare petición expresa.- El juez deberá fundar  el  auto  regulatorio. Cuando para proceder a la regulación fuere necesario establecer  el  valor de los bienes, y con anterioridad  a  la  sentencia  no  se  hubiere  producido   la determinación conforme  al  artículo  23,  el juez diferirá el auto regulatorio, dejando constancia de ello en la  sentencia definitiva.\n\nCuando las sumas correspondientes a la depreciación  monetaria no se encontraren  determinadas  al  momento  de  la  sentencia,  el  juez regulará honorarios sobre la base de las sumas líquidas existentes, sin  perjuicio del derecho  del  profesional,  a  solicitar  su ampliación,  una  vez establecido  el   monto  definitivo  de  la depreciación monetaria."
+                },
+                {
+                  "numero-articulo": 48,
+                  "titulo-articulo": "Cobro al cliente",
+                  "texto": "ARTICULO  48.-Los  profesionales  podrán  solicitar la regulación de sus honorarios y cobrarla de su cliente, al  cesar en su actuación.- En los juicios contenciosos deberá regularse el  mínimo  del arancel que correspondiere, sin perjuicio del derecho a posterior  reajuste, una vez que se determine el resultado del pleito.-"
+                },
+                {
+                  "numero-articulo": 49,
+                  "titulo-articulo": "Acción judicial",
+                  "texto": "ARTICULO  49.-Todo  honorario  regulado judicialmente deberá pagarse por la parte condenada en costas,  dentro  de  los TREINTA (30) días de notificado el auto regulatorio firme, si no se  fijare  un  menor plazo.\n\nEn  el supuesto que dicho pago no se efectuare, el profesional podrá reclamar el pago al cliente.-"
+                },
+                {
+                  "numero-articulo": 50,
+                  "titulo-articulo": "Pago del honorario",
+                  "texto": "ARTICULO  50.-En el caso del último párrafo del artículo precedente, el cliente no  condenado  en  costas  deberá  pagar  los honorarios dentro de los TREINTA (30) días, contados a partir de la notificacion del reclamo del profesional.\n\nLa acción para el cobro de los honorarios tramitará por  la  via  de ejecución de sentencia-"
+                },
+                {
+                  "numero-articulo": 51,
+                  "titulo-articulo": "Prohibiciones en las designaciones de oficio",
+                  "texto": "ARTICULO  51.- Los profesionales que fueren designados de oficio, no podrán pactar  honorarios,  ni  percibir  importe alguno a título de adelanto, excepto cuando  se  tratare  de  gastos,  con  cargo  de oportuna rendición de cuentas y previo auto fundado.-"
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": "Código Procesal Civil y Comercial",
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 017454 1967 09 20 0000 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 52,
+                  "titulo-articulo": "Sanciones",
+                  "texto": "ARTICULO   52.-Los  profesionales  que  violaren  las  prohibiciones establecidas  en  el  artículo  51,  serán sancionados con una multa equivalente  a  la suma que pactaren o percibieren,  además  de  ser eliminados de  la   matrícula  respectiva  y  de  prohibírseles  el ejercicio de la profesión  por  el término de UN (1) año a DIEZ (10) años.- Conferencia y Trámite Las sanciones se impondran por el  juez  que efectuó la designación, por el trámite previsto para los incidentes  en  el  Código Procesal Civil y Comercial de la Nación."
+                },
+                {
+                  "referencias-normativas": {
+                    "referencia-normativa": {
+                      "cr": null,
+                      "id": "REFERENCIAS_NORMATIVAS_0",
+                      "ref": "LEY C 023853 1990 09 27 0003 000 0000 000"
+                    }
+                  },
+                  "numero-articulo": 53,
+                  "titulo-articulo": "Destino",
+                  "texto": "*ARTICULO  53.-  Los  importes  de  las multas constituirán recursos específicos del Poder Judicial de la  Nación  de  conformidad  a  lo previsto en el artículo 3 de la ley 23.853.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "Sustituido. (B.O. 10-01-95).",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                },
+                {
+                  "numero-articulo": 54,
+                  "titulo-articulo": "Apelación",
+                  "texto": "ARTICULO  54.-La  sentencia  que  impusiere  la  sanción, podrá apelarse ante  el  tribunal  de  alzada  del  juez  que  la hubiere impuesto.- El  representante del ministerio público fiscal será parte necesaria en todas las instancias.-"
+                },
+                {
+                  "numero-articulo": 55,
+                  "titulo-articulo": "Recaudos para dar por terminado el proceso Citación de los profesionales",
+                  "texto": "ARTICULO  55.-Los Tribunales, antes de los DOS (2) años de la última intervención    profesional,  al  dar  por  terminado  un  juicio  o expediente,  disponer   su  archivo,  aprobar  transacción,  admitir desistimiento, subrogación  o  cesión,  ordenar  el levantamiento de medidas cautelares  y  entrega  de  fondos,  deberán  hacerlo   con citación  de  los profesionales cuyos honorarios no resulte de autos haber sido pagados  y siempre  que  aquellos  hubieren  constituido domicilio    legal  a  los efectos  del  presente  artículo.-  La citación no  corresponderá  en los casos que existiere regulación de honorarios de los profesionales intervinientes.-"
+                },
+                {
+                  "numero-articulo": 56,
+                  "titulo-articulo": "Utilización del título profesional Autoridad de Aplicación.",
+                  "texto": "*ARTICULO 56.- Ninguna persona, fuere de existencia visible o ideal, podrá usar las  denominaciones  de \"estudio jurídico\" o \"consultorio jurídico\",  \"oficina jurídica\",  \"asesoría    jurídica\"    u  otras similares  sin  mencionar  los abogados  que  tuvieren  a  cargo su dirección.\n\nSin   perjuicio  de  la  sanción  penal  que  correspondiere,  podrá disponerse la  clausura  del  local  a  simple requerimiento de las asociaciones profesionales de abogados y procuradores,  o de oficio, y una multa de un mil pesos (1.000) solidariamente a los infractores.\n\nA  los efectos de la aplicación de las sanciones previstas  en  este artículo, será  competente la Justicia Nacional en lo Correccional.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 10-01-95). Segundo párrafo sustituido.",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO III LABOR EXTRAJUDICIAL",
+          "articulo": [
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O 1/11/91) DECRETO RATIFICADO POR LEY 24307(B.O 30/12/93) ACLARADO POR DECRETO 240/99 (B.O 23/3/99)",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DNU C 002284 1991 10 31 0118 000 0000 000"
+                }
+              },
+              "numero-articulo": 57,
+              "titulo-articulo": "Gestiones extrajudiciales",
+              "texto": "*ARTICULO 57.- NOTA DE REDACCION (DEROGADO POR DECRETO 2284/91)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O 1/11/91) DECRETO RATIFICADO POR LEY 24307 (B.O 30/12/93) ACLARADO POR DECRETO 240/99 (B.O 23/3/99)",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DNU C 002284 1991 10 31 0118 000 0000 000"
+                }
+              },
+              "numero-articulo": 58,
+              "titulo-articulo": "consultas, estudios y proyectos.",
+              "texto": "*ARTICULO 58.- NOTA DE REDACCION (DEROGADO POR DECRETO 2284/91)",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 10-01-95). Primer párrafo sustituido; montos sustituidos.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                }
+              }
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O 1/11/91) DECRETO RATIFICADO POR LEY 24307(B.O 30/12/93) ACLARADO POR DECRETO 240/99 (B.O 23/3/99)",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DNU C 002284 1991 10 31 0118 000 0000 000"
+                }
+              },
+              "numero-articulo": 59,
+              "titulo-articulo": "Gestión administrativa",
+              "texto": "*ARTICULO  59.- NOTA DE REDACCION (DEROGADO POR DECRETO 2284/91)"
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TITULO IV DISPOSICIONES COMPLEMENTARIAS Y TRANSITORIAS",
+          "articulo": [
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 10-01-95)",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                }
+              },
+              "numero-articulo": 60,
+              "titulo-articulo": "Actualización, mínimos y multas.",
+              "texto": "*ARTICULO 60.- (Nota de redacción) Derogado por Ley 24.432."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 023928 1991 03 27 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 61,
+              "titulo-articulo": "Actualización de honorarios impagos con mora",
+              "texto": "*ARTICULO 61.- Las deudas de honorarios, pactados o por regulación judicial firme o hubiere  mora  del  deudor,serán actualizadas hasta la fecha  de entrada en vigencia de la ley de convertibilidad 23.928, de acuerdo con el índice de precios al por mayor, nivel general, publicados por el Instituto Nacional de Estadística y Censos. Las sumas actualizadas devengarán un interés del seis por ciento (6 %) anual. A partir de la fecha antes indicada, esas deudas devengarán intereses equivalentes a la tasa pasiva promedio que publique el Banco Central de la República Argentina.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "Sustituido. (B.O. 10-01-95).",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 024432 1994 12 15 0012 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": 62,
+              "titulo-articulo": "Notificación al cliente.",
+              "texto": "ARTICULO  62.-Toda  notificación  al cliente deberá realizarse en el domicilio real  de  éste,  o  en  el  que    especialmente  hubiere constituido a estos efectos, en el expediente o  en otro instrumento público.-"
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 017454 1967 09 20 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 63,
+              "titulo-articulo": "Asuntos o procesos pendientes Normas de aplicación supletoria. Disposiciones arancelarias especiales",
+              "texto": "ARTICULO  63.-Esta  ley  se  aplicará a todos los asuntos o procesos pendientes en  los  cuales  no  hubiere  recaído  resolución  firme regulando honorarios, al tiempo de  su  entrada  en  vigencia.- En  todo  lo previsto en esta ley, se aplicarán supletoriamente  las disposiciones  del  Código  Procesal Civil y Comercial de la Nación.  Esta  ley  no  modifica  disposiciones    arancelarias    especiales contenidas   en  otras  leyes,  ni  sus  respectivas  disposiciones procesales.-"
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 012997 1947 08 06 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 64,
+              "titulo-articulo": "Derogación",
+              "texto": "ARTICULO  64.-Deróganse  el Decreto-ley 30439/44, ratificado por Ley 12997, y la Ley 14170.-",
+              "deroga-a": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_0",
+                    "ref": "LEY C 014170 1952 09 30 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_1",
+                    "ref": "DLE C 030439 1944 11 09 0000 000 0000 000"
+                  }
+                ]
+              }
+            },
+            {
+              "numero-articulo": 65,
+              "titulo-articulo": "Forma",
+              "texto": "ARTICULO  65.-Comuníquese,  publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "VIDELA-Liendo.-Gómez-MArtínez de Hoz."
+          }
+        }
+      ],
+      "id-infojus": "LNS0000075"
+    }
+  }
+}

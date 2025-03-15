@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g96-68000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582035096538,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "9099-nacional-lnn0008669-1913-08-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0008669",
+      "numero-norma": 9099,
+      "timestamp": "2020-02-18T10:41:11",
+      "timestamp-m": "2020-02-18T10:41:11",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1913-08-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 009099 1913 08 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 9.099",
+          "BUENOS AIRES, 1 DE AGOSTO DE 1913"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1913 08 29",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1913 08 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190892",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 9.099",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-18",
+      "texto-original": {
+        "file-name": "N0008669.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0008669pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MONUMENTO AL GENERAL MITRE EN LA CAPITAL FEDERAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "homenajes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monumentos"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes/monumentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "homenajes",
+            "monumentos",
+            "cultura",
+            "política científica (política cultural)",
+            "política tecnológica (política cultural)",
+            "conmemoraciones",
+            "política cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0008669"
+    }
+  }
+}

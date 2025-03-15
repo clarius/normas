@@ -1,0 +1,113 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g33-32200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584212259,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12747-nacional-lnn0022333-1942-08-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0022333",
+      "numero-norma": 12747,
+      "timestamp": "2013-01-19T19:15:58",
+      "timestamp-m": "2013-01-19T19:15:58",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1942-08-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012747 1942 08 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 12747",
+          "BUENOS AIRES, 11 DE AGOSTO DE 1942"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1942 08 20",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1942 08 20"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  002 019420009",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.747",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "texto-original": {
+        "file-name": "N0022333.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0022333html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-SE DECLARA EXTINGUIDA LA DEUDA DE GUERRA DE LA REPUBLICA DEL PARAGUAY CON LA REPUBLICA ARGENTINA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Guerra del Paraguay"
+            },
+            "preferido": {
+              "termino": "Guerra del Paraguay"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "deudas de guerra"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/guerra/deudas de guerra"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "tratado de paz"
+            },
+            "preferido": {
+              "termino": "Derecho internacional/derecho internacional público/cooperación internacional/seguridad internacional/paz internacional/tratado de paz"
+            },
+            "sinonimos": {
+              "termino": "colaboración internacional"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "guerra",
+            "Derecho internacional",
+            "Guerra del Paraguay",
+            "paz internacional",
+            "tratado de paz",
+            "deudas de guerra",
+            "derecho internacional público",
+            "colaboración internacional (cooperación internacional)",
+            "Defensa nacional",
+            "cooperación internacional",
+            "seguridad internacional"
+          ]
+        }
+      },
+      "id-infojus": "LNN0022333"
+    }
+  }
+}

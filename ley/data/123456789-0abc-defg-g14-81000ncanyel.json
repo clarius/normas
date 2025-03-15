@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g14-81000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1535728603449,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22232-nacional-lnn0001841-1980-05-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001841",
+      "numero-norma": 22232,
+      "timestamp": "2018-08-31T11:28:27",
+      "timestamp-m": "2018-08-31T11:28:27",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1980-05-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022232 1980 05 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.232",
+          "BUENOS AIRES, 29 DE MAYO DE 1980"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1980 06 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1980 06 04"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.232",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-08-31",
+      "texto-original": {
+        "file-name": "N0001841.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001841pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "BANCO HIPOTECARIO NACIONAL-CARTA ORGANICA-LEY CON TEXTO ORDENADO POSTERIOR POR DE 540/93 (B.O. 5-4-93)"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "carta orgánica de bancos"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos/carta orgánica de bancos"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Banco Hipotecario Nacional"
+            },
+            "preferido": {
+              "termino": "Banco Hipotecario Nacional"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Banco Hipotecario Nacional",
+            "Derecho bancario",
+            "entidades bancarias (bancos)",
+            "bancos",
+            "entidades financieras",
+            "sistema bancario (Derecho bancario)",
+            "carta orgánica de bancos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001841"
+    }
+  }
+}

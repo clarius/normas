@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g82-40000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584169307,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21258-nacional-lnn0000428-1976-03-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000428",
+      "numero-norma": 21258,
+      "timestamp": "2013-01-19T19:15:32",
+      "timestamp-m": "2013-01-19T19:15:32",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1976-03-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021258 1976 03 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 021258",
+          "BUENOS AIRES 24 DE MARZO DE 1976"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1976 03 29",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 03 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  036 B19761032",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.258",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "texto-original": {
+        "file-name": "N0000428.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0000428html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-JUSTICIA-PODER JUDICIAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Poder Judicial"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Judicial"
+            },
+            "sinonimos": {
+              "termino": "poderes públicos"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "destitución de jueces"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Judicial/remoción de jueces"
+            },
+            "sinonimos": {
+              "termino": [
+                "poderes públicos",
+                "destitución de jueces"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "destitución de jueces (remoción de jueces)",
+            "remoción de jueces",
+            "poderes públicos (poderes del Estado)",
+            "poderes del Estado",
+            "Poder Judicial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000428"
+    }
+  }
+}

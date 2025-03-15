@@ -1,0 +1,115 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g14-74200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583769498,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "7059-nacional-lnn0024741-1910-08-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024741",
+      "numero-norma": 7059,
+      "timestamp": "2013-01-19T19:16:10",
+      "timestamp-m": "2013-01-19T19:16:10",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1910-08-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 007059 1910 08 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 7059",
+          "BUENOS AIRES, 29 DE AGOSTO DE 1910"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1910 09 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190792",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 7.059",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-RESERVA POR EL PODER EJECUTIVO EN LA ZONA PETROLIFERA DE COMODORO RIVADAVIA PARA CONCEDER SU EXPLOTACION POR LICITACION PUBLICA-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "reserva de hidrocarburos"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos minerales/minería/productos mineros/hidrocarburos/reserva de hidrocarburos"
+            },
+            "sinonimos": {
+              "termino": [
+                "actividad minera",
+                "Derecho Minero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "petróleo"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos minerales/minería/productos mineros/hidrocarburos/petróleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "actividad minera",
+                "Derecho Minero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Comodoro Rivadavia"
+            },
+            "preferido": {
+              "termino": "Comodoro Rivadavia"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Comodoro Rivadavia",
+            "productos mineros",
+            "actividad minera (minería)",
+            "Derecho Minero (minería)",
+            "reserva de hidrocarburos",
+            "Recursos naturales",
+            "minería",
+            "petróleo",
+            "recursos minerales",
+            "hidrocarburos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024741"
+    }
+  }
+}

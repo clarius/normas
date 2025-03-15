@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g06-82100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1559045507211,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5056-nacional-lnn0012860-1907-01-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012860",
+      "numero-norma": 5056,
+      "timestamp": "2019-05-28T08:15:40",
+      "timestamp-m": "2019-05-28T08:15:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1907-01-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005056 1907 01 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.056",
+          "BUENOS AIRES, 25 DE ENERO DE 1907"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1907 02 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1907 02 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190708",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.056",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-28",
+      "texto-original": {
+        "file-name": "N0012860.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0012860pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO EXTRAORDINARIO AL DEPARTAMENTO DEL INTERIOR PARA ATENDER AL PAGO DE IMPRESION DE VALORES POSTALES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012860"
+    }
+  }
+}

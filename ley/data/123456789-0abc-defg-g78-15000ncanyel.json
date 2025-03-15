@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g78-15000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1623063847295,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18519-nacional-lnn0005187-1969-12-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005187",
+      "numero-norma": 18519,
+      "timestamp": "2021-06-06T19:14:44",
+      "timestamp-m": "2021-06-06T19:14:44",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-12-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018519 1969 12 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18.519",
+          "BUENOS AIRES, 31 DE DICIEMBRE DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1970 03 23",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1970 03 23"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  030 A19700073",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.519",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-06-06",
+      "texto-original": {
+        "file-name": "N0005187.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005187pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES PARA LA SEDE DE LA COMISION NACIONAL DE ZONAS DE SEGURIDAD EN LA CAPITAL FEDERAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005187"
+    }
+  }
+}

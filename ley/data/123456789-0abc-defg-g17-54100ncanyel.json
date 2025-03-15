@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g17-54100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1559650277430,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5146-nacional-lnn0014571-1907-09-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014571",
+      "numero-norma": 5146,
+      "timestamp": "2019-06-04T08:32:40",
+      "timestamp-m": "2019-06-04T08:32:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1907-09-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005146 1907 09 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.146",
+          "BUENOS AIRES, 24 DE SEPTIEMBRE DE 1907"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1907 10 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1907 10 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190730",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.146",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-06-04",
+      "texto-original": {
+        "file-name": "N0014571.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014571pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO EXTRAORDINARIO AL MINISTERIO DE JUSTICIA E INSTRUCCION PUBLICA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014571"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g91-24200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584665494,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3318-nacional-lnn0024219-1895-11-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024219",
+      "numero-norma": 3318,
+      "timestamp": "2013-01-19T19:16:25",
+      "timestamp-m": "2013-01-19T19:16:25",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1895-11-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003318 1895 11 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3318",
+          "BUENOS AIRES, 22 DE NOVIEMBRE DE 1895"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1895 12 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1895 12 08"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190354",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.318",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 4707 REGIMEN ACTUAL POR LEY 19101-LEY DE ORGANIZACION DEL EJERCITO Y LA GUARDIA NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Fuerzas Armadas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ejército"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/Ejército"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho militar",
+            "Defensa nacional",
+            "Ejército",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024219"
+    }
+  }
+}

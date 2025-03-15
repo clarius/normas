@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g04-78200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043280082,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24574-nacional-lnn0028740-1995-10-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028740",
+      "numero-norma": 24574,
+      "timestamp": "2019-04-23T14:41:25",
+      "timestamp-m": "2019-04-23T14:41:25",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1995-10-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024574 1995 10 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 24.574",
+          "Buenos Aires, 4 de octubre de 1995"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1995 11 01",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1995 11 01"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.574",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0028740.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028740pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ASOCIACIONES COOPERATIVAS-EXCLUSION DE LA PROHIBICION ESTABLECIDA EN LA LEY 17.051 A LAS ASOCIACIONES COOPERATIVAS MATRICULADAS EN EL INSTITUTO NACIONAL DE ACCION COOPERATIVA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "seguro por servicio de sepelio"
+            },
+            "preferido": {
+              "termino": "Derecho comercial/seguros/seguro por servicio de sepelio"
+            },
+            "sinonimos": {
+              "termino": "contrato de seguro"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sociedad cooperativa"
+            },
+            "preferido": {
+              "termino": "Derecho comercial/sociedades comerciales/sociedad cooperativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "cooperativa",
+                "cooperativismo",
+                "sociedades"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "contrato de seguro (seguros)",
+            "cooperativa (sociedad cooperativa)",
+            "seguros",
+            "sociedades comerciales",
+            "cooperativismo (sociedad cooperativa)",
+            "sociedades (sociedades comerciales)",
+            "seguro por servicio de sepelio",
+            "sociedad cooperativa",
+            "Derecho comercial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028740"
+    }
+  }
+}

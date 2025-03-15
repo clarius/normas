@@ -1,0 +1,123 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-880-0000-7791soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1422543979459,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "88-nacional-denegacion-indulto-dn19770000088-1977-01-17"
+      }
+    },
+    "content": {
+      "mecanografico": 19770000088,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 88,
+      "timestamp": "2015-01-29T11:38:39",
+      "timestamp-alta": "2015-01-29T11:38:39",
+      "timestamp-m": "2015-01-29T11:38:39",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1977-01-17",
+      "standard-normativo": "DEC C 000088 1977 01 17",
+      "titulo-norma": "Denegacion del indulto",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2013 12 16"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 88/1977",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "2015-01-29",
+      "fecha-mod": "2015-01-29",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "Se deniega el indulto solicitado",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "indulto"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/extinción de la pena/indulto"
+            },
+            "sinonimos": {
+              "termino": "sanción penal"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "decreto secreto"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/jerarquía de las leyes/decretos/decretos secretos y reservados/decreto secreto"
+            },
+            "sinonimos": {
+              "termino": [
+                "orden de prelación de las leyes",
+                "jerarquía normativa",
+                "orden jerárquico de las leyes"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "jerarquía de las leyes",
+            "orden de prelación de las leyes (jerarquía de las leyes)",
+            "sanción penal (pena)",
+            "extinción de la pena",
+            "decretos secretos y reservados",
+            "Derecho penal",
+            "jerarquía normativa (jerarquía de las leyes)",
+            "decretos",
+            "indulto",
+            "pena",
+            "decreto secreto",
+            "orden jerárquico de las leyes (jerarquía de las leyes)"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "la solicitud de indulto ZZ 6 4904/23 formulada por el ex Teniente de Caballería D Jorge Alejandro Francisco ZAPIOLA, lo informado por el Comando en Jefe del Ejército, lo propuesto por el señor Ministro de Defensa y lo aconsejado por el Consejo Supremo de las Fuerzas Armadas, Por ello;\n\nEL PRESIDENTE DE LA NACION ARGENTINA DECRETA:"
+      },
+      "considerando": {
+        "sancion": "El Presidente de la Nación Argentina decreta:",
+        "texto": "y"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1º - No hacer lugar a la solicitud de indulto formulada por el ex Teniente de Caballería D Jorge Alejandro Francisco ZAPIOLA."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2º - Comuníquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "VIDELA."
+      },
+      "id-infojus": "DN19770000088"
+    }
+  }
+}

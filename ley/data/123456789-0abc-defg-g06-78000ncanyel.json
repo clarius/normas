@@ -1,0 +1,88 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g06-78000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1566562481048,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "8941-nacional-lnn0008760-1912-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0008760",
+      "numero-norma": 8941,
+      "timestamp": "2019-08-23T08:53:27",
+      "timestamp-m": "2019-08-23T08:53:27",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1912-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 008941 1912 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 8.941",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1912"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1912 10 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1912 10 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190880",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 8.941",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-08-23",
+      "texto-original": {
+        "file-name": "N0008760.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0008760pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZASE TRANSFERENCIA DEL EDIFICIO DE PERFECTURA DE PUERTOS PARA EL BANCO HIPOTECARIO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "transferencia del inmueble"
+          },
+          "preferido": {
+            "termino": "Derecho civil/derechos reales/dominio/transmisión del dominio/transferencia del inmueble"
+          },
+          "sinonimos": {
+            "termino": "transferencia del dominio"
+          }
+        },
+        "suggest": {
+          "termino": [
+            "transferencia del dominio (transmisión del dominio)",
+            "derechos reales",
+            "transmisión del dominio",
+            "Derecho civil",
+            "transferencia del inmueble",
+            "dominio"
+          ]
+        }
+      },
+      "id-infojus": "LNN0008760"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g90-40000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584505746,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21267-nacional-lnn0000409-1976-03-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000409",
+      "numero-norma": 21267,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1976-03-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021267 1976 03 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.267",
+          "BUENOS AIRES, 26 DE MARZO DE 1976"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1976 03 26",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 03 26"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B003619761036",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.267",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEYES 22928 (B.O. 28-9-83) Y 23077 (B.O. 27-8-84)- FUERZAS DE SEGURIDAD-JURISDICCION MILITAR"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fuerzas de seguridad"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jurisdicción militar"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/justicia militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "competencia militar",
+                "fuero militar",
+                "fuero castrense",
+                "jurisdicción militar"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "competencia militar (justicia militar)",
+            "fuerzas de seguridad",
+            "fuero castrense (justicia militar)",
+            "justicia militar",
+            "seguridad pública",
+            "derecho militar",
+            "jurisdicción militar (justicia militar)",
+            "Defensa nacional",
+            "seguridad nacional (seguridad pública)",
+            "fuero militar (justicia militar)",
+            "personal de seguridad (fuerzas de seguridad)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000409"
+    }
+  }
+}

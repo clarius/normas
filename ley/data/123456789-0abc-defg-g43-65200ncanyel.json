@@ -1,0 +1,85 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g43-65200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584193490,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18484-nacional-lnn0025634-1969-12-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025634",
+      "numero-norma": 18484,
+      "timestamp": "2013-01-19T19:15:37",
+      "timestamp-m": "2013-01-19T19:15:37",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-12-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018484 1969 12 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18484",
+          "BUENOS AIRES, 15 DE DICIEMBRE DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1969 12 23",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1969 12 23"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003019700056",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.484",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22319 (B.O. 7-11-80)-MODIFICACION DE LA LEY 17428 SOBRE INSTALACION DE PANADERIAS"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "establecimiento comercial"
+          },
+          "preferido": {
+            "termino": "Actividades económicas/actividad comercial/establecimiento comercial"
+          },
+          "sinonimos": {
+            "termino": "explotación comercial"
+          }
+        },
+        "suggest": {
+          "termino": [
+            "explotación comercial (actividad comercial)",
+            "actividad comercial",
+            "establecimiento comercial",
+            "Actividades económicas"
+          ]
+        },
+        "invalidos": {
+          "termino": "PANADERIA"
+        }
+      },
+      "id-infojus": "LNN0025634"
+    }
+  }
+}

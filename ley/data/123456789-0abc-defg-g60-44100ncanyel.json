@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g60-44100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557771348104,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3562-nacional-lnn0014406-1897-09-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014406",
+      "numero-norma": 3562,
+      "timestamp": "2019-05-13T14:05:09",
+      "timestamp-m": "2019-05-13T14:05:09",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1897-09-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003562 1897 09 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.562",
+          "BUENOS AIRES, 28 DE SEPTIEMBRE DE 1897"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1897 10 07",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1897 10 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190379",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.562",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-13",
+      "texto-original": {
+        "file-name": "N0014406.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014406pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "BANCOS-CANCELACION CREDITOS RECIPROCOS ENTRE LA NACION Y LA PROVINCIA Y LOS BANCOS NACIONAL Y PROVINCIA DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014406"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g44-29000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1594210351812,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "3210-nacional-lnn0009244-1966-05-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0009244",
+      "numero-norma": 3210,
+      "timestamp": "2020-07-08T08:42:32",
+      "timestamp-m": "2020-07-08T08:42:32",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1966-05-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 003210 1966 05 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 3.210",
+          "BUENOS AIRES, 4 DE MAYO DE 1966"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1966 05 17",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1966 05 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  026 A19660166",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 3.210/66",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-07-08",
+      "texto-original": {
+        "file-name": "N0009244.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0009244pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "INSTITUTO DE PREVISION SOCIAL-PERSONAL,REMUNERACIONES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "organismos previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/organismos previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "previsión social",
+                "organismos previsionales nacionales",
+                "organismos nacionales de previsión"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "instituto de previsión social"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/organismos previsionales/instituto de previsión social"
+            },
+            "sinonimos": {
+              "termino": [
+                "organismos previsionales nacionales",
+                "previsión social",
+                "organismos nacionales de previsión"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "instituto de previsión social",
+            "organismos nacionales de previsión (organismos previsionales)",
+            "organismos previsionales nacionales (organismos previsionales)",
+            "sistema previsional",
+            "Seguridad social",
+            "organismos previsionales",
+            "previsión social (sistema previsional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0009244"
+    }
+  }
+}

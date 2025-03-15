@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g44-18100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599516628264,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17828-nacional-lnn0018144-1968-08-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018144",
+      "numero-norma": 17828,
+      "timestamp": "2020-09-07T18:25:21",
+      "timestamp-m": "2020-09-07T18:25:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-08-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017828 1968 08 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.828",
+          "BUENOS AIRES, 5 DEAGOSTO DE 1968"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1968 08 12",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 08 12"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  028 B19682009",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.828",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-07",
+      "texto-original": {
+        "file-name": "N0018144.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018144pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY ORGANICA MUNICIPAL-MODIFICATORIA DE LEY 1260-SIN EFICACIA POR NUEVO REGIMEN POR LEY 19987"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Municipalidad"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Municipalidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen municipal",
+                "municipio"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "carta orgánica municipal"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Municipalidad/carta orgánica municipal"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen municipal",
+                "municipio",
+                "ley orgánica municipal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "carta orgánica municipal",
+            "municipio (Municipalidad)",
+            "régimen municipal (Municipalidad)",
+            "ley orgánica municipal (carta orgánica municipal)",
+            "Derecho administrativo",
+            "Municipalidad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018144"
+    }
+  }
+}

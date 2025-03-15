@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g36-73200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583825451,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "581-nacional-lnn0023763-1872-10-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023763",
+      "numero-norma": 581,
+      "timestamp": "2013-06-07T12:43:23",
+      "timestamp-m": "2013-06-07T12:43:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1872-10-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000581 1872 10 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 581",
+          "BUENOS AIRES, 23 DE OCTUBRE DE 1872"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1872 10 23"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800961",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 581",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-AUTORIZA LA CREACION DEL BANCO NACIONAL EN LA CAPITAL DE LA REPUBLICA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bancos"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "capital bancario"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos/capital bancario"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho bancario",
+            "entidades bancarias (bancos)",
+            "bancos",
+            "capital bancario",
+            "entidades financieras",
+            "sistema bancario (Derecho bancario)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023763"
+    }
+  }
+}

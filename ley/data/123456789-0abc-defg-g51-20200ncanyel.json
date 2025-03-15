@@ -1,0 +1,96 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g51-20200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1626692933726,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12572-nacional-lnn0020215-1939-01-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020215",
+      "numero-norma": 12572,
+      "timestamp": "2021-07-18T20:10:38",
+      "timestamp-m": "2021-07-18T20:10:38",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1939-01-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012572 1939 01 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 012572",
+          "BUENOS AIRES 09 DE ENERO DE 1939"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1939 01 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1939 01 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O19400821",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.572",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-18",
+      "texto-original": {
+        "file-name": "N0020215.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0020215pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "APROBACION CONTRATO COMPRA DE FERROCARRIL-COMPRA DE FERROCARRIL CENTRAL CORDOBA Y TRANVIA A VAPOR DE RAFAELA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020215"
+    }
+  }
+}

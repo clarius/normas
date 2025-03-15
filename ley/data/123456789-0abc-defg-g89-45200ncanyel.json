@@ -1,0 +1,97 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g89-45200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584688275,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19758-nacional-lnn0025498-1972-07-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025498",
+      "numero-norma": 19758,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-07-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019758 1972 07 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19758",
+          "BUENOS AIRES, 28 DE JULIO DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 08 07",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 08 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  C003219723393",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.758",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22202 (B.O. 2-4-80)-CREA CONSEJO AGRARIO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "actividad agropecuaria"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Consejo Agrario Nacional"
+            },
+            "preferido": {
+              "termino": "Consejo Agrario Nacional"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "actividad agropecuaria",
+            "agricultura (actividad agropecuaria)",
+            "ganadería (actividad agropecuaria)",
+            "Actividades económicas",
+            "Consejo Agrario Nacional"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025498"
+    }
+  }
+}

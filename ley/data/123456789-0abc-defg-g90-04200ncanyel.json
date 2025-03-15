@@ -1,0 +1,101 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g90-04200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584665840,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4165-nacional-lnn0024009-1902-12-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024009",
+      "numero-norma": 4165,
+      "timestamp": "2013-01-19T19:16:17",
+      "timestamp-m": "2013-01-19T19:16:17",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1902-12-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004165 1902 12 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4165",
+          "BUENOS AIRES, 30 DE DICIEMBRE DE 1902"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1903 01 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190593",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.165",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "texto-original": {
+        "file-name": "N0024009.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0024009html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-PROHIBICION DEL USO DE EDULCORANTES ARTIFICIALES-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "industria alimenticia"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia"
+            },
+            "sinonimos": {
+              "termino": [
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "edulcorantes artificiales"
+            },
+            "preferido": {
+              "termino": "edulcorantes artificiales"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "industria alimenticia",
+            "edulcorantes artificiales",
+            "productos industriales (actividad industrial)",
+            "industria (actividad industrial)",
+            "Actividades económicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024009"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g62-38100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1581953440610,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15400-nacional-lnn0018326-1960-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018326",
+      "numero-norma": 15400,
+      "timestamp": "2020-02-17T11:39:15",
+      "timestamp-m": "2020-02-17T11:39:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015400 1960 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15.400",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 11 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 11 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  020 A19600084",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.400",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-17",
+      "texto-original": {
+        "file-name": "N0018326.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018326pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA TRANSFERENCIA-AUTORIZACION TRANSFERENCIA SIN CARGO A LA MUNICIPALIDAD DE BUENOS AIRES DEL PABELLON HEINE MEDIN DEL HOSPITAL MUÑIZ"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Salud pública"
+            },
+            "preferido": {
+              "termino": "Salud pública"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transferencia del establecimiento"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/transferencia del contrato de trabajo/cesión del establecimiento"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "transferencia del establecimiento",
+                "cesión y cambio de firma",
+                "cesión del contrato de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Municipalidad de la Ciudad de Buenos Aires"
+            },
+            "preferido": {
+              "termino": "Municipalidad de la Ciudad de Buenos Aires"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transferencia del establecimiento (cesión del establecimiento)",
+            "transferencia del contrato de trabajo",
+            "cesión del contrato de trabajo (transferencia del contrato de trabajo)",
+            "Salud pública",
+            "Municipalidad de la Ciudad de Buenos Aires",
+            "cesión del establecimiento",
+            "Derecho laboral",
+            "cesión y cambio de firma (cesión del establecimiento)",
+            "contrato laboral (contrato de trabajo)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018326"
+    }
+  }
+}

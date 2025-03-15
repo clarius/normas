@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g94-92000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1611702172862,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22669-nacional-lnn0002949-1982-11-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0002949",
+      "numero-norma": 22669,
+      "timestamp": "2021-01-26T19:11:45",
+      "timestamp-m": "2021-01-26T19:11:45",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1982-11-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022669 1982 11 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.669",
+          "BUENOS AIRES, 4 DE NOVIEMBRE DE 1982"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1982 11 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1982 11 08"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.669",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-01-26",
+      "texto-original": {
+        "file-name": "N0002949.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0002949pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR OBJETO CUMPLIDO-BIENESTAR SOCIAL-VIVIENDA Disposiciones ESTADO-PODER EJECUTIVO NACIONAL-MINISTERIOS-MINISTERIO DE ACCION SOCIAL Facultades PROVINCIAS-PROVINCIA DE SANTA CRUZ-PROVINCIA DE LA PAMPA-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Fondo Nacional de la Vivienda"
+            },
+            "preferido": {
+              "termino": "Fondo Nacional de la Vivienda"
+            },
+            "sinonimos": {
+              "termino": "FONAVI"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Bienestar social"
+            },
+            "preferido": {
+              "termino": "Bienestar social"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "vivienda"
+            },
+            "preferido": {
+              "termino": "Bienestar social/vivienda"
+            },
+            "sinonimos": {
+              "termino": "acción social"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Bienestar social",
+            "FONAVI (Fondo Nacional de la Vivienda)",
+            "vivienda",
+            "acción social (Bienestar social)",
+            "Fondo Nacional de la Vivienda"
+          ]
+        }
+      },
+      "id-infojus": "LNN0002949"
+    }
+  }
+}

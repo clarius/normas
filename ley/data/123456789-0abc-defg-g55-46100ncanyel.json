@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g55-46100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584149060,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1580-nacional-lnn0016455-1884-10-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016455",
+      "numero-norma": 1580,
+      "timestamp": "2013-06-07T12:43:20",
+      "timestamp-m": "2013-06-07T12:43:20",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1884-10-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001580 1884 10 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1.580",
+          "BUENOS AIRES, 30 DE OCTUBRE DE 1884"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1884 10 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018810163",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.580",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICATORIA DE LA LEY 1388 DE PRESUPUESTO GENERAL PARA EL AÑO 1884 (LEY 1388 SIN EFICACIA POR AMBITO TEMPORAL CUMPLIDO)-CREDITO SUPLEMENTARIO AL DEPARTAMENTO DE RELACIONES EXTERIORES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Economía y finanzas"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "presupuesto nacional",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016455"
+    }
+  }
+}

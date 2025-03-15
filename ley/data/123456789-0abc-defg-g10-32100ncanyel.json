@@ -1,0 +1,96 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g10-32100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557404154509,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "6037-nacional-lnn0012301-1908-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012301",
+      "numero-norma": 6037,
+      "timestamp": "2019-05-09T08:18:21",
+      "timestamp-m": "2019-05-09T08:18:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1908-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 006037 1908 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 6.037",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1908"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1908 10 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1908 10 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190754",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 6.037",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-09",
+      "texto-original": {
+        "file-name": "N0012301.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0012301pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ESTUDIOS PARA UNA LINEA DE FERROCARRIL DESDE LA CIUDAD DE CORRIENTES A SAN MIGUEL Y POSADAS POR EL PODER EJECUTIVO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012301"
+    }
+  }
+}
