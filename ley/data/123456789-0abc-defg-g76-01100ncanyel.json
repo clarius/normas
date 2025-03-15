@@ -1,0 +1,125 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g76-01100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1567440976332,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "7151-nacional-lnn0011067-1910-09-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0011067",
+      "numero-norma": 7151,
+      "timestamp": "2019-09-02T12:54:00",
+      "timestamp-m": "2019-09-02T12:54:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1910-09-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 007151 1910 09 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 7.151",
+          "BUENOS AIRES, 21 DE SEPTIEMBRE DE 1910"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1910 10 24",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1910 10 24"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190800",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 7.151",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-10-20",
+      "fecha-mod": "2019-09-02",
+      "texto-original": {
+        "file-name": "N0011067.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0011067pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PENSION A SARELA P. DE GUERRA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "pensiones graciables",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0011067"
+    }
+  }
+}

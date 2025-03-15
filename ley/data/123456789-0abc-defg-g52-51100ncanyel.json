@@ -1,0 +1,115 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g52-51100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1567441047050,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "6980-nacional-lnn0011525-1909-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0011525",
+      "numero-norma": 6980,
+      "timestamp": "2019-09-02T12:52:07",
+      "timestamp-m": "2019-09-02T12:52:07",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1909-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 006980 1909 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 6.980",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1909"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1909 11 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190784",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 6.980",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-09-02",
+      "texto-original": {
+        "file-name": "N0011525.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0011525pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "JUBILACION A ELISA H. MANES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "jubilaciones",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0011525"
+    }
+  }
+}

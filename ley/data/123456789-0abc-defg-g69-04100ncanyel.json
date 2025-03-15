@@ -1,0 +1,109 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g69-04100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584271746,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3925-nacional-lnn0014096-1900-05-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014096",
+      "numero-norma": 3925,
+      "timestamp": "2013-08-22T13:20:51",
+      "timestamp-m": "2013-08-22T13:20:51",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1900-05-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003925 1900 05 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.925",
+          "BUENOS AIRES, 21 DE MAYO DE 1900"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1900 10 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190481",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.925",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRESUPUESTO-AUTORIZACION AL PODER EJECUTIVO PARA ABONAR TRABAJOS EN CASA DE GOBIERNO EJECUTADOS POR MARINIANO ANTONINI"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "modificación del presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/modificación del presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "modificación del presupuesto",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "presupuesto nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014096"
+    }
+  }
+}

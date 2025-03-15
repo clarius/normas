@@ -1,0 +1,114 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g85-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676552402623,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3737-nacional-lnn0026358-1898-11-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026358",
+      "numero-norma": 3737,
+      "timestamp": "2023-02-16T09:33:19",
+      "timestamp-m": "2023-02-16T09:33:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1898-11-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003737 1898 11 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3737",
+          "BUENOS AIRES, 4 DE NOVIEMBRE DE 1898"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1898 11 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190456",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.737",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2023-02-16",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "observaciones-generales": "OBSERVACION DEROGADA POR LEY 14029"
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 14029-CODIGO DE JUSTICIA MILITAR"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "justicia militar"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/derecho militar/justicia militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "defensa nacional",
+                "competencia militar",
+                "fuero militar",
+                "jurisdicción militar",
+                "fuero castrense"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "código de justicia militar"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/derecho militar/justicia militar/código de justicia militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "competencia militar",
+                "defensa nacional",
+                "fuero militar",
+                "jurisdicción militar",
+                "fuero castrense"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "competencia militar (justicia militar)",
+            "código de justicia militar",
+            "fuero castrense (justicia militar)",
+            "justicia militar",
+            "defensa nacional (Defensa y seguridad)",
+            "derecho militar",
+            "jurisdicción militar (justicia militar)",
+            "fuero militar (justicia militar)",
+            "Defensa y seguridad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026358"
+    }
+  }
+}

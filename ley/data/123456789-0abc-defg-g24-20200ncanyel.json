@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g24-20200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584228098,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14323-nacional-lnn0020242-1954-08-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020242",
+      "numero-norma": 14323,
+      "timestamp": "2014-09-04T14:36:53",
+      "timestamp-m": "2014-09-04T14:36:53",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1954-08-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014323 1954 08 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 014323",
+          "BUENOS AIRES 25 DE AGOSTO DE 1954"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1954 09 23",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1954 09 23"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  014 A19540096",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.323",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-09-04",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN-VENTA JUDICIAL DE BIENES MUEBLES PERTENECIENTES A HERENCIAS VACANTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "venta de bienes"
+            },
+            "preferido": {
+              "termino": "venta de bienes"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "venta de bienes",
+            "Estado Nacional",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020242"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g75-90200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1505165542444,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11917-nacional-lnn0020957-1934-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020957",
+      "numero-norma": 11917,
+      "timestamp": "2017-09-11T17:07:13",
+      "timestamp-m": "2017-09-11T17:07:13",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1934-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011917 1934 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11.917",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1934"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1934 10 08"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019400532",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.917",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-09-11",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONVENIO APROBACION ENTRE EL PODER EJECUTIVO Y LA SOCIEDAD ANONIMA EMPRESAS ELECTRICAS DE BAHIA BLANCA"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "electrificación"
+          },
+          "preferido": {
+            "termino": "Recursos naturales/recursos energéticos/energía eléctrica/electrificación"
+          },
+          "sinonimos": {
+            "termino": [
+              "zonas de electrificación",
+              "electricidad"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "zonas de electrificación (electrificación)",
+            "energía eléctrica",
+            "recursos energéticos",
+            "electricidad (energía eléctrica)",
+            "electrificación",
+            "Recursos naturales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020957"
+    }
+  }
+}

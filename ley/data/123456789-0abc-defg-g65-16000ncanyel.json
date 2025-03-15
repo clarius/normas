@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g65-16000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627945483688,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16976-nacional-lnn0006156-1966-10-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006156",
+      "numero-norma": 16976,
+      "timestamp": "2021-08-02T19:55:21",
+      "timestamp-m": "2021-08-02T19:55:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1966-10-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016976 1966 10 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.976",
+          "BUENOS AIRES, 11 DE OCTUBRE DE 1966"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1966 10 20",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1966 10 20"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  026 C19661485",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.976",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-08-02",
+      "texto-original": {
+        "file-name": "N0006156.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006156pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZACION AL MINISTERIO DE RELACIONES EXTERIORES Y CULTO PARA ADQUIRIR,CONSTRUIR Y VENDER INMUEBLES PARA FUNCIONES DIPLOMATICAS Y AFINES EN MADRID Y ROMA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006156"
+    }
+  }
+}

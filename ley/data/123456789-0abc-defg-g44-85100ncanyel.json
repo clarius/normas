@@ -1,0 +1,90 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g44-85100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583799561,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1702-nacional-lnn0015844-1885-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015844",
+      "numero-norma": 1702,
+      "timestamp": "2014-08-29T16:04:35",
+      "timestamp-m": "2014-08-29T16:04:35",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1885-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001702 1885 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1.702",
+          "BUENOS AIRES, 29 DE SEPTIEMBRE DE 1885"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1885 09 29"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.702",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONSTRUCCION DE UNA LINEA FERREA DE ORAN HASTA EMPALMAR CON EL FERROCARRIL EN CONSTRUCCION DE TUCUMAN A JUJUY"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015844"
+    }
+  }
+}

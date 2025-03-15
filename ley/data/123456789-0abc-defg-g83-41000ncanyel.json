@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g83-41000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1608034545959,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15795-nacional-lnn0001438-1960-12-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001438",
+      "numero-norma": 15795,
+      "timestamp": "2020-12-15T08:23:23",
+      "timestamp-m": "2020-12-15T08:23:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-12-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015795 1960 12 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 15.795",
+          "BUENOS AIRES, 28 DE DICIEMBRE DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1961 01 18",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1961 01 18"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A002019610200",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.795",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-12-15",
+      "texto-original": {
+        "file-name": "N0001438.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001438pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO MODIFICATORIA-ESTADO-MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES-Terrenos- Concesión-Cementerios Municipales-- MODIFICA D.L. 5571/57- COMPLEMENTA D.L. 5571/57- COMPLEMENTA D.L. 14804"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Municipalidad de la Ciudad de Buenos Aires"
+            },
+            "preferido": {
+              "termino": "Municipalidad de la Ciudad de Buenos Aires"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "cementerios"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Municipalidad/cementerios"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen municipal",
+                "municipio"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "municipio (Municipalidad)",
+            "régimen municipal (Municipalidad)",
+            "Municipalidad de la Ciudad de Buenos Aires",
+            "cementerios",
+            "Derecho administrativo",
+            "Municipalidad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001438"
+    }
+  }
+}

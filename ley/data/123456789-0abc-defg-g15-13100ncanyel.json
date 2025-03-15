@@ -1,0 +1,125 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g15-13100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557407386974,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4739-nacional-lnn0013151-1905-09-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013151",
+      "numero-norma": 4739,
+      "timestamp": "2019-05-09T09:38:27",
+      "timestamp-m": "2019-05-09T09:38:27",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1905-09-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004739 1905 09 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.739",
+          "BUENOS AIRES, 26 DE SEPTIEMBRE DE 1905"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1905 10 17",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1905 10 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190682",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.739",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-09",
+      "texto-original": {
+        "file-name": "N0013151.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0013151pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PENSION A NEMESIA PAZ"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "pensiones graciables",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013151"
+    }
+  }
+}

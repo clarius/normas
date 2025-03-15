@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g12-06000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627383999069,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17434-nacional-lnn0006021-1967-09-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006021",
+      "numero-norma": 17434,
+      "timestamp": "2021-07-27T07:53:21",
+      "timestamp-m": "2021-07-27T07:53:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-09-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017434 1967 09 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.434",
+          "BUENOS AIRES, 11 DE SEPTIEMBRE DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 09 18",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 09 18"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 B19671732",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.434",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-27",
+      "texto-original": {
+        "file-name": "N0006021.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006021pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES EN LA CAPITAL FEDERAL POR LA MUNICIPALIDAD DE BUENOS AIRES CON DESTINO AL PARQUE ALMIRANTE BROWN"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006021"
+    }
+  }
+}

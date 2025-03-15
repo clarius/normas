@@ -1,0 +1,113 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g09-45100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1535728639379,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1946-nacional-lnn0015490-1887-07-16"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015490",
+      "numero-norma": 1946,
+      "timestamp": "2018-08-31T11:28:28",
+      "timestamp-m": "2018-08-31T11:28:28",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1887-07-16",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001946 1887 07 16",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1.946",
+          "BUENOS AIRES, 16 DE JULIO DE 1887"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1887 07 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880406",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.946",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-08-31",
+      "texto-original": {
+        "file-name": "N0015490.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0015490pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRESUPUESTO-CREDITO AL DEPARTAMENTO DEL INTERIOR PARA GASTOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "modificación del presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/modificación del presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "modificación del presupuesto",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "presupuesto nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015490"
+    }
+  }
+}

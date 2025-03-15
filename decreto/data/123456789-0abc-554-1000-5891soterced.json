@@ -1,0 +1,443 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-554-1000-5891soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410990958513,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1455-nacional-decreto-reglamentario-ley-20744-sobre-contrato-trabajo-dn19850001455-1985-08-08"
+      }
+    },
+    "content": {
+      "mecanografico": 19850001455,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1455,
+      "timestamp": "2014-07-17T22:50:08",
+      "timestamp-m": "2014-07-17T22:50:08",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1985-08-08",
+      "standard-normativo": "DEC C 001455 1985 08 08",
+      "titulo-norma": "DECRETO REGLAMENTARIO LEY 20.744 SOBRE CONTRATO DE TRABAJO.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1985 08 14"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 24",
+            "id": "DEROGA A0",
+            "ref": "DEC C 002491 1980 12 02 0000 000"
+          },
+          {
+            "cr": "POR ART. 24",
+            "id": "DEROGA A1",
+            "ref": "DEC C 001152 1982 06 18 0000 000"
+          },
+          {
+            "cr": "(B.O. 21-05-76)",
+            "id": "OBSERVA A2",
+            "ref": "DEC C 020744 1976 05 13 0052 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "B.O. 28-02-1992",
+          "id": "DEROGADO POR0",
+          "ref": "DEC C 000342 1992 02 24 0023 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.455/1985",
+      "estado": "Derogada",
+      "fecha-alta": "2003-06-05",
+      "fecha-mod": "2014-07-17",
+      "uid-alta": "SAUID",
+      "uid-mod": "SASAIJ",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTA LEY 20.744 SOBRE CONDICIONES PARA EL RECONOCIMIENTO DE LAS EMPRESAS DE SERVICIOS EVENTUALES, ESTABLECIENDOSE COMO OBJETO EXCLUSIVO DE LAS MISMAS EL PONER A DISPOSICION DE EMPRESAS USUARIAS PERSONAL PARA CUMPLIR TAREAS EN FORMA TEMPORARIA. SE ESTABLECEN LOS REQUERIMIENTOS QUE PERMITEN CONSIDERAR LEGITIMO Y ADECUADO EL USO DE ESTE REGIMEN Y LAS MODALIDADES DEL CONTRATO DE TRABAJO EVENTUAL.",
+        "observaciones-generales": "OBSERVACION: DEROGADO POR DECRETO NACIONAL 342/92 \"DECRETO REGLAMENTARIO DE LEY DE CONTRATO DE TRABAJO N° 20.744 Y LEY DE EMPLEO N° 24.013\", ART. 23. (B.O. 28-02-92)",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 020744 1976 05 13 0000 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "contrato laboral"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrato de trabajo eventual"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/modalidades del contrato de trabajo/modalidades no promovidas/contrato de trabajo eventual"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "trabajo eventual"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "pensión por fallecimiento",
+                "prestación de pensión por fallecimiento",
+                "derecho de pensión",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Ministerio de Trabajo y Seguridad Social"
+            },
+            "preferido": {
+              "termino": "Ministerio de Trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Trabajo, Empleo y Seguridad Social",
+                "Ministerio de Trabajo, Empleo y Formación de Recursos Humanos",
+                "Ministerio de Trabajo y Seguridad Social de la Nación",
+                "Ministerio de Trabajo y Seguridad Social"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "decreto reglamentario",
+            "reglamento de ejecución (decreto reglamentario)",
+            "haber previsional (beneficios previsionales)",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "Ministerio de Trabajo, Empleo y Formación de Recursos Humanos (Ministerio de Trabajo)",
+            "derecho de pensión (pensiones)",
+            "modalidades del contrato de trabajo",
+            "reglamentos",
+            "previsión social (sistema previsional)",
+            "contrato laboral (contrato de trabajo)",
+            "prestación de pensión por fallecimiento (pensiones)",
+            "prestaciones previsionales (beneficios previsionales)",
+            "contrato de trabajo eventual",
+            "Ministerio de Trabajo y Seguridad Social de la Nación (Ministerio de Trabajo)",
+            "derechos previsionales (beneficios previsionales)",
+            "Ministerio de Trabajo, Empleo y Seguridad Social (Ministerio de Trabajo)",
+            "sistema previsional",
+            "jubilaciones",
+            "salario (remuneración)",
+            "acto administrativo de alcance general",
+            "Ministerio de Trabajo",
+            "reglamento administrativo (reglamentos)",
+            "remuneración",
+            "Derecho administrativo",
+            "trabajo eventual (contrato de trabajo eventual)",
+            "modalidades no promovidas",
+            "Seguridad social",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
+            "pensiones",
+            "acto administrativo",
+            "Derecho laboral",
+            "sueldo (remuneración)",
+            "retribución (remuneración)",
+            "pensión por fallecimiento (pensiones)",
+            "beneficios previsionales",
+            "Ministerio de Trabajo y Seguridad Social (Ministerio de Trabajo)"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002491 1980 12 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 001552 1982 06 18 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "Los  decretos  número 2.491 del 2 de diciembre de 1980 y número 1.152 del 18 de junio de 1982, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002491 1980 12 02 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000390 1976 00 00 0029 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  el  decreto  Nro. 2.491/80  determinó  las condiciones para el reconocimiento  de  las  empresas de servicios eventuales,  con  el objeto de hacer operable la  norma del artículo 29, último párrafo, del régimen de Contrato de Trabajo  (t.o. decreto Nro. 390/76), que introduce excepción a la regla de la  solidaridad  establecida para los casos de contratación de trabajadores por terceros  con vista a proporcionarlos a las empresas.\n\nQue  el  sistema reglamentario pierde legitimidad, cuando fuera  de las emergencias excepcionales y de los requerimientos extraordinarios  que  justifican  su  admisibilidad,  esta forma de contratación  de  personal  es  utilizada  para  cubrir plazas  que corresponden  a  los alistamientos regulares y permanentes  de  las empresas usuarias.\n\nQue se hace preciso  reorientar las soluciones normativas a base de requerimientos  muy puntuales;  su  omisión  en  la  preceptiva  en vigencia es justamente  lo  que  ha  contribuído  a poner en severo riesgo  la  identidad  de  este  mecanismo, a crear situaciones  de fraude  a la ley laboral y alterar  las  estructuras  sindicales  y convencionales.\n\nQue corresponde  establecer  como  exigencia  que  las  empresas de servicios eventuales deben hacer de esta modalidad de contratación,  el  objeto  exclusivo  de su giro; de igual modo  la norma reglamentaria caracterizará los requerimientos  que  permiten considerar    legítimo  y  adecuado  el  uso  de  este  régimen  de mediación, expresando  los  efectos jurídicos que se derivan de los excesos en su invocación.\n\nQue es pertinente también agregar  precisiones  a  fin de facilitar al   organismo  de  aplicación  el  ejercicio  eficiente  de    sus facultades  de  control,  dentro  de  un contexto documentario y de contrataciones por escrito, lo que permitirá  verificar  con  mayor soltura  si  las  empresas  se  ajustan  en  todos  los  casos a la finalidad  específica  del  sistema y adecuan su comportamiento  al ámbito de actuación legalmente autorizado.\n\nQue ante la necesidad de definir  el status jurídico del trabajador en  función  del  carácter  itinerante    de   sus  desempeños,  la reglamentación  introduce  un precepto de garantía  al  establecer, con sustento en la equidad,  que  los  salarios  que  se asignen al trabajador  eventual  en  ningún caso podrán ser inferiores  a  los fijados  para  su  categoría por  el  instrumento  aplicable  a  la actividad o establecimiento  en  que se ejecute la prestación.\n\nQue la repotenciación que se propone  en  el  contexto del presente resulta  aconsejable  si  es que es verdad se quiere  preservar  la dignidad  del trabajo, corregir  disfunciones  en  los  canales  de empleo  y  jerarquizar  el  profesionalismo  en  las  empresas  del sector.\n\nQue la medida  propuesta  se fundamenta en el artículo 86, inciso 2 de la Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "TOR C 020744 1976 05 13 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 021297 1976 04 23 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "DEC C 000390 1976 00 00 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 1,
+          "texto": "ARTICULO  1.-  Quedan sujetas a las normas del presente decreto las empresas  dedicadas   a  la  prestación  de  servicios  eventuales, conforme con lo establecido  en  el  artículo 29, última parte, del Régimen de Contrato de Trabajo aprobado  por  ley  número  20.744 y modificado  por  la ley número 21.297 (texto ordenado según decreto Nro. 390/76)."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "ARTICULO  2.- Se considera EMPRESA DE SERVICIOS EVENTUALES, aquella entidad que,  constituída  por  personas físicas o jurídicas, tenga por  objeto  exclusivo  poner  a disposición  de  terceras  partes, designadas en adelante empresas  usuarias, personal administrativo, industrial o técnico, para cumplir  tareas  en  estas  últimas,  en forma  temporaria,  a  fin  de satisfacer servicios extraordinarios determinados de antemano o atender  a  exigencias extraordinarias y transitorias de la empresa, explotación  o  establecimiento  de que se trate."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "ARTICULO  3.-  Considérase  que  el  trabajador es asignado por una empresa  de  servicios eventuales a una  empresa  usuaria,  en  las circunstancias  enunciadas  en  el  artículo  anterior,  cuando  se acredite  que  el  requerimiento  tiene  por  causa alguna de estas situaciones:\n\na)  en  caso  de  ausencia  de  un  trabajador asalariado  regular, durante el período de ausencia.\n\nb)  en  caso  de suspensión del contrato  de  trabajo,  durante  el período en que  se  extienda,  excepto  cuando  dicha situación sea producto  de  una  huelga  o  que la suspensión esté dispuesta  por fuerza mayor, falta o disminución de trabajo.\n\nc) en caso de un pico de trabajo ocasional.\n\nd) organización de congresos, conferencias,  ferias, exposiciones o programaciones.\n\ne)  en caso de un trabajo que requiera ejecución  inaplazable  para prevenir  accidentes,  por  medidas  de  seguridad  urgentes o para reparar equipos del establecimiento, instalaciones o  edificios que hagan  peligrar  a los trabajadores o a terceros, siempre  que  las tareas no puedan ser  realizadas por personal regular de la empresa usuaria.\n\nf) en general, cuando atendiendo  a  necesidades  extraordinarias y transitorias  hayan  de  cumplirse tareas ajenas al giro  normal  y habitual de la empresa usuaria."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "TOR C 020744 1976 05 13 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 009688 1915 09 29 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_2",
+                "ref": "TOR C 018037 1976 11 16 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_3",
+                "ref": "TOR C 018017 1974 12 04 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_4",
+                "ref": "LEY C 022269 1980 08 15 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 4,
+          "texto": "ARTICULO  4.-  El personal contratado por las empresas de servicios eventuales al objeto  determinado en los artículos anteriores, será considerado en relación  de dependencia para con las mismas a todos los efectos de la relación de trabajo.\n\nLa extensión de los derechos  y  deberes de las partes, frente a la ley  laboral,  dependerá  de  la índole  de  la  relación,  de  los requisitos  exigidos  por  cada  uno  de  los  institutos,  de  las modalidades del contrato entre la  empresa  de servicios eventuales y  el  trabajador y del carácter de la prestación  de  este  último respecto  de  la  empresa usuaria. A este efecto, entiéndese que la excepción a la regla  de la solidaridad resultante del artículo 29, última parte, del régimen  de  Contrato  de Trabajo, decae de pleno derecho y no podrá ser opuesta toda vez que  el trabajador asignado cumpliere  tareas  de  carácter permanente en la  empresa  usuaria, fuera de los supuestos previstos  en  el  artículo  anterior.\n\nEn  ningún caso los salarios que se asignen al trabajador eventual, podrán  ser  inferiores  a  los  fijados  para  su categoría por la convención  colectiva o estatuto aplicables a la actividad  en  que se ejecute la  prestación.  En  caso de sustitución o reemplazo, la remuneración no podrá ser inferior  al salario y adicionales que se abonen regularmente al trabajador a quien  sustituye, con exclusión de  los  adicionales  por  antiguedad  que  éste  percibiere.\n\nSerán  asimismo  de aplicación los beneficios establecidos  por  el régimen de jubilaciones  y  pensiones  para el personal en relación de dependencia, la ley de accidentes del  trabajo,  y los regímenes de asignaciones y subsidios familiares, seguro de vida  obligatorio y obras sociales."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "ARTICULO  5.-  En relación a la asignación que en cada caso efectúe la empresa de servicios eventuales, deberá acreditar la celebración de contrato  escrito  con  la  usuaria.  En  el deberán hacerse   constar  los  motivos  que  justifiquen  la  demanda  del trabajador,  la cuantía y modalidades de la remuneración asignada a este último, su  calificación profesional, la tarea a desarrollar y la duración prevista para la cobertura.\n\nLa empresa de servicios  proveerá  a la autoridad administrativa un resumen  mensual  de  los  contratos  de    asignación  suscriptos, haciéndose constar número de legajo y el sumario de las constancias establecidas en el párrafo anterior."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "ARTICULO  6.- Las empresas de servicios eventuales, deberán proveer a sus dependientes  una  libreta  de  trabajo debidamente rubricada por  la  autoridad  de  aplicación,  en la cual  se  hará  constar:\n\nempresa prestataria, empresa usuaria,  domicilio de ambas, lugar de trabajo,  horas y jornadas trabajadas, salarios  percibidos,  fecha de inicio, y conclusión de sus prestaciones.\n\nLa empresa  usuaria  consignará  la  fecha  de ingreso y egreso del trabajador,  y el nombre de la empresa prestataria.  Dicha  libreta no podrá ser retenida  ni  por  la empresa de servicios eventuales, ni  por  la  empresa  usuaria, debiendo  permanecer  en  poder  del trabajador."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "ARTICULO  7.- Las personas físicas o jurídicas que desarrollen como actividad la  prestación  a terceros de los servicios enumerados en el  artículo  2  del  presente,  deberán  estar  inscriptas  en  el Registro Especial, que  será llevado por la Autoridad de Aplicación"
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "ARTICULO  8.-  Son requisitos indispensables para la inscripción en el Registro, los siguientes:\n\na) individualización  del  titular,  con  enunciación y referencias acerca de los antecedentes y responsabilidad  del solicitante;\n\nb)  agregación  de  los  documentos  societarios, designándose  los administradores,  directores  y  gerentes  del  ente  social;\n\nc) declaración tanto de las áreas  geográficas  como  profesionales dentro  de  las que proveerá trabajadores a las empresas  usuarias;\n\nd) habilitación  municipal  de  sus  locales, oficinas y/o agencias correspondientes  a  las  áreas geográficas  en  que  ejercerá  sus funciones;\n\ne)  acreditar  las  correspondientes    inscripciones  impositivas, previsionales y de seguridad social;\n\nf) constancia de la contratación del seguro  de  vida  obligatorio, de    seguros   por  accidentes  del  trabajo  y  cobertura  médico asistencial;\n\ng)  constituír  la   garantía  a  que  se  refieren  los  artículos siguientes."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "ARTICULO  9.-  Se  entenderá  por  área  geográfica a los fines del inciso  c)  del  artículo anterior, las que queden  comprendidas  y delimitadas de acuerdo  a la jurisdicción que le corresponde a cada Delegación Regional del Ministerio  de  Trabajo y Seguridad Social."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "ARTICULO  10.-  Al  momento  de  solicitarse  la  inscripción en el Registro  Especial,  deberá efectuarse un depósito de  garantía  en valores o títulos públicos  nacionales,  equivalente  a  cien (100) salarios  mensuales, mínimos vitales. Esta garantía se incrementará en un cincuenta  por  ciento  (50  %)  si la empresa se inscribiere para  actuar  en  más  de  tres  áreas  geográficas,   conforme  la determinación  prevista en los artículos 8 inciso hasta  el  31  de diciembre de\n\nLa equivalencia  se  determinará  según  el  valor de cotización en bolsa  de los títulos a la época de constituirse  la  garantía,  el que será  certificado  por  el  BANCO  DE LA NACION ARGENTINA donde deberá efectuarse el depósito.\n\nDichos  valores  quedarán  caucionados a favor  del  Ministerio  de Trabajo y Seguridad Social de la Nación."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "ARTICULO  11.-  El  depósito de garantía deberá ajustarse antes del 31 de marzo de cada año,  sobre  la  base  del  5% del total de las remuneraciones brutas abonadas por la empresa de  servicios  a  sus dependientes  en  el  año  inmediato  anterior,  a  cuyo  efecto se actualizarán por índice de precios al consumidor publicado  por  el INDEC,  tomando como base el índice del mes anterior al pago de las remuneraciones  y  el  correspondiente  al  mes  de  enero  del año posterior.\n\nLa  cantidad  resultante no podrá ser bajo ningún concepto inferior a la equivalencia  determinada  en el artículo precedente tomándose como base el monto del salario mínimo  vital vigente al momento del ajuste y el que corresponda al valor de  cotización en bolsa de los títulos y valores."
+        },
+        {
+          "numero-articulo": 12,
+          "texto": "ARTICULO  12.-  La  diferencia  que pudiera surgir de la aplicación del artículo anterior deberá integrarse  en  bonos nacionales en la fecha indicada.\n\nSi  resultare  un  valor inferior al determinado  en  el  ejercicio anterior, el excedente  de  los  títulos o valores en depósito será de  libre  disponibilidad  para la empresa  de  servicios.  En  tal supuesto  el  Ministerio  de  Trabajo    y   Seguridad  Social  con posterioridad  al  31  de  marzo,  autorizará  el  retiro    de  la diferencia  que  correspondiere  entre  el  último  ejercicio  y el anterior."
+        },
+        {
+          "numero-articulo": 13,
+          "texto": "ARTICULO  13.-  El Estado no abonará intereses por los depósitos en garantía, pero los que devengaren los títulos o valores pertenecerán a sus depositantes."
+        },
+        {
+          "numero-articulo": 14,
+          "texto": "ARTICULO  14.-  Antes  del  31 de marzo de cada año las empresas de servicios deberán presentar una  declaración  jurada,  actualizando los  datos  consignados  en  el  artículo 8. Sin perjuicio de  ello estarán obligadas a notificar a la  autoridad  de  aplicación, cada vez  que  ello  proceda,  todo  cambio  de domicilio o apertura  de sucursales, agencias o filiales, con acreditación de su correspondiente habilitación municipal."
+        },
+        {
+          "numero-articulo": 15,
+          "texto": "ARTICULO  15.-  Además  de  los  datos  que deben consignarse en el libro  especial  determinado  por el artículo  52  del  Régimen  de Contrato  de  Trabajo,  en una sección  particular  del  mismo  las empresas  de  servicios eventuales  especificarán  los  siguientes:\n\na) nombre, denominación  o  razón  social y domicilio de la empresa usuaria del servicio;\n\nb)  número de legajo del respectivo contrato  de  asignación;\n\nc)  situación  o  circunstancia  que  en  cada  caso  da  lugar  al requerimiento del trabajador eventual;\n\nd) individualización del trabajador asignado;\n\ne) categoría profesional y tarea a desarrollar;\n\nf) remuneración establecida;\n\ng) fecha de ingreso y egreso en cada destino."
+        },
+        {
+          "numero-articulo": 16,
+          "texto": "ARTICULO  16.-  El  reconocimiento  para  funcionar como empresa de servicios  eventuales  será  dejado  sin  efecto  disponiéndose  la cancelación  de  la  inscripción  en el Registro  Especial  en  los siguientes casos:\n\na) Por solicitud expresa del titular.\n\nb)  Por  haberse  extralimitado  el área  geográfica  de  actuación autorizada.\n\nc) Por prestación de servicios que  no  encuadren en lo establecido en los artículos 2 y 3 del presente.\n\nd)  Por  no  haberse  cumplimentado  el reajuste  del  depósito  en garantía.\n\ne)  Por  disminución  del  monto  de  la garantía  no  imputable  a desvalorización monetaria.\n\nf) Por incumplimiento de cualquiera de  las obligaciones emergentes del presente decreto."
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "ARTICULO  17.-  Lo  establecido en los incisos b) a f) del artículo anterior es sin perjuicio  de las sanciones a que hubiere lugar por aplicación de la legislación vigente."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "ARTICULO  18.-  Para  la  restitución  de  los  títulos  o valores depositados  en  caución,  el  interesado  deberá  cumplir  con los siguientes recaudos:\n\na)  Acompañar  declaración  jurada  en  la  que  conste:  fecha  de cesación   de  actividades;  nómina  del  personal  ocupado;  haber abonado la  totalidad  de las remuneraciones y/o indemnizaciones al mismo;  detalle  de  los  Sindicatos,    Obras   Sociales  y  Cajas previsionales  y de Subsidios familiares en las que  se  encuentren comprendidas  las    actividades  desarrolladas.  Esta  declaración deberá  estar  certificada  por  Contador  Público  Nacional.\n\nb) Acompañar certificados  de  libre deuda o constancia equivalente otorgados por las Cajas de Jubilaciones,  de  Subsidios Familiares, Obras  Sociales  y  asociaciones  profesionales  respectivas.\n\nc) Publicación de Edictos por el término de cinco  (5)  días  en el Boletín  Oficial  y  en  el  Provincial  que  corresponda  al  área geográfica  de  actuación,  emplazando  a  los  acreedores  por  el término  de  90  días  corridos.  Estas  publicaciones  deberán ser efectuadas por el interesado."
+        },
+        {
+          "numero-articulo": 19,
+          "texto": "ARTICULO  19.- Sólo se considerará como impedimento para reintegrar los valores  o  títulos  dados  en  caución  una orden de embargo o medida  precautoria o ejecutoria decretada por  autoridad  judicial competente."
+        },
+        {
+          "numero-articulo": 20,
+          "texto": "ARTICULO  20.-  Cumplidos todos los requisitos establecidos sin que se  hayan planteado  oposiciones  conforme  lo  establecido  en  el artículo   anterior,  la  autoridad  de  aplicación  autorizará  la restitución  de  los  títulos  o  valores  depositados  en caución."
+        },
+        {
+          "numero-articulo": 21,
+          "texto": "ARTICULO 21.- Las empresas comprendidas en la presente reglamentación  no  podrán percibir de los trabajadores suma alguna por  su  inscripción  o   contratación,  quedándoles  estrictamente vedado practicar otros descuentos  que  no sean los autorizados por la ley."
+        },
+        {
+          "numero-articulo": 22,
+          "texto": "ARTICULO  22.-  Las  personas físicas y/o jurídicas, cualquiera sea su carácter o denominación,  que  pretendiesen actuar como empresas de  servicios eventuales, o que por  cualquier  medio  invocaren  o publicitaren  esa calidad, sin ajustar su ejercicio o las normas de habilitación  y   reconocimiento  determinadas  por  este  decreto, estarán incursas en  las  sanciones  previstas  por  la legislación vigente,   según  las  circunstancias  y  modo  de  la  infracción."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002491 1980 12 02 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 23,
+          "texto": "ARTICULO  23.-  Las  empresas  que  se  encuentren inscriptas en el Registro creado por el Decreto Nro. 2491/80,  deberán  adecuarse  a las  normas  reglamentarias  establecidas  por  el presente decreto dentro  de  los ciento veinte (120) días a contar de  su  vigencia."
+        },
+        {
+          "numero-articulo": 24,
+          "texto": "ARTICULO  24.-  Deróganse  los  Decretos  números 2.491/80 y 1.152/82."
+        },
+        {
+          "numero-articulo": 25,
+          "texto": "ARTICULO    25.-  Comuníquese,  publíquese,  dése  a  la  Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "ALFONSIN-BARRIONUEVO"
+      },
+      "id-infojus": "DN19850001455"
+    }
+  }
+}

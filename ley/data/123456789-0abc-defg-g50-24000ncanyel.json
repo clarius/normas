@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g50-24000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043345978,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21035-nacional-lnn0004205-1975-09-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004205",
+      "numero-norma": 21035,
+      "timestamp": "2019-04-23T14:40:53",
+      "timestamp-m": "2019-04-23T14:40:53",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1975-09-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021035 1975 09 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.035",
+          "BUENOS AIRES, 11 DE SEPTIEMBRE DE 1975"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1975 10 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1975 10 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  035 C19752717",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.035",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0004205.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0004205pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DECLARACION DE UTILIDAD PUBLICA-EXPROPIACION-INMUEBLES-CONSTRUCCION DE ESTABLECIMIENTOS EDUCACIONALES EN LAS PROVINCIAS DE CORDOBA Y BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004205"
+    }
+  }
+}

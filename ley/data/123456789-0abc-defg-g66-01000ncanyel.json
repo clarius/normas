@@ -1,0 +1,90 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g66-01000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584015703,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17896-nacional-lnn0001066-1968-09-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001066",
+      "numero-norma": 17896,
+      "timestamp": "2013-07-22T14:12:07",
+      "timestamp-m": "2013-07-22T14:12:07",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-09-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017896 1968 09 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 17.896",
+          "BUENOS AIRES, 25 DE SEPTIEMBRE DE 1968"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1968 10 01",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 10 01"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  028 C19683325",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.896",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-07-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SOLO MODIFICATORIA-MODIFICA DECRETO LEY 333-58-CREACION DE LA DELEGACION DE AVELLANEDA DE LA POLICIA FEDERAL EN LA PROVINCIA DE BUENOS AIRES."
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "policía federal"
+          },
+          "preferido": {
+            "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/policía federal"
+          },
+          "sinonimos": {
+            "termino": [
+              "seguridad nacional",
+              "Policía Federal Argentina",
+              "personal de seguridad"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "fuerzas de seguridad",
+            "seguridad pública",
+            "policía federal",
+            "Policía Federal Argentina (policía federal)",
+            "Defensa nacional",
+            "seguridad nacional (seguridad pública)",
+            "policía",
+            "personal de seguridad (fuerzas de seguridad)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001066"
+    }
+  }
+}

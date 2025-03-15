@@ -1,0 +1,122 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g86-07000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1590519918262,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16069-nacional-lnn0007068-1961-11-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0007068",
+      "numero-norma": 16069,
+      "timestamp": "2020-05-26T15:15:12",
+      "timestamp-m": "2020-05-26T15:15:12",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1961-11-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016069 1961 11 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.069",
+          "BUENOS AIRES, 15 DE NOVIEMBRE DE 1961"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1961 12 15",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1961 12 15"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  021 A19610243",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.069",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-05-26",
+      "texto-original": {
+        "file-name": "N0007068.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0007068pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONDONACION DE UNA DEUDA DEL SINDICATO DE PRENSA DE PARANA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extinción de las obligaciones"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remisión de deudas"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones/remisión de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "condonación de deudas",
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de las obligaciones",
+            "Derecho constitucional",
+            "Estado",
+            "obligaciones",
+            "Estado Nacional",
+            "obligaciones y contratos (derechos personales)",
+            "remisión de deudas",
+            "Derecho civil",
+            "derechos personales",
+            "obligaciones personales (obligaciones)",
+            "condonación de deudas (remisión de deudas)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0007068"
+    }
+  }
+}

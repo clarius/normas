@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g34-58200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043398693,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24026-nacional-lnn0028543-1991-11-14"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028543",
+      "numero-norma": 24026,
+      "timestamp": "2019-04-23T14:39:56",
+      "timestamp-m": "2019-04-23T14:39:56",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1991-11-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024026 1991 11 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 24.026",
+          "BUENOS AIRES, 14 DE NOVIEMBRE DE 1991"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1991 12 17",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1991 12 17"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.026",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0028543.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028543pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZACION A LA COMISION NACIONAL DE ENERGIA ATOMICA PARA PROVEER GRATUITAMENTE MATERIAL RADIOACTIVO AL CENTRO DE APLICACIONES BIONUCLEARES DE COMODORO RIVADAVIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Comisión Nacional de Energía Atómica"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía nuclear/Comisión Nacional de Energía Atómica"
+            },
+            "sinonimos": {
+              "termino": [
+                "CNEA",
+                "CONEA",
+                "energía atómica",
+                "energía nucleoeléctrica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sustancias radioactivas"
+            },
+            "preferido": {
+              "termino": "Salud pública/sustancias tóxicas/sustancias radioactivas"
+            },
+            "sinonimos": {
+              "termino": "sustancias nucleares"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "CONEA (Comisión Nacional de Energía Atómica)",
+            "Salud pública",
+            "Comisión Nacional de Energía Atómica",
+            "sustancias radioactivas",
+            "energía nucleoeléctrica (energía nuclear)",
+            "sustancias tóxicas",
+            "sustancias nucleares (sustancias radioactivas)",
+            "CNEA (Comisión Nacional de Energía Atómica)",
+            "energía atómica (energía nuclear)",
+            "recursos energéticos",
+            "Recursos naturales",
+            "energía nuclear"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028543"
+    }
+  }
+}

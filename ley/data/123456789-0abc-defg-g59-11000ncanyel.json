@@ -1,0 +1,130 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g59-11000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584351282,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17294-nacional-lnn0001195-1967-05-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001195",
+      "numero-norma": 17294,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-05-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017294 1967 05 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 17.294",
+          "BUENOS AIRES, 23 DE MAYO DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 06 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 06 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B002719671466",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.294",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22439 (B.O. 27-03-1981) MIGRACION-INMIGRACION CLANDESTINA-TRABAJO-AMBITO DE APLICACION-RESIDENCIA LEGAL- DOCUMENTOS-EXHIBICION OBLIGATORIA-DIRECCION NACIONAL DE MIGRACIONES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "migraciones"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones"
+            },
+            "sinonimos": {
+              "termino": "inmigración"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "radicación de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/radicación de extranjeros"
+            },
+            "sinonimos": {
+              "termino": [
+                "pedido de radicación en el país",
+                "inmigración"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "extranjeros ilegales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/extranjeros ilegales"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmigración clandestina",
+                "residente ilegal",
+                "migración clandestina",
+                "inmigración"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Dirección Nacional de Migraciones"
+            },
+            "preferido": {
+              "termino": "Dirección Nacional de Migraciones"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "inmigración clandestina (extranjeros ilegales)",
+            "extranjeros",
+            "pedido de radicación en el país (radicación de extranjeros)",
+            "extranjeros ilegales",
+            "radicación de extranjeros",
+            "inmigración (migraciones)",
+            "residente ilegal (extranjeros ilegales)",
+            "Derecho administrativo",
+            "migraciones",
+            "Dirección Nacional de Migraciones",
+            "migración clandestina (extranjeros ilegales)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001195"
+    }
+  }
+}

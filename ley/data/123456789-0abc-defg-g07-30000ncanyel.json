@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g07-30000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1535728495484,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21291-nacional-lnn0000370-1976-04-07"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000370",
+      "numero-norma": 21291,
+      "timestamp": "2018-08-31T11:28:27",
+      "timestamp-m": "2018-08-31T11:28:27",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1976-04-07",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021291 1976 04 07",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 021291",
+          "BUENOS AIRES 07 DE ABRIL DE 1976"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1976 04 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 04 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  036 B19761069",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.291",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-08-31",
+      "texto-original": {
+        "file-name": "N0000370.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0000370pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-CONSEJOS VECINALES-MODIFICA DECRETO-LEY 1998-7-72"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Municipalidad"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Municipalidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen municipal",
+                "municipio"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "consejo vecinal"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/Municipalidad/consejo vecinal"
+            },
+            "sinonimos": {
+              "termino": [
+                "régimen municipal",
+                "municipio"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "municipio (Municipalidad)",
+            "régimen municipal (Municipalidad)",
+            "consejo vecinal",
+            "Derecho administrativo",
+            "Municipalidad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000370"
+    }
+  }
+}

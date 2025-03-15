@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g55-68200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583983065,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24344-nacional-lnn0028655-1994-06-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028655",
+      "numero-norma": 24344,
+      "timestamp": "2013-07-22T14:12:04",
+      "timestamp-m": "2013-07-22T14:12:04",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1994-06-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024344 1994 06 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY N. 24.344",
+          "BUENOS AIRES, 9 DE JUNIO DE 1994"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1994 07 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1994 07 08"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.344",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-07-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICA LOS MONTOS DE LAS MULTAS PREVISTAS EN LAS LEYES 19511 (B.\n\nO. 11-5-72),20680 (B.O. 25-6-74) Y 22802 (B.O. 27-9-74)"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "multa administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/multa/multa administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "multa (administrativo)",
+                "sanción penal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monto de la multa"
+            },
+            "preferido": {
+              "termino": "Derecho penal/pena/monto de la pena"
+            },
+            "sinonimos": {
+              "termino": [
+                "monto de la sanción",
+                "quantum de la pena",
+                "sanción penal",
+                "monto de la multa"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "multa",
+            "monto de la pena",
+            "sanción penal (pena)",
+            "multa (administrativo) (multa administrativa)",
+            "Derecho penal",
+            "multa administrativa",
+            "pena",
+            "monto de la sanción (monto de la pena)",
+            "monto de la multa (monto de la pena)",
+            "quantum de la pena (monto de la pena)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028655"
+    }
+  }
+}

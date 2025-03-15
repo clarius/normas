@@ -1,0 +1,122 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g87-28100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1581953433085,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15813-nacional-lnn0018278-1961-05-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018278",
+      "numero-norma": 15813,
+      "timestamp": "2020-02-17T11:39:15",
+      "timestamp-m": "2020-02-17T11:39:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1961-05-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015813 1961 05 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 015813",
+          "BUENOS AIRES 31 DE MAYO DE 1961"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1961 07 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1961 07 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  021 A19610061",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.813",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-17",
+      "texto-original": {
+        "file-name": "N0018278.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018278pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONDONACION DEUDA CON EL ESTADO CONTRAIDA POR FRANCISCO IBAÑEZ"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extinción de las obligaciones"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remisión de deudas"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones/remisión de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "condonación de deudas",
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de las obligaciones",
+            "Derecho constitucional",
+            "Estado",
+            "obligaciones",
+            "Estado Nacional",
+            "obligaciones y contratos (derechos personales)",
+            "remisión de deudas",
+            "Derecho civil",
+            "derechos personales",
+            "obligaciones personales (obligaciones)",
+            "condonación de deudas (remisión de deudas)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018278"
+    }
+  }
+}

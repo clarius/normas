@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g74-03000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1535728732549,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22856-nacional-lnn0003047-1983-07-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0003047",
+      "numero-norma": 22856,
+      "timestamp": "2018-08-31T11:28:27",
+      "timestamp-m": "2018-08-31T11:28:27",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1983-07-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022856 1983 07 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 22.856",
+          "BUENOS AIRES, 21 DE JULIO DE 1983"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1983 07 26",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1983 07 26"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.856",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-08-31",
+      "texto-original": {
+        "file-name": "N0003047.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0003047pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AGRICULTURA-GANADERIA-TRIBUTOS-IMPUESTOS-IMPUESTO SOBRE LOS CAPITALES-IMPUESTO AL PATRIMONIO NETO-EXENCION-EMERGENCIA AGROPECUARIA-EMERGENCIAS SOCIALES-INUNDACIONES-EXPLOTACIONES AGROPECUARIAS-INMUEBLES-ARRENDAMIENTOS Y APARCERIAS RURALES-ESTADO -PROVINCIAS-PROVINCIA DE SANTA FE-DEPARTAMENTOS COMPRENDIDOS-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "emergencia agropecuaria"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/emergencia agropecuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inundaciones"
+            },
+            "preferido": {
+              "termino": "Bienestar social/emergencias sociales/catástrofe/inundación"
+            },
+            "sinonimos": {
+              "termino": [
+                "acción social",
+                "inundaciones"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "actividad agropecuaria",
+            "emergencia agropecuaria",
+            "agricultura (actividad agropecuaria)",
+            "emergencias sociales",
+            "Bienestar social",
+            "ganadería (actividad agropecuaria)",
+            "acción social (Bienestar social)",
+            "inundación",
+            "inundaciones (inundación)",
+            "catástrofe",
+            "Actividades económicas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0003047"
+    }
+  }
+}

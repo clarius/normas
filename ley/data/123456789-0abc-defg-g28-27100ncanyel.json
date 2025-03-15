@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g28-27100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676383356132,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "84-nacional-lnn0017282-1864-06-10"
+      }
+    },
+    "content": {
+      "mecanografico": "N0017282",
+      "numero-norma": 84,
+      "timestamp": "2023-02-13T20:23:32",
+      "timestamp-m": "2023-02-13T20:23:32",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1864-06-10",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000084 1864 06 10",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 0.084",
+          "BUENOS AIRES, 10 DE JUNIO DE 1864"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1864 06 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": null
+      },
+      "publicacion-privada": "ADLA                                                  000 018520426",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 84",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-13",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO COMPLEMENTARIO PARA EL PRESUPUESTO VIGENTE PARA PAGO AUMENTOS A PERSONAL DEL SENADO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "modificación del presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/modificación del presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "modificación del presupuesto",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "presupuesto nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0017282"
+    }
+  }
+}

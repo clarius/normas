@@ -1,0 +1,90 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g67-85000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583990225,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17262-nacional-lnn0005876-1967-05-02"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005876",
+      "numero-norma": 17262,
+      "timestamp": "2013-12-19T14:38:38",
+      "timestamp-m": "2013-12-19T14:38:38",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-05-02",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017262 1967 05 02",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.262",
+          "BUENOS AIRES, 2 DE MAYO DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 07 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 07 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 A19670268",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.262",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-12-19",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN TERRENO UBICADO EN LA CAPITAL FEDERAL SECCION 32 PARROQUIA SAN CRISTOBAL CON DESTINO AL BANCO HIPOTECARIO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "dominio del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "dominio del Estado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005876"
+    }
+  }
+}

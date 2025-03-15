@@ -1,0 +1,93 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g60-94100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557771366667,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4713-nacional-lnn0014906-1905-09-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014906",
+      "numero-norma": 4713,
+      "timestamp": "2019-05-13T14:05:12",
+      "timestamp-m": "2019-05-13T14:05:12",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1905-09-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004713 1905 09 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.713",
+          "BUENOS AIRES, 25 DE SEPTIEMBRE DE 1905"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1905 10 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190680",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.713",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-13",
+      "texto-original": {
+        "file-name": "N0014906.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014906pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO EXTRAORDINARIO AL MINISTERIO DE OBRAS PUBLICAS PARA PAGO EN JUICIO DE EXPROPIACION DE TERRENOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "dominio del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "dominio del Estado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014906"
+    }
+  }
+}

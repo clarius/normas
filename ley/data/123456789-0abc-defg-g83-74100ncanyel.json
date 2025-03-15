@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g83-74100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1536182009017,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3014-nacional-lnn0014738-1893-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014738",
+      "numero-norma": 3014,
+      "timestamp": "2018-09-05T17:10:42",
+      "timestamp-m": "2018-09-05T17:10:42",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1893-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003014 1893 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 003014",
+          "BUENOS AIRES 30 DE SEPTIEMBRE DE 1893"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1893 10 12",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1893 10 12"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O19190261",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.014",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-09-05",
+      "texto-original": {
+        "file-name": "N0014738.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014738pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO SUPLEMENTARIO A LA CAMARA DE DIPUTADOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014738"
+    }
+  }
+}

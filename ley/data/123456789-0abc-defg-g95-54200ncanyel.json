@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g95-54200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583998739,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2219-nacional-lnn0024559-1887-11-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024559",
+      "numero-norma": 2219,
+      "timestamp": "2014-08-29T16:05:11",
+      "timestamp-m": "2014-08-29T16:05:11",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1887-11-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002219 1887 11 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 2219",
+          "BUENOS AIRES, 9 DE NOVIEMBRE DE 1887"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1888 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1888 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880421",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.219",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 18037-JUBILACION PARA PERSONAL DE LA ADMINISTRACION PUBLICA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "jubilaciones",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024559"
+    }
+  }
+}

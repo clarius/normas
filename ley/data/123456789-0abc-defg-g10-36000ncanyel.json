@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g10-36000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1592392301812,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16733-nacional-lnn0006301-1965-09-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006301",
+      "numero-norma": 16733,
+      "timestamp": "2020-06-17T07:45:32",
+      "timestamp-m": "2020-06-17T07:45:32",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1965-09-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016733 1965 09 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.733",
+          "BUENOS AIRES, 22 DE SEPTIEMBRE DE 1965"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1965 10 21",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1965 10 21"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  025 C19652102",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.733",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-17",
+      "texto-original": {
+        "file-name": "N0006301.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006301pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONSTRUCCION DEL AERODROMO DE PARANA DE LA PROVINCIA DE ENTRE RIOS."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "aeródromos"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/infraestructura aeronáutica/aeródromos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Paraná"
+            },
+            "preferido": {
+              "termino": "Paraná"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Entre Ríos"
+            },
+            "preferido": {
+              "termino": "Entre Ríos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "infraestructura aeronáutica",
+            "Entre Ríos",
+            "Paraná",
+            "aeródromos",
+            "Derecho aeronáutico"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006301"
+    }
+  }
+}

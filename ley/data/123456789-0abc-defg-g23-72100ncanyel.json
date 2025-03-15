@@ -1,0 +1,125 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g23-72100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1561720138955,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5930-nacional-lnn0012732-1908-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012732",
+      "numero-norma": 5930,
+      "timestamp": "2019-06-28T07:25:34",
+      "timestamp-m": "2019-06-28T07:25:34",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1908-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005930 1908 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.930",
+          "BUENOS AIRES, 29 DE SEPTIEMBRE DE 1908"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1908 10 28",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1908 10 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190750",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.930",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-06-28",
+      "texto-original": {
+        "file-name": "N0012732.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0012732pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PENSION A REGALADA F. DE MERLO Y OTROS."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "pensiones graciables",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012732"
+    }
+  }
+}

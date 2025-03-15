@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g11-50200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584480316,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12350-nacional-modifica-presupuesto-lnn0020511-1937-01-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020511",
+      "numero-norma": 12350,
+      "timestamp": "2013-08-22T13:20:52",
+      "timestamp-m": "2013-08-22T13:20:52",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1937-01-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012350 1937 01 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 12350",
+          "BUENOS AIRES, 21 DE ENERO DE 1937"
+        ]
+      },
+      "titulo-norma": "MODIFICA PRESUPUESTO",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1937 01 21"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400780",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.350",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICACION AL PRESUPUESTO DEL AÑO 1937"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "modificación del presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/modificación del presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "modificación del presupuesto",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "presupuesto nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020511"
+    }
+  }
+}

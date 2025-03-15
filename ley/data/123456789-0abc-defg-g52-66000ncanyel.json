@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g52-66000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1593000479581,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15992-nacional-lnn0006625-1961-10-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006625",
+      "numero-norma": 15992,
+      "timestamp": "2020-06-24T08:53:41",
+      "timestamp-m": "2020-06-24T08:53:41",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1961-10-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015992 1961 10 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15.992",
+          "BUENOS AIRES, 26 DE OCTUBRE DE 1961"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1961 12 09",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1961 12 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  021 A19610235",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.992",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-24",
+      "texto-original": {
+        "file-name": "N0006625.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006625pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PUERTO DE FORMOSA-REALIZACION DE ESTUDIOS PARA CONSTRUIR UN PUERTOE FORMOSA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "puertos"
+            },
+            "preferido": {
+              "termino": "Derecho de la navegación/puertos"
+            },
+            "sinonimos": {
+              "termino": [
+                "área portuaria",
+                "navegación",
+                "derecho marítimo",
+                "terminales portuarias"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Formosa"
+            },
+            "preferido": {
+              "termino": "Formosa"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "puertos",
+            "Derecho de la navegación",
+            "Formosa",
+            "terminales portuarias (puertos)",
+            "área portuaria (puertos)",
+            "navegación (Derecho de la navegación)",
+            "derecho marítimo (Derecho de la navegación)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006625"
+    }
+  }
+}

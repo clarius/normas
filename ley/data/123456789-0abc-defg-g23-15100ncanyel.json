@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g23-15100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583754213,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2570-nacional-lnn0015132-1889-09-18"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015132",
+      "numero-norma": 2570,
+      "timestamp": "2014-09-02T12:54:35",
+      "timestamp-m": "2014-09-02T12:54:35",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1889-09-18",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002570 1889 09 18",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 002570",
+          "BUENOS AIRES 18 DE SEPTIEMBRE DE 1889"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1889 09 18"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O19190012",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.570",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-09-02",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "REVALIDA-CONCESION DE TIERRAS A NATALIO ROLDAN."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "contratos administrativos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concesión administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/concesión administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de concesión administrativa",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concesión administrativa",
+            "contrato de concesión administrativa (concesión administrativa)",
+            "contrataciones públicas (contratos administrativos)",
+            "contratos administrativos",
+            "contrataciones del Estado (contratos administrativos)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015132"
+    }
+  }
+}

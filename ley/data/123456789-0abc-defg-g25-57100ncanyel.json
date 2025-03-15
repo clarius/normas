@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g25-57100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584321622,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "286-nacional-lnn0017552-1861-09-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0017552",
+      "numero-norma": 286,
+      "timestamp": "2014-09-02T12:54:37",
+      "timestamp-m": "2014-09-02T12:54:37",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1861-09-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000286 1861 09 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 286",
+          "PARANA, 25 DE SEPTIEMBRE DE 1861"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1861 09 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800211",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 286",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-09-02",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA PRORROGA,CONCESIONARIOS OBRA DEL FERROCARRIL DEL ROSARIO A CORDOBA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "contratos administrativos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concesión administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/concesión administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de concesión administrativa",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concesión administrativa",
+            "contrato de concesión administrativa (concesión administrativa)",
+            "contrataciones públicas (contratos administrativos)",
+            "contratos administrativos",
+            "contrataciones del Estado (contratos administrativos)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0017552"
+    }
+  }
+}

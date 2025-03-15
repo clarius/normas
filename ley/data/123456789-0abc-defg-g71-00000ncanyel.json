@@ -1,0 +1,97 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g71-00000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1618920384448,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21990-nacional-lnn0000017-1979-04-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0000017",
+      "numero-norma": 21990,
+      "timestamp": "2021-04-20T08:37:01",
+      "timestamp-m": "2021-04-20T08:37:01",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1979-04-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021990 1979 04 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.990",
+          "BUENOS AIRES, 27 DE ABRIL DE 1979"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1979 05 07",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1979 05 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B003919791246",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.990",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-04-20",
+      "texto-original": {
+        "file-name": "N0000017.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0000017pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO MODIFICATORIA DE LEY 13273.\n\nAGRICULTURA-FORESTACION-BOSQUES-INSTITUTO FORESTAL NACIONAL-MONEDA- MONEDA NACIONAL-ACTUALIZACION MONETARIA-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bosques"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/bosques"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Instituto Forestal Nacional"
+            },
+            "preferido": {
+              "termino": "Instituto Forestal Nacional"
+            },
+            "sinonimos": {
+              "termino": "IFONA"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "IFONA (Instituto Forestal Nacional)",
+            "Recursos naturales",
+            "Instituto Forestal Nacional",
+            "bosques"
+          ]
+        }
+      },
+      "id-infojus": "LNN0000017"
+    }
+  }
+}

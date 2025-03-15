@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g54-91200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584340999,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19688-nacional-lnn0021945-1972-06-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0021945",
+      "numero-norma": 19688,
+      "timestamp": "2013-01-19T19:15:44",
+      "timestamp-m": "2013-01-19T19:15:44",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-06-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019688 1972 06 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19688",
+          "BUENOS AIRES, 15 DE JUNIO DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 06 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 06 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  032 C19723337",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.688",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "texto-original": {
+        "file-name": "N0021945.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0021945html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-PLAZO DE CONFECCION PARA LISTAS ELECTORALES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "elecciones nacionales"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/derecho electoral/elecciones/elecciones nacionales"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "padrón electoral"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/derecho electoral/registros electorales/registro de electores/padrón electoral"
+            },
+            "sinonimos": {
+              "termino": "inscripción de electores"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "derechos políticos",
+            "derecho electoral",
+            "registros electorales",
+            "elecciones nacionales",
+            "inscripción de electores (registro de electores)",
+            "elecciones",
+            "registro de electores",
+            "padrón electoral"
+          ]
+        }
+      },
+      "id-infojus": "LNN0021945"
+    }
+  }
+}

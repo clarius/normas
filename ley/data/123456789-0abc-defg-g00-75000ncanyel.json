@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g00-75000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1626951589249,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18114-nacional-lnn0005700-1969-01-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005700",
+      "numero-norma": 18114,
+      "timestamp": "2021-07-22T07:35:26",
+      "timestamp-m": "2021-07-22T07:35:26",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-01-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018114 1969 01 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18.114",
+          "BUENOS AIRES, 29 DE ENERO DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1969 02 25",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1969 02 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  029 A19690146",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.114",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-22",
+      "texto-original": {
+        "file-name": "N0005700.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005700pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "RESTITUCION DEL DOMINIO DE UN INMUEBLE UBICADO UN LA PROVINCIA DE ENTRE RIOS POR LA DIRECCION NACIONAL DE VIALIDAD"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005700"
+    }
+  }
+}

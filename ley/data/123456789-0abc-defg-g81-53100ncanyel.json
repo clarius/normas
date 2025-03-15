@@ -1,0 +1,93 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g81-53100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043471852,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3941-nacional-lnn0013518-1900-08-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013518",
+      "numero-norma": 3941,
+      "timestamp": "2019-04-23T14:40:53",
+      "timestamp-m": "2019-04-23T14:40:53",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1900-08-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003941 1900 08 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.941",
+          "BUENOS AIRES, 1 DE AGOSTO DE 1900"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1900 08 12"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190482",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.941",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0013518.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0013518pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN TERRENO PARA ENSANCHE DEL RIACHUELO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "dominio del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "dominio del Estado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013518"
+    }
+  }
+}

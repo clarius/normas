@@ -1,0 +1,96 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g37-63100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043343741,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3971-nacional-lnn0013673-1900-11-08"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013673",
+      "numero-norma": 3971,
+      "timestamp": "2019-04-23T14:40:53",
+      "timestamp-m": "2019-04-23T14:40:53",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1900-11-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003971 1900 11 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.971",
+          "BUENOS AIRES, 8 DE NOVIEMBRE DE 1900"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1900 11 20",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1900 11 20"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190497",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.971",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0013673.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0013673pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "FERROCARRILES-CONCEDESE A LA EMPRESA DEL FERROCARRIL GRAN OESTE ARGENTINO EL DERECHO DE CONSTRUIR Y EXPLOTAR UNA LINEA FERREA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013673"
+    }
+  }
+}

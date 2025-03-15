@@ -1,0 +1,115 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g49-25100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584527290,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3415-nacional-lnn0015294-1896-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015294",
+      "numero-norma": 3415,
+      "timestamp": "2014-09-04T14:36:41",
+      "timestamp-m": "2014-09-04T14:36:41",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1896-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003415 1896 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.415",
+          "BUENOS AIRES, 29 DE SEPTIEMBRE DE 1896"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1896 09 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190364",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.415",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-09-04",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEMANDAS CONTRA LA NACION-VENIA A EDUARDO KASILISTER PARA DEMANDAR AL PODER EJECUTIVO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "actos y diligencias procesales"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/actos y diligencias procesales"
+            },
+            "sinonimos": {
+              "termino": [
+                "diligencias procesales",
+                "actos procesales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "venia judicial"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/actos y diligencias procesales/autorización judicial"
+            },
+            "sinonimos": {
+              "termino": [
+                "venia judicial",
+                "diligencias procesales",
+                "actos procesales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "diligencias procesales (actos y diligencias procesales)",
+            "actos procesales (actos y diligencias procesales)",
+            "actos y diligencias procesales",
+            "venia judicial (autorización judicial)",
+            "Derecho procesal",
+            "Estado Nacional",
+            "autorización judicial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015294"
+    }
+  }
+}

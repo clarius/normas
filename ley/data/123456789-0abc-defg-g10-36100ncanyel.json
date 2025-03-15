@@ -1,0 +1,115 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g10-36100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583976483,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1093-nacional-lnn0016301-1881-08-16"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016301",
+      "numero-norma": 1093,
+      "timestamp": "2013-06-07T12:43:15",
+      "timestamp-m": "2013-06-07T12:43:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1881-08-16",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001093 1881 08 16",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 1.093",
+          "BUENOS AIRES, 16 DE AGOSTO DE 1881"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1881 08 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000018810008",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.093",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 1177-ESTUDIOS SOBRE COSTOS Y VENTAJAS SOBRE EXPLOTACION ENTRE UNA LINEA FERREA DESDE LA CIUDAD DE SAN JUAN HASTA LA DE MENDOZA Y OTRA QUE LLEGUE A ESTA CIUDAD CON EL FERROCARRIL ANDINO O DESDE LA CIUDAD DE SAN LUIS A MENDOZA Y SAN JUAN"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "ferrocarriles"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario/ferrocarriles"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Mendoza"
+            },
+            "preferido": {
+              "termino": "Mendoza"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "San Juan"
+            },
+            "preferido": {
+              "termino": "San Juan"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "San Luis"
+            },
+            "preferido": {
+              "termino": "San Luis"
+            },
+            "sinonimos": {
+              "termino": "Provincia de San Luis"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "San Luis",
+            "ferrocarriles",
+            "transporte ferroviario",
+            "Transporte",
+            "Provincia de San Luis (San Luis)",
+            "contrato de transporte",
+            "San Juan",
+            "Mendoza"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016301"
+    }
+  }
+}

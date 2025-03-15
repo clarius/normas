@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g05-01000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584579784,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18037-nacional-lnn0001050-1968-12-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001050",
+      "numero-norma": 18037,
+      "timestamp": "2013-07-22T14:12:07",
+      "timestamp-m": "2013-07-22T14:12:07",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-12-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018037 1968 12 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18.037",
+          "BUENOS AIRES, 30 DE DICIEMBRE DE 1968"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1969 01 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1969 01 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  029 A19690047",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.037",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-07-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SIN EFICACIA POR TEXTO ORDENADO OFICIAL POSTERIOR POR RESOLUCION SESS 807-74 ULTIMO TEXTO-ORDENADO VIGENTE POR RESOLUCION SESS 522- 76-JUBILACIONES Y PENSIONES PARA TRABAJADORES EN RELACION DE DEPENDENCIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "jubilaciones y pensiones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "trabajador en relación de dependencia"
+            },
+            "preferido": {
+              "termino": "Seguridad social/recursos de la seguridad social/sujetos de los deberes previsionales/contribuyentes previsionales/contribuyente por derecho propio/trabajador en relación de dependencia"
+            },
+            "sinonimos": {
+              "termino": "derecho de los recursos de la seguridad social"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "recursos de la seguridad social",
+            "contribuyentes previsionales",
+            "prestaciones previsionales (beneficios previsionales)",
+            "derecho de los recursos de la seguridad social (recursos de la seguridad social)",
+            "sujetos de los deberes previsionales",
+            "derechos previsionales (beneficios previsionales)",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "contribuyente por derecho propio",
+            "trabajador en relación de dependencia",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001050"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g23-35100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1536182048092,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2941-nacional-lnn0015332-1893-07-17"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015332",
+      "numero-norma": 2941,
+      "timestamp": "2018-09-05T17:10:43",
+      "timestamp-m": "2018-09-05T17:10:43",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1893-07-17",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002941 1893 07 17",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 002941",
+          "BUENOS AIRES 17 DE JULIO DE 1893"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1893 07 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O19190257",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.941",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-09-05",
+      "texto-original": {
+        "file-name": "N0015332.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0015332pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "JUBILACIONES-JUBILACION AL JUEZ DE INSTRUCCION RAMON PIZARRO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "jubilaciones",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015332"
+    }
+  }
+}

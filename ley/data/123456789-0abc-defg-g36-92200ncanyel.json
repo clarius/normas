@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g36-92200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1604401592247,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "23922-nacional-lnn0022963-1956-12-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0022963",
+      "numero-norma": 23922,
+      "timestamp": "2020-11-02T20:22:35",
+      "timestamp-m": "2020-11-02T20:22:35",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1956-12-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 023922 1956 12 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 23922/56 RATIFICADA POR LEY 14467",
+          "BUENOS AIRES, 31 DE DICIEMBRE DE 1956"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1957 03 25",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1957 03 25"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 23.922/56",
+      "ratificado-por": "RATIFICADA POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-11-02",
+      "texto-original": {
+        "file-name": "N0022963.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0022963pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SINDICATURA CORPORACION ARGENTINA DE PRODUCTORES DE CARNES- EXTENSION MANDATO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "industria de la carne"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/industria de la carne"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos industriales",
+                "industria"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Corporación Argentina de Productores de Carnes"
+            },
+            "preferido": {
+              "termino": "Corporación Argentina de Productores de Carnes"
+            },
+            "sinonimos": {
+              "termino": "CAP"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "industria alimenticia",
+            "productos industriales (actividad industrial)",
+            "industria de la carne",
+            "CAP (Corporación Argentina de Productores de Carnes)",
+            "industria (actividad industrial)",
+            "Corporación Argentina de Productores de Carnes",
+            "Actividades económicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0022963"
+    }
+  }
+}

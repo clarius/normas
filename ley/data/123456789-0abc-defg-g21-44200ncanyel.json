@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g21-44200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1612217006118,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12341-nacional-lnn0024412-1936-12-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024412",
+      "numero-norma": 12341,
+      "timestamp": "2021-02-01T18:50:15",
+      "timestamp-m": "2021-02-01T18:50:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1936-12-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012341 1936 12 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 12341",
+          "BUENOS AIRES, 21 DE DICIEMBRE DE 1936"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1937 01 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1937 01 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400745",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.341",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-02-01",
+      "texto-original": {
+        "file-name": "N0024412.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0024412pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR DECRETO LEY 12311/43-DIRECCION DE MATERNIDAD E INFANCIA-CREACION ORGANIZACION COMPETENCIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Departamento Nacional de Higiene"
+            },
+            "preferido": {
+              "termino": "Departamento Nacional de Higiene"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "protección de la maternidad"
+            },
+            "preferido": {
+              "termino": "Derechos humanos/derechos de la mujer/protección de la maternidad"
+            },
+            "sinonimos": {
+              "termino": [
+                "derechos fundamentales",
+                "derechos humanos de la mujer"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derechos fundamentales (Derechos humanos)",
+            "derechos de la mujer",
+            "Departamento Nacional de Higiene",
+            "protección de la maternidad",
+            "derechos humanos de la mujer (derechos de la mujer)",
+            "Derechos humanos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024412"
+    }
+  }
+}

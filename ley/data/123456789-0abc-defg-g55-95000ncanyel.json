@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g55-95000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627383948044,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17511-nacional-lnn0005955-1967-10-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005955",
+      "numero-norma": 17511,
+      "timestamp": "2021-07-27T07:53:20",
+      "timestamp-m": "2021-07-27T07:53:20",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-10-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017511 1967 10 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.511",
+          "BUENOS AIRES, 31 DE OCTUBRE DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 11 09",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 11 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 C19672809",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.511",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-27",
+      "texto-original": {
+        "file-name": "N0005955.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005955pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZACION PARA ADQUIRIR DIRECTAMENTE DE FABRICA LOS REPUESTOS NECESARIOS PARA EL MANTENIMIENTO DE AUTOMOTORES DE LA POLICIA FEDERAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Policía Federal Argentina"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía federal"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "Policía Federal Argentina",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "automotores"
+            },
+            "preferido": {
+              "termino": "Transporte/vehículos/automotores"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fuerzas de seguridad",
+            "automotores",
+            "seguridad pública",
+            "defensa nacional (Defensa y seguridad)",
+            "Transporte",
+            "policía federal",
+            "Policía Federal Argentina (policía federal)",
+            "vehículos",
+            "seguridad nacional (seguridad pública)",
+            "policía",
+            "personal de seguridad (fuerzas de seguridad)",
+            "Defensa y seguridad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005955"
+    }
+  }
+}

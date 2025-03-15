@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g22-84000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1575479490213,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19882-nacional-lnn0004822-1972-10-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004822",
+      "numero-norma": 19882,
+      "timestamp": "2019-12-04T13:55:11",
+      "timestamp-m": "2019-12-04T13:55:11",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-10-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019882 1972 10 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19.882",
+          "BUENOS AIRES, 11 DE OCTUBRE DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 10 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 10 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  032 D19725044",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.882",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-12-04",
+      "texto-original": {
+        "file-name": "N0004822.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0004822pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION-INMUEBLE UBICADA EN LA CIUDAD DE SANTA FE LINDERO CON LA FINCA DENOMINADA CASA DE LOS ALDAO EXPROPIADA OPORTUNAMENTE- VIGENCIA Y MODIFICACION LEY 17590"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004822"
+    }
+  }
+}

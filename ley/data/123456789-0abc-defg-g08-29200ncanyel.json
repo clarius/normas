@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g08-29200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1534860880810,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "25272-nacional-lnn0029280-2000-06-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0029280",
+      "numero-norma": 25272,
+      "timestamp": "2018-08-16T14:15:08",
+      "timestamp-m": "2018-08-16T14:15:08",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "2000-06-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 025272 2000 06 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 25.272",
+          "BUENOS AIRES, 28 DE JUNIO DE 2000"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2000 07 28"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 25.272",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "2000-08-01",
+      "fecha-mod": "2018-08-16",
+      "texto-original": {
+        "file-name": "N0029280.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0029280pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SE RATIFICA LA DECLARACION DE UTILIDAD PUBLICA ESTABLECIDA POR LEY 23.881, EXTENDIENDO SUS EFECTOS POR EL TERMINO DE 10 AÑOS."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "declaración de utilidad pública"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación/proceso expropiatorio/declaración de utilidad pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "utilidad pública",
+                "procedimiento expropiatorio",
+                "establecimientos de utilidad nacional"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "utilidad pública (declaración de utilidad pública)",
+            "proceso expropiatorio",
+            "procedimiento expropiatorio (proceso expropiatorio)",
+            "dominio del Estado",
+            "establecimientos de utilidad nacional (declaración de utilidad pública)",
+            "declaración de utilidad pública",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0029280"
+    }
+  }
+}

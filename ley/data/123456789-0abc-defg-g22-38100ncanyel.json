@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g22-38100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599516455530,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15407-nacional-lnn0018322-1960-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018322",
+      "numero-norma": 15407,
+      "timestamp": "2020-09-07T18:25:23",
+      "timestamp-m": "2020-09-07T18:25:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015407 1960 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15.407",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 10 31",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 10 31"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  020 A19600086",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.407",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-07",
+      "texto-original": {
+        "file-name": "N0018322.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018322pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DECLARACION DE UTILIDAD PUBLICA-DECLARA DE UTILIDAD PUBLICA UN INMUEBLE EN LA BANDA (SANTIAGO DEL ESTERO) PARA LA BARRACA DEL HOSPITAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018322"
+    }
+  }
+}

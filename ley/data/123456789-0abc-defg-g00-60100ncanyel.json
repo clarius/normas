@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g00-60100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583822306,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "7533-nacional-lnn0010600-1910-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0010600",
+      "numero-norma": 7533,
+      "timestamp": "2014-08-29T16:04:55",
+      "timestamp-m": "2014-08-29T16:04:55",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1910-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 007533 1910 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 7.533",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1910"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1910 11 12"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190804",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 7.533",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUMENTO JUBILACION A EDELMIRA BRILLABRILLE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "jubilaciones",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0010600"
+    }
+  }
+}

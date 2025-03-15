@@ -1,0 +1,120 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g80-62000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1561745665243,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11246-nacional-lnn0002608-1923-10-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0002608",
+      "numero-norma": 11246,
+      "timestamp": "2019-06-28T14:31:14",
+      "timestamp-m": "2019-06-28T14:31:14",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1923-10-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011246 1923 10 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 11.246",
+          "BUENOS AIRES, 19 DE OCTUBRE DE 1923"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1923 11 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1923 11 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400120",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.246",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-06-28",
+      "texto-original": {
+        "file-name": "N0002608.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0002608pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY INCORPORADA A LEY DE IMPUESTOS INTERNOS (T.O. POR DECRETO 24868/38) COMO ARTS. 125 A 127 Y ARTS. 125 A 127 LEY DE IMPUESTOS INTERNOS DEROGADOS POR ART 31 LEY 13648-IMPUESTOS INTERNOS-IMPUESTO INTERNO A LAS AGUAS MINERALES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "impuestos internos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/tributos/impuestos/impuestos internos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "agua mineral"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria alimenticia/elaboración de productos alimenticios/elaboración de bebidas/agua mineral"
+            },
+            "sinonimos": {
+              "termino": [
+                "elaboración de alimentos",
+                "productos industriales",
+                "industria"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "gravámenes (tributos)",
+            "productos industriales (actividad industrial)",
+            "Derecho tributario y aduanero",
+            "tributos",
+            "impuestos internos",
+            "industria alimenticia",
+            "agua mineral",
+            "elaboración de alimentos (elaboración de productos alimenticios)",
+            "impuestos",
+            "derecho tributario",
+            "elaboración de productos alimenticios",
+            "elaboración de bebidas",
+            "derecho fiscal (derecho tributario)",
+            "industria (actividad industrial)",
+            "Actividades económicas",
+            "actividad industrial"
+          ]
+        }
+      },
+      "id-infojus": "LNN0002608"
+    }
+  }
+}

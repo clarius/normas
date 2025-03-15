@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g63-05000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1617033732016,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20319-nacional-lnn0005036-1973-04-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005036",
+      "numero-norma": 20319,
+      "timestamp": "2021-03-29T12:53:58",
+      "timestamp-m": "2021-03-29T12:53:58",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-04-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020319 1973 04 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20.319",
+          "BUENOS AIRES, 26 DE ABRIL DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 05 14",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 05 14"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  033 B19731449",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.319",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-03-29",
+      "texto-original": {
+        "file-name": "N0005036.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005036pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DECLARA DE UTILIDAD UN INMUEBLE Y AUTORIZA A CEDER SU USO AL CLUB ATLETICO PEÑAROL DE VALENTIN ALSINA."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005036"
+    }
+  }
+}

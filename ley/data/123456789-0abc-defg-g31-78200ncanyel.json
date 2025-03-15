@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g31-78200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1566299071427,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24469-nacional-lnn0028713-1995-03-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028713",
+      "numero-norma": 24469,
+      "timestamp": "2019-08-20T07:42:55",
+      "timestamp-m": "2019-08-20T07:42:55",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1995-03-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024469 1995 03 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley N. 24.469",
+          "Buenos Aires, 22 de marzo de 1995"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1995 04 21",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1995 04 21"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.469",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-08-20",
+      "texto-original": {
+        "file-name": "N0028713.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028713pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRORROGA LA LEY 24.026 (B.O. 1991-12-21) SOBRE AUTORIZACIONES A LA COMISION NACIONAL DE ENERGIA ATOMICA.\n\nOMISION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Comisión Nacional de Energía Atómica"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/energía nuclear/Comisión Nacional de Energía Atómica"
+            },
+            "sinonimos": {
+              "termino": [
+                "CNEA",
+                "CONEA",
+                "energía atómica",
+                "energía nucleoeléctrica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "sustancias radioactivas"
+            },
+            "preferido": {
+              "termino": "Salud pública/sustancias tóxicas/sustancias radioactivas"
+            },
+            "sinonimos": {
+              "termino": "sustancias nucleares"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "CONEA (Comisión Nacional de Energía Atómica)",
+            "Salud pública",
+            "Comisión Nacional de Energía Atómica",
+            "sustancias radioactivas",
+            "energía nucleoeléctrica (energía nuclear)",
+            "sustancias tóxicas",
+            "sustancias nucleares (sustancias radioactivas)",
+            "CNEA (Comisión Nacional de Energía Atómica)",
+            "energía atómica (energía nuclear)",
+            "recursos energéticos",
+            "Recursos naturales",
+            "energía nuclear"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028713"
+    }
+  }
+}

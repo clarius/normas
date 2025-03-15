@@ -1,0 +1,402 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-348-0000-0002soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410989820731,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "843-nacional-decreto-reglamentario-sobre-interrupcion-parcial-total-servicios-esenciales-originada-conflictos-colectivos-dn20000000843-2000-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": 20000000843,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 843,
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "2000-09-29",
+      "standard-normativo": "DEC C 000843 2000 09 29",
+      "titulo-norma": "DECRETO REGLAMENTARIO SOBRE INTERRUPCION PARCIAL O TOTAL DE SERVICIOS ESENCIALES ORIGINADA EN CONFLICTOS COLECTIVOS.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "2000 10 04"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 843/2000",
+      "estado": "Derogada",
+      "fecha-alta": "2000-10-04",
+      "fecha-mod": "2006-03-13",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE REGLAMENTAN LOS SERVICIOS SANITARIOS Y HOSPITALARIOS, TELEFONICOS, LA PRODUCCION Y DISTRIBUCION DE AGUA POTABLE Y ENERGIA ELECTRICA Y EL CONTROL DEL TRAFICO AEREO, COMO SERVICIOS ESENCIALES, EN LOS CASOS DE CONFLICTOS COLECTIVOS QUE DIEREN LUGAR A LA INTERRUPCION TOTAL O PARCIAL DE LOS MISMOS, DE ACUERDO CON LAS CONSIDERACIONES DEL COMITE DE LIBERTAD SINDICAL DE LA ORGANIZACION INTERNACIONAL DEL TRABAJO.",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 13/03/2006)",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000272 2006 03 10 0017 000 0000 000"
+          }
+        },
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 9 OBSERVACION: POR RES. 648/01 DEL MINISTERIO DE TRABAJO, EMPLEO Y FORMACION DE RECURSOS HUMANOS, SE CALIFICA COMO SERVICIO ESENCIAL A LA ACTIVIDAD QUE DESARROLLA LA DIRECCION NACIONAL DE REICIDENCIA (B.O. 9/10/2001) OBSERVACION: POR ART. 1 DE LA LEY 25.877 SE DEROGA EL PRESENTE DECRETO. POR ART. 44 DE LA MISMA LEY SE ESTABLECE QUE CONTINUARA TRANSITORIAMENTE EN VIGENCIA HASTA TANTO SE DICTE LA REGLAMENTACION DE SU ARTICULO 24 (B.O. 19-03-2004).",
+        "reglamenta-a": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REGLAMENTA_A_0",
+            "ref": "LEY C 025250 2000 05 11 0033 000 0000 000"
+          }
+        }
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "decreto reglamentario"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+            },
+            "sinonimos": {
+              "termino": [
+                "reglamento ejecutivo",
+                "reglamento de ejecución",
+                "reglamento administrativo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "conflictos colectivos de trabajo"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/conflictos colectivos de trabajo"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "conflictos colectivos",
+                "conflictos laborales",
+                "conflictos de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "medidas de fuerza"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/derecho colectivo del trabajo/conflictos colectivos de trabajo/medidas de fuerza"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho del trabajo",
+                "conflictos colectivos",
+                "medidas de acción directa",
+                "conflictos laborales",
+                "conflictos de trabajo"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "interrupción del servicio"
+            },
+            "preferido": {
+              "termino": "interrupción del servicio"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "servicio telefónico"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicios de comunicación audiovisual/telecomunicaciones/servicio telefónico"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "telefonía",
+                "servicio de telecomunicaciones",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios eléctricos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios eléctricos"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "servicio de energía eléctrica",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicio de agua corriente"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios/servicio de agua corriente"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicio de agua potable",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "suministro de agua potable",
+                "desagües pluviales",
+                "contrataciones públicas",
+                "agua potable",
+                "abastecimiento de agua potable",
+                "aguas corrientes",
+                "provisión de agua potable"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios sanitarios"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/servicios sanitarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "desagües cloacales",
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "desagües pluviales",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios hospitalarios"
+            },
+            "preferido": {
+              "termino": "Salud pública/infraestructura sanitaria/establecimientos asistenciales"
+            },
+            "sinonimos": {
+              "termino": [
+                "clínicas",
+                "establecimientos médicos",
+                "establecimientos sanitarios",
+                "salas de primeros auxilios",
+                "establecimientos de salud",
+                "hospitales",
+                "infraestructura asistencial",
+                "policlínicos",
+                "sanatorios",
+                "servicios hospitalarios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "control de tráfico aéreo"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/circulación aérea/control de tránsito aéreo"
+            },
+            "sinonimos": {
+              "termino": [
+                "aeronavegación",
+                "navegación aérea",
+                "control de tráfico aéreo"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "establecimientos sanitarios (establecimientos asistenciales)",
+            "abastecimiento de agua potable (servicio de agua corriente)",
+            "reglamento de ejecución (decreto reglamentario)",
+            "conflictos laborales (conflictos colectivos de trabajo)",
+            "servicios hospitalarios (establecimientos asistenciales)",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "derecho colectivo del trabajo",
+            "conflictos colectivos (conflictos colectivos de trabajo)",
+            "circulación aérea",
+            "servicios públicos locales (servicio público)",
+            "servicios públicos (servicio público)",
+            "navegación aérea (circulación aérea)",
+            "policlínicos (establecimientos asistenciales)",
+            "desagües pluviales (servicios sanitarios)",
+            "hospitales (establecimientos asistenciales)",
+            "Derecho administrativo",
+            "Comunicaciones",
+            "suministro de agua potable (servicio de agua corriente)",
+            "conflictos colectivos de trabajo",
+            "clínicas (establecimientos asistenciales)",
+            "conflictos de trabajo (conflictos colectivos de trabajo)",
+            "establecimientos médicos (establecimientos asistenciales)",
+            "servicios de comunicación audiovisual",
+            "servicio de agua corriente",
+            "control de tráfico aéreo (control de tránsito aéreo)",
+            "acto administrativo",
+            "contrataciones públicas (contratos administrativos)",
+            "servicio telefónico",
+            "establecimientos de salud (establecimientos asistenciales)",
+            "medios de comunicación (Comunicaciones)",
+            "establecimientos asistenciales",
+            "servicio de telecomunicaciones (telecomunicaciones)",
+            "decreto reglamentario",
+            "desagües cloacales (servicios sanitarios)",
+            "medidas de acción directa (medidas de fuerza)",
+            "medidas de fuerza",
+            "servicio de energía eléctrica (servicios eléctricos)",
+            "aguas corrientes (servicio de agua corriente)",
+            "interrupción del servicio",
+            "reglamentos",
+            "contrataciones del Estado (contratos administrativos)",
+            "telefonía (servicio telefónico)",
+            "servicio de agua potable (servicio de agua corriente)",
+            "acto administrativo de alcance general",
+            "servicio público",
+            "reglamento administrativo (reglamentos)",
+            "sanatorios (establecimientos asistenciales)",
+            "salas de primeros auxilios (establecimientos asistenciales)",
+            "infraestructura asistencial (establecimientos asistenciales)",
+            "infraestructura sanitaria",
+            "Salud pública",
+            "aeronavegación (circulación aérea)",
+            "medios de difusión (Comunicaciones)",
+            "servicios eléctricos",
+            "telecomunicaciones",
+            "derecho del trabajo (Derecho laboral)",
+            "servicios sanitarios",
+            "provisión de agua potable (servicio de agua corriente)",
+            "control de tránsito aéreo",
+            "Derecho laboral",
+            "Derecho aeronáutico",
+            "agua potable (servicio de agua corriente)",
+            "contratos administrativos"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "LEY C 025250 2000 05 11 0033 000 0000 000"
+          }
+        },
+        "texto": "el artículo 33 de la Ley N. 25.250, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 025250 2000 05 11 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 002184 1990 10 16 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 025250 2000 05 11 0033 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que la norma mencionada en el Visto, establece que las partes de un conflicto de trabajo que decidan la adopción de medidas  legítimas de  acción  directa  sobre  actividades que puedan  ser consideradas servicios esenciales, deberán  garantizar la prestación de servicios mínimos.\n\nQue la misma  norma  citada  ha derogado el Decreto N. 2184/90, que reglamentaba los conflictos del trabajo en actividades consideradas servicios esenciales, por lo que resulta necesario establecer una nueva reglamentación, que determine tal categoría de servicios.\n\nQue, en su parte  final,  el  artículo  33  de  la  Ley  N. 25.250 establece  que \"Las facultades del MINISTERIO DE TRABAJO, EMPLEO  Y FORMACION DE RECURSOS HUMANOS deberán ejercerse conforme las normas y resoluciones  de  la  ORGANIZACION  INTERNACIONAL  DEL TRABAJO\".\n\nQue  la  doctrina  emanada del Comité de Libertad Sindical  de  la referida Organización considera servicios esenciales, en el sentido estricto del término,  aquellos cuya interrupción pudiera poner en peligro la vida, la seguridad  o  la salud de la persona en toda o parte  de  la  población (Casos Nros. 1438  y  1576,  entre  otros).\n\nQue  el  Comité de  Libertad  Sindical  ha  considerado  servicios esenciales, en sentido estricto, al sector hospitalario (Recopilación  1985, párr. 409), los servicios de abastecimiento de agua (Rec. 1985,  párr.  410;  y  Casos  Nros.  1593  y  1601),  de electricidad  (Caso  N. 1307), telefónicos (Casos Nros. 1532 y 1686) y el control de tráfico aéreo (Rec. 1985, párr. 412).\n\nQue, asimismo, la doctrina  del  Comité  de  Libertad Sindical, ha admitido  restricciones  al  ejercicio  del derecho  de  huelga  en aquellos  servicios  que  -no  considerados esenciales  en  sentido estricto-, en virtud de la extensión  y duración del conflicto, se afectare a un servicio público de importancia trascendental para el País  -categoría  en la cual el Comité específicamente  incluyó  al \"transporte de pasajeros y mercancías\" (Caso N. 1679)- y cuando la extensión y duración  del  conflicto pudiera provocar una situación de crisis nacional aguda tal  que  las  condiciones  normales  de existencia  de  la  población  podrían  quedar en peligro (Caso N.\n\n1692).\n\nQue, tratándose de servicios esenciales,  la  restricción admisible en los pronunciamientos de los organismos de control de la libertad sindical de la ORGANIZACION INTERNACIONAL DEL TRABAJO, así como en la doctrina jurídica  universal,  consiste  en  la  obligatoriedad de  garantizar  el  mantenimiento  de servicios mínimos.\n\nQue, la doctrina del Comité de Libertad Sindical prescribe que las restricciones al ejercicio del derecho de huelga  deben  ir acompañadas de garantías compensatorias apropiadas (Caso N.  1546).\n\nQue  el presente se dicta en ejercicio de las facultades conferidas por el  artículo  99,  inciso  2), de la CONSTITUCION NACIONAL.\n\nPor ello,"
+      },
+      "articulo": [
+        {
+          "numero-articulo": 1,
+          "texto": "Artículo 1 - Los conflictos colectivos  que  dieren  lugar a  la interrupción  total  o  parcial  de  servicios  esenciales, quedan sujetos a la presente reglamentación."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art. 2 - Se considerarán servicios esenciales en sentido estricto, únicamente las actividades siguientes:\n\na) Los servicios  sanitarios y hospitalarios;\n\nb) La producción y distribución de agua potable y energía eléctrica;\n\nc) Los servicios telefónicos;\n\nd) El control de tráfico aéreo;\n\nEl MINISTERIO DE TRABAJO,  EMPLEO  Y  FORMACION DE RECURSOS HUMANOS podrá, mediante resolución fundada, calificar como servicio esencial una  actividad  no incluida en la enumeración precedente, cuando se diere alguna de las siguientes circunstancias:\n\na) La extensión y duración de la interrupción de la actividad de que se tratare pudiere poner en peligro la vida, la salud o la seguridad de  la  persona  en  toda  o  parte de la comunidad;\n\nb)  La  actividad  afectada  constituyere  un servicio público de importancia trascendental o de utilidad pública;\n\nc) La interrupción  o  suspensión  del  servicio  pudiere  provocar una situación  de  crisis  nacional  aguda  que  hiciere  peligrar las condiciones  normales o  de  existencia  de  la    población."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 014786 1958 12 22 0011 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "Art.  3  -  A partir del vencimiento del plazo de QUINCE (15) días previsto en el artículo 11, primer párrafo, de la Ley N. 14.786, y sin perjuicio  de  que  se prorrogue o no el mismo, la parte que se propusiere ejercer medidas  de  acción directa deberá comunicar tal decisión  a  la autoridad de aplicación  y  a  la  contraparte  con CUARENTA Y OCHO  (48) horas de anticipación a la efectivización de la medida."
+        },
+        {
+          "numero-articulo": 4,
+          "texto": "Art. 4 - Dentro de  las  VEINTICUATRO  (24)  horas  de recibida la comunicación  referida en el artículo anterior, las partes  deberán ponerse de acuerdo  sobre  los servicios mínimos que se mantendrán durante el conflicto, las modalidades de su ejecución y el personal que se asignará a la prestación de los mismos.\n\nSi, una vez agotado dicho término,  el acuerdo no fuere posible, la determinación  de  las  materias  enumeradas  precedentemente  será efectivizada  en  el  término de VEINTICUATRO  (24)  horas  por  el MINISTERIO DE TRABAJO, EMPLEO Y FORMACION DE RECURSOS HUMANOS, que intimará a las partes a su cumplimiento.\n\nLa  autoridad  de  aplicación   deberá  sujetarse  a  criterios  de razonabilidad en función de las  circunstancias particulares de la situación.  En  lo  que respecta a las  prestaciones  mínimas,  en ningún caso podrá imponer  a  las  partes  una  cobertura  mayor al CINCUENTA POR CIENTO (50%) de la prestación normal del servicio de que se tratare."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5 - Cuando las prestaciones mínimas del servicio se hubieren establecido  mediante  convenio colectivo u otro tipo de acuerdos, las partes, dentro del término  establecido  en  el primer párrafo del   artículo  precedente,  deberán  convenir  por  escrito    las modalidades    de  ejecución  de  aquéllas,  señalando  concreta  y detalladamente la  forma  en  que se ejecutarán tales prestaciones, incluyendo  la  designación  del  personal    involucrado,   pautas horarias, asignación de funciones y equipos.\n\nSi  transcurrido  dicho  término,  las  partes  no  arribaren a un acuerdo, la determinación se resolverá por el método previsto en el artículo 4, párrafos segundo y tercero, de la presente reglamentación."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art. 6 - La empresa u organismo prestador del servicio considerado esencial   deberá  arbitrar  los  medios  tendientes  a  la  propia normalización  de  la  actividad una vez finalizadas las medidas de conflicto.\n\nLa misma empresa u organismo  deberá  poner  en conocimiento de los usuarios  las  modalidades que revestirá la prestación  durante  el conflicto, detallando  el tiempo de iniciación y la duración de las medidas,  la  forma  de  distribución  de  los  servicios  mínimos garantizados y la reactivación  de  las  prestaciones, VEINTICUATRO (24)  horas  antes del inicio previsto de la  medida  de  conflicto."
+        },
+        {
+          "numero-articulo": 7,
+          "texto": "Art. 7 - Si la medida de conflicto consistiere en paro nacional de actividades o  cualquier  otra  ejercida por centrales sindicales u organizaciones  empresariales  con    representatividad   sectorial múltiple,  se  aplicarán  las  disposiciones  establecidas  en  la presente  reglamentación en cuanto dicha medida afectare servicios considerados esenciales, a fin de asegurar que tanto las entidades prestadoras  de  tales servicios como aquellas que los afectaren en forma directa efectivicen  el  cumplimiento  de  las  prestaciones mínimas."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": [
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_0",
+                "ref": "LEY C 023551 1988 03 23 0000 000 0000 000"
+              },
+              {
+                "cr": null,
+                "id": "REFERENCIAS_NORMATIVAS_1",
+                "ref": "LEY C 025212 1999 11 24 0000 000 0000 000"
+              }
+            ]
+          },
+          "numero-articulo": 8,
+          "texto": "Art.  8  -  La  inobservancia  por  alguna  de  las  partes de los procedimientos   conciliatorios  establecidos  en  la  legislación vigente y en la presente  reglamentación,  o  el  incumplimiento a disposiciones de la autoridad de aplicación dictadas  en  ejercicio de  sus  facultades  legales,  dará  lugar  a la aplicación de los regímenes  establecidos  por  las  Leyes  Nros. 23.551   y  25.212.\n\nLa  falta  de  cumplimiento  del deber de trabajar por las personas obligadas a la ejecución de los servicios mínimos, dará lugar a las responsabilidades  previstas  en  las  disposiciones  legales, estatutarias o convencionales  que    les   resultaren  aplicables."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9 - Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "DE LA RUA - TERRAGNO - FLAMARIQUE - GIL LAVEDRA"
+      },
+      "id-infojus": "DN20000000843"
+    }
+  }
+}

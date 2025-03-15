@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g57-03200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1605006409717,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "4513-nacional-lnn0023075-1955-12-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023075",
+      "numero-norma": 4513,
+      "timestamp": "2020-11-09T21:23:53",
+      "timestamp-m": "2020-11-09T21:23:53",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1955-12-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 004513 1955 12 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 4513/55 RATIFICADO POR LEY 14467",
+          "BUENOS AIRES, 5 DE DICIEMBRE DE 1955"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1955 12 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1955 12 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  015 A19550613",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 4.513/55",
+      "ratificado-por": "RATIFICADO POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-11-09",
+      "texto-original": {
+        "file-name": "N0023075.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0023075pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "POSESION DE LOS BIENES EXPROPIADOS POR LEY 14021 A LOS REPRESENTANTES DE LA SOCIEDAD COLECTIVA LA PRENSA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "prensa"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/prensa"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "medios de difusión (Comunicaciones)",
+            "medios de comunicación (Comunicaciones)",
+            "dominio del Estado",
+            "Comunicaciones",
+            "prensa",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023075"
+    }
+  }
+}

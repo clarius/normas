@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g64-06000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1608034603265,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17098-nacional-lnn0006046-1966-12-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006046",
+      "numero-norma": 17098,
+      "timestamp": "2020-12-15T08:23:23",
+      "timestamp-m": "2020-12-15T08:23:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1966-12-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017098 1966 12 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.098",
+          "BUENOS AIRES, 30 DE DICIEMBRE DE 1966"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 01 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 01 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  026 C19661677",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.098",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-12-15",
+      "texto-original": {
+        "file-name": "N0006046.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006046pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "TRANSFERENCIA DE TERRENOS A LA UNIVERSIDAD NACIONAL DEL LITORAL.\n\nCOMPLEMENTA DECRETO LEY 1374-58"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transferencia de bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/transferencia de bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tierras fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/territorio/tierras/tierras fiscales"
+            },
+            "sinonimos": {
+              "termino": "tierras públicas"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "territorio",
+            "tierras",
+            "transferencia de bienes del Estado",
+            "tierras públicas (tierras fiscales)",
+            "dominio del Estado",
+            "bienes del Estado",
+            "tierras fiscales",
+            "Derecho administrativo",
+            "bienes de dominio del Estado (bienes del Estado)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006046"
+    }
+  }
+}

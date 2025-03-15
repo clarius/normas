@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g15-30200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583949834,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "818-nacional-lnn0020351-1876-10-07"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020351",
+      "numero-norma": 818,
+      "timestamp": "2014-08-29T16:04:42",
+      "timestamp-m": "2014-08-29T16:04:42",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1876-10-07",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000818 1876 10 07",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 000818",
+          "BUENOS AIRES 07 DE OCTUBRE DE 1876"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1876 10 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O18801138",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 818",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZACION AL PODER EJECUTIVO PARA HACER EFECTIVA LA GARANTIA DEL SIETE POR CIENTO A LA COMPAÑIA DEL FERROCARRIL CENTRAL ARGENTINO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020351"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g01-05100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043534844,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2834-nacional-lnn0015010-1891-10-03"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015010",
+      "numero-norma": 2834,
+      "timestamp": "2019-04-23T14:41:23",
+      "timestamp-m": "2019-04-23T14:41:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1891-10-03",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002834 1891 10 03",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 002834",
+          "BUENOS AIRES 03 DE OCTUBRE DE 1891"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1891 10 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 O18890224",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.834",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0015010.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0015010pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRESIDENTE DE LA NACION-LICENCIAS-AUTORIZACION AL PRESIDENTE DE LA NACION DOCTOR CARLOS PELLEGRINI PARA AUSENTARSE DE LA CAPITAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "autorización para salir del país"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/salida del país/viaje al exterior/autorización para viajar"
+            },
+            "sinonimos": {
+              "termino": [
+                "autorización para salir del país",
+                "autorización para viajar al exterior"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "presidente de la Nación"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/Poder Ejecutivo Nacional/presidencia de la Nación/presidente de la Nación"
+            },
+            "sinonimos": {
+              "termino": "poderes públicos"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presidencia de la Nación",
+            "presidente de la Nación",
+            "autorización para viajar",
+            "poderes del Estado",
+            "Poder Ejecutivo Nacional",
+            "autorización para viajar al exterior (autorización para viajar)",
+            "autorización para salir del país (autorización para viajar)",
+            "Derecho constitucional",
+            "salida del país",
+            "Poder Ejecutivo",
+            "poderes públicos (poderes del Estado)",
+            "migraciones",
+            "Derecho administrativo",
+            "viaje al exterior"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015010"
+    }
+  }
+}

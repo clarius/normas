@@ -1,0 +1,94 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g61-11000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1604401771243,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17692-nacional-lnn0001116-1968-03-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001116",
+      "numero-norma": 17692,
+      "timestamp": "2020-11-02T20:22:34",
+      "timestamp-m": "2020-11-02T20:22:34",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-03-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017692 1968 03 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "BUENOS AIRES, 29 DE MARZO DE 1968",
+          "LEY 17.692"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1968 04 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 04 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A002819680233",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.692",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-11-02",
+      "texto-original": {
+        "file-name": "N0001116.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001116pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO OBSERVATORIO Y POR NUEVO REGIMEN- ESTADO-POBLACION-NACIONALIDAD-HIJOS DE ARGENTINOS-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "nacionalidad"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/nacionalidad"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "hijos de argentinos nacidos en el extranjero"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/nacionalidad/hijos de argentinos nacidos en el extranjero"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "hijos de argentinos nacidos en el extranjero",
+            "nacionalidad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001116"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g84-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676552392647,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4144-nacional-lnn0026348-1902-11-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026348",
+      "numero-norma": 4144,
+      "timestamp": "2023-02-16T09:33:19",
+      "timestamp-m": "2023-02-16T09:33:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1902-11-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004144 1902 11 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4144",
+          "BUENOS AIRES, 22 DE NOVIEMBRE DE 1902"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1902 11 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190560",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.144",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2023-02-16",
+      "texto-original": {
+        "file-name": "N0026348.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0026348pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "observaciones-generales": "OBSERVACION DEROGADA POR LEY 14445"
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 14445-(B.O. 4-7-1958)-RESIDENCIA DE EXTRANJEROS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "radicación de extranjeros"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/migraciones/extranjeros/radicación de extranjeros"
+            },
+            "sinonimos": {
+              "termino": "pedido de radicación en el país"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extranjeros",
+            "pedido de radicación en el país (radicación de extranjeros)",
+            "radicación de extranjeros",
+            "Derecho administrativo",
+            "migraciones"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026348"
+    }
+  }
+}

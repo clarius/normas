@@ -1,0 +1,125 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g11-34100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557771393086,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3502-nacional-lnn0014311-1897-09-14"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014311",
+      "numero-norma": 3502,
+      "timestamp": "2019-05-13T14:05:08",
+      "timestamp-m": "2019-05-13T14:05:08",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1897-09-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003502 1897 09 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.502",
+          "BUENOS AIRES, 14 DE SEPTIEMBRE DE 1897"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1897 10 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1897 10 08"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190376",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.502",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-13",
+      "texto-original": {
+        "file-name": "N0014311.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014311pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PENSIONES-AUTORIZACION A LA PENSIONISTA CLARA WEGENER DE GIL PARA RESIDIR EN EL EXTRANJERO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "pensiones graciables",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014311"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g55-53100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557929739328,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5017-nacional-lnn0013555-1906-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013555",
+      "numero-norma": 5017,
+      "timestamp": "2019-05-15T10:51:54",
+      "timestamp-m": "2019-05-15T10:51:54",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1906-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005017 1906 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.017",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1906"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1906 10 24",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1906 10 24"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190706",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.017",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-15",
+      "texto-original": {
+        "file-name": "N0013555.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0013555pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PENSION A ROSARIO DE GAGGINO E HIJOS MENORES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "pensiones graciables",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013555"
+    }
+  }
+}

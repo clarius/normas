@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g30-27100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584519296,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "118-nacional-lnn0017203-1857-08-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0017203",
+      "numero-norma": 118,
+      "timestamp": "2014-08-27T16:10:56",
+      "timestamp-m": "2014-08-27T16:10:56",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1857-08-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000118 1857 08 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 0.118",
+          "PARANA, 4 DE AGOSTO DE 1857"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1862 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1862 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800153",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 118",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-27",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ESTABLECE DOTACION DE PERSONAL-ESTABLECE DOTACION DE PERSONAL Y SUELDOS DEL COLEGIO DE SAN JUSTO Y PASTOR"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "remuneración"
+            },
+            "preferido": {
+              "termino": "Derecho laboral/contrato de trabajo/remuneración"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato laboral",
+                "derecho del trabajo",
+                "salario",
+                "sueldo",
+                "retribución"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "salario (remuneración)",
+            "Derecho laboral",
+            "retribución (remuneración)",
+            "sueldo (remuneración)",
+            "Estado Nacional",
+            "remuneración",
+            "contrato laboral (contrato de trabajo)",
+            "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0017203"
+    }
+  }
+}

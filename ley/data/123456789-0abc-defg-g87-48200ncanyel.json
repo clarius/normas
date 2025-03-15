@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g87-48200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1555953004208,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23813-nacional-lnn0028478-1990-09-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028478",
+      "numero-norma": 23813,
+      "timestamp": "2019-04-22T13:41:11",
+      "timestamp-m": "2019-04-22T13:41:11",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1990-09-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023813 1990 09 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 23.813",
+          "BUENOS AIRES, 5 DE SEPTIEMBRE DE 1990"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1990 10 16",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1990 10 16"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.813",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-22",
+      "texto-original": {
+        "file-name": "N0028478.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028478pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MONUMENTOS-LUGARES HISTORICOS-AUTORIZASE A EMPLAZAR UN BUSTO DE LA ACTRIZ PIERINA DEALESSI A LA MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "homenajes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "monumentos"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes/monumentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "homenajes",
+            "monumentos",
+            "cultura",
+            "política científica (política cultural)",
+            "política tecnológica (política cultural)",
+            "conmemoraciones",
+            "política cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028478"
+    }
+  }
+}

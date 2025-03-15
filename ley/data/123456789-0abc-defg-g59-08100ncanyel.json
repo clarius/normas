@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g59-08100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676458953052,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2370-nacional-lnn0018095-1888-09-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018095",
+      "numero-norma": 2370,
+      "timestamp": "2023-02-15T06:41:40",
+      "timestamp-m": "2023-02-15T06:41:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1888-09-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002370 1888 09 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 2.370",
+          "BUENOS AIRES, 28 DE SEPTIEMBRE DE 1888"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1888 09 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880440",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.370",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-15",
+      "texto-original": {
+        "file-name": "N0018095.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018095pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA SUBVENCION-SUBVENCION A LUIS A. BELLOC Y SANTIAGO ORTIZ PARA PERFECCIONAR ESTUDIOS EN EUROPA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "subsidio estatal"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/subsidio estatal"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "subsidio del Estado",
+                "derecho económico financiero",
+                "subsidios",
+                "subvención estatal",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "derecho financiero (Economía y finanzas)",
+            "subvención estatal (subsidio estatal)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "subsidio del Estado (subsidio estatal)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Estado Nacional",
+            "subsidios (subsidio estatal)",
+            "Economía y finanzas",
+            "subsidio estatal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018095"
+    }
+  }
+}

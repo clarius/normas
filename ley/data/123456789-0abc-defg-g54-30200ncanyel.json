@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g54-30200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1609240221808,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "12885-nacional-lnn0020345-1946-11-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020345",
+      "numero-norma": 12885,
+      "timestamp": "2020-12-29T06:49:00",
+      "timestamp-m": "2020-12-29T06:49:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1946-11-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 012885 1946 11 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 012885",
+          "BUENOS AIRES 13 DE NOVIEMBRE DE 1946"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1947 06 17",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1947 06 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  006 O19460022",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 12.885",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-12-29",
+      "texto-original": {
+        "file-name": "N0020345.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0020345pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SE ABRE UN CREDITO DE $200000 AL MINISTERIO DE RELACIONES EXTERIORES Y CULTO PARA CUBRIR LOS GASTOS OCASIONADOS CON MOTIVO DE LA CONCURRENCIA DE LA DELEGACION ARGENTINA A LA IV ASAMBLEA GENERAL DEL INSTITUTO PANAMERICANO DE GEOGRAFIA E HISTORIA Y III REUNION PANAMERICANA DE CONSULTA SOBRE CARTOGRAFIA REALIZADA EN CARACAS EN AGOSTO DE 1946"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020345"
+    }
+  }
+}

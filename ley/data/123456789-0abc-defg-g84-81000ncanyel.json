@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g84-81000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1535728700261,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22218-nacional-lnn0001848-1980-04-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001848",
+      "numero-norma": 22218,
+      "timestamp": "2018-08-31T11:28:27",
+      "timestamp-m": "2018-08-31T11:28:27",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1980-04-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022218 1980 04 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 022218",
+          "BUENOS AIRES 28 DE ABRIL DE 1980"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1980 05 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1980 05 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  040 B19801041",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.218",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2018-08-31",
+      "texto-original": {
+        "file-name": "N0001848.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001848pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICA LEY 20371"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "productos agropecuarios"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productos agropecuarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura",
+                "productos agrícolas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "yerba mate"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productos agropecuarios/yerba mate"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura",
+                "productos agrícolas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "actividad agropecuaria",
+            "productos agrícolas (productos agropecuarios)",
+            "agricultura (actividad agropecuaria)",
+            "productos agropecuarios",
+            "ganadería (actividad agropecuaria)",
+            "yerba mate",
+            "Actividades económicas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001848"
+    }
+  }
+}

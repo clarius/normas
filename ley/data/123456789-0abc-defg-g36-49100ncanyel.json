@@ -1,0 +1,89 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g36-49100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583995897,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1918-nacional-lnn0019463-1886-11-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0019463",
+      "numero-norma": 1918,
+      "timestamp": "2013-12-19T14:38:39",
+      "timestamp-m": "2013-12-19T14:38:39",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1886-11-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001918 1886 11 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1918",
+          "BUENOS AIRES, 25 DE NOVIEMBRE DE 1886"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1886 11 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880226",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.918",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-12-19",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACIONES-AUTORIZASE LA DE LOS TERRENOS NECESARIOS PARA LA CONTINUACION DE OBRAS DEL PUERTO DE CORRIENTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "dominio del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "dominio del Estado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0019463"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g00-08100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599084409514,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15325-nacional-lnn0018000-1960-08-10"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018000",
+      "numero-norma": 15325,
+      "timestamp": "2020-09-02T18:53:22",
+      "timestamp-m": "2020-09-02T18:53:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1960-08-10",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 015325 1960 08 10",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15.325",
+          "BUENOS AIRES, 10 DE AGOSTO DE 1960"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 09 06",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 09 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  020 A19600057",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 15.325",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-02",
+      "texto-original": {
+        "file-name": "N0018000.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018000pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZACION PARA VENDER INMUEBLES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018000"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g66-55200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1656068754636,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18899-nacional-lnn0025566-1970-12-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025566",
+      "numero-norma": 18899,
+      "timestamp": "2022-06-24T07:25:08",
+      "timestamp-m": "2022-06-24T07:25:08",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1970-12-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018899 1970 12 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18899",
+          "BUENOS AIRES, 30 DE DICIEMBRE DE 1970"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1971 01 18",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1971 01 18"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003119710064",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.899",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2022-06-24",
+      "texto-original": {
+        "file-name": "N0025566.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0025566pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20758 (B.O. 22-11-74)-CREA BANCO NACIONAL DE DESARROLLO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bancos"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "BANCO NACIONAL DE DESARROLLO"
+            },
+            "preferido": {
+              "termino": "BANCO NACIONAL DE DESARROLLO"
+            },
+            "sinonimos": {
+              "termino": "BANADE"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "BANADE (BANCO NACIONAL DE DESARROLLO)",
+            "Derecho bancario",
+            "entidades bancarias (bancos)",
+            "bancos",
+            "entidades financieras",
+            "sistema bancario (Derecho bancario)",
+            "BANCO NACIONAL DE DESARROLLO"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025566"
+    }
+  }
+}

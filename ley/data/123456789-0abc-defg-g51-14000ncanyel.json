@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g51-14000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584819832,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21891-nacional-lnn0004115-1978-10-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004115",
+      "numero-norma": 21891,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1978-10-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021891 1978 10 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.891",
+          "BUENOS AIRES, 23 DE OCTUBRE DE 1978"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1978 10 27",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1978 10 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  D003819783331",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.891",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22220 (B.O. 8-5-1980) EXPROPIACION DE TERRENO EN CHIVILCOY,PROVINCIA DE BUENOS AIRES CON DESTINO AL MONTAJE DE UNA TORRE DE AUTOSOPORTADA Y EQUIPOS CORRESPONDIENTES AL RADIOENLACE VILLA MERCEDES-PROVINCIA DE SAN LUIS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "servicio telefónico"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicios de comunicación audiovisual/telecomunicaciones/servicio telefónico"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "telefonía",
+                "servicio de telecomunicaciones",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "servicios de comunicación audiovisual",
+            "servicio de telecomunicaciones (telecomunicaciones)",
+            "servicio telefónico",
+            "medios de difusión (Comunicaciones)",
+            "medios de comunicación (Comunicaciones)",
+            "dominio del Estado",
+            "telecomunicaciones",
+            "telefonía (servicio telefónico)",
+            "Comunicaciones",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004115"
+    }
+  }
+}

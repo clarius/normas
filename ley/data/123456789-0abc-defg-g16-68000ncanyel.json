@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g16-68000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1505165080008,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "9110-nacional-lnn0008661-1913-08-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0008661",
+      "numero-norma": 9110,
+      "timestamp": "2017-09-11T17:06:28",
+      "timestamp-m": "2017-09-11T17:06:28",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1913-08-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 009110 1913 08 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 9.110",
+          "BUENOS AIRES, 25 DE AGOSTO DE 1913"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1913 08 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190893",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 9.110",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-09-11",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "REFORMAS DE PARTIDAS PRESUPUESTARIAS DE LA CAMARA DE DIPUTADOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Cámara de Diputados"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/poderes del Estado/Poder Legislativo/Cámara de Diputados"
+            },
+            "sinonimos": {
+              "termino": "poderes públicos"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "Cámara de Diputados",
+            "derecho económico financiero (Economía y finanzas)",
+            "poderes públicos (poderes del Estado)",
+            "Poder Legislativo",
+            "poderes del Estado",
+            "Economía y finanzas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0008661"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g19-23200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1558444732522,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3868-nacional-lnn0023291-1899-10-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023291",
+      "numero-norma": 3868,
+      "timestamp": "2019-05-21T09:08:54",
+      "timestamp-m": "2019-05-21T09:08:54",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1899-10-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003868 1899 10 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3868",
+          "BUENOS AIRES, 24 DE OCTUBRE DE 1899"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1899 10 31"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.868",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-21",
+      "texto-original": {
+        "file-name": "N0023291.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0023291pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-TRANSPORTE-ALMACENAJE-DECLARASE VIGENTE DESDE EL 01/01/1900 LA LEY 3752."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Transporte"
+            },
+            "preferido": {
+              "termino": "Transporte"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "almacenaje"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga/carga/depósito de la carga"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "servicio de almacenaje",
+                "mercadería",
+                "transporte en contenedores",
+                "almacenaje",
+                "depósito de mercaderías",
+                "transporte de mercaderías"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "servicio de almacenaje (depósito de la carga)",
+            "almacenaje (depósito de la carga)",
+            "depósito de mercaderías (depósito de la carga)",
+            "transporte de carga general (transporte de carga)",
+            "transporte de mercaderías (transporte de carga)",
+            "Transporte",
+            "contrato de transporte",
+            "mercadería (carga)",
+            "transporte en contenedores (transporte de carga)",
+            "transporte de carga",
+            "carga",
+            "depósito de la carga"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023291"
+    }
+  }
+}

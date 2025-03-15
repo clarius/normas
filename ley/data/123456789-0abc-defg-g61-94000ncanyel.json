@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g61-94000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1608034239504,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19119-nacional-lnn0004916-1971-07-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004916",
+      "numero-norma": 19119,
+      "timestamp": "2020-12-15T08:23:23",
+      "timestamp-m": "2020-12-15T08:23:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1971-07-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019119 1971 07 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19.119",
+          "BUENOS AIRES, 15 DE JULIO DE 1971"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1971 07 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1971 07 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  031 B19711395",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.119",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-12-15",
+      "texto-original": {
+        "file-name": "N0004916.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0004916pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES EN LA CAPITAL FEDERAL SITUADOS EN RIVADAVIA 540/42/46/48/50"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004916"
+    }
+  }
+}

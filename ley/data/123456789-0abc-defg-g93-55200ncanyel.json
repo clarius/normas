@@ -1,0 +1,113 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g93-55200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584171784,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19128-nacional-lnn0025539-1971-07-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025539",
+      "numero-norma": 19128,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1971-07-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019128 1971 07 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19128",
+          "BUENOS AIRES, 19 DE JULIO DE 1971"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1971 07 29",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1971 07 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B003119711404",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.128",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20510 (B.O. 28-5-73)-MODIFICA LEY 18232 SOBRE JUICIOS DE PERSONAS POR TRIBUNALES MILITARES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "justicia militar"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/justicia militar"
+            },
+            "sinonimos": {
+              "termino": [
+                "competencia militar",
+                "fuero militar",
+                "fuero castrense",
+                "jurisdicción militar"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tribunales militares"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/justicia militar/tribunales militares"
+            },
+            "sinonimos": {
+              "termino": [
+                "tribunales militares en tiempo de paz",
+                "competencia militar",
+                "fuero militar",
+                "fuero castrense",
+                "jurisdicción militar",
+                "tribunales militares en tiempo de guerra"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "competencia militar (justicia militar)",
+            "fuero castrense (justicia militar)",
+            "justicia militar",
+            "derecho militar",
+            "jurisdicción militar (justicia militar)",
+            "tribunales militares en tiempo de guerra (tribunales militares)",
+            "tribunales militares en tiempo de paz (tribunales militares)",
+            "Defensa nacional",
+            "fuero militar (justicia militar)",
+            "tribunales militares"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025539"
+    }
+  }
+}

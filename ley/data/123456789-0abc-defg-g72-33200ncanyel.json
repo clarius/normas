@@ -1,0 +1,88 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g72-33200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584561718,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "415-nacional-lnn0023327-1870-09-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023327",
+      "numero-norma": 415,
+      "timestamp": "2013-06-07T12:43:22",
+      "timestamp-m": "2013-06-07T12:43:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1870-09-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000415 1870 09 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 415",
+          "BUENOS AIRES, 19 DE SETIEMBRE DE 1870"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1870 09 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800915",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 415",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-PAPEL SELLADO PARA 1871"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "papel sellado"
+            },
+            "preferido": {
+              "termino": "papel sellado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "sello"
+            },
+            "preferido": {
+              "termino": "sello"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sello",
+            "papel sellado"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023327"
+    }
+  }
+}

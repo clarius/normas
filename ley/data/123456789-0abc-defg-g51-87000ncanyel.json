@@ -1,0 +1,116 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g51-87000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1559736897882,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "9922-nacional-lnn0007815-1915-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0007815",
+      "numero-norma": 9922,
+      "timestamp": "2019-06-05T08:25:58",
+      "timestamp-m": "2019-06-05T08:25:58",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1915-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 009922 1915 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 9.922",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1915"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1915 11 24",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1915 11 24"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019191022",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 9.922",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-06-05",
+      "texto-original": {
+        "file-name": "N0007815.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0007815pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "JUBILACION A CARMEN PAGES DE COELHO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "jubilaciones",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0007815"
+    }
+  }
+}

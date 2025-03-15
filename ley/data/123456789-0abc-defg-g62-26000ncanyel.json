@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g62-26000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584543801,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16558-nacional-lnn0006226-1964-10-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006226",
+      "numero-norma": 16558,
+      "timestamp": "2013-12-19T14:38:37",
+      "timestamp-m": "2013-12-19T14:38:37",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1964-10-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016558 1964 10 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.558",
+          "BUENOS AIRES, 29 DE OCTUBRE DE 1964"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1964 12 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1964 12 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  024 C19642046",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.558",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-12-19",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA TRANSFERENCIA INMUEBLE A LA MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transferencia de bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/transferencia de bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bienes inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes inmuebles",
+            "transferencia de bienes del Estado",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "bienes del Estado",
+            "Derecho civil",
+            "Derecho administrativo",
+            "bienes de dominio del Estado (bienes del Estado)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006226"
+    }
+  }
+}

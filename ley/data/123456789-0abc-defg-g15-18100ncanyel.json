@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g15-18100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584662439,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "30756-nacional-lnn0018151-1945-12-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018151",
+      "numero-norma": 30756,
+      "timestamp": "2013-01-19T19:15:33",
+      "timestamp-m": "2013-01-19T19:15:33",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1945-12-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 030756 1945 12 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 30.756",
+          "BUENOS AIRES, 1 DEDICIEMBRE DE 1945"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1945 12 20",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1945 12 20"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  005 019450747",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 30.756",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-DECLARACION JURADA ANTE LA JUNTA DE VIGILANCIA Y DISPOSICION FINAL DE LA PROPIEDAD ENEMIGA-PLAZO Y CONDICIONES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "propiedad enemiga"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/guerra/propiedad enemiga"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "plazo"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/clasificación de las obligaciones/obligaciones a plazo/plazo"
+            },
+            "sinonimos": {
+              "termino": [
+                "término",
+                "obligaciones personales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "guerra",
+            "propiedad enemiga",
+            "obligaciones a plazo",
+            "obligaciones",
+            "Obligaciones y contratos",
+            "clasificación de las obligaciones",
+            "plazo",
+            "término (plazo)",
+            "Defensa nacional",
+            "obligaciones personales (obligaciones)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018151"
+    }
+  }
+}

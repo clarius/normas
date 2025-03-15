@@ -1,0 +1,128 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g88-92000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1639134176888,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22752-nacional-lnn0002988-1983-02-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0002988",
+      "numero-norma": 22752,
+      "timestamp": "2021-12-10T07:11:38",
+      "timestamp-m": "2021-12-10T07:11:38",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1983-02-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022752 1983 02 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 22.752",
+          "Buenos Aires, 25 de febrero de 1983"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1983 02 28"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.752",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-12-10",
+      "texto-original": {
+        "file-name": "N0002988.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0002988pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR AMBITO TEMPORAL CUMPLIDO-SUBSIDIO POR DESOCUPACION PARA TRABAJADORES EN RELACION DE DEPENDENCIA QUE DURANTE 1982 HUBIERAN PERDIDO EL TRABAJO SIN JUSTA CAUSA."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "desocupación"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "prestación transitoria por desempleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo/prestación transitoria por desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "SUSS"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "subsidio por desempleo"
+            },
+            "preferido": {
+              "termino": "Seguridad social/Sistema único de la seguridad social/subsidios de la Seguridad Social/sistema integral de prestaciones por desempleo y servicio de sepelio/desempleo/seguro de desempleo"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema integral de prestaciones por desempleo",
+                "desocupación",
+                "subsidio por desempleo",
+                "SUSS"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "desempleo",
+            "Sistema único de la seguridad social",
+            "subsidios de la Seguridad Social",
+            "sistema integral de prestaciones por desempleo y servicio de sepelio",
+            "SUSS (Sistema único de la seguridad social)",
+            "sistema integral de prestaciones por desempleo (sistema integral de prestaciones por desempleo y servicio de sepelio)",
+            "Seguridad social",
+            "seguro de desempleo",
+            "subsidio por desempleo (seguro de desempleo)",
+            "desocupación (desempleo)",
+            "prestación transitoria por desempleo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0002988"
+    }
+  }
+}

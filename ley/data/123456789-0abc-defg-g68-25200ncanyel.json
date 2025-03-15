@@ -1,0 +1,89 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g68-25200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676552359329,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "9154-nacional-lnn0025286-1913-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025286",
+      "numero-norma": 9154,
+      "timestamp": "2023-02-16T09:51:02",
+      "timestamp-m": "2023-02-16T09:51:02",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1913-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 009154 1913 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 9154",
+          "BUENOS AIRES, 29 DE SETIEMBRE DE 1913"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1913 09 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190899",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 9.154",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-16",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "OBSERVADA POR MENSAJE DEL PEN 8/10/13-PRESTAMOS DEL BANCO HIPOTECARIO PARA EMPLEADOS NACIONALES-"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "préstamo bancario"
+          },
+          "preferido": {
+            "termino": "Derecho bancario/operaciones financieras/operaciones bancarias/contratos bancarios/préstamo bancario"
+          },
+          "sinonimos": {
+            "termino": [
+              "operatoria bancaria",
+              "sistema bancario",
+              "crédito bancario"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "crédito bancario (préstamo bancario)",
+            "operaciones financieras",
+            "Derecho bancario",
+            "operaciones bancarias",
+            "operatoria bancaria (operaciones bancarias)",
+            "contratos bancarios",
+            "sistema bancario (Derecho bancario)",
+            "préstamo bancario"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025286"
+    }
+  }
+}

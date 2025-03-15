@@ -1,0 +1,109 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g03-38200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1601032054277,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14792-nacional-lnn0028330-1959-01-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028330",
+      "numero-norma": 14792,
+      "timestamp": "2020-09-24T21:22:02",
+      "timestamp-m": "2020-09-24T21:22:02",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1959-01-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014792 1959 01 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 014792",
+          "BUENOS AIRES 13 DE ENERO DE 1959"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1959 01 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1959 01 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  019 A19590017",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.792",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-24",
+      "texto-original": {
+        "file-name": "N0028330.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028330pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 22.415-ADUANA-CONTRABANDO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "código aduanero"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/ley aduanera/código aduanero"
+            },
+            "sinonimos": {
+              "termino": [
+                "legislación aduanera",
+                "ley de aduanas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "contrabando"
+            },
+            "preferido": {
+              "termino": "Derecho penal/régimen penal aduanero/delitos aduaneros/contrabando"
+            },
+            "sinonimos": {
+              "termino": "derecho penal aduanero"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Aduanero",
+            "delitos aduaneros",
+            "derecho penal aduanero (régimen penal aduanero)",
+            "ley de aduanas (ley aduanera)",
+            "Derecho penal",
+            "contrabando",
+            "legislación aduanera (ley aduanera)",
+            "Derecho tributario y aduanero",
+            "régimen penal aduanero",
+            "ley aduanera",
+            "código aduanero"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028330"
+    }
+  }
+}

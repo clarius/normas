@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g19-15100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1575378168596,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4048-nacional-lnn0015191-1901-12-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0015191",
+      "numero-norma": 4048,
+      "timestamp": "2019-12-03T09:11:00",
+      "timestamp-m": "2019-12-03T09:11:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1901-12-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004048 1901 12 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.048",
+          "BUENOS AIRES, 21 DEDICIEMBRE DE 1901"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1901 12 31"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190531",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.048",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-12-03",
+      "texto-original": {
+        "file-name": "N0015191.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0015191pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "FERROCARRILES-FERROCARRIL DEL PUERTO TELLY A COLONIA SAN MARTIN- CONCESION A ARTURO CALMANN"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "contratos administrativos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concesión administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/concesión administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de concesión administrativa",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concesión administrativa",
+            "contrato de concesión administrativa (concesión administrativa)",
+            "contrataciones públicas (contratos administrativos)",
+            "contratos administrativos",
+            "contrataciones del Estado (contratos administrativos)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0015191"
+    }
+  }
+}

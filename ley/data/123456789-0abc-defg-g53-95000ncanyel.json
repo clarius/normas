@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g53-95000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1493209195104,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17136-nacional-lnn0005935-1967-01-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005935",
+      "numero-norma": 17136,
+      "timestamp": "2017-04-26T05:18:36",
+      "timestamp-m": "2017-04-26T05:18:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-01-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017136 1967 01 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.136",
+          "BUENOS AIRES, 24 DE ENERO DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 02 08",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 02 08"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 A19670063",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.136",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-04-26",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRORROGA MANDATO DE LOS MIEMBROS DE DOS JUNTAS PARA LA ENSEÑANZA MEDIA,DEPENDIENTES DE LA SECRETARIA DE ESTADO DE CULTURA Y EDUCACION,HASTA ABRIL 1967"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "niveles educativos"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos"
+            },
+            "sinonimos": {
+              "termino": "Educación y Cultura"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "educación secundaria"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación/niveles educativos/educación secundaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "nivel secundario",
+                "enseñanza secundaria",
+                "escuela secundaria",
+                "colegio secundario",
+                "Educación y Cultura",
+                "educación media",
+                "enseñanza media"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "escuela secundaria (educación secundaria)",
+            "educación media (educación secundaria)",
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "educación secundaria",
+            "niveles educativos",
+            "colegio secundario (educación secundaria)",
+            "enseñanza secundaria (educación secundaria)",
+            "nivel secundario (educación secundaria)",
+            "enseñanza media (educación secundaria)",
+            "educación"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005935"
+    }
+  }
+}

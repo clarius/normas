@@ -1,0 +1,123 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g15-36000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1592392270324,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16645-nacional-lnn0006351-1964-10-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006351",
+      "numero-norma": 16645,
+      "timestamp": "2020-06-17T07:45:33",
+      "timestamp-m": "2020-06-17T07:45:33",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1964-10-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016645 1964 10 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16.645",
+          "BUENOS AIRES, 30 DE OCTUBRE DE 1964"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1964 12 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1964 12 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  024 C19642080",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.645",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-06-17",
+      "texto-original": {
+        "file-name": "N0006351.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006351pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "TRANSFERENCIA AL MINISTERIO DE ASISTENCIA SOCIAL Y SALUD PUBLICA DE LA CLINICA DE ENFERMEDADES CARDIOVASCULARES."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transferencia de establecimientos asistenciales"
+            },
+            "preferido": {
+              "termino": "Salud pública/infraestructura sanitaria/establecimientos asistenciales/transferencia de establecimientos asistenciales"
+            },
+            "sinonimos": {
+              "termino": [
+                "clínicas",
+                "establecimientos sanitarios",
+                "establecimientos médicos",
+                "salas de primeros auxilios",
+                "establecimientos de salud",
+                "hospitales",
+                "infraestructura asistencial",
+                "policlínicos",
+                "servicios hospitalarios",
+                "sanatorios"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "enfermedades cardiovasculares"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/enfermedades cardiovasculares"
+            },
+            "sinonimos": {
+              "termino": "afección cardíaca"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "infraestructura asistencial (establecimientos asistenciales)",
+            "clínicas (establecimientos asistenciales)",
+            "establecimientos sanitarios (establecimientos asistenciales)",
+            "establecimientos asistenciales",
+            "infraestructura sanitaria",
+            "Salud pública",
+            "enfermedades cardiovasculares",
+            "afección cardíaca (enfermedades cardiovasculares)",
+            "transferencia de establecimientos asistenciales",
+            "servicios hospitalarios (establecimientos asistenciales)",
+            "enfermedades",
+            "establecimientos médicos (establecimientos asistenciales)",
+            "policlínicos (establecimientos asistenciales)",
+            "establecimientos de salud (establecimientos asistenciales)",
+            "hospitales (establecimientos asistenciales)",
+            "sanatorios (establecimientos asistenciales)",
+            "salas de primeros auxilios (establecimientos asistenciales)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006351"
+    }
+  }
+}

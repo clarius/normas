@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g63-04100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584415403,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4315-nacional-lnn0014036-1904-07-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014036",
+      "numero-norma": 4315,
+      "timestamp": "2013-08-22T13:20:51",
+      "timestamp-m": "2013-08-22T13:20:51",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1904-07-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004315 1904 07 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.315",
+          "BUENOS AIRES, 21 DE JULIO DE 1904"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1904 07 30",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1904 07 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018890616",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.315",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PRESUPUESTO-CREDITO AL DEPARTAMENTO DE HACIENDA PARA PAGOS DE CREDITOS DEL EJERCICIO VENCIDO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "modificación del presupuesto"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/modificación del presupuesto"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "modificación del presupuesto",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "presupuesto nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014036"
+    }
+  }
+}

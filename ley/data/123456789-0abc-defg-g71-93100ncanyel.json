@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g71-93100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1575378150276,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4009-nacional-lnn0013917-1901-08-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013917",
+      "numero-norma": 4009,
+      "timestamp": "2019-12-03T09:11:00",
+      "timestamp-m": "2019-12-03T09:11:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1901-08-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004009 1901 08 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.009",
+          "BUENOS AIRES, 24 DE AGOSTO DE 1901"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1901 09 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190512",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.009",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-12-03",
+      "texto-original": {
+        "file-name": "N0013917.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0013917pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "FERROCARRILES CONCESION A CHAPEAUROUGE Y QUIRNO PARA CONSTRUCCION DE LINEA FERREA DE COLON PROVINCIA DE BUENOS AIRES,A ORELLANOS Y RUFINO,PROVINCIA DE SANTA FE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "contratos administrativos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concesión administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/concesión administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de concesión administrativa",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concesión administrativa",
+            "contrato de concesión administrativa (concesión administrativa)",
+            "contrataciones públicas (contratos administrativos)",
+            "contratos administrativos",
+            "contrataciones del Estado (contratos administrativos)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013917"
+    }
+  }
+}

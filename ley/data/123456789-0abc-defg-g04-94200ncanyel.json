@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g04-94200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584024118,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "15-nacional-lnn0024940-1854-12-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024940",
+      "numero-norma": 15,
+      "timestamp": "2013-01-19T19:16:25",
+      "timestamp-m": "2013-01-19T19:16:25",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1854-12-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000015 1854 12 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 15",
+          "PARANA, 1 DE DICIEMBRE DE 1854"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1856 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1856 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800110",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 15",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "texto-original": {
+        "file-name": "N0024940.HTML",
+        "uuid": "ijklmnop-rstu-vwle-ynac-n0024940html"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-ACUÑACION Y CIRCULACION DE MONEDAS DE PLATA Y COBRE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "moneda nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/moneda nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Casa de la Moneda"
+            },
+            "preferido": {
+              "termino": "Casa de la Moneda"
+            },
+            "sinonimos": {
+              "termino": "Casa de la Moneda de la Nación"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Casa de la Moneda de la Nación (Casa de la Moneda)",
+            "sistema financiero",
+            "derecho financiero (Economía y finanzas)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "moneda",
+            "moneda nacional",
+            "Economía y finanzas",
+            "Casa de la Moneda"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024940"
+    }
+  }
+}

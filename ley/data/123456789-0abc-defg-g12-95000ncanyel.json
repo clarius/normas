@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g12-95000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584015778,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17166-nacional-lnn0005921-1967-02-14"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005921",
+      "numero-norma": 17166,
+      "timestamp": "2013-08-22T13:20:50",
+      "timestamp-m": "2013-08-22T13:20:50",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-02-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017166 1967 02 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.166",
+          "BUENOS AIRES, 14 DE FEBRERO DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 02 27",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 02 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 A19670093",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.166",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION INMUEBLES UBICADOS EN LA MATANZA,PROVINCIA DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005921"
+    }
+  }
+}

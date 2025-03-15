@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g68-18100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1599516483013,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14997-nacional-lnn0018186-1959-11-14"
+      }
+    },
+    "content": {
+      "mecanografico": "N0018186",
+      "numero-norma": 14997,
+      "timestamp": "2020-09-07T18:25:21",
+      "timestamp-m": "2020-09-07T18:25:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1959-11-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014997 1959 11 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14.997",
+          "BUENOS AIRES, 14 DENOVIEMBRE DE 1959"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1960 01 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1960 01 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  019 A19590161",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.997",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-09-07",
+      "texto-original": {
+        "file-name": "N0018186.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0018186pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN INMUEBLE PARA EL COLEGIO NACIONAL DE SAN ANTONIO DE ARECO,PROVINCIA DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0018186"
+    }
+  }
+}

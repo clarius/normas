@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g43-45000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1619557569534,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18725-nacional-lnn0005434-1970-07-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005434",
+      "numero-norma": 18725,
+      "timestamp": "2021-04-27T17:56:43",
+      "timestamp-m": "2021-04-27T17:56:43",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1970-07-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018725 1970 07 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18.725",
+          "BUENOS AIRES, 15 DE JULIO DE 1970"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1970 07 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1970 07 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  030 B19701632",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.725",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-04-27",
+      "texto-original": {
+        "file-name": "N0005434.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005434pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXCLUYENSE INMUEBLES DECLARADOS DE UTILIDAD PUBLICA Y SUJETOS A EXPROPIACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005434"
+    }
+  }
+}

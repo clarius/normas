@@ -1,0 +1,126 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g87-40200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1637841943896,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11885-nacional-pensiones-lnn0020478-1934-08-16"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020478",
+      "numero-norma": 11885,
+      "timestamp": "2021-11-25T08:23:18",
+      "timestamp-m": "2021-11-25T08:23:18",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1934-08-16",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011885 1934 08 16",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY N. 11.885",
+          "BUENOS AIRES, 16 DE AGOSTO DE 1934"
+        ]
+      },
+      "titulo-norma": "PENSIONES",
+      "datos-publicacion": "BOLETIN OFICIAL   1934 11 03",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1934 11 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400530",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.885",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-11-25",
+      "texto-original": {
+        "file-name": "N0020478.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0020478pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "PENSION A MANUELA ORTIZ DE CUELI Y OTRAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Seguridad social"
+            },
+            "preferido": {
+              "termino": "Seguridad social"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pensiones graciables"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/pensiones graciables"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "pensiones graciables",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020478"
+    }
+  }
+}

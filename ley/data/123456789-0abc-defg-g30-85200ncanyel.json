@@ -1,0 +1,120 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g30-85200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1639134357083,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14773-nacional-lnn0025803-1958-11-10"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025803",
+      "numero-norma": 14773,
+      "timestamp": "2021-12-10T07:11:39",
+      "timestamp-m": "2021-12-10T07:11:39",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1958-11-10",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014773 1958 11 10",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 14773",
+          "BUENOS AIRES, 10 DE NOVIEMBRE DE 1958"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1958 11 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1958 11 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A001819580272",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.773",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2021-12-10",
+      "texto-original": {
+        "file-name": "N0025803.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0025803pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "observaciones-generales": "OBSERVACION DEROGADA POR LEY 17319"
+      },
+      "noticias-accesorias": {
+        "texto": "OBSERVACION DEROGADA POR LEY 17319"
+      },
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 17319 (B.O. 30-06-1967)-ENERGIA Y COMBUSTIBLES- NACIONALIZACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "recursos energéticos"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "combustibles"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos energéticos/combustibles"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "hidrocarburos"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos minerales/minería/productos mineros/hidrocarburos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Derecho Minero",
+                "actividad minera"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "combustibles",
+            "productos mineros",
+            "actividad minera (minería)",
+            "recursos energéticos",
+            "Derecho Minero (minería)",
+            "minería",
+            "Recursos naturales",
+            "recursos minerales",
+            "hidrocarburos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025803"
+    }
+  }
+}

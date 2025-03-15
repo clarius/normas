@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g45-49100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1555953044756,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2172-nacional-lnn0019454-1887-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0019454",
+      "numero-norma": 2172,
+      "timestamp": "2019-04-22T13:41:10",
+      "timestamp-m": "2019-04-22T13:41:10",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1887-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002172 1887 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 2172",
+          "BUENOS AIRES, 30 DE SETIEMBRE DE 1887"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha-sf": "1887 09 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880413",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.172",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-22",
+      "texto-original": {
+        "file-name": "N0019454.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0019454pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONCESIONES-AUTORIZASE LA CONSTRUCCION Y EXPLOTACION DEL FERROCARRIL DE BUENOS AIRES A SANTA FE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "contratos administrativos"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "concesión administrativa"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/concesión administrativa"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrato de concesión administrativa",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "concesión administrativa",
+            "contrato de concesión administrativa (concesión administrativa)",
+            "contrataciones públicas (contratos administrativos)",
+            "contratos administrativos",
+            "contrataciones del Estado (contratos administrativos)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0019454"
+    }
+  }
+}

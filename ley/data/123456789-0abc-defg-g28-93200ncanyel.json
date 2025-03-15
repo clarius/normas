@@ -1,0 +1,137 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g28-93200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584645826,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4508-nacional-lnn0023982-1904-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023982",
+      "numero-norma": 4508,
+      "timestamp": "2013-01-19T19:16:17",
+      "timestamp-m": "2013-01-19T19:16:17",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1904-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004508 1904 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4508",
+          "BUENOS AIRES, 29 DE SETIEMBRE DE 1904"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1904 10 12"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190638",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.508",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO Y MODIFICATORIA DE LA LEY 3891 PERO LEY 3891 SIN EFICACIA POR OBJETO CUMPLIDO-TARIFAS POSTALES PARA DIARIOS Y PUBLICACIONES PERIODICAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "tarifa postal"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos/servicio público/tarifa de servicios públicos/tarifa postal"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicios públicos",
+                "cuadro tarifario",
+                "tarifas",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "publicación periódica"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/prensa/publicación periodística"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "publicación periódica",
+                "medios de comunicación",
+                "periódico"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "diarios"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/prensa/publicación periodística/diarios"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "publicación periódica",
+                "periódico",
+                "medios de comunicación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "periódico (publicación periodística)",
+            "diarios",
+            "medios de difusión (Comunicaciones)",
+            "contrataciones del Estado (contratos administrativos)",
+            "publicación periódica (publicación periodística)",
+            "prensa",
+            "servicios públicos locales (servicio público)",
+            "tarifas (tarifa de servicios públicos)",
+            "tarifa de servicios públicos",
+            "servicios públicos (servicio público)",
+            "cuadro tarifario (tarifa de servicios públicos)",
+            "publicación periodística",
+            "contrataciones públicas (contratos administrativos)",
+            "servicio público",
+            "contratos administrativos",
+            "medios de comunicación (Comunicaciones)",
+            "Comunicaciones",
+            "Derecho administrativo",
+            "tarifa postal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023982"
+    }
+  }
+}

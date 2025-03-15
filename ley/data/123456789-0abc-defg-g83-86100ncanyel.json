@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g83-86100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584010458,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1192-nacional-lnn0016838-1882-08-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016838",
+      "numero-norma": 1192,
+      "timestamp": "2014-09-02T12:54:44",
+      "timestamp-m": "2014-09-02T12:54:44",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1882-08-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001192 1882 08 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1.192",
+          "BUENOS AIRES, 22 DE AGOSTO DE 1882"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1884 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1884 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880068",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.192",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-09-02",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONDONACION DE DEUDAS DE PROVINCIAS A LA NACION,SAN JUAN MENDOZA SANTIAGO DEL ESTERO Y LA RIOJA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extinción de las obligaciones"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones"
+            },
+            "sinonimos": {
+              "termino": "obligaciones personales"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remisión de deudas"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones/remisión de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "condonación de deudas",
+                "obligaciones personales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de las obligaciones",
+            "Derecho constitucional",
+            "Estado",
+            "obligaciones",
+            "Obligaciones y contratos",
+            "Estado Nacional",
+            "remisión de deudas",
+            "obligaciones personales (obligaciones)",
+            "condonación de deudas (remisión de deudas)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016838"
+    }
+  }
+}

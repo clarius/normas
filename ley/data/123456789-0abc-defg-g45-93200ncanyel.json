@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g45-93200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583967830,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "106-nacional-lnn0023954-1856-09-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023954",
+      "numero-norma": 106,
+      "timestamp": "2013-01-19T19:16:25",
+      "timestamp-m": "2013-01-19T19:16:25",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1856-09-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000106 1856 09 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 106",
+          "PARANA, 28 DE SETIEMBRE DE 1856"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1856 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1856 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800152",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 106",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "OBJETO CUMPLIDO-POLICIA GENERAL EN TODO EL TERRITORIO FEDERALIZADO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deuda pública"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/deuda pública"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sistema financiero",
+            "presupuesto",
+            "deuda pública",
+            "derecho financiero (Economía y finanzas)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "presupuesto nacional",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023954"
+    }
+  }
+}

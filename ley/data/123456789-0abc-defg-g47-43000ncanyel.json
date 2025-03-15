@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g47-43000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1611702204201,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23577-nacional-lnn0003474-1988-06-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0003474",
+      "numero-norma": 23577,
+      "timestamp": "2021-01-26T19:11:45",
+      "timestamp-m": "2021-01-26T19:11:45",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1988-06-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023577 1988 06 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 23.577",
+          "BUENOS AIRES, 29 DE JUNIO DE 1988"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1988 07 27",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1988 07 27"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.577",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-01-26",
+      "texto-original": {
+        "file-name": "N0003474.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0003474pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "LEY SIN EFICACIA POR SER SOLO MODIFICATORIA- BIENES DEL ESTADO-TRANSFERENCIA DE INMUEBLES-TRANSFERENCIA A TITULO GRATUITO DE UN INMUEBLE A LA ASOCIACION OBRERA TEXTIL DE LA REPUBLICA ARGENTINA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transferencia de bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/transferencia de bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bienes inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes inmuebles",
+            "transferencia de bienes del Estado",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "bienes del Estado",
+            "Derecho civil",
+            "Derecho administrativo",
+            "bienes de dominio del Estado (bienes del Estado)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0003474"
+    }
+  }
+}

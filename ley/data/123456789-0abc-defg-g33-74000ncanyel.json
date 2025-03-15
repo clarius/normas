@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g33-74000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1615461154357,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20169-nacional-lnn0004733-1973-02-21"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004733",
+      "numero-norma": 20169,
+      "timestamp": "2021-03-11T07:24:19",
+      "timestamp-m": "2021-03-11T07:24:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-02-21",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020169 1973 02 21",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20.169",
+          "BUENOS AIRES, 21 DE FEBRERO DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 03 01",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 03 01"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  033 A19730311",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.169",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-03-11",
+      "texto-original": {
+        "file-name": "N0004733.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0004733pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DEL INMUEBLE UBICADO EN LA CALLE HIPOLITO YRIGOYEN ESQUINA SOLIS CON DESTINO A LA INSTALACION DE UNA FERIA MERCADO-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004733"
+    }
+  }
+}

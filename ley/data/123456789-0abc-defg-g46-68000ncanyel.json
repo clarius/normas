@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g46-68000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1582035146724,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "9106-nacional-lnn0008664-1913-08-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0008664",
+      "numero-norma": 9106,
+      "timestamp": "2020-02-18T10:41:11",
+      "timestamp-m": "2020-02-18T10:41:11",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1913-08-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 009106 1913 08 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 9.106",
+          "BUENOS AIRES, 19 DE AGOSTO DE 1913"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1913 09 15",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1913 09 15"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190892",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 9.106",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-02-18",
+      "texto-original": {
+        "file-name": "N0008664.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0008664pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "VENTA DE UN TERRENO DE LA NACION EN CORDOBA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "venta de bienes"
+            },
+            "preferido": {
+              "termino": "venta de bienes"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "Estado",
+            "venta de bienes",
+            "Estado Nacional",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0008664"
+    }
+  }
+}

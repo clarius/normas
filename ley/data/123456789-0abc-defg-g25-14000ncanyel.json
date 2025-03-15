@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g25-14000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584090489,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21565-nacional-lnn0004152-1977-03-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004152",
+      "numero-norma": 21565,
+      "timestamp": "2013-08-22T13:20:49",
+      "timestamp-m": "2013-08-22T13:20:49",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1977-03-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021565 1977 03 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.565",
+          "BUENOS AIRES, 30 DE MARZO DE 1977"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1977 05 03",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1977 05 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  037 B19771438",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.565",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION-DECLARACION DE UTILIDAD PUBLICA-INMUEBLE"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004152"
+    }
+  }
+}

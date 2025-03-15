@@ -1,0 +1,132 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g24-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1534861035062,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4202-nacional-lnn0026342-1903-08-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026342",
+      "numero-norma": 4202,
+      "timestamp": "2018-08-16T14:15:06",
+      "timestamp-m": "2018-08-16T14:15:06",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1903-08-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004202 1903 08 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4202",
+          "BUENOS AIRES, 27 DE AGOSTO DE 1903"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1903 09 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190604",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.202",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2018-08-16",
+      "texto-original": {
+        "file-name": "N0026342.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0026342pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22109 (B.O. 30-11-79)-VACUNACION ANTIVARIOLOSA OBLIGATORIA-"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "enfermedades"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "prevención de enfermedades"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/prevención de enfermedades"
+            },
+            "sinonimos": {
+              "termino": [
+                "profilaxis",
+                "prevención de enfermedades y accidentes",
+                "medicina preventiva",
+                "asistencia médica preventiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "vacunación obligatoria"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/prevención de enfermedades/vacunación/vacunación obligatoria"
+            },
+            "sinonimos": {
+              "termino": [
+                "profilaxis",
+                "prevención de enfermedades y accidentes",
+                "medicina preventiva",
+                "asistencia médica preventiva"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "viruela"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/viruela"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "vacunación",
+            "profilaxis (prevención de enfermedades)",
+            "Salud pública",
+            "prevención de enfermedades y accidentes (prevención de enfermedades)",
+            "vacunación obligatoria",
+            "asistencia médica preventiva (prevención de enfermedades)",
+            "enfermedades",
+            "viruela",
+            "medicina preventiva (prevención de enfermedades)",
+            "prevención de enfermedades"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026342"
+    }
+  }
+}

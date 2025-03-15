@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g95-06000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1596802358715,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17076-nacional-lnn0006059-1966-12-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006059",
+      "numero-norma": 17076,
+      "timestamp": "2020-08-07T08:38:16",
+      "timestamp-m": "2020-08-07T08:38:16",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1966-12-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017076 1966 12 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.076",
+          "BUENOS AIRES, 22 DE DICIEMBRE DE 1966"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1966 12 29",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1966 12 29"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  026 C19661648",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.076",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-08-07",
+      "texto-original": {
+        "file-name": "N0006059.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006059pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES UBICADOS EN SAN MIGUEL DE TUCUMAN SOBRE LA CALLE CRISOSTOMO ALVAREZ 746 AL 748 Y 736 PARA FUNCIONAMIENTO DE ESCUELA NACIONAL DE EDUCACION TECNICA NRO 1"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006059"
+    }
+  }
+}

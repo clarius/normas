@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g47-63100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584262897,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3970-nacional-lnn0013674-1900-11-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013674",
+      "numero-norma": 3970,
+      "timestamp": "2014-08-29T16:04:24",
+      "timestamp-m": "2014-08-29T16:04:24",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1900-11-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003970 1900 11 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.970",
+          "BUENOS AIRES, 5 DE NOVIEMBRE DE 1900"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1900 11 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190497",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.970",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "FERROCARRILES-APRUEBASE EL CONUENIO CELEBRADO ENTRE EL PODER EJECUTIVO Y LAS COMPAÑIAS DE LOS FERROCARRILES BUENOS AIRES Y ROSARIO Y CENTRAL ARGENTINO PARA LEVANTAMIENTO DE VIAS Y CONSTRUCCION DE LA ESTACION RETIRO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013674"
+    }
+  }
+}

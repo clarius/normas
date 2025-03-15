@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g30-55200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584553913,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19682-nacional-lnn0025503-1972-06-15"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025503",
+      "numero-norma": 19682,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-06-15",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019682 1972 06 15",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19682",
+          "BUENOS AIRES, 15 DE JUNIO DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 06 22",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 06 22"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  C003219723333",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.682",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22047 (B.O. 15-8-87)-CREA CONSEJO FEDERAL DE EDUCACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "educación"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/educación"
+            },
+            "sinonimos": {
+              "termino": "Educación y Cultura"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Consejo Federal de Cultura y Educación"
+            },
+            "preferido": {
+              "termino": "Consejo Federal de Educación"
+            },
+            "sinonimos": {
+              "termino": [
+                "Consejo General de Educación",
+                "Consejo Federal de Cultura y Educación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Consejo Federal de Cultura y Educación (Consejo Federal de Educación)",
+            "Consejo General de Educación (Consejo Federal de Educación)",
+            "Educación y Cultura (Cultura y educación)",
+            "Cultura y educación",
+            "Consejo Federal de Educación",
+            "educación"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025503"
+    }
+  }
+}

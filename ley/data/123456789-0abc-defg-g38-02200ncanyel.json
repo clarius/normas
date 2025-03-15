@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g38-02200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1616422210405,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "23597-nacional-lnn0022083-1956-12-31"
+      }
+    },
+    "content": {
+      "mecanografico": "N0022083",
+      "numero-norma": 23597,
+      "timestamp": "2021-03-22T10:38:31",
+      "timestamp-m": "2021-03-22T10:38:31",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1956-12-31",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 023597 1956 12 31",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 23597/56 RATIFICADO POR LEY 14467",
+          "BUENOS AIRES, 31 DE DICIEMBRE DE 1956"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1957 04 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1957 04 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  017 A19570216",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 23.597/56",
+      "ratificado-por": "RATIFICADO POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-03-22",
+      "texto-original": {
+        "file-name": "N0022083.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0022083pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICATORIO DEL ESTATUTO DE GENDARMERIA NACIONAL (DECRETO 6358/46"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fuerzas de seguridad"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Gendarmería Nacional"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "personal de seguridad"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fuerzas de seguridad",
+            "Gendarmería Nacional",
+            "seguridad pública",
+            "defensa nacional (Defensa y seguridad)",
+            "seguridad nacional (seguridad pública)",
+            "personal de seguridad (fuerzas de seguridad)",
+            "Defensa y seguridad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0022083"
+    }
+  }
+}

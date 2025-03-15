@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g20-35000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1626782473288,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18455-nacional-lnn0005302-1969-11-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005302",
+      "numero-norma": 18455,
+      "timestamp": "2021-07-20T08:02:48",
+      "timestamp-m": "2021-07-20T08:02:48",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-11-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018455 1969 11 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18.455",
+          "BUENOS AIRES, 24 DE NOVIEMBRE DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1970 01 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1970 01 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  029 C19692804",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.455",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-20",
+      "texto-original": {
+        "file-name": "N0005302.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005302pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLE UBICADO EN USHUAIA CAPITAL DEL TERRITORIO NACIONAL DE LA TIERRA DEL FUEGO,ANTARTIDA E ISLAS DEL ATLANTICO SUD CON DESTINO A LA AMPLIACION DE LA CASA DE GOBIERNO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005302"
+    }
+  }
+}

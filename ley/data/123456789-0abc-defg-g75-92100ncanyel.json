@@ -1,0 +1,87 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g75-92100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1505165294012,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5117-nacional-lnn0012957-1907-09-04"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012957",
+      "numero-norma": 5117,
+      "timestamp": "2017-09-11T17:06:51",
+      "timestamp-m": "2017-09-11T17:06:51",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1907-09-04",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005117 1907 09 04",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.117",
+          "BUENOS AIRES, 4 DE SEPTIEMBRE DE 1907"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1908 11 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1908 11 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190727",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.117",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-09-11",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CANCELACION DE HIPOTECA DEL COLEGIO DE LOURDES DE LA SOCIEDAD SAN VICENTE DE PAUL DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "hipoteca"
+          },
+          "preferido": {
+            "termino": "Derecho civil/derechos reales/derechos reales de garantía/hipoteca"
+          },
+          "sinonimos": {
+            "termino": [
+              "garantías reales",
+              "garantía hipotecaria"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "garantía hipotecaria (hipoteca)",
+            "garantías reales (derechos reales de garantía)",
+            "derechos reales",
+            "derechos reales de garantía",
+            "hipoteca",
+            "Derecho civil"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012957"
+    }
+  }
+}

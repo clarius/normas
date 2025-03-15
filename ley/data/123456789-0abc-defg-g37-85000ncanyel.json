@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g37-85000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584577769,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17265-nacional-lnn0005873-1967-05-02"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005873",
+      "numero-norma": 17265,
+      "timestamp": "2013-08-22T13:20:50",
+      "timestamp-m": "2013-08-22T13:20:50",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-05-02",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017265 1967 05 02",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.265",
+          "BUENOS AIRES, 2 DE MAYO DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 05 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 05 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 A19670268",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.265",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE INMUEBLES UBICADOS EN EL PARTIDO DE GENERAL BALCARCE PROVINCIA DE BUENOS AIRES CON DESTINO A LA INSTALACION DE UNA ESTACION TERRENA DE COMUNICACIONES MEDIANTE SATELITES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005873"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g22-32100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557404069858,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "6014-nacional-lnn0012322-1908-09-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012322",
+      "numero-norma": 6014,
+      "timestamp": "2019-05-09T08:18:21",
+      "timestamp-m": "2019-05-09T08:18:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1908-09-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 006014 1908 09 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 6.014",
+          "BUENOS AIRES, 26 DE SEPTIEMBRE DE 1908"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1908 11 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1908 11 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190753",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 6.014",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-09",
+      "texto-original": {
+        "file-name": "N0012322.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0012322pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONVENIO APROBACION DEL CELEBRADO ENTRE EL PODER EJECUTIVO Y EL BANCO NACIONAL EN LIQUIDACION EL 19 DE SEPTIEMBRE DE 1906 POR EL QUE SE TRASFIERE UN INMUEBLE AL GOBIERNO NACIONAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012322"
+    }
+  }
+}

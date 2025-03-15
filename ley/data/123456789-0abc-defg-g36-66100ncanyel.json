@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g36-66100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584091211,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "503-nacional-lnn0016663-1872-06-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016663",
+      "numero-norma": 503,
+      "timestamp": "2014-08-29T16:03:03",
+      "timestamp-m": "2014-08-29T16:03:03",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1872-06-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000503 1872 06 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 0.503",
+          "BUENOS AIRES, 1 DE JUNIO DE 1872"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1872 06 01"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800942",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 503",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "APRUEBA BALANCE-APRUEBA BALANCE DE LA JUNTA DEL CREDITO PUBLICO NACIONAL CORRESPONDIENTE AL AÑO 1871"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fisco nacional",
+            "Derecho Tributario",
+            "derecho fiscal (Derecho Tributario)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016663"
+    }
+  }
+}

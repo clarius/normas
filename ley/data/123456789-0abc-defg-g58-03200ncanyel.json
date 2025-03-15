@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g58-03200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1605006577843,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "780-nacional-lnn0023085-1955-10-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023085",
+      "numero-norma": 780,
+      "timestamp": "2020-11-09T21:23:54",
+      "timestamp-m": "2020-11-09T21:23:54",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1955-10-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 000780 1955 10 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 780/55 RATIFICADO POR LEY 14467",
+          "BUENOS AIRES, 13 DE OCTUBRE DE 1955"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1955 11 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1955 11 02"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 780/55",
+      "ratificado-por": "RATIFICADO POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-11-09",
+      "texto-original": {
+        "file-name": "N0023085.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0023085pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "ADQUISICION DE UN INMUEBLE EN LA CAPITAL PARA EL MINISTERIO DE MARINA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes privados del Estado/inmuebles del dominio privado del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes del dominio privado del Estado",
+                "inmuebles fiscales",
+                "bienes de dominio del Estado"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes privados del Estado",
+            "inmuebles fiscales (inmuebles del dominio privado del Estado)",
+            "bienes del dominio privado del Estado (bienes privados del Estado)",
+            "inmuebles del dominio privado del Estado",
+            "dominio del Estado",
+            "bienes del Estado",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023085"
+    }
+  }
+}

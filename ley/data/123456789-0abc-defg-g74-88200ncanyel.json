@@ -1,0 +1,118 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g74-88200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1535728546030,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "24865-nacional-lnn0028847-1997-08-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028847",
+      "numero-norma": 24865,
+      "timestamp": "2018-08-31T11:28:33",
+      "timestamp-m": "2018-08-31T11:28:33",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1997-08-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 024865 1997 08 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 24.865",
+          "Buenos Aires, 13 de agosto de 1997"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1997 09 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1997 09 11"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 24.865",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-09-11",
+      "fecha-mod": "2018-08-31",
+      "texto-original": {
+        "file-name": "N0028847.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028847pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DECLARASE MONUMENTO HISTORICO NACIONAL AL INMUEBLE DONDE FUNCIONA EL MUSEO HISTORICO NACIONAL JUAN BAUTISTA CABRAL, PROVINCIA DE CORRIENTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "monumentos históricos"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/patrimonio cultural/lugares históricos"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "monumentos históricos",
+                "bienes culturales",
+                "bienes de interés cultural"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "museos nacionales"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/patrimonio cultural/museos"
+            },
+            "sinonimos": {
+              "termino": [
+                "museos provinciales",
+                "museos nacionales",
+                "Educación y Cultura",
+                "bienes culturales",
+                "bienes de interés cultural",
+                "museos municipales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "museos provinciales (museos)",
+            "museos municipales (museos)",
+            "museos nacionales (museos)",
+            "Educación y Cultura (Cultura y educación)",
+            "museos",
+            "Cultura y educación",
+            "bienes culturales (patrimonio cultural)",
+            "cultura",
+            "lugares históricos",
+            "monumentos históricos (lugares históricos)",
+            "bienes de interés cultural (patrimonio cultural)",
+            "patrimonio cultural"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028847"
+    }
+  }
+}

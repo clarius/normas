@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g80-15200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584205230,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "22369-nacional-lnn0025108-1981-01-08"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025108",
+      "numero-norma": 22369,
+      "timestamp": "2013-08-22T13:20:50",
+      "timestamp-m": "2013-08-22T13:20:50",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1981-01-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 022369 1981 01 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 22369",
+          "BUENOS AIRES, 8 DE ENERO DE 1981"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1981 01 14",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1981 01 14"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  061 A19810112",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 22.369",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION INMUEBLES PARA CONSTRUCCION ESCUELAS EN CAPITAL FEDERAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025108"
+    }
+  }
+}

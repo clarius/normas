@@ -1,0 +1,122 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g48-63100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1556043357463,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3960-nacional-lnn0013684-1900-10-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013684",
+      "numero-norma": 3960,
+      "timestamp": "2019-04-23T14:40:53",
+      "timestamp-m": "2019-04-23T14:40:53",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1900-10-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003960 1900 10 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3.960",
+          "BUENOS AIRES, 11 DE OCTUBRE DE 1900"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1900 11 03",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1900 11 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190497",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.960",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-04-23",
+      "texto-original": {
+        "file-name": "N0013684.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0013684pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "TIERRAS FISCALES-COLONOS-CONDONACION DE DEUDAS DE COLONOS DE VARIOS PUNTOS DE LA REPUBLICA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extinción de las obligaciones"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remisión de deudas"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones/remisión de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "condonación de deudas",
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de las obligaciones",
+            "Derecho constitucional",
+            "Estado",
+            "obligaciones",
+            "Estado Nacional",
+            "obligaciones y contratos (derechos personales)",
+            "remisión de deudas",
+            "Derecho civil",
+            "derechos personales",
+            "obligaciones personales (obligaciones)",
+            "condonación de deudas (remisión de deudas)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013684"
+    }
+  }
+}

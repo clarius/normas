@@ -1,0 +1,115 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g65-81100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1572887602220,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "6306-nacional-lnn0011856-1909-07-17"
+      }
+    },
+    "content": {
+      "mecanografico": "N0011856",
+      "numero-norma": 6306,
+      "timestamp": "2019-11-04T13:55:00",
+      "timestamp-m": "2019-11-04T13:55:00",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1909-07-17",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 006306 1909 07 17",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 6.306",
+          "BUENOS AIRES, 17 DE JULIO DE 1909"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1909 07 28"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190763",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 6.306",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-11-04",
+      "texto-original": {
+        "file-name": "N0011856.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0011856pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUMENTO DE JUBILACION A IGNACIO DIAZ"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "beneficios previsionales"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "jubilaciones"
+            },
+            "preferido": {
+              "termino": "Seguridad social/sistema previsional/beneficios previsionales/jubilaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "haber previsional",
+                "jubilaciones y pensiones",
+                "previsión social",
+                "prestaciones previsionales",
+                "derechos previsionales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "prestaciones previsionales (beneficios previsionales)",
+            "derechos previsionales (beneficios previsionales)",
+            "jubilaciones",
+            "haber previsional (beneficios previsionales)",
+            "sistema previsional",
+            "jubilaciones y pensiones (beneficios previsionales)",
+            "Seguridad social",
+            "previsión social (sistema previsional)",
+            "beneficios previsionales"
+          ]
+        }
+      },
+      "id-infojus": "LNN0011856"
+    }
+  }
+}

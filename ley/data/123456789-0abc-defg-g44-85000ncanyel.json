@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g44-85000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583931572,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17788-nacional-lnn0005844-1968-06-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005844",
+      "numero-norma": 17788,
+      "timestamp": "2014-08-29T16:02:30",
+      "timestamp-m": "2014-08-29T16:02:30",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1968-06-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017788 1968 06 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.788",
+          "BUENOS AIRES, 24 DE JUNIO DE 1968"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1968 07 01"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  028 B19681887",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.788",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONVENIO DE CREDITO ENTRE EL SECRETARIO DEL TESORO DE LOS ESTADOS UNIDOS DE AMERICA Y EL BANCO CENTRAL DE LA REPUBLICA ARGENTINA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fisco nacional",
+            "Derecho Tributario",
+            "derecho fiscal (Derecho Tributario)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005844"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g54-94200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584620591,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "6-nacional-lnn0024945-1854-11-28"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024945",
+      "numero-norma": 6,
+      "timestamp": "2014-08-29T16:03:36",
+      "timestamp-m": "2014-08-29T16:03:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1854-11-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000006 1854 11 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 6",
+          "PARANA, 28 DE NOVIEMBRE DE 1854"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1856 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Registro Nacional",
+          "fecha": "1856 00 00"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800109",
+      "lugar-sancion": "PARANA",
+      "nombre-coloquial": "Ley 6",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICATORIA DE LEY DEL 9 DE DICIEMBRE DE 1853 ESTATUTO DE HACIENDA Y CREDITO CON NUEVO REGIMEN POR LEY 20524-INCLUYE A LAS MINAS DE CARBON EN EL ESTATUTO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fisco nacional",
+            "Derecho Tributario",
+            "derecho fiscal (Derecho Tributario)",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024945"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g08-95000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627384017926,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17566-nacional-lnn0005980-1967-12-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005980",
+      "numero-norma": 17566,
+      "timestamp": "2021-07-27T07:53:20",
+      "timestamp-m": "2021-07-27T07:53:20",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1967-12-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017566 1967 12 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.566",
+          "BUENOS AIRES, 5 DE DICIEMBRE DE 1967"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 12 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 12 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  027 C19672866",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.566",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-07-27",
+      "texto-original": {
+        "file-name": "N0005980.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0005980pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONDONACION DE UNA DEUDA DE LA MUNICIPALIDAD DE COMODORO RIVADAVIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Estado Nacional"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/Estado/Estado Nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "extinción de las obligaciones"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "remisión de deudas"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos personales/obligaciones/extinción de las obligaciones/remisión de deudas"
+            },
+            "sinonimos": {
+              "termino": [
+                "condonación de deudas",
+                "obligaciones y contratos",
+                "obligaciones personales"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "extinción de las obligaciones",
+            "Derecho constitucional",
+            "Estado",
+            "obligaciones",
+            "Estado Nacional",
+            "obligaciones y contratos (derechos personales)",
+            "remisión de deudas",
+            "Derecho civil",
+            "derechos personales",
+            "obligaciones personales (obligaciones)",
+            "condonación de deudas (remisión de deudas)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005980"
+    }
+  }
+}

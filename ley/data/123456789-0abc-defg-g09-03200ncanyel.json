@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g09-03200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1493210430565,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto ley",
+        "description": "20601-nacional-lnn0023090-1956-11-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0023090",
+      "numero-norma": 20601,
+      "timestamp": "2017-04-26T05:19:43",
+      "timestamp-m": "2017-04-26T05:19:43",
+      "tipo-norma": {
+        "codigo": "DLE",
+        "texto": "Decreto Ley"
+      },
+      "fecha": "1956-11-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "DLE C 020601 1956 11 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "DECRETO LEY NRO. 20601/56 RATIFICADO POR LEY 14467",
+          "BUENOS AIRES, 13 DE NOVIEMBRE DE 1956"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1956 11 21",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1956 11 21"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  016 A19561090",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Decreto Ley 20.601/56",
+      "ratificado-por": "RATIFICADO POR LEY 14467",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2017-04-26",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "TRANSFERENCIA DE VACUNA SALK A INSTITUCIONES OFICIALES Y PRIVADAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Salud pública"
+            },
+            "preferido": {
+              "termino": "Salud pública"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "vacunación"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/prevención de enfermedades/vacunación"
+            },
+            "sinonimos": {
+              "termino": [
+                "profilaxis",
+                "prevención de enfermedades y accidentes",
+                "medicina preventiva",
+                "asistencia médica preventiva"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "profilaxis (prevención de enfermedades)",
+            "vacunación",
+            "Salud pública",
+            "prevención de enfermedades y accidentes (prevención de enfermedades)",
+            "asistencia médica preventiva (prevención de enfermedades)",
+            "enfermedades",
+            "medicina preventiva (prevención de enfermedades)",
+            "prevención de enfermedades"
+          ]
+        }
+      },
+      "id-infojus": "LNN0023090"
+    }
+  }
+}

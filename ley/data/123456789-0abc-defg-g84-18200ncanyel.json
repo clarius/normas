@@ -1,0 +1,103 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g84-18200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1588073172630,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "23343-nacional-lnn0028148-1986-07-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0028148",
+      "numero-norma": 23343,
+      "timestamp": "2020-04-28T07:50:03",
+      "timestamp-m": "2020-04-28T07:50:03",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1986-07-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 023343 1986 07 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 23.343",
+          "BUENOS AIRES, 30 DE JULIO DE 1986"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1986 09 12",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1986 09 12"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 23.343",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-04-28",
+      "texto-original": {
+        "file-name": "N0028148.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0028148pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "INMUEBLES-DECLARA DE UTILIDAD PUBLICA Y SUJETO A EXPROPIACION UN INMUEBLE UBICADO EN LA CAPITAL FEDERAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0028148"
+    }
+  }
+}

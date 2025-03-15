@@ -1,0 +1,768 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-000-2000-3991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410991123472,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "2000-nacional-indemnizaciones-propietarios-fundos-superficiarios-afectados-actividad-petrolera-dn19930002000-1993-09-23"
+      }
+    },
+    "content": {
+      "mecanografico": 19930002000,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 2000,
+      "timestamp-m": "2012-03-27T14:00:07",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1993-09-23",
+      "standard-normativo": "DEC C 002000 1993 09 23",
+      "titulo-norma": "INDEMNIZACIONES A PROPIETARIOS DE FUNDOS SUPERFICIARIOS AFECTADOS POR LA ACTIVIDAD PETROLERA.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1993 10 04"
+        }
+      },
+      "efecto-activo": {
+        "referencia-normativa": [
+          {
+            "cr": "POR ART. 60",
+            "id": "DEROGA A0",
+            "ref": "DEC C 002173 1979 09 04 0000 000"
+          },
+          {
+            "cr": "POR ART. 60",
+            "id": "MODIFICA1",
+            "ref": "DEC C 000287 1988 03 01 0028 000"
+          }
+        ]
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": {
+          "cr": "B.O. 31-07-1996",
+          "id": "DEROGADO POR0",
+          "ref": "DEC C 000861 1996 07 26 0062 000"
+        }
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 2.000/1993",
+      "estado": "Derogada",
+      "fecha-alta": "2003-06-05",
+      "fecha-mod": "2012-03-27",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE ESTABLECEN NORMAS REFERENTES AL PAGO EN CONCEPTO DE SERVIDUMBRES Y DAÑOS CAUSADOS A PROPIETARIOS DE FUNDOS SUPERFICIARIOS POR EMPRESAS QUE DESARROLLAN ACTIVIDADES DENTRO DEL REGIMEN DE LAS LEYES 17.319 Y 21.778, EN LAS PROVINCIAS DE MENDOZA, NEUQUEN,  RIO  NEGRO,  SAN  JUAN,  SAN  LUIS  Y  ZONAS  LIMITROFES.",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "B.O. 31-07-1996",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000861 1996 07 26 0062 000 0000 000"
+          }
+        },
+        "anexos-decreto": {
+          "anexo-ley": [
+            "A ZONA \"A\" ESCALA DE INDEMNIZACIONES",
+            "B ZONA \"B\" ESCALA DE INDEMNIZACIONES",
+            "C ZONA \"C\" ESCALA DE INDEMNIZACIONES",
+            "D ZONA \"D\" ESCALA DE INDEMNIZACIONES",
+            "E INDEMNIZACIONES EN CULTIVOS",
+            "F INDEMNIZACIONES EN CULTIVOS"
+          ]
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "NRO.  DE  ART.  QUE ESTABLECE LA ENTRADA EN VIGENCIA 0061 FECHA DE ENTRADA EN VIGENCIA 1993 09 23"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "actividad petrolera"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad industrial/industria petrolífera"
+            },
+            "sinonimos": {
+              "termino": [
+                "actividad petrolera",
+                "industria",
+                "productos industriales"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servidumbres"
+            },
+            "preferido": {
+              "termino": "Derecho civil/derechos reales/servidumbres"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "daños y perjuicios"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios"
+            },
+            "sinonimos": {
+              "termino": [
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "indemnización"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios/indemnización"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por daños",
+                "indemnización del daño",
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "lucro cesante"
+            },
+            "preferido": {
+              "termino": "Derecho civil/responsabilidad civil/daños y perjuicios/indemnización/lucro cesante"
+            },
+            "sinonimos": {
+              "termino": [
+                "indemnización por daños",
+                "indemnización del daño",
+                "responsabilidad por daños",
+                "Derecho de daños",
+                "régimen de responsabilidad",
+                "daños y pérdidas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "pago"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/extinción de las obligaciones/pago"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "pago de la deuda"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "tierras de secano"
+            },
+            "preferido": {
+              "termino": "tierras de secano"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "tierras bajo riego"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos hídricos/aprovechamiento de aguas/riego/tierras bajo riego"
+            },
+            "sinonimos": {
+              "termino": [
+                "aprovechamiento para riego",
+                "provisión de agua",
+                "servicios de riego",
+                "zona de riego",
+                "aguas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aguas superficiales"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos hídricos/aguas superficiales"
+            },
+            "sinonimos": {
+              "termino": "aguas"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aguas subterráneas"
+            },
+            "preferido": {
+              "termino": "Recursos naturales/recursos hídricos/aguas subterráneas"
+            },
+            "sinonimos": {
+              "termino": "aguas"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bien de dominio público"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/bienes públicos del Estado"
+            },
+            "sinonimos": {
+              "termino": [
+                "bienes de uso público",
+                "bien de dominio público",
+                "bienes de dominio del Estado",
+                "bienes públicos"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "pago de la deuda (pago)",
+            "aguas subterráneas",
+            "pago",
+            "riego",
+            "lucro cesante",
+            "régimen de responsabilidad (responsabilidad civil)",
+            "productos industriales (actividad industrial)",
+            "dominio del Estado",
+            "daños y pérdidas (daños y perjuicios)",
+            "extinción de las obligaciones",
+            "bienes públicos del Estado",
+            "derechos reales",
+            "actividad petrolera (industria petrolífera)",
+            "tierras de secano",
+            "Obligaciones y contratos",
+            "zona de riego (tierras bajo riego)",
+            "industria (actividad industrial)",
+            "bienes del Estado",
+            "Recursos naturales",
+            "Derecho civil",
+            "daños y perjuicios",
+            "Derecho administrativo",
+            "tierras bajo riego",
+            "obligaciones personales (obligaciones)",
+            "Actividades económicas",
+            "indemnización del daño (indemnización)",
+            "aprovechamiento para riego (riego)",
+            "actividad industrial",
+            "Derecho de daños (responsabilidad civil)",
+            "industria petrolífera",
+            "servidumbres",
+            "aguas superficiales",
+            "responsabilidad por daños (responsabilidad civil)",
+            "bien de dominio público (bienes públicos del Estado)",
+            "bienes de dominio del Estado (bienes del Estado)",
+            "recursos hídricos",
+            "indemnización",
+            "bienes públicos (bienes públicos del Estado)",
+            "servicios de riego (riego)",
+            "aguas (recursos hídricos)",
+            "obligaciones",
+            "bienes de uso público (bienes públicos del Estado)",
+            "aprovechamiento de aguas",
+            "indemnización por daños (indemnización)",
+            "provisión de agua (aprovechamiento de aguas)",
+            "responsabilidad civil"
+          ]
+        }
+      },
+      "visto": {
+        "texto": "el  Expediente N.527.455/68 - Corresponde 2 del Registro de la EX SECRETARIA DE ESTADO DE ENERGIA, y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002173 1979 00 00 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 017319 1967 06 23 0100 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 006803 1968 00 00 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "DEC C 000287 1988 00 00 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "LEY C 017319 1967 06 23 0066 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 017319 1967 06 23 0069 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_6",
+              "ref": "LEY C 017319 1967 06 23 0098 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_7",
+              "ref": "LEY C 021778 1978 04 14 0007 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  es  necesario  que  el  productor agropecuario reciba una adecuada retribución por la ocupación  de  su propiedad y los daños causados  a  las  explotaciones  que  en  ellas  se    desarrollen, tratándose    con   ello  de  conciliar  la  superposición  de  las actividades agropecuarias  y  petroleras,  que  se  desenvuelven en forma simultánea.\n\nQue  los factores tenidos en cuenta para la determinación  de  los valores  indemnizatorios  para  las  áreas  de  secano de las zonas Cuyana y  Neuquina, establecidos en el Decreto N. 2.173/79, por  su asimilación  a  los de la zona Sur, han experimentado una variación que requiere la modificación de los mismos.\n\nQue corresponde  tomar  como  base  para el cálculo de los valores indemnizatorios los costos de producción  de  cada subzona, de modo que  dichos valores sean determinados en forma zonal  tal  como  lo establece el Artículo 100 de la Ley 17.319.\n\nQue  los  valores  que  figuran  en  el  presente  Decreto  fueron determinados  en  base  a  los  estudios  que efectuara la Comisión Asesora creada por el Decreto N. 6.803/68 para  tales efectos.\n\nQue  es  necesario incorporar el concepto de gastos de control  de la  actividad  petrolera  a  los  valores  establecidos  por  lucro cesante,  para  responder a los mayores costos que debe afrontar el productor  agropecuario   derivados  de  dichas  actividades.\n\nQue los valores de ripio  y  materiales  de  tercera categoría han sido librados al acuerdo entre las partes, tal  como se acordara en el seno de la Comisión Asesora.\n\nQue  corresponde  mantener el pago por los daños que  causa  a  la explotación agropecuaria  la  extracción  de  aguas  subterráneas y superficiales para la actividad petrolera.\n\nQue    resulta  conveniente,  para  la  fijación  de  los  valores indemnizatorios,  mantener  el  mecanismo  previsto en los Decretos Nros.  287/88  y 2.173/79 en cuanto a la delegación  de  facultades para tales efectos.\n\nQue el presente encuentra  fundamento  legal  en los Artículos 66, 69, 98 inciso h) y 100 de la ley 17.319, el Artículo  7  de  la Ley 21.778 y el Decreto N. 6.803/68 y sus modificatorios."
+      },
+      "segmento": [
+        {
+          "titulo-particion": "DISPOSICIONES GENERALES",
+          "articulo": [
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 017319 1967 06 23 0100 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 017319 1967 06 23 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_2",
+                    "ref": "LEY C 021778 1978 04 14 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 1,
+              "texto": "Art.  1  :  Las  empresas  que dentro del régimen de las Leyes 17.319 y 21.778 desarrollan actividades de exploración, explotación  y transporte de hidrocarburos  en  las  Provincias  de Mendoza, Neuquén, Río Negro, San Juan, San Luis y zonas limítrofes, en  adelante las PETROLERAS, y que de común acuerdo con los  propietarios   de  fundos  superficiarios  sobre  los  que  se desarrollan las actividades petroleras, en adelante los SUPERFICIARIOS, opten,  según  lo  establece  el Artículo 100 de la Ley  17.319,  por los valores determinados por el  PODER  EJECUTIVO NACIONAL para el  pago  en concepto de servidumbre y daños causados a los fundos superficiarios  por  dichas actividades, deberán pagar las indemnizaciones que se determinen  con  arreglo  a lo dispuesto en el presente Decreto."
+            },
+            {
+              "numero-articulo": 2,
+              "texto": "Art.  2  :  A  los  fines  de esta reglamentación se denominan TIERRAS DE SECANO (áridas y semiáridas)  a  las  que no cuentan con un  sistema  de riego y son dedicadas a la explotación  ganadera  y TIERRAS BAJO RIEGO  aquellas  en  las  que  se desarrollan cultivos anuales  y/o  permanentes  que  incluyan  explotaciones  que  estén dentro  de una red de canalización de riego  y  poseen  derecho  al mismo, y  a  las  que  no estando dentro de estos sistemas utilicen para sus cultivos riego por bombeo."
+            },
+            {
+              "numero-articulo": 3,
+              "texto": "Art.  3  :  El desarrollo de las actividades mencionadas en el Artículo  1  del presente  Decreto  en  una  propiedad  ubicada  en TIERRAS DE SECANO  generará  indemnizaciones diferenciales según la zona en que está ubicada. A tales  efectos  se  denomina zona \"A\" a la comprendida por los Departamentos de General Roca,  El  Cuy,  25 de  Mayo,  9  de  Julio,  Avellaneda,  Pichi Mahuida, Valcheta, San Antonio y Adolfo Alsina de la Provincia Río Negro, los Departamentos  de  Puelén,  Limay Mahuida,  Curacó,  Lihuel  Calel, Caleu Caleu, Utracán y Hucal  de  la  Provincia  de  La Pampa y los Departamentos  de  Collón  Curá,  Picún Leufú, Zapala, Confluencia, Añelo, Pehuenches y Chos Malal de la  Provincia  del  Neuquén; zona \"B\"  a  la  comprendida por los Departamentos de Los Lagos,  Lácar, Huiliches, Catán  Lil,  Aluminé,  Picunches,  Loncopué,  ñorquín  y Minas  de la Provincia del Neuquén, los Departamentos de Bariloche, ñorquinco   y  Pilcaniyeu  de  la  Provincia  de  Río  Negro  y  la Precordillera  de  las Provincias de Mendoza y San Juan; zona \"C\" a la comprendida por la  Provincia  de San Juan, los Departamentos de Las  Heras,  Luján,  Tupungato,  Maipú,    Tunuyán,    San  Carlos, Rivadavia, Mendoza, San Martín, Lavalle, Santa Rosa y La  Paz de la Provincia  de  Mendoza, con exclusión de la Precordillera en  ambas Provincias  y  la    Provincia  de  San  Luis,  con  excepción  del Departamento de Gobernador  Dupuy,  y zona \"D\" a la comprendida por los Departamentos de San Rafael, General  Alvear  y  Malarg e de la Provincia  de  Mendoza,  con  excepción  de  la  Precordillera,  el Departamento de Gobernador Dupuy de la Provincia de  San Luis y los Departamentos de Chical Co, Chalileo y Loventué de la  Provincia de La  Pampa.  El  procedimiento indemnizatorio se desarrolla  en  los Artículos 14 al 41 inclusive, del presente Decreto."
+            },
+            {
+              "numero-articulo": 4,
+              "texto": "Art.  4 : La ocupación parcial o total de una propiedad en las TIERRAS BAJO  RIEGO,  por  las  PETROLERAS  para  cualquier tipo de actividad, instalación que se realice y demás obras  que  coadyuven a    la    exploración,   explotación  (relevamiento  sismográfico, perforación  de  pozos,  construcción  de  caminos,  campamentos  y otros) o transporte de hidrocarburos,  generará  una  indemnización que  se liquidará en proporción a la superficie ocupada  o  plantas afectadas,  ya  sea  por  su  deterioro o erradicación impidiendo o dificultando al SUPERFICIARIO el  desarrollo  de  las  labores  del cultivo    pertinente    y  cuyo  procedimiento  indemnizatorio  se desarrolla  en los Artículos  42  al  59  inclusive,  del  presente Decreto."
+            },
+            {
+              "numero-articulo": 5,
+              "texto": "Art.  5  :  El  aprovechamiento simultáneo de hidrocarburos en cualquiera de sus formas  en  una misma propiedad de esta zona, por empresas  que  no  fueran  permisionarios,   concesionarios  o  del Estado,  generará de acuerdo con las obras e instalaciones  que  se realicen para  el  desarrollo de sus actividades, una indemnización que deberá abonar cada  empresa en forma independiente y de acuerdo a lo indicado en el Artículo  4  \"in  fine\"  del  presente Decreto."
+            },
+            {
+              "numero-articulo": 6,
+              "texto": "Art.  6 : La indemnización emergente de la extracción de ripio con  destino    a   los  trabajos  de  exploración,  explotación  y transporte de hidrocarburos  será  la  que  acuerden libremente las partes."
+            },
+            {
+              "numero-articulo": 7,
+              "texto": "Art. 7 : La indemnización emergente de la extracción de tierra o áridos  sin clasificar con destino a los trabajos de exploración, explotación  y  transporte  de  hidrocarburos  será la que acuerden libremente las partes."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 006803 1968 00 00 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 8,
+              "texto": "Art.  8  :  En  caso  de  controversia entre las partes por la determinación de las indemnizaciones  establecidas en los Artículos 6 y 7 del presente Decreto, y siempre de  común  acuerdo  entre las partes,  podrán someterse a dictamen de la Comisión Asesora  creada por el Decreto N. 6.803/68, que  tomará como referencia el promedio de los valores en cantera de las zona afectadas."
+            },
+            {
+              "numero-articulo": 9,
+              "texto": "Art. 9 : Las PETROLERAS podrán hacer uso de las aguas para sus necesidades   industriales  de  acuerdo  a  lo  prescripto  en  los Artículos 10, 12 y 13 del presente Decreto, siempre que previamente  hayan    demostrado    ante  la  Autoridad  Provincial competente  la  imposibilidad  de extraer  o  hacer  uso  de  aguas salobres, saladas y en general las  que  no  fueran  aptas  para el consumo humano o uso de las actividades agropecuarias."
+            },
+            {
+              "numero-articulo": 10,
+              "texto": "Art.  10  :  Cuando  por  las  condiciones  hidrogeológicas  e hidrometeorológicas  del  lugar, la existencia de agua, a juicio de la  Autoridad  Provincial  competente,    resulta    crítica,   las PETROLERAS  no  podrán  extraerla  o  hacer  uso  de  ella para sus necesidades industriales."
+            },
+            {
+              "numero-articulo": 11,
+              "texto": "Art.  11  : Todo uso de aguas superficiales o subterráneas que revistan el carácter  de  bienes públicos o que por su aptitud para satisfacer  usos  de  interés    general  la  Autoridad  Provincial competente las considere tales, estará  sujeto a la legislación y/o reglamentaciones que sobre otorgamiento de  la  concesión,  pago de canon  de  riego,  cantidad  a  extraer,  etc.,  existieren en cada Provincia."
+            },
+            {
+              "numero-articulo": 12,
+              "texto": "Art.  12  :  La  concesión  o  permiso  de extracción de aguas subterráneas  o  de  vertientes consideradas como  bienes  públicos generará una indemnización  en  favor  del  SUPERFICIARIO  de PESOS CERO  CON  TREINTA  CENTAVOS  ($  0,30)  por  metro cúbico extraído independientemente de la obligación de las PETROLERAS  de sujetarse a lo dispuesto en el Artículo anterior."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "LEY C 017319 1967 06 23 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "LEY C 021778 1978 04 14 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 13,
+              "texto": "Art.  13 : Ante la negativa del SUPERFICIARIO a que con medios propios  de la  actividad  petrolera  se  haga  uso  de  las  aguas superficiales  o  subterráneas,  las PETROLERAS deberán solicitar a la Autoridad competente, y a la de  Aplicación  de las Leyes 17.319 y  21.778  la  correspondiente  servidumbre  sirviendo    el  valor indicado  en el Artículo anterior como límite indemnizable respecto del agua."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TIERRAS DE SECANO (ARIDAS Y SEMIARIDAS)",
+          "articulo": [
+            {
+              "numero-articulo": 14,
+              "texto": "Art. 14 : La UNIDAD DE SUPERFICIE en TIERRAS DE SECANO para las indemnizaciones  que  se  establecen  en  la presente norma será de VEINTICINCO  KILOMETROS  CUADRADOS  (25  Km2),    a  cuyo  fin  los SUPERFICIARIOS  y  las  PETROLERAS  convendrán la división  de  los mismos en parcelas de esa área."
+            },
+            {
+              "numero-articulo": 15,
+              "texto": "Art.  15 : Cuando una misma UNIDAD DE SUPERFICIE fuere ocupada por más de un  permisionario y/o concesionario, las indemnizaciones que  aquí  se  establecen   deberán  pagarse  por  cada  permiso  o concesión en forma independiente  por  cada una de las empresas que efectúe la ocupación."
+            },
+            {
+              "numero-articulo": 16,
+              "texto": "Art.  16 : Por cada UNIDAD DE SUPERFICIE o fracción de TIERRAS DE SECANO en  las  que  se desarrollan las actividades descritas en el  Artículo 1 del presente  Decreto,  se  pagará  en  concepto  de gastos  de control de dichas actividades, la suma mensual básica de PESOS TRESCIENTOS  ($  300.-)  por  cada  permiso  o concesión, sin perjuicio  de  las  sumas  adicionales  que por otros conceptos  se establecen en la presente norma."
+            },
+            {
+              "numero-articulo": 17,
+              "texto": "Art.  17  :  Cuando  en  una  UNIDAD  DE SUPERFICIE se realice relevamiento sismográfico, se indemnizará por  una  sola  vez,  con PESOS  SESENTA  Y  SEIS  ($  66.-)  por  kilómetro  o  fracción  de extensión  de  línea  sísmica para la zona \"A\", PESOS NOVENTA Y DOS CON CUARENTA CENTAVOS ($  92,40)  para la zona \"B\", PESOS CINCUENTA CON SESENTA CENTAVOS ($ 50,60) para  la  zona \"C\" y PESOS TREINTA Y UNO ($ 31.-) para la zona \"D\"."
+            },
+            {
+              "numero-articulo": 18,
+              "texto": "Art.  18 : La ocupación de una propiedad con las instalaciones necesarias para  el  desarrollo  de las actividades de exploración, explotación  y transporte inicial de  hidrocarburos,  generará  una indemnización  mensual,  en  concepto de lucro cesante, que variará en función a la cantidad de pozos  que  se perforen por cada UNIDAD DE SUPERFICIE o fracción menor, y de la zona  en que se efectúe, de acuerdo con las respectivas escalas de los Anexos,  I, II, III y IV que forman parte integrante del presente Decreto.\n\nEntiéndese  por  transporte  inicial  de hidrocarburos al  que  se realiza  entre  el  pozo y la playa general  de  tanques  o  planta compresora o de tratamiento de gas."
+            },
+            {
+              "numero-articulo": 19,
+              "texto": "Art.  19  :  Las  indemnizaciones previstas en las escalas del Artículo anterior incluyen  las  siguientes  obras  e instalaciones necesarias para el desarrollo de las actividades:\n\na)  Cancha  de  pozo,  pileta  de  lodo y demás instalaciones  que sirvan  exclusivamente  al  pozo,  incluidas    las  destinadas  al personal asignado a la atención del pozo.\n\nb)  Caminos ubicados dentro de la misma UNIDAD DE  SUPERFICIE  que interconecten  pozos  entre  sí y con las instalaciones mayores y/o menores.\n\nc)  Oleoductos,  gasoductos,  acueductos,    líneas  eléctricas  y telefónicas  tendidas  dentro  de  la  misma UNIDAD  DE  SUPERFICIE destinados a conectar pozos con instalaciones  mayores y/o menores.\n\nd) Instalaciones mayores, que requieran entre DOS  MIL  QUINIENTOS METROS CUADRADOS (2500 m2) y DIEZ MIL METROS CUADRADOS (10.000  m2) comprendiendo:  Baterías  o  estaciones satélites, planta de bombeo de líquidos o de compresión o  de  separación de gases que integren sistemas de transporte inicial, campamento,  playas de materiales o de tanques afectados al servicio de más de un  pozo  y  plantas  de recuperación secundaria.\n\ne)  Instalaciones  menores, que requieren hasta DOS MIL QUINIENTOS METROS CUADRADOS (2500  m2)  comprendiendo:  tanques  cargadores de petróleo  que  sirvan  a  más de un pozo, depósitos provisorios  de petróleo incluidos los destinados  a  la  contención  de  derrames, piletas  de  purgas  de  oleoductos,  plantas  de  glicol, calderas calentadoras  de  petróleo  y  subestaciones  transformadoras    de energía eléctrica."
+            },
+            {
+              "numero-articulo": 20,
+              "texto": "Art.  20 : Cuando existan instalaciones que ocupen superficies mayores que  las  requeridas  por  las  denominadas  \"instalaciones mayores\"  a  que  se refiere el inciso d) del Artículo anterior  se denominarán \"instalaciones especiales\".\n\nDichas \"instalaciones  especiales\"  comprenderán  los  campamentos y/u  obras cuya construcción sea destinada al normal desarrollo  de las  actividades   de  exploración,  explotación  y  transporte  de hidrocarburos.\n\nSe consideran \"instalaciones  especiales\" aquellas cuya superficie exceda los DIEZ MIL METROS CUADRADOS  (10.000  m2)  y generarán una indemnización  equivalente  al  valor de DOS (2) pozos,  debiéndose abonar el valor de UN (1) pozo más  por  cada  hectárea  o fracción adicional  ocupada.  En  todos  los  casos  se  considerará,  a los efectos  indemnizatorios,  el valor del pozo N.1 de cada uno de los respectivos anexos, según la zona de que se trate.\n\nEsta  indemnización  deberá  abonarse    aun    existiendo   pozos petrolíferos    u   otras  instalaciones  en  la  misma  UNIDAD  DE SUPERFICIE y desde el  día que se ingrese a la UNIDAD DE SUPERFICIE para el comienzo de los trabajos."
+            },
+            {
+              "numero-articulo": 21,
+              "texto": "Art.  21 : Cuando en una UNIDAD DE SUPERFICIE no existan pozos de petróleo  y/o  gas  y ésta sea ocupada por instalaciones mayores para el desarrollo de la  exploración,  explotación  y/o transporte de  hidrocarburos,  cada  una de dichas instalaciones generará  por cada  UNIDAD DE SUPERFICIE o  fracción  menor  que  se  ocupe,  una indemnización  equivalente  al  valor  del  pozo N.1 de la zona que corresponda, de acuerdo con las escalas indicadas  en los Anexos I, II,  III  y  IV  establecidas para los pozos incluyendo  las  obras correspondientes al  Artículo  19  incisos b), c) y e) del presente Decreto."
+            },
+            {
+              "numero-articulo": 22,
+              "texto": "Art.  22 : Cuando en una UNIDAD DE SUPERFICIE no existan pozos de petróleo  y/o  gas  y ésta sea ocupada por instalaciones mayores para el desarrollo de la  exploración,  explotación  y/o transporte de  hidrocarburos,  cada  una de dichas instalaciones generará  por cada  UNIDAD DE SUPERFICIE o  fracción  menor  que  se  ocupe,  una indemnización  equivalente al CINCUENTA POR CIENTO (50 %) del valor del pozo N.1 de  la  zona  que  corresponda,  de  acuerdo  con  las escalas  indicadas  en los Anexos I, II, III y IV establecidas para los pozos incluyendo  las  obras  mencionadas en el Artículo 19 del presente Decreto."
+            },
+            {
+              "numero-articulo": 23,
+              "texto": "Art. 23 : Cuando en una UNIDAD DE SUPERFICIE simultáneamente a las  actividades   que  desarrollen  las  empresas  permisionarias, concesionarias o contratistas,  otras  empresas que no revistan tal carácter  aprovechen  hidrocarburos gaseosos,  deberán  indemnizar:\n\na)  Por  instalaciones  mayores   o  especiales  inherentes  a  su explotación abonarán el equivalente  al CINCUENTA POR CIENTO (50 %) del valor fijado para cada una de ellas  según  lo  indicado en los Artículos  18  (Anexos  I,  II,  III  y  IV),  20 y 21 del presente Decreto.\n\nb)  Por  gasoductos  que conecten las plantas compresoras  con  el gasoducto principal pagarán  por  mes y por kilómetro o fracción de extensión la suma de PESOS DOS CON  SESENTA  CENTAVOS ($ 2,60) para la zona \"A\", PESOS TRES CON SETENTA CENTAVOS ($  3,70) para la zona \"B\",  PESOS  DOS  ($ 2.-) para la zona \"C\" y PESOS UNO  CON  VEINTE CENTAVOS ($ 1,20) para la zona \"D\".\n\nc) Por pozos de quema  de  impurezas  de  purga de gasoductos o de separación de gases se abonará por mes la suma  de  PESOS CUATRO ($ 4)  para la zona \"A\", PESOS CINCO CON CINCUENTA CENTAVOS  ($  5,50) para  la  zona \"B\", PESOS TRES ($ 3.-) para la zona \"C\" y PESOS UNO CON NOVENTA CENTAVOS ($ 1,90) para la zona \"D\".\n\nLas indemnizaciones  establecidas precedentemente deberán abonarse aun  existiendo  pozos  petrolíferos,    instalaciones   mayores  o instalaciones    especiales  en  la  misma  UNIDAD  DE  SUPERFICIE."
+            },
+            {
+              "numero-articulo": 24,
+              "texto": "Art. 24 : Los caminos a que se refiere el Artículo 19 inciso b) del  presente  Decreto,  que  se  prolonguen  a  otras  UNIDADES DE SUPERFICIE no ocupadas por pozos de petróleo y/o gas o instalaciones  especiales,  pagarán  por  mes  y  por  kilómetro  o fracción de extensión la suma de PESOS CUATRO CON SESENTA  CENTAVOS ($ 4,60) para la zona \"A\", PESOS SEIS CON CINCUENTA CENTAVOS  ($  6 50)  para  la  zona \"B\", PESOS TRES CON CINCUENTA CENTAVOS ($ 3,50) para la zona \"C\"  y  PESOS DOS CON VEINTE CENTAVOS ($ 2,20) para la zona \"D\"."
+            },
+            {
+              "numero-articulo": 25,
+              "texto": "Art.  25  :  Los  oleoductos,  gasoductos,  acueductos, líneas telefónicas y eléctricas o instalaciones similares  a  que alude el Artículo 19 incisos c) y d) del presente Decreto que se  prolonguen a  otras  UNIDADES  DE SUPERFICIE no ocupadas por pozos de petróleo y/o  gas  o  instalaciones   especiales,  pagarán  por  mes  y  por kilómetro o fracción de extensión  la  suma  de  PESOS  CUATRO  CON SESENTA  CENTAVOS  ($  4,60)  para  la  zona  \"A\",  PESOS  SEIS CON CINCUENTA  CENTAVOS  ($  6,50)  para  la  zona  \"B\", PESOS TRES CON CINCUENTA  CENTAVOS  ($  3,50)  para  la zona \"C\" y PESOS  DOS  CON VEINTE CENTAVOS ($ 2,20) para la zona \"D\"."
+            },
+            {
+              "numero-articulo": 26,
+              "texto": "Art.  26  :  No  corresponde  el  pago previsto en el Artículo anterior  cuando  los  oleoductos, gasoductos,  acueductos,  líneas eléctricas  y  telefónicas    o    instalaciones  similares  corran paralelos y con una proximidad no mayor  a CINCO METROS (5 m) de la traza de los caminos troncales a que se refiere  el Artículo 27 y a los  señalados  en  el  Artículo  24,  ambos del presente  Decreto."
+            },
+            {
+              "numero-articulo": 27,
+              "texto": "Art.  27 : Los caminos troncales entre yacimientos pagarán una indemnización  por  mes  y por kilómetro o fracción de extensión la suma de PESOS NUEVE CON NOVENTA  CENTAVOS  ($  9,90)  para  la zona \"A\",  PESOS TRECE CON NOVENTA CENTAVOS ($ 13,90) para la zona  \"B\", PESOS SIETE  CON  SESENTA  ($ 7,60) para la zona \"C\" y PESOS CUATRO CON SESENTA CENTAVOS ($ 4,60) para la zona \"D\"."
+            },
+            {
+              "numero-articulo": 28,
+              "texto": "Art.  28  :  El  ancho máximo de los caminos troncales será de hasta VEINTE METROS (20  m) y de hasta DIEZ METROS (10 m) el de los caminos  que  interconecten    pozos,  en  ambos  casos  incluyendo banquinas y desagues.\n\nEl exceso de los anchos máximos  a  que  se  hace referencia en el párrafo  anterior  deberá  indemnizarse de acuerdo  con  lo  que  a continuación  se  indica  y  regirá  para  todos  aquellos  caminos construidos a partir del 1 de enero de 1982.\n\nHasta  UN  METRO (1 m) de exceso  el  equivalente  al  VEINTE  POR CIENTO (20 %)  del  valor  del pozo N 1 de la zona que corresponda, más de UN METRO (1 m) y hasta  DOS  METROS  (2  m)  el  TREINTA POR CIENTO  (30  %)  del  valor  de  referencia mencionado, más de  DOS METROS (2 m) y hasta TRES METROS (3  m)  el  CUARENTA  Y  CINCO POR CIENTO  (45  %)  del  mismo valor, más de TRES METROS (3 m) y hasta CUATRO METROS (4 m) el  SESENTA  POR CIENTO (60 %) del mismo valor, más de CUATRO METROS (4 m) y hasta  CINCO  METROS  (5  m) el CIENTO POR CIENTO (100 %) del valor de referencia. Lo que excede  de CINCO METROS  (5  m)  y  hasta  un  máximo  de  DIEZ METROS (10 m) deberá indemnizarse  con  el  equivalente al CIENTO CINCUENTA  POR  CIENTO (150 %) del valor del pozo  N.1  de  la zona que corresponda. En el caso de superarse los DIEZ METROS (10  m)  y  no  habiendo  acuerdo entre  las  partes se deberá someter la cuestión a la consideración de la Autoridad de Aplicación.\n\nLos pagos a  que  se  hace  referencia  precedentemente  se  harán efectivos por kilómetro de camino y por mes."
+            },
+            {
+              "numero-articulo": 29,
+              "texto": "Art.  29  :  Por  los  gasoductos,  poliductos,  oleoductos, acueductos,    líneas   eléctricas  y  telefónicas,  inherentes  al transporte  troncal  de hidrocarburos  se  pagará  por  mes  y  por kilómetro o fracción la  suma  de  PESOS NUEVE CON NOVENTA CENTAVOS ($ 9,90) para la zona \"A\", PESOS TRECE  CON  NOVENTA CENTAVOS ($ 13 90)  para la zona \"B\", PESOS SIETE CON SESENTA  ($  7,60)  para  la zona \"C\"  y PESOS CUATRO CON SESENTA CENTAVOS ($ 4,60) para la zona \"D\"."
+            },
+            {
+              "numero-articulo": 30,
+              "texto": "Art.  30  :  No  corresponde  el  pago previsto en el Artículo anterior cuando los oleoductos, gasoductos, acueductos, poliductos,  líneas  eléctricas  y  telefónicas    o  instalaciones similares inherentes al transporte troncal de hidrocarburos  corran paralelos y con una proximidad no mayor a CINCO METROS (5 m) de  la traza  de los caminos troncales a que se refiere el Artículo 27 y a los señalados  en  el  Artículo  24,  ambos  del  presente Decreto."
+            },
+            {
+              "numero-articulo": 31,
+              "texto": "Art.  31  : Las indemnizaciones establecidas en el Artículo 29 del presente Decreto,  para  los ductos troncales, deberán abonarse aun  existiendo  pozos  petrolíferos,    gasíferos,   instalaciones menores,   mayores  o  especiales  o  de  transporte  inicial    de hidrocarburos en la misma UNIDAD DE SUPERFICIE."
+            },
+            {
+              "numero-articulo": 32,
+              "texto": "Art. 32 : Por instalaciones especiales propias de los conductos de transporte  troncal  mencionados  en el Artículo 29 del presente Decreto, se abonará una indemnización  equivalente  al valor de DOS (2) pozos, debiéndose abonar el valor de UN (1) pozo  más  por cada hectárea o fracción adicional ocupada.\n\nPor  instalaciones  mayores  anexas  a  los  ductos  troncales  se abonará  una  indemnización  equivalente  a  UN  (1)  pozo por cada UNIDAD    DE  SUPERFICIE  o  fracción  menor  que  se  ocupe.\n\nPor instalaciones  menores anexas a los mismos ductos troncales se abonará una indemnización  equivalente  al CINCUENTA POR CIENTO (50 %)  del  valor  de  UN  (1) pozo por cada UNIDAD  DE  SUPERFICIE  o fracción menor que se ocupe.\n\nEn todos los casos se considerará,  a los efectos indemnizatorios, el valor del pozo N. 1 de cada una de  las  zonas que correspondan."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 006803 1968 00 00 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 33,
+              "texto": "Art. 33 : Cuando se trata de instalaciones en TIERRAS DE SECANO que  no sean las previstas en el presente Decreto o las condiciones agronómicas  del predio afectado difieran de las descriptas para la subzona en la  que  fuera  ubicado  y  las  partes  hagan uso de la opción  establecida  en  el  Artículo  3 del Decreto N.6803/68,  la Autoridad de Aplicación fijará los montos  indemnizatorios teniendo en cuenta los valores que aquí se establecen  para  las  que más se les asemejen."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 006803 1968 00 00 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 34,
+              "texto": "Art.  34  :  En  caso  de controversia por la aplicación de lo dispuesto para TIERRAS DE SECANO,  y siempre de común acuerdo entre las partes, se someterán a dictamen  de  la Comisión Asesora creada por el Decreto N. 6803/68."
+            },
+            {
+              "numero-articulo": 35,
+              "texto": "Art.  35  :  Las  indemnizaciones  establecidas en el presente Decreto  serán  devengadas desde el día en  que  se  ingrese  a  la UNIDAD DE SUPERFICIE  para el comienzo de los trabajos, hasta CINCO (5) años después de levantadas  las  instalaciones,  salvo para las previstas  en  el  Artículo  17  del  presente  Decreto,  para   el relevamiento  sismográfico,  que  se  pagará  por  una  sola  vez y mientras duren los trabajos."
+            },
+            {
+              "numero-articulo": 36,
+              "texto": "Art.  36 : Los pagos que deben realizarse como consecuencia de la aplicación  del  presente Decreto para TIERRAS DE SECANO deberán hacerse efectivos, por  esta  única  vez, dentro de los QUINCE (15) días contados a partir de la fecha de  vigencia  del  mismo.  En lo sucesivo  se  efectuarán  dentro  de  los  CINCO  (5)  días hábiles siguientes  al último día del mes que corresponda la indemnización, salvo convención  en  contrario,  devengándose  en  caso de mora un interés equivalente al que aplique el BANCO DE LA NACION  ARGENTINA en sus operaciones de descuento."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 006803 1968 00 00 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 37,
+              "texto": "Art. 37 : Cuando la ocupación de un predio cause perjuicios no previstos en el presente Decreto, se deberán abonar las indemnizaciones  establecidas precedentemente, sin que ello obste a que  los afectados  reclamen  independientemente  el  resarcimiento adicional  correspondiente  pudiendo  optar,  a este último efecto, por el procedimiento estipulado en el Artículo  3  del  Decreto  N.\n\n6803/68."
+            },
+            {
+              "numero-articulo": 38,
+              "texto": "Art.  38  :  En  las  zonas  del  país no comprendidas en esta reglamentación y que no dispongan de una  norma  específica que las contemple, las partes podrán, de común acuerdo, adoptar provisoriamente  los valores indemnizatorios establecidos  para  la zona  \"A\" de la zona  Cuyana-Neuquina,  que  se  establecen  en  el presente  Decreto,  hasta  tanto  se  fijen  los  que se refieren a dichas  zonas.  Si  el  valor  que  se  fijare en definitiva  fuese superior al pagado se deberá la diferencia  con  efecto retroactivo a la fecha de vigencia del presente Decreto o de la  iniciación  de los    trabajos   según  el  caso,  salvo  convenio  en  contrario."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_0",
+                    "ref": "DEC C 006803 1968 00 00 0002 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "REFERENCIAS_NORMATIVAS_1",
+                    "ref": "DEC C 002117 1990 00 00 0000 000 0000 000"
+                  }
+                ]
+              },
+              "numero-articulo": 39,
+              "texto": "Art. 39 : A los efectos del cumplimiento de lo establecido por el Artículo 2 del Decreto N. 6.803/68, modificado por el Decreto N.\n\n2.117/90, se utilizará el  precio de las lanas sucias, madre fina y madre cruza fina, para el cálculo  del  lucro  cesante en las zonas \"A\" y \"B\" y el precio de la carne vacuna para el  cálculo del lucro cesante  en  las  zonas  \"C\"  y  \"D\", que registre la DIRECCION  DE INFORMACION Y SISTEMAS de la SECRETARIA  DE  AGRICULTURA, GANADERIA Y PESCA y el precio del gas oil, para el cálculo  de  los gastos de control, que registre la DIRECCION NACIONAL DE COMBUSTIBLES  de  la SECRETARIA DE ENERGIA."
+            },
+            {
+              "numero-articulo": 40,
+              "texto": "Art.  40  : La fijación de los valores a que alude el Artículo anterior del presente  Decreto  se efectuarán mediante Resoluciones Conjuntas  de  las  SECRETARIAS  DE  ENERGIA    y  de  AGRICULTURA, GANADERIA Y PESCA."
+            },
+            {
+              "numero-articulo": 41,
+              "texto": "Art. 41 : Los valores establecidos en el presente Decreto para las TIERRAS  DE  SECANO serán de aplicación a partir del 1 de enero de 1993."
+            }
+          ]
+        },
+        {
+          "titulo-particion": "TIERRAS BAJO RIEGO",
+          "articulo": [
+            {
+              "numero-articulo": 42,
+              "texto": "Art.  42  : La UNIDAD DE SUPERFICIE en TIERRAS BAJO RIEGO para las indemnizaciones  que se establecen en la presente norma será de UNA HECTAREA (1 ha)."
+            },
+            {
+              "numero-articulo": 43,
+              "texto": "Art. 43 : Por cada UNIDAD DE SUPERFICIE de TIERRAS BAJO RIEGO o fracción  que se ocupe para exploración, explotación y/o transporte de hidrocarburos,  se  pagará  en  concepto de gastos de control de dichas actividades, la suma anual de  PESOS TREINTA Y SEIS ($ 36.-) por  cada  permiso  o  concesión,  sin  perjuicio    de  las  sumas adicionales  que  por otros conceptos se establecen en la  presente norma."
+            },
+            {
+              "numero-articulo": 44,
+              "texto": "Art.  44  :  Tierra  con  concesión  de  riego empadronada sin sistematizar:  La  ocupación parcial o total de una  propiedad  con tierra sin sistematizar  para  el  desarrollo  de  las  actividades señaladas  en  los  Artículos  4 y 5 del presente Decreto, generará una indemnización anual, en concepto  de  lucro  cesante  de  PESOS VEINTE  ($  20.-)  por  hectárea  o fracción menor mientras dure la ocupación y aun cuando la misma dure  menos  de  un año, con más el pago  de los conceptos no exonerables que corresponden  al  derecho de riego de la superficie afectada."
+            },
+            {
+              "numero-articulo": 45,
+              "texto": "Art.  45  :  Efectos de la cesación de la actividad: Cesada la actividad en una propiedad  cuyas  características se indican en el Artículo  anterior,  la  PETROLERA  devolverá  las  tierras  previa limpieza de la superficie y libre de instalaciones."
+            },
+            {
+              "numero-articulo": 46,
+              "texto": "Art.  46  :  Tierra sistematizada sin uso actual o con cultivo anual implantado: Sistematizada  la  tierra  o realizado el cultivo anual, la PETROLERA que ocupe una propiedad para  el  desarrollo de las  actividades  señaladas  en  los  Artículos  4 y 5 del presente Decreto,  abonará  una  indemnización anual, en concepto  de  lucro cesante, por hectárea ocupada  o  fracción  menor  de  acuerdo a lo fijado  en  el  Anexo  V,  punto 1, que forma parte integrante  del presente Decreto."
+            },
+            {
+              "numero-articulo": 47,
+              "texto": "Art.  47  :  Efectos de la cesación de la actividad: Cesada la actividad en una propiedad  cuyas  características se indican en el Artículo  anterior,  la  PETROLERA  devolverá  las  tierras  previa limpieza de la superficie, libre de instalaciones  y sistematizada.\n\nConcluirá  la  obligación del pago de las indemnizaciones,  siempre que el SUPERFICIARIO  esté  en término de iniciar las labores de la tierra para el cultivo anual  próximo;  en caso contrario se deberá abonar  el  lucro cesante correspondiente a  UN  (1)  año  más,  de acuerdo con lo  dispuesto  en el Artículo 46 del presente Decreto y además se deberá abonar el importe correspondiente a la finalización de actividades  según  el  Anexo VI, punto I que forma parte integrante del presente Decreto."
+            },
+            {
+              "numero-articulo": 48,
+              "texto": "Art.  48 : Cultivos permanentes: La ocupación de una propiedad para el desarrollo  de las actividades señaladas en los Artículos 4 y  5 del presente Decreto  generará  una  indemnización  anual,  en concepto  de lucro cesante, según la especie y por planta destruida o afectada  que  se  liquidará de conformidad con el Anexo V, punto II de acuerdo a la edad  que  tuviera  la plantación al momento del ingreso de la PETROLERA a la propiedad,  mientras dure la ocupación y aun cuando la misma sea menor de UN (1) año."
+            },
+            {
+              "numero-articulo": 49,
+              "texto": "Art.  49  :  Efectos de la cesación de la actividad: Cesada la actividad se abonará  una  indemnización  por  planta  destruida  o afectada,  según  la  especie  y  edad de las mismas al momento del ingreso de la PETROLERA a la propiedad,  de  acuerdo  con la escala fijada  en  el  Anexo  VI, punto II que forma parte integrante  del presente Decreto. La PETROLERA  previamente devolverá la superficie que haya tenido afectada, libre de  instalaciones  y en condiciones de  iniciar  el  laboreo  de  la  tierra. En los casos en  que  las PETROLERAS hayan hecho efectivo el pago en concepto de implantación,  al  hacer  su  ingreso  a   la  propiedad  afectada, quedarán exentas de la indemnización que a  tal  efecto  se fija en este Artículo."
+            },
+            {
+              "numero-articulo": 50,
+              "texto": "Art.  50 : Construcción de caminos e instalaciones de líneas y cañerías: Cuando  se  construyan  caminos  y  sobre  los  mismos se instalan  gasoductos,  acueductos,  oleoductos, líneas telefónicas, eléctricas, etc. solamente se abonará la indemnización correspondiente  a  la franja afectada.  Cuando  se  ensanchen  los caminos, solamente se  abonará  la indemnización correspondiente al aumento de superficie o plantas afectadas."
+            },
+            {
+              "numero-articulo": 51,
+              "texto": "Art. 51 : Obras en los caminos que no impidan su uso normal: No sea    abonará   indemnización  adicional  cuando  en  los  caminos existentes al momento  de  ingresar  al  campo,  se  tiendan líneas (sísmicas,  eléctricas,  telefónicas, etc.) o cañerías (oleoductos, gasoductos, etc.) que no impidan su uso normal."
+            },
+            {
+              "numero-articulo": 52,
+              "texto": "Art. 52 : Cuando la ocupación de propiedades para el desarrollo de las  actividades  señaladas  en los Artículos 4 y 5 del presente Decreto  afectare  la  continuidad,   cantidad  o  calidad  de  los sistemas de riego, se deberán abonar las  indemnizaciones  por  los daños  y  perjuicios  que se hayan causado a las tierras o cultivos existentes, como así también  proveer  lo  necesario  para poner en funcionamiento y en su caso reparar dichos sistemas."
+            },
+            {
+              "numero-articulo": 53,
+              "texto": "Art.  53 : Cuando la PETROLERA no necesite contar con el total de la extensión tenida inicialmente, podrá restituir al SUPERFICIARIO  parte  de  la superficie ocupada, no pudiendo ser la extensión de la misma inferior  a  la  fracción que se retiene y de acuerdo con lo dispuesto en los Artículos  44, 46 y 48 del presente Decreto, salvo conformidad expresa de ambas partes."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 006803 1968 00 00 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 54,
+              "texto": "Art.  54  :  Cuando  se trate de instalaciones en TIERRAS BAJO RIEGO  que no sean las previstas  en  el  presente  Decreto  y  las partes hagan  uso  de  la  opción  establecida en el Artículo 3 del Decreto N. 6.803/68, la Autoridad de Aplicación fijará  los  montos indemnizatorios   teniendo  en  cuenta  los  valores  que  aquí  se establecen para las que más se les asemejen."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 006803 1968 00 00 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 55,
+              "texto": "Art.  55  :  En  caso  de controversia por la aplicación de lo dispuesto  para TIERRAS BAJO RIEGO,  y  siempre  de  común  acuerdo entre las partes,  se  someterán  a dictamen de la Comisión Asesora creada por el Decreto N. 6.803/68."
+            },
+            {
+              "numero-articulo": 56,
+              "texto": "Art.  56  : Las indemnizaciones establecidas para TIERRAS BAJO RIEGO serán devengadas  desde  el  día  en  que  se  ingrese  a  la propiedad para el comienzo de los trabajos."
+            },
+            {
+              "numero-articulo": 57,
+              "texto": "Art.  57  :  Los pagos que deben efectuarse como indemnización para TIERRAS BAJO RIEGO  deberán  hacerse efectivos, por esta única vez, dentro de los QUINCE (15) días  contados  a partir de la fecha de vigencia del mismo. En lo sucesivo se efectuarán  con  fecha  30 de  junio  de  cada  año y en UNA (1) sola vez, salvo convención en contrario. En caso de  mora  se  aplicará  sobre  dichos  pagos  un interés  equivalente al que perciba el BANCO DE LA NACION ARGENTINA en sus operaciones de descuento."
+            },
+            {
+              "referencias-normativas": {
+                "referencia-normativa": {
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "DEC C 006803 1968 00 00 0000 000 0000 000"
+                }
+              },
+              "numero-articulo": 58,
+              "texto": "Art. 58 : Los valores establecidos en el presente Decreto para TIERRAS    BAJO    RIEGO  serán  actualizados  anualmente  mediante Resolución Conjunta de las SECRETARIAS DE ENERGIA y DE AGRICULTURA, GANADERIA  Y  PESCA,  en  base  a  la variación de los costos  de  implantación y producción de los cultivos  considerados para la determinación  de  los  presentes  valores, que elaborará a tal efecto la Comisión Asesora creada por el  Decreto  N. 6.803/68."
+            },
+            {
+              "numero-articulo": 59,
+              "texto": "Art. 59 : Los valores establecidos en el presente Decreto para TIERRAS  BAJO RIEGO se aplicarán para los pagos correspondientes al aÑo 1992.  Para  las  indemnizaciones  correspondientes  a los años 1989, 1990 y 1991 se fijarán los valores indemnizatorios por  medio de  una  Resolución  Conjunta  de  las  SECRETARIAS DE ENERGIA y de AGRICULTURA, GANADERIA Y PESCA, en base al  mecanismo  descripto en el Artículo anterior y dentro de los TREINTA (30) días de  la fecha del dictado del presente Decreto."
+            },
+            {
+              "numero-articulo": 60,
+              "texto": "Art.  60 : Derógase el Decreto N. 2.173 de fecha 4 de setiembre de 1979 y el  Artículo  28  del  Decreto 287 de fecha 1 de marzo de 1988."
+            },
+            {
+              "numero-articulo": 61,
+              "texto": "Art.  61 : El presente acto entrará en vigencia en la fecha de su dictado."
+            },
+            {
+              "numero-articulo": 62,
+              "texto": "Art. 62 : Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+            }
+          ],
+          "firmantes": {
+            "firmantes": "MENEM-CAVALLO"
+          }
+        }
+      ],
+      "anexo": [
+        {
+          "anexo": "A",
+          "titulo-anexo": "ANEXO I ZONA \"A\" ESCALA DE INDEMNIZACIONES",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "POZO      $      POZO        $       POZO       $  1       66.00    36      670.90      71      832.00  2      132.00    37      676.50      72      835.20  3      176.10    38      682.20      73      838.30  4      220.30    39      687.80      74      841.40  5      239.60    40      693.40      75      844.60  6      258.90    41      699.10      76      847.70  7      278.20    42      704.70      77      850.90  8      297.50    43      710.30      78      854.00  9      316.90    44      716.00      79      857.20 10      336.20    45      721.60      80      860.30 11      355.50    46      727.20      81      863.50 12      374.80    47      732.90      82      866.60 13      394.10    48      738.50      83      869.80 14      413.40    49      744.20      84      872.90 15      432.70    50      749.80      85      876.10 16      452.00    51      753.90      86      879.20 17      471.30    52      758.00      87      882.30 18      482.70    53      762.10      88      885.50 19      494.20    54      766.20      89      888.60 20      505.60    55      770.30      90      891.80 21      517.00    56      774.40      91      894.90 22      528.40    57      778.50      92      898.10 23      539.80    58      782.60      93      901.20 24      551.20    59      786.70      94      904.40 25      562.60    60      790.80      95      907.50 26      574.10    61      794.80      96      910.70 27      585.50    62      798.90      97      913.80 28      596.90    63      803.00      98      917.00 29      608.30    64      807.10      99      920.10 30      619.70    65      811.20     100      923.20 31      631.10    66      815.30 32      642.60    67      819.40 33      654.00    68      822.60 34      659.60    69      825.70 35      665.20    70      828.90  EN CASO  DE  EXISTIR MAS DE 100 POZOS EN LA UNIDAD DE SUPERFICIE SE INDEMNIZARA CON EL VALOR EQUIVALENTE A LOS 100 POZOS."
+          }
+        },
+        {
+          "anexo": "B",
+          "titulo-anexo": "ANEXO II ZONA \"B\" ESCALA DE INDEMNIZACIONES",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "POZO     $       POZO      $        POZO       $   1     92.40      36     921.00      71      1123.70   2    184.80      37     928.30      72      1127.40   3    246.40      38     935.50      73      1131.10   4    308.00      39     942.80      74      1134.90   5    334.50      40     950.00      75      1138.60   6    361.00      41     957.30      76      1142.30   7    387.60      42     964.50      77      1146.10   8    414.10      43     971.80      78      1149.80   9    440.60      44     979.00      79      1153.50  10    467.20      45     986.30      80      1157.30  11    493.70      46     993.50      81      1161.00  12    520.20      47    1000.80      82      1164.70  13    546.80      48    1008.00      83      1168.50  14    573.30      49    1015.20      84      1172.20  15    599.90      50    1022.50      85      1175.90  16    626.40      51    1027.60      86      1179.70  17    652.90      52    1032.60      87      1183.40  18    668.30      53    1037.70      88      1187.10  19    683.70      54    1042.80      89      1190.90  20    699.10      55    1047.90      90      1194.60  21    714.50      56    1052.90      91      1198.30  22    729.90      57    1058.00      92      1202.10  23    745.30      58    1063.10      93      1205.80  24    760.70      59    1068.10      94      1209.50  25    776.10      60    1073.20      95      1213.30  26    791.50      61    1078.30      96      1217.00  27    806.90      62    1083.40      97      1220.70  28    822.30      63    1088.40      98      1224.50  29    837.70      64    1093.50      99      1228.20  30    853.10      65    1098.60     100      1231.90  31    868.50      66    1103.70  32    883.90      67    1108.70  33    899.30      68    1112.50  34    906.50      69    1116.20  35    913.80      70    1119.90  EN CASO  DE  EXISTIR MAS DE 100 POZOS EN LA UNIDAD DE SUPERFICIE SE INDEMNIZARA CON EL VALOR EQUIVALENTE A LOS 100 POZOS."
+          }
+        },
+        {
+          "anexo": "C",
+          "titulo-anexo": "ANEXO III ZONA \"C\" ESCALA DE INDEMNIZACIONES",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "POZO      $       POZO       $      POZO      $   1      50.60      36     530.90     71     674.80   2     101.30      37     535.80     72     677.80   3     135.40      38     540.70     73     680.80   4     169.50      39     545.60     74     683.80   5     184.70      40     550.50     75     686.80   6     200.00      41     555.40     76     689.80   7     215.30      42     560.30     77     692.80   8     230.50      43     565.20     78     695.80   9     245.80      44     570.10     79     698.80  10     261.00      45     575.00     80     701.80  11     276.30      46     579.90     81     704.90  12     291.60      47     584.80     82     707.90  13     306.80      48     589.60     83     710.90  14     322.10      49     594.50     84     713.90  15     337.30      50     599.40     85     716.90  16     352.60      51     603.20     86     719.90  17     367.80      52     606.90     87     722.90  18     377.10      53     610.60     88     725.90  19     386.40      54     614.30     89     728.90  20     395.70      55     618.10     90     731.90  21     404.90      56     621.80     91     734.90  22     414.20      57     625.50     92     737.90  23     423.50      58     629.20     93     740.90  24     432.80      59     633.00     94     743.90  25     442.00      60     636.70     95     746.90  26     451.30      61     640.40     96     749.90  27     460.60      62     644.10     97     752.90  28     469.90      63     647.90     98     756.00  29     479.10      64     651.60     99     759.00  30     488.40      65     655.30    100     762.00  31     497.70      66     659.00  32     507.00      67     662.80  33     516.20      68     665.80  34     521.10      69     668.80  35     526.00      70     671.80  EN CASO  DE  EXISTIR MAS DE 100 POZOS EN LA UNIDAD DE SUPERFICIE SE INDEMNIZARA CON EL VALOR EQUIVALENTE A LOS 100 POZOS."
+          }
+        },
+        {
+          "anexo": "D",
+          "titulo-anexo": "ANEXO IV ZONA \"D\" ESCALA DE INDEMNIZACIONES",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "POZO      $      POZO       $       POZO       $    1     31.00     36      360.90     71      494.50    2     62.00     37      365.20     72      497.60    3     83.30     38      369.40     73      500.80    4    104.60     39      373.70     74      504.00    5    114.90     40      378.00     75      507.10    6    125.20     41      382.30     76      510.30    7    135.60     42      386.50     77      513.50    8    145.90     43      390.80     78      516.70    9    156.20     44      395.10     79      519.80   10    166.50     45      399.40     80      523.00   11    176.90     46      403.60     81      526.20   12    187.20     47      407.90     82      529.30   13    197.50     48      412.20     83      532.50   14    207.80     49      416.50     84      535.70   15    218.20     50      420.70     85      538.90   16    228.50     51      424.30     86      542.00   17    238.80     52      427.90     87      545.20   18    245.60     53      431.50     88      548.40   19    252.50     54      435.10     89      551.50   20    259.30     55      438.70     90      554.70   21    266.10     56      442.30     91      557.90   22    273.00     57      445.90     92      561.00   23    279.80     58      449.50     93      564.20   24    286.60     59      453.00     94      567.40   25    293.40     60      456.60     95      570.60   26    300.30     61      460.20     96      573.70   27    307.10     62      463.80     97      576.90   28    313.90     63      467.40     98      580.10   29    320.80     64      471.00     99      583.20   30    327.60     65      474.60    100      586.40   31    334.40     66      478.20   32    341.30     67      481.80   33    348.10     68      484.90   34    352.40     69      488.10   35    356.60     70      491.30  EN CASO  DE  EXISTIR MAS DE 100 POZOS EN LA UNIDAD DE SUPERFICIE SE INDEMNIZARA CON EL VALOR EQUIVALENTE A LOS 100 POZOS."
+          }
+        },
+        {
+          "anexo": "E",
+          "titulo-anexo": "ANEXO V INDEMNIZACIONES EN CULTIVOS",
+          "articulo": {
+            "numero-articulo": 1,
+            "texto": "1. INDEMNIZACION EN CULTIVOS ANUALES POR HECTAREA Y POR AÑO:                   $    1.823,27 2. INDEMNIZACION EN CULTIVOS PERENNES POR PLANTA Y POR AÑO: EDAD DE LA PLANTACION                                             VID AL INGRESO  OLIVO   NOGAL  MANZAN.  PERA   MEMBRILLO  PARRAL DE LA CIA. PETROLERA PRIMERO     0.22    1.61  17.86    12.20     2.66     0.57 SEGUNDO     0.26    1.85  20.07    13.71     2.99     0.66 TERCERO     0.29    2.09  22.37    15.27     3.33     0.74 CUARTO      0.32    2.33  24.77    16.92     3.69     0.71 QUINTO      0.36    2.62  26.34    17.99     3.93 SEXTO       0.40    2.91  27.14    18.53     4.05 SEPTIMO     0.44    3.20  26.27    17.94     3.92 OCTAVO      0.48    3.51 NOVENO      0.53    3.81 DECIMO      0.56    4.09 MONTE EN PLENA PRODUCCION (1)         0.59    4.31  29.30    20.01     4.37     0.80 EDAD DE LA PLANTACION   VID  DURAZ- AL INGRESO  VIÑA   NERO   CIRUELO  DAMASCO  CEREZO   GUINDO DE LA CIA. PETROLERA PRIMERO     0.05   8.13    2.65     1.16     39.56    39.56 SEGUNDO     0.06   9.37    3.05     1.33     45.58    45.58 TERCERO     0.07  10.65    3.47     1.51     51.84    51.84 CUARTO            10.95    3.57     1.56     53.30    53.30 MONTE EN PLENA PRODUCCION (1)           0.07  12.30    4.01     1.75     59.87    59.87 (1) SE CONSIDERA  MONTE  EN  PLENA  PRODUCCION  EN  NOGAL  Y  OLIVO DESPUES  DEL  DECIMO  AÑO; EN PERA, MANZANO Y MEMBRILLO DESPUES DEL SEPTIMO AÑO; EN VID PARRAL  DESPUES  DEL  CUARTO  AÑO,  EN VID VIÑA DESPUES  DEL  TERCERO  Y  EN  EL  RESTO  DESPUES  DEL  CUARTO.\n\n        ALAMO - VALOR DE LA PRODUCCION        POR AÑO SEGUN EDAD DE LAS PLANTAS    EDAD DE LAS PLANTAS          INDEMNIZACION POR         (AÑOS)                       ARBOL ($)           1                          0.07           2                          0.29           3                          0.66           4                          1.11           5                          1.69           6                          2.35           7                          3.01           8                          3.67           9                          4.26          10                          4.70          11                          4.99          12                          5.21          13                          5.36          14                          5.51          15                          5.65          16                          5.80          17                          5.95          18                          6.08          19                          6.21          20                          6.33          21                          6.44          22                          6.55          23                          6.65          24                          6.75          25                          6.84          26                          6.93          27                          7.02          28                          7.09          29                          7.16          30                          7.24          31                          7.30          32                          7.35          33                          7.40          34                          7.44          35                          7.49"
+          }
+        },
+        {
+          "anexo": "F",
+          "titulo-anexo": "ANEXO VI INDEMNIZACIONES EN CULTIVOS",
+          "articulo": {
+            "numero-articulo": 1,
+            "titulo-articulo": "INDEMNIZACION POR HECTAREA AL CESAR LA ACTIVIDAD PETROLERA",
+            "texto": "1. INDEMNIZACION EN CULTIVOS ANUALES POR HECTAREA Y POR AÑO:                $   1.442,90 2. INDEMNIZACION EN CULTIVOS PERENNES POR PLANTA Y POR AÑO: EDAD DE LA PLANTACION                                             VID AL INGRESO  OLIVO  NOGAL   MANZAN.  PERA   MEMBRILLO   PARRAL DE LA CIA. PETROLERA PRIMERO     5.00    5.00   22.49    22.49    22.49     0.39 SEGUNDO    25.28   25.28   41.90    41.90    41.90     1.76 TERCERO    46.06   46.06   61.99    61.99    61.99     2.94 CUARTO     67.10   67.10   83.08    83.08    83.08     2.58 QUINTO     91.45   91.45   96.82    96.82    96.82 SEXTO     117.01  117.01  103.87   103.87   103.87 SEPTIMO   141.39  141.39   96.20    96.20    96.20 OCTAVO    168.24  168.24 NOVENO    194.15  194.15 DECIMO    218.58  218.58 MONTE EN PLENA PRODUCCION (1)          218.58  218.58    96.20   96.20    96.20      2.58 EDAD DE LA PLANTACION   VID   DURAZ- AL INGRESO   VIÑA   NERO   CIRUELO  DAMASCO  CEREZO  GUINDO DE LA CIA. PETROLERA PRIMERO      0.82  19.24    19.24    19.24   19.24    19.24 SEGUNDO      1.71  33.79    33.79    33.79   33.79    33.79 TERCERO      2.32  48.93    48.93    48.93   48.93    48.93 CUARTO             52.46    52.46    52.46   52.46    52.46 MONTE EN PLENA PRODUCCION (1)            2.32  52.46    52.46    52.46   52.46    52.46 (1) SE CONSIDERA  MONTE  EN  PLENA  PRODUCCION  EN  NOGAL  Y  OLIVO DESPUES  DEL  DECIMO  AÑO; EN PERA, MANZANO Y MEMBRILLO DESPUES DEL SEPTIMO AÑO; EN VID PARRAL  DESPUES  DEL  CUARTO  AÑO,  EN VID VIÑA DESPUES DEL TERCERO Y EN EL RESTO DESPUES DEL CUARTO."
+          }
+        }
+      ],
+      "id-infojus": "DN19930002000"
+    }
+  }
+}

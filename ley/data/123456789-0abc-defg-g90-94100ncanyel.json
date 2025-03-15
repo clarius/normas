@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g90-94100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1558095099144,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4706-nacional-lnn0014909-1905-09-20"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014909",
+      "numero-norma": 4706,
+      "timestamp": "2019-05-17T08:29:36",
+      "timestamp-m": "2019-05-17T08:29:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1905-09-20",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004706 1905 09 20",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.706",
+          "BUENOS AIRES, 20 DE SEPTIEMBRE DE 1905"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1905 10 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190656",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.706",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-17",
+      "texto-original": {
+        "file-name": "N0014909.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014909pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO SUPLEMENTARIO AL DEPARTAMENTO DE JUSTICIA E INSTRUCCION PUBLICA DESTINADA A SATISFACER DIVERSOS CREDITOS PENDIENTES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014909"
+    }
+  }
+}

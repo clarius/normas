@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g67-36100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583907033,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1160-nacional-lnn0016376-1882-01-06"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016376",
+      "numero-norma": 1160,
+      "timestamp": "2013-06-07T12:43:20",
+      "timestamp-m": "2013-06-07T12:43:20",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1882-01-06",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001160 1882 01 06",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 1.160",
+          "BUENOS AIRES, 6 DE ENERO DE 1882"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1882 01 06"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018880059",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.160",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-PRESUPUESTO GENERAL DE ADMINISTRACION PARA EL AÑO 1882"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Economía y finanzas"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "derecho financiero"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "presupuesto nacional"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/presupuesto/presupuesto nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "ley de presupuesto",
+                "derecho económico financiero",
+                "presupuesto general de la Nación",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "presupuesto",
+            "derecho financiero (Economía y finanzas)",
+            "presupuesto nacional",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "Economía y finanzas",
+            "ley de presupuesto (presupuesto nacional)",
+            "presupuesto general de la Nación (presupuesto nacional)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016376"
+    }
+  }
+}

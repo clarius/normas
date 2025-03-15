@@ -1,0 +1,94 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g38-09000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1566483022632,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "9070-nacional-lnn0009083-1912-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0009083",
+      "numero-norma": 9070,
+      "timestamp": "2019-08-22T10:12:22",
+      "timestamp-m": "2019-08-22T10:12:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1912-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 009070 1912 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 9.070",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1912"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1912 10 18",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1912 10 18"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019130883",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 9.070",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-08-22",
+      "texto-original": {
+        "file-name": "N0009083.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0009083pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE TERRENOS PARA CONSTRUCCION DE SUBTERRANEOS CONCEDIDA A EMPRESA DE TRANVIAS ANGLO ARGENTINA LIMITADA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "dominio del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "dominio del Estado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0009083"
+    }
+  }
+}

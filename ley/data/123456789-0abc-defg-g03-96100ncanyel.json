@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g03-96100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584298330,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "350-nacional-lnn0016930-1869-10-08"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016930",
+      "numero-norma": 350,
+      "timestamp": "2013-06-07T12:43:21",
+      "timestamp-m": "2013-06-07T12:43:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1869-10-08",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000350 1869 10 08",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 0.350",
+          "BUENOS AIRES, 8 DE OCTUBRE DE 1869"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1869 10 08"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018800907",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 350",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "SIN EFICACIA POR OBJETO CUMPLIDO-CREACION DEL EMPLEO DE INSPECTOR GENERAL DE TELEGRAFOS DE LA REPUBLICA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Comunicaciones"
+            },
+            "preferido": {
+              "termino": "Comunicaciones"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "telégrafo"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/telegrafía"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "telégrafo",
+                "radiotelegrafía",
+                "servicio radiotelegráfico",
+                "medios de comunicación",
+                "líneas telegráficas",
+                "servicio telegráfico"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "servicio radiotelegráfico (telegrafía)",
+            "telegrafía",
+            "líneas telegráficas (telegrafía)",
+            "radiotelegrafía (telegrafía)",
+            "servicio postal",
+            "medios de difusión (Comunicaciones)",
+            "medios de comunicación (Comunicaciones)",
+            "servicio telegráfico (telegrafía)",
+            "Comunicaciones",
+            "telégrafo (telegrafía)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016930"
+    }
+  }
+}

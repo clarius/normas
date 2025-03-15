@@ -1,0 +1,84 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g21-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584214323,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "8130-nacional-lnn0026312-1911-07-19"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026312",
+      "numero-norma": 8130,
+      "timestamp": "2013-06-07T12:43:15",
+      "timestamp-m": "2013-06-07T12:43:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1911-07-19",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 008130 1911 07 19",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 8130",
+          "BUENOS AIRES, 19 DE JULIO DE 1911"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1911 07 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190815",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 8.130",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 11387 (B.O. 23-12-26),PERO LEY 11387 SIN EFICACIA CON NUEVO REGIMEN POR LEY 19945 (B.O. 19-12-72)-PADRON ELECTORAL"
+      },
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "padrón electoral"
+          },
+          "preferido": {
+            "termino": "Derecho constitucional/derechos políticos/derecho electoral/registros electorales/registro de electores/padrón electoral"
+          },
+          "sinonimos": {
+            "termino": "inscripción de electores"
+          }
+        },
+        "suggest": {
+          "termino": [
+            "Derecho constitucional",
+            "derechos políticos",
+            "derecho electoral",
+            "registros electorales",
+            "inscripción de electores (registro de electores)",
+            "registro de electores",
+            "padrón electoral"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026312"
+    }
+  }
+}

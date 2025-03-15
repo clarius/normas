@@ -1,0 +1,112 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g36-45200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584556203,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20087-nacional-lnn0025463-1973-01-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025463",
+      "numero-norma": 20087,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-01-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020087 1973 01 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20087",
+          "BUENOS AIRES, 9 DE ENERO DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 01 17",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 01 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003319730145",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.087",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20510 (B.O. 28-5-73)-MODIFICA REGIMEN DE DETENIDOS DE MAXIMA PELIGROSIDAD"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "régimen penitenciario"
+            },
+            "preferido": {
+              "termino": "Derecho penal/régimen penitenciario"
+            },
+            "sinonimos": {
+              "termino": [
+                "sistema carcelario",
+                "régimen carcelario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "internos"
+            },
+            "preferido": {
+              "termino": "Derecho penal/régimen penitenciario/personas privadas de la libertad"
+            },
+            "sinonimos": {
+              "termino": [
+                "condenado",
+                "penado",
+                "personas en situación de cárcel",
+                "sistema carcelario",
+                "régimen carcelario",
+                "internos",
+                "personas en estado de cárcel"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sistema carcelario (régimen penitenciario)",
+            "internos (personas privadas de la libertad)",
+            "personas en estado de cárcel (personas privadas de la libertad)",
+            "Derecho penal",
+            "condenado (personas privadas de la libertad)",
+            "penado (personas privadas de la libertad)",
+            "personas privadas de la libertad",
+            "régimen carcelario (régimen penitenciario)",
+            "régimen penitenciario",
+            "personas en situación de cárcel (personas privadas de la libertad)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025463"
+    }
+  }
+}

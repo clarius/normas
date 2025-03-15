@@ -1,0 +1,96 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g05-07000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557404186727,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11036-nacional-lnn0007050-1920-08-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0007050",
+      "numero-norma": 11036,
+      "timestamp": "2019-05-09T08:10:18",
+      "timestamp-m": "2019-05-09T08:10:18",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1920-08-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011036 1920 08 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11.036",
+          "BUENOS AIRES, 25 DE AGOSTO DE 1920"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1920 10 05",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1920 10 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019200034",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.036",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-09",
+      "texto-original": {
+        "file-name": "N0007050.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0007050pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO SUPLEMENTARIO AL DEPARTAMENTO DE OBRAS PUBLICAS PARA ABONAR FLETES ADEUDADOS A LA COMPAÑIA DE FERROCARRILES DE ENTRE RIOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0007050"
+    }
+  }
+}

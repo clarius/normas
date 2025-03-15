@@ -1,0 +1,107 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g08-80200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1597154888789,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11827-nacional-lnn0020880-1933-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0020880",
+      "numero-norma": 11827,
+      "timestamp": "2020-08-11T10:44:25",
+      "timestamp-m": "2020-08-11T10:44:25",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1933-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011827 1933 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11.827",
+          "BUENOS AIRES, 30 DE SEPTIEMBRE DE 1933"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1933 10 13",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1933 10 13"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019400513",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.827",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-08-11",
+      "texto-original": {
+        "file-name": "N0020880.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0020880pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO EXTRAORDINARIO AL MINISTERIO DE JUSTICIA PARA ADQUIRIR COLECCIONES ARQUEOLOGICAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0020880"
+    }
+  }
+}

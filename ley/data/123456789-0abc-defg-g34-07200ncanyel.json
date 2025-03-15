@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g34-07200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1605726214558,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "16501-nacional-lnn0027043-1964-10-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027043",
+      "numero-norma": 16501,
+      "timestamp": "2020-11-18T15:54:55",
+      "timestamp-m": "2020-11-18T15:54:55",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1964-10-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 016501 1964 10 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 16501",
+          "BUENOS AIRES, 9 DE OCTUBRE DE 1964"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1964 10 31",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1964 10 31"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  024 C19642010",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 16.501",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-11-18",
+      "texto-original": {
+        "file-name": "N0027043.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0027043pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "MODIFICA LEY 11386 SOBRE PENALIDADES A INFRACTORES AL ENROLAMIENTO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "enrolamiento"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/derecho militar/Fuerzas Armadas/servicio militar/enrolamiento"
+            },
+            "sinonimos": {
+              "termino": [
+                "servicio de conscripción",
+                "defensa nacional"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "faltas electorales"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/derechos políticos/derecho electoral/régimen penal electoral/faltas electorales"
+            },
+            "sinonimos": {
+              "termino": "infracciones electorales"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "infracciones electorales (faltas electorales)",
+            "Derecho constitucional",
+            "derechos políticos",
+            "servicio militar",
+            "enrolamiento",
+            "faltas electorales",
+            "derecho electoral",
+            "defensa nacional (Defensa y seguridad)",
+            "derecho militar",
+            "servicio de conscripción (servicio militar)",
+            "régimen penal electoral",
+            "Defensa y seguridad",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027043"
+    }
+  }
+}

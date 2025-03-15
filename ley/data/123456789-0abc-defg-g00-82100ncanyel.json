@@ -1,0 +1,89 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g00-82100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584238670,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5526-nacional-lnn0012800-1908-06-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012800",
+      "numero-norma": 5526,
+      "timestamp": "2013-12-19T14:38:38",
+      "timestamp-m": "2013-12-19T14:38:38",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1908-06-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005526 1908 06 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.526",
+          "BUENOS AIRES, 5 DE JUNIO DE 1908"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1908 06 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190739",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.526",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-12-19",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE TERRENOS PARA ENSANCHE DE LA CASA DE LA MONEDA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "dominio del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "dominio del Estado",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012800"
+    }
+  }
+}

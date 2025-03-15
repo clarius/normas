@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g43-05000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583808878,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20326-nacional-lnn0005034-1973-04-03"
+      }
+    },
+    "content": {
+      "mecanografico": "N0005034",
+      "numero-norma": 20326,
+      "timestamp": "2013-08-22T13:20:50",
+      "timestamp-m": "2013-08-22T13:20:50",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-04-03",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020326 1973 04 03",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 20.326",
+          "BUENOS AIRES, 3 DE ABRIL DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 05 23",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 05 23"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  033 B19731499",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.326",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DE UN INMUEBLE DESTINADO AL CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFICAS Y TECNICAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0005034"
+    }
+  }
+}

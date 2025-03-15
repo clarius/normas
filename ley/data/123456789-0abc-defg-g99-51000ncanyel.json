@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g99-51000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1597921576188,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14770-nacional-lnn0001599-1958-09-30"
+      }
+    },
+    "content": {
+      "mecanografico": "N0001599",
+      "numero-norma": 14770,
+      "timestamp": "2020-08-20T07:55:21",
+      "timestamp-m": "2020-08-20T07:55:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1958-09-30",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014770 1958 09 30",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "Ley 14.770",
+          "Buenos Aires, 30 de septiembre de 1958"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1958 10 29",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1958 10 29"
+        }
+      },
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.770",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2020-08-20",
+      "texto-original": {
+        "file-name": "N0001599.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0001599pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "JUNTA NACIONAL DEL ALGODON:CREACION-ESTE ORGANISMO PASO A INTEGRAR PARTE DE LA JUNTA NACIONAL DE GRANOS,PERO ESTE ULTIMO ORGANISMO FUE DISUELTO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "algodón"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productos agropecuarios/algodón"
+            },
+            "sinonimos": {
+              "termino": [
+                "producción algodonera",
+                "ganadería",
+                "agricultura",
+                "productos agrícolas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Junta Nacional del Algodón"
+            },
+            "preferido": {
+              "termino": "Junta Nacional del Algodón"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "actividad agropecuaria",
+            "agricultura (actividad agropecuaria)",
+            "productos agropecuarios",
+            "productos agrícolas (productos agropecuarios)",
+            "producción algodonera (algodón)",
+            "ganadería (actividad agropecuaria)",
+            "Junta Nacional del Algodón",
+            "algodón",
+            "Actividades económicas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0001599"
+    }
+  }
+}

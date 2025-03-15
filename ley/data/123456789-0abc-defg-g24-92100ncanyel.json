@@ -1,0 +1,92 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g24-92100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584040853,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5535-nacional-lnn0012942-1908-06-25"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012942",
+      "numero-norma": 5535,
+      "timestamp": "2014-08-29T16:04:23",
+      "timestamp-m": "2014-08-29T16:04:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1908-06-25",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005535 1908 06 25",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 5.535",
+          "BUENOS AIRES, 25 DE JUNIO DE 1908"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1908 07 07",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1908 07 07"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190740",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.535",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "FERROCARRIL DEL SUR PROLONGACION A CHILE Y OTROS RAMALES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012942"
+    }
+  }
+}

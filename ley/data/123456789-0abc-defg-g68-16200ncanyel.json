@@ -1,0 +1,114 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g68-16200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584309855,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "13234-nacional-lnn0026186-1948-09-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026186",
+      "numero-norma": 13234,
+      "timestamp": "2013-01-19T19:15:38",
+      "timestamp-m": "2013-01-19T19:15:38",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1948-09-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 013234 1948 09 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 13234",
+          "BUENOS AIRES, 1 DE SETIEMBRE DE 1948"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1948 09 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1948 09 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000819480072",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 13.234",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 16970 (B.O. 10-10-1966)-ORGANIZA LA NACION PARA TIEMPO DE GUERRA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Defensa nacional"
+            },
+            "preferido": {
+              "termino": "Defensa nacional"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Fuerzas Armadas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "seguridad interior"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/seguridad pública/seguridad interior"
+            },
+            "sinonimos": {
+              "termino": "seguridad nacional"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "política de defensa nacional"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/política de defensa nacional"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "seguridad interior",
+            "seguridad pública",
+            "derecho militar",
+            "política de defensa nacional",
+            "Defensa nacional",
+            "seguridad nacional (seguridad pública)",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026186"
+    }
+  }
+}

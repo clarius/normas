@@ -1,0 +1,100 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g22-14000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584869581,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21700-nacional-lnn0004122-1977-12-14"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004122",
+      "numero-norma": 21700,
+      "timestamp": "2013-08-22T13:20:49",
+      "timestamp-m": "2013-08-22T13:20:49",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1977-12-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021700 1977 12 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.700",
+          "BUENOS AIRES, 14 DE DICIEMBRE DE 1977"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1978 12 19",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1978 12 19"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  038 A19780026",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.700",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-08-22",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION DEL INMUEBLE SITO EN LA CALLE AVENIDA ROQUE SAENZ PEÑA 752/56/60/64/66/70 CON DESTINO A LA INSTALACION DE ORGANISMOS DEL PODER JUDICIAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004122"
+    }
+  }
+}

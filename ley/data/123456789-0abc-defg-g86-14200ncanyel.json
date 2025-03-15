@@ -1,0 +1,89 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g86-14200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1676459000700,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "2274-nacional-lnn0024168-1888-07-14"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024168",
+      "numero-norma": 2274,
+      "timestamp": "2023-02-15T06:41:41",
+      "timestamp-m": "2023-02-15T06:41:41",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1888-07-14",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 002274 1888 07 14",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 2274",
+          "BUENOS AIRES, 14 DE JULIO DE 1888"
+        ]
+      },
+      "datos-publicacion": "REGISTRO NACIONAL 1888 00 00",
+      "publicacion-codificada": {
+        "publicacion-decodificada": null
+      },
+      "publicacion-privada": "ADLA                                                  000 018880435",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 2.274",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2023-02-15",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 18360-DIRECCION DE FERROCARRILES NACIONALES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "FERROCARRILES ARGENTINOS"
+            },
+            "preferido": {
+              "termino": "FERROCARRILES ARGENTINOS"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "FERROCARRILES ARGENTINOS"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024168"
+    }
+  }
+}

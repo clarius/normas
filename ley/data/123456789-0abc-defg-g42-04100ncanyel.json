@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g42-04100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1566299135206,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4328-nacional-lnn0014024-1904-08-12"
+      }
+    },
+    "content": {
+      "mecanografico": "N0014024",
+      "numero-norma": 4328,
+      "timestamp": "2019-08-20T07:42:54",
+      "timestamp-m": "2019-08-20T07:42:54",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1904-08-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004328 1904 08 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.328",
+          "BUENOS AIRES, 12 DE AGOSTO DE 1904"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1904 08 25",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1904 08 25"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018890618",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.328",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-08-20",
+      "texto-original": {
+        "file-name": "N0014024.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0014024pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "EXPROPIACION-INMUEBLES QUE REQUIERA EL CAMBIO DE UBICACION DE LA ESTACION SAN LUIS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "expropiación"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/expropiación"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "expropiación",
+            "bienes inmuebles",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "Derecho civil",
+            "Derecho administrativo"
+          ]
+        }
+      },
+      "id-infojus": "LNN0014024"
+    }
+  }
+}

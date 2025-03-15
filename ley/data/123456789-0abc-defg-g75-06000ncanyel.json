@@ -1,0 +1,105 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g75-06000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1627945623701,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "17078-nacional-lnn0006057-1966-12-22"
+      }
+    },
+    "content": {
+      "mecanografico": "N0006057",
+      "numero-norma": 17078,
+      "timestamp": "2021-08-02T19:55:21",
+      "timestamp-m": "2021-08-02T19:55:21",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1966-12-22",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 017078 1966 12 22",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 17.078",
+          "BUENOS AIRES, 22 DE DICIEMBRE DE 1966"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1967 01 02",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1967 01 02"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  026 C19661649",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 17.078",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-08-02",
+      "texto-original": {
+        "file-name": "N0006057.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0006057pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "APROBACION DEL CONVENIO ENTRE EL ESTADO NACIONAL Y LA COMPAÑIA DE TRANVIAS ANGLOARGENTINA LIMITADA,LA SOCIEDAD ARGENTINA DE TRANSPORTES E INDUSTRIAS ANEXAS,LA COMPAÑIA DE TRANSPORTES LA CENTRAL S.A. Y LA COMPAÑIA DE TRANVIAS DEL PUERTO LIMITADA PARA COMPENSAR LA PERDIDA DEL CAPITAL DE ESTAS COMPAÑIAS EN LA EX CORPORACION DE TRANSPORTES DE LA CIUDAD DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Transporte"
+            },
+            "preferido": {
+              "termino": "Transporte"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "transporte de personas"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de pasajeros"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte público de pasajeros",
+                "transporte de personas",
+                "contrato de viaje",
+                "contrato de pasaje"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "contrato de pasaje (transporte de pasajeros)",
+            "transporte de personas (transporte de pasajeros)",
+            "transporte público de pasajeros (transporte de pasajeros)",
+            "transporte de pasajeros",
+            "Transporte",
+            "contrato de transporte",
+            "contrato de viaje (transporte de pasajeros)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0006057"
+    }
+  }
+}

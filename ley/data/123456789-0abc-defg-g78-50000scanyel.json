@@ -1,0 +1,123 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g78-50000scanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1571314425221,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "20192-nacional-lns0000587-1973-02-28"
+      }
+    },
+    "content": {
+      "mecanografico": "S0000587",
+      "numero-norma": 20192,
+      "timestamp": "2019-10-17T08:45:23",
+      "timestamp-m": "2019-10-17T08:45:23",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1973-02-28",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 020192 1973 02 28",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 20192",
+          "BUENOS AIRES, 28 DE FEBRERO DE 1973"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1973 03 09",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1973 03 09"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A003319730362",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 20.192",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2019-10-17",
+      "texto-original": {
+        "file-name": "S0000587.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cs0000587pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR ART 5 ANEXO 3 LEY 22294 (B.O. 6-10-80)-GRAVAMEN SOBRE ESPECIALIDADES FARMACEUTICAS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "especialidades farmacéuticas"
+            },
+            "preferido": {
+              "termino": "Salud pública/medicamentos"
+            },
+            "sinonimos": {
+              "termino": [
+                "productos médicos",
+                "fármacos",
+                "especialidades farmacéuticas",
+                "drogas",
+                "especialidades medicinales",
+                "productos para la salud",
+                "productos farmacéuticos"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "impuestos"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/tributos/impuestos"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "productos para la salud (medicamentos)",
+            "Salud pública",
+            "gravámenes (tributos)",
+            "drogas (medicamentos)",
+            "Derecho tributario y aduanero",
+            "especialidades farmacéuticas (medicamentos)",
+            "medicamentos",
+            "productos farmacéuticos (medicamentos)",
+            "tributos",
+            "derecho tributario",
+            "impuestos",
+            "productos médicos (medicamentos)",
+            "derecho fiscal (derecho tributario)",
+            "fármacos (medicamentos)",
+            "especialidades medicinales (medicamentos)"
+          ]
+        }
+      },
+      "id-infojus": "LNS0000587"
+    }
+  }
+}

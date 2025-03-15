@@ -1,0 +1,110 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g37-24200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584185831,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "11002-nacional-lnn0024273-1920-02-06"
+      }
+    },
+    "content": {
+      "mecanografico": "N0024273",
+      "numero-norma": 11002,
+      "timestamp": "2013-01-19T19:16:02",
+      "timestamp-m": "2013-01-19T19:16:02",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1920-02-06",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 011002 1920 02 06",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 11002",
+          "BUENOS AIRES, 6 DE FEBRERO DE 1920"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1920 03 01",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1920 03 01"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019191107",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 11.002",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO-OBJETO CUMPLIDO-DEROGA LEY 8877-DERECHO A LA IMPORTACION DE AZUCAR"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "azúcar"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productos agropecuarios/azúcar"
+            },
+            "sinonimos": {
+              "termino": [
+                "caña de azúcar",
+                "ganadería",
+                "agricultura",
+                "productos agrícolas"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "importaciones"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/importaciones"
+            },
+            "sinonimos": {
+              "termino": "comercio internacional"
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "Derecho Aduanero",
+            "operaciones aduaneras",
+            "productos agropecuarios",
+            "ganadería (actividad agropecuaria)",
+            "Derecho tributario y aduanero",
+            "comercio internacional (comercio exterior)",
+            "actividad agropecuaria",
+            "productos agrícolas (productos agropecuarios)",
+            "agricultura (actividad agropecuaria)",
+            "comercio exterior",
+            "importaciones",
+            "azúcar",
+            "caña de azúcar (azúcar)",
+            "Actividades económicas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0024273"
+    }
+  }
+}

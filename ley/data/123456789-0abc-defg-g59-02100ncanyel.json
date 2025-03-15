@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g59-02100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583822284,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "6370-nacional-lnn0012095-1909-09-13"
+      }
+    },
+    "content": {
+      "mecanografico": "N0012095",
+      "numero-norma": 6370,
+      "timestamp": "2014-08-29T16:04:22",
+      "timestamp-m": "2014-08-29T16:04:22",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1909-09-13",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 006370 1909 09 13",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 6.370",
+          "BUENOS AIRES, 13 DE SEPTIEMBRE DE 1909"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1909 09 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190769",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 6.370",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CONVENIO ENTRE EL PODER EJECUTIVO Y LA COMPAÑIA DEL FERROCARRIL NORDESTE ARGENTINO SOBRE UNION DE SUS LINEAS CON LAS DEL FERROCARRIL CENTRAL DEL PARAGUAY"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0012095"
+    }
+  }
+}

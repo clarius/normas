@@ -1,0 +1,91 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g94-96100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583680198,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "930-nacional-lnn0016949-1878-09-05"
+      }
+    },
+    "content": {
+      "mecanografico": "N0016949",
+      "numero-norma": 930,
+      "timestamp": "2014-08-29T16:04:36",
+      "timestamp-m": "2014-08-29T16:04:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1878-09-05",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000930 1878 09 05",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 0.930",
+          "BUENOS AIRES, 5 DE SEPTIEMBRE DE 1878"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1878 09 05"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 018801170",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 930",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2014-08-29",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "AUTORIZA LICITACION FERROCARRILES-CONSTRUCCION RAMAL FERROCARRIL CENTRAL ARGENTINO AL PUERTO DE ROSARIO Y DEMAS OBRAS AUTORIZADAS POR LEY 819. LICITACION PREVIA"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte ferroviario"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte terrestre/transporte ferroviario"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "preferido": {
+              "termino": "Ferrocarriles Argentinos"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte terrestre",
+            "transporte ferroviario",
+            "Transporte",
+            "contrato de transporte",
+            "Ferrocarriles Argentinos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0016949"
+    }
+  }
+}

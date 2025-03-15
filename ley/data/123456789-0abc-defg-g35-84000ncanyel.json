@@ -1,0 +1,108 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g35-84000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1615460891941,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19454-nacional-lnn0004853-1972-01-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004853",
+      "numero-norma": 19454,
+      "timestamp": "2021-03-11T07:24:19",
+      "timestamp-m": "2021-03-11T07:24:19",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-01-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019454 1972 01 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19.454",
+          "BUENOS AIRES, 24 DE ENERO DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 02 04",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 02 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  032 A19720097",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.454",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-03-11",
+      "texto-original": {
+        "file-name": "N0004853.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0004853pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "TRANSFERENCIA A FAVOR DEL ESTADO DE BIENES INMUEBLES PERTENECIENTES AL EX FERROCARRIL CENTRAL DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transferencia de bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/transferencia de bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bienes inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes inmuebles",
+            "transferencia de bienes del Estado",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "bienes del Estado",
+            "Derecho civil",
+            "Derecho administrativo",
+            "bienes de dominio del Estado (bienes del Estado)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004853"
+    }
+  }
+}

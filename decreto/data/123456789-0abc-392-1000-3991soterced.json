@@ -1,0 +1,350 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-392-1000-3991soterced",
+      "document-content-type": "legislacion",
+      "timestamp": 1410992372934,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "decreto",
+        "description": "1293-nacional-concesion-licencias-para-explotar-rutas-aereas-dn19930001293-1993-06-24"
+      }
+    },
+    "content": {
+      "mecanografico": 19930001293,
+      "jurisdiccion": {
+        "codigo": "C",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "numero-norma": 1293,
+      "timestamp-m": "2012-04-23T12:18:16",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "fecha": "1993-06-24",
+      "standard-normativo": "DEC C 001293 1993 06 24",
+      "titulo-norma": "CONCESION DE LICENCIAS PARA EXPLOTAR RUTAS AEREAS.",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1993 06 28"
+        }
+      },
+      "efecto-pasivo": {
+        "referencia-normativa": [
+          {
+            "cr": "B.O.  22-04-1994",
+            "id": "OBSERVADO POR0",
+            "ref": "DEC C 000565 1994 04 20 0002 000"
+          },
+          {
+            "cr": "B.O. 22-04-1994",
+            "id": "OBSERVADO POR1",
+            "ref": "DEC C 000565 1994 04 20 0001 000"
+          },
+          {
+            "cr": "B.O. 18-05-1998",
+            "id": "DEROGADO POR2",
+            "ref": "DEC C 000516 1998 05 13 0001 000"
+          }
+        ]
+      },
+      "lugar-emision": "BUENOS AIRES",
+      "nombre-coloquial": "DECRETO NACIONAL 1.293/1993",
+      "estado": "Derogada",
+      "fecha-alta": "2003-05-22",
+      "fecha-mod": "2012-04-23",
+      "uid-alta": "SAUID",
+      "uid-mod": "ABM",
+      "generalidades": {
+        "sintesis": "SE ESTABLECEN DISPOSICIONES A CUMPLIR POR FUTUROS CONCESIONARIOS DE RUTAS AEREAS DETERMINANDO QUE LAS SOLICITUDES QUE INCORPOREN \"RUTAS DE INTERES ECONOMICO\" DEBAN CUMPLIMENTAR \"CARGOS\" CON ESCALAS EN LOCALIDADES A DETERMINAR POR LA AUTORIDAD DE APLICACION.",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "B.O. 18-05-1998",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000516 1998 05 13 0001 000 0000 000"
+          }
+        }
+      },
+      "noticias-accesorias": {
+        "texto": "NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 0010 FECHA DE ENTRADA EN VIGENCIA: 1993/06/28 OBSERVACION: LOS TITULARES DE CONCESIONES PARA REALIZAR LOS SERVICIOS A QUE SE REFIERE EL ART. 1 DEL DEC. 1.293/93, DISPONDRAN DE UN PLAZO DE 60 DIAS PARA ADECUAR LOS MISMOS LO ESTABLECIDO EN EL MENCIONADO DECRETO Y SU REGLAMENTACION POR ART. 2 DEL DEC.\n\n565/94."
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transporte aéreo comercial"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte aéreo"
+            },
+            "sinonimos": {
+              "termino": [
+                "aviación comercial",
+                "contrato de transporte aéreo",
+                "transporte aéreo comercial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "licencia para explotar rutas aéreas"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/circulación aérea/rutas aéreas/licencia para explotar rutas aéreas"
+            },
+            "sinonimos": {
+              "termino": [
+                "aeronavegación",
+                "navegación aérea"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "servicios de transporte aéreo"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte aéreo/servicios aéreos"
+            },
+            "sinonimos": {
+              "termino": [
+                "aviación comercial",
+                "contrato de transporte aéreo",
+                "servicios de transporte regular",
+                "servicios de transporte aéreo",
+                "transporte aéreo comercial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte de carga"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de carga"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de carga general",
+                "transporte en contenedores",
+                "transporte de mercaderías"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "transporte de pasajeros"
+            },
+            "preferido": {
+              "termino": "Transporte/contrato de transporte/transporte de pasajeros"
+            },
+            "sinonimos": {
+              "termino": [
+                "transporte de personas",
+                "transporte público de pasajeros",
+                "contrato de viaje",
+                "contrato de pasaje"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "correos"
+            },
+            "preferido": {
+              "termino": "Comunicaciones/servicio postal/correos"
+            },
+            "sinonimos": {
+              "termino": [
+                "medios de difusión",
+                "medios de comunicación"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "aeronaves"
+            },
+            "preferido": {
+              "termino": "Derecho aeronáutico/aeronaves"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "transporte aéreo",
+            "transporte de personas (transporte de pasajeros)",
+            "transporte aéreo comercial (transporte aéreo)",
+            "transporte de pasajeros",
+            "transporte de mercaderías (transporte de carga)",
+            "servicios de transporte regular (servicios aéreos)",
+            "servicios aéreos",
+            "circulación aérea",
+            "licencia para explotar rutas aéreas",
+            "aviación comercial (transporte aéreo)",
+            "navegación aérea (circulación aérea)",
+            "rutas aéreas",
+            "transporte público de pasajeros (transporte de pasajeros)",
+            "aeronaves",
+            "transporte en contenedores (transporte de carga)",
+            "Comunicaciones",
+            "contrato de viaje (transporte de pasajeros)",
+            "contrato de pasaje (transporte de pasajeros)",
+            "contrato de transporte aéreo (transporte aéreo)",
+            "aeronavegación (circulación aérea)",
+            "Transporte",
+            "contrato de transporte",
+            "servicios de transporte aéreo (servicios aéreos)",
+            "medios de difusión (Comunicaciones)",
+            "transporte de carga general (transporte de carga)",
+            "servicio postal",
+            "Derecho aeronáutico",
+            "correos",
+            "medios de comunicación (Comunicaciones)",
+            "transporte de carga"
+          ]
+        }
+      },
+      "visto": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 017285 1967 05 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 019030 1971 05 07 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "DEC C 002186 1992 11 25 0000 000 0000 000"
+            }
+          ]
+        },
+        "texto": "el  Expediente N. 3.164/93 de  la SECRETARIA DE TRANSPORTE del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS  PUBLICOS  y  las  Leyes Nros.  17.285  y  19.030  y  sus  modificaciones  y  el  Decreto N.\n\n2.186/92, Y"
+      },
+      "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 001591 1989 00 00 0008 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "LEY C 023696 1989 08 17 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "LEY C 019030 1971 05 07 0032 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_3",
+              "ref": "LEY C 017285 1967 05 17 0104 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_4",
+              "ref": "DEC C 002186 1992 11 25 0002 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_5",
+              "ref": "LEY C 019030 1971 05 07 0000 000 0000 000"
+            }
+          ]
+        },
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "texto": "Que  el  transporte  aéreo  interno de pasajeros constituye un servicio público del que depende la  intercomunicación de numerosas zonas del país.\n\nQue  es necesario que el transporte aerocomercial  actúe  como  un instrumento    eficiente   al  servicio  del  desarrollo  nacional, intercomunicando  las  distintas  regiones  del  país  mediante  la coordinación  de esfuerzos  estatales,  mixtos  y  privados  en  un conjunto armónico.\n\nQue la diversidad  y  extensión  de  las  rutas  aéreas internas no permiten  satisfacer  adecuadamente  las  demandas  de    numerosas regiones   del  país,  siendo  necesaria  una  adecuación  a  tales circunstancias  de  los  servicios de transporte aéreo interno.\n\nQue mediante el Artículo  8  inciso  1)  del Decreto  N.  1.591/89 fundado  en  la  Ley  N. 23.696 se dejó sin efecto el inciso b) del Artículo 32  de  la Ley N. 19.030  por  el  cual  se  reservara  el CINCUENTA POR CIENTO  (50%)  de  la  oferta  de cabotaje a favor de AEROLINEAS ARGENTINAS SOCIEDAD DEL ESTADO.\n\nQue  como consecuencia de lo señalado en el considerando  anterior AEROLINEAS  ARGENTINAS  SOCIEDAD  ANONIMA  no goza del derecho a la reserva de oferta de capacidad del CINCUENTA  POR  CIENTO  (50%) en las rutas aéreas de cabotaje.\n\nQue   el  Artículo  104  del  Código  Aeronáutico (Ley  N. 17.285) establece  el principio por el cual la concesión para operar en una ruta aérea no importa exclusividad.\n\nQue los principios  rectores  establecidos  por  el Artículo 2 del anexo II del Decreto N. 2.186/92,  como  pautas interpretativas  de la Ley N. 19.030, establecen, entre otros, el ingreso al mercado de nuevos explotadores, diversificación  de  los servicios, estímulo a la  competencia, resguardo a la seguridad del  transporte  aéreo  y efectivo cumplimiento de los servicios autorizados.\n\nQue  dicha  inserción  debe realizarse en condiciones tales que no sólo  dé respuesta a los intereses  empresarios,  sino  también  al interés  general  de la Nación, atendiendo así a las necesidades de los usuarios y a los  postulados  rectores de la Ley N. 19.030.\n\nQue a efectos de poder llevar adelante dicha  política,  se  torna necesario  que  los  operadores  de transporte aéreo de cabotaje no limiten su accionar a atender exclusivamente  mercados y corrientes de  alto  rendimiento  económico,  sino  que, además,  aseguren  la vinculación  aerocomercial  entre  puntos  del    país   donde  las corrientes de tráfico son reducidas.\n\nQue  frente  a requerimientos de concesiones es necesario  adoptar criterios y medidas  que  armonicen  las  exigencias del régimen de servicios  públicos  con las libertades de comercio,  de  forma  de lograr un sistema en el  que  los  costos  y  los beneficios queden asignados equitativamente.\n\nQue  el  presente  decreto  se  dicta  en  uso  de las  facultades conferidas por la Ley N. 17.285, y el Artículo 86,  Inciso 1 y 2 de la  Constitución Nacional."
+      },
+      "articulo": [
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 017285 1967 05 17 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 1,
+          "texto": "*ARTICULO  1.-  Todas  las  personas  físicas  o jurídicas que conforme  a  los  términos de la Ley N. 17.285 y sus modificaciones sean    titulares  de    concesiones  para  realizar  servicios  de transporte  aéreo regular  interno  combinado de pasajeros, carga y correo,    utilizando  aeronaves  Jet  de    capacidad   mínima  de transporte de  OCHENTA (80) pasajeros, o aquellas que soliciten  el otorgamiento    de  nuevas  concesiones para ese tipo de servicios, deberán cumplir con las disposiciones  del  presente  decreto,  sin perjuicio    de  las    establecidas  en  la  legislación  vigente."
+        },
+        {
+          "numero-articulo": 2,
+          "texto": "Art.  2  :  En  aquellas  solicitudes de concesión que estando comprendidas en los términos del  Artículo  1 del presente decreto, incorporen  alguna  de  las  rutas  calificadas  como  de  \"INTERES ECONOMICO\",  los  peticionantes  deberán optar por algunos  de  los \"CARGOS\" asociados a ellas."
+        },
+        {
+          "numero-articulo": 3,
+          "texto": "Art.  3  :  A los fines establecidos en el presente decreto se define como \"CARGOS\"  a  aquellas  rutas  que  incluyan  escalas en localidades    a    determinar  por  la  Autoridad  de  Aplicación."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "DEC C 002186 1992 11 25 0013 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "Art. 4 : La opción a la que se hace referencia en el Artículo 2 deberá  ser  comunicada  a la Autoridad de Aplicación conjuntamente con la acreditación de los  recaudos  exigidos  por  el Artículo 13 del Anexo II del Decreto N. 2.186/92."
+        },
+        {
+          "numero-articulo": 5,
+          "texto": "Art.  5  :  La concesión de las rutas peticionadas se otorgará formando una unidad  con  los  \"CARGOS\"  por  los cuales se hubiere optado."
+        },
+        {
+          "numero-articulo": 6,
+          "texto": "Art.  6 : Los \"CARGOS\" podrán ser cumplimentados con aeronaves adecuadas a la ruta y tipo de servicio a ofrecer."
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 017285 1967 05 17 0135 000 0000 000"
+            }
+          },
+          "numero-articulo": 7,
+          "texto": "Art. 7 : El cumplimiento de los \"CARGOS\" será considerado como una obligación  sustancial  del  Concesionario.  Su  incumplimiento será  causa suficiente para declarar la caducidad de la  Concesión, según lo  previsto  en  el Artículo 135 del Código Aeronáutico (Ley N. 17.285)."
+        },
+        {
+          "numero-articulo": 8,
+          "texto": "Art.  8  :  El  presente  decreto  será  de aplicación a todas aquellas solicitudes que se encuentren en trámite  a la fecha de su entrada en vigencia. Cuando la tramitación haya superado  la  etapa prevista  en  el  Artículo 4 del presente, la opción indicada en el Artículo 2 precedente  deberá  ser  comunicada  a  la  Autoridad de Aplicación, una vez dictada la normativa complementaria  a que hace referencia el Artículo 9 del presente, con carácter previo  al acto resolutivo."
+        },
+        {
+          "numero-articulo": 9,
+          "texto": "Art. 9 : El MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS será  la  Autoridad  de  Aplicación del presente decreto. A tal fin dictará  la normativa necesaria  para  su  puesta  en  ejecución  y establecerá  las  rutas  denominadas  de  \"INTERES ECONOMICO\" y los \"CARGOS\"  que  les  correspondan a las mismas,  quedando  facultado asimismo para modificar  tanto  unas como otros cuando lo considere conveniente."
+        },
+        {
+          "numero-articulo": 10,
+          "texto": "Art.  10 : El presente decreto entrará en vigencia a partir de la fecha de su publicación en el Boletín Oficial."
+        },
+        {
+          "numero-articulo": 11,
+          "texto": "Art. 11 : Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+        }
+      ],
+      "firmantes": {
+        "firmantes": "MENEM-CAVALLO"
+      },
+      "id-infojus": "DN19930001293"
+    }
+  }
+}

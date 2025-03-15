@@ -1,0 +1,114 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g59-32000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1626692359593,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "5195-nacional-lnn0002395-1907-09-26"
+      }
+    },
+    "content": {
+      "mecanografico": "N0002395",
+      "numero-norma": 5195,
+      "timestamp": "2021-07-18T20:08:40",
+      "timestamp-m": "2021-07-18T20:08:40",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1907-09-26",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 005195 1907 09 26",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 5.195",
+          "BUENOS AIRES, 26 DE SEPTIEMBRE DE 1907"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1907 10 17"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190731",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 5.195",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2021-07-18",
+      "texto-original": {
+        "file-name": "N0002395.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0002395pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22585 (B.O. 17-5-1982) PROFILAXIS DEL PALUDISMO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "enfermedades"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "paludismo"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/paludismo"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "prevención de enfermedades"
+            },
+            "preferido": {
+              "termino": "Salud pública/enfermedades/prevención de enfermedades"
+            },
+            "sinonimos": {
+              "termino": [
+                "profilaxis",
+                "prevención de enfermedades y accidentes",
+                "medicina preventiva",
+                "asistencia médica preventiva"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "profilaxis (prevención de enfermedades)",
+            "paludismo",
+            "Salud pública",
+            "prevención de enfermedades y accidentes (prevención de enfermedades)",
+            "asistencia médica preventiva (prevención de enfermedades)",
+            "enfermedades",
+            "medicina preventiva (prevención de enfermedades)",
+            "prevención de enfermedades"
+          ]
+        }
+      },
+      "id-infojus": "LNN0002395"
+    }
+  }
+}

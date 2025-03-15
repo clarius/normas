@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g10-29000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584835421,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21409-nacional-lnn0009201-1976-09-09"
+      }
+    },
+    "content": {
+      "mecanografico": "N0009201",
+      "numero-norma": 21409,
+      "timestamp": "2013-01-19T19:15:44",
+      "timestamp-m": "2013-01-19T19:15:44",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1976-09-09",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021409 1976 09 09",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 21.409",
+          "BUENOS AIRES, 9 DE SEPTIEMBRE DE 1976"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1976 09 16",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1976 09 16"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  036 D19762798",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.409",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "AMBITO TEMPORAL CUMPLIDO. IMPUESTO NACIONAL DE EMERGENCIA A LOS AUTOMOTORES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "impuestos nacionales"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/Derecho Tributario/tributos/impuestos/impuestos nacionales"
+            },
+            "sinonimos": {
+              "termino": [
+                "gravámenes",
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "automotores"
+            },
+            "preferido": {
+              "termino": "Transporte/vehículos/automotores"
+            },
+            "sinonimos": null
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "automotores",
+            "Derecho Tributario",
+            "gravámenes (tributos)",
+            "impuestos",
+            "Transporte",
+            "derecho fiscal (Derecho Tributario)",
+            "impuestos nacionales",
+            "vehículos",
+            "Derecho tributario y aduanero",
+            "derecho público fiscal (Derecho Tributario)",
+            "tributos"
+          ]
+        }
+      },
+      "id-infojus": "LNN0009201"
+    }
+  }
+}

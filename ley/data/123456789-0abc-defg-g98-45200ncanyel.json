@@ -1,0 +1,128 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g98-45200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583920373,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "19805-nacional-lnn0025489-1972-08-24"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025489",
+      "numero-norma": 19805,
+      "timestamp": "2013-01-19T19:15:36",
+      "timestamp-m": "2013-01-19T19:15:36",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1972-08-24",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 019805 1972 08 24",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 19805",
+          "BUENOS AIRES, 24 DE AGOSTO DE 1972"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1972 08 31",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1972 08 31"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  C003219723447",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 19.805",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20510 (B.O. 28-5-73)-PROMOCION DE SECRETARIOS Y FISCALES DE LA CAMARA FEDERAL EN LO PENAL"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "organización de la justicia"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia"
+            },
+            "sinonimos": {
+              "termino": [
+                "organización del Poder Judicial",
+                "organización judicial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "secretario judicial"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia/funcionarios judiciales/secretario judicial"
+            },
+            "sinonimos": {
+              "termino": [
+                "empleados del Poder Judicial",
+                "organización del Poder Judicial",
+                "empleados judiciales",
+                "organización judicial",
+                "personal judicial"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "fiscal de Cámara"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia/Ministerio Público/fiscal general/fiscal de Cámara"
+            },
+            "sinonimos": {
+              "termino": [
+                "organización del Poder Judicial",
+                "organización judicial",
+                "fiscal de Cámara de Apelación"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fiscal de Cámara",
+            "personal judicial (funcionarios judiciales)",
+            "fiscal de Cámara de Apelación (fiscal de Cámara)",
+            "organización judicial (organización de la justicia)",
+            "empleados del Poder Judicial (funcionarios judiciales)",
+            "empleados judiciales (funcionarios judiciales)",
+            "organización del Poder Judicial (organización de la justicia)",
+            "fiscal general",
+            "funcionarios judiciales",
+            "Derecho procesal",
+            "secretario judicial",
+            "Ministerio Público",
+            "organización de la justicia"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025489"
+    }
+  }
+}

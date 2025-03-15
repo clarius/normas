@@ -1,0 +1,104 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g20-24000ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584168378,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "21042-nacional-lnn0004202-1975-09-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0004202",
+      "numero-norma": 21042,
+      "timestamp": "2013-12-19T14:38:37",
+      "timestamp-m": "2013-12-19T14:38:37",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1975-09-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 021042 1975 09 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 21.042",
+          "BUENOS AIRES, 11 DE SEPTIEMBRE DE 1975"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1975 10 10",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1975 10 10"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  035 C19752718",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 21.042",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2013-12-19",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "TRANSFERENCIA A TITULO GRATUITO DE INMUEBLES DEL ESTADO A LA PROVINCIA DE SANTIAGO DEL ESTERO"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "transferencia de bienes del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/dominio del Estado/bienes del Estado/transferencia de bienes del Estado"
+            },
+            "sinonimos": {
+              "termino": "bienes de dominio del Estado"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "bienes inmuebles"
+            },
+            "preferido": {
+              "termino": "Derecho civil/bienes/bienes inmuebles"
+            },
+            "sinonimos": {
+              "termino": [
+                "inmuebles",
+                "cosas inmuebles"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "bienes inmuebles",
+            "transferencia de bienes del Estado",
+            "cosas inmuebles (bienes inmuebles)",
+            "bienes",
+            "inmuebles (bienes inmuebles)",
+            "dominio del Estado",
+            "bienes del Estado",
+            "Derecho civil",
+            "Derecho administrativo",
+            "bienes de dominio del Estado (bienes del Estado)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0004202"
+    }
+  }
+}

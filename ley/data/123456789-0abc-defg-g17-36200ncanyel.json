@@ -1,0 +1,99 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g17-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584493880,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "3305-nacional-lnn0026371-1895-10-11"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026371",
+      "numero-norma": 3305,
+      "timestamp": "2013-01-19T19:15:31",
+      "timestamp-m": "2013-01-19T19:15:31",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1895-10-11",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 003305 1895 10 11",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 3305",
+          "BUENOS AIRES, 11 DE OCTUBRE DE 1895"
+        ]
+      },
+      "datos-publicacion": "SIN FECHA         1895 10 11",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1895 10 11"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000019190349",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 3.305",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 20124 BO 06/02/1973-CREA INTENDENCIAS MILITARES DE SUMINISTROS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Fuerzas Armadas"
+            },
+            "preferido": {
+              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "contrataciones del Estado"
+            },
+            "preferido": {
+              "termino": "Derecho administrativo/contratos administrativos"
+            },
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho militar",
+            "contrataciones públicas (contratos administrativos)",
+            "Defensa nacional",
+            "contratos administrativos",
+            "contrataciones del Estado (contratos administrativos)",
+            "Derecho administrativo",
+            "Fuerzas Armadas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026371"
+    }
+  }
+}

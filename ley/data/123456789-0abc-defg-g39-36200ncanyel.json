@@ -1,0 +1,128 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g39-36200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413583724341,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "1333-nacional-lnn0026393-1883-09-27"
+      }
+    },
+    "content": {
+      "mecanografico": "N0026393",
+      "numero-norma": 1333,
+      "timestamp": "2013-06-07T12:43:15",
+      "timestamp-m": "2013-06-07T12:43:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1883-09-27",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 001333 1883 09 27",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 1.333",
+          "BUENOS AIRES, 27 DE SEPTIEMBRE DE 1883"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1883 09 27"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000018880115",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 1.333",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADO POR LEY 1968 (RN 1887-1888 PAGINA 148) DEUDA CONTRAIDA CON EL BANCO PROVINCIA DE BUENOS AIRES"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "bancos provinciales"
+            },
+            "preferido": {
+              "termino": "Derecho bancario/entidades financieras/bancos/bancos provinciales"
+            },
+            "sinonimos": {
+              "termino": [
+                "entidades bancarias",
+                "sistema bancario"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Banco de la Provincia de Buenos Aires"
+            },
+            "preferido": {
+              "termino": "Banco de la Provincia de Buenos Aires"
+            },
+            "sinonimos": {
+              "termino": "Banco Provincia"
+            }
+          },
+          {
+            "elegido": {
+              "termino": "deudas dinerarias"
+            },
+            "preferido": {
+              "termino": "Obligaciones y contratos/obligaciones/clasificación de las obligaciones/obligaciones de dar/obligaciones de dar sumas de dinero"
+            },
+            "sinonimos": {
+              "termino": [
+                "obligaciones personales",
+                "prestaciones dinerarias",
+                "obligaciones dinerarias",
+                "deudas de dinero",
+                "deudas dinerarias"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "deudas de dinero (obligaciones de dar sumas de dinero)",
+            "clasificación de las obligaciones",
+            "prestaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "entidades bancarias (bancos)",
+            "obligaciones dinerarias (obligaciones de dar sumas de dinero)",
+            "obligaciones de dar",
+            "obligaciones de dar sumas de dinero",
+            "Banco Provincia (Banco de la Provincia de Buenos Aires)",
+            "Derecho bancario",
+            "obligaciones",
+            "bancos provinciales",
+            "deudas dinerarias (obligaciones de dar sumas de dinero)",
+            "Banco de la Provincia de Buenos Aires",
+            "Obligaciones y contratos",
+            "bancos",
+            "entidades financieras",
+            "sistema bancario (Derecho bancario)",
+            "obligaciones personales (obligaciones)"
+          ]
+        }
+      },
+      "id-infojus": "LNN0026393"
+    }
+  }
+}

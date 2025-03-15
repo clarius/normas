@@ -1,0 +1,111 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g01-85200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1639134371103,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "14515-nacional-lnn0025810-1958-09-29"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025810",
+      "numero-norma": 14515,
+      "timestamp": "2021-12-10T07:11:39",
+      "timestamp-m": "2021-12-10T07:11:39",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1958-09-29",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 014515 1958 09 29",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 14.515",
+          "BUENOS AIRES, 29 DE SEPTIEMBRE DE 1958"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1958 11 03",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1958 11 03"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  A001819580150",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 14.515",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2021-12-10",
+      "texto-original": {
+        "file-name": "N0025810.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0025810pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "NUEVO REGIMEN POR LEY 17236 (B.O. 21-04-67) PERO LEY 17236 DEROGADA POR LEY 20416 (B.O. 14-06-1973) SERVICIO PENITENCIARIO DE LA NACION"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "servicio penitenciario"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/servicio penitenciario"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "personal de seguridad"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "Servicio Penitenciario Federal"
+            },
+            "preferido": {
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/servicio penitenciario/Servicio Penitenciario Federal"
+            },
+            "sinonimos": {
+              "termino": [
+                "seguridad nacional",
+                "defensa nacional",
+                "personal de seguridad"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "fuerzas de seguridad",
+            "Servicio Penitenciario Federal",
+            "servicio penitenciario",
+            "seguridad pública",
+            "defensa nacional (Defensa y seguridad)",
+            "seguridad nacional (seguridad pública)",
+            "personal de seguridad (fuerzas de seguridad)",
+            "Defensa y seguridad"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025810"
+    }
+  }
+}

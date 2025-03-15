@@ -1,0 +1,102 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g69-27200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584576180,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "186-nacional-lnn0027296-1866-09-01"
+      }
+    },
+    "content": {
+      "mecanografico": "N0027296",
+      "numero-norma": 186,
+      "timestamp": "2013-06-07T12:43:15",
+      "timestamp-m": "2013-06-07T12:43:15",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1866-09-01",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 000186 1866 09 01",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY 186",
+          "BUENOS AIRES, 1 DE SEPTIEMBRE DE 1866"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Sin fecha",
+          "fecha": "1866 09 01"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  0000018800455",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 186",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-06-07",
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "DEROGADA POR LEY 22950 (B.O. 18-10-1983) GUERRA DEL PARAGUAY:\n\nEMISION DE BILLETES DEL TESORO PARA CUMPLIMIENTO DE LA LEY 185"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Guerra del Paraguay"
+            },
+            "preferido": {
+              "termino": "Guerra del Paraguay"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "emisión monetaria"
+            },
+            "preferido": {
+              "termino": "Economía y finanzas/sistema financiero/moneda/emisión monetaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "Hacienda y Finanzas",
+                "derecho económico financiero",
+                "emisión de moneda",
+                "derecho financiero"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "sistema financiero",
+            "derecho financiero (Economía y finanzas)",
+            "Guerra del Paraguay",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "derecho económico financiero (Economía y finanzas)",
+            "moneda",
+            "emisión monetaria",
+            "emisión de moneda (emisión monetaria)",
+            "Economía y finanzas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0027296"
+    }
+  }
+}

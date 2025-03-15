@@ -1,0 +1,106 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g11-13100ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1557936851534,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "4949-nacional-lnn0013111-1906-07-12"
+      }
+    },
+    "content": {
+      "mecanografico": "N0013111",
+      "numero-norma": 4949,
+      "timestamp": "2019-05-15T12:22:07",
+      "timestamp-m": "2019-05-15T12:22:07",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1906-07-12",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 004949 1906 07 12",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 4.949",
+          "BUENOS AIRES, 12 DE JULIO DE 1906"
+        ]
+      },
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1906 08 04"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  000 019190703",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 4.949",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "fecha-alta": "1997-07-23",
+      "fecha-mod": "2019-05-15",
+      "texto-original": {
+        "file-name": "N0013111.PDF",
+        "uuid": "hijklmno-prst-uvwl-eyna-cn0013111pdf"
+      },
+      "tipo-ley": "R",
+      "uid-mod": "ABM",
+      "sumario": {
+        "sumario": "CREDITO SUPLEMENTARIO AL MINISTERIO DE GUERRA PARA EL PAGO DE LAS LIQUIDACIONES DE HABERES SOBRESUELDOS PASAJES Y TRANSPORTES CORRESPONDIENTE A LOS EJERCICIOS VENCIDOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "fisco nacional"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "crédito fiscal"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/fisco nacional/crédito fiscal"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "derecho público fiscal (derecho tributario)",
+            "fisco nacional",
+            "derecho tributario",
+            "derecho fiscal (derecho tributario)",
+            "Derecho tributario y aduanero",
+            "crédito fiscal"
+          ]
+        }
+      },
+      "id-infojus": "LNN0013111"
+    }
+  }
+}

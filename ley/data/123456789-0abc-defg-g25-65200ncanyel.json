@@ -1,0 +1,117 @@
+{
+  "document": {
+    "metadata": {
+      "uuid": "123456789-0abc-defg-g25-65200ncanyel",
+      "document-content-type": "legislacion",
+      "timestamp": 1413584395878,
+      "operation": "ADD",
+      "target-document-repository-id": "infojus",
+      "target-index-id": "index",
+      "target-document-indexing-id": "legislacion",
+      "document-recovery-strategy": "abstract-legislacion",
+      "friendly-url": {
+        "subdomain": "ley",
+        "description": "18220-nacional-lnn0025652-1969-05-23"
+      }
+    },
+    "content": {
+      "mecanografico": "N0025652",
+      "numero-norma": 18220,
+      "timestamp": "2013-01-19T19:15:37",
+      "timestamp-m": "2013-01-19T19:15:37",
+      "tipo-norma": {
+        "codigo": "LEY",
+        "texto": "Ley"
+      },
+      "fecha": "1969-05-23",
+      "jurisdiccion": {
+        "codigo": "CAPITAL FEDERAL",
+        "descripcion": "Nacional",
+        "capital": "Capital Federal",
+        "id-pais": 11
+      },
+      "standard-normativo": "LEY C 018220 1969 05 23",
+      "identificacion-coloquial": {
+        "identificacion-coloquial": [
+          "LEY NRO. 18220",
+          "BUENOS AIRES, 23 DE MAYO DE 1969"
+        ]
+      },
+      "datos-publicacion": "BOLETIN OFICIAL   1969 05 30",
+      "publicacion-codificada": {
+        "publicacion-decodificada": {
+          "organismo": "Boletín Oficial",
+          "fecha": "1969 05 30"
+        }
+      },
+      "publicacion-privada": "ADLA                                                  B002919691403",
+      "lugar-sancion": "BUENOS AIRES",
+      "nombre-coloquial": "Ley 18.220",
+      "estado": "Derogada",
+      "fecha-alta": "1997-07-22",
+      "fecha-mod": "2013-01-19",
+      "tipo-ley": "R",
+      "uid-mod": "SASAIJ",
+      "sumario": {
+        "sumario": "NORMA DEROGADA POR LEY 19076 (B.O. 18-06-1971)-TRANSFERENCIA DE TIERRAS PARA LA CONSTRUCCION DE SILOS"
+      },
+      "descriptores": {
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "actividad agropecuaria"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "silos"
+            },
+            "preferido": {
+              "termino": "Derecho de la navegación/puertos/infraestructura portuaria/elevadores terminales"
+            },
+            "sinonimos": {
+              "termino": [
+                "área portuaria",
+                "navegación",
+                "elevadores terminales de granos",
+                "derecho marítimo",
+                "silos",
+                "terminales portuarias",
+                "instalaciones portuarias"
+              ]
+            }
+          }
+        ],
+        "suggest": {
+          "termino": [
+            "ganadería (actividad agropecuaria)",
+            "instalaciones portuarias (infraestructura portuaria)",
+            "terminales portuarias (puertos)",
+            "silos (elevadores terminales)",
+            "elevadores terminales",
+            "área portuaria (puertos)",
+            "navegación (Derecho de la navegación)",
+            "actividad agropecuaria",
+            "agricultura (actividad agropecuaria)",
+            "puertos",
+            "Derecho de la navegación",
+            "elevadores terminales de granos (elevadores terminales)",
+            "derecho marítimo (Derecho de la navegación)",
+            "infraestructura portuaria",
+            "Actividades económicas"
+          ]
+        }
+      },
+      "id-infojus": "LNN0025652"
+    }
+  }
+}
