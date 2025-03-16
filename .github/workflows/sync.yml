@@ -4,7 +4,6 @@ on:
   workflow_call:
     inputs:
       options:
-        description: 'Opciones de sync (por ej. --vigente, --force)'
         required: false
         type: string
         default: ''

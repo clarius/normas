@@ -24,5 +24,6 @@ jobs:
     permissions: 
       contents: write
       pull-requests: write
+    secrets: inherit
     with: 
       options: ${{ github.event.inputs.options }}

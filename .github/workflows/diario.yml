@@ -3,7 +3,7 @@ name: diario-vigentes
 on:
   workflow_dispatch:
     inputs:
-      syncArgs:
+      options:
         description: 'Opciones de sync (por ej. --force, --top)'
         required: false
         type: string
@@ -24,5 +24,6 @@ jobs:
     permissions: 
       contents: write
       pull-requests: write
+    secrets: inherit
     with: 
       options: --vigente ${{ github.event.inputs.options }}
