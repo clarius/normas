@@ -1,5 +1,5 @@
 # Workflow reusable para sincronizar leyes y decretos
-name: sync
+name: sync-core
 on:
   workflow_call:
     inputs:
