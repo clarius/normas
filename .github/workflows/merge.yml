@@ -1,9 +1,9 @@
-# Cierra PRs de sync/docs que llevan 12+ horas abiertas
+# Cierra PRs de sync/docs abiertas y sin asignar/review
 name: merge
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 10 * * 2-6"
+    - cron: "0 9 * * 1-6" # Lu-Sa 6hs
 
 env:
   DOTNET_NOLOGO: true

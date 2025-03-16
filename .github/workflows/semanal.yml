@@ -1,0 +1,26 @@
+# Sincroniza leyes y decretos nacionales en este repositorio
+name: sync
+on:
+  workflow_dispatch:
+    inputs:
+      syncArgs:
+        description: 'Opciones de sync (por ej. --vigente, --force)'
+        required: false
+        type: string
+        default: ''
+  schedule:
+    - cron: "0 22 * * 6" # Sábados 19hs 
+
+env:
+  DOTNET_NOLOGO: true
+
+defaults:
+  run:
+    shell: pwsh
+
+jobs:
+  run_sync:
+    uses: ./.github/workflows/sync.yml
+    permissions: 
+      contents: write
+      pull-requests: write
