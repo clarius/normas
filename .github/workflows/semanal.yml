@@ -3,8 +3,8 @@ name: semanal-completo
 on:
   workflow_dispatch:
     inputs:
-      syncArgs:
-        description: 'Opciones de sync (por ej. --vigente, --force)'
+      options:
+        description: 'Opciones de sync (por ej. --vigente, --force, --top)'
         required: false
         type: string
         default: ''
@@ -24,3 +24,5 @@ jobs:
     permissions: 
       contents: write
       pull-requests: write
+    with: 
+      options: ${{ github.event.inputs.options }}
