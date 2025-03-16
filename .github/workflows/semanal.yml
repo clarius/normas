@@ -19,7 +19,7 @@ defaults:
     shell: pwsh
 
 jobs:
-  run_sync:
+  run:
     uses: ./.github/workflows/sync.yml
     permissions: 
       contents: write
