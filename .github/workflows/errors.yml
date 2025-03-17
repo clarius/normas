@@ -43,9 +43,11 @@ jobs:
       - name: ⚙ openlaw
         run: |
             New-Item -Path "${{ runner.temp }}/openlaw.md" -ItemType File -Force | Out-Null
-            $dirs = gci .github/.openlaw -directory
+            $dirs = gci ./.github/.openlaw -directory
             foreach ($dir in $dirs) {
+                write-host "Processing $dir.name"
                 $files = gci $dir.fullname -file
+                write-host "Processing $($files.count) files"
                 foreach ($file in $files) {
                     try {
                         openlaw syncitem $file.BaseName --dir $dir.Name --changelog ${{ runner.temp }}/openlaw.md --appendlog
