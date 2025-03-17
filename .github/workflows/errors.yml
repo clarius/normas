@@ -1,4 +1,4 @@
-name: reintentar
+name: reintentar-errores
 on:
   workflow_dispatch:
   schedule:
@@ -45,7 +45,7 @@ jobs:
             New-Item -Path "${{ runner.temp }}/openlaw.md" -ItemType File -Force | Out-Null
             $dirs = gci ./.github/.openlaw -directory
             foreach ($dir in $dirs) {
-                write-host "Processing $dir.name"
+                write-host "Processing $dir"
                 $files = gci $dir.fullname -file
                 write-host "Processing $($files.count) files"
                 foreach ($file in $files) {
@@ -56,6 +56,7 @@ jobs:
                         }
                     }
                     catch {
+                        Write-Host "Error processing $($file.BaseName): $($_.Exception.Message)" -ForegroundColor Red
                         continue
                     }
                 }
