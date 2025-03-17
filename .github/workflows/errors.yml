@@ -43,7 +43,7 @@ jobs:
       - name: ⚙ openlaw
         run: |
             New-Item -Path "${{ runner.temp }}/openlaw.md" -ItemType File -Force | Out-Null
-            $dirs = gci .\.github\.openlaw -directory
+            $dirs = gci .github/.openlaw -directory
             foreach ($dir in $dirs) {
                 $files = gci $dir.fullname -file
                 foreach ($file in $files) {
