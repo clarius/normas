@@ -45,7 +45,7 @@ jobs:
 
       - name: 🔄 reintentar
         run: |
-            New-Item -Path "${{ runner.temp }}/openlaw.md" -ItemType File -Force | Out-Null
+            new-item "${{ runner.temp }}/openlaw.md"
             $dirs = gci ./.github/.openlaw -directory
             foreach ($dir in $dirs) {
                 write-host "Processing $dir"
@@ -53,13 +53,13 @@ jobs:
                 write-host "Processing $($files.count) files"
                 foreach ($file in $files) {
                     try {
-                        openlaw syncitem $file.BaseName --dir $dir.Name --changelog ${{ runner.temp }}/openlaw.md --appendlog
-                        if ($lastexitcode -ne 0) {
-                            rm $f.fullname -force
+                        openlaw syncitem $file.basename --dir $dir.name --changelog ${{ runner.temp }}/openlaw.md --appendlog
+                        if ($lastexitcode -eq 0) {
+                            remove-item $file.fullname -force
                         }
                     }
                     catch {
-                        Write-Host "Error processing $($file.BaseName): $($_.Exception.Message)" -ForegroundColor Red
+                        write-host "Error processing $($file.BaseName): $($_.Exception.Message)" -ForegroundColor Red
                         continue
                     }
                 }
