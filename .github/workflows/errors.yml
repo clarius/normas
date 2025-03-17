@@ -1,0 +1,70 @@
+name: reintentar
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * 2-6" # Ma-Sab 1AM
+
+env:
+  DOTNET_NOLOGO: true
+
+defaults:
+  run:
+    shell: pwsh
+
+permissions: 
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest 
+    continue-on-error: true
+    steps:
+      - name: 🤖 defaults
+        uses: devlooped/actions-bot@v1
+        with:
+          name: ${{ secrets.BOT_NAME }}
+          email: ${{ secrets.BOT_EMAIL }}
+          gh_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🤘 checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ env.GH_TOKEN }}
+
+      - name: ⚙ dotnet
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 9.x
+
+      - name: ⚙ openlaw
+        run: |
+            $dirs = gci .\.github\.openlaw -directory
+            foreach ($dir in $dirs) {
+                $files = gci $dir.fullname -file
+                foreach ($file in $files) {
+                    try {
+                        openlaw syncitem $file.BaseName --dir $dir.Name --changelog ${{ runner.temp }}/openlaw.md --appendlog
+                        if ($lastexitcode -ne 0) {
+                            rm $f.fullname -force
+                        }
+                    }
+                    catch {
+                        continue
+                    }
+                }
+            }
+
+      - name: 🚀 pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: openlaw
+          delete-branch: true
+          labels: docs
+          title: "⬆️ Actualización de normas"
+          commit-message: "⬆️ Actualización de normas previamente con errores"
+          token: ${{ env.GH_TOKEN }}
+          body-path: ${{ runner.temp }}/openlaw.md
