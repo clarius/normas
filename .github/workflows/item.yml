@@ -61,7 +61,7 @@ jobs:
       - name: 🚀 pull request
         uses: peter-evans/create-pull-request@v7
         with:
-          branch: openlaw
+          branch: sync/${{ github.event.inputs.id }}
           delete-branch: true
           labels: docs
           title: "⬆️ Actualización de norma ${{ github.event.inputs.id }}"

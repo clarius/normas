@@ -68,7 +68,7 @@ jobs:
       - name: 🚀 pull request
         uses: peter-evans/create-pull-request@v7
         with:
-          branch: openlaw
+          branch: sync/errors
           delete-branch: true
           labels: docs
           title: "⬆️ Actualización de normas"
