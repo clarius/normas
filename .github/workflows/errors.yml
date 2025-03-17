@@ -44,6 +44,7 @@ jobs:
         run: dotnet tool update -g dotnet-openlaw --source https://clarius.blob.core.windows.net/nuget/index.json          
 
       - name: 🔄 reintentar
+        continue-on-error: true
         run: |
             new-item "${{ runner.temp }}/openlaw.md" | out-null
             $dirs = gci ./.github/.openlaw -directory
