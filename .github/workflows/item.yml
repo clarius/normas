@@ -1,0 +1,70 @@
+name: sync-item
+on:
+  workflow_dispatch:
+    inputs:
+        id:
+          description: 'ID a sincronizar'
+          required: true
+          type: string
+        tipo:
+          description: 'Tipo de norma'
+          required: true
+          type: choice
+          options:
+            - ley
+            - decreto
+  
+env:
+  DOTNET_NOLOGO: true
+
+defaults:
+  run:
+    shell: pwsh
+
+permissions: 
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest 
+    continue-on-error: true
+    steps:
+      - name: 🤖 defaults
+        uses: devlooped/actions-bot@v1
+        with:
+          name: ${{ secrets.BOT_NAME }}
+          email: ${{ secrets.BOT_EMAIL }}
+          gh_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🤘 checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ env.GH_TOKEN }}
+
+      - name: ⚙ dotnet
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 9.x
+
+      - name: ⚙ openlaw
+        run: dotnet tool update -g dotnet-openlaw --source https://clarius.blob.core.windows.net/nuget/index.json          
+
+      - name: 🔄 sync
+        run: |
+            new-item "${{ runner.temp }}/openlaw.md" | out-null
+            openlaw syncitem ${{ github.event.inputs.id }} --dir ${{ github.event.inputs.tipo }} --changelog ${{ runner.temp }}/openlaw.md --appendlog
+
+      - name: 🚀 pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: openlaw
+          delete-branch: true
+          labels: docs
+          title: "⬆️ Actualización de norma ${{ github.event.inputs.id }}"
+          commit-message: "⬆️ Actualización de norma ${{ github.event.inputs.id }}"
+          token: ${{ env.GH_TOKEN }}
+          body-path: ${{ runner.temp }}/openlaw.md
