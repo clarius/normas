@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-691-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1742322389023,
+      "timestamp": 1742488347918,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -11,7 +11,7 @@
       "document-recovery-strategy": "abstract-legislacion",
       "friendly-url": {
         "subdomain": "decreto",
-        "description": "196-nacional-modificacion-ley-transito-licencias-conducir-vtv-peajes-dn20250000196-2025-03-17"
+        "description": "196-nacional-aprobaron-cambios-licencia-conducir-modificando-reglamentacion-ley-transito-seguridad-vial-dn20250000196-2025-03-17"
       }
     },
     "content": {
@@ -30,7 +30,7 @@
         "id-pais": 11
       },
       "standard-normativo": "DEC C 000196 2025 03 17",
-      "titulo-norma": "Modificación de la Ley de Tránsito,licencias de conducir, VTV, peajes",
+      "titulo-norma": "Aprobaron cambios en la Licencia de Conducir modificando la Reglamentación de la Ley de Tránsito y Seguridad Vial",
       "nombre-coloquial": "DECRETO NACIONAL 196/2025",
       "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
@@ -43,13 +43,13 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-03-18",
-      "fecha-mod": "2025-03-18",
-      "timestamp": "2025-03-18T14:56:47",
-      "timestamp-alta": "2025-03-18T14:56:47",
-      "timestamp-m": "2025-03-18T14:56:47",
+      "fecha-alta": "2025-03-20",
+      "fecha-mod": "2025-03-20",
+      "timestamp": "2025-03-20T13:02:13",
+      "timestamp-alta": "2025-03-20T13:02:13",
+      "timestamp-m": "2025-03-20T13:02:13",
       "generalidades": {
-        "sintesis": "Se aprueban modificaciones a la Ley de Tránsito,licencias de conducir, VTV, peajes e Implementan la licencia nacional de conducir digital",
+        "sintesis": "Aprobaron cambios en la Licencia de Conducir modificando la Reglamentación de la Ley de Tránsito y Seguridad Vial",
         "anexos-decreto": {
           "anexo-ley": [
             "A ANEXO B",
@@ -143,34 +143,64 @@
                 "tránsito vehicular"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "modificación de la reglamentación"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/jerarquía de las leyes/leyes/modificación de la ley/modificación de la reglamentación"
+            },
+            "sinonimos": {
+              "termino": [
+                "orden de prelación de las leyes",
+                "ley modificatoria",
+                "jerarquía normativa",
+                "norma jurídica",
+                "modificación del código",
+                "orden jerárquico de las leyes",
+                "legislación"
+              ]
+            }
           }
         ],
         "suggest": {
           "termino": [
+            "ley modificatoria (modificación de la ley)",
             "ley de tránsito",
             "licencia de conducir",
             "automotores",
             "concesión de obra pública",
             "licencia nacional de conducir digital",
+            "jerarquía normativa (jerarquía de las leyes)",
+            "modificación de la reglamentación",
             "vehículos",
             "contrataciones del Estado (contratos administrativos)",
             "peaje",
+            "orden jerárquico de las leyes (jerarquía de las leyes)",
+            "jerarquía de las leyes",
             "concesión administrativa",
             "contrato de peaje (peaje)",
             "ley nacional de tránsito (ley de tránsito)",
             "tránsito (tránsito automotor)",
             "autorización para conducir (licencia de conducir)",
             "documentación del vehículo (documentación del automotor)",
+            "norma jurídica (leyes)",
             "Derecho administrativo",
             "habilitación para conducir (licencia de conducir)",
             "verificación de rodados (revisión técnica vehicular)",
+            "modificación del código (modificación de la ley)",
             "conductor",
             "contrato de concesión administrativa (concesión administrativa)",
             "Transporte",
             "revisión técnica vehicular",
             "tránsito vehicular (tránsito automotor)",
             "documentación del automotor",
+            "Derecho constitucional",
             "carnet de conducir (licencia de conducir)",
+            "orden de prelación de las leyes (jerarquía de las leyes)",
+            "leyes",
+            "legislación (leyes)",
             "tránsito automotor",
             "verificación técnica vehicular (revisión técnica vehicular)",
             "VTV (revisión técnica vehicular)",
@@ -180,6 +210,7 @@
             "normas de tránsito",
             "contratos administrativos",
             "licencia de conductor (licencia de conducir)",
+            "modificación de la ley",
             "derecho de peaje (peaje)"
           ]
         }
@@ -675,7 +706,7 @@
         }
       ],
       "id-infojus": "DN20250000196",
-      "fecha-umod": 20250318152629
+      "fecha-umod": 20250320133227
     }
   }
 }
