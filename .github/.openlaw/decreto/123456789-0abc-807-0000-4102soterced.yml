@@ -1,0 +1,262 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Document not found with ID '123456789-0abc-807-0000-4102soterced. (Parameter 'id')
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw/Argentina/SaijClient.cs:line 172
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw/Argentina/SaijClient.cs:line 128
+     at Clarius.OpenLaw.Argentina.SyncCommand.SyncAction.ExecuteAsync() in /_/src/OpenLaw/Argentina/SyncCommand.cs:line 221
+Item:
+  Id: 123456789-0abc-807-0000-4102soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Individual, Solo Modificatoria o Sin Eficacia
+  Date: 2014-05-15
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-807-0000-4102soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 708-nacional-designacion-caracter-transitorio-jefatura-gabinete-ministros-dn20140000708-2014-05-15
+      content:
+        mecanografico: 20140000708
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        numero-norma: 708
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        fecha: 2014-05-15
+        standard-normativo: DEC C 000708 2014 05 15
+        titulo-norma: Designación con carácter transitorio en la Jefatura de Gabinete de Ministros
+        nombre-coloquial: DECRETO NACIONAL 708/2014
+        estado: Individual, Solo Modificatoria o Sin Eficacia
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: jefatura de gabinete de ministros
+            preferido:
+              termino: Derecho constitucional/poderes del Estado/Poder Ejecutivo/ministerios/jefatura de gabinete de ministros
+            sinonimos:
+              termino: poderes públicos
+          - elegido:
+              termino: sistema nacional de empleo público
+            preferido:
+              termino: Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/derechos de los agentes de la administración pública/carrera administrativa/escalafón/SINEP
+            sinonimos:
+              termino:
+              - personal del sector público
+              - derechos del empleado público
+              - relación de empleo público
+              - personal del Estado
+              - agentes públicos
+              - agentes de la Administración
+              - derechos del funcionario público
+              - funcionarios y empleados públicos
+              - sistema nacional de empleo público
+              - función pública
+          - elegido:
+              termino: designación transitoria
+            preferido:
+              termino: Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal no permanente/personal transitorio
+            sinonimos:
+              termino:
+              - relación de empleo público
+              - personal del Estado
+              - agentes de la Administración
+              - contratación temporaria
+              - agentes transitorios
+              - función pública
+              - planta transitoria
+              - nombramiento provisorio
+              - personal del sector público
+              - agentes públicos
+              - personal de planta temporaria
+              - funcionarios y empleados públicos
+              - designación transitoria
+          suggest:
+            termino:
+            - personal no permanente
+            - sistema nacional de empleo público (SINEP)
+            - agentes de la administración pública
+            - jefatura de gabinete de ministros
+            - agentes de la Administración (agentes de la administración pública)
+            - personal del sector público (agentes de la administración pública)
+            - derechos del empleado público (derechos de los agentes de la administración pública)
+            - designación transitoria (personal transitorio)
+            - situaciones de revista
+            - personal del Estado (agentes de la administración pública)
+            - nombramiento provisorio (personal transitorio)
+            - poderes públicos (poderes del Estado)
+            - relación de empleo público (empleo público)
+            - funcionarios y empleados públicos (agentes de la administración pública)
+            - Derecho administrativo
+            - agentes transitorios (personal transitorio)
+            - función pública (Administración Pública)
+            - carrera administrativa
+            - derechos del funcionario público (derechos de los agentes de la administración pública)
+            - poderes del Estado
+            - ministerios
+            - Administración Pública
+            - Derecho constitucional
+            - agentes públicos (agentes de la administración pública)
+            - derechos de los agentes de la administración pública
+            - personal transitorio
+            - personal de planta temporaria (personal no permanente)
+            - SINEP
+            - Poder Ejecutivo
+            - empleo público
+            - planta transitoria (personal transitorio)
+            - escalafón
+            - contratación temporaria (personal no permanente)
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-807-0000-4102soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "708-nacional-designacion-caracter-transitorio-jefatura-gabinete-ministros-dn20140000708-2014-05-15"
+          }
+        },
+        "content": {
+          "mecanografico": 20140000708,
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "numero-norma": 708,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "fecha": "2014-05-15",
+          "standard-normativo": "DEC C 000708 2014 05 15",
+          "titulo-norma": "Designación con carácter transitorio en la Jefatura de Gabinete de Ministros",
+          "nombre-coloquial": "DECRETO NACIONAL 708/2014",
+          "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "jefatura de gabinete de ministros"
+                },
+                "preferido": {
+                  "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/ministerios/jefatura de gabinete de ministros"
+                },
+                "sinonimos": {
+                  "termino": "poderes públicos"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "sistema nacional de empleo público"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/derechos de los agentes de la administración pública/carrera administrativa/escalafón/SINEP"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "personal del sector público",
+                    "derechos del empleado público",
+                    "relación de empleo público",
+                    "personal del Estado",
+                    "agentes públicos",
+                    "agentes de la Administración",
+                    "derechos del funcionario público",
+                    "funcionarios y empleados públicos",
+                    "sistema nacional de empleo público",
+                    "función pública"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "designación transitoria"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal no permanente/personal transitorio"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "relación de empleo público",
+                    "personal del Estado",
+                    "agentes de la Administración",
+                    "contratación temporaria",
+                    "agentes transitorios",
+                    "función pública",
+                    "planta transitoria",
+                    "nombramiento provisorio",
+                    "personal del sector público",
+                    "agentes públicos",
+                    "personal de planta temporaria",
+                    "funcionarios y empleados públicos",
+                    "designación transitoria"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "personal no permanente",
+                "sistema nacional de empleo público (SINEP)",
+                "agentes de la administración pública",
+                "jefatura de gabinete de ministros",
+                "agentes de la Administración (agentes de la administración pública)",
+                "personal del sector público (agentes de la administración pública)",
+                "derechos del empleado público (derechos de los agentes de la administración pública)",
+                "designación transitoria (personal transitorio)",
+                "situaciones de revista",
+                "personal del Estado (agentes de la administración pública)",
+                "nombramiento provisorio (personal transitorio)",
+                "poderes públicos (poderes del Estado)",
+                "relación de empleo público (empleo público)",
+                "funcionarios y empleados públicos (agentes de la administración pública)",
+                "Derecho administrativo",
+                "agentes transitorios (personal transitorio)",
+                "función pública (Administración Pública)",
+                "carrera administrativa",
+                "derechos del funcionario público (derechos de los agentes de la administración pública)",
+                "poderes del Estado",
+                "ministerios",
+                "Administración Pública",
+                "Derecho constitucional",
+                "agentes públicos (agentes de la administración pública)",
+                "derechos de los agentes de la administración pública",
+                "personal transitorio",
+                "personal de planta temporaria (personal no permanente)",
+                "SINEP",
+                "Poder Ejecutivo",
+                "empleo público",
+                "planta transitoria (personal transitorio)",
+                "escalafón",
+                "contratación temporaria (personal no permanente)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-807-0000-4102soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2014-05-15",
+      "status": "Individual, Solo Modificatoria o Sin Eficacia",
+      "timestamp": null
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
