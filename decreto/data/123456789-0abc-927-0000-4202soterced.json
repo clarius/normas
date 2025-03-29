@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-927-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1723645705886,
+      "timestamp": 1743175749216,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-08-14",
-      "fecha-mod": "2024-08-14",
-      "timestamp": "2024-08-14T11:21:49",
-      "timestamp-alta": "2024-08-14T11:21:49",
-      "timestamp-m": "2024-08-14T11:21:49",
+      "fecha-alta": "2025-03-28",
+      "fecha-mod": "2025-03-28",
+      "timestamp": "2025-03-28T12:20:16",
+      "timestamp-alta": "2025-03-28T12:20:16",
+      "timestamp-m": "2025-03-28T12:20:16",
       "generalidades": {
         "sintesis": "Se aprueba la Estructura Organizativa de primer nivel operativo del Ministerio de Defensa",
         "anexos-decreto": {
@@ -209,12 +209,33 @@
         {
           "anexo": "A",
           "titulo-anexo": "ANEXO",
-          "texto": "ANEXO"
+          "texto": "ANEXO.\n\nANEXO Id",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 28/3/2025) ANEXO Id SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000233 2025 03 27 0006 000 0000 000"
+            }
+          }
         },
         {
           "anexo": "B",
           "titulo-anexo": "ANEXO II",
-          "texto": "ANEXO II"
+          "texto": "ANEXO II.\n\nRESPONSABILIDADES PRIMARIAS Y ACCIONES DE LA DIRECCION NACIONAL DE ENLACE CON LA AGENCIA FEDERAL DE EMERGENCIAS Y DE LA DIRECCIÓN NACIONAL DE PROTECCIÓN HUMANITARIA",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 28/3/2025) RESPONSABILIDADES PRIMARIAS Y ACCIONES DE LA DIRECCION DE LOGISTICA OPERATIVA EN EMERGENCIAS, DIRECCION DE PLANEAMIENTO DE LA ASISTENCIA MILITAR A LA PROTECCION CIVIL Y DIRECCIÓN NACIONAL DE PREVENCIÓN Y ARTICULACIÓN FEDERAL ANTE DESASTRES Y EMERGENCIAS DEPENDIENTES DE LA EX-SUBSECRETARÍA DE PLANEAMIENTO Y COORDINACIÓN EJECUTIVA EN EMERGENCIAS SUPRIMIDAS",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000233 2025 03 27 0007 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 28/3/2025) RESPONSABILIDADES PRIMARIAS Y ACCIONES DE LA DIRECCION NACIONAL DE ENLACE CON LA AGENCIA FEDERAL DE EMERGENCIAS Y DE LA DIRECCIÓN NACIONAL DE PROTECCIÓN HUMANITARIA, DEPENDIENTES DE LA SUBSECRETARÍA DE DEFENSA CIVIL Y PROTECCIÓN HUMANITARIA DEL MINISTERIO DE DEFENSA INCORPORADAS",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DEC C 000233 2025 03 27 0008 000 0000 000"
+              }
+            ]
+          }
         },
         {
           "anexo": "C",
@@ -233,7 +254,7 @@
         }
       ],
       "id-infojus": "DN20240000729",
-      "fecha-umod": 20240814112825
+      "fecha-umod": 20250328122909
     }
   }
 }
