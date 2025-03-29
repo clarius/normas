@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-383-0000-7102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1534277385630,
+      "timestamp": 1743175085528,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 383,
-      "timestamp": "2018-08-14T16:18:06",
-      "timestamp-alta": "2017-05-31T12:36:24",
-      "timestamp-m": "2018-08-14T16:18:06",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,11 +40,14 @@
       "nombre-coloquial": "DECRETO NACIONAL 383/2017",
       "analista": "Rocca, Adriana",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2017-05-31",
-      "fecha-mod": "2018-08-14",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-03-28",
+      "fecha-mod": "2025-03-28",
+      "timestamp": "2025-03-28T11:55:21",
+      "timestamp-alta": "2025-03-28T11:55:21",
+      "timestamp-m": "2025-03-28T11:55:21",
       "generalidades": {
         "sintesis": "Se reglamenta la Ley 27.287 del Sistema Nacional para la Gestión Integral del Riesgo y la Protección Civil",
         "anexos-decreto": {
@@ -61,7 +61,13 @@
             "ref": "LEY C 027287 2016 09 28 0000 000 0000 000"
           }
         },
-        "adherida-por": "no procesado"
+        "adherida-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "ADHERIDA_POR_0",
+            "ref": "LEY H 002727 2017 11 29 0000 000 0000 000"
+          }
+        }
       },
       "descriptores": {
         "descriptor": [
@@ -75,6 +81,7 @@
             "sinonimos": {
               "termino": [
                 "reglamento ejecutivo",
+                "actos de alcance general",
                 "reglamento de ejecución",
                 "reglamento administrativo"
               ]
@@ -132,6 +139,7 @@
             "acción social (Bienestar social)",
             "acto administrativo de alcance general",
             "Centro nacional de información en gestión integral del riesgo",
+            "actos de alcance general (acto administrativo de alcance general)",
             "reglamento administrativo (reglamentos)",
             "Derecho administrativo"
           ]
@@ -231,7 +239,7 @@
         },
         {
           "numero-articulo": 4,
-          "texto": "ARTÍCULO 4°.- Constitúyese el Gabinete del CONSEJO FEDERAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL dependiente del citado CONSEJO FEDERAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL, el que estará conformado por el Presidente del CONSEJO FEDERAL, quien lo presidirá, por UNA (1) Vicepresidencia Ejecutiva rotativa en forma anual entre las distintas Provincias, la CIUDAD AUTÓNOMA DE BUENOS AIRES y por UN (1) representante de cada una de las regiones de protección civil definidas conforme el artículo 10 de la reglamentación contenida en el  Anexo I del presente."
+          "texto": "ARTÍCULO 4°.- Constitúyese el Gabinete del CONSEJO FEDERAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL dependiente del citado CONSEJO FEDERAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL, el que estará conformado por el Presidente del CONSEJO FEDERAL, quien lo presidirá, por UNA (1) Vicepresidencia Ejecutiva rotativa en forma anual entre las distintas Provincias, la CIUDAD AUTÓNOMA DE BUENOS AIRES y por UN (1) representante de cada una de las regiones de protección civil definidas conforme el artículo 10 de la reglamentación contenida en el Anexo I del presente."
         },
         {
           "numero-articulo": 5,
@@ -264,7 +272,7 @@
             ]
           },
           "numero-articulo": 7,
-          "texto": "ARTÍCULO 7°.- Instrúyese al MINISTERIO DE SEGURIDAD a suscribir el Contrato de Fideicomiso de conformidad con los lineamientos generales previstos en la Ley N° 27.287, en la presente reglamentación y  las prescripciones contenidas en el Capítulo 30 del Título IV del Libro Tercero del CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN."
+          "texto": "ARTÍCULO 7°.- Instrúyese al MINISTERIO DE SEGURIDAD a suscribir el Contrato de Fideicomiso de conformidad con los lineamientos generales previstos en la Ley N° 27.287, en la presente reglamentación y las prescripciones contenidas en el Capítulo 30 del Título IV del Libro Tercero del CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN."
         },
         {
           "numero-articulo": 8,
@@ -319,7 +327,14 @@
             "articulo": [
               {
                 "numero-articulo": 5,
-                "texto": "ARTÍCULO 5°.- El CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL, será presidido por el JEFE DE GABINETE DE MINISTROS, o por el funcionario que éste designe a tal efecto, con cargo no inferior a Secretario."
+                "texto": "ARTÍCULO 5°.- El CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL será presidido por el titular del MINISTERIO DE SEGURIDAD NACIONAL o por el funcionario que este designe a tal efecto, con rango no inferior a Secretario.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 28/3/2025) ARTICULO SUSTITUIDO",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DEC C 000233 2025 03 27 0004 000 0000 000"
+                  }
+                }
               },
               {
                 "numero-articulo": 6,
@@ -343,7 +358,14 @@
               },
               {
                 "numero-articulo": 9,
-                "texto": "ARTÍCULO 9°.- La Coordinación de la RED GIRCyT estará a cargo del titular del MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PRODUCTIVA, quien podrá delegarla en un funcionario con rango no inferior a Secretario.\n\nLa Coordinación de la RED GIRCyT determinará el funcionamiento de la red, especificando actividades ordinarias y extraordinarias.\n\nDel mismo modo, la Coordinación de la RED GIRCyT gestionará ante los organismos científico-técnicos con competencia específica, universidades o expertos de reconocida trayectoria, la obtención de información adicional o extraordinaria que la SECRETARÍA EJECUTIVA o el CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL puedan requerir ante la inminencia de un desastre, durante o con posterioridad al desarrollo de éste."
+                "texto": "ARTÍCULO 9°.- La Coordinación de la RED GIRCyT estará a cargo del Director Ejecutivo de la AGENCIA FEDERAL DE EMERGENCIAS (AFE).\n\nLa Coordinación de la RED GIRCyT determinará el funcionamiento de la red, especificando actividades ordinarias y extraordinarias.\n\nDel mismo modo, la Coordinación de la RED GIRCyT gestionará ante los organismos científico-técnicos con competencia específica, universidades o expertos de reconocida trayectoria la obtención de información adicional o extraordinaria que la SECRETARÍA EJECUTIVA o el CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL puedan requerir ante la inminencia de un desastre, durante o con posterioridad al desarrollo de este.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 28/3/2025) ARTICULO SUSTITUIDO",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DEC C 000233 2025 03 27 0005 000 0000 000"
+                  }
+                }
               }
             ]
           },
@@ -351,7 +373,7 @@
             "titulo-particion": "CAPÍTULO V AGRUPAMIENTO TERRITORIAL",
             "articulo": {
               "numero-articulo": 10,
-              "texto": "ARTÍCULO 10.- La SECRETARÍA EJECUTIVA agrupará el Territorio Nacional por regiones de protección civil, con el objeto de asistir en la elaboración de las políticas públicas regionales y provinciales de Gestión Integral del Riesgo de acuerdo a lo previsto en el artículo 11 de la  Ley N° 27.287, facilitar la coordinación de las acciones y dar soluciones integrales y comunes a los problemas que afecten a provincias de una misma región o a la CIUDAD AUTÓNOMA DE BUENOS AIRES El proyecto de agrupamiento territorial se ajustará a los siguientes principios generales:\n\na) Cada región de protección civil estará integrada por varias provincias, respetando su integridad y sin subdivisiones que separen su territorio.\n\nb) Se nombrará UN (1) representante del ESTADO NACIONAL para cada región de protección civil.\n\nc) Se considerará tanto el riesgo de ocurrencia de eventos adversos como los medios y recursos disponibles."
+              "texto": "ARTÍCULO 10.- La SECRETARÍA EJECUTIVA agrupará el Territorio Nacional por regiones de protección civil, con el objeto de asistir en la elaboración de las políticas públicas regionales y provinciales de Gestión Integral del Riesgo de acuerdo a lo previsto en el artículo 11 de la Ley N° 27.287, facilitar la coordinación de las acciones y dar soluciones integrales y comunes a los problemas que afecten a provincias de una misma región o a la CIUDAD AUTÓNOMA DE BUENOS AIRES El proyecto de agrupamiento territorial se ajustará a los siguientes principios generales:\n\na) Cada región de protección civil estará integrada por varias provincias, respetando su integridad y sin subdivisiones que separen su territorio.\n\nb) Se nombrará UN (1) representante del ESTADO NACIONAL para cada región de protección civil.\n\nc) Se considerará tanto el riesgo de ocurrencia de eventos adversos como los medios y recursos disponibles."
             }
           },
           {
@@ -380,7 +402,7 @@
               },
               {
                 "numero-articulo": 15,
-                "texto": "ARTÍCULO 15.- Una vez recibida la solicitud prevista en el   artículo precedente, el Presidente del CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL convocará al Gabinete del CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL a los efectos de evaluar los acontecimientos y, en caso de resultar necesario, declarar la situación de emergencia por desastre."
+                "texto": "ARTÍCULO 15.- Una vez recibida la solicitud prevista en el artículo precedente, el Presidente del CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL convocará al Gabinete del CONSEJO NACIONAL PARA LA GESTIÓN INTEGRAL DEL RIESGO Y LA PROTECCIÓN CIVIL a los efectos de evaluar los acontecimientos y, en caso de resultar necesario, declarar la situación de emergencia por desastre."
               },
               {
                 "numero-articulo": 16,
@@ -400,7 +422,7 @@
                   }
                 },
                 "numero-articulo": 17,
-                "texto": "ARTÍCULO 17.- Son consideradas fuerzas operativas para actuar en el marco de las acciones desplegadas por el SINAGIR las siguientes:\n\na) Fuerzas Armadas.\n\nb) Fuerzas Policiales y de Seguridad Federales.\n\nc) Fuerzas Policiales Provinciales y de la CIUDAD AUTÓNOMA DE BUENOS AIRES.\n\nd) Los sistemas públicos de salud.\n\ne) El sistema nacional de bomberos, entendiéndose por este, tanto a los cuerpos oficiales profesionales como a los voluntarios previstos en la  Ley N° 25.054 y sus modificatorias.\n\nf) Los organismos públicos nacionales, provinciales, de la CIUDAD AUTÓNOMA DE BUENOS AIRES o municipales competentes.\n\ng) Toda entidad privada que sea convocada por las autoridades de defensa civil."
+                "texto": "ARTÍCULO 17.- Son consideradas fuerzas operativas para actuar en el marco de las acciones desplegadas por el SINAGIR las siguientes:\n\na) Fuerzas Armadas.\n\nb) Fuerzas Policiales y de Seguridad Federales.\n\nc) Fuerzas Policiales Provinciales y de la CIUDAD AUTÓNOMA DE BUENOS AIRES.\n\nd) Los sistemas públicos de salud.\n\ne) El sistema nacional de bomberos, entendiéndose por este, tanto a los cuerpos oficiales profesionales como a los voluntarios previstos en la Ley N° 25.054 y sus modificatorias.\n\nf) Los organismos públicos nacionales, provinciales, de la CIUDAD AUTÓNOMA DE BUENOS AIRES o municipales competentes.\n\ng) Toda entidad privada que sea convocada por las autoridades de defensa civil."
               },
               {
                 "numero-articulo": 18,
@@ -462,7 +484,7 @@
               },
               {
                 "numero-articulo": 30,
-                "texto": "ARTÍCULO 30.- La totalidad de los recursos enumerados en el    artículo 17 de la Ley N° 27.287 conformarán los BIENES FIDEICOMITIDOS."
+                "texto": "ARTÍCULO 30.- La totalidad de los recursos enumerados en el artículo 17 de la Ley N° 27.287 conformarán los BIENES FIDEICOMITIDOS."
               },
               {
                 "numero-articulo": 31,
@@ -493,7 +515,8 @@
           }
         ]
       },
-      "id-infojus": "DN20170000383"
+      "id-infojus": "DN20170000383",
+      "fecha-umod": 20250328121805
     }
   }
 }
