@@ -1,0 +1,27 @@
+name: upload
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: 🔎 changes
+        id: changed-files
+        uses: tj-actions/changed-files@v46.0.3
+        with:
+            files: '*.json'        
+
+      - name: 📝 list
+        env:
+          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        run: |
+          for file in ${ALL_CHANGED_FILES}; do
+            echo "$file was changed"
+          done
