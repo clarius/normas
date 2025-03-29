@@ -10,13 +10,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: 🔎 changes
         id: changed-files
         uses: tj-actions/changed-files@v46.0.3
         with:
-            files: '*.json'        
+            files: |
+                ley/data/*.json
+                decreto/data/*.json    
 
       - name: 📝 list
         env:
