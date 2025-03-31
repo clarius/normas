@@ -29,17 +29,43 @@ foreach ($file in $files) {
     # Convert metadata JSON to an array of key=value pairs using jq
     $metadataPairs = $metadataJson | & jq -r 'to_entries | map("\(.key)=\(.value)") | .[]'
     
+    # Check if the file should be marked as deleted based on its content
+    $addDeletedFlag = $false
+    if ($file.EndsWith('.json')) {
+        # Use jq to check if documento.content.estado is 'Vigente, de alcance general'
+        $estadoCheck = get-content -Path $file -Raw | & jq -c -r '.document.content.estado == "Vigente, de alcance general"'
+        if ($estadoCheck -eq "true") {
+            $addDeletedFlag = $true
+            write-output "Found document with estado='Vigente, de alcance general' - Will mark as deleted"
+        }
+    }
+    
     $uploadArgs = @(
         "storage", "blob", "upload",
         "--blob-url", $blobUrl,
         "--file", $file,
-        "--overwrite", "true"
+        "--overwrite", "true",
         "--auth-mode", "login"
     )
     
-    if ($metadataPairs) {
+    # Add metadata handling including the deleted flag if needed
+    if ($metadataPairs -or $addDeletedFlag) {
         $uploadArgs += "--metadata"
-        $uploadArgs += $metadataPairs
+        $metadata = ""
+        
+        if ($metadataPairs) {
+            $metadata = $metadataPairs -join " "
+        }
+        
+        if ($addDeletedFlag) {
+            if ($metadata) {
+                $metadata += " deleted=true"
+            } else {
+                $metadata = "deleted=true"
+            }
+        }
+        
+        $uploadArgs += $metadata
     }
     
     # Suppress output but still check for errors
