@@ -32,4 +32,4 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
           AZURE_BLOB_URL: ${{ vars.AZURE_BLOB_URL }}
-        run: ./upload.ps1
+        run: .github/workflows/upload.ps1
