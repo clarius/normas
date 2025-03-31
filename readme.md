@@ -52,3 +52,46 @@ Esta metadata no es normativa, se encuentra en español y provee información ú
 
 La metadata completa de un articulo se encuentra en la carpeta `data/[Id].json`. El `Id` puede extraerse programaticamente 
 del YAML front-matter. Por ejemplo, ver metadata completa de la [Ley Antimafias](ley/data/123456789-0abc-defg-g14-87000scanyel.json).
+
+### Desarrolladores
+
+Este repositorio puede utilizarse eficientemente para recolectar estadisticas relacionadas con las leyes argentinas.
+Es altamente recomendado familiarizarse con [jq](https://jqlang.org/manual/) para sacarle el mejor provecho a la 
+disponibilidad de los JSON completos del sistema SAIJ.
+
+Los ejemplos siguientes utilizan pwsh (powershell cross-platform) y jq (en cualquier sistema operativo).
+
+#### Valores unicos de 'estado' de las leyes y decretos
+
+```pwsh
+dir -r *.json | gc | jq -r '.document.content | .estado // .status' | select -unique
+```
+Resultados:
+```
+Vigente, de alcance general
+Individual, Solo Modificatoria o Sin Eficacia
+A
+Derogada
+Vetada
+```
+
+#### Lista de normas con la palabra `Covid` en el titulo
+
+```pwsh
+cd ./ley
+dir -r *.json | gc | jq -r '.document.content | select(.["titulo-norma"]? // "" | ascii_downcase | contains("covid")) | .["nombre-coloquial"] + ": " + .["titulo-norma"]' | where {$_}
+``` 
+Resultados:
+```
+DECRETO NACIONAL 260/2020: Decreto de Necesidad y Urgencia sobre Emergencia Sanitaria en virtud de la Pandemia declarada por la Organización Mundial De La Salud  en relación con el coronavirus COVID-19 por el plazo de 1 año
+DECRETO NACIONAL 1/2022: Donación de Vacunas contra la Covid-19 a favor del Gobierno de la República Árabe De Egipto
+DECRETO NACIONAL 411/2021: Decreto de Necesidad y Urgencia que establece medidas generales de prevención de Covid-19 destinadas a mitigar la transmisión del virus hasta el día 9 de julio de 2021, inclusive
+DECRETO NACIONAL 811/2020: Aprobación del Modelo de Contrato de Préstamo CAF a celebrarse con la Corporación Andina de Fomento destinado a financiar el "Programa de Apoyo al Plan Nacional Argentina Contra el Hambre en la Emergencia Socio-Sanitaria COVID-19"
+DECRETO NACIONAL 431/2021: Decreto de Necesidad y Urgencia que establece el Marco legal para el desarrollo del Plan Nacional de Vacunación Destinado a Generar Inmunidad Adquirida contra la COVID-19 con Inclusión de la Protección de los Niños, las Niñas y Adolescentes
+DECRETO NACIONAL 352/2020: Creación del Programa para la Emergencia Financiera Provincial para asistir financieramente a las provincias por las necesidades ocasionadas por la epidemia de Covid-19
+DECRETO NACIONAL 853/2021: Aprobación del Contrato de Financiación a celebrarse con el Banco Europeo de Inversiones destinado a financiar el Proyecto de Apoyo al Plan Estratégico para la Vacunación Contra la Covid-19 en la República Argentina
+DECRETO NACIONAL 494/2021: Decreto de Necesidad y Urgencia que establece Nuevas Medidas Generales de Prevención de la Covid-19 y Nuevos Parámetros para Definir Situaciones de Alarma Epidemiológica y Sanitaria que regirá hasta el día 1 de octubre de 2021 inclusive
+DECRETO NACIONAL 835/2021: Donación de Vacunas contra la Covid-19 a favor de la República De Filipinas
+...
+```
+
