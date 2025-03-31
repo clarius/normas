@@ -32,46 +32,4 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
           AZURE_BLOB_URL: ${{ vars.AZURE_BLOB_URL }}
-        run: |
-            az account show | jq '.name + " (" + .user.name + ")"'
-            if ([string]::IsNullOrEmpty($env:ALL_CHANGED_FILES)) {
-                Write-Output "No files changed. Skipping upload."
-                exit 0
-            }
-
-            $baseBlobUrl = $env:AZURE_BLOB_URL
-            if (-not $baseBlobUrl.EndsWith('/')) {
-                $baseBlobUrl += '/'
-            }
-
-            $files = $env:ALL_CHANGED_FILES -split '\r?\n'
-            foreach ($file in $files) {
-                $blobName = [System.IO.Path]::GetFileName($file)
-                $blobUrl = "$baseBlobUrl$blobName"
-                
-                $existsJson = az storage blob exists --blob-url $blobUrl
-                $exists = ($existsJson | ConvertFrom-Json).exists
-                
-                if ($exists) {
-                    $metadataJson = az storage blob metadata show --blob-url $blobUrl --auth-mode login
-                } else {
-                    $metadataJson = "{}"
-                }
-                
-                # Convert metadata JSON to an array of key=value pairs using jq
-                $metadataPairs = $metadataJson | & jq -r 'to_entries | map("\(.key)=\(.value)") | .[]'
-                
-                $uploadArgs = @(
-                    "storage", "blob", "upload",
-                    "--blob-url", $blobUrl,
-                    "--file", $file,
-                    "--overwrite", "true"
-                )
-                
-                if ($metadataPairs) {
-                    $uploadArgs += "--metadata"
-                    $uploadArgs += $metadataPairs
-                }
-                
-                & az @uploadArgs
-            }
+        run: ./upload.ps1
