@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '*/data/*.json'
+      - '*/*.md'
 
 defaults:
   run:
@@ -16,11 +19,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 🔎 changes
-        id: changed-files
+      - name: 🔎 json changes
+        id: json-changes
         uses: tj-actions/changed-files@v46.0.3
         with:
             files: '*/data/*.json'
+
+      - name: 🔎 markdown changes
+        id: md-changes
+        uses: tj-actions/changed-files@v46.0.3
+        with:
+            files: '*/*.md'
 
         # AZURE_CREDENTIALS created with: az ad sp create-for-rbac --name <name> --role "Storage Blob Data Contributor" --scopes /subscriptions/<id>/resourceGroups/<name>/providers/Microsoft.Storage/storageAccounts/<name> --sdk-auth
       - name: 🔓 azure login
@@ -29,49 +38,44 @@ jobs:
           creds: ${{ secrets.AZURE_CREDENTIALS }}        
 
       - name: 🔼 upload
+        if: steps.json-changes.outputs.all_changed_files != '' || steps.md-changes.outputs.all_changed_files != ''
         env:
-          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+          CHANGED_JSON: ${{ steps.json-changes.outputs.all_changed_files }}
+          CHANGED_MD: ${{ steps.md-changes.outputs.all_changed_files }}
           AZURE_BLOB_URL: ${{ vars.AZURE_BLOB_URL }}
+          AZCOPY_AUTO_LOGIN_TYPE: AZCLI
+          AZCOPY_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
         run: |
             az account show | jq '.name + " (" + .user.name + ")"'
-            if ([string]::IsNullOrEmpty($env:ALL_CHANGED_FILES)) {
-                Write-Output "No files changed. Skipping upload."
-                exit 0
-            }
-
-            $baseBlobUrl = $env:AZURE_BLOB_URL
-            if (-not $baseBlobUrl.EndsWith('/')) {
-                $baseBlobUrl += '/'
-            }
-
-            $files = $env:ALL_CHANGED_FILES -split '\r?\n'
+            
+            # We first upload JSON files so that the markdown processing can fetch them if needed
+            $files = $env:CHANGED_JSON -split ' '
             foreach ($file in $files) {
-                $blobName = [System.IO.Path]::GetFileName($file)
-                $blobUrl = "$baseBlobUrl$blobName"
-                
-                $existsJson = az storage blob exists --blob-url $blobUrl
-                $exists = ($existsJson | ConvertFrom-Json).exists
-                
-                if ($exists) {
-                    $metadataJson = az storage blob metadata show --blob-url $blobUrl --auth-mode login
-                } else {
-                    $metadataJson = "{}"
+                if (-not (test-path $file -PathType Leaf)) { continue }
+                $blob = "$env:AZURE_BLOB_URL$([System.IO.Path]::GetFileName($file))"
+                $metadata = $(az storage blob metadata show --blob-url $blob --auth-mode login | jq -r 'to_entries | map("\(.key)=\(.value)") | join(";")' 2>$null) ?? ''
+                $result = & azcopy copy $file $blob --overwrite=ifSourceNewer --metadata $metadata --content-type="application/json; charset=utf-8"
+
+                if ($LASTEXITCODE -ne 0) {
+                    write-error "Failed to upload $file to blob storage: $result"
+                    exit $LASTEXITCODE
                 }
-                
-                # Convert metadata JSON to an array of key=value pairs using jq
-                $metadataPairs = $metadataJson | & jq -r 'to_entries | map("\(.key)=\(.value)") | .[]'
-                
-                $uploadArgs = @(
-                    "storage", "blob", "upload",
-                    "--blob-url", $blobUrl,
-                    "--file", $file,
-                    "--overwrite", "true"
-                )
-                
-                if ($metadataPairs) {
-                    $uploadArgs += "--metadata"
-                    $uploadArgs += $metadataPairs
+
+                write-output "✅ $file > $blob"
+            }
+
+            # Then we upload the markdown files
+            $files = $env:CHANGED_MD -split ' '
+            foreach ($file in $files) {
+                if (-not (test-path $file -PathType Leaf)) { continue }
+                $blob = "$env:AZURE_BLOB_URL$([System.IO.Path]::GetFileName($file))"
+                $metadata = $(az storage blob metadata show --blob-url $blob --auth-mode login | jq -r 'to_entries | map("\(.key)=\(.value)") | join(";")' 2>$null) ?? ''
+                $result = & azcopy copy $file $blob --overwrite=ifSourceNewer --metadata $metadata --content-type="text/markdown; charset=utf-8"
+
+                if ($LASTEXITCODE -ne 0) {
+                    write-error "Failed to upload $file to blob storage: $result"
+                    exit $LASTEXITCODE
                 }
-                
-                & az @uploadArgs
+
+                write-output "✅ $file > $blob"
             }
