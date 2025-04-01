@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-755-0000-3202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1743175747036,
+      "timestamp": 1743435859095,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-03-28",
-      "fecha-mod": "2025-03-28",
-      "timestamp": "2025-03-28T12:20:16",
-      "timestamp-alta": "2025-03-28T12:20:16",
-      "timestamp-m": "2025-03-28T12:20:16",
+      "fecha-alta": "2025-03-31",
+      "fecha-mod": "2025-03-31",
+      "timestamp": "2025-03-31T12:05:50",
+      "timestamp-alta": "2025-03-31T12:05:50",
+      "timestamp-m": "2025-03-31T12:05:50",
       "generalidades": {
         "sintesis": "Se modifican la Nomenclatura Común del Mercosur, el Arancel Externo Común y los Reintegros a la Exportación",
         "anexos-decreto": {
@@ -641,13 +641,20 @@
               "ref": "DEC C 000384 2024 05 03 0003 000 0000 000"
             }
           },
-          "texto": "ANEXO II",
+          "texto": "ANEXO II .\n\nANEXO II .",
           "modificado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 16/10/2024) ANEXO MODIFICADO",
-              "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000908 2024 10 15 0003 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 16/10/2024) ANEXO SUSTITUIDO .",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000908 2024 10 15 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 31-03-2025) ANEXO MODIFICADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL.",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DEC C 000236 2025 03 28 0002 000 0000 000"
+              }
+            ]
           }
         },
         {
@@ -751,7 +758,7 @@
         }
       ],
       "id-infojus": "DN20230000557",
-      "fecha-umod": 20250328122907
+      "fecha-umod": 20250331124419
     }
   }
 }
