@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-831-1000-3991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1729513121390,
+      "timestamp": 1743529364542,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,39 +16,46 @@
     },
     "content": {
       "mecanografico": 19930001138,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1138,
+      "fecha": "1993-06-04",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1138,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1993-06-04",
       "standard-normativo": "DEC C 001138 1993 06 04",
       "titulo-norma": "Decreto Reglamentario sobre Creación del Registro de Electores Residentes en el Exteriore",
+      "nombre-coloquial": "DECRETO NACIONAL 1.138/1993",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1993 06 09"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 1.138/1993",
       "analista": "Rocca, Adriana",
-      "estado": "Vigente, de alcance general",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-10-21",
-      "fecha-mod": "2024-10-21",
-      "timestamp": "2024-10-21T09:01:34",
-      "timestamp-alta": "2024-10-21T09:01:34",
-      "timestamp-m": "2024-10-21T09:01:34",
+      "fecha-alta": "2025-04-01",
+      "fecha-mod": "2025-04-01",
+      "timestamp": "2025-04-01T14:00:33",
+      "timestamp-alta": "2025-04-01T14:00:33",
+      "timestamp-m": "2025-04-01T14:00:33",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 1/4/2025)",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000239 2025 03 31 0002 000 0000 000"
+          }
+        },
         "sintesis": "SE APRUEBA LA REGLAMENTACION DE LA LEY 24.007, DE CREACION DEL REGISTRO DE ELECTORES RESIDENTES EN EL EXTERIOR.",
         "anexos-decreto": {
           "anexo-ley": "A REGLAMENTACION DE LA LEY 24.007"
@@ -1429,7 +1436,7 @@
         ]
       },
       "id-infojus": "DN19930001138",
-      "fecha-umod": 20241021091841
+      "fecha-umod": 20250401144244
     }
   }
 }
