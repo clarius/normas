@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-676-0000-0202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1695907514920,
+      "timestamp": 1695907511414,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -67,15 +67,9 @@
               "termino": "deuda pública"
             },
             "preferido": {
-              "termino": "Economía y finanzas/sistema financiero/deuda pública"
+              "termino": "economía y finanzas/deuda pública"
             },
-            "sinonimos": {
-              "termino": [
-                "Hacienda y Finanzas",
-                "derecho económico financiero",
-                "derecho financiero"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
@@ -112,12 +106,12 @@
               "termino": "emergencia pública"
             },
             "preferido": {
-              "termino": "Bienestar social/emergencias sociales/estado de emergencia"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/emergencia pública"
             },
             "sinonimos": {
               "termino": [
-                "emergencia pública",
-                "acción social"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -126,10 +120,13 @@
               "termino": "coronavirus"
             },
             "preferido": {
-              "termino": "Salud pública/enfermedades/coronavirus"
+              "termino": "Derechos Humanos/derecho a la salud/salud pública/pandemia/coronavirus"
             },
             "sinonimos": {
-              "termino": "COVID 19"
+              "termino": [
+                "derechos de las personas",
+                "Covid 19"
+              ]
             }
           },
           {
@@ -178,19 +175,9 @@
               "termino": "canje de deuda"
             },
             "preferido": {
-              "termino": "Economía y finanzas/sistema financiero/títulos públicos/canje de títulos públicos"
+              "termino": "economía y finanzas/deuda pública/canje de deuda"
             },
-            "sinonimos": {
-              "termino": [
-                "títulos municipales",
-                "Hacienda y Finanzas",
-                "canje de deuda",
-                "derecho económico financiero",
-                "títulos nacionales",
-                "títulos provinciales",
-                "derecho financiero"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
@@ -211,51 +198,55 @@
         "suggest": {
           "termino": [
             "títulos de deuda pública",
+            "emergencia pública",
             "coronavirus",
+            "fortalecimiento de las instituciones",
+            "política económica",
+            "emisión de títulos",
+            "Economía y finanzas",
+            "facultades legisferantes (facultades legislativas)",
+            "títulos de la deuda pública externa (títulos de deuda pública)",
+            "deuda externa",
+            "deuda pública",
+            "derecho financiero (Economía y finanzas)",
+            "canje de deuda",
+            "Covid 19 (coronavirus)",
+            "derecho económico financiero (Economía y finanzas)",
+            "títulos de la deuda pública interna (títulos de deuda pública)",
+            "politicas públicas",
+            "delegación de atribuciones legislativas (delegación legislativa)",
+            "títulos públicos",
+            "actos del Poder Legislativo (facultades del Poder Legislativo)",
+            "Poder Legislativo",
+            "economía y finanzas",
+            "Derechos Humanos",
+            "políticas de Estado (politicas públicas)",
+            "derechos de las personas (Derechos Humanos)",
+            "politicas públicas transversales (politicas públicas)",
+            "salud pública",
+            "pandemia",
             "títulos públicos en moneda extranjera",
             "títulos provinciales (títulos públicos)",
             "función legisferante (facultades legislativas)",
             "facultades del Poder Legislativo",
-            "enfermedades",
-            "canje de deuda (canje de títulos públicos)",
-            "política económica",
             "títulos municipales (títulos públicos)",
-            "estado de emergencia",
-            "emergencia pública (estado de emergencia)",
-            "Bienestar social",
             "Hacienda y Finanzas (Economía y finanzas)",
-            "COVID 19 (coronavirus)",
-            "emisión de títulos",
-            "acción social (Bienestar social)",
             "bonos (títulos de deuda pública)",
             "poderes públicos (poderes del Estado)",
             "instrumentos de endeudamiento público (títulos de deuda pública)",
-            "Economía y finanzas",
             "política monetaria",
-            "títulos de la deuda pública externa (títulos de deuda pública)",
-            "facultades legisferantes (facultades legislativas)",
-            "deuda externa",
-            "emergencias sociales",
-            "derecho financiero (Economía y finanzas)",
-            "deuda pública",
-            "Salud pública",
-            "títulos de la deuda pública interna (títulos de deuda pública)",
-            "derecho económico financiero (Economía y finanzas)",
-            "delegación de atribuciones legislativas (delegación legislativa)",
             "poderes del Estado",
             "facultades legislativas",
             "legislación delegada (delegación legislativa)",
-            "títulos públicos",
             "Derecho constitucional",
+            "Estado",
             "sistema financiero",
             "delegación legislativa",
+            "derecho a la salud",
             "emisión de bonos",
             "títulos nacionales (títulos públicos)",
-            "actos del Poder Legislativo (facultades del Poder Legislativo)",
-            "Poder Legislativo",
-            "bonos de deuda pública (títulos de deuda pública)",
             "reestructuración de deuda pública",
-            "canje de títulos públicos"
+            "bonos de deuda pública (títulos de deuda pública)"
           ]
         }
       },
