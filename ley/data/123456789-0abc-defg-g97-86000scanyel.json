@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g97-86000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1695907529384,
+      "timestamp": 1695907513626,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -71,12 +71,12 @@
               "termino": "emergencia pública"
             },
             "preferido": {
-              "termino": "Bienestar social/emergencias sociales/estado de emergencia"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/emergencia pública"
             },
             "sinonimos": {
               "termino": [
-                "emergencia pública",
-                "acción social"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -85,15 +85,9 @@
               "termino": "deuda pública"
             },
             "preferido": {
-              "termino": "Economía y finanzas/sistema financiero/deuda pública"
+              "termino": "economía y finanzas/deuda pública"
             },
-            "sinonimos": {
-              "termino": [
-                "Hacienda y Finanzas",
-                "derecho económico financiero",
-                "derecho financiero"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
@@ -153,34 +147,18 @@
               "termino": "canje de deuda"
             },
             "preferido": {
-              "termino": "Economía y finanzas/sistema financiero/títulos públicos/canje de títulos públicos"
+              "termino": "economía y finanzas/deuda pública/canje de deuda"
             },
-            "sinonimos": {
-              "termino": [
-                "títulos municipales",
-                "Hacienda y Finanzas",
-                "canje de deuda",
-                "derecho económico financiero",
-                "títulos nacionales",
-                "títulos provinciales",
-                "derecho financiero"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
               "termino": "administración financiera"
             },
             "preferido": {
-              "termino": "Economía y finanzas/administración financiera"
+              "termino": "economía y finanzas/administración financiera"
             },
-            "sinonimos": {
-              "termino": [
-                "Hacienda y Finanzas",
-                "derecho económico financiero",
-                "derecho financiero"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
@@ -196,18 +174,9 @@
               "termino": "títulos públicos"
             },
             "preferido": {
-              "termino": "Economía y finanzas/sistema financiero/títulos públicos"
+              "termino": "economía y finanzas/deuda pública/títulos públicos"
             },
-            "sinonimos": {
-              "termino": [
-                "Hacienda y Finanzas",
-                "títulos municipales",
-                "derecho económico financiero",
-                "títulos nacionales",
-                "títulos provinciales",
-                "derecho financiero"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
@@ -221,21 +190,20 @@
         ],
         "suggest": {
           "termino": [
-            "economía y finanzas",
             "administración financiera",
+            "economía y finanzas",
+            "políticas de Estado (politicas públicas)",
+            "politicas públicas transversales (politicas públicas)",
             "títulos de deuda pública",
+            "emergencia pública",
             "títulos públicos en moneda extranjera",
             "títulos provinciales (títulos públicos)",
-            "canje de deuda (canje de títulos públicos)",
+            "fortalecimiento de las instituciones",
             "política económica",
-            "estado de emergencia",
             "títulos municipales (títulos públicos)",
             "reestructuración de deuda",
-            "emergencia pública (estado de emergencia)",
             "Hacienda y Finanzas (Economía y finanzas)",
-            "Bienestar social",
             "emisión de títulos",
-            "acción social (Bienestar social)",
             "bonos (títulos de deuda pública)",
             "instrumentos de endeudamiento público (títulos de deuda pública)",
             "Economía y finanzas",
@@ -243,17 +211,18 @@
             "títulos de la deuda pública externa (títulos de deuda pública)",
             "derecho financiero (Economía y finanzas)",
             "deuda pública",
-            "emergencias sociales",
+            "canje de deuda",
             "derecho económico financiero (Economía y finanzas)",
             "títulos de la deuda pública interna (títulos de deuda pública)",
+            "politicas públicas",
+            "Estado",
             "títulos públicos",
             "sistema financiero",
             "emisión de bonos",
             "títulos nacionales (títulos públicos)",
             "reestructuración de deuda pública",
             "bonos de deuda pública (títulos de deuda pública)",
-            "sostenibilidad de la deuda pública",
-            "canje de títulos públicos"
+            "sostenibilidad de la deuda pública"
           ]
         }
       },
