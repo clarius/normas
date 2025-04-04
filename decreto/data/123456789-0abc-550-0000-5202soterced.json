@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-550-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1738581744964,
+      "timestamp": 1743775448541,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-02-03",
-      "fecha-mod": "2025-02-03",
-      "timestamp": "2025-02-03T08:11:49",
-      "timestamp-alta": "2025-02-03T08:11:49",
-      "timestamp-m": "2025-02-03T08:11:49",
+      "fecha-alta": "2025-04-04",
+      "fecha-mod": "2025-04-04",
+      "timestamp": "2025-04-04T10:03:44",
+      "timestamp-alta": "2025-04-04T10:03:44",
+      "timestamp-m": "2025-04-04T10:03:44",
       "generalidades": {
         "sintesis": "Se disuelve el Servicio de Conciliación Previa en las Relaciones de Consumo (COPREC), el Registro Nacional de Conciliadores en las Relaciones de Consumo y el Fondo de Financiamiento del Ministerio de Economía.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 9"
@@ -111,20 +111,42 @@
                 "acuerdo conciliatorio"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "decretos delegados"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/jerarquía de las leyes/decretos/decretos delegados"
+            },
+            "sinonimos": {
+              "termino": [
+                "orden de prelación de las leyes",
+                "jerarquía normativa",
+                "orden jerárquico de las leyes"
+              ]
+            }
           }
         ],
         "suggest": {
           "termino": [
             "conciliación",
             "modos anormales de extinción del proceso (terminación del proceso)",
+            "jerarquía normativa (jerarquía de las leyes)",
+            "decretos delegados",
             "modos anormales de terminación del proceso (terminación del proceso)",
             "servicio de conciliación previa en las relaciones de consumo",
+            "orden jerárquico de las leyes (jerarquía de las leyes)",
+            "Derecho constitucional",
             "terminación del proceso",
+            "jerarquía de las leyes",
+            "orden de prelación de las leyes (jerarquía de las leyes)",
             "relación jurídica de consumo (relación de consumo)",
             "acuerdo conciliatorio (conciliación)",
             "conclusión del proceso (terminación del proceso)",
             "Derecho procesal",
             "relación de consumo",
+            "decretos",
             "Registro Nacional de Conciliadores en las Relaciones de Consumo",
             "obligaciones y contratos (derechos personales)",
             "contratos de consumo",
@@ -354,7 +376,7 @@
         "firmantes": "MILEI - Francos - Caputo - Cúneo Libarona"
       },
       "id-infojus": "DN20250000055",
-      "fecha-umod": 20250203082224
+      "fecha-umod": 20250404110408
     }
   }
 }
