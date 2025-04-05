@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g00-07000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1699454771729,
+      "timestamp": 1699454767122,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -91,17 +91,12 @@
           },
           {
             "elegido": {
-              "termino": "Comunicaciones"
+              "termino": "comunicaciones"
             },
             "preferido": {
-              "termino": "Comunicaciones"
+              "termino": "Infraestructura/comunicaciones"
             },
-            "sinonimos": {
-              "termino": [
-                "medios de difusión",
-                "medios de comunicación"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
@@ -153,15 +148,12 @@
               "termino": "igualdad de oportunidades"
             },
             "preferido": {
-              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/empleador/obligaciones del empleador/igualdad de oportunidades"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/eliminación de la discriminación y las desigualdades/igualdad de oportunidades"
             },
             "sinonimos": {
               "termino": [
-                "contrato laboral",
-                "derecho del trabajo",
-                "patrón",
-                "obligaciones del patrón",
-                "deberes del empleador"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -201,13 +193,12 @@
               "termino": "igualdad de género"
             },
             "preferido": {
-              "termino": "Derechos humanos/derechos de la mujer/igualdad de género"
+              "termino": "Derechos Humanos/derechos humanos de la mujer/igualdad de género"
             },
             "sinonimos": {
               "termino": [
-                "derechos fundamentales",
                 "paridad de género",
-                "derechos humanos de la mujer"
+                "derechos de las personas"
               ]
             }
           },
@@ -216,71 +207,55 @@
               "termino": "derecho a la identidad de género"
             },
             "preferido": {
-              "termino": "Derecho civil/persona humana/derechos personalísimos/derecho a la identidad/derecho a la identidad de género"
+              "termino": "Derechos Humanos/derecho a la identidad/derecho a la identidad de género"
             },
             "sinonimos": {
-              "termino": [
-                "derecho a la identidad sexual",
-                "identidad de las personas",
-                "identidad de género",
-                "derechos y actos personalísimos",
-                "libertades personalísimas",
-                "personas de existencia visible",
-                "personas físicas"
-              ]
+              "termino": "derechos de las personas"
             }
           }
         ],
         "suggest": {
           "termino": [
             "Derechos Humanos",
+            "políticas de Estado (politicas públicas)",
             "derechos de las personas (Derechos Humanos)",
+            "politicas públicas transversales (politicas públicas)",
             "identidad de las personas (derecho a la identidad)",
             "identidad de género (derecho a la identidad de género)",
             "servicio de telecomunicaciones (telecomunicaciones)",
             "paridad de género (igualdad de género)",
             "derechos personalísimos",
-            "Derechos humanos",
+            "derechos humanos de la mujer",
             "comunicaciones",
             "ley de servicios de comunicación audiovisual",
-            "contrato laboral (contrato de trabajo)",
-            "obligaciones del empleador",
-            "sujetos del contrato de trabajo",
+            "fortalecimiento de las instituciones",
             "personas de existencia visible (persona humana)",
-            "derechos de la mujer",
             "perspectiva de diversidad sexual",
             "Infraestructura",
-            "derechos humanos de la mujer (derechos de la mujer)",
             "equidad en la representación de los géneros",
-            "obligaciones del patrón (obligaciones del empleador)",
             "igualdad de oportunidades",
             "servicios de comunicación",
             "radio (radiodifusión)",
-            "deberes del empleador (obligaciones del empleador)",
-            "derechos y actos personalísimos (derechos personalísimos)",
             "ley de medios (ley de servicios de comunicación audiovisual)",
+            "derechos y actos personalísimos (derechos personalísimos)",
             "Derecho civil",
-            "patrón (empleador)",
             "Comunicaciones",
             "derecho a la identidad",
+            "eliminación de la discriminación y las desigualdades",
             "derecho a la identidad de género",
             "igualdad de género",
+            "politicas públicas",
             "derecho a la identidad sexual (derecho a la identidad de género)",
             "medios de difusión (Comunicaciones)",
             "radiodifusión",
             "telecomunicaciones",
-            "derecho del trabajo (Derecho laboral)",
-            "contrato de trabajo",
             "personas físicas (persona humana)",
-            "derechos fundamentales (Derechos humanos)",
+            "Estado",
             "radiocomunicaciones",
             "libertades personalísimas (derechos personalísimos)",
             "servicios de comunicación audiovisual",
             "persona humana",
-            "empleador",
-            "Derecho laboral",
-            "medios de comunicación (Comunicaciones)",
-            "contrato de trabajo en general"
+            "medios de comunicación (Comunicaciones)"
           ]
         }
       },
