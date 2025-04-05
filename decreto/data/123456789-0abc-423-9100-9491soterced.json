@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-423-9100-9491soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1742488350177,
+      "timestamp": 1742488338096,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -63,9 +63,14 @@
               "termino": "obras públicas"
             },
             "preferido": {
-              "termino": "Infraestructura/obras públicas"
+              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública/obras públicas"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
           },
           {
             "elegido": {
@@ -176,9 +181,9 @@
             "contrataciones del Estado (contratos administrativos)",
             "organismos administrativos (organismos del Estado)",
             "selección del cocontratante",
+            "contrato de obra pública",
             "adjudicación directa (contratación directa)",
             "hechos y actos jurídicos",
-            "Infraestructura",
             "Escribanía General de Gobierno",
             "Hacienda y Finanzas (Economía y finanzas)",
             "organismos del Estado",
@@ -188,8 +193,8 @@
             "reparticiones nacionales (organismos del Estado)",
             "Derecho civil",
             "Economía y finanzas",
-            "selección del contratista (selección del cocontratante)",
             "Derecho administrativo",
+            "selección del contratista (selección del cocontratante)",
             "entes públicos (organismos del Estado)",
             "presupuesto",
             "organismos centralizados (administración centralizada)",
@@ -383,7 +388,7 @@
         "firmantes": "PERON - PISTARINI - CEREIJO - SOSA MOLINA - GARCIA - OJEDA"
       },
       "id-infojus": "DN19490019324",
-      "fecha-umod": 20250320133230
+      "fecha-umod": 20250320133218
     }
   }
 }
