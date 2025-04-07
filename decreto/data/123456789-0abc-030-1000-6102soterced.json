@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-030-1000-6102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1742488345968,
+      "timestamp": 1742488351877,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -130,9 +130,14 @@
               "termino": "obras públicas"
             },
             "preferido": {
-              "termino": "Infraestructura/obras públicas"
+              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública/obras públicas"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": [
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
+            }
           },
           {
             "elegido": {
@@ -291,8 +296,8 @@
             "fortalecimiento de las instituciones",
             "gobierno abierto",
             "desburocratización",
+            "contrato de obra pública",
             "integridad y transparencia",
-            "Infraestructura",
             "Innovación administrativa",
             "modernización del Estado",
             "acto administrativo de alcance general",
@@ -1366,7 +1371,7 @@
         }
       ],
       "id-infojus": "DN20160001030",
-      "fecha-umod": 20250320133225
+      "fecha-umod": 20250320133231
     }
   }
 }
