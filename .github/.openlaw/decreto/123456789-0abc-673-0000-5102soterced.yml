@@ -1,0 +1,242 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Document not found with ID '123456789-0abc-673-0000-5102soterced. (Parameter 'id')
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw/Argentina/SaijClient.cs:line 173
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw/Argentina/SaijClient.cs:line 129
+     at Clarius.OpenLaw.Argentina.SyncCommand.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw/Argentina/SyncCommand.cs:line 288
+Item:
+  Id: 123456789-0abc-673-0000-5102soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Individual, Solo Modificatoria o Sin Eficacia
+  Date: 2015-03-05
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-673-0000-5102soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 376-nacional-prorroga-designacion-transitoria-ministerio-agricultura-ganaderia-pesca-dn20150000376-2015-03-05
+      content:
+        mecanografico: 20150000376
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        numero-norma: 376
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        fecha: 2015-03-05
+        standard-normativo: DEC C 000376 2015 03 05
+        titulo-norma: Prórroga de designación transitoria en el Ministerio de Agricultura, Ganadería y Pesca
+        nombre-coloquial: DECRETO NACIONAL 376/2015
+        estado: Individual, Solo Modificatoria o Sin Eficacia
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: Ministerio de Agricultura, Ganadería y Pesca
+            preferido:
+              termino: Ministerio de Agricultura, Ganadería y Pesca
+          - elegido:
+              termino: designación transitoria
+            preferido:
+              termino: Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal no permanente/personal transitorio
+            sinonimos:
+              termino:
+              - relación de empleo público
+              - personal del Estado
+              - agentes de la Administración
+              - contratación temporaria
+              - agentes transitorios
+              - función pública
+              - planta transitoria
+              - nombramiento provisorio
+              - personal del sector público
+              - agentes públicos
+              - personal de planta temporaria
+              - funcionarios y empleados públicos
+              - designación transitoria
+          - elegido:
+              termino: prórroga de la designación
+            preferido:
+              termino: Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal no permanente/personal transitorio/prórroga de la designación
+            sinonimos:
+              termino:
+              - nombramiento provisorio
+              - personal del sector público
+              - relación de empleo público
+              - personal del Estado
+              - agentes públicos
+              - agentes de la Administración
+              - contratación temporaria
+              - agentes transitorios
+              - personal de planta temporaria
+              - funcionarios y empleados públicos
+              - función pública
+              - planta transitoria
+              - designación transitoria
+          suggest:
+            termino:
+            - personal no permanente
+            - función pública (Administración Pública)
+            - agentes de la administración pública
+            - agentes de la Administración (agentes de la administración pública)
+            - Administración Pública
+            - agentes públicos (agentes de la administración pública)
+            - personal del sector público (agentes de la administración pública)
+            - prórroga de la designación
+            - personal transitorio
+            - personal de planta temporaria (personal no permanente)
+            - designación transitoria (personal transitorio)
+            - situaciones de revista
+            - personal del Estado (agentes de la administración pública)
+            - nombramiento provisorio (personal transitorio)
+            - empleo público
+            - Ministerio de Agricultura, Ganadería y Pesca
+            - planta transitoria (personal transitorio)
+            - relación de empleo público (empleo público)
+            - funcionarios y empleados públicos (agentes de la administración pública)
+            - Derecho administrativo
+            - agentes transitorios (personal transitorio)
+            - contratación temporaria (personal no permanente)
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-673-0000-5102soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "376-nacional-prorroga-designacion-transitoria-ministerio-agricultura-ganaderia-pesca-dn20150000376-2015-03-05"
+          }
+        },
+        "content": {
+          "mecanografico": 20150000376,
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "numero-norma": 376,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "fecha": "2015-03-05",
+          "standard-normativo": "DEC C 000376 2015 03 05",
+          "titulo-norma": "Prórroga de designación transitoria en el Ministerio de Agricultura, Ganadería y Pesca",
+          "nombre-coloquial": "DECRETO NACIONAL 376/2015",
+          "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "Ministerio de Agricultura, Ganadería y Pesca"
+                },
+                "preferido": {
+                  "termino": "Ministerio de Agricultura, Ganadería y Pesca"
+                },
+                "sinonimos": null
+              },
+              {
+                "elegido": {
+                  "termino": "designación transitoria"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal no permanente/personal transitorio"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "relación de empleo público",
+                    "personal del Estado",
+                    "agentes de la Administración",
+                    "contratación temporaria",
+                    "agentes transitorios",
+                    "función pública",
+                    "planta transitoria",
+                    "nombramiento provisorio",
+                    "personal del sector público",
+                    "agentes públicos",
+                    "personal de planta temporaria",
+                    "funcionarios y empleados públicos",
+                    "designación transitoria"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "prórroga de la designación"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/empleo público/agentes de la administración pública/situaciones de revista/personal no permanente/personal transitorio/prórroga de la designación"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "nombramiento provisorio",
+                    "personal del sector público",
+                    "relación de empleo público",
+                    "personal del Estado",
+                    "agentes públicos",
+                    "agentes de la Administración",
+                    "contratación temporaria",
+                    "agentes transitorios",
+                    "personal de planta temporaria",
+                    "funcionarios y empleados públicos",
+                    "función pública",
+                    "planta transitoria",
+                    "designación transitoria"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "personal no permanente",
+                "función pública (Administración Pública)",
+                "agentes de la administración pública",
+                "agentes de la Administración (agentes de la administración pública)",
+                "Administración Pública",
+                "agentes públicos (agentes de la administración pública)",
+                "personal del sector público (agentes de la administración pública)",
+                "prórroga de la designación",
+                "personal transitorio",
+                "personal de planta temporaria (personal no permanente)",
+                "designación transitoria (personal transitorio)",
+                "situaciones de revista",
+                "personal del Estado (agentes de la administración pública)",
+                "nombramiento provisorio (personal transitorio)",
+                "empleo público",
+                "Ministerio de Agricultura, Ganadería y Pesca",
+                "planta transitoria (personal transitorio)",
+                "relación de empleo público (empleo público)",
+                "funcionarios y empleados públicos (agentes de la administración pública)",
+                "Derecho administrativo",
+                "agentes transitorios (personal transitorio)",
+                "contratación temporaria (personal no permanente)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-673-0000-5102soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2015-03-05",
+      "status": "Individual, Solo Modificatoria o Sin Eficacia",
+      "timestamp": null
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
