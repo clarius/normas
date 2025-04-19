@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-820-0001-3202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1702473915271,
+      "timestamp": 1744643814020,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,7 +16,7 @@
     },
     "content": {
       "mecanografico": 20231000028,
-      "estado": "Vigente, de alcance general",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "DNU",
         "texto": "Decreto de Necesidad y Urgencia"
@@ -43,12 +43,19 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2023-12-13",
-      "fecha-mod": "2023-12-13",
-      "timestamp": "2023-12-13T10:18:47",
-      "timestamp-alta": "2023-12-13T10:18:47",
-      "timestamp-m": "2023-12-13T10:18:47",
+      "fecha-alta": "2025-04-14",
+      "fecha-mod": "2025-04-14",
+      "timestamp": "2025-04-14T12:05:20",
+      "timestamp-alta": "2025-04-14T12:05:20",
+      "timestamp-m": "2025-04-14T12:05:20",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 14/4/2025)",
+            "id": "DEROGADO_POR_0",
+            "ref": "DNU C 000269 2025 04 11 0001 000 0000 000"
+          }
+        },
         "sintesis": "Por Decreto de Necesidad y Urgencia se establece nuevas disposiciones sobre el Programa de Incremento Exportador",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 3.\n\nFECHA DE ENTRADA EN VIGENCIA: 13/12/2023."
       },
@@ -276,7 +283,8 @@
       "firmantes": {
         "firmantes": "MILEI-Posse-Petri-Caputo-Bullrich-Russo-Cúneo Libarona-Ferraro- Pettovello"
       },
-      "id-infojus": "DN20231000028"
+      "id-infojus": "DN20231000028",
+      "fecha-umod": 20250414121654
     }
   }
 }
