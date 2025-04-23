@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-232-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1728925286460,
+      "timestamp": 1745416688020,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-10-14",
-      "fecha-mod": "2024-10-14",
-      "timestamp": "2024-10-14T13:55:31",
-      "timestamp-alta": "2024-10-14T13:55:31",
-      "timestamp-m": "2024-10-14T13:55:31",
+      "fecha-alta": "2025-04-23",
+      "fecha-mod": "2025-04-23",
+      "timestamp": "2025-04-23T10:37:30",
+      "timestamp-alta": "2025-04-23T10:37:30",
+      "timestamp-m": "2025-04-23T10:37:30",
       "generalidades": {
         "sintesis": "Se modifica la Estructura Organizativa de la Administración Pública Nacional",
         "anexos-decreto": {
@@ -460,18 +460,25 @@
           "anexo": "A",
           "titulo-anexo": "Anexos",
           "antecedentes": {
-            "referencia-normativa": {
-              "cr": "(B.O. 10/4/2024) ANEXOS SUSTITUIDOS",
-              "id": "ANTECEDENTES_0",
-              "ref": "DEC C 000303 2024 04 09 0002 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 10/4/2024) ANEXOS SUSTITUIDOS",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000303 2024 04 09 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 14/10/2024) ANEXOS SUSTITUIDOS",
+                "id": "ANTECEDENTES_1",
+                "ref": "DEC C 000903 2024 10 10 0001 000 0000 000"
+              }
+            ]
           },
           "texto": "ANEXOS",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 14/10/2024) ANEXOS SUSTITUIDOS",
+              "cr": "(B.O. 23/04/2025) ANEXOS SUSTITUIDOS .",
               "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000903 2024 10 10 0001 000 0000 000"
+              "ref": "DEC C 000272 2025 04 15 0003 000 0000 000"
             }
           }
         },
@@ -479,18 +486,25 @@
           "anexo": "B",
           "titulo-anexo": "ANEXO II",
           "antecedentes": {
-            "referencia-normativa": {
-              "cr": "(B.O. 10/4/2024) ANEXO SUSTITUIDO",
-              "id": "ANTECEDENTES_0",
-              "ref": "DEC C 000303 2024 04 09 0002 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 10/4/2024) ANEXO SUSTITUIDO",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000303 2024 04 09 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 14/10/2024) ANEXO SUSTITUIDO",
+                "id": "ANTECEDENTES_1",
+                "ref": "DEC C 000903 2024 10 10 0002 000 0000 000"
+              }
+            ]
           },
           "texto": "ANEXO II",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 14/10/2024) ANEXO SUSTITUIDO",
+              "cr": "(B.O. 23/04/2025) ANEXO II SUSTITUIDO .",
               "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000903 2024 10 10 0002 000 0000 000"
+              "ref": "DEC C 000272 2025 04 15 0004 000 0000 000"
             }
           }
         },
@@ -498,44 +512,56 @@
           "anexo": "C",
           "titulo-anexo": "ANEXOS",
           "antecedentes": {
-            "referencia-normativa": {
-              "cr": "(B.O. 10/4/2024) ANEXOS SUSTITUIDOS",
-              "id": "ANTECEDENTES_0",
-              "ref": "DEC C 000303 2024 04 09 0003 000 0000 000"
-            }
-          },
-          "texto": "ANEXOS ANEXO IIIg",
-          "modificado-por": {
             "referencia-normativa": [
               {
+                "cr": "(B.O. 10/4/2024) ANEXOS SUSTITUIDOS",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000303 2024 04 09 0003 000 0000 000"
+              },
+              {
                 "cr": "(B.O. 14/10/2024) ANEXOS SUSTITUIDOS",
-                "id": "MODIFICADO_POR_0",
+                "id": "ANTECEDENTES_1",
                 "ref": "DEC C 000903 2024 10 10 0003 000 0000 000"
               },
               {
                 "cr": "(B.O. 14/10/2024) ANEXO IIIg INCORPORADO",
-                "id": "MODIFICADO_POR_1",
+                "id": "ANTECEDENTES_2",
                 "ref": "DEC C 000903 2024 10 10 0004 000 0000 000"
               }
             ]
+          },
+          "texto": "ANEXOS",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 23/04/2025) ANEXOS SUSTITUIDOS E INCORPORACION DEL ANEXO IIIH .",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000272 2025 04 15 0005 000 0000 000"
+            }
           }
         },
         {
           "anexo": "D",
           "titulo-anexo": "ANEXO IV",
           "antecedentes": {
-            "referencia-normativa": {
-              "cr": "(B.O. 10/4/2024) ANEXO SUSTITUIDO",
-              "id": "ANTECEDENTES_0",
-              "ref": "DEC C 000303 2024 04 09 0003 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 10/4/2024) ANEXO SUSTITUIDO",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000303 2024 04 09 0003 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 14/10/2024) ANEXO SUSTITUIDO",
+                "id": "ANTECEDENTES_1",
+                "ref": "DEC C 000903 2024 10 10 0005 000 0000 000"
+              }
+            ]
           },
           "texto": "ANEXO IV",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 14/10/2024) ANEXO SUSTITUIDO",
+              "cr": "(B.O. 23/04/2025) ANEXO IV SUSTITUIDO",
               "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000903 2024 10 10 0005 000 0000 000"
+              "ref": "DEC C 000272 2025 04 15 0006 000 0000 000"
             }
           }
         },
@@ -561,7 +587,7 @@
         }
       ],
       "id-infojus": "DN20240000232",
-      "fecha-umod": 20241014140126
+      "fecha-umod": 20250423105808
     }
   }
 }
