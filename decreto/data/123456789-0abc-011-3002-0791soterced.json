@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-011-3002-0791soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1727199927545,
+      "timestamp": 1745506690880,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -41,11 +41,11 @@
       "estado": "Vigente, de alcance general",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-09-24",
-      "fecha-mod": "2024-09-24",
-      "timestamp": "2024-09-24T14:40:06",
-      "timestamp-alta": "2024-09-24T14:40:06",
-      "timestamp-m": "2024-09-24T14:40:06",
+      "fecha-alta": "2025-04-24",
+      "fecha-mod": "2025-04-24",
+      "timestamp": "2025-04-24T11:25:45",
+      "timestamp-alta": "2025-04-24T11:25:45",
+      "timestamp-m": "2025-04-24T11:25:45",
       "generalidades": {
         "sintesis": "SE DETERMINAN LAS NORMAS DE APLICACION DEL SISTEMA NACIONAL DE ESTADISTICAS Y CENSO, REGLAMENTANDO LA LEY 17.622.",
         "reglamenta-a": {
@@ -326,14 +326,21 @@
             {
               "numero-articulo": 22,
               "antecedentes": {
-                "referencia-normativa": {
-                  "cr": "(B.O. 8/4/2024) MONTO ACTUALIZADO POR RES. DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSOS",
-                  "id": "ANTECEDENTES_0",
-                  "ref": "RES C 000048 2024 04 05 0003 000 0000 000"
-                }
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 8/4/2024) MONTO ACTUALIZADO POR RES. DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSOS",
+                    "id": "ANTECEDENTES_0",
+                    "ref": "RES C 000048 2024 04 05 0003 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 24/9/2024) MONTO ACTUALIZADO POR RES. DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSOS",
+                    "id": "ANTECEDENTES_1",
+                    "ref": "RES C 000187 2024 09 23 0003 000 0000 000"
+                  }
+                ]
               },
               "informacion-vinculada": 1E+19,
-              "texto": "Artículo 22.- Las multas de hasta PESOS VEINTICUATRO MIL CIENTO CINCUENTA Y OCHO CON VEINTISIETE CENTAVOS ($ 24.158,27) son inaapelables. Las que excedieran dicha cantidad podrán ser apeladas ante el juez federal de la jurisdicción que corresponda en el plazo perentorio de 15 días a contar de la notificación de la resolución administrativa. En este caso el expediente administrativo se remitirá al juzgado dentro del plazo de 10 días de recibido el oficio judicial pidiendo su remisión. Facúltase al Instituto Nacional de Estadística y Censos a reajustar semestralmente, el primero de enero y el primero de julio de cada año en función de los incrementos habidos en los semestres que vencen el treinta y uno de diciembre y el treinta de junio, el importe mencionado en el presente artículo de conformidad con la variación operada en el nivel general de precios al por mayor en dichos períodos.",
+              "texto": "Artículo 22.- Las multas de hasta PESOS VEINTISÉIS MIL OCHOCIENTOS DIECISIETE CON SEIS CENTAVOS ($ 26.817,06) son inaapelables. Las que excedieran dicha cantidad podrán ser apeladas ante el juez federal de la jurisdicción que corresponda en el plazo perentorio de 15 días a contar de la notificación de la resolución administrativa. En este caso el expediente administrativo se remitirá al juzgado dentro del plazo de 10 días de recibido el oficio judicial pidiendo su remisión. Facúltase al Instituto Nacional de Estadística y Censos a reajustar semestralmente, el primero de enero y el primero de julio de cada año en función de los incrementos habidos en los semestres que vencen el treinta y uno de diciembre y el treinta de junio, el importe mencionado en el presente artículo de conformidad con la variación operada en el nivel general de precios al por mayor en dichos períodos.",
               "modificado-por": {
                 "referencia-normativa": [
                   {
@@ -342,9 +349,9 @@
                     "ref": "DEC C 000882 1978 04 14 0001 000 0000 000"
                   },
                   {
-                    "cr": "(B.O. 24/9/2024) MONTO ACTUALIZADO POR RES. DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSOS",
+                    "cr": "(B.O. 24/4/2025) MONTO ACTUALIZADO POR RES. DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSOS",
                     "id": "MODIFICADO_POR_1",
-                    "ref": "RES C 000187 2024 09 23 0003 000 0000 000"
+                    "ref": "RES C 000054 2025 04 22 0003 000 0000 000"
                   }
                 ]
               }
@@ -478,7 +485,7 @@
         }
       ],
       "id-infojus": "DN19702003110",
-      "fecha-umod": 20240924144527
+      "fecha-umod": 20250424115810
     }
   }
 }
