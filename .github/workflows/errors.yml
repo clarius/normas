@@ -73,7 +73,7 @@ jobs:
           branch: sync/errors
           delete-branch: true
           labels: docs
-          title: "⬆️ Actualización de normas"
+          title: "🔄 Actualización de normas"
           commit-message: "⬆️ Actualización de normas previamente con errores"
           token: ${{ env.GH_TOKEN }}
           body-path: ${{ runner.temp }}/openlaw.md
