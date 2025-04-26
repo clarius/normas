@@ -60,6 +60,12 @@ jobs:
           git commit -m "⏳ Actualización de timestamps" || echo "No changes to commit"
           git push origin main || echo "No changes to push"
 
+      - name: ❌ errors
+        run: |
+          git add ./.github/.openlaw/ || echo "No errors to add"
+          git commit -m "❌ Agregar errores de sincronización"|| echo "No errors to commit"
+          git push origin main || echo "No errors to push"
+
       - name: 🚀 pull request
         uses: peter-evans/create-pull-request@v7
         with:
