@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-622-2000-8002soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410988527406,
+      "timestamp": 1745253142331,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,34 +16,46 @@
     },
     "content": {
       "mecanografico": 20080002226,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 2226,
+      "fecha": "2008-12-23",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 2226,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2008-12-23",
       "standard-normativo": "DEC C 002226 2008 12 23",
       "titulo-norma": "AUTORIZACION A LA TITULAR DE LA UNIDAD DE INFORMACION FINANCIERA A INTERVENIR COMO PARTE QUERELLANTE EN LOS PROCESOS EN LOS QUE SE INVESTIGUE LA COMISION DE LOS DELITOS TIPIFICADOS POR LA LEY 25.246",
+      "nombre-coloquial": "DECRETO NACIONAL 2.226/2008",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2008 12 24"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 2.226/2008",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2008-12-29",
-      "fecha-mod": "2008-12-29",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-04-21",
+      "fecha-mod": "2025-04-21",
+      "timestamp": "2025-04-21T12:16:05",
+      "timestamp-alta": "2025-04-21T12:16:05",
+      "timestamp-m": "2025-04-21T12:16:05",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(SUP.BO 16/4/2025)",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000274 2025 04 16 0010 000 0000 000"
+          }
+        },
         "sintesis": "Se autoriza a la Titular de la Unidad de Información Financiera a intervernir como parte querellante en los procesos en los que se investigue la comisión de los delitos tipificados por la Ley Nº 25.246.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
       },
@@ -51,10 +63,10 @@
         "descriptor": [
           {
             "elegido": {
-              "termino": "Unidad de Información Financiera"
+              "termino": "UNIDAD DE INFORMACIÓN FINANCIERA"
             },
             "preferido": {
-              "termino": "Unidad de Información Financiera"
+              "termino": "UNIDAD DE INFORMACIÓN FINANCIERA"
             },
             "sinonimos": null
           },
@@ -73,6 +85,7 @@
                 "exteriorización voluntaria de la tenencia de moneda extranjera en el país y en el exterior",
                 "derecho económico financiero",
                 "blanqueo de capitales",
+                "sinceramiento fiscal",
                 "blanqueo de divisas",
                 "ingreso de capitales",
                 "derecho financiero"
@@ -103,8 +116,8 @@
             },
             "sinonimos": {
               "termino": [
-                "actividades terroristas",
-                "actos terroristas"
+                "actos terroristas",
+                "actividades terroristas"
               ]
             }
           }
@@ -123,15 +136,16 @@
             "blanqueo de dinero (exteriorización de capitales)",
             "blanqueo de activos (exteriorización de capitales)",
             "política económica",
-            "Unidad de Información Financiera",
             "exteriorización voluntaria de la tenencia de moneda extranjera en el país y en el exterior (exteriorización de capitales)",
             "Hacienda y Finanzas (Economía y finanzas)",
             "Derecho penal",
             "terrorismo",
+            "UNIDAD DE INFORMACIÓN FINANCIERA",
+            "sinceramiento fiscal (exteriorización de capitales)",
             "actos terroristas (terrorismo)",
             "estupefacientes",
-            "ingreso de capitales (ingreso de divisas)",
             "ingreso de divisas",
+            "ingreso de capitales (ingreso de divisas)",
             "Economía y finanzas",
             "exteriorización de capitales",
             "política monetaria"
@@ -205,7 +219,7 @@
             }
           ]
         },
-        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA            DECRETA:",
+        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA DECRETA:",
         "texto": "Que a través de la Ley Nº 25.246 se creó la UNIDAD DE INFORMACION FINANCIERA, que funciona con autarquía funcional en jurisdicción del MINISTERIO DE JUSTICIA, SEGURIDAD Y DERECHOS HUMANOS.\n\nQue dicho Organismo es el encargado del análisis, tratamiento y transmisión de información, a efectos de prevenir e impedir el delito de lavado de activos proveniente tanto de la comisión de diversos tipos delictuales como del delito de financiación del terrorismo.\n\nQue, asimismo es competencia de la UNIDAD DE INFORMACION FINANCIERA colaborar con los órganos judiciales y del Ministerio Público, en la persecución penal de los delitos reprimidos por la Ley Nº 25.246.\n\nQue conforme el Decreto Nº 290 del 27 de marzo de 2007, reglamentario de la Ley Nº 25.246, el MINISTERIO DE JUSTICIA, SEGURIDAD Y DERECHOS HUMANOS, es la autoridad de aplicación de dicha normativa.\n\nQue el Estado Nacional tiene un significativo interés institucional en satisfacer los deberes emergentes de los compromisos internacionales asumidos en la materia, tales como la \"Convención de las Naciones Unidas Contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas\" -Viena, 19 de diciembre de 1988- aprobada por nuestro país mediante la Ley Nº 24.072, el \"Convenio Internacional para la Represión de la Financiación del Terrorismo\" -Nueva York, 9 de diciembre de 1999- aprobado mediante la Ley Nº 26.024 y la \"Convención Internacional contra la Delincuencia Organizada Transnacional\", aprobada mediante Ley Nº 25.632, entre otros; por lo que se requiere que, con el máximo respeto a la división constitucional de poderes, el Poder Ejecutivo Nacional tome intervención en las actuaciones judiciales en las que se investigan hechos de tal gravedad.\n\nQue la lucha contra el lavado de activos y la financiación del terrorismo es una preocupación prioritaria del Estado Nacional, toda vez que dichas conductas delictivas constituyen un serio riesgo, no sólo para la estabilidad de los sistemas democráticos y el desarrollo de sus economías, sino fundamentalmente para la libertad de los ciudadanos. Dicha lucha consiste en buena parte en la adopción de medidas regulatorias que tornen eficaces, en el orden interno, la prevención y represión de estos delitos.\n\nQue, en consecuencia, corresponde autorizar a la titular de la UNIDAD DE INFORMACION FINANCIERA, o a los funcionarios a quienes se les encomiende ese cometido, a intervenir como parte querellante en los procesos en los que se investigue la comisión de los delitos tipificados por la Ley Nº 25.246 y modificatorias, en aquellos casos en que la gravedad de los hechos bajo investigación así lo amerite.\n\nQue la especialidad de la materia de que se trata, ajena al cometido habitual de los servicios jurídicos permanentes y delegados del Cuerpo de Abogados del Estado, configura una situación excepcional que torna procedente la designación de abogados que actúen en forma específica para el fin propuesto.\n\nQue el presente decreto se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 1, de la CONSTITUCION NACIONAL. Por ello,"
       },
       "articulo": [
@@ -228,7 +242,8 @@
       "firmantes": {
         "firmantes": "FERNANDEZ DE KIRCHNER-Fernández"
       },
-      "id-infojus": "DN20080002226"
+      "id-infojus": "DN20080002226",
+      "fecha-umod": 20250421133222
     }
   }
 }
