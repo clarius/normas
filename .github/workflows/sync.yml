@@ -61,6 +61,7 @@ jobs:
           git push origin main || echo "No changes to push"
 
       - name: ❌ errors
+        continue-on-error: true
         run: |
           git add ./.github/.openlaw/ || echo "No errors to add"
           git commit -m "❌ Agregar errores de sincronización"|| echo "No errors to commit"
