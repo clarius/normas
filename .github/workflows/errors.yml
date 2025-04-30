@@ -67,6 +67,13 @@ jobs:
                 }
             }
 
+      - name: ⏫ timestamps
+        continue-on-error: true
+        run: |
+          get-content ${{ runner.temp }}/openlaw.txt | % { git add $_ || echo "No changes to add for $_" }
+          git commit -m "⏳ Actualización de timestamps" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
+
       - name: 🚀 pull request
         uses: peter-evans/create-pull-request@v7
         with:
