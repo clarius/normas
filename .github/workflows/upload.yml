@@ -22,10 +22,22 @@ defaults:
   run:
     shell: pwsh
 
+permissions:
+  id-token: write
+  contents: read
+    
 jobs:
   upload:
     runs-on: ubuntu-latest
     steps:
+        # AZURE_CREDENTIALS created with: az ad sp create-for-rbac --name <name> --role "Storage Blob Data Contributor" --scopes /subscriptions/<id>/resourceGroups/<name>/providers/Microsoft.Storage/storageAccounts/<name> --sdk-auth
+      - name: 🔓 azure login
+        uses: azure/login@v2
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+          
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -41,13 +53,6 @@ jobs:
         uses: tj-actions/changed-files@v46.0.3
         with:
             files: '*/*.md'
-
-        # AZURE_CREDENTIALS created with: az ad sp create-for-rbac --name <name> --role "Storage Blob Data Contributor" --scopes /subscriptions/<id>/resourceGroups/<name>/providers/Microsoft.Storage/storageAccounts/<name> --sdk-auth
-      - name: 🔓 azure login
-        uses: azure/login@v2
-        with:
-          creds: ${{ secrets.AZURE_CREDENTIALS }}
-          enable-AzPSSession: true
 
       - name: 🔼 upload
         if: steps.json-changes.outputs.all_changed_files != '' || steps.md-changes.outputs.all_changed_files != '' || github.event.inputs.json != '' || github.event.inputs.markdown != ''
