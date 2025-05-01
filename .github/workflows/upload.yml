@@ -30,7 +30,8 @@ jobs:
   upload:
     runs-on: ubuntu-latest
     steps:
-        # AZURE_CREDENTIALS created with: az ad sp create-for-rbac --name <name> --role "Storage Blob Data Contributor" --scopes /subscriptions/<id>/resourceGroups/<name>/providers/Microsoft.Storage/storageAccounts/<name> --sdk-auth
+      # Azure App registration with federeted credentials and Storage Blob Data Contributor role in target AZURE_BLOB_URL
+      # See https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation-create-trust-user-assigned-managed-identity?pivots=identity-wif-mi-methods-azp#github-actions-deploying-azure-resources
       - name: 🔓 azure login
         uses: azure/login@v2
         with:
