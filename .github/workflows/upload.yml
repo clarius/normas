@@ -33,9 +33,10 @@ jobs:
 
         # AZURE_CREDENTIALS created with: az ad sp create-for-rbac --name <name> --role "Storage Blob Data Contributor" --scopes /subscriptions/<id>/resourceGroups/<name>/providers/Microsoft.Storage/storageAccounts/<name> --sdk-auth
       - name: 🔓 azure login
-        uses: azure/login@v1
+        uses: azure/login@v2
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
+          enable-AzPSSession: true
 
       - name: 🔼 upload
         if: steps.json-changes.outputs.all_changed_files != '' || steps.md-changes.outputs.all_changed_files != ''
