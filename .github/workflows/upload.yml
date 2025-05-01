@@ -1,5 +1,16 @@
 name: upload
 on:
+  workflow_dispatch:
+    inputs:
+      json:
+        description: 'Archivo JSON a subir'
+        required: true
+        type: string
+      markdown:
+        description: 'Archivo markdown a subir'
+        required: true
+        type: string
+  
   push:
     branches:
       - main
@@ -39,10 +50,10 @@ jobs:
           enable-AzPSSession: true
 
       - name: 🔼 upload
-        if: steps.json-changes.outputs.all_changed_files != '' || steps.md-changes.outputs.all_changed_files != ''
+        if: steps.json-changes.outputs.all_changed_files != '' || steps.md-changes.outputs.all_changed_files != '' || github.event.inputs.json != '' || github.event.inputs.markdown != ''
         env:
-          CHANGED_JSON: ${{ steps.json-changes.outputs.all_changed_files }}
-          CHANGED_MD: ${{ steps.md-changes.outputs.all_changed_files }}
+          CHANGED_JSON: ${{ steps.json-changes.outputs.all_changed_files || github.event.inputs.json }}
+          CHANGED_MD: ${{ steps.md-changes.outputs.all_changed_files || github.event.inputs.markdown }}
           AZURE_BLOB_URL: ${{ vars.AZURE_BLOB_URL }}
           AZCOPY_AUTO_LOGIN_TYPE: AZCLI
           AZCOPY_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
