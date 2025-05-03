@@ -1,0 +1,220 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Document not found with ID '123456789-0abc-384-0000-6102soterced. (Parameter 'id')
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 237
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-384-0000-6102soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Individual, Solo Modificatoria o Sin Eficacia
+  Date: 2016-03-14
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-384-0000-6102soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 483-nacional-designacion-programa-verdad-justicia-dn20160000483-2016-03-14
+      content:
+        mecanografico: 20160000483
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        numero-norma: 483
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        fecha: 2016-03-14
+        standard-normativo: DEC C 000483 2016 03 14
+        titulo-norma: Designación en el Programa Verdad y Justicia
+        nombre-coloquial: DECRETO NACIONAL 483/2016
+        estado: Individual, Solo Modificatoria o Sin Eficacia
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: Ministerio de Justicia y Derechos Humanos
+            preferido:
+              termino: Ministerio de Justicia
+            sinonimos:
+              termino:
+              - Ministerio de Justicia, Seguridad y Derechos Humanos
+              - Ministerio de Justicia de la Nación
+              - Ministerio de Justicia y Derechos Humanos
+          - elegido:
+              termino: Programa Verdad y Justicia
+            preferido:
+              termino: Derechos humanos/violación de derechos humanos/delitos cometidos durante actividades antisubversivas/Programa Verdad y Justicia
+            sinonimos:
+              termino: derechos fundamentales
+          - elegido:
+              termino: designación
+            preferido:
+              termino: Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/nombramiento
+            sinonimos:
+              termino:
+              - nombramiento de funcionarios
+              - nombramiento de empleados públicos
+              - nombramiento de funcionarios públicos
+              - relación de empleo público
+              - función pública
+              - designación de funcionarios
+              - designación de personal
+              - designación
+              - designación de funcionarios públicos
+          suggest:
+            termino:
+            - ingreso a la función pública
+            - nombramiento de funcionarios (nombramiento)
+            - designación de personal (nombramiento)
+            - función pública (Administración Pública)
+            - designación de funcionarios públicos (nombramiento)
+            - delitos cometidos durante actividades antisubversivas
+            - designación de funcionarios (nombramiento)
+            - nombramiento
+            - Ministerio de Justicia de la Nación (Ministerio de Justicia)
+            - Derechos humanos
+            - Ministerio de Justicia y Derechos Humanos (Ministerio de Justicia)
+            - Programa Verdad y Justicia
+            - Ministerio de Justicia
+            - Administración Pública
+            - nombramiento de funcionarios públicos (nombramiento)
+            - violación de derechos humanos
+            - derechos fundamentales (Derechos humanos)
+            - nombramiento de empleados públicos (nombramiento)
+            - designación (nombramiento)
+            - Ministerio de Justicia, Seguridad y Derechos Humanos (Ministerio de Justicia)
+            - empleo público
+            - relación de empleo público (empleo público)
+            - Derecho administrativo
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-384-0000-6102soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "483-nacional-designacion-programa-verdad-justicia-dn20160000483-2016-03-14"
+          }
+        },
+        "content": {
+          "mecanografico": 20160000483,
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "numero-norma": 483,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "fecha": "2016-03-14",
+          "standard-normativo": "DEC C 000483 2016 03 14",
+          "titulo-norma": "Designación en el Programa Verdad y Justicia",
+          "nombre-coloquial": "DECRETO NACIONAL 483/2016",
+          "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "Ministerio de Justicia y Derechos Humanos"
+                },
+                "preferido": {
+                  "termino": "Ministerio de Justicia"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "Ministerio de Justicia, Seguridad y Derechos Humanos",
+                    "Ministerio de Justicia de la Nación",
+                    "Ministerio de Justicia y Derechos Humanos"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Programa Verdad y Justicia"
+                },
+                "preferido": {
+                  "termino": "Derechos humanos/violación de derechos humanos/delitos cometidos durante actividades antisubversivas/Programa Verdad y Justicia"
+                },
+                "sinonimos": {
+                  "termino": "derechos fundamentales"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "designación"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/nombramiento"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "nombramiento de funcionarios",
+                    "nombramiento de empleados públicos",
+                    "nombramiento de funcionarios públicos",
+                    "relación de empleo público",
+                    "función pública",
+                    "designación de funcionarios",
+                    "designación de personal",
+                    "designación",
+                    "designación de funcionarios públicos"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "ingreso a la función pública",
+                "nombramiento de funcionarios (nombramiento)",
+                "designación de personal (nombramiento)",
+                "función pública (Administración Pública)",
+                "designación de funcionarios públicos (nombramiento)",
+                "delitos cometidos durante actividades antisubversivas",
+                "designación de funcionarios (nombramiento)",
+                "nombramiento",
+                "Ministerio de Justicia de la Nación (Ministerio de Justicia)",
+                "Derechos humanos",
+                "Ministerio de Justicia y Derechos Humanos (Ministerio de Justicia)",
+                "Programa Verdad y Justicia",
+                "Ministerio de Justicia",
+                "Administración Pública",
+                "nombramiento de funcionarios públicos (nombramiento)",
+                "violación de derechos humanos",
+                "derechos fundamentales (Derechos humanos)",
+                "nombramiento de empleados públicos (nombramiento)",
+                "designación (nombramiento)",
+                "Ministerio de Justicia, Seguridad y Derechos Humanos (Ministerio de Justicia)",
+                "empleo público",
+                "relación de empleo público (empleo público)",
+                "Derecho administrativo"
+              ]
+            }
+          }
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-384-0000-6102soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2016-03-14",
+      "status": "Individual, Solo Modificatoria o Sin Eficacia",
+      "timestamp": null
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
