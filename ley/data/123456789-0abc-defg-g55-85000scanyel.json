@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g55-85000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1728918636440,
+      "timestamp": 1746624440301,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -60,11 +60,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-10-14",
-      "fecha-mod": "2024-10-14",
-      "timestamp": "2024-10-14T12:04:47",
-      "timestamp-alta": "2024-10-14T12:04:47",
-      "timestamp-m": "2024-10-14T12:04:47",
+      "fecha-alta": "2025-05-07",
+      "fecha-mod": "2025-05-07",
+      "timestamp": "2025-05-07T10:03:30",
+      "timestamp-alta": "2025-05-07T10:03:30",
+      "timestamp-m": "2025-05-07T10:03:30",
       "sumario": {
         "sumario": "Se crea el Registro Nacional de Datos Genéticos."
       },
@@ -175,6 +175,15 @@
                 "derechos de las personas"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "MINISTERIO DE SEGURIDAD"
+            },
+            "preferido": {
+              "termino": "MINISTERIO DE SEGURIDAD"
+            },
+            "sinonimos": null
           }
         ],
         "suggest": {
@@ -201,6 +210,7 @@
             "Poder Ejecutivo Nacional",
             "Estado",
             "delitos contra la honestidad (delitos contra la integridad sexual)",
+            "MINISTERIO DE SEGURIDAD",
             "registro nacional de datos genéticos",
             "datos sensibles",
             "habeas data (derecho a la protección de datos personales)",
@@ -231,12 +241,19 @@
         },
         {
           "numero-articulo": 2,
-          "texto": "ARTICULO 2° - El registro creado funcionará en el ámbito del Ministerio de Justicia.",
-          "modificado-por": {
+          "antecedentes": {
             "referencia-normativa": {
               "cr": "(B.O. 14/10/2024) ARTICULO SUSTITUIDO",
-              "id": "MODIFICADO_POR_0",
+              "id": "ANTECEDENTES_0",
               "ref": "LEY C 027759 2024 09 26 0002 000 0000 000"
+            }
+          },
+          "texto": "ARTICULO 2° - El registro creado funcionará en el ámbito del MINISTERIO DE SEGURIDAD NACIONAL.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 7/5/2025) ARTICULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000304 2025 05 06 0001 000 0000 000"
             }
           }
         },
@@ -418,7 +435,7 @@
         "firmantes": "AMADO BOUDOU-DOMINGUEZ-Bozzano-Estrada"
       },
       "id-infojus": "LNS0005855",
-      "fecha-umod": 20241014121036
+      "fecha-umod": 20250507102720
     }
   }
 }
