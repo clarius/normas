@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-755-0000-3202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1743435868436,
+      "timestamp": 1747766106473,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-03-31",
-      "fecha-mod": "2025-03-31",
-      "timestamp": "2025-03-31T12:05:50",
-      "timestamp-alta": "2025-03-31T12:05:50",
-      "timestamp-m": "2025-03-31T12:05:50",
+      "fecha-alta": "2025-05-20",
+      "fecha-mod": "2025-05-20",
+      "timestamp": "2025-05-20T15:30:28",
+      "timestamp-alta": "2025-05-20T15:30:28",
+      "timestamp-m": "2025-05-20T15:30:28",
       "generalidades": {
         "sintesis": "Se modifican la Nomenclatura Común del Mercosur, el Arancel Externo Común y los Reintegros a la Exportación",
         "anexos-decreto": {
@@ -679,7 +679,14 @@
         {
           "anexo": "D",
           "titulo-anexo": "ANEXO IV",
-          "texto": "ANEXO IV"
+          "texto": "ANEXO IV.\n\n. POSICIONES ARANCELARIAS INCORPORADAS",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 20/5/2025) POSICIONES ARANCELARIAS INCORPORADAS CON VIGENCIA EL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000333 2025 05 19 0001 000 0000 000"
+            }
+          }
         },
         {
           "anexo": "E",
@@ -693,11 +700,18 @@
           },
           "texto": "ANEXO V",
           "modificado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 16/10/2024) ANEXO MODIFICADO",
-              "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000908 2024 10 15 0005 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 16/10/2024) ANEXO MODIFICADO",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000908 2024 10 15 0005 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 20/5/2025) POSICIONES ARANCELARIAS 9504.50.00 ELIMINADA CON VIGENCIA EL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DEC C 000333 2025 05 19 0002 000 0000 000"
+              }
+            ]
           }
         },
         {
@@ -758,7 +772,7 @@
         }
       ],
       "id-infojus": "DN20230000557",
-      "fecha-umod": 20250331124428
+      "fecha-umod": 20250520153506
     }
   }
 }
