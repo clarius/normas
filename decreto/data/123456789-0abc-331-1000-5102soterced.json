@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-331-1000-5102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1435068366946,
+      "timestamp": 1747936632879,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 1133,
-      "timestamp": "2015-06-23T10:27:18",
-      "timestamp-alta": "2015-06-23T10:27:18",
-      "timestamp-m": "2015-06-23T10:27:18",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -42,10 +39,13 @@
       "lugar-emision": "BUENOS AIRES",
       "nombre-coloquial": "DECRETO NACIONAL 1.133/2015",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2015-06-23",
-      "fecha-mod": "2015-06-23",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-05-22",
+      "fecha-mod": "2025-05-22",
+      "timestamp": "2025-05-22T14:50:53",
+      "timestamp-alta": "2025-05-22T14:50:53",
+      "timestamp-m": "2025-05-22T14:50:53",
       "generalidades": {
         "sintesis": "Se Crea el Museo de Sitio ESMA - Ex Centro Clandestino de Detención, Tortura y Exterminio",
         "anexos-decreto": {
@@ -70,10 +70,19 @@
           },
           {
             "elegido": {
+              "termino": "Museo de sitio ESMA ex centro clandestino de detención, tortura y exterminio"
+            },
+            "preferido": {
+              "termino": "Museo de sitio ESMA ex centro clandestino de detención, tortura y exterminio"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
               "termino": "Ministerio de Justicia y Derechos Humanos"
             },
             "preferido": {
-              "termino": "Ministerio de Justicia"
+              "termino": "MINISTERIO DE JUSTICIA"
             },
             "sinonimos": {
               "termino": [
@@ -86,15 +95,13 @@
         ],
         "suggest": {
           "termino": [
-            "Ministerio de Justicia, Seguridad y Derechos Humanos (Ministerio de Justicia)",
-            "Ministerio de Justicia de la Nación (Ministerio de Justicia)",
-            "Ministerio de Justicia y Derechos Humanos (Ministerio de Justicia)",
-            "Ministerio de Justicia",
-            "ESMA"
+            "Ministerio de Justicia y Derechos Humanos (MINISTERIO DE JUSTICIA)",
+            "Museo de sitio ESMA ex centro clandestino de detención, tortura y exterminio",
+            "Ministerio de Justicia, Seguridad y Derechos Humanos (MINISTERIO DE JUSTICIA)",
+            "ESMA",
+            "MINISTERIO DE JUSTICIA",
+            "Ministerio de Justicia de la Nación (MINISTERIO DE JUSTICIA)"
           ]
-        },
-        "invalidos": {
-          "termino": "MUSEO DE SITIO ESMA EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO"
         }
       },
       "visto": {
@@ -185,7 +192,14 @@
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "Artículo 1° - Créase el MUSEO DE SITIO ESMA -EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO-, como organismo desconcentrado en el ámbito de la SECRETARIA DE DERECHOS HUMANOS del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, cuya finalidad primordial será la de difundir y transmitir los hechos acontecidos a las víctimas del Terrorismo de Estado, ocurridos en el ámbito físico de su detención; así como sus antecedentes y consecuencias."
+          "texto": "Artículo 1° - Créase el MUSEO DE SITIO ESMA -EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO-, como unidad organizativa del CENTRO INTERNACIONAL PARA LA PROMOCIÓN DE LOS DERECHOS HUMANOS (CIPDH), organismo descentralizado actuante en el ámbito de la SECRETARÍA DE DERECHOS HUMANOS del MINISTERIO DE JUSTICIA, cuya finalidad primordial será la de difundir y transmitir los hechos acontecidos a las víctimas del Terrorismo de Estado, ocurridos en el ámbito físico de su detención; así como sus antecedentes y consecuencias.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 22/05/2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000344 2025 05 21 0003 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 2,
@@ -203,8 +217,15 @@
               "ref": "DEC C 002098 2008 12 03 0000 000 0000 000"
             }
           },
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 22/05/2025) ARTICULO DEROGADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000344 2025 05 21 0010 000 0000 000"
+            }
+          },
           "numero-articulo": 4,
-          "texto": "Art. 4° - La conducción del MUSEO DE SITIO ESMA -EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO- estará a cargo de UN (1) Director Ejecutivo, quien revistará en los términos establecidos por el artículo 5° de la Decisión Administrativa N° 1 del 12 de enero de 2015, con rango y jerarquía de Director Nacional, con una remuneración equivalente al Nivel A Grado 0, Función Ejecutiva I del Convenio Colectivo de Trabajo Sectorial del Personal del Sistema Nacional de Empleo Público (SINEP), homologado por el Decreto N° 2098/08 y modificatorios, designado por el PODER EJECUTIVO NACIONAL, a propuesta del Secretario de Derechos Humanos del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, el que tendrá los siguientes deberes y atribuciones:\n\na) Ejercer la representación y dirección general del Museo.\n\nb) Ejercer la administración del Museo suscribiendo todos los actos necesarios a tales fines.\n\nc) Elaborar el plan operativo anual del organismo.\n\nd) Promover y gestionar la obtención de recursos y fondos públicos y privados, locales y extranjeros, para el cumplimiento de los objetivos del Organismo.\n\ne) Proveer la información pertinente para la confección del presupuesto del Museo y elevar el anteproyecto de presupuesto de la citada entidad.\n\nf) Aprobar el plan estratégico del Museo.\n\ng) Aceptar herencias, legados y donaciones, así como las subvenciones que le asignen organismos públicos o privados, nacionales o extranjeros.\n\nh) Requerir a los distintos organismos de la Administración Pública Nacional, la información necesaria a fin de fortalecer el accionar del Organismo.\n\ni) Proceder anualmente a la confección y publicación de la Memoria del Museo.\n\nj) Realizar todos los actos necesarios, que de modo implícito o inherente surjan de las competencias atribuidas, para el cumplimiento de los fines previstos para el organismo."
+          "texto": "Art. 4° - NOTA DE REDACCION: DEROGADO POR DECRETO 344/25.\n\nLa conducción del MUSEO DE SITIO ESMA -EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO- estará a cargo de UN (1) Director Ejecutivo, quien revistará en los términos establecidos por el artículo 5° de la Decisión Administrativa N° 1 del 12 de enero de 2015, con rango y jerarquía de Director Nacional, con una remuneración equivalente al Nivel A Grado 0, Función Ejecutiva I del Convenio Colectivo de Trabajo Sectorial del Personal del Sistema Nacional de Empleo Público (SINEP), homologado por el Decreto N° 2098/08 y modificatorios, designado por el PODER EJECUTIVO NACIONAL, a propuesta del Secretario de Derechos Humanos del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, el que tendrá los siguientes deberes y atribuciones:\n\na) Ejercer la representación y dirección general del Museo.\n\nb) Ejercer la administración del Museo suscribiendo todos los actos necesarios a tales fines.\n\nc) Elaborar el plan operativo anual del organismo.\n\nd) Promover y gestionar la obtención de recursos y fondos públicos y privados, locales y extranjeros, para el cumplimiento de los objetivos del Organismo.\n\ne) Proveer la información pertinente para la confección del presupuesto del Museo y elevar el anteproyecto de presupuesto de la citada entidad.\n\nf) Aprobar el plan estratégico del Museo.\n\ng) Aceptar herencias, legados y donaciones, así como las subvenciones que le asignen organismos públicos o privados, nacionales o extranjeros.\n\nh) Requerir a los distintos organismos de la Administración Pública Nacional, la información necesaria a fin de fortalecer el accionar del Organismo.\n\ni) Proceder anualmente a la confección y publicación de la Memoria del Museo.\n\nj) Realizar todos los actos necesarios, que de modo implícito o inherente surjan de las competencias atribuidas, para el cumplimiento de los fines previstos para el organismo."
         },
         {
           "numero-articulo": 5,
@@ -215,8 +236,15 @@
           "texto": "Art. 6° - Serán atribuciones del CONSEJO ASESOR:\n\n1. Participar en la elaboración del Plan Anual de actividades del Museo.\n\n2. Intervenir en la definición de los contenidos a ser expuestos en la Muestra Permanente, las temporarias y otras actividades propias del Museo.\n\n3. Participar en lo relativo a las relaciones institucionales nacionales e internacionales en la temática de su competencia.\n\n4. Emitir opinión, con carácter no vinculante, sobre la propuesta de designación del Director Ejecutivo o los Directores del MUSEO DE SITIO ESMA -EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO-, que realice el Secretario de Derechos Humanos del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, conforme al artículo 4° del presente."
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 22/05/2025) ARTICULO DEROGADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000344 2025 05 21 0010 000 0000 000"
+            }
+          },
           "numero-articulo": 7,
-          "texto": "Art. 7° - Los recursos operativos del MUSEO DE SITIO ESMA -EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO- serán los siguientes:\n\n1. Las partidas presupuestarias asignadas, o que se asignen, por la Ley de Presupuesto Nacional o leyes especiales.\n\n2. Las donaciones, aportes no reembolsables y legados que reciba y acepte.\n\n3. Los intereses y beneficios resultantes de la gestión de sus propios fondos y/o activos.\n\n4. Todo otro ingreso no previsto en los incisos anteriores, provenientes de la gestión del Organismo.\n\n5. Los fondos provenientes de convenios o acuerdos con instituciones nacionales y/o internacionales, públicas o privadas que celebre el Museo de Sitio."
+          "texto": "Art. 7° - NOTA DE REDACCION: DEROGADO POR DECRETO 344/25.\n\nLos recursos operativos del MUSEO DE SITIO ESMA -EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO- serán los siguientes:\n\n1. Las partidas presupuestarias asignadas, o que se asignen, por la Ley de Presupuesto Nacional o leyes especiales.\n\n2. Las donaciones, aportes no reembolsables y legados que reciba y acepte.\n\n3. Los intereses y beneficios resultantes de la gestión de sus propios fondos y/o activos.\n\n4. Todo otro ingreso no previsto en los incisos anteriores, provenientes de la gestión del Organismo.\n\n5. Los fondos provenientes de convenios o acuerdos con instituciones nacionales y/o internacionales, públicas o privadas que celebre el Museo de Sitio."
         },
         {
           "modifica-a": {
@@ -234,11 +262,11 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 001486 2011 09 23 0000 000 0000 000  B"
+              "ref": "DEC C 001486 2011 09 23 0000 000 0000 000 B"
             }
           },
           "numero-articulo": 9,
-          "texto": "Art. 9° - Incorpórase al Anexo II del Decreto N° 1486 de fecha 23 de septiembre de 2011 y sus modificatorios, la Responsabilidad Primaria y Acciones de las aperturas organizativas del MUSEO DE SITIO ESMA - EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO, conforme a las Planillas anexas al presente    artículo que forman parte integrante de este decreto."
+          "texto": "Art. 9° - Incorpórase al Anexo II del Decreto N° 1486 de fecha 23 de septiembre de 2011 y sus modificatorios, la Responsabilidad Primaria y Acciones de las aperturas organizativas del MUSEO DE SITIO ESMA - EX CENTRO CLANDESTINO DE DETENCION, TORTURA Y EXTERMINIO, conforme a las Planillas anexas al presente artículo que forman parte integrante de este decreto."
         },
         {
           "numero-articulo": 10,
@@ -281,7 +309,8 @@
           "texto": "Planilla anexa al artículo 12"
         }
       ],
-      "id-infojus": "DN20150001133"
+      "id-infojus": "DN20150001133",
+      "fecha-umod": 20250522145712
     }
   }
 }

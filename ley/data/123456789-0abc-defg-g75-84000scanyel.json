@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g75-84000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1705418473620,
+      "timestamp": 1747847487504,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -70,11 +70,11 @@
       },
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-01-16",
-      "fecha-mod": "2024-01-16",
-      "timestamp": "2024-01-16T12:15:57",
-      "timestamp-alta": "2024-01-16T12:15:57",
-      "timestamp-m": "2024-01-16T12:15:57",
+      "fecha-alta": "2025-05-21",
+      "fecha-mod": "2025-05-21",
+      "timestamp": "2025-05-21T14:04:28",
+      "timestamp-alta": "2025-05-21T14:04:28",
+      "timestamp-m": "2025-05-21T14:04:28",
       "sumario": {
         "sumario": "REFORMA LABORAL-POLITICA LABORAL-SIMPLIFICACION Y UNIFICACION REGISTRAL-INSPECCION DEL TRABAJO"
       },
@@ -125,10 +125,13 @@
               "termino": "inspección del trabajo"
             },
             "preferido": {
-              "termino": "Derecho laboral/policía del trabajo/inspección del trabajo"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/promoción del empleo/fiscalización laboral/inspección del trabajo"
             },
             "sinonimos": {
-              "termino": "derecho del trabajo"
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
             }
           },
           {
@@ -136,10 +139,13 @@
               "termino": "promoción del empleo"
             },
             "preferido": {
-              "termino": "Derecho laboral/política laboral/promoción del empleo"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/promoción del empleo"
             },
             "sinonimos": {
-              "termino": "derecho del trabajo"
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
             }
           },
           {
@@ -161,12 +167,12 @@
               "termino": "reinserción laboral"
             },
             "preferido": {
-              "termino": "Derecho laboral/contrato de trabajo/reinserción laboral"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/promoción del empleo/reinserción laboral"
             },
             "sinonimos": {
               "termino": [
-                "contrato laboral",
-                "derecho del trabajo"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -189,17 +195,12 @@
               "termino": "capacitación laboral"
             },
             "preferido": {
-              "termino": "Derecho laboral/contrato de trabajo/contrato de trabajo en general/sujetos del contrato de trabajo/trabajador/derechos del trabajador/capacitación del personal"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/promoción del empleo/capacitación laboral"
             },
             "sinonimos": {
               "termino": [
-                "contrato laboral",
-                "derecho del trabajo",
-                "capacitación del trabajador",
-                "asalariados",
-                "empleado",
-                "capacitación",
-                "capacitación laboral"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -222,26 +223,28 @@
               "termino": "Organización Internacional del Trabajo"
             },
             "preferido": {
-              "termino": "Derecho internacional/derecho internacional público/organismos internacionales/Naciones Unidas/organismos especializados de las Naciones Unidas/Organización Internacional del Trabajo"
+              "termino": "Derecho Internacional/organismos internacionales/Organización Internacional del Trabajo"
             },
             "sinonimos": {
               "termino": [
                 "OIT",
-                "organizaciones internacionales",
-                "Organización de las Naciones Unidas",
-                "ONU",
-                "entidades internacionales"
+                "organizaciones internacionales"
               ]
             }
           },
           {
             "elegido": {
-              "termino": "CONSEJO FEDERAL DEL TRABAJO"
+              "termino": "Consejo Federal del Trabajo"
             },
             "preferido": {
-              "termino": "CONSEJO FEDERAL DEL TRABAJO"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/promoción del empleo/Consejo Federal del Trabajo"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
           },
           {
             "elegido": {
@@ -262,10 +265,13 @@
               "termino": "simplificación normativa"
             },
             "preferido": {
-              "termino": "Derecho civil/fuentes del derecho/interpretación y aplicación de la ley/simplificación normativa"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/modernización del Estado/desburocratización/simplificación normativa"
             },
             "sinonimos": {
-              "termino": "interpretación y aplicación"
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
             }
           },
           {
@@ -285,59 +291,40 @@
         ],
         "suggest": {
           "termino": [
-            "Derecho internacional",
-            "política laboral",
-            "sostenimiento del empleo",
-            "ley de reforma laboral (reforma laboral)",
-            "fortalecimiento de las instituciones",
-            "trabajadores desocupados",
-            "asalariados (trabajador)",
-            "modernización del Estado",
-            "simplificación y unificación registral",
-            "policía del trabajo",
-            "Organización Internacional del Trabajo",
-            "trabajador",
-            "interpretación y aplicación de la ley",
-            "ONU (Naciones Unidas)",
-            "Organización de las Naciones Unidas (Naciones Unidas)",
-            "politicas públicas",
-            "capacitación del trabajador (capacitación del personal)",
-            "capacitación del personal",
-            "CONSEJO FEDERAL DEL TRABAJO",
-            "empleo registrado",
-            "fuentes del derecho",
             "reforma laboral",
             "políticas de Estado (politicas públicas)",
             "politicas públicas transversales (politicas públicas)",
+            "política laboral",
+            "Derecho Internacional",
+            "sostenimiento del empleo",
             "reinserción laboral",
-            "organismos especializados de las Naciones Unidas",
             "prueba del contrato de trabajo",
+            "ley de reforma laboral (reforma laboral)",
             "contrato laboral (contrato de trabajo)",
-            "sujetos del contrato de trabajo",
+            "fortalecimiento de las instituciones",
+            "trabajadores desocupados",
             "desburocratización",
             "organizaciones internacionales (organismos internacionales)",
-            "entidades internacionales (organismos internacionales)",
-            "interpretación y aplicación (interpretación y aplicación de la ley)",
-            "capacitación laboral (capacitación del personal)",
-            "Derecho civil",
+            "Consejo Federal del Trabajo",
+            "modernización del Estado",
+            "simplificación y unificación registral",
             "promoción del empleo",
-            "derechos del trabajador",
-            "empleado (trabajador)",
-            "Naciones Unidas",
-            "capacitación (capacitación del personal)",
+            "Organización Internacional del Trabajo",
             "fiscalización laboral",
+            "politicas públicas",
             "inspección del trabajo",
             "trabajo registrado (empleo registrado)",
             "simplificación normativa",
-            "contrato de trabajo",
             "derecho del trabajo (Derecho laboral)",
+            "contrato de trabajo",
             "Estado",
             "organismos internacionales",
             "simplificación registral",
-            "derecho internacional público",
+            "capacitación laboral",
             "Derecho laboral",
-            "registros laborales",
+            "empleo registrado",
             "contrato de trabajo en general",
+            "registros laborales",
             "OIT (Organización Internacional del Trabajo)"
           ]
         }
@@ -662,12 +649,19 @@
               "titulo-particion": "Capítulo III  Conflictos Colectivos de Trabajo",
               "articulo": {
                 "numero-articulo": 24,
-                "texto": "ARTICULO 24. - Los conflictos colectivos que pudieren afectar la normal prestación de servicios esenciales o actividades de importancia trascendental, quedan sujetos a las siguientes garantías de prestación de servicios mínimos.\n\nEn lo que respecta a la prestación de servicios mínimos, en el caso de los servicios esenciales, en ningún caso podrá negociar o imponer a las partes una cobertura menor al SETENTA Y CINCO POR CIENTO (75%) de la prestación normal del servicio de que se tratare.\n\nEn el caso de las actividades o servicios de importancia trascendental, en ningún caso se podrá negociar o imponer a las partes una cobertura menor al CINCUENTA POR CIENTO (50%).\n\nSe considerarán servicios esenciales en sentido estricto, las actividades siguientes:.\n\na. Los servicios sanitarios y hospitalarios, así como el transporte y distribución de medicamentos e insumos hospitalarios y los servicios farmacéuticos;\n\nb. La producción, transporte y distribución y comercialización de agua potable, gas y otros combustibles y energía eléctrica; c. Los servicios de telecomunicaciones, incluyendo internet y comunicaciones satelitales;\n\nd. La aeronáutica comercial y el control de tráfico aéreo y portuario; incluyendo balizamiento, dragado, amarre, estiba y remolque de buques;\n\ne. servicios aduaneros y migratorios, y demás vinculados al comercio exterior; y.\n\nf. cuidado de menores y educación de niveles guardería, preescolar, primario y secundario, así como la educación especial.\n\nSe consideran actividades de importancia trascendental las siguientes:.\n\na. Producción de medicamentos y/o insumos hospitalarios; b. Transporte marítimo, fluvial, terrestre y subterráneo de personas y/o mercaderías a través de los distintos medios que se utilicen para tal fin;\n\nc. Servicios de radio y televisión;\n\nd. Actividades industriales continuas, incluyendo siderurgia y la producción de aluminio, actividad química y la actividad cementera;\n\ne. Industria alimenticia en toda su cadena de valor;\n\nf. La producción y distribución de materiales de la construcción, servicios de reparación de aeronaves y buques, todos los servicios portuarios y aeroportuarios, servicios logísticos, actividad minera, actividad frigorífica, correos, distribución y comercialización de alimentos y bebidas, actividad agropecuaria y su cadena de valor;\n\ng. Los servicios bancarios, financieros, servicios hoteleros y gastronómicos y el comercio electrónico; y.\n\nh. La producción de bienes y/o servicios de toda actividad, que estuvieran afectados a compromisos de exportación.\n\nUna comisión independiente y autónoma, denominada COMISIÓN DE GARANTÍAS, integrada según se establezca en la reglamentación, por cinco (5) miembros de reconocida solvencia técnica, profesional o académica en materia de relaciones del trabajo, del derecho laboral o de derecho constitucional y destacada trayectoria, podrá, mediante resolución fundada, calificar como servicio esencial o servicio de importancia trascendental una actividad no incluida en las enumeraciones precedentes, cuando se diere alguna de las siguientes circunstancias:.\n\na) La extensión y duración de la interrupción de la actividad de que se tratare pudiere poner en peligro la vida, la salud o la seguridad de la persona en toda o parte de la comunidad;\n\nb) La actividad afectada constituyere un servicio público de importancia trascendental o de utilidad pública;\n\nc) La interrupción o suspensión del servicio pudiere provocar una situación de crisis nacional aguda que hiciere peligrar las condiciones normales o de existencia de parte de la población; y d) la interrupción o suspensión de la producción pudiere poner en peligro el adecuado abastecimiento de productos críticos para la población y/o afectar metas de recaudación asociadas a las políticas de equilibrio fiscal.\n\nEl Poder Ejecutivo Nacional dictará la reglamentación correspondiente y la Autoridad de Aplicación las normas complementarias, aclaratorias y operativas que resulten necesarias.",
-                "modificado-por": {
+                "antecedentes": {
                   "referencia-normativa": {
                     "cr": "(B.O 21/12/2023) ARTICULO SUSTITUIDO",
-                    "id": "MODIFICADO_POR_0",
+                    "id": "ANTECEDENTES_0",
                     "ref": "DNU C 000070 2023 12 20 0097 000 0000 000"
+                  }
+                },
+                "texto": "ARTICULO 24. - Los conflictos colectivos que pudieren afectar la normal prestación de servicios esenciales o actividades de importancia trascendental quedan sujetos a las siguientes garantías de prestación de servicios mínimos.\n\nEn lo que respecta a la prestación de servicios mínimos, en el caso de los servicios esenciales, en ningún caso se podrá negociar o imponer a las partes una cobertura menor al SETENTA Y CINCO POR CIENTO (75 %) de la prestación normal del servicio de que se tratare.\n\nEn el caso de las actividades o servicios de importancia trascendental, en ningún caso se podrá negociar o imponer a las partes una cobertura menor al CINCUENTA POR CIENTO (50 %).\n\nSe considerarán servicios esenciales en sentido estricto las siguientes actividades: .\n\na. Los servicios sanitarios y hospitalarios, así como el transporte y distribución de medicamentos e insumos hospitalarios y los servicios farmacéuticos;\n\nb. La producción, transporte y distribución y comercialización de agua potable, gas y otros combustibles y energía eléctrica; c. Los servicios de telecomunicaciones, incluyendo internet y comunicaciones satelitales;\n\nd. La aeronáutica comercial y el control de tráfico aéreo y portuario; incluyendo balizamiento, dragado, amarre, estiba, desestiba, remolque de buques y todos los servicios portuarios;\n\ne. Los servicios aduaneros y migratorios, y demás vinculados al comercio exterior;\n\nf. El cuidado de menores y educación de niveles guardería, preescolar, primario y secundario, así como la educación especial;\u00A0y .\n\ng. El transporte marítimo y fluvial de personas y/o mercaderías y/o carga, servicios conexos y operaciones costa afuera, a través de los distintos medios que se utilicen para tal fin.\n\nSe consideran actividades de importancia trascendental las siguientes: .\n\na. La producción de medicamentos y/o insumos hospitalarios;\n\nb. El transporte terrestre y subterráneo de personas y/o mercaderías a través de los distintos medios que se utilicen para tal fin;\n\nc. Los servicios de radio y televisión;\n\nd. Las actividades industriales continuas, incluyendo siderurgia y la producción de aluminio, actividad química y la actividad cementera;\n\ne. La industria alimenticia en toda su cadena de valor;\n\nf. La producción y distribución de materiales de la construcción, servicios de reparación de aeronaves y buques, todos los servicios aeroportuarios, servicios logísticos, actividad minera, actividad frigorífica, correos, distribución y comercialización de alimentos y bebidas, actividad agropecuaria y su cadena de valor;\n\ng. Los servicios bancarios, financieros, servicios hoteleros y gastronómicos y el comercio electrónico;\u00A0y .\n\nh. La producción de bienes y/o servicios de toda actividad que estuvieran afectados a compromisos de exportación.\n\nUna comisión independiente y autónoma, denominada COMISIÓN DE GARANTÍAS, integrada según se establezca en la reglamentación por CINCO (5) miembros de reconocida solvencia técnica, profesional o académica en materia de relaciones del trabajo, del derecho laboral o del derecho constitucional y destacada trayectoria, podrá, mediante resolución fundada, calificar como servicio esencial o servicio de importancia trascendental una actividad no incluida en las enumeraciones precedentes, cuando se diere alguna de las siguientes circunstancias: .\n\na) La extensión y duración de la interrupción de la actividad de que se tratare pudiere poner en peligro la vida, la salud o la seguridad de la persona en toda o parte de la comunidad;\n\nb) La actividad afectada constituyere un servicio público de importancia trascendental o de utilidad pública;\n\nc) La interrupción o suspensión del servicio pudiere provocar una situación de crisis nacional aguda que hiciere peligrar las condiciones normales o de existencia de parte de la población;\u00A0y .\n\nd) la interrupción o suspensión de la producción pudiere poner en peligro el adecuado abastecimiento de productos críticos para la población y/o afectar metas de recaudación asociadas a las políticas de equilibrio fiscal.\n\nEl PODER EJECUTIVO NACIONAL dictará la reglamentación correspondiente y la Autoridad de Aplicación, las normas complementarias, aclaratorias y operativas que resulten necesarias.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 21/05/2025) ARTICULO SUSTITUIDO",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DNU C 000340 2025 05 20 0003 000 0000 000"
                   }
                 },
                 "observado-por": {
@@ -927,7 +921,8 @@
           ]
         }
       ],
-      "id-infojus": "LNS0004857"
+      "id-infojus": "LNS0004857",
+      "fecha-umod": 20250521141127
     }
   }
 }
