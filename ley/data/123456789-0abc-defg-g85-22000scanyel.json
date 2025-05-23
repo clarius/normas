@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g85-22000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1451329757767,
+      "timestamp": 1748011837729,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -24,8 +24,6 @@
         }
       },
       "numero-norma": 12665,
-      "timestamp": "2015-12-02T13:06:13",
-      "timestamp-m": "2015-12-02T13:06:13",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -51,13 +49,17 @@
           "fecha": "1940 10 15"
         }
       },
-      "sancion": "El  Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc.  SANCIONAN CON FUERZA DE LEY",
+      "sancion": "El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc. SANCIONAN CON FUERZA DE LEY",
       "lugar-sancion": "BUENOS AIRES",
       "nombre-coloquial": "Ley 12.665",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-21",
-      "fecha-mod": "2015-12-02",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-05-23",
+      "fecha-mod": "2025-05-23",
+      "timestamp": "2025-05-23T11:33:55",
+      "timestamp-alta": "2025-05-23T11:33:55",
+      "timestamp-m": "2025-05-23T11:33:55",
       "sumario": {
         "sumario": "EDUCACION Y CULTURA-MUSEOS-COMISION NACIONAL DE MUSEOS Y DE MONUMENTOS Y LUGARES HISTORICOS-Creación-Organización-Funciones- Facultades-ESTADO-PODER EJECUTIVO NACIONAL-MINISTERIOS-MINISTERIO DE JUSTICIA E INSTRUCCION PUBLICA:Facultades-TRIBUTOS- IMPUESTOS:Exención-Infracciones-Sanciones-"
       },
@@ -65,16 +67,13 @@
         "descriptor": [
           {
             "elegido": {
-              "termino": "Comisión Nacional de Museos y de Monumentos y Lugares Históricos"
+              "termino": "COMISIÓN NACIONAL DE MUSEOS Y DE MONUMENTOS Y LUGARES HISTÓRICOS"
             },
             "preferido": {
-              "termino": "Comisión Nacional de Museos y de Monumentos y Lugares Históricos"
+              "termino": "COMISIÓN NACIONAL DE MUSEOS Y DE MONUMENTOS Y LUGARES HISTÓRICOS"
             },
             "sinonimos": {
-              "termino": [
-                "Comisión Nacional de Museos, Monumentos y Lugares Históricos",
-                "Comisión Nacional de Museos y Lugares Históricos"
-              ]
+              "termino": "Comisión Nacional de Museos y Lugares Históricos"
             }
           },
           {
@@ -176,8 +175,7 @@
           "termino": [
             "museos provinciales (museos)",
             "Cultura y educación",
-            "Comisión Nacional de Museos y de Monumentos y Lugares Históricos",
-            "Comisión Nacional de Museos y Lugares Históricos (Comisión Nacional de Museos y de Monumentos y Lugares Históricos)",
+            "COMISIÓN NACIONAL DE MUSEOS Y DE MONUMENTOS Y LUGARES HISTÓRICOS",
             "bienes culturales (patrimonio cultural)",
             "lugares históricos",
             "dominio del Estado",
@@ -194,15 +192,15 @@
             "museos nacionales (museos)",
             "Educación y Cultura (Cultura y educación)",
             "utilidad pública (declaración de utilidad pública)",
-            "establecimientos de utilidad nacional (declaración de utilidad pública)",
             "declaración de utilidad pública",
+            "establecimientos de utilidad nacional (declaración de utilidad pública)",
             "bienes de interés cultural (patrimonio cultural)",
             "patrimonio cultural",
             "museos municipales (museos)",
             "proceso expropiatorio",
             "cultura",
-            "Comisión Nacional de Museos, Monumentos y Lugares Históricos (Comisión Nacional de Museos y de Monumentos y Lugares Históricos)",
-            "obras literarias y artísticas"
+            "obras literarias y artísticas",
+            "Comisión Nacional de Museos y Lugares Históricos (COMISIÓN NACIONAL DE MUSEOS Y DE MONUMENTOS Y LUGARES HISTÓRICOS)"
           ]
         }
       },
@@ -212,40 +210,61 @@
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "Artículo 1.- Créase la Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos, continuadora de la Comisión Nacional de Museos y de Monumentos y Lugares Históricos, dependiente del organismo que determine el Poder Ejecutivo nacional.",
-          "modificado-por": {
+          "antecedentes": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo sustituido.",
-              "id": "MODIFICADO_POR_0",
+              "id": "ANTECEDENTES_0",
               "ref": "LEY C 027103 2014 12 17 0001 000 0000 000"
+            }
+          },
+          "texto": "Artículo 1.- Créase la COMISIÓN NACIONAL DE MONUMENTOS, DE LUGARES Y DE BIENES HISTÓRICOS, que funcionará como unidad organizativa dependiente de la SECRETARÍA DE CULTURA de la PRESIDENCIA DE LA NACIÓN.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 23/05/2025) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000345 2025 05 21 0012 000 0000 000"
             }
           }
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 23/05/2025) ART. DEROGADO A PARTIR DE LA ENTRADA EN VIGENCIA DE LA ADECUACION DE LAS ESTRUCTURAS ORGANIZATIVAS DE LAS UNIDADES ALCANZADAS POR ESTA MEDIDA",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000345 2025 05 21 0020 000 0000 000"
+            }
+          },
           "numero-articulo": "1 002",
-          "texto": "Artículo 1°.- bis: La Comisión Nacional será integrada por un presidente y diez (10) vocales, designados por el Poder Ejecutivo nacional, que durarán en sus cargos seis (6) años, pudiendo ser reelectos.",
-          "modificado-por": {
+          "antecedentes": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo incorporado.",
-              "id": "MODIFICADO_POR_0",
+              "id": "ANTECEDENTES_0",
               "ref": "LEY C 027103 2014 12 17 0002 000 0000 000"
             }
-          }
+          },
+          "texto": "Artículo 1°.- bis: NOTA DE REDACCION: DEROGADO POR DECRETO 345/25.\n\nLa Comisión Nacional será integrada por un presidente y diez (10) vocales, designados por el Poder Ejecutivo nacional, que durarán en sus cargos seis (6) años, pudiendo ser reelectos."
         },
         {
           "numero-articulo": "1 003",
-          "texto": "Artículo 1° ter: Son atribuciones de la comisión:\n\na) Ejercer la superintendencia inmediata sobre los monumentos, lugares y bienes históricos nacionales y demás bienes protegidos en los términos de la presente ley, en concurrencia con las respectivas autoridades locales, cuando se trate de monumentos, lugares y bienes del dominio provincial o municipal;\n\nb) Proponer al Poder Ejecutivo nacional la declaratoria de monumentos, lugares y bienes históricos nacionales, y demás bienes protegidos en los términos de la presente ley, indicando con precisión el perímetro del área protegida conforme las clases enunciadas en la presente ley;\n\nc) Establecer, revisar y actualizar criterios y pautas de selección, clasificación y valoración para los monumentos, lugares y bienes protegidos;\n\nd) A solicitud del Congreso de la Nación, designar expertos para evaluar los méritos históricos artísticos, arquitectónicos, industriales o arqueológicos del monumento, lugar o bien sometido a opinión, quienes expedirán su dictamen por escrito, no vinculante, en el plazo establecido por la comisión. Dicho dictamen será refrendado por la comisión;\n\ne) Designar delegados en base a una terna vinculante remitida por los gobiernos provinciales y la Ciudad Autónoma de Buenos Aires, con asiento en los respectivos distritos, y por sí, subdelegados locales, asesores consultos, honorarios y eméritos;\n\nf) Organizar mecanismos de representación regional y federal;\n\ng) Establecer \"áreas de amortiguación\" en el entorno de los monumentos, coordinando con la autoridad local las restricciones urbanísticas que correspondan;\n\nh) Establecer los alcances y límites de la protección inherente a cada declaratoria;\n\ni) Recomendar al Poder Ejecutivo que impulse ante el Congreso Nacional la declaración de utilidad pública de los inmuebles que así lo ameriten;\n\nj) Llevar un registro público de los bienes protegidos según su clase;\n\nk) Intervenir con carácter previo y vinculante en toda transacción, transferencia de dominio, gravamen u otra modificación del estatus jurídico de un bien protegido;\n\nl) Intervenir con carácter previo y vinculante, aprobar o rechazar, y supervisar toda intervención material sobre los bienes protegidos;\n\nm) Proponer al Poder Ejecutivo nacional la adquisición de bienes de particulares cuando sea de interés público su ingreso al dominio del Estado nacional;\n\nn) Realizar por sí o auspiciar publicaciones de las materias de su competencia;\n\no) Organizar, auspiciar o participar en congresos, seminarios, encuentros, jornadas, programas periodísticos y toda otra actividad de difusión de sus competencias;\n\np) Proponer al Poder Ejecutivo nacional la aceptación de herencias, legados y donaciones vinculadas a la materia de esta ley;\n\nq) Aceptar y recibir subsidios y aportes en dinero o en especie;\n\nr) Celebrar convenios de cooperación con entidades públicas o privadas, nacionales o internacionales, gubernamentales o no gubernamentales.",
-          "modificado-por": {
+          "antecedentes": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo incorporado.",
-              "id": "MODIFICADO_POR_0",
+              "id": "ANTECEDENTES_0",
               "ref": "LEY C 027103 2014 12 17 0003 000 0000 000"
+            }
+          },
+          "texto": "Artículo 1° ter: La Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos tendrá a su cargo ejercer la superintendencia sobre los monumentos, lugares y bienes históricos nacionales y demás bienes protegidos en los términos de la presente ley, en concurrencia con las respectivas autoridades locales cuando se trate de monumentos, lugares y bienes del dominio provincial o municipal, sin perjuicio de las demás atribuciones que le sean otorgadas por la reglamentación de la presente ley.\n\nAsimismo, la Comisión deberá intervenir con carácter previo y vinculante:.\n\na) en toda transacción, transferencia de dominio, gravamen u otra modificación del estatus jurídico de los bienes protegidos en el marco de esta ley;\n\nb) en la aprobación o rechazo de toda intervención material sobre los bienes protegidos bajo esta ley, quedando a su cargo la supervisión de las tareas pertinentes.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 23/05/2025) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000345 2025 05 21 0013 000 0000 000"
             }
           }
         },
         {
           "numero-articulo": 2,
-          "texto": "Art.  2.-  Los monumentos, lugares y bienes protegidos, que sean de propiedad de la Nación, de las provincias, la Ciudad Autónoma de Buenos Aires o de los municipios, quedan sometidos por esta ley a la custodia y conservación del Estado nacional y, en su caso, en concurrencia con las autoridades locales.\n\nLa Comisión Nacional podrá gestionar o apoyar las gestiones de terceros ante organismos públicos o privados, para la obtención de créditos de fomento para la conservación de los bienes declarados, en cualquiera de sus clases.",
+          "texto": "Art. 2.- Los monumentos, lugares y bienes protegidos, que sean de propiedad de la Nación, de las provincias, la Ciudad Autónoma de Buenos Aires o de los municipios, quedan sometidos por esta ley a la custodia y conservación del Estado nacional y, en su caso, en concurrencia con las autoridades locales.\n\nLa Comisión Nacional podrá gestionar o apoyar las gestiones de terceros ante organismos públicos o privados, para la obtención de créditos de fomento para la conservación de los bienes declarados, en cualquiera de sus clases.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo sustituido",
@@ -256,7 +275,7 @@
         },
         {
           "numero-articulo": 3,
-          "texto": "Art.  3.-  La Comisión Nacional podrá celebrar con los propietarios de los bienes declaradosacuerdos a fin de determinar el modo cooperativo de asegurar el cumplimiento de los fines patrióticos de la ley. Si la conservación del lugar o monumento implicase una limitación al dominio, el Poder Ejecutivo indemnizará al propietario en su caso, y en la medida de dicha limitación.",
+          "texto": "Art. 3.- La Comisión Nacional podrá celebrar con los propietarios de los bienes declaradosacuerdos a fin de determinar el modo cooperativo de asegurar el cumplimiento de los fines patrióticos de la ley. Si la conservación del lugar o monumento implicase una limitación al dominio, el Poder Ejecutivo indemnizará al propietario en su caso, y en la medida de dicha limitación.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo sustituido.",
@@ -267,7 +286,7 @@
         },
         {
           "numero-articulo": "3 002",
-          "texto": "*ARTICULO  3  Bis.-  Ante iniciativa presentada en el Congreso de la Nación para declarar como protegido en los términos del artículo 4° de la presente ley un bien ubicado en cualquier jurisdicción de la República Argentina, corresponde la consulta previa a la Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos, la cual emitirá su dictamen de carácter no vinculante, señalando la clasificación que en su opinión corresponde otorgar y todo otro alcance de la declaratoria.",
+          "texto": "*ARTICULO 3 Bis.- Ante iniciativa presentada en el Congreso de la Nación para declarar como protegido en los términos del artículo 4° de la presente ley un bien ubicado en cualquier jurisdicción de la República Argentina, corresponde la consulta previa a la Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos, la cual emitirá su dictamen de carácter no vinculante, señalando la clasificación que en su opinión corresponde otorgar y todo otro alcance de la declaratoria.",
           "modificado-por": {
             "referencia-normativa": [
               {
@@ -285,7 +304,7 @@
         },
         {
           "numero-articulo": 4,
-          "texto": "Art.  4.-  Corresponde a la Comisión Nacional llevar un registro público de los bienes protegidos, enunciados en las siguientes clases:\n\n1. Monumento histórico nacional.\n\n2. Lugar histórico nacional.\n\n3. Poblado histórico nacional.\n\n4. Área urbana histórica nacional.\n\n5. Área de amortiguación visual.\n\n6. Bien de interés histórico nacional.\n\n7. Bien de interés artístico nacional.\n\n8. Bien de interés arquitectónico nacional.\n\n9. Bien de interés industrial nacional.\n\n10. Bien de interés arqueológico nacional.\n\n11. Sepulcro histórico nacional.\n\n12. Paisaje cultural nacional.\n\n13. Itinerario cultural nacional.",
+          "texto": "Art. 4.- Corresponde a la Comisión Nacional llevar un registro público de los bienes protegidos, enunciados en las siguientes clases:\n\n1. Monumento histórico nacional.\n\n2. Lugar histórico nacional.\n\n3. Poblado histórico nacional.\n\n4. Área urbana histórica nacional.\n\n5. Área de amortiguación visual.\n\n6. Bien de interés histórico nacional.\n\n7. Bien de interés artístico nacional.\n\n8. Bien de interés arquitectónico nacional.\n\n9. Bien de interés industrial nacional.\n\n10. Bien de interés arqueológico nacional.\n\n11. Sepulcro histórico nacional.\n\n12. Paisaje cultural nacional.\n\n13. Itinerario cultural nacional.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo sustituido.",
@@ -303,7 +322,7 @@
             }
           },
           "numero-articulo": "4 002",
-          "texto": "*ARTICULO  4  Bis.- Derogado por ley 27.103 (B.O. 23/01/2015).",
+          "texto": "*ARTICULO 4 Bis.- Derogado por ley 27.103 (B.O. 23/01/2015).",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "Incorporado. (B.O. 18-11-93).",
@@ -314,7 +333,7 @@
         },
         {
           "numero-articulo": 5,
-          "texto": "Art.  5.- Los bienes protegidos en los términos de esta ley no podrán ser vendidos, ni gravados ni enajenados por cualquier título o acto, ni modificado su estatus jurídico, sin la intervención previa de la Comisión Nacional. La Comisión Nacional emitirá su dictamen vinculante dentro del plazo de sesenta (60) días hábiles computados a partir de la fecha en que el o los interesados soliciten la autorización.\n\nQueda expresamente prohibida la salida del territorio nacional de bienes protegidos, sean bienes muebles o inmuebles por accesión, sin la previa intervención y autorización de la Comisión Nacional, en los mismos términos dispuestos en el párrafo anterior.",
+          "texto": "Art. 5.- Los bienes protegidos en los términos de esta ley no podrán ser vendidos, ni gravados ni enajenados por cualquier título o acto, ni modificado su estatus jurídico, sin la intervención previa de la Comisión Nacional. La Comisión Nacional emitirá su dictamen vinculante dentro del plazo de sesenta (60) días hábiles computados a partir de la fecha en que el o los interesados soliciten la autorización.\n\nQueda expresamente prohibida la salida del territorio nacional de bienes protegidos, sean bienes muebles o inmuebles por accesión, sin la previa intervención y autorización de la Comisión Nacional, en los mismos términos dispuestos en el párrafo anterior.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo sustituido.",
@@ -325,7 +344,7 @@
         },
         {
           "numero-articulo": 6,
-          "texto": "Art.  6.-  Los  inmuebles  comprendidos  en la lista y clasificación oficial de la  comisión  nacional  estarán libres  de  toda  carga impositiva.",
+          "texto": "Art. 6.- Los inmuebles comprendidos en la lista y clasificación oficial de la comisión nacional estarán libres de toda carga impositiva.",
           "observado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 29-05-51). Se aclara el régimen impositivo de los inmuebles declarados monumentos históricos.",
@@ -354,7 +373,7 @@
             }
           },
           "numero-articulo": 8,
-          "texto": "Art.  8.- El que infringiera la presente ley mediante ocultamiento, omisión, destrucción, alteración, transferencia o gravamen, exportación o cualquier otro acto material o jurídico practicado sobre bienes protegidos será sancionado con multa, cuyo valor se establecerá entre un mínimo de diez por ciento (10 %) hasta tres veces el valor del bien o los bienes que hayan motivado la conducta sancionada. Para la determinación de la multa se atenderá a la gravedad de la falta cometida y al carácter de reincidente del infractor.\n\nLos montos percibidos en concepto de multa serán destinados a las partidas presupuestarias asignadas a la Comisión Nacional.\n\nLas multas establecidas en el párrafo anterior serán aplicadas siempre que el hecho no se encontrase encuadrado en el tipo penal establecido en el artículo 184, inciso 5, del Código Penal.\n\nEn caso de alteración total o parcial de fachadas u otras áreas de máxima tutela de un edificio declarado monumento histórico nacional, o de una parte sustancial de cualquier otro bien protegido en el marco de la presente ley, el propietario, a su costo, deberá restituirlo a su estado original en plazo perentorio establecido por la Comisión Nacional.\n\nFenecido dicho plazo sin novedad, se aplicará una multa fijada a criterio de la Comisión Nacional, por cada día de demora en la reconstrucción.",
+          "texto": "Art. 8.- El que infringiera la presente ley mediante ocultamiento, omisión, destrucción, alteración, transferencia o gravamen, exportación o cualquier otro acto material o jurídico practicado sobre bienes protegidos será sancionado con multa, cuyo valor se establecerá entre un mínimo de diez por ciento (10 %) hasta tres veces el valor del bien o los bienes que hayan motivado la conducta sancionada. Para la determinación de la multa se atenderá a la gravedad de la falta cometida y al carácter de reincidente del infractor.\n\nLos montos percibidos en concepto de multa serán destinados a las partidas presupuestarias asignadas a la Comisión Nacional.\n\nLas multas establecidas en el párrafo anterior serán aplicadas siempre que el hecho no se encontrase encuadrado en el tipo penal establecido en el artículo 184, inciso 5, del Código Penal.\n\nEn caso de alteración total o parcial de fachadas u otras áreas de máxima tutela de un edificio declarado monumento histórico nacional, o de una parte sustancial de cualquier otro bien protegido en el marco de la presente ley, el propietario, a su costo, deberá restituirlo a su estado original en plazo perentorio establecido por la Comisión Nacional.\n\nFenecido dicho plazo sin novedad, se aplicará una multa fijada a criterio de la Comisión Nacional, por cada día de demora en la reconstrucción.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 23/01/2015) Artículo sustituido.",
@@ -382,7 +401,8 @@
       "firmantes": {
         "firmantes": "PATRON COSTAS-Noel-Figueroa-Zavalla Carbbbo"
       },
-      "id-infojus": "LNS0002258"
+      "id-infojus": "LNS0002258",
+      "fecha-umod": 20250523115037
     }
   }
 }
