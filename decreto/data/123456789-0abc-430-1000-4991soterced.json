@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-430-1000-4991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1683133460466,
+      "timestamp": 1748022351061,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,39 +16,46 @@
     },
     "content": {
       "mecanografico": 19940001034,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1034,
+      "fecha": "1994-06-30",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1034,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1994-06-30",
       "standard-normativo": "DEC C 001034 1994 06 30",
       "titulo-norma": "Creación de una Comisión Honoraria de Homenaje y Conmemoración del 20 Aniversario del fallecimiento del ex-Presidente de la Nación Teniente General Juan D. Perón",
+      "nombre-coloquial": "DECRETO NACIONAL 1.034/1994",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1994 07 14"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 1.034/1994",
       "analista": "Rocca, Adriana",
-      "estado": "Vigente, de alcance general",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2023-05-03",
-      "fecha-mod": "2023-05-03",
-      "timestamp": "2023-05-03T13:55:54",
-      "timestamp-alta": "2023-05-03T13:55:54",
-      "timestamp-m": "2023-05-03T13:55:54",
+      "fecha-alta": "2025-05-23",
+      "fecha-mod": "2025-05-23",
+      "timestamp": "2025-05-23T14:40:20",
+      "timestamp-alta": "2025-05-23T14:40:20",
+      "timestamp-m": "2025-05-23T14:40:20",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 22/5/2025) CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000346 2025 05 21 0014 000 0000 000"
+          }
+        },
         "sintesis": "Se crea una Comisión Honoraria de Homenaje y Conmemoración del 20 Aniversario del fallecimiento del ex-Presidente de la Nación Teniente General Juan D. Perón",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6"
       },
@@ -224,7 +231,8 @@
       "firmantes": {
         "firmantes": "MENEM-Ruckauf"
       },
-      "id-infojus": "DN19940001034"
+      "id-infojus": "DN19940001034",
+      "fecha-umod": 20250523144551
     }
   }
 }

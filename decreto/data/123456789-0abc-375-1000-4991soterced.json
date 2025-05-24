@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-375-1000-4991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1643727950716,
+      "timestamp": 1748022349387,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,39 +16,46 @@
     },
     "content": {
       "mecanografico": 19940001573,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1573,
+      "fecha": "1994-09-02",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1573,
-      "timestamp": "2022-02-01T11:09:50",
-      "timestamp-alta": "2022-02-01T11:09:50",
-      "timestamp-m": "2022-02-01T11:09:50",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1994-09-02",
       "standard-normativo": "DEC C 001573 1994 09 02",
       "titulo-norma": "Establece el carácter de permanente y nacional de la comisión creada por el Decreto 1034/94 denominándose Comisión Permanente Nacional de Homenaje al Teniente General Juan Domingo Perón",
+      "nombre-coloquial": "DECRETO NACIONAL 1.573/1994",
+      "lugar-emision": "CAPITAL FEDERAL",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1994 09 19"
         }
       },
-      "lugar-emision": "CAPITAL FEDERAL",
-      "nombre-coloquial": "DECRETO NACIONAL 1.573/1994",
       "analista": "Rocca, Adriana",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2022-02-01",
-      "fecha-mod": "2022-02-01",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-05-23",
+      "fecha-mod": "2025-05-23",
+      "timestamp": "2025-05-23T14:40:20",
+      "timestamp-alta": "2025-05-23T14:40:20",
+      "timestamp-m": "2025-05-23T14:40:20",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 22/5/2025) CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000346 2025 05 21 0014 000 0000 000"
+          }
+        },
         "sintesis": "Se Establece el carácter de permanente y nacional de la comisión creada por el Decreto 1034/94 denominándose Comisión Permanente Nacional de Homenaje al Teniente General Juan Domingo Perón",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6.\n\nOBSERVACION: DEROGADO POR ARTICULO 14 DEL DECRETO 622/95 (B.O. 03/05/1995) Y REESTABLECIDA SU VIGENCIA POR ARTICULO 1 DEL DECRETO 391/95 (B.O. 31/08/1995)."
       },
@@ -181,7 +188,8 @@
       "firmantes": {
         "firmantes": "MENEM-Ruckauf"
       },
-      "id-infojus": "DN19940001573"
+      "id-infojus": "DN19940001573",
+      "fecha-umod": 20250523144549
     }
   }
 }
