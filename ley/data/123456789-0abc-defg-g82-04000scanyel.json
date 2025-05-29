@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g82-04000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1700747669283,
+      "timestamp": 1748525154256,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -84,11 +84,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2023-11-23",
-      "fecha-mod": "2023-11-23",
-      "timestamp": "2023-11-23T10:50:03",
-      "timestamp-alta": "2023-11-23T10:50:03",
-      "timestamp-m": "2023-11-23T10:50:03",
+      "fecha-alta": "2025-05-29",
+      "fecha-mod": "2025-05-29",
+      "timestamp": "2025-05-29T10:17:48",
+      "timestamp-alta": "2025-05-29T10:17:48",
+      "timestamp-m": "2025-05-29T10:17:48",
       "sumario": {
         "sumario": "EDUCACION SUPERIOR-UNIVERSIDADES-AUTONOMIA UNIVERSITARIA-INSTITUTOS TERCIARIOS-UNIVERSIDADES NACIONALES-TITULO PROFESIONAL-ORGANOS DE GOBIERNO DE LA UNIVERSIDAD-CONSEJO INTERUNIVERSITARIO NACIONAL"
       },
@@ -418,13 +418,20 @@
             },
             {
               "numero-articulo": "2 002",
-              "texto": "Artículo 2º bis: Los estudios de grado en las instituciones de educación superior de gestión estatal son gratuitos e implican la prohibición de establecer sobre ellos cualquier tipo de gravamen, tasa, impuesto, arancel, o tarifa directos o indirectos.\n\nProhíbase a las instituciones de la educación superior de gestión estatal suscribir acuerdos o convenios con otros Estados, instituciones u organismos nacionales e internacionales públicos o privados, que impliquen ofertar educación como un servicio lucrativo o que alienten formas de mercantilización.",
+              "texto": "Artículo 2º bis: Los estudios de grado en las instituciones de educación superior de gestión estatal serán gratuitos para todos los ciudadanos argentinos nativos o por opción y para todo extranjero que cuente con residencia permanente en el país. La gratuidad implica la prohibición de establecer sobre ellos cualquier tipo de gravamen, tasa, impuesto, arancel, o tarifa directos o indirectos.\n\nLas instituciones de educación superior de gestión estatal podrán establecer retribuciones por los servicios de educación para aquellos que no estuvieren incluidos en el párrafo anterior, conforme los términos del inciso c) del artículo 59 de la presente ley.\n\nSin perjuicio de ello, quienes no contaren con residencia permanente en el país podrán ser titulares de becas en los casos en que ello sea previsto por los estatutos correspondientes o por los convenios celebrados entre las instituciones de educación superior de gestión estatal y otros estados, instituciones u organismos nacionales e internacionales públicos o privados.",
               "modificado-por": {
-                "referencia-normativa": {
-                  "cr": "(B.O. 11-11-2015) ARTICULO INCORPORADO",
-                  "id": "MODIFICADO_POR_0",
-                  "ref": "LEY C 027204 2015 10 28 0003 000 0000 000"
-                }
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 11-11-2015) ARTICULO INCORPORADO",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "LEY C 027204 2015 10 28 0003 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 29/05/2025) Artículo Sustituido con vigencia el día de su publicación en el Boletín Oficial.",
+                    "id": "MODIFICADO_POR_1",
+                    "ref": "DNU C 000366 2025 05 28 0035 000 0000 000"
+                  }
+                ]
               }
             }
           ]
@@ -1288,7 +1295,8 @@
           }
         }
       ],
-      "id-infojus": "LNS0004028"
+      "id-infojus": "LNS0004028",
+      "fecha-umod": 20250529102554
     }
   }
 }
