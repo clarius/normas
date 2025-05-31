@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-226-0000-5991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1748022352724,
+      "timestamp": 1748279780995,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -11,115 +11,43 @@
       "document-recovery-strategy": "abstract-legislacion",
       "friendly-url": {
         "subdomain": "decreto",
-        "description": "622-nacional-creacion-instituto-juan-peron-estudio-investigaciones-historicas-sociales-politicas-dn19950000622-1995-04-26"
+        "description": "622-nacional-creacion-instituto-juan-domingo-peron-estudio-investigaciones-historicas-sociales-politicas-dn19950000622-1995-04-26"
       }
     },
     "content": {
       "mecanografico": 19950000622,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 622,
+      "fecha": "1995-04-26",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 622,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1995-04-26",
       "standard-normativo": "DEC C 000622 1995 04 26",
-      "titulo-norma": "CREACION DEL INSTITUTO JUAN D. PERON DE ESTUDIO E INVESTIGACIONES HISTORICAS, SOCIALES Y POLITICAS",
+      "titulo-norma": "Creación del Instituto Juan Domingo Perón de Estudio e Investigaciones Históricas, Sociales y Políticas",
+      "nombre-coloquial": "DECRETO NACIONAL 622/1995",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1995 05 03"
         }
       },
-      "efecto-pasivo": {
-        "referencia-normativa": [
-          {
-            "cr": "Sin efecto el art. 14, restableciéndose la vigencia de los Decs. 1.034/94 y 1.573/94 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR0",
-            "ref": "DEC C 000391 1995 08 28 0001 000"
-          },
-          {
-            "cr": "Modifica art. 3 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR1",
-            "ref": "DEC C 000391 1995 08 28 0003 000"
-          },
-          {
-            "cr": "Modifica art. 4 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR2",
-            "ref": "DEC C 000391 1995 08 28 0004 000"
-          },
-          {
-            "cr": "Suprime art. 5 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR3",
-            "ref": "DEC C 000391 1995 08 28 0005 000"
-          },
-          {
-            "cr": "Suprime art. 6 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR4",
-            "ref": "DEC C 000391 1995 08 28 0005 000"
-          },
-          {
-            "cr": "Suprime art. 7 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR5",
-            "ref": "DEC C 000391 1995 08 28 0005 000"
-          },
-          {
-            "cr": "Modifica art. 8 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR6",
-            "ref": "DEC C 000391 1995 08 28 0006 000"
-          },
-          {
-            "cr": "Sustituye art. 9 (B.O. 95-08-31)",
-            "id": "MODIFICADO POR7",
-            "ref": "DEC C 000391 1995 08 28 0007 000"
-          },
-          {
-            "cr": "B.O. 95-08-31",
-            "id": "OBSERVADO POR8",
-            "ref": "DEC C 000391 1995 08 28 0008 000"
-          },
-          {
-            "cr": "B.O. 95-08-31",
-            "id": "OBSERVADO POR9",
-            "ref": "DEC C 000391 1995 08 28 0009 000"
-          },
-          {
-            "cr": "B.O. 95-08-31",
-            "id": "OBSERVADO POR10",
-            "ref": "DEC C 000391 1995 08 28 0010 000"
-          },
-          {
-            "cr": "Sust. 2do párrafo del art. 2 (B.O. 22-05-2000)",
-            "id": "MODIFICADO POR11",
-            "ref": "DEC C 000402 2000 05 12 0003 000"
-          },
-          {
-            "cr": "1 párrafo del art. 3 sust. (B.O. 22-05-2003)",
-            "id": "MODIFICADO POR12",
-            "ref": "DEC C 001235 2003 05 21 0001 000"
-          },
-          {
-            "cr": "art. 4 sust. (B.O. 22-05-2003)",
-            "id": "MODIFICADO POR13",
-            "ref": "DEC C 001235 2003 05 21 0002 000"
-          }
-        ]
-      },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 622/1995",
-      "estado": "Derogada",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-05-23",
-      "fecha-mod": "2025-05-23",
-      "timestamp": "2025-05-23T14:40:20",
-      "timestamp-alta": "2025-05-23T14:40:20",
-      "timestamp-m": "2025-05-23T14:40:20",
+      "fecha-alta": "2025-05-26",
+      "fecha-mod": "2025-05-26",
+      "timestamp": "2025-05-26T14:02:41",
+      "timestamp-alta": "2025-05-26T14:02:41",
+      "timestamp-m": "2025-05-26T14:02:41",
       "generalidades": {
         "derogado-por": {
           "referencia-normativa": {
@@ -128,23 +56,79 @@
             "ref": "DEC C 000346 2025 05 21 0014 000 0000 000"
           }
         },
-        "sintesis": "SE DECLARA DE INTERES NACIONAL EL ESTUDIO E INVESTIGACION DE LA VIDA Y OBRA DEL EX PRESIDENTE DE LA NACION TENIENTE GENERAL JUAN DOMINGO PERON. SE CREA EL INSTITUTO NACIONAL JUAN D. PERON DE ESTUDIOS E INVESTIGACIONES HISTORICAS, SOCIALES Y POLITICAS."
-      },
-      "noticias-accesorias": {
-        "texto": "OBSERVACION: Se establece que en caso de vacancia el cargo de Secretario General sea reemplazado por el funcionario que proponga la Comisión Permanente Nacional de Homenaje al Teniente General J.\n\nD. Perón, respetando el orden de estructura, por art. 8 del Dec 391/95 (B.O. 95-08-31) OBSERVACION: Se establece que el presupuesto de gastos y recursos del Instituto Nacional J. D. Perón será confeccionado por la Comisión Permanente Nacional de Homenaje al Teniente J. D. Perón y se elevará a la aprobación del Poder Ejecutivo Nacional, por art. 9 del Dec 391/95 (B.O. 95-08-31) OBSERVACION: El Instituto Nacional J. D. Perón contará con recursos provenientes de las partidas del Presupuesto Nacional, de donaciones y legados, de los intereses y rentas que generen las inversiones que se realicen y de los fondos provenientes de convenios y acuerdos con otras instituciones públicas y privadas, que harán posible el desarrollo de las actividades, por art. 10 del Dec 391/95 (B.O. 95-08-31) ANTECEDENTES: Segundo párrafo del art. 2 sustituido por art. 2 del Dec. 391/95 (B.O. 95-08-31)"
+        "sintesis": "SE DECLARA DE INTERES NACIONAL EL ESTUDIO E INVESTIGACION DE LA VIDA Y OBRA DEL EX PRESIDENTE DE LA NACION TENIENTE GENERAL JUAN DOMINGO PERON. SE CREA EL INSTITUTO NACIONAL JUAN D. PERON DE ESTUDIOS E INVESTIGACIONES HISTORICAS, SOCIALES Y POLITICAS.",
+        "observaciones-generales": "OBSERVACION: Se establece que en caso de vacancia el cargo de Secretario General sea reemplazado por el funcionario que propongala Comisión Permanente Nacional de Homenaje al Teniente General J.D. Perón, respetando el orden de estructura, por art. 8 del Dec 391/95(B.O. 95-08-31) .\n\nOBSERVACION: Se establece que el presupuesto de gastos y recursos del Instituto Nacional J. D. Perón será confeccionado por la Comisión Permanente Nacional de Homenaje al Teniente J. D. Perón y se elevará a la aprobación del Poder Ejecutivo Nacional, por art. 9 del Dec 391/95 (B.O. 95-08-31) .\n\nOBSERVACION: El Instituto Nacional J. D. Perón contará con recursos provenientes de las partidas del Presupuesto Nacional, de donaciones y legados, de los intereses y rentas que generen las inversiones que se realicen y de los fondos provenientes de convenios y acuerdos con otras instituciones públicas y privadas, que harán posible el desarrollo de las actividades, por art. 10 del Dec 391/95 (B.O. 95-08-31)"
       },
       "descriptores": {
-        "descriptor": {
-          "elegido": {
-            "termino": "INSTITUTO NACIONAL JUAN DOMINGO PERÓN"
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Instituto Nacional Juan Domingo Perón de Estudios e Investigaciones Históricas, Sociales Y Políticas"
+            },
+            "preferido": {
+              "termino": "Instituto Nacional Juan Domingo Perón"
+            },
+            "sinonimos": {
+              "termino": "Instituto Nacional Juan Domingo Perón de Estudios e Investigaciones Históricas, Sociales Y Políticas"
+            }
           },
-          "preferido": {
-            "termino": "INSTITUTO NACIONAL JUAN DOMINGO PERÓN"
+          {
+            "elegido": {
+              "termino": "homenajes"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/homenajes"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
           },
-          "sinonimos": null
-        },
+          {
+            "elegido": {
+              "termino": "Ministerio de Capital Humano"
+            },
+            "preferido": {
+              "termino": "Ministerio de Capital Humano"
+            },
+            "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "declaración de interés nacional"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/declaración de interés nacional"
+            },
+            "sinonimos": {
+              "termino": [
+                "Educación y Cultura",
+                "declaración de interés público nacional",
+                "política científica",
+                "política tecnológica"
+              ]
+            }
+          }
+        ],
         "suggest": {
-          "termino": "INSTITUTO NACIONAL JUAN DOMINGO PERÓN"
+          "termino": [
+            "Educación y Cultura (Cultura y educación)",
+            "Instituto Nacional Juan Domingo Perón",
+            "Cultura y educación",
+            "declaración de interés público nacional (declaración de interés nacional)",
+            "declaración de interés nacional",
+            "Instituto Nacional Juan Domingo Perón de Estudios e Investigaciones Históricas, Sociales Y Políticas (Instituto Nacional Juan Domingo Perón)",
+            "conmemoraciones",
+            "política tecnológica (política cultural)",
+            "política científica (política cultural)",
+            "política cultural",
+            "Ministerio de Capital Humano",
+            "homenajes",
+            "cultura"
+          ]
         }
       },
       "visto": {
@@ -153,7 +137,7 @@
             {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_0",
-              "ref": "DEC C 001034 1994 07 14 0000 000 0000 000"
+              "ref": "DEC C 001034 1994 06 30 0000 000 0000 000"
             },
             {
               "cr": null,
@@ -162,11 +146,18 @@
             }
           ]
         },
-        "texto": "lo propuesto por la Comisión Permanente Nacional de Homenaje al Teniente General Juan Domingo Perón, creada por el Decreto N.\n\n1.034/94 y su modificatorio N. 1.573/94, y"
+        "texto": "lo propuesto por la Comisión Permanente Nacional de Homenaje al Teniente General Juan Domingo Perón, creada por el Decreto N. 1.034/94 y su modificatorio N. 1.573/94, y"
       },
       "considerando": {
+        "referencias-normativas": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "REFERENCIAS_NORMATIVAS_0",
+            "ref": "CON C 000000 1994 08 22 0099 000 0100 000"
+          }
+        },
         "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
-        "texto": "Que con el objeto de realizar en forma permanente tareas de difusión de la vida y obra del ex Presidente de la Nación Teniente General Juan Domingo Perón, resulta necesario transformar dicha comisión, creando un organismo descentralizado, con autarquía económica y financiera.\n\nQue en ese orden de ideas, corresponde encomendar a la entidad a crearse, tareas de investigación, recopilación y estudio de todo el material documental existente en el país, facultándolo además para que actúe como centro de concentración de dichos elementos como asimismo para realizar cursos, congresos, conferencias, publicaciones, etc.\n\nQue atento que en el corriente año se cumplirán Cincuenta (50) años del movimiento protagonizado por gran parte del pueblo argentino el 17 de octubre de 1945, parece oportuno emprender organicamente una labor de reconocimiento al mentor de dicha fecha, cuya trascendencia histórica y política es innegable, así como recordar y merituar a su señora esposa Doña María Eva Duarte de Perón.\n\nQue ante los objetivos planteados es pertinente que el Instituto de que se trata cuente con los recursos humanos, materiales y financieros necesarios para lograr su óptimo funcionamiento.\n\nQue la presente medida se dicta en uso de las atribuciones emergentes de los artículos 99, inciso 1, 100, inciso 1, y la Disposición Transitoria Duodécima de la Constitución Nacional.\n\nPor ello,"
+        "texto": "Que con el objeto de realizar en forma permanente tareas de difusión de la vida y obra del ex Presidente de la Nación Teniente General Juan Domingo Perón, resulta necesario transformar dicha comisión, creando un organismo descentralizado, con autarquía económica y financiera.\n\nQue en ese orden de ideas, corresponde encomendar a la entidad a crearse, tareas de investigación, recopilación y estudio de todo el material documental existente en el país, facultándolo además para que actúe como centro de concentración de dichos elementos como asimismo para realizar cursos, congresos, conferencias, publicaciones, etc.\n\nQue atento que en el corriente año se cumplirán Cincuenta (50) años del movimiento protagonizado por gran parte del pueblo argentino el 17 de octubre de 1945, parece oportuno emprender organicamente una labor de reconocimiento al mentor de dicha fecha, cuya trascendencia histórica y política es innegable, así como recordar y merituar a su señora esposa Doña María Eva Duarte de Perón.\n\nQue ante los objetivos planteados es pertinente que el Instituto de que se trata cuente con los recursos humanos, materiales y financieros necesarios para lograr su óptimo funcionamiento.\n\nQue la presente medida se dicta en uso de las atribuciones emergentes de los artículos 99, inciso 1, 100, inciso 1, y la Disposición Transitoria Duodécima de la Constitución Nacional. Por ello,"
       },
       "articulo": {
         "numero-articulo": 1,
@@ -179,6 +170,20 @@
           "articulo": [
             {
               "numero-articulo": 2,
+              "antecedentes": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 22/5/2000) ARTICULO SUSTITUIDO",
+                    "id": "ANTECEDENTES_0",
+                    "ref": "DEC C 000402 2000 05 12 0003 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 31/08/1995) SEGUNDO PARRAFO SUSTITUIDO",
+                    "id": "ANTECEDENTES_1",
+                    "ref": "DEC C 000391 1995 08 28 0002 000 0000 000"
+                  }
+                ]
+              },
               "texto": "Artículo 2.- Créase el INSTITUTO NACIONAL JUAN DOMINGO PERÓN DE ESTUDIOS E INVESTIGACIONES HISTÓRICAS, SOCIALES Y POLÍTICAS del MINISTERIO DE CAPITAL HUMANO, a través de la COMISIÓN PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERÓN, con autarquía económica y financiera, con jurisdicción en todo el territorio de la Nación y con personería para actuar en el ámbito del derecho público y privado.",
               "modificado-por": {
                 "referencia-normativa": {
@@ -189,14 +194,28 @@
               }
             },
             {
-              "numero-articulo": 3,
-              "texto": "*Art. 3.- La COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON actuará como órgano consultivo del INSTITUTO NACIONAL JUAN DOMINGO PERON DE ESTUDIOS E INVESTIGACIONES HISTORICAS, SOCIALES Y POLITICAS y, como tal, coadyuvará al estudio, investigación y difusión de la vida y obra del ex Presidente de la Nación, Teniente General Juan Domingo PERON y del contexto histórico en que se desarrollaron. El INSTITUTO deberá:\n\na) Efectuar estudios e investigaciones de carácter histórico e historiográfico, críticos, filosóficos, militares, sociales y políticos, con respecto a la personalidad y la acción pública y privada del Teniente General D. Juan Domingo Perón.",
-              "modificado-por": {
+              "referencias-normativas": {
                 "referencia-normativa": {
-                  "cr": "(B.O. 22/05/2003)PRIMER PARRAFO SUSTITUIDO",
-                  "id": "MODIFICADO_POR_0",
-                  "ref": "DEC C 001235 2003 05 21 0001 000 0000 000"
+                  "cr": null,
+                  "id": "REFERENCIAS_NORMATIVAS_0",
+                  "ref": "LEY C 014124 1952 07 04 0000 000 0000 000"
                 }
+              },
+              "numero-articulo": 3,
+              "texto": "*Art. 3.- La COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON actuará como órgano consultivo del INSTITUTO NACIONAL JUAN DOMINGO PERON DE ESTUDIOS E INVESTIGACIONES HISTORICAS, SOCIALES Y POLITICAS y, como tal, coadyuvará al estudio, investigación y difusión de la vida y obra del ex Presidente de la Nación, Teniente General Juan Domingo PERON y del contexto histórico en que se desarrollaron. El INSTITUTO deberá: .\n\na) Efectuar estudios e investigaciones de carácter histórico e historiográfico, críticos, filosóficos, militares, sociales y políticos, con respecto a la personalidad y la acción pública y privada del Teniente General D. Juan Domingo PERON.\n\nb) Difundir y promover la vida, obra e ideario del Teniente General D. Juan Domingo PERON, a cuyo fin deberá realizar y/o auspiciar publicaciones, así como organizar actos, conferencias, congresos, seminarios, encuentros, cursos, etc.\n\nc) Brindar asesoramiento respecto de la fidelidad histórica de cuanto se relacione con la materia objeto de su creación.\n\nd) Actuar como centro de concentración del material documental existente en el país y en el exterior vinculado con la vida, obra e Ideario del Teniente General D. Juan Domingo PERON; funcionando a la vez como banco de datos, archivo gráfico y oral, biblioteca, hemeroteca, cinemateca, videoteca, museo, etc.\n\ne) Recopilar, registrar y estudiar los libros, artículos periodísticos, publicaciones, escritos, declaraciones, discursos, conferencias, etc. de autoría del Teniente General D. Juan Domingo PERON y promover su difusión.\n\nf) Estudiar y registrar la toponimia y demás denominaciones relativas al Teniente General Juan Domingo PERON, así como las efigies, distintivos, emblemas, piezas filatélicas, numismáticas, etc.\n\ng) Propender a la erección de un mausoleo donde descansen eternamente los restos del Teniente General D. Juan Domingo PERON.\n\nh) Celebrar con entidades nacionales, oficiales y/o privadas, convenios de colaboración, conducentes al objeto de su constitución.\n\ni) Aceptar colaboraciones y donaciones privadas cuando ellas respondan a los objetivos del Instituto.\n\nj) Constituir filiales en el país.\n\nk) Recordar, homenajear y revivir en la memoria del pueblo argentino la figura de Da. María Eva DUARTE de PERON, como en su momento lo había dispuesto el HONORABLE CONGRESO DE LA NACION al sancionar la hoy derogada Ley 14.124. l) Implementar y ejecutar la política, las iniciativas, proyectos y disposiciones que arbitre la COMISION PERMANENTE DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON.",
+              "modificado-por": {
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 31/08/1995) ARTICULO SUSTITUIDO",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DEC C 000391 1995 08 28 0003 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "MODIFICADO_POR_1",
+                    "ref": "DEC C 001235 2003 12 12 0000 000 0000 000"
+                  }
+                ]
               }
             }
           ]
@@ -206,6 +225,13 @@
           "articulo": [
             {
               "numero-articulo": 4,
+              "antecedentes": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 31/08/1995) ARTICULO SUSTITUIDO",
+                  "id": "ANTECEDENTES_0",
+                  "ref": "DEC C 000391 1995 08 28 0004 000 0000 000"
+                }
+              },
               "texto": "*Artículo 4.- La dirección y administración del INSTITUTO NACIONAL JUAN DOMINGO PERON DE ESTUDIOS E INVESTIGACIONES HISTORICAS, SOCIALES Y POLITICAS será ejercida por un Secretario General designado por el PODER EJECUTIVO NACIONAL de entre los integrantes de la COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON, durará CUATRO (4) años en sus funciones y podrá ser designado nuevamente por períodos sucesivos. Tendrá rango y jerarquía de Secretario de la Presidencia de la Nación. El Secretario General evaluará la eventual aplicación de las medidas que le proponga la COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON.",
               "modificado-por": {
                 "referencia-normativa": {
@@ -216,14 +242,35 @@
               }
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 31/08/1995) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000391 1995 08 28 0005 000 0000 000"
+                }
+              },
               "numero-articulo": 5,
               "texto": "*Artículo 5.- (Nota de Redacción) Derogado por dec. 391/95."
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 31/08/1995) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000391 1995 08 28 0005 000 0000 000"
+                }
+              },
               "numero-articulo": 6,
               "texto": "*Artículo 6.- (Nota de Redacción) Derogado por dec. 391/95."
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 31/08/1995) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000391 1995 08 28 0005 000 0000 000"
+                }
+              },
               "numero-articulo": 7,
               "texto": "*Artículo 7.- (Nota de Redacción) Derogado por dec. 391/95."
             },
@@ -233,7 +280,7 @@
                   {
                     "cr": null,
                     "id": "REFERENCIAS_NORMATIVAS_0",
-                    "ref": "DEC C 001034 1994 07 14 0000 000 0000 000"
+                    "ref": "DEC C 001034 1994 06 30 0000 000 0000 000"
                   },
                   {
                     "cr": null,
@@ -243,11 +290,25 @@
                 ]
               },
               "numero-articulo": 8,
-              "texto": "*Artículo 8.- La Comisión Permanente nacional de Homenaje al Teniente General Juan Domingo Perón será el organismo rector y de conducción del Instituto y tendrá las siguientes obligaciones y atribuciones, sin perjuicio de lo ya establecido por los Decretos N. 1.034/94 y 1.573/94:\n\na) Proponer al Poder Ejecutivo Nacional la estructura y el régimen funcional del Instituto Nacional Juan Domingo Perón de Estudios e Investigaciones Históricas, Sociales y Políticas.\n\nb) Establecer las normas internas para el mejor funcionamiento del Instituto, sus delegaciones y filiales.\n\nc) Proponer al Poder Ejecutivo Nacional el plan anual básico de actividades y el presupuesto anual de erogaciones y cálculo de recursos y sus modificaciones.\n\ne) Fijar las tarifas y retribuciones a percibir por los servicios que se brinden en materia de asesoramiento, cursos, conferencias, etc., así como los precios de los materiales impresos o audiovisuales que se produzcan o comercialicen a través del Instituto.\n\nf) Aprobar la compraventa de bienes muebles e inmuebles de su patrimonio, permutas, locaciones o usos y constituir derechos reales sobre los mismos que realice el Instituto.\n\ng) Proponer al Poder Ejecutivo Nacional las modificaciones en la estructura orgánica del Instituto y las designaciones y/o cese del personal del mismo conforme a la reglamentación establecida.\n\nh) Aprobar el otorgamiento de becas y/o préstamos para estudio, investigación y especialización en temas inherentes al Instituto.\n\ni) Aprobar la realización de concursos y el otorgamiento de premios, menciones u otros tipos de estímulos que se consideren pertinentes, tanto a personas como a instituciones que sean merecedoras de los mismos.\n\nj) Delegar en el Secretario General, en caso de que la urgencia no permita reunirse en tiempo, u otra razón lo aconseje, las facultades que tiene asignadas, para obtener mayor agilidad en los trámites. La delegación podrá ser permanente para la tarea rutinaria y/o adminitrativa si la Comisión Permanente Nacional de Homenaje al Teniente General Juan Domingo Perón lo determina por mayoría de votos presentes en una reunión llevada a cabo a tal efecto."
+              "texto": "*Artículo 8.- La COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON será el organismo rector y de conducción del Instituto y tendrá las siguientes obligaciones y atribuciones, sin perjuicio de lo ya establecido por los Decretos Nros. 1034/1994 y 1573/1994:.\n\na) Proponer al PODER EJECUTIVO NACIONAL la estructura y el régimen funcional del INSTITUTO NACIONAL JUAN DOMINGO PERON DE ESTUDIOS E INVESTIGACIONES HISTÓRICAS, SOCIALES Y POLÍTICAS.\n\nb) Establecer las normas internas para el mejor funcionamiento del Instituto, sus delegaciones y filiales.\n\nc) Proponer al PODER EJECUTIVO NACIONAL el plan anual básico de actividades y el presupuesto anual de erogaciones y cálculo de recursos y sus modificaciones.\n\ne) Fijar las tarifas y retribuciones a percibir por los servicios que se brinden en materia de asesoramiento, cursos, conferencias, etc., así como los precios de los materiales impresos o audiovisuales que se produzcan o comercialicen a través del Instituto.\n\nf) Aprobar la compraventa de bienes muebles e Inmuebles de su patrimonio, permutas, locaciones o usos y constituir derechos reales sobre los mismos que realice el Instituto.\n\ng) Proponer al PODER EJECUTIVO NACIONAL las modificaciones en la estructura orgánica del Instituto y las designaciones y/o cese del personal del mismo conforme a la reglamentación establecida.\n\nh) Aprobar el otorgamiento de becas y/o préstamos para estudio, investigación y especialización en temas Inherentes al Instituto.\n\ni) Aprobar la realización de concursos y el otorgamiento de premios, menciones u otros tipos de estímulos que se consideren pertinentes, tanto a personas como a instituciones que sean merecedoras de los mismos.\n\nj) Delegar en el Secretario General, en caso de que la urgencia no permita reunirse en tiempo, u otra razón lo aconseje, las facultades que tiene asignadas, para obtener mayor agilidad en los trámites. La delegación podrá ser permanente para la tarea rutinaria y/o administrativa si la COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON lo determina por mayoría de votos presentes en una reunión llevada a cabo a tal efecto.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 31/08/1995) ARTICULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000391 1995 08 28 0006 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 9,
-              "texto": "*Artículo 9.- Son atribuciones y obligaciones del Secretario General del Instituto:\n\na) Representar legalmente al Instituto.\n\nb) Representar al Instituto en todos los actos y reuniones oficiales y privadas.\n\nc) Disponer y atender el cumplimiento y ejecución de las resoluciones de la Comisión Permanente Nacional de Homenaje al Teniente General Juan Domingo Perón.\n\nd) Resolver por sí sobre todos los asuntos propios del Instituto en caso de urgencia, con cargo de dar cuenta a la Comisión Permanente Nacional de Homenaje al Teniente General Juan Domingo Perón en la primera reunión a realizarse luego de tomada la medida.\n\ne) Suscribir actas, libros y documentos de contabilidad, comunicaciones y órdenes de cualquier clase, sólo o conjuntamente con el funcionario que determine el reglamento interno.\n\nf) Aplicar las sanciones que corresponda por infracción a las normas internas del Instituto.\n\ng) Conducir la administración interna del Instituto.\n\nh) Ordenar la instrucción de informaciones sumarias y sumarios administrativos, pudiendo delegar dicha atribución en funcionarios de su dependencia.\n\ni) Proponer el otorgamiento de becas y/o préstamos para estudio, investigación y especialización en temas inherentes al Instituto, así como la contratación de especialistas a tales efectos.\n\nj) Proponer la realización de concursos y el otorgamiento de premios, menciones u otros tipos de estímulos que se consideren pertinentes, tanto a personas como a instituciones que sean merecedoras de los mismos, así como los contratos a suscribirse con especialistas a tales efectos."
+              "texto": "*Artículo 9.- Son atribuciones y obligaciones del Secretario General del Instituto:.\n\na) Representar legalmente al Instituto.\n\nb) Representar al Instituto en todos los actos y reuniones oficiales y privadas.\n\nc) Disponer y atender el cumplimiento y ejecución de las resoluciones de la COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERÓN.\n\nd) Resolver por sí sobre todos los asuntos propios del Instituto en caso de urgencia, con cargo de dar cuenta a la COMISION PERMANENTE NACIONAL DE HOMENAJE AL TENIENTE GENERAL JUAN DOMINGO PERON en la primera reunión a realizarse luego de tomada la medida.\n\ne) Suscribir actas, libros y documentos de contabilidad, comunicaciones y órdenes de cualquier clase, solo o conjuntamente con el funcionario que determine el reglamento interno.\n\nf) Aplicar las sanciones que corresponda por infracción a las normas internas del Instituto.\n\ng) Conducir la administración Interna del Instituto.\n\nh) Ordenar la instrucción de informaciones sumarias y sumarios administrativos, pudiendo delegar dicha atribución en funcionarios de su dependencia.\n\ni) Proponer el otorgamiento de becas y/o préstamos para estudio, investigación y especialización en temas inherentes al Instituto, así como la contratación de especialistas a tales efectos.\n\nj) Proponer la realización de concursos y el otorgamiento de premios, menciones u otros tipos de estímulos que se consideren pertinentes, tanto a personas como a instituciones que sean merecedoras de los mismos, así como los contratos a suscribirse con especialistas a tales efectos.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 31/08/1995) ARTICULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000391 1995 08 28 0007 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 10,
@@ -272,8 +333,29 @@
               "texto": "Artículo 13.- Hasta tanto se cumplimente lo dispuesto en el artículo 12 inciso a), los gastos que demanden el cumplimiento del presente decreto se atenderán con cargo al presupuesto de la Jurisdicción 20.02 - Secretaría General - Presidencia de la Nación."
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 31/08/1995) ARTICULO DEROGADO RESTABLECIENDO LA VIGENCIA DE LOS DECRETOS 1034/94 Y 1573/94",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000391 1995 08 28 0001 000 0000 000"
+                }
+              },
               "numero-articulo": 14,
-              "texto": "*Artículo 14.- Deróganse los Decretos N. 1.034/94 y 1.573/94."
+              "texto": "*Artículo 14.- Deróganse los Decretos N. 1.034/94 y 1.573/94.",
+              "deroga-a": {
+                "referencia-normativa": [
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_0",
+                    "ref": "DEC C 001034 1994 06 30 0000 000 0000 000"
+                  },
+                  {
+                    "cr": null,
+                    "id": "DEROGA_A_1",
+                    "ref": "DEC C 001573 1994 09 02 0000 000 0000 000"
+                  }
+                ]
+              }
             },
             {
               "numero-articulo": 15,
@@ -286,7 +368,7 @@
         }
       ],
       "id-infojus": "DN19950000622",
-      "fecha-umod": 20250523144552
+      "fecha-umod": 20250526141620
     }
   }
 }
