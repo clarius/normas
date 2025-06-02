@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-879-0000-5991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410990286866,
+      "timestamp": 1748889872393,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,15 +23,13 @@
         "id-pais": 11
       },
       "numero-norma": 978,
-      "timestamp": "2014-07-17T22:52:05",
-      "timestamp-m": "2014-07-17T22:52:05",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
       },
       "fecha": "1995-07-06",
       "standard-normativo": "DEC C 000978 1995 07 06",
-      "titulo-norma": "DECRETO REGLAMENTARIO DE LA LEY DE SERVICIO MILITAR VOLUNTARIO.",
+      "titulo-norma": "Decreto Reglamentario de la Ley de Servicio Militar Voluntario",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
@@ -41,10 +39,13 @@
       "lugar-emision": "BUENOS AIRES",
       "nombre-coloquial": "DECRETO NACIONAL 978/1995",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1995-11-22",
-      "fecha-mod": "2014-07-17",
-      "uid-alta": "SAUID",
-      "uid-mod": "SASAIJ",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-06-02",
+      "fecha-mod": "2025-06-02",
+      "timestamp": "2025-06-02T15:31:17",
+      "timestamp-alta": "2025-06-02T15:31:17",
+      "timestamp-m": "2025-06-02T15:31:17",
       "generalidades": {
         "sintesis": "SE APRUEBA LA REGLAMENTACION DE LA LEY 24429 DE CREACION DEL SERVICIO MILITAR VOLUNTARIO",
         "anexos-decreto": {
@@ -70,6 +71,7 @@
             "sinonimos": {
               "termino": [
                 "reglamento ejecutivo",
+                "actos de alcance general",
                 "reglamento de ejecución",
                 "reglamento administrativo"
               ]
@@ -80,10 +82,13 @@
               "termino": "servicio militar voluntario"
             },
             "preferido": {
-              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/servicio militar/servicio militar voluntario"
+              "termino": "Defensa y seguridad/derecho militar/Fuerzas Armadas/servicio militar/servicio militar voluntario"
             },
             "sinonimos": {
-              "termino": "servicio de conscripción"
+              "termino": [
+                "servicio de conscripción",
+                "defensa nacional"
+              ]
             }
           },
           {
@@ -108,12 +113,13 @@
           "termino": [
             "decreto reglamentario",
             "reglamento de ejecución (decreto reglamentario)",
+            "defensa nacional (Defensa y seguridad)",
             "servicio militar voluntario",
-            "reglamento ejecutivo (decreto reglamentario)",
             "servicio de conscripción (servicio militar)",
-            "Defensa nacional",
+            "reglamento ejecutivo (decreto reglamentario)",
             "reglamentos",
             "contrato laboral (contrato de trabajo)",
+            "Defensa y seguridad",
             "derecho del trabajo (Derecho laboral)",
             "contrato de trabajo",
             "servicio militar",
@@ -124,6 +130,7 @@
             "acto administrativo de alcance general",
             "retribución (remuneración)",
             "sueldo (remuneración)",
+            "actos de alcance general (acto administrativo de alcance general)",
             "reglamento administrativo (reglamentos)",
             "remuneración",
             "Fuerzas Armadas",
@@ -132,7 +139,7 @@
         }
       },
       "visto": {
-        "texto": "lo informado por el señor Jefe del Estado Mayor Conjunto de las Fuerzas  Armadas,  lo  propuesto  por el señor Ministro de Defensa"
+        "texto": "lo informado por el señor Jefe del Estado Mayor Conjunto de las Fuerzas Armadas, lo propuesto por el señor Ministro de Defensa"
       },
       "considerando": {
         "referencias-normativas": {
@@ -142,25 +149,25 @@
             "ref": "LEY C 024429 1994 12 14 0030 000 0000 000"
           }
         },
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que  por  Ley  N.24.429  se  creó  el Régimen que establece el Servicio Militar Voluntario.\n\nQue corresponde reglamentar dicha Ley por  estar  prescripto en el Artículo 30 de la misma.\n\nQue la presente Reglamentación tiene por finalidad  disponer de un instrumento legal que asegure el adecuado funcionamiento  del nuevo Régimen  del  Servicio Militar Voluntario, explicitando en detalle, todos  aquellos  aspectos  necesarios  de  compatibilizar  por  las diferentes    modalidades   de  cada  Fuerza,  mediante  una  norma homogénea e indubitable.\n\nQue el dictado de esta medida se efectúa en uso de las atribuciones  conferidas  al  PODER    EJECUTIVO  NACIONAL  por  el artículo 99, inciso 2, de la CONSTITUCION  DE  LA NACION ARGENTINA."
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que por Ley N.24.429 se creó el Régimen que establece el Servicio Militar Voluntario.\n\nQue corresponde reglamentar dicha Ley por estar prescripto en el Artículo 30 de la misma.\n\nQue la presente Reglamentación tiene por finalidad disponer de un instrumento legal que asegure el adecuado funcionamiento del nuevo Régimen del Servicio Militar Voluntario, explicitando en detalle, todos aquellos aspectos necesarios de compatibilizar por las diferentes modalidades de cada Fuerza, mediante una norma homogénea e indubitable.\n\nQue el dictado de esta medida se efectúa en uso de las atribuciones conferidas al PODER EJECUTIVO NACIONAL por el artículo 99, inciso 2, de la CONSTITUCION DE LA NACION ARGENTINA."
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "Art.  1.-  Apruébase  la Reglamentación de la ley del Servicio Militar Voluntario, que como  Anexo  I  forma  parte integrante del presente Decreto."
+          "texto": "Art. 1.- Apruébase la Reglamentación de la ley del Servicio Militar Voluntario, que como Anexo I forma parte integrante del presente Decreto."
         },
         {
           "numero-articulo": 2,
-          "texto": "Art.  2.-  El Régimen que se aprueba tiene carácter de único y tendrá aplicación para las tres Fuerzas Armadas."
+          "texto": "Art. 2.- El Régimen que se aprueba tiene carácter de único y tendrá aplicación para las tres Fuerzas Armadas."
         },
         {
           "numero-articulo": 3,
-          "texto": "Art. 3.- Los Estados Mayores Generales procederán a incorporar el presente  Régimen  a  sus respectivas reglamentaciones de la ley para el Personal Militar."
+          "texto": "Art. 3.- Los Estados Mayores Generales procederán a incorporar el presente Régimen a sus respectivas reglamentaciones de la ley para el Personal Militar."
         },
         {
           "numero-articulo": 4,
-          "texto": "Art.  4.-  Deróganse  el Decreto N.800 de fecha 25 de abril de 1991, el Decreto N.1537 de fecha  29  de agosto de 1994 y toda otra norma legal que se oponga a la presente.",
+          "texto": "Art. 4.- Deróganse el Decreto N.800 de fecha 25 de abril de 1991, el Decreto N.1537 de fecha 29 de agosto de 1994 y toda otra norma legal que se oponga a la presente.",
           "deroga-a": {
             "referencia-normativa": [
               {
@@ -188,7 +195,7 @@
         "anexo": "A",
         "titulo-anexo": "ANEXO 0000I REGLAMENTACION DE LA LEY",
         "segmento": {
-          "titulo-particion": "ANEXO I REGLAMENTACION DEL SERVICIO  MILITAR VOLUNTARIO",
+          "titulo-particion": "ANEXO I REGLAMENTACION DEL SERVICIO MILITAR VOLUNTARIO",
           "articulo": [
             {
               "referencias-normativas": {
@@ -199,7 +206,7 @@
                 }
               },
               "numero-articulo": 1,
-              "texto": "ARTICULO 1.- a)  El  personal  que  se  incorpore a las Fuerzas Armadas bajo el régimen de la ley 24.429 será  agrupado  en la clasificación \"Tropa Voluntarios\" que prescribe la ley 19.101 -  Ley  para  el  Personal Militar.\n\nb)  El  personal  adquirirá  el  estado  militar desde la fecha de ingreso al curso de admisión que se establece  en  el art. 8 inc. f , y lo perderá por baja."
+              "texto": "ARTICULO 1.- a) El personal que se incorpore a las Fuerzas Armadas bajo el régimen de la ley 24.429 será agrupado en la clasificación \"Tropa Voluntarios\" que prescribe la ley 19.101 - Ley para el Personal Militar.\n\nb) El personal adquirirá el estado militar desde la fecha de ingreso al curso de admisión que se establece en el art. 8 inc. f , y lo perderá por baja."
             },
             {
               "numero-articulo": 2,
@@ -207,7 +214,14 @@
             },
             {
               "numero-articulo": 3,
-              "texto": "ARTICULO 3.- La   incorporación  del  personal  de  soldados  voluntarios  será realizada  en  forma  jurisdiccional  por  cada una de las Fuerzas."
+              "texto": "ARTICULO 3.- La cantidad de personal de Tropa de Voluntarios que se necesite incorporar para las Fuerzas Armadas será determinada en función de los requerimientos que identifiquen cada una de las Fuerzas, en las diferentes instancias del Planeamiento para la Defensa Nacional. El proceso de inscripción para el Servicio Militar Voluntario y la verificación del cumplimiento de los requisitos de ingreso establecidos por el artículo 8° de la Ley N° 24.429 será realizado por cada una de las Fuerzas Armadas, en las oportunidades que requieran las necesidades del servicio.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/6/2025) ARTICULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000372 2025 05 30 0001 000 0000 000"
+                }
+              }
             },
             {
               "referencias-normativas": {
@@ -218,15 +232,22 @@
                 }
               },
               "numero-articulo": 4,
-              "texto": "ARTICULO 4.- La  retribución  mensual  que se liquidará a partir de la fecha de ingreso  al curso de admisión  será  la  correspondiente  al  haber mensual,  suplementos   generales,    suplementos  particulares  y compensaciones  determinados  para  los  grados  de  voluntario  de segunda    o  primera  según  corresponda  y  sus    equivalencias, prescriptos  en  la  Reglamentación del Título II (Personal Militar en Actividad) - Capítulo  IV - (Haberes) de la Ley para el Personal Militar - Ley 19.101."
+              "texto": "ARTICULO 4.- Establécese la obligatoriedad de finalizar la Educación Secundaria para los Soldados Voluntarios, de conformidad con el artículo 29 de la Ley de Educación Nacional Nº 26.206 y sus modificatorias, que hubiesen ingresado al servicio sin los estudios secundarios completos.\n\nCon el fin de dar cumplimiento a lo estipulado en el primer párrafo de este artículo, se elaborará un plan de estudios para garantizar la finalización de la Educación Secundaria por parte del MINISTERIO DE DEFENSA, el que será remitido a la SECRETARÍA DE EDUCACIÓN del MINISTERIO DE CAPITAL HUMANO para su aprobación.\n\nLa participación de la Tropa de Voluntarios en el plan de estudios destinado a la finalización del nivel secundario deberá ser desarrollada sin perjuicio de las actividades del servicio.\n\nEsta disposición también será de aplicación para cursos y programas de capacitación y/o formación para el trabajo que forman parte integrante de las actividades del servicio.\n\nLa retribución mensual, que se liquidará, a partir de la fecha de ingreso al curso de admisión en instrucción militar, será la correspondiente al haber mensual, suplementos generales, suplementos particulares y compensaciones determinados para la Tropa de Soldados Voluntarios de Primera o Segunda según corresponda o sus equivalencias, previstos en la Reglamentación del Título II (Personal militar en actividad) - Capítulo IV - (Haberes) de la Ley para el Personal Militar Nº 19.101 y sus modificatorias.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/6/2025) ARTICULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000372 2025 05 30 0002 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 5,
-              "texto": "ARTICULO 5.- Entiéndense    como    actividades   políticas  o  sindicales,  la inscripción,  adhesión,  afiliación,  actuación    o  participación directa  o indirecta en partidos políticos u organismos  sindicales y el ocupar  cargos  o desempeñar  funciones  públicas  electivas."
+              "texto": "ARTICULO 5.- Entiéndense como actividades políticas o sindicales, la inscripción, adhesión, afiliación, actuación o participación directa o indirecta en partidos políticos u organismos sindicales y el ocupar cargos o desempeñar funciones públicas electivas."
             },
             {
               "numero-articulo": 6,
-              "texto": "ARTICULO 6.- a)  El  personal  desempeñará funciones operativas y del servicio, debiéndose considerar en la asignación de los roles correspondientes, que  el  mismo  integrará  la  base  de la escala jerárquica del cuadro permanente.\n\nb)    Las   actividades  corresponderán,  en  lo  posible,  a  sus inquietudes profesionales  o/a  la  capacitación  personal previa y fundamentalmente a la formación militar recibida, los conocimientos  impartidos  y  la experiencia alcanzada  durante  su permanencia en el servicio.  c) El personal será incorporado a los escalafones y especialidades del Personal Subalterno  conforme  a  lo determinado jurisdiccionalmente en cada Fuerza.\n\nd)  Las  solicitudes  de  cambio  de  escalafón  u orientación  se regularán jurisdiccionalmente.\n\ne)  El personal que desarrolle funciones técnicas o  que  requiera una  capacitación    inicial    determinada,  efectuará  cursos  de capacitación específica.\n\nf)  La  responsabilidad  de  la formación  será  jurisdiccional  y estará precedida por una formación básica inicial."
+              "texto": "ARTICULO 6.- a) El personal desempeñará funciones operativas y del servicio, debiéndose considerar en la asignación de los roles correspondientes, que el mismo integrará la base de la escala jerárquica del cuadro permanente.\n\nb) Las actividades corresponderán, en lo posible, a sus inquietudes profesionales o/a la capacitación personal previa y fundamentalmente a la formación militar recibida, los conocimientos impartidos y la experiencia alcanzada durante su permanencia en el servicio.\n\nc) El personal será incorporado a los escalafones y especialidades del Personal Subalterno conforme a lo determinado jurisdiccionalmente en cada Fuerza.\n\nd) Las solicitudes de cambio de escalafón u orientación se regularán jurisdiccionalmente.\n\ne) El personal que desarrolle funciones técnicas o que requiera una capacitación inicial determinada, efectuará cursos de capacitación específica.\n\nf) La responsabilidad de la formación será jurisdiccional y estará precedida por una formación básica inicial."
             },
             {
               "referencias-normativas": {
@@ -244,7 +265,7 @@
                 ]
               },
               "numero-articulo": 7,
-              "texto": "ARTICULO 7.- El personal de soldados voluntarios estará sujeto a la jurisdicción  militar  y disciplinaria y se le aplicará la Ley para el Personal Militar - ley 19.101 y modificatorias, sus reglamentaciones jurisdiccionales,  el  Código de Justicia Militar, sus reglamentaciones jurisdiccionales y demás  normas y reglamentos militares,  en todo aquello que no se oponga y/o  no  se  encuentre contemplado en la ley 24.429 y esta reglamentación."
+              "texto": "ARTICULO 7.- El personal de soldados voluntarios estará sujeto a la jurisdicción militar y disciplinaria y se le aplicará la Ley para el Personal Militar - ley 19.101 y modificatorias, sus reglamentaciones jurisdiccionales, el Código de Justicia Militar, sus reglamentaciones jurisdiccionales y demás normas y reglamentos militares, en todo aquello que no se oponga y/o no se encuentre contemplado en la ley 24.429 y esta reglamentación."
             },
             {
               "derogado-por": {
@@ -255,15 +276,36 @@
                 }
               },
               "numero-articulo": 8,
-              "texto": "*ARTICULO 8.- a) Sin reglamentar.\n\nb) NOTA DE REDACCION (DEROGADO POR DECRETO 1647/06) c) Sin reglamentar.\n\nd) Sin reglamentar.\n\ne)  Tener  séptimo  grado aprobado y aprobar el examen psicofísico establecido jurisdiccionalmente.\n\nf)  I.El  personal  que   se  incorpore  deberá  cumplir  aquellos requisitos que se determinen  jurisdiccionalmente  para el personal subalterno y aprobar un curso de admisión que tendrá  una  duración aproximada de ocho (8) semanas al término de las cuales quienes  lo aprueben,  serán  dados  de  alta  \"en  comisión\"  con  el grado de Voluntario de 2da. o equivalente con retroactividad a la  fecha  de su ingreso.  II.Los  cursos  se  realizarán  en los lugares y con los programas que determine la autoridad jurisdiccional.\n\nIII.Aprobado  el  curso  de admisión,  serán  dados  de  alta  \"en comisión\" por un período máximo  de  dos  años  como \"Voluntario de 2da.\" o equivalente.\n\nIV.Al  ser  dado  de alta \"en comisión\" firmará un  compromiso  de servicios por dos años,  al término de los cuales será dado de baja salvo estado de guerra, conflicto  inminente, o renovación de dicho compromiso de acuerdo a lo previsto  en  el  art. 10 de la presente reglamentación."
+              "texto": "*ARTICULO 8.- a) Sin reglamentar.\n\nb) NOTA DE REDACCION (DEROGADO POR DECRETO 1647/06).\n\nc) Sin reglamentar.\n\nd) Sin reglamentar.\n\ne) Haber acreditado la finalización de la Educación Primaria y aprobar el examen psicofísico establecido jurisdiccionalmente. .\n\nf) I. El personal que se incorpore deberá cumplir los requisitos que se determinen jurisdiccionalmente para el personal subalterno y aprobar un curso de admisión que deberá tener una duración de entre DIEZ (10) a DOCE (12) semanas, al término de las cuales quienes lo aprueben serán dados de alta 'en comisión' con el grado de Soldado Voluntario de Segunda con retroactividad a la fecha de su ingreso. Cada Fuerza, según sus necesidades, establecerá la duración del curso de admisión en instrucción militar.\n\nII. Los cursos se realizarán en los lugares y con los programas que determine la autoridad jurisdiccional.\n\nIII. El personal de Tropa de Voluntarios recibirá instrucción para la realización de las tareas y funciones propias de la defensa de los intereses vitales de la Nación, en el marco de la misión primaria de las Fuerzas Armadas. Asimismo, recibirán capacitación para el desarrollo de actividades relacionadas con las misiones subsidiarias de las Fuerzas Armadas, de conformidad con lo previsto en el artículo 11, inciso B. del Decreto N° 1112 del 19 de diciembre de 2024, en particular lo referido en el subinciso 4, sobre la asistencia humanitaria en caso de emergencias por desastres naturales o provocados por el hombre y la ayuda humanitaria.\n\nIV. Aprobado el curso de admisión, serán dados de alta 'en comisión' por un período máximo de DOS (2) años como 'Soldado Voluntario de Segunda'.\n\nV. La información referida a la finalización de la Educación Secundaria y/o certificación de competencias laborales u oficios que hubiera realizado se incorporará en el Registro Único de Reservistas creado por la Resolución del MINISTERIO DE DEFENSA N° 439 del 13 de mayo de 2025.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/6/2025) INCISOS E) y F) SUSTITUIDOS",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000372 2025 05 30 0003 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 9,
-              "texto": "ARTICULO 9.- a)  El  personal  de soldados voluntarios percibirá la retribución fijada en el art. 4  de  esta  reglamentación,  gozará  de  la obra social   correspondiente  y  el  seguro  de  vida  obligatorio.\n\nb) Sin reglamentar.\n\nc) Sin reglamentar.\n\nd) Producida  la  baja  de  la Fuerza, la autoridad jurisdiccional que corresponda podrá certificar  a  solicitud  del  interesado  el nivel  de  capacidad laboral u oficio de aplicación civil adquirido en el Servicio.\n\ne) Se facilitará  el ingreso a los institutos militares de acuerdo a los requisitos jurisdiccionales establecidos en las reglamentaciones y normas  para la administración del Personal.\n\nLa autoridad jurisdiccional  correspondiente,  previa  opinión  de los  organismos  de asesoramiento competentes, seleccionará a aquel personal voluntario  que considere apto para el cambio de categoría o clasificación.\n\nf) Los aportes personales  que  se  fijan  en  el  ONCE POR CIENTO (11%)  de  los  conceptos  integrantes del haber mensual  sujeto  a aportes  y  los  a  cargo  del Estado,  que  se  establecen  en  el DIECISEIS  POR  CIENTO  (16%)  de    los  mismos  conceptos,  serán administrados por el Instituto de Ayuda  Financiera  para  Pago  de Retiros    y  Pensiones  Militares,  en  cuentas  individuales.  La capitalización  de  los  aportes  personales se efectuará aplicando cargos e intereses. Las tasas de interés  no  podrán  ser menores a las  que  devenguen los depósitos en pesos en Caja de Ahorro  Común en el Banco de  la  Nación  Argentina. Sus saldos, en cada cuenta, serán  transferidos al régimen  previsional  al  que  adhieran  los titulares al ser dados de baja."
+              "texto": "ARTICULO 9.- a) El personal de Tropa de Voluntarios percibirá la retribución fijada en el artículo 4º de esta Reglamentación, gozará de la obra social correspondiente, el seguro de vida obligatorio y los aportes previsionales establecidos por la legislación específica.\n\nb) Sin reglamentar.\n\nc) Sin reglamentar.\n\nd) Producida la baja de la Fuerza, el MINISTERIO DE DEFENSA junto con la SECRETARÍA DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL del MINISTERIO DE CAPITAL HUMANO entregará el Certificado de Oficios y Competencias con validez oficial, en todo el territorio de la REPÚBLICA ARGENTINA, derivado de la capacidad laboral u oficio que el Voluntario hubiera adquirido durante su permanencia en el Servicio Militar Voluntario, aun cuando no haya cumplimentado los estudios secundarios. Los oficios y capacitaciones técnicas guardarán relación directa con las necesidades del servicio.\n\nEl MINISTERIO DE DEFENSA celebrará convenios con organismos públicos y privados, nacionales, provinciales, de la CIUDAD AUTÓNOMA DE BUENOS AIRES o municipales para la implementación de programas de capacitación laboral con certificaciones y/o titulaciones oficiales.\n\ne) Se facilitará el ingreso a los institutos militares de acuerdo a los requisitos jurisdiccionales establecidos en las reglamentaciones y normas para la administración del Personal.\n\nLa autoridad jurisdiccional correspondiente, previa opinión de los organismos de asesoramiento competentes, seleccionará a aquel personal voluntario que considere apto para el cambio de categoría o clasificación.\n\nf) Los aportes personales que se fijan en el ONCE POR CIENTO (11%) de los conceptos integrantes del haber mensual sujeto a aportes y los a cargo del Estado, que se establecen en el DIECISEIS POR CIENTO (16%) de los mismos conceptos, serán administrados por el Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares, en cuentas individuales. La capitalización de los aportes personales se efectuará aplicando cargos e intereses. Las tasas de interés no podrán ser menores a las que devenguen los depósitos en pesos en Caja de Ahorro Común en el Banco de la Nación Argentina. Sus saldos, en cada cuenta, serán transferidos al régimen previsional al que adhieran los titulares al ser dados de baja.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/6/2025) INCISOS A) y D) SUSTITUIDOS",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000372 2025 05 30 0004 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 10,
-              "texto": "ARTICULO 10.- a)  Al  cumplir el segundo año del compromiso de servicio inicial, la autoridad  de cada Fuerza concederá el alta efectiva de aquellos Voluntarios de 2da. que hayan manifestado su voluntad de renovarlo y a los cuales se  los  califique  \"PROPUESTO  PARA  PERMANECER  EN SERVICIO  ACTIVO\". Se dispondrá la baja de aquellos calificados \"NO PROPUESTO PARA PERMANECER EN SERVICIO ACTIVO\".\n\nb) A quienes  se  le conceda el alta efectiva, serán promovidos al grado de Voluntario  de  1ra.  o  equivalente, de acuerdo al tiempo normal de ascenso determinado jurisdiccionalmente  por  cada Fuerza  c)  Los ascensos se producirán con fecha 31 de diciembre  de  cada aÑo.\n\nd) A  los  fines  del  alta  efectiva o del ascenso, el cómputo de servicios será considerado de UN  (1)  año  cuando  exceda los SEIS (6) meses.\n\ne)  El  compromiso de servicios podrá renovarse por los  períodos, tiempo de  duración  y  condiciones  particulares que se determinen jurisdiccionalmente y dará lugar al suplemento  por  renovación  de compromiso  de  servicios  que  se  establece  en  el  Título  II - Personal  Militar  en  Actividad  -  Capítulo  IV  - Haberes, de la Reglamentación de la ley 19.101.\n\nf)  El  contrato  inicial y el que firma el personal reincorporado no dará derecho a la percepción de este suplemento.\n\ng) El compromiso de  servicios  no será renovado en los siguientes casos:\n\nI.Al  ser  declarado \"NO PROPUESTO  PARA  PERMANECER  EN  SERVICIO ACTIVO\" con el  asesoramiento  de  una Junta de Calificaciones.\n\nII.Cuando el causante cumpla VEINTIOCHO  (28)  años  de edad en el período comprendido.\n\nIII.Por otras causas establecidas en las respectivas reglamentaciones para la administración del Personal Subalterno  de cada fuerza.  h)  El  Compromiso  de  Servicios  se rescindirá en los siguientes casos:\n\nI.Al  ser  declarado  \"NO PROPUESTO PARA  PERMANECER  EN  SERVICIO ACTIVO\" con el asesoramiento  de  una  Junta de Calificaciones.\n\nII.A solicitud del interesado cuando medien  circunstancias que lo justifiquen.\n\nIII.Cuando  sea  necesario  producir vacantes en  función  de  las necesidades de cada fuerza.\n\nIV.Por otras causas establecidas en las respectivas reglamentaciones para la administración  del Personal Subalterno de cada fuerza."
+              "texto": "ARTICULO 10.- a) Al cumplir el segundo año del compromiso de servicio inicial, la autoridad de cada Fuerza concederá el Alta Efectiva de aquellos Soldados Voluntarios de Segunda que manifiesten su voluntad de renovarlo y a los cuales se califique como 'PROPUESTO PARA PERMANECER EN SERVICIO ACTIVO', siendo requisito excluyente para su otorgamiento que el personal de Tropa de Voluntarios haya terminado su Educación Secundaria.\n\nExcepcionalmente, cuando el personal de Tropa de Voluntarios haya tenido un desempeño destacado y acredite avances comprobables en dichos estudios secundarios, una Junta de Calificaciones podrá recomendar hasta DOS (2) renovaciones de DOS (2) años cada una de dicho compromiso de servicios.\n\nSe dispondrá la baja de aquellos clasificados como 'NO PROPUESTO PARA PERMANECER EN SERVICIO ACTIVO.\n\nb) A quienes se le conceda el alta efectiva, serán promovidos al grado de Voluntario de 1ra. o equivalente, de acuerdo al tiempo normal de ascenso determinado jurisdiccionalmente por cada Fuerza  c) Los ascensos se producirán con fecha 31 de diciembre de cada aÑo.\n\nd) A los fines del alta efectiva o del ascenso, el cómputo de servicios será considerado de UN (1) año cuando exceda los SEIS (6) meses.\n\ne) El compromiso de servicios podrá renovarse por los períodos, tiempo de duración y condiciones particulares que se determinen jurisdiccionalmente y dará lugar al suplemento por renovación de compromiso de servicios que se establece en el Título II - Personal Militar en Actividad - Capítulo IV - Haberes, de la Reglamentación de la ley 19.101.\n\nf) El contrato inicial y el que firma el personal reincorporado no dará derecho a la percepción de este suplemento.\n\ng) El compromiso de servicios no será renovado en los siguientes casos:.\n\nI. Al ser declarado 'NO PROPUESTO PARA PERMANECER EN SERVICIO ACTIVO' con el asesoramiento de una Junta de Calificaciones. II. Cuando el Soldado Voluntario cumpla VEINTIOCHO (28) años de edad en el período comprendido, la baja se producirá en el último mes del año calendario del año en curso.\n\nIII. Por otras causas establecidas en las respectivas Reglamentaciones para la administración del Personal Subalterno de cada fuerza.\n\nIV. Cumplido el plazo excepcionalmente otorgado, de hasta un máximo de SEIS (6) años y no habiendo cumplido el personal de Tropa de Voluntarios la instrucción escolar mínima obligatoria, en los términos del artículo 29 de la Ley de Educación Nacional Nº 26.206, el soldado será dado de baja y pasará a la reserva.\n\nh) El Compromiso de Servicios se rescindirá en los siguientes casos:.\n\nI.Al ser declarado \"NO PROPUESTO PARA PERMANECER EN SERVICIO ACTIVO\" con el asesoramiento de una Junta de Calificaciones.\n\nII.A solicitud del interesado cuando medien circunstancias que lo justifiquen.\n\nIII.Cuando sea necesario producir vacantes en función de las necesidades de cada fuerza.\n\nIV.Por otras causas establecidas en las respectivas reglamentaciones para la administración del Personal Subalterno de cada fuerza.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/6/2025) INCISOS A) y G) SUSTITUIDOS",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000372 2025 05 30 0005 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 11,
@@ -283,11 +325,25 @@
             },
             {
               "numero-articulo": 15,
-              "texto": "ARTICULO  15.-  Los  informes  y  datos  vinculados  con  los aspirantes  a  efectuar  el  Servicio Militar Voluntario podrán ser solicitados por las autoridades  militares  que se desempeñen hasta el cargo de Jefe de Unidad o equivalente y deberán  ser contestados en el plazo de 20 días hábiles."
+              "texto": "ARTICULO 15.- Los datos personales que surjan de los informes requeridos sobre los postulantes para el Servicio Militar Voluntario a organismos nacionales, provinciales, de la CIUDAD AUTÓNOMA DE BUENOS AIRES, municipales y comunales, así como a las instituciones privadas, estarán sujetos a los alcances de la Ley de Protección de Datos Personales N° 25.326 y su modificatoria.\n\nLos informes y datos vinculados con los aspirantes a efectuar el Servicio Militar Voluntario podrán ser solicitados por las autoridades militares que se desempeñen hasta el cargo de Jefe de Unidad o su equivalente y deberán ser contestados en el plazo de VEINTE (20) días hábiles.\n\nEn caso de incumplimiento por parte del organismo requerido, la autoridad militar competente deberá informar por la vía jerárquica pertinente, tramitándose el correspondiente reclamo.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/6/2025) ARTICULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000372 2025 05 30 0006 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 16,
-              "texto": "ARTICULO  16.- No podrán incorporarse quienes por antecedentes penales o policiales  y/o  causas  establecidas jurisdiccionalmente para el Personal Subalterno puedan constituirse  en  un riesgo real o potencial para la sociedad."
+              "texto": "ARTICULO 16.- No podrán incorporarse quienes por antecedentes penales o policiales y/o causas establecidas jurisdiccionalmente para el Personal Subalterno puedan constituir un riesgo real o potencial para la sociedad.\n\nNo será admitido como postulante para el Servicio Militar Voluntario quien haya sido dado de baja por razones disciplinarias, tanto de las Fuerzas Armadas, como de las Fuerzas de Seguridad Federales, de las Fuerzas Policiales Provinciales y de los Servicios Penitenciarios Provinciales.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/6/2025) ARTICULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000372 2025 05 30 0007 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 17,
@@ -299,7 +355,7 @@
             },
             {
               "numero-articulo": 19,
-              "texto": "ARTICULO 19.- a)  Los ciudadanos incorporados como soldados conscriptos, una vez cumplidos  SEIS  (6)  meses  del  servicio militar de conscripción, podrán solicitar su incorporación al  presente  régimen  en caso de cumplimentar  las  exigencias  del  Art.  8), exceptuándoselos  del curso de admisión.\n\nb)  En  tal caso, se les reconocerá la antiguedad  y  cómputo  del servicio militar de conscripción prestado."
+              "texto": "ARTICULO 19.- a) Los ciudadanos incorporados como soldados conscriptos, una vez cumplidos SEIS (6) meses del servicio militar de conscripción, podrán solicitar su incorporación al presente régimen en caso de cumplimentar las exigencias del Art. 8), exceptuándoselos del curso de admisión.\n\nb) En tal caso, se les reconocerá la antiguedad y cómputo del servicio militar de conscripción prestado."
             },
             {
               "numero-articulo": 20,
@@ -358,7 +414,7 @@
                 }
               },
               "numero-articulo": 32,
-              "texto": "ARTICULO 32.- El  personal  de marineros de la Armada Argentina, incorporado con anterioridad,  bajo    el   \"Régimen  para  el  Personal  de  Tropa Voluntario\" o \"Régimen para  el Personal de Soldados Profesionales\" según las prescripciones de la  ley  para  el Personal Militar, ley 19.101 pasan a partir de la vigencia de la presente  reglamentación al  régimen  establecido  en  la  ley  24.429  y su reglamentación, reconociéndoseles su antiguedad y jerarquía adquirida."
+              "texto": "ARTICULO 32.- El personal de marineros de la Armada Argentina, incorporado con anterioridad, bajo el \"Régimen para el Personal de Tropa Voluntario\" o \"Régimen para el Personal de Soldados Profesionales\" según las prescripciones de la ley para el Personal Militar, ley 19.101 pasan a partir de la vigencia de la presente reglamentación al régimen establecido en la ley 24.429 y su reglamentación, reconociéndoseles su antiguedad y jerarquía adquirida."
             },
             {
               "numero-articulo": 33,
@@ -371,7 +427,8 @@
           ]
         }
       },
-      "id-infojus": "DN19950000978"
+      "id-infojus": "DN19950000978",
+      "fecha-umod": 20250602154432
     }
   }
 }
