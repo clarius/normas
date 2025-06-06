@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-339-0000-8102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1540386553451,
+      "timestamp": 1749208184610,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 933,
-      "timestamp": "2018-10-24T09:57:19",
-      "timestamp-alta": "2018-10-24T09:57:19",
-      "timestamp-m": "2018-10-24T09:57:19",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,11 +40,14 @@
       "nombre-coloquial": "DECRETO NACIONAL 933/2018",
       "analista": "Rocca, Adriana",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2018-10-24",
-      "fecha-mod": "2018-10-24",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-06-06",
+      "fecha-mod": "2025-06-06",
+      "timestamp": "2025-06-06T08:01:18",
+      "timestamp-alta": "2025-06-06T08:01:18",
+      "timestamp-m": "2025-06-06T08:01:18",
       "generalidades": {
         "sintesis": "Se Reglamenta el Art. 10 de la Ley 27.253 estableciendo que los pagos que puedan realizarse a través de la utilización de códigos de respuesta rápida (QR) que utilicen el estándar establecido por la normativa del Banco Central son equivalentes a los pagos con tarjetas de débito.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 4",
@@ -71,6 +71,7 @@
             "sinonimos": {
               "termino": [
                 "reglamento ejecutivo",
+                "actos de alcance general",
                 "reglamento de ejecución",
                 "reglamento administrativo"
               ]
@@ -121,6 +122,36 @@
                 "sistema bancario"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "código de barras"
+            },
+            "preferido": {
+              "termino": "Derecho tributario y aduanero/derecho tributario/deberes formales/régimen de facturación y registración/sistema de identificación de datos/código de barras"
+            },
+            "sinonimos": {
+              "termino": [
+                "derecho fiscal",
+                "derecho público fiscal"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "código QR"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/código QR"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "informática",
+                "código de respuesta rápida"
+              ]
+            }
           }
         ],
         "suggest": {
@@ -129,27 +160,39 @@
             "beneficios tributarios",
             "decreto reglamentario",
             "reglamento de ejecución (decreto reglamentario)",
+            "régimen de facturación y registración",
+            "informática (tecnología de la información)",
             "reglamento ejecutivo (decreto reglamentario)",
             "beneficios arancelarios (beneficios tributarios)",
+            "código de barras",
             "reglamentos",
             "Derecho tributario y aduanero",
+            "Derecho informático",
+            "deberes formales",
             "tributos",
             "operaciones bancarias",
             "IVA",
             "derecho tributario",
             "acto administrativo de alcance general",
+            "tecnología de la información",
             "derecho fiscal (derecho tributario)",
             "reglamento administrativo (reglamentos)",
             "Derecho administrativo",
+            "código de respuesta rápida (código QR)",
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
             "gravámenes (tributos)",
+            "sistema de identificación de datos",
             "beneficios impositivos (beneficios tributarios)",
             "operaciones financieras",
             "Derecho bancario",
             "tarjeta de débito",
             "impuestos",
             "acto administrativo",
+            "TIC (tecnología de la información)",
             "operatoria bancaria (operaciones bancarias)",
+            "actos de alcance general (acto administrativo de alcance general)",
             "impuesto al valor agregado (IVA)",
+            "código QR",
             "sistema bancario (Derecho bancario)",
             "reintegros impositivos"
           ]
@@ -203,7 +246,7 @@
           ]
         },
         "sancion": "EL\u00A0PRESIDENTE DE\u00A0LA\u00A0NACIÓN ARGENTINA DECRETA:",
-        "texto": "Que el artículo 10 de la Ley N°\u00A027.253 y su modificatoria, dispuso que los contribuyentes que realicen en forma habitual la venta de cosas muebles para consumo final, presten servicios de consumo masivo, realicen obras o efectúen locaciones de cosas muebles, deberán aceptar como medio de pago transferencias bancarias instrumentadas mediante tarjetas de débito, tarjetas prepagas no bancarias u otros medios de pago que el PODER EJECUTIVO NACIONAL considere equivalentes.\n\nQue, asimismo, mediante su artículo 11 se exceptuó de dicha obligación a los responsables que desarrollen su actividad en localidades cuya población resulte menor a MIL (1.000) habitantes o, cuando el importe de la operación sea inferior a PESOS DIEZ ($\u00A010.-), facultando al PODER EJECUTIVO NACIONAL a modificar el alcance de esas excepciones.\n\nQue, por su parte, el artículo 1° del Decreto N°\u00A0858/16 estableció como medio de pago equivalente a las transferencias bancarias realizadas a través del uso de dispositivos de comunicaciones móviles en el marco del sistema que desarrolle, implemente y administre el BANCO DE LA NACIÓN ARGENTINA, por sí o a través de alguna de sus empresas vinculadas, con intervención del entonces MINISTERIO DE MODERNIZACIÓN, actual Secretaría de Gobierno de Modernización de la JEFATURA DE GABINETE DE MINISTROS.\n\nQue con el objetivo de evitar interpretaciones que desnaturalicen los fines perseguidos por la Ley N°\u00A027.253 y su modificatoria, resulta pertinente brindar precisiones respecto al alcance de las disposiciones contenidas en el referido artículo 10.\n\nQue, asimismo, en virtud del incremento del costo asociado a las operaciones realizadas a través de los medios de pago establecidos en el aludido artículo, se estima oportuno ejercer la facultad otorgada por el citado artículo 11, a efectos de actualizar el importe allí previsto.\n\nQue dado que el BANCO CENTRAL DE LA REPÚBLICA ARGENTINA ha impulsado el desarrollo de nuevos medios de pago electrónicos con el objetivo de fomentar la inclusión financiera, reducir los costos intrínsecos del sistema de pagos, formalizar la economía y promover mecanismos para la prevención del lavado de dinero y el financiamiento al terrorismo, se estima oportuno incorporar a los medios de pago equivalentes dispuestos por el artículo 1° del   Decreto N°\u00A0858/16, a las transferencias instrumentadas a través del código de respuesta rápida (QR) cuyo estándar fuera aprobado por la normativa de dicha entidad.\n\nQue ha tomado intervención el servicio jurídico competente.\n\nQue el presente decreto se dicta en uso de las facultades conferidas por el artículo 99, inciso 2 de la CONSTITUCIÓN NACIONAL y por los artículos 10 y 11 de la Ley N°\u00A027.253 y su modificatoria.\n\nPor ello,"
+        "texto": "Que el artículo 10 de la Ley N°\u00A027.253 y su modificatoria, dispuso que los contribuyentes que realicen en forma habitual la venta de cosas muebles para consumo final, presten servicios de consumo masivo, realicen obras o efectúen locaciones de cosas muebles, deberán aceptar como medio de pago transferencias bancarias instrumentadas mediante tarjetas de débito, tarjetas prepagas no bancarias u otros medios de pago que el PODER EJECUTIVO NACIONAL considere equivalentes.\n\nQue, asimismo, mediante su artículo 11 se exceptuó de dicha obligación a los responsables que desarrollen su actividad en localidades cuya población resulte menor a MIL (1.000) habitantes o, cuando el importe de la operación sea inferior a PESOS DIEZ ($\u00A010.-), facultando al PODER EJECUTIVO NACIONAL a modificar el alcance de esas excepciones.\n\nQue, por su parte, el artículo 1° del Decreto N°\u00A0858/16 estableció como medio de pago equivalente a las transferencias bancarias realizadas a través del uso de dispositivos de comunicaciones móviles en el marco del sistema que desarrolle, implemente y administre el BANCO DE LA NACIÓN ARGENTINA, por sí o a través de alguna de sus empresas vinculadas, con intervención del entonces MINISTERIO DE MODERNIZACIÓN, actual Secretaría de Gobierno de Modernización de la JEFATURA DE GABINETE DE MINISTROS.\n\nQue con el objetivo de evitar interpretaciones que desnaturalicen los fines perseguidos por la Ley N°\u00A027.253 y su modificatoria, resulta pertinente brindar precisiones respecto al alcance de las disposiciones contenidas en el referido artículo 10.\n\nQue, asimismo, en virtud del incremento del costo asociado a las operaciones realizadas a través de los medios de pago establecidos en el aludido artículo, se estima oportuno ejercer la facultad otorgada por el citado artículo 11, a efectos de actualizar el importe allí previsto.\n\nQue dado que el BANCO CENTRAL DE LA REPÚBLICA ARGENTINA ha impulsado el desarrollo de nuevos medios de pago electrónicos con el objetivo de fomentar la inclusión financiera, reducir los costos intrínsecos del sistema de pagos, formalizar la economía y promover mecanismos para la prevención del lavado de dinero y el financiamiento al terrorismo, se estima oportuno incorporar a los medios de pago equivalentes dispuestos por el artículo 1° del Decreto N°\u00A0858/16, a las transferencias instrumentadas a través del código de respuesta rápida (QR) cuyo estándar fuera aprobado por la normativa de dicha entidad.\n\nQue ha tomado intervención el servicio jurídico competente.\n\nQue el presente decreto se dicta en uso de las facultades conferidas por el artículo 99, inciso 2 de la CONSTITUCIÓN NACIONAL y por los artículos 10 y 11 de la Ley N°\u00A027.253 y su modificatoria.\n\nPor ello,"
       },
       "articulo": [
         {
@@ -222,7 +265,7 @@
             ]
           },
           "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- A los fines dispuestos por el artículo 10 de la Ley N°\u00A027.253 y su modificatoria, las transferencias bancarias instrumentadas mediante tarjetas de débito tendrán que cumplir con las siguientes condiciones, en forma conjunta:\n\na. Que el dispositivo que se utilice para capturar la transacción -sea POS, MPOS, PIN PAD o cualquier otro método que permita realizarla- sea solicitado por el contribuyente obligado y éste lo registre a su nombre.\n\nb. Que el contribuyente obligado declare, para la acreditación de los fondos, un número de Clave Bancaria Uniforme (CBU) o su respectivo \"alias\", perteneciente a una cuenta de su titularidad o, si realiza su actividad en el marco de un sistema organizado de pagos según lo dispuesto por el Decreto N°\u00A0380 del 29 de marzo de 2001 y sus modificatorios, a una cuenta de un tercero en la que deberán estar identificados de manera clara y suficiente, los créditos que correspondan a las ventas realizadas a través del dispositivo indicado en el inciso anterior.\n\nc. Que el dispositivo admita el cobro mediante todas las tarjetas de débito de las redes a las que estén adheridas más de una entidad financiera autorizada para operar en el país, según lo establecido por la Ley N°\u00A021.526 y sus modificaciones.\n\nLas transferencias instrumentadas mediante tarjeta de débito que operen bajo la modalidad de Pago Electrónico Inmediato (PEI), según fuera establecida por la normativa del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA, se considerarán suficientes para el cumplimiento de las condiciones establecidas en el presente   artículo.",
+          "texto": "ARTÍCULO 1°.- A los fines dispuestos por el artículo 10 de la Ley N°\u00A027.253 y su modificatoria, las transferencias bancarias instrumentadas mediante tarjetas de débito tendrán que cumplir con las siguientes condiciones, en forma conjunta:\n\na. Que el dispositivo que se utilice para capturar la transacción -sea POS, MPOS, PIN PAD o cualquier otro método que permita realizarla- sea solicitado por el contribuyente obligado y éste lo registre a su nombre.\n\nb. Que el contribuyente obligado declare, para la acreditación de los fondos, un número de Clave Bancaria Uniforme (CBU) o su respectivo \"alias\", perteneciente a una cuenta de su titularidad o, si realiza su actividad en el marco de un sistema organizado de pagos según lo dispuesto por el Decreto N°\u00A0380 del 29 de marzo de 2001 y sus modificatorios, a una cuenta de un tercero en la que deberán estar identificados de manera clara y suficiente, los créditos que correspondan a las ventas realizadas a través del dispositivo indicado en el inciso anterior.\n\nc. Que el dispositivo admita el cobro mediante todas las tarjetas de débito de las redes a las que estén adheridas más de una entidad financiera autorizada para operar en el país, según lo establecido por la Ley N°\u00A021.526 y sus modificaciones.\n\nLas transferencias instrumentadas mediante tarjeta de débito que operen bajo la modalidad de Pago Electrónico Inmediato (PEI), según fuera establecida por la normativa del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA, se considerarán suficientes para el cumplimiento de las condiciones establecidas en el presente artículo.",
           "reglamenta-a": {
             "referencia-normativa": {
               "cr": null,
@@ -251,11 +294,11 @@
             }
           },
           "numero-articulo": 3,
-          "texto": "ARTÍCULO 3°.- A los efectos previstos en el inciso b) del   artículo 11 de la Ley N°\u00A027.253 y su modificatoria, los responsables que realicen operaciones con consumidores finales deberán aceptar todas las tarjetas o medios de pago comprendidos en la citada ley, excepto cuando el importe de la operación sea inferior a PESOS CIEN ($\u00A0100.-)."
+          "texto": "ARTÍCULO 3°.- A los efectos previstos en el inciso b) del artículo 11 de la Ley N°\u00A027.253 y su modificatoria, los responsables que realicen operaciones con consumidores finales deberán aceptar todas las tarjetas o medios de pago comprendidos en la citada ley, excepto cuando el importe de la operación sea inferior a PESOS CIEN ($\u00A0100.-)."
         },
         {
           "numero-articulo": 4,
-          "texto": "ARTÍCULO 4°.- Las disposiciones establecidas en el presente   decreto entrarán en vigencia a partir del día siguiente al de su publicación en el Boletín Oficial, con excepción de lo previsto en el artículo 2°, cuya vigencia operará a partir del 1° de enero de 2020."
+          "texto": "ARTÍCULO 4°.- Las disposiciones establecidas en el presente decreto entrarán en vigencia a partir del día siguiente al de su publicación en el Boletín Oficial, con excepción de lo previsto en el artículo 2°, cuya vigencia operará a partir del 1° de enero de 2020."
         },
         {
           "numero-articulo": 5,
@@ -265,7 +308,8 @@
       "firmantes": {
         "firmantes": "MACRI-Peña-Dujovne"
       },
-      "id-infojus": "DN20180000933"
+      "id-infojus": "DN20180000933",
+      "fecha-umod": 20250606080944
     }
   }
 }
