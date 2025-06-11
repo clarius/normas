@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g73-24000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1721235376329,
+      "timestamp": 1749675510124,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,18 +16,12 @@
     },
     "content": {
       "mecanografico": "S0004237",
-      "decreto-reglamentario": {
-        "referencia-normativa": {
-          "cr": "(B.O. 14/10/98)",
-          "id": "DECRETO_REGLAMENTARIO_0",
-          "ref": "DEC C 001193 1998 10 08 0000 000 0000 000"
-        }
-      },
-      "numero-norma": 24901,
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 24901,
       "fecha": "1997-11-05",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -36,12 +30,14 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 024901 1997 11 05",
+      "nombre-coloquial": "Ley 24.901",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "LEY 24.901",
           "BUENOS AIRES, 05 de NOVIEMBRE de 1997"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
       "titulo-norma": "Sistema de prestaciones básicas en habilitación y rehabilitación integral a favor de las personas con discapacidad",
       "publicacion-codificada": {
         "publicacion-decodificada": {
@@ -49,19 +45,23 @@
           "fecha": "1997 12 05"
         }
       },
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "(B.O. 14/10/98)",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 001193 1998 10 08 0000 000 0000 000"
+        }
+      },
       "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 24.901",
-      "estado": "Vigente, de alcance general",
       "analista": "Belloro, Mariana",
       "responsable": "Belloro, Mariana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-07-17",
-      "fecha-mod": "2024-07-17",
-      "timestamp": "2024-07-17T13:52:06",
-      "timestamp-alta": "2024-07-17T13:52:06",
-      "timestamp-m": "2024-07-17T13:52:06",
+      "fecha-alta": "2025-06-11",
+      "fecha-mod": "2025-06-11",
+      "timestamp": "2025-06-11T17:52:19",
+      "timestamp-alta": "2025-06-11T17:52:19",
+      "timestamp-m": "2025-06-11T17:52:19",
       "sumario": {
         "sumario": "DISCAPACITADOS-SALUD PUBLICA-OBRAS SOCIALES-ASISTENCIA FINANCIERA-ASISTENCIA SANITARIA-ASISTENCIA MEDICA GRATUITA-EDUCACION DIFERENCIAL-SISTEMA UNICO DE PRESTACIONES BASICAS PARA PERSONAS CON DISCAPACIDAD"
       },
@@ -234,7 +234,14 @@
       },
       "generalidades": {
         "informacion-vinculada": 1E+19,
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 41.\n\nOBSERVACION: Se mantiene la vigencia por Art. 17 del Decreto N° 868/2017. B.O. 27/10/2017.\n\nOBSERVACION: POR ART. 1 DE LA RESOLUCION 1116/2020 DE LA AGENCIA NACIONAL DE DISCAPACIDAD (B.O. 16/12/2020) SE PRORROGA POR 1 AÑO, DESDE LA FECHA DE SU VENCIMIENTO, LOS CERTIFICADOS UNICOS DE DISCAPACIDAD EMITIDOS EN VIRTUD DE LA PRESENTE LEY CUYO VENCIMIENTO HAYA OCURRIDO ENTRE EL 1 DE ENERO DE 2021 Y HASTA EL 31 DE DICIEMBRE DE 2021 INCLUSIVE.\n\nOBSERVACION: POR ART. 1 DE LA RESOLUCION 806/2022 DE LA AGENCIA NACIONAL DE DISCAPACIDAD (B.O. 14/06/2022) SE PRORROGA POR 1 AÑO, DESDE LA FECHA DE SU VENCIMIENTO, LOS CERTIFICADOS UNICOS DE DISCAPACIDAD EMITIDOS EN VIRTUD DE LA PRESENTE LEY CUYO VENCIMIENTO OCURRA ENTRE EL 1 DE JULIO DE 2022 Y HASTA EL 31 DE DICIEMBRE DE 2022 INCLUSIVE.\n\nOBSERVACION: POR RESOLUCION CONJUNTA 5/24 DEL MINISTERIO DE SALUD Y AGENCIA NACIONAL DE DISCAPACIDAD (B.O. 17/7/2024)SE ESTABLECE UNA ACTUALIZACION AL VALOR DE LOS ARANCELES VIGENTES DEL SISTEMA DE PRESTACIONES DE ATENCION INTEGRAL A FAVOR DE LAS PERSONAS CON DISCAPACIDAD DE UN 3 % PARA TODAS LAS PRESTACIONES, A PARTIR DEL 1 DE JUNIO DE 2024."
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 41.\n\nOBSERVACION: Se mantiene la vigencia por Art. 17 del Decreto N° 868/2017. B.O. 27/10/2017.\n\nOBSERVACION: POR ART. 1 DE LA RESOLUCION 1116/2020 DE LA AGENCIA NACIONAL DE DISCAPACIDAD (B.O. 16/12/2020) SE PRORROGA POR 1 AÑO, DESDE LA FECHA DE SU VENCIMIENTO, LOS CERTIFICADOS UNICOS DE DISCAPACIDAD EMITIDOS EN VIRTUD DE LA PRESENTE LEY CUYO VENCIMIENTO HAYA OCURRIDO ENTRE EL 1 DE ENERO DE 2021 Y HASTA EL 31 DE DICIEMBRE DE 2021 INCLUSIVE.\n\nOBSERVACION: POR ART. 1 DE LA RESOLUCION 806/2022 DE LA AGENCIA NACIONAL DE DISCAPACIDAD (B.O. 14/06/2022) SE PRORROGA POR 1 AÑO, DESDE LA FECHA DE SU VENCIMIENTO, LOS CERTIFICADOS UNICOS DE DISCAPACIDAD EMITIDOS EN VIRTUD DE LA PRESENTE LEY CUYO VENCIMIENTO OCURRA ENTRE EL 1 DE JULIO DE 2022 Y HASTA EL 31 DE DICIEMBRE DE 2022 INCLUSIVE.\n\nOBSERVACION: POR RESOLUCION CONJUNTA 5/24 DEL MINISTERIO DE SALUD Y AGENCIA NACIONAL DE DISCAPACIDAD (B.O. 17/7/2024)SE ESTABLECE UNA ACTUALIZACION AL VALOR DE LOS ARANCELES VIGENTES DEL SISTEMA DE PRESTACIONES DE ATENCION INTEGRAL A FAVOR DE LAS PERSONAS CON DISCAPACIDAD DE UN 3 % PARA TODAS LAS PRESTACIONES, A PARTIR DEL 1 DE JUNIO DE 2024.",
+        "adherida-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "ADHERIDA_POR_0",
+            "ref": "LEY Y 005354 2003 05 29 0000 000 0000 000"
+          }
+        }
       },
       "segmento": [
         {
@@ -510,7 +517,7 @@
         }
       ],
       "id-infojus": "LNS0004237",
-      "fecha-umod": 20240717135616
+      "fecha-umod": 20250611175830
     }
   }
 }
