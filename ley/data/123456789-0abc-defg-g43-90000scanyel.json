@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g43-90000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413583744575,
+      "timestamp": 1750172118380,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,8 +17,6 @@
     "content": {
       "mecanografico": "S0000934",
       "numero-norma": 18711,
-      "timestamp": "2013-01-19T18:52:45",
-      "timestamp-m": "2013-01-19T18:52:45",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -44,14 +42,18 @@
           "fecha": "1970 06 23"
         }
       },
-      "publicacion-privada": "ADLA                                                  B003019701623",
-      "sancion": "En  ejercicio  de  las  facultades del Poder Legislativo y Ejecutivo  LA JUNTA DE COMANDANTES EN JEFE SANCIONA Y PROMULGA CON FUERZA DE LEY:",
+      "publicacion-privada": "ADLA B003019701623",
+      "sancion": "En ejercicio de las facultades del Poder Legislativo y Ejecutivo  LA JUNTA DE COMANDANTES EN JEFE SANCIONA Y PROMULGA CON FUERZA DE LEY:",
       "lugar-sancion": "BUENOS AIRES",
       "nombre-coloquial": "Ley 18.711",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-22",
-      "fecha-mod": "2013-01-19",
-      "uid-mod": "SASAIJ",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-06-17",
+      "fecha-mod": "2025-06-17",
+      "timestamp": "2025-06-17T11:33:10",
+      "timestamp-alta": "2025-06-17T11:33:10",
+      "timestamp-m": "2025-06-17T11:33:10",
       "generalidades": {
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 0023"
       },
@@ -65,11 +67,12 @@
               "termino": "fuerzas de seguridad"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "personal de seguridad"
               ]
             }
@@ -79,11 +82,12 @@
               "termino": "Gendarmería Nacional"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "personal de seguridad"
               ]
             }
@@ -93,11 +97,12 @@
               "termino": "Prefectura Naval"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/Prefectura Naval"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/Prefectura Naval"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "Prefectura naval Argentina",
                 "personal de seguridad"
               ]
@@ -108,11 +113,12 @@
               "termino": "policía federal"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/policía federal"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía federal"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "Policía Federal Argentina",
                 "personal de seguridad"
               ]
@@ -125,19 +131,20 @@
             "Prefectura Naval",
             "Gendarmería Nacional",
             "seguridad pública",
+            "defensa nacional (Defensa y seguridad)",
             "policía federal",
             "Policía Federal Argentina (policía federal)",
             "Prefectura naval Argentina (Prefectura Naval)",
-            "Defensa nacional",
             "seguridad nacional (seguridad pública)",
             "policía",
-            "personal de seguridad (fuerzas de seguridad)"
+            "personal de seguridad (fuerzas de seguridad)",
+            "Defensa y seguridad"
           ]
         }
       },
       "articulo": {
         "numero-articulo": 1,
-        "texto": "*ARTICULO  1.-  La Gendarmería Nacional, la Prefectura Naval Argentina, la Policía Federal y la Policía de Seguridad Aeroportuaria, ejercerán competencias policiales propias del Estado Federal según las misiones, funciones y jurisdicciones territoriales que para cada una de ellas se determinan en la presente ley.",
+        "texto": "*ARTICULO 1.- La Gendarmería Nacional, la Prefectura Naval Argentina, la Policía Federal y la Policía de Seguridad Aeroportuaria, ejercerán competencias policiales propias del Estado Federal según las misiones, funciones y jurisdicciones territoriales que para cada una de ellas se determinan en la presente ley.",
         "modificado-por": {
           "referencia-normativa": {
             "cr": "(B.O. 22-06-2006) ARTICULO SUSTITUIDO",
@@ -152,23 +159,23 @@
           "articulo": [
             {
               "numero-articulo": 2,
-              "texto": "ARTICULO  2.-  La  Gendarmería  Nacional  es una fuerza de seguridad militarizada,  estructurada  para  actuar en las  zonas  fronterizas nacionales y demás lugares que se determinen al efecto."
+              "texto": "ARTICULO 2.- La Gendarmería Nacional es una fuerza de seguridad militarizada, estructurada para actuar en las zonas fronterizas nacionales y demás lugares que se determinen al efecto."
             },
             {
               "numero-articulo": 3,
-              "texto": "ARTICULO  3.-  La  Gendarmería Nacional tendrá por misión satisfacer las necesidades inherentes  al  poder  de  policía  que  compete  al Comando en Jefe del Ejército."
+              "texto": "ARTICULO 3.- La Gendarmería Nacional tendrá por misión satisfacer las necesidades inherentes al poder de policía que compete al Comando en Jefe del Ejército."
             },
             {
               "numero-articulo": 4,
-              "texto": "ARTICULO  4.- La Gendarmería Nacional actuará dentro de la siguiente jurisdicción territorial:\n\na) En las zonas  de  seguridad  de  frontera  terrestre, incluso los cursos de agua fronterizos con las excepciones  que  correspondan de acuerdo con el artículo 9 de la presente ley.\n\nEn  razón de su función de policía de seguridad en la vigilancia  de frontera, en  los  casos  en  que  la  ley pertinente fije un ancho inferior  a CINCUENTA (50) kilómetros para  el  sector  fronterizo fluvial,  e  inferior a  CIEN   (100)  kilómetros  para  el  sector fronterizo  terrestre, la jurisdicción  territorial  de  Gendarmería Nacional abarcará  respectivamente, a  lo largo de la frontera, una faja  con  las  profundidades  mencionadas precedentemente.    b) En los túneles y puentes internacionales.\n\nc)  En cualquier otro lugar del territorio de la Nación, cuando ello sea dispuesto  por el Poder Ejecutivo con vista al mantenimiento del orden y la tranquilidad  pubblica  o  para  satisfacer un interés de seguridad nacional.\n\nd) En cualquier otro lugar del país a requerimiento  de  la Justicia Federal."
+              "texto": "ARTICULO 4.- La Gendarmería Nacional actuará dentro de la siguiente jurisdicción territorial: .\n\na) En las zonas de seguridad de frontera terrestre, incluso los cursos de agua fronterizos con las excepciones que correspondan de acuerdo con el artículo 9 de la presente ley.\n\nEn razón de su función de policía de seguridad en la vigilancia de frontera, en los casos en que la ley pertinente fije un ancho inferior a CINCUENTA (50) kilómetros para el sector fronterizo fluvial, e inferior a CIEN (100) kilómetros para el sector fronterizo terrestre, la jurisdicción territorial de Gendarmería Nacional abarcará respectivamente, a lo largo de la frontera, una faja con las profundidades mencionadas precedentemente.\n\nb) En los túneles y puentes internacionales.\n\nc) En cualquier otro lugar del territorio de la Nación, cuando ello sea dispuesto por el Poder Ejecutivo con vista al mantenimiento del orden y la tranquilidad pubblica o para satisfacer un interés de seguridad nacional.\n\nd) En cualquier otro lugar del país a requerimiento de la Justicia Federal."
             },
             {
               "numero-articulo": 5,
-              "texto": "ARTICULO  5.-  Dentro  de  su  jurisdicción territorial cumplirá las siguientes funciones:\n\na)  Policía  de  seguridad y judicial  en  el  fuero  federal.  b) Policía auxiliar  aduanera,  de  migraciones  y  sanitaria, donde haya autoridad  establecida por las respectivas administraciones  y dentro de las horas habilitadas por ellas.\n\nc) Policía de prevención  y  represión  del contrabando, migraciones clandestinas e infracciones sanitarias en los lugares no comprendidos en el inciso anterior como así  también  dentro  de los mismos,  pero  fuera  del horario  habilitado  por  las respectivas administraciones cuando se le delegue.\n\nd)    Policía   forestal,  conforme  a  convenio  con  la  autoridad administrativa correspondiente.\n\ne) Policía de seguridad  de la navegación en los lagos, ríos y demás cursos de agua, cuando dicha  función sea delegada por el Comando en Jefe de la Armada al Comando en  Jefe  del Ejército. El ejercicio de esa delegación no incluirá lo relativo a  habilitación de personal y material.\n\nf)  Intervenir  para  reprimir la alteración del  orden  público,  o cuando éste  se  vea subvertido,  o  cuya  magnitud  sobrepase  las posibilidades  de control  de  las  fuerzas  policiales,  o  cuando adquiera las características de  guerrillas, en cualesquiera de sus formas.\n\nEsta  función  será  ejercida por disposición  del  Poder  Ejecutivo Nacional.\n\ng) Toda otra función que  se  le  asigne  conforme  a  su  misión  y capacidades."
+              "texto": "ARTICULO 5.- Dentro de su jurisdicción territorial cumplirá las siguientes funciones: .\n\na) Policía de seguridad y judicial en el fuero federal.\n\nb) Policía auxiliar aduanera, de migraciones y sanitaria, donde haya autoridad establecida por las respectivas administraciones y dentro de las horas habilitadas por ellas.\n\nc) Policía de prevención y represión del contrabando, migraciones clandestinas e infracciones sanitarias en los lugares no comprendidos en el inciso anterior como así también dentro de los mismos, pero fuera del horario habilitado por las respectivas administraciones cuando se le delegue.\n\nd) Policía forestal, conforme a convenio con la autoridad administrativa correspondiente.\n\ne) Policía de seguridad de la navegación en los lagos, ríos y demás cursos de agua, cuando dicha función sea delegada por el Comando en Jefe de la Armada al Comando en Jefe del Ejército. El ejercicio de esa delegación no incluirá lo relativo a habilitación de personal y material.\n\nf) Intervenir para reprimir la alteración del orden público, o cuando éste se vea subvertido, o cuya magnitud sobrepase las posibilidades de control de las fuerzas policiales, o cuando adquiera las características de guerrillas, en cualesquiera de sus formas.\n\nEsta función será ejercida por disposición del Poder Ejecutivo Nacional.\n\ng) Toda otra función que se le asigne conforme a su misión y capacidades."
             },
             {
               "numero-articulo": 6,
-              "texto": "ARTICULO  6.-  La  Gendarmería  Nacional depende del Comando en Jefe del Ejército. En caso de conmoción  interior,  todos o partes de sus efectivos podrán ponerse a disposición del o los  comandos  de  Zona de Emergencia respectivos."
+              "texto": "ARTICULO 6.- La Gendarmería Nacional depende del Comando en Jefe del Ejército. En caso de conmoción interior, todos o partes de sus efectivos podrán ponerse a disposición del o los comandos de Zona de Emergencia respectivos."
             }
           ]
         },
@@ -177,23 +184,23 @@
           "articulo": [
             {
               "numero-articulo": 7,
-              "texto": "ARTICULO  7.-  La  Prefectura  Naval  Argentina  es  una  policía de seguridad,   estructurada  para  actuar  en  el  litoral  marítimo, fluvial, lacustre  y otras vías navegables, puertos y lugares que se determinen al efecto."
+              "texto": "ARTICULO 7.- La Prefectura Naval Argentina es una policía de seguridad, estructurada para actuar en el litoral marítimo, fluvial, lacustre y otras vías navegables, puertos y lugares que se determinen al efecto."
             },
             {
               "numero-articulo": 8,
-              "texto": "ARTICULO  8.-  La  Prefectura  Naval  Argentina  tendrá  por  misión satisfacer las  necesidades  inherentes  al  poder  de  policía que compete al Comando en Jefe de la Armada."
+              "texto": "ARTICULO 8.- La Prefectura Naval Argentina tendrá por misión satisfacer las necesidades inherentes al poder de policía que compete al Comando en Jefe de la Armada."
             },
             {
               "numero-articulo": 9,
-              "texto": "ARTICULO  9.-  La  Prefectura  Naval  Argentina actuará dentro de la siguiente jurisdicción territorial:\n\na) En las aguas de los mares, ríos, lagos  y canales utilizados como vías navegables interjurisdiccionales, para  el  transporte  regular de personas y mercaderías.\n\nb) La zona de seguridad de frontera marítima.\n\nc) En zonas portuarias.\n\nd)  En  las márgenes de los ríos interjurisdiccionales efectivamente utilizados como vías navegables hasta TREINTA Y CINCO (35) metros a contar de la más alta crecida ordinaria.\n\ne) En cualquier  otro  lugar del país a requerimiento de la Justicia Federal."
+              "texto": "ARTICULO 9.- La Prefectura Naval Argentina actuará dentro de la siguiente jurisdicción territorial: .\n\na) En las aguas de los mares, ríos, lagos y canales utilizados como vías navegables interjurisdiccionales, para el transporte regular de personas y mercaderías.\n\nb) La zona de seguridad de frontera marítima.\n\nc) En zonas portuarias.\n\nd) En las márgenes de los ríos interjurisdiccionales efectivamente utilizados como vías navegables hasta TREINTA Y CINCO (35) metros a contar de la más alta crecida ordinaria.\n\ne) En cualquier otro lugar del país a requerimiento de la Justicia Federal."
             },
             {
               "numero-articulo": 10,
-              "texto": "ARTICULO  10.-  Dentro  de  su jurisdicción territorial cumplirá las siguientes funciones:\n\na)  Policía  de seguridad de la  navegación  y  de  cumplimiento  de convenios internacionales sobre navegación.\n\nb) Policía de  seguridad  y  judicial  en  las  aguas  navegables  y puertos nacionales.\n\nc)  Policía  de  seguridad  y judicial en los delitos de competencia federal.\n\nd) Policía auxiliar aduanera,  de  migraciones  y  sanitaria,  donde haya autoridad    o  puestos  establecidos  por  las  respectivas administraciones, dentro  de  las  horas habilitadas por ellas.\n\ne) Policía de prevención y represión del contrabando, de migraciones y sanitaria fuera de los  lugares señalados en el inciso d), como así también dentro de ellos, pero  fuera  de  los  horarios establecidos  por  las respectivas  administraciones  cuando  se le delegue.\n\nf)  Intervenir  en  el  restablecimiento  del  orden  y tranquilidad pública fuera  de su jurisdicción cuando así lo disponga  el  Poder Ejecutivo.\n\ng) Toda otra función  que  se  le  asigne  conforme  a  su  misión y capacidades."
+              "texto": "ARTICULO 10.- Dentro de su jurisdicción territorial cumplirá las siguientes funciones: .\n\na) Policía de seguridad de la navegación y de cumplimiento de convenios internacionales sobre navegación.\n\nb) Policía de seguridad y judicial en las aguas navegables y puertos nacionales.\n\nc) Policía de seguridad y judicial en los delitos de competencia federal.\n\nd) Policía auxiliar aduanera, de migraciones y sanitaria, donde haya autoridad o puestos establecidos por las respectivas administraciones, dentro de las horas habilitadas por ellas.\n\ne) Policía de prevención y represión del contrabando, de migraciones y sanitaria fuera de los lugares señalados en el inciso d), como así también dentro de ellos, pero fuera de los horarios establecidos por las respectivas administraciones cuando se le delegue.\n\nf) Intervenir en el restablecimiento del orden y tranquilidad pública fuera de su jurisdicción cuando así lo disponga el Poder Ejecutivo.\n\ng) Toda otra función que se le asigne conforme a su misión y capacidades."
             },
             {
               "numero-articulo": 11,
-              "texto": "ARTICULO  11.-  La Prefectura Naval Argentina depende del Comando en Jefe de la Armada.  En  caso  de conmoción interior todos o parto de sus efectivos podrán ponerse a  disposición  del  o  los comandos de Zona de Emergencia respectivos."
+              "texto": "ARTICULO 11.- La Prefectura Naval Argentina depende del Comando en Jefe de la Armada. En caso de conmoción interior todos o parto de sus efectivos podrán ponerse a disposición del o los comandos de Zona de Emergencia respectivos."
             }
           ]
         },
@@ -201,20 +208,48 @@
           "titulo-particion": "POLICIA FEDERAL",
           "articulo": [
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 17-06-2025) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000383 2025 06 16 0013 000 0000 000"
+                }
+              },
               "numero-articulo": 12,
-              "texto": "ARTICULO  12.-  La  Policía  Federal es una institución de seguridad pública que cumple funciones de  policía  de seguridad y judicial en la jurisdicción territorial que le asigna la  presente  ley,  dentro de la competencia del Gobierno Federal."
+              "texto": "ARTICULO 12.- NOTA DE REDACCION: DEROGADO POR DECRETO 383/25.\n\nLa Policía Federal es una institución de seguridad pública que cumple funciones de policía de seguridad y judicial en la jurisdicción territorial que le asigna la presente ley, dentro de la competencia del Gobierno Federal."
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 17-06-2025) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000383 2025 06 16 0013 000 0000 000"
+                }
+              },
               "numero-articulo": 13,
-              "texto": "ARTICULO  13.-  La  Policía  Federal  actuará dentro de la siguiente jurisdicción territorial:\n\na)  En  la  Capital  Federal,  excluida  su  zona   portuaria.  b)  En  el  territorio  de  las  provincias,  excepto  las zonas  de seguridad de  frontera  y aquellas que oportunamente se determinen.\n\nc) En cualquier otro lugar  del  país a requerimiento de la Justicia Federal."
+              "texto": "ARTICULO 13.- NOTA DE REDACCION: DEROGADO POR DECRETO 383/25.\n\nLa Policía Federal actuará dentro de la siguiente jurisdicción territorial: .\n\na) En la Capital Federal, excluida su zona portuaria.\n\nb) En el territorio de las provincias, excepto las zonas de seguridad de frontera y aquellas que oportunamente se determinen.\n\nc) En cualquier otro lugar del país a requerimiento de la Justicia Federal."
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 17-06-2025) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000383 2025 06 16 0013 000 0000 000"
+                }
+              },
               "numero-articulo": 14,
-              "texto": "ARTICULO  14.-  Dentro  de  su jurisdicción territorial cumplirá las siguientes funciones:\n\na) Policía de seguridad y judicial  en  la Capital Federal, excluida la zona portuaria.\n\nb) En las provincias, policía de seguridad  y  judicial  en el fuero federal.\n\nc)  Toda  otra  función  que se le asigne conforme a sus capacidades"
+              "texto": "ARTICULO 14.- NOTA DE REDACCION: DEROGADO POR DECRETO 383/25.\n\nDentro de su jurisdicción territorial cumplirá las siguientes funciones: .\n\na) Policía de seguridad y judicial en la Capital Federal, excluida la zona portuaria.\n\nb) En las provincias, policía de seguridad y judicial en el fuero federal.\n\nc) Toda otra función que se le asigne conforme a sus capacidades"
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 17-06-2025) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000383 2025 06 16 0013 000 0000 000"
+                }
+              },
               "numero-articulo": 15,
-              "texto": "ARTICULO   15.-  La  Policía  Federal  depende  del  Ministerio  del Interior. En  caso  de  conmoción  interior,  todos  o  parte de sus efectivos podrán ponerse a disposición de los comandos de  Zonas  de Emergencia respectivos."
+              "texto": "ARTICULO 15.- NOTA DE REDACCION: DEROGADO POR DECRETO 383/25.\n\nLa Policía Federal depende del Ministerio del Interior. En caso de conmoción interior, todos o parte de sus efectivos podrán ponerse a disposición de los comandos de Zonas de Emergencia respectivos."
             }
           ]
         },
@@ -223,7 +258,7 @@
           "articulo": [
             {
               "numero-articulo": 16,
-              "texto": "*ARTICULO  16.-  La Policía de Seguridad Aeroportuaria cumple sus funciones en aeropuertos y aeródromos del Sistema Nacional de Aeropuertos, de acuerdo a la jurisdicción y competencia establecida en la ley de Seguridad Aeroportuaria.",
+              "texto": "*ARTICULO 16.- La Policía de Seguridad Aeroportuaria cumple sus funciones en aeropuertos y aeródromos del Sistema Nacional de Aeropuertos, de acuerdo a la jurisdicción y competencia establecida en la ley de Seguridad Aeroportuaria.",
               "modificado-por": {
                 "referencia-normativa": {
                   "cr": "(B.O. 22-06-2006) ARTICULO SUSTITUIDO",
@@ -234,11 +269,11 @@
             },
             {
               "numero-articulo": 17,
-              "texto": "ARTICULO  17.-  Quedan excluidos de las jurisdicciones territoriales determinadas en la presente ley, los lugares sometidos a jurisdicción militar."
+              "texto": "ARTICULO 17.- Quedan excluidos de las jurisdicciones territoriales determinadas en la presente ley, los lugares sometidos a jurisdicción militar."
             },
             {
               "numero-articulo": 18,
-              "texto": "*ARTICULO    18.-  Será obligatoria la cooperación y actuación supletoria entre Gendarmería Nacional, Prefectura Naval Argentina, Policía Federal y Policía de Seguridad Aeroportuaria, como igualmente cualquier otro organismo nacional que ejerza funciones policiales análogas. Dicha cooperación deberá materializarse respetando la titularidad jurisdiccional de cada una de estas instituciones u organismos.",
+              "texto": "*ARTICULO 18.- Será obligatoria la cooperación y actuación supletoria entre Gendarmería Nacional, Prefectura Naval Argentina, Policía Federal y Policía de Seguridad Aeroportuaria, como igualmente cualquier otro organismo nacional que ejerza funciones policiales análogas. Dicha cooperación deberá materializarse respetando la titularidad jurisdiccional de cada una de estas instituciones u organismos.",
               "modificado-por": {
                 "referencia-normativa": {
                   "cr": "(B.O. 22-06-2006) ARTICULO SUSTITUIDO",
@@ -249,31 +284,39 @@
             },
             {
               "numero-articulo": 19,
-              "texto": "ARTICULO  19.-  Efectivos  de  cualesquiera  de  los  organismos  de seguridad podrá  actuar en jurisdicción de las otras en persecución de delincuentes, sospechosos  de  delitos  e  infractores, o para la realización  de diligencias urgentes relacionadas  con  su  función, debiendo darse conocimiento a la autoridad policial correspondiente.\n\nAnálogas obligaciones  y  facultades  regirán  con  respecto  a  las policías de  provincia,  con sujeción a los convenios existentes en la actualidad o que se acuerden en adelante."
+              "texto": "ARTICULO 19.- Efectivos de cualesquiera de los organismos de seguridad podrá actuar en jurisdicción de las otras en persecución de delincuentes, sospechosos de delitos e infractores, o para la realización de diligencias urgentes relacionadas con su función, debiendo darse conocimiento a la autoridad policial correspondiente.\n\nAnálogas obligaciones y facultades regirán con respecto a las policías de provincia, con sujeción a los convenios existentes en la actualidad o que se acuerden en adelante."
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 17-06-2025) ARTICULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000383 2025 06 16 0013 000 0000 000"
+                }
+              },
               "numero-articulo": 20,
-              "texto": "ARTICULO  20.- En las capitales de provincias y en la del Territorio Nacional de  la  Tierra  del  Fuego, Antártida e Islas del Atlántico Sud, la Policía Federal podrá destacar  delegaciones  a  efectos del intercambio permanente de informaciones entre todas las instituciones policiales nacionales y provinciales."
+              "texto": "ARTICULO 20.- NOTA DE REDACCION: DEROGADO POR DECRETO 383/25.\n\nEn las capitales de provincias y en la del Territorio Nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sud, la Policía Federal podrá destacar delegaciones a efectos del intercambio permanente de informaciones entre todas las instituciones policiales nacionales y provinciales."
             },
             {
               "numero-articulo": 21,
-              "texto": "ARTICULO  21.-El Poder Ejecutivo determinará los límites geográficos de las jurisdicciones  territoriales  correspondientes a cada uno de los  organismos de  seguridad, a que se refiere  la  presente  ley."
+              "texto": "ARTICULO 21.-El Poder Ejecutivo determinará los límites geográficos de las jurisdicciones territoriales correspondientes a cada uno de los organismos de seguridad, a que se refiere la presente ley."
             },
             {
               "numero-articulo": 22,
-              "texto": "ARTICULO  22.-  Dentro  de  los NOVENTA (90) días, el Ministerio del Interior y los  Comandos  en  Jefe   del  Ejército  y  la  Armada, propondrán  los nuevos instrumentos  legales  y/o  normativos  que correspondan  para ajustar, a los fines de  la  presente  ley,  las leyes orgánicas y su respectiva reglamentación, reglamentos propios de cada fuerza de seguridad, equipamiento,  despliegue y además, en su oportunidad, toda otra medida que resulte necesaria."
+              "texto": "ARTICULO 22.- Dentro de los NOVENTA (90) días, el Ministerio del Interior y los Comandos en Jefe del Ejército y la Armada, propondrán los nuevos instrumentos legales y/o normativos que correspondan para ajustar, a los fines de la presente ley, las leyes orgánicas y su respectiva reglamentación, reglamentos propios de cada fuerza de seguridad, equipamiento, despliegue y además, en su oportunidad, toda otra medida que resulte necesaria."
             },
             {
               "numero-articulo": 23,
-              "texto": "ARTICULO  23.-Comuníquese,  publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+              "texto": "ARTICULO 23.-Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
             }
           ],
           "firmantes": {
-            "firmantes": "GNAVI - LANUSSE - REY - Cáceres Monié"
+            "firmantes": "GNAVI-LANUSSE-REY-Cáceres Monié"
           }
         }
       ],
-      "id-infojus": "LNS0000934"
+      "id-infojus": "LNS0000934",
+      "fecha-umod": 20250617115518
     }
   }
 }
