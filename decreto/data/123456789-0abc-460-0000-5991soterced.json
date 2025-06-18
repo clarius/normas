@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-460-0000-5991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410990156302,
+      "timestamp": 1750269968368,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,7 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 64,
-      "timestamp-m": "2012-04-16T10:40:26",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -47,10 +46,13 @@
       "lugar-emision": "BUENOS AIRES",
       "nombre-coloquial": "DECRETO NACIONAL 64/1995",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1995-04-05",
-      "fecha-mod": "2012-04-16",
-      "uid-alta": "SAUID",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-06-18",
+      "fecha-mod": "2025-06-18",
+      "timestamp": "2025-06-18T15:00:56",
+      "timestamp-alta": "2025-06-18T15:00:56",
+      "timestamp-m": "2025-06-18T15:00:56",
       "generalidades": {
         "sintesis": "SE MODIFICA EL DECRETO 395/75, QUE REGLAMENTARA LA LEY NACIONAL DE ARMAS Y EXPLOSIVOS N. 20.429."
       },
@@ -72,31 +74,34 @@
               "termino": "registro nacional de armas"
             },
             "preferido": {
-              "termino": "Defensa nacional/armas/registro de armas/registro nacional de armas"
+              "termino": "Defensa y seguridad/armas/registro de armas/registro nacional de armas"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": "defensa nacional"
+            }
           },
           {
             "elegido": {
-              "termino": "Ministerio de Defensa"
+              "termino": "MINISTERIO DE DEFENSA"
             },
             "preferido": {
-              "termino": "Ministerio de Defensa"
+              "termino": "MINISTERIO DE DEFENSA"
             },
             "sinonimos": null
           }
         ],
         "suggest": {
           "termino": [
+            "defensa nacional (Defensa y seguridad)",
             "delitos contra la seguridad pública",
             "incendio y otros estragos",
             "Derecho penal",
             "tenencia ilegítima de armas",
-            "Defensa nacional",
+            "MINISTERIO DE DEFENSA",
             "registro nacional de armas",
             "armas",
-            "Ministerio de Defensa",
             "tenencia ilegítima de armas de guerra o materiales explosivos (tenencia ilegítima de armas)",
+            "Defensa y seguridad",
             "registro de armas"
           ]
         }
@@ -124,29 +129,43 @@
             }
           ]
         },
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que  con  intervención  del  REGISTRO  NACIONAL  DE  ARMAS  se sustanció expediente  vinculado  a la problemática de las armas de hombro de ánima estriada clasificadas  de guerra, y cuyo sistema de disparo es semiautomático.\n\nQue  en  dicha  clasificación  se  incluyen  carabinas  y  fusiles semiautomáticos de características eminentemente  deportivas, junto a  los llamados fusiles de asalto, subfusiles y en general,  simil pistolas ametralladoras o subametralladoras de tiro semiautomático  Que gran parte  de  este  tipo  de  materiales  responde  a un muy moderno diseño,  derivado  de  armas militares de tiro automático, cuyo  tratamiento no pudo ser tenido  acabadamente  en  cuenta  al dictarse la reglamentación que  a través del Decreto 395/75 del 20 de  febrero de 1975, se hiciera de  la Ley  Nacional  de  Armas  y Explosivos 20.429.\n\nQue  resulta  entonces  conveniente  adecuar  las  previsiones del citado Decreto a las nuevas necesidades, siguiendo la  opinión  en tal sentido  de las distintas fuerzas de seguridad y la más moderna doctrina del derecho comparado.\n\nQue deberán asimismo  contemplarse  necesariamente  aquellos casos de excepción  cuando  los  materiales  respondan  a probados  usos deportivos u otras razones valederas.\n\nQue  resulta  necesario  contar  con  un  fluido  método  en    la implementación  de  los  recaudos a cumplir por los usuarios, en la registración de las armas  de fuego y según su categorización legal  Que el presente se dicta conforme  las facultades otorgadas por el artículo 99 incisos 1 y 2 de la CONSTITUCION NACIONAL."
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que con intervención del REGISTRO NACIONAL DE ARMAS se sustanció expediente vinculado a la problemática de las armas de hombro de ánima estriada clasificadas de guerra, y cuyo sistema de disparo es semiautomático.\n\nQue en dicha clasificación se incluyen carabinas y fusiles semiautomáticos de características eminentemente deportivas, junto a los llamados fusiles de asalto, subfusiles y en general, simil pistolas ametralladoras o subametralladoras de tiro semiautomático  Que gran parte de este tipo de materiales responde a un muy moderno diseño, derivado de armas militares de tiro automático, cuyo tratamiento no pudo ser tenido acabadamente en cuenta al dictarse la reglamentación que a través del Decreto 395/75 del 20 de febrero de 1975, se hiciera de la Ley Nacional de Armas y Explosivos 20.429.\n\nQue resulta entonces conveniente adecuar las previsiones del citado Decreto a las nuevas necesidades, siguiendo la opinión en tal sentido de las distintas fuerzas de seguridad y la más moderna doctrina del derecho comparado.\n\nQue deberán asimismo contemplarse necesariamente aquellos casos de excepción cuando los materiales respondan a probados usos deportivos u otras razones valederas.\n\nQue resulta necesario contar con un fluido método en la implementación de los recaudos a cumplir por los usuarios, en la registración de las armas de fuego y según su categorización legal  Que el presente se dicta conforme las facultades otorgadas por el artículo 99 incisos 1 y 2 de la CONSTITUCION NACIONAL."
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "Art.  1.- Prohíbese a los legítimos usuarios de armas de fuego la adquisición  y tenencia de armas semiautomáticas alimentadas con cargadores de quita y pon simil fusiles, carabinas o subametralladoras  de  asalto  derivadas de armas de uso militar de calibre superior al .22 LR."
+          "texto": "Art. 1.- Establécese un régimen de autorización especial para los actos de adquisición y tenencia de armas semiautomáticas alimentadas con cargadores de quita y pon símil fusiles, carabinas o subametralladoras de asalto derivadas de armas de uso militar de calibre superior al .22 LR, peticionados por los legítimos usuarios de armas de fuego.\n\nLa AGENCIA NACIONAL DE MATERIALES CONTROLADOS (ANMAC), organismo descentralizado actuante en la órbita del MINISTERIO DE SEGURIDAD NACIONAL, tendrá a su cargo la aplicación del régimen de control especial.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 18/6/2025) ARTICULO SUSTITUIDO A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000397 2025 06 17 0001 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 2,
-          "texto": "Art.  2.-  (Nota de redacción) Sustitúyese  el párrafo primero del  inciso  1) ARMAS  DE  USO  EXCLUSIVO  PARA  LAS  INSTITUCIONES ARMADAS, del artículo 4 del Decreto 395/75."
+          "texto": "Art. 2.- (Nota de redacción) Sustitúyese el párrafo primero del inciso 1) ARMAS DE USO EXCLUSIVO PARA LAS INSTITUCIONES ARMADAS, del artículo 4 del Decreto 395/75."
         },
         {
           "numero-articulo": 3,
-          "texto": "Art. 3.- Cuando existieren fundadas razones que lo justifiquen, el MINISTERIO  DE  DEFENSA  a  propuesta  del  REGISTRO NACIONAL DE ARMAS, podrá autorizar a legítimos usuarios de Armas  de  Uso Civil Condicional,  la tenencia de armas semiautomáticas alimentadas  con cargadores de quita y pon simil fusiles, carabinas o subametralladoras  de  asalto  derivadas de armas de uso militar de calibre superior al .22 LR."
+          "texto": "Art. 3.- La AGENCIA NACIONAL DE MATERIALES CONTROLADOS (ANMAC), organismo descentralizado actuante en la órbita del MINISTERIO DE SEGURIDAD NACIONAL, podrá autorizar a legítimos usuarios de armas de Uso Civil Condicional la adquisición y tenencia de armas semiautomáticas alimentadas con cargadores de quita y pon símil fusiles, carabinas o subametralladoras de asalto derivadas de armas de uso militar de calibre superior al .22 LR.\n\nA tal efecto, los referidos legítimos usuarios deberán acreditar probados usos deportivos y las demás condiciones objetivas que al efecto establezca la AGENCIA NACIONAL DE MATERIALES CONTROLADOS (ANMAC).",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 18/6/2025) ARTICULO SUSTITUIDO A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000397 2025 06 17 0002 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 4,
-          "texto": "Art.  4.-  A  los  usuarios  de Armas de Uso Civil Condicional debidamente registrados ante el REGISTRO  NACIONAL  DE ARMAS, que a la  fecha del presente tuvieren otorgada tenencia sobre  materiales de los  expresados  en  el artículo  anterior,  se  los tendrá por legítimos  tenedores mientras  el mismo  permanezca en su  poder."
+          "texto": "Art. 4.- A los usuarios de Armas de Uso Civil Condicional debidamente registrados ante el REGISTRO NACIONAL DE ARMAS, que a la fecha del presente tuvieren otorgada tenencia sobre materiales de los expresados en el artículo anterior, se los tendrá por legítimos tenedores mientras el mismo permanezca en su poder."
         },
         {
           "numero-articulo": 5,
-          "texto": "Art. 5.- El MINISTERIO DE DEFENSA, a través de su Organismo de aplicación,  el  REGISTRO  NACIONAL  DE  ARMAS,  deberá  fijar  los recaudos  registrales que  deban  cumplir  los  Legítimos Usuarios según  su  categoría  y  el  tipo de material cuya registración  se solicite,  respetando la correspondiente clasificación  legal,  ya sea de uso Civil o de Uso Civil Condicional."
+          "texto": "Art. 5.- El MINISTERIO DE DEFENSA, a través de su Organismo de aplicación, el REGISTRO NACIONAL DE ARMAS, deberá fijar los recaudos registrales que deban cumplir los Legítimos Usuarios según su categoría y el tipo de material cuya registración se solicite, respetando la correspondiente clasificación legal, ya sea de uso Civil o de Uso Civil Condicional."
         },
         {
           "numero-articulo": 6,
@@ -156,7 +175,8 @@
       "firmantes": {
         "firmantes": "MENEM - CAMILION"
       },
-      "id-infojus": "DN19950000064"
+      "id-infojus": "DN19950000064",
+      "fecha-umod": 20250618150608
     }
   }
 }
