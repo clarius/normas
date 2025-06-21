@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g78-61000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413584385684,
+      "timestamp": 1750172123416,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,20 +16,12 @@
     },
     "content": {
       "mecanografico": "S0001687",
-      "decreto-reglamentario": {
-        "referencia-normativa": {
-          "cr": "(B.O. 31/07/1958)",
-          "id": "DECRETO_REGLAMENTARIO_0",
-          "ref": "DEC C 006580 1958 04 30 0000 000 0000 000"
-        }
-      },
-      "numero-norma": 333,
-      "timestamp": "2013-01-19T18:52:35",
-      "timestamp-m": "2013-01-19T18:52:35",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "DLE",
         "texto": "Decreto Ley"
       },
+      "numero-norma": 333,
       "fecha": "1958-01-14",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -38,6 +30,7 @@
         "id-pais": 11
       },
       "standard-normativo": "DLE C 000333 1958 01 14",
+      "nombre-coloquial": "DECRETO LEY 333/1958",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "DECRETO LEY 333/58",
@@ -45,6 +38,8 @@
           "BUENOS AIRES, 14 DE ENERO DE 1958"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
+      "ratificado-por": "RATIFICADO POR LEY 14.467",
       "titulo-norma": "LEY ORGANICA DE LA POLICIA FEDERAL.",
       "publicacion-codificada": {
         "publicacion-decodificada": {
@@ -52,21 +47,26 @@
           "fecha": "1958 01 30"
         }
       },
-      "publicacion-privada": "ADLA                                                  A001819580046",
-      "sancion": "El  presidente  provisional de la Nación Argentina, en ejercicio del Poder Legislativo. DECRETA CON FUERZA DE LEY:",
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "(B.O. 31/07/1958)",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 006580 1958 04 30 0000 000 0000 000"
+        }
+      },
+      "sancion": "El presidente provisional de la Nación Argentina, en ejercicio del Poder Legislativo. DECRETA CON FUERZA DE LEY:",
       "anexos-ley": {
         "anexo-ley": "A ESTATUTO"
       },
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO LEY 333/1958",
-      "ratificado-por": "RATIFICADO POR LEY 14.467",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-22",
-      "fecha-mod": "2013-01-19",
-      "uid-mod": "SASAIJ",
-      "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 3 OBSERVACION RATIFICADO POR LEY 14467 BO 29/9/58"
-      },
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-06-17",
+      "fecha-mod": "2025-06-17",
+      "timestamp": "2025-06-17T11:33:10",
+      "timestamp-alta": "2025-06-17T11:33:10",
+      "timestamp-m": "2025-06-17T11:33:10",
       "sumario": {
         "sumario": "DEFENSA Y SEGURIDAD-FUERZAS POLICIALES-POLICIA FEDERAL PERSONAL POLICIAL-Aprobación del Estatuto de la Policía Federal-"
       },
@@ -74,10 +74,10 @@
         "descriptor": [
           {
             "elegido": {
-              "termino": "Ley Orgánica de la Policía Federal"
+              "termino": "LEY ORGÁNICA DE LA POLICÍA FEDERAL"
             },
             "preferido": {
-              "termino": "Ley Orgánica de la Policía Federal"
+              "termino": "LEY ORGÁNICA DE LA POLICÍA FEDERAL"
             },
             "sinonimos": null
           },
@@ -86,11 +86,12 @@
               "termino": "fuerzas de seguridad"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "personal de seguridad"
               ]
             }
@@ -100,11 +101,12 @@
               "termino": "policía federal"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/policía federal"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía federal"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "Policía Federal Argentina",
                 "personal de seguridad"
               ]
@@ -115,11 +117,12 @@
               "termino": "jefe de policía"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/personal policial/jefe de policía"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/personal policial/jefe de policía"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "funcionario policial",
                 "personal de seguridad"
               ]
@@ -130,11 +133,12 @@
               "termino": "estado mayor policial"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/personal policial/estado mayor policial"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/personal policial/estado mayor policial"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "funcionario policial",
                 "personal de seguridad"
               ]
@@ -144,33 +148,37 @@
         "suggest": {
           "termino": [
             "personal policial",
+            "defensa nacional (Defensa y seguridad)",
             "Policía Federal Argentina (policía federal)",
-            "Defensa nacional",
             "personal de seguridad (fuerzas de seguridad)",
+            "Defensa y seguridad",
             "fuerzas de seguridad",
             "jefe de policía",
             "funcionario policial (personal policial)",
             "seguridad pública",
+            "LEY ORGÁNICA DE LA POLICÍA FEDERAL",
             "policía federal",
-            "Ley Orgánica de la Policía Federal",
             "seguridad nacional (seguridad pública)",
             "policía",
             "estado mayor policial"
           ]
         }
       },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 3.\n\nOBSERVACION: RATIFICADO POR LEY 14467 BO 29/9/58.\n\nOBSERVACION: Decreto Ley Derogado por art 13 del Decreto 383/25 (B.O. 17/6/2025)."
+      },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTICULO  1.  - Apruébase como Ley Orgánica para la Policía Federal, el proyecto elevado  por  el  Ministerio  del  Interior  -  Policía Federal."
+          "texto": "ARTICULO 1. - Apruébase como Ley Orgánica para la Policía Federal, el proyecto elevado por el Ministerio del Interior - Policía Federal."
         },
         {
           "numero-articulo": 2,
-          "texto": "ARTICULO  2.  -  El  presente  decreto-ley  será  refrendado por el Excelentísimo  señor Vicepresidente Provisional de  la Nación, y por los señores Ministros Secretarios de Estado en los Departamentos  de Guerra, de Marina, de Aeronáutica y de Interior."
+          "texto": "ARTICULO 2. - El presente decreto-ley será refrendado por el Excelentísimo señor Vicepresidente Provisional de la Nación, y por los señores Ministros Secretarios de Estado en los Departamentos de Guerra, de Marina, de Aeronáutica y de Interior."
         },
         {
           "numero-articulo": 3,
-          "texto": "ARTICULO  3.  - Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial y archívese."
+          "texto": "ARTICULO 3. - Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial y archívese."
         }
       ],
       "firmantes": {
@@ -178,8 +186,8 @@
       },
       "anexo": {
         "anexo": "A",
-        "titulo-anexo": "ANEXO   A-DEFENSA  Y  SEGURIDAD-FUERZAS  POLICIALES-POLICIA  FEDERAL PERSONAL POLICIAL- Estatuto de la Policía Federal- ESTATUTO DE LA POLICIA FEDERAL",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 0103 TEXTO ART 3 CONFORME MODIFICACION (INCISO 7 INCORPORADO) POR ART 1 DL 6076/58 TEXTO ART 5 CONFORME MODIFICACION (PRIMER INCISO SUSTITUIDO) POR ART 1 LEY 23950 (B.O. 11-9-91) TEXTO ART 12 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71); CONFORME MODIFICACION POR ART 1 INCISO A LEY 21215 (B.O. 03/11/75) TEXTO ART 13 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 14 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 15 CONFORME SUSTITUCION POR ART 1 LEY 20662 (B.O. 13/05/74) TEXTO ART 16 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 17 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 18 CONFORME SUSTITUCION POR ART 2 LEY 19291 (B.O. 18/10/71) TEXTO ART 19 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 20 CONFORME SUSTITUCION POR ART 1 LEY 20090 (B.O. 22/01/73) TEXTO ART 21 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 22 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 23 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 24 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 25 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 26 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 27 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 27 BIS INCORPORADO POR ART 8 LEY 20952 (B.O. 24/01/75) TEXTO ART 28 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 29 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) TEXTO ART 30 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) DEROGADO ART 31 POR ART 124 LEY 21965 (B.O. 02/04/79) TEXTO ART 31 BIS CONFORME INCORPORACION POR ART 1 LEY 21215 (B.O. 3-1-75) DEROGA ART 31 BIS POR ART 124 LEY 21965 (B.O. 02/04/79) DEROGA ART 32 POR ART 2 LEY 18894 (B.O. 04/02/71) DEROGA ARTS. 33/101 POR ART 124 LEY 21965 (B.O. 02/04/79) ANTECEDENTES ART 13 SUSTITUIDO POR ART 1 DECRETO LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20/10/69) ANTECEDENTES ART 14 SUSTITUIDO POR ART 1 DECRETO-LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20/10/69) ANTECEDENTES ART 15 SUSTITUIDO POR ART 1 DECRETO LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20/10/69); SUSTITUIDO POR ART 1 LEY 18894 (B.O. 04/02/71); SUSTITUIDO POR ART 1 LEY 20662 (B.O. 13-5-74-) ANTECEDENTES ART 16 SUSTITUIDO POR ART 1 DECRETO LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20-10-69) ANTECEDENTES ART 18 SUSTITUIDO POR ART 1 DECRETO LEY 2333/63 (B.O. 01/04/63); SUSTITUIDO OPOR ART 1 LEY 18894 (B.O. 04/02/71) ANTECEDENTES ART 19 SUSTITUIDO POR ART 1 DECRETO LEY 2333/63 (B.O. 01/04/63) SUSTITUIDO POR ART 1 DECRETO LEY 4722/63 (B.O. 17/06/63) ANTECEDENTES ART 20 SUSTITUIDO POR ART 1 LEY 18894 (B.O. 04/02/71) ANTECEDENTES ART 31 SUSTITUIDO POR ART 1 LEY 18894 (B.O. 04/02/71) ANTECEDENTES ART 33 SUSTITUIDO POR ART 1 LEY 19254 (B.O. 30/09/71); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 38 MODIFICADO POR ART 1 LEY 19141 (B.O. 03/08/71); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 39 SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 40 SUSTITUIDO POR ART 1 LEY 20038 (B.O. 03/01/73) ANTECEDENTES ART 50 SUSTITUIDO POR ART 1 LEY 20038 (B.O. 03/01/73); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 61 SUSTITUIDO POR ART 1 LEY 19075 (B.O. 17/06/71); SUSTITUIDO POR ART 1 LEY 20218 (B.O. 23/03/73) ANTECEDENTES ART 72 SUSTITUIDO POR ART 1 LEY 16791 (B.O. 09/12/65); SUSTITUIDO POR ART 1 LEY 19965 (B.O. 29/11/72); SUSTITUIDO POR ART 1 LEY 20231 (B.O. 30/03/73) ANTECEDENTES ART 73 SUSTITUIDO POR ART 1 LEY 20231 (B.O. 30/03/73); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 76 MODIFICADO (INCISO B) DEROGADO) POR ART DECRETO LEY 6076/58; MODIFICADO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 78 SUSTITUIDO POR ART 2 LEY 20090 (B.O. 22/01/73) ANTECEDENTES ART 81 SUSTITUIDO POR ART 2 DECRETO LEY 6076/58 ANTECEDENTES ART 82 SUSTITUIDO POR ART 2 LEY 16791 (B.O. 09/12/65); SUSTITUIDO POR ART 2 LEY 19965 (B.O. 29/11/72); MODIFICADO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 84 MODIFICADO (INCISO 2 SUSTITUIDO) POR ART DECRETO LEY 6076/58; SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 85 SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 86 SUSTITUIDO POR ART 3 LEY 16791 (B.O. 09/12/65) ANTECEDENTES ART 87 SUSTITUIDO POR ART 2 DECRETO LEY 6076/58; SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECDENTES ART 88/98 FUERON OBSERVADOS POR ART 1 LEY 18209 (B.O. 19-5-69) ANTECEDENTES ART 94 MODIFICADO (INCISO 10 SUSTITUIDO) POR ART  DECRETO LEY 5556/63 (B.O. 17/07/63) ANTECEDENTES ART 94 MODIFICADO (INCISOS 1/3 SUSTITUIDOS) POR ART LEY 18857 (B.O. 14/12/70) ANTECEDENTES ART 98 MODIFICADO (INCISO 3 DEROGADO) POR ART DECRETO LEY 6076/58; SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) ANTECEDENTES ART 99 INCORPORADO POR ART 3 DECRETO LEY 6076/58  ANTECEDENTES ART 100 INCORPORADO POR ART 3 DECRETO LEY 6076/58 ANTECEDENTES ART 101 INCORPORADO POR ART 5 DECRETO LEY 6076/58",
+        "titulo-anexo": "ANEXO A-DEFENSA Y SEGURIDAD-FUERZAS POLICIALES-POLICIA FEDERAL PERSONAL POLICIAL- Estatuto de la Policía Federal- ESTATUTO DE LA POLICIA FEDERAL",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 103 .\n\nTEXTO ART 3 CONFORME MODIFICACION (INCISO 7 INCORPORADO) POR ART 1 DL 6076/58 .\n\nTEXTO ART 5 CONFORME MODIFICACION (PRIMER INCISO SUSTITUIDO) POR ART 1 LEY 23950 (B.O. 11-9-91) .\n\nTEXTO ART 12 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71); CONFORME MODIFICACION POR ART 1 INCISO A LEY 21215 (B.O. 03/11/75) .\n\nTEXTO ART 13 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 14 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 15 CONFORME SUSTITUCION POR ART 1 LEY 20662 (B.O. 13/05/74) .\n\nTEXTO ART 16 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 17 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 18 CONFORME SUSTITUCION POR ART 2 LEY 19291 (B.O. 18/10/71) .\n\nTEXTO ART 19 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 20 CONFORME SUSTITUCION POR ART 1 LEY 20090 (B.O. 22/01/73) .\n\nTEXTO ART 21 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 22 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 23 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 24 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 25 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 26 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 27 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 27 BIS INCORPORADO POR ART 8 LEY 20952 (B.O. 24/01/75).\n\nTEXTO ART 28 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 29 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nTEXTO ART 30 CONFORME SUSTITUCION POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nDEROGADO ART 31 POR ART 124 LEY 21965 (B.O. 02/04/79) TEXTO ART 31 BIS CONFORME INCORPORACION POR ART 1 LEY 21215 (B.O. 3-1-75) .\n\nDEROGA ART 31 BIS POR ART 124 LEY 21965 (B.O. 02/04/79) .\n\nDEROGA ART 32 POR ART 2 LEY 18894 (B.O. 04/02/71) .\n\nDEROGA ARTS. 33/101 POR ART 124 LEY 21965 (B.O. 02/04/79).\n\nANTECEDENTES ART 13 SUSTITUIDO POR ART 1 DECRETO LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20/10/69) .\n\nANTECEDENTES ART 14 SUSTITUIDO POR ART 1 DECRETO-LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20/10/69).\n\nANTECEDENTES ART 15 SUSTITUIDO POR ART 1 DECRETO LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20/10/69); SUSTITUIDO POR ART 1 LEY 18894 (B.O. 04/02/71); SUSTITUIDO POR ART 1 LEY 20662 (B.O. 13-5-74-) .\n\nANTECEDENTES ART 16 SUSTITUIDO POR ART 1 DECRETO LEY 9937/62 (B.O. 02/10/62); SUSTITUIDO POR ART 1 LEY 18403 (B.O. 20-10-69) .\n\nANTECEDENTES ART 18 SUSTITUIDO POR ART 1 DECRETO LEY 2333/63 (B.O. 01/04/63); SUSTITUIDO OPOR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nANTECEDENTES ART 19 SUSTITUIDO POR ART 1 DECRETO LEY 2333/63 (B.O. 01/04/63) SUSTITUIDO POR ART 1 DECRETO LEY 4722/63 (B.O. 17/06/63) .\n\nANTECEDENTES ART 20 SUSTITUIDO POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nANTECEDENTES ART 31 SUSTITUIDO POR ART 1 LEY 18894 (B.O. 04/02/71) .\n\nANTECEDENTES ART 33 SUSTITUIDO POR ART 1 LEY 19254 (B.O. 30/09/71); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 38 MODIFICADO POR ART 1 LEY 19141 (B.O. 03/08/71); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 39 SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 40 SUSTITUIDO POR ART 1 LEY 20038 (B.O. 03/01/73) .\n\nANTECEDENTES ART 50 SUSTITUIDO POR ART 1 LEY 20038 (B.O. 03/01/73); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 61 SUSTITUIDO POR ART 1 LEY 19075 (B.O. 17/06/71); SUSTITUIDO POR ART 1 LEY 20218 (B.O. 23/03/73).\n\nANTECEDENTES ART 72 SUSTITUIDO POR ART 1 LEY 16791 (B.O. 09/12/65); SUSTITUIDO POR ART 1 LEY 19965 (B.O. 29/11/72); SUSTITUIDO POR ART 1 LEY 20231 (B.O. 30/03/73) .\n\nANTECEDENTES ART 73 SUSTITUIDO POR ART 1 LEY 20231 (B.O. 30/03/73); SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 76 MODIFICADO (INCISO B) DEROGADO) POR ART DECRETO LEY 6076/58; MODIFICADO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 78 SUSTITUIDO POR ART 2 LEY 20090 (B.O. 22/01/73) .\n\nANTECEDENTES ART 81 SUSTITUIDO POR ART 2 DECRETO LEY 6076/58 .\n\nANTECEDENTES ART 82 SUSTITUIDO POR ART 2 LEY 16791 (B.O. 09/12/65); SUSTITUIDO POR ART 2 LEY 19965 (B.O. 29/11/72); MODIFICADO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 84 MODIFICADO (INCISO 2 SUSTITUIDO) POR ART DECRETO LEY 6076/58; SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 85 SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 86 SUSTITUIDO POR ART 3 LEY 16791 (B.O. 09/12/65) .\n\nANTECEDENTES ART 87 SUSTITUIDO POR ART 2 DECRETO LEY 6076/58; SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECDENTES ART 88/98 FUERON OBSERVADOS POR ART 1 LEY 18209 (B.O. 19-5-69) .\n\nANTECEDENTES ART 94 MODIFICADO (INCISO 10 SUSTITUIDO) POR ART DECRETO LEY 5556/63 (B.O. 17/07/63) .\n\nANTECEDENTES ART 94 MODIFICADO (INCISOS 1/3 SUSTITUIDOS) POR ART LEY 18857 (B.O. 14/12/70) .\n\nANTECEDENTES ART 98 MODIFICADO (INCISO 3 DEROGADO) POR ART DECRETO LEY 6076/58; SUSTITUIDO POR ART 1 LEY 20387 (B.O. 30/05/73) .\n\nANTECEDENTES ART 99 INCORPORADO POR ART 3 DECRETO LEY 6076/58.\n\nANTECEDENTES ART 100 INCORPORADO POR ART 3 DECRETO LEY 6076/58 .\n\nANTECEDENTES ART 101 INCORPORADO POR ART 5 DECRETO LEY 6076/58",
         "segmento": [
           {
             "titulo-particion": "TITULO I Jurisdicción y dependencia",
@@ -189,7 +197,7 @@
                 "articulo": [
                   {
                     "numero-articulo": "A 0001",
-                    "texto": "ARTICULO  1.  -  La  policía  Federal cumple funciones de Policía de Seguridad y Judicial en el territorio  de  las  Provincias y Capital de la Nación, dentro de la jurisdicción del Gobierno  de  la  Nación"
+                    "texto": "ARTICULO 1. - La policía Federal cumple funciones de Policía de Seguridad y Judicial en el territorio de las Provincias y Capital de la Nación, dentro de la jurisdicción del Gobierno de la Nación"
                   },
                   {
                     "numero-articulo": "A 0002",
@@ -212,7 +220,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  2.  - Depende del PODER EJECUTIVO NACIONAL, por intermedio del MINISTERIO DE SEGURIDAD.",
+                    "texto": "*ARTICULO 2. - Depende del PODER EJECUTIVO NACIONAL, por intermedio del MINISTERIO DE SEGURIDAD.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "(B.O. 15-12-2010) ARTICULO SUSTITUIDO POR DECRETO DE NECESIDAD Y URGENCIA",
@@ -229,13 +237,13 @@
                   {
                     "referencias-normativas": {
                       "referencia-normativa": {
-                        "cr": "C3/4digo de Procedimiento Penal",
+                        "cr": "Código de Procedimiento Penal",
                         "id": "REFERENCIAS_NORMATIVAS_0",
                         "ref": "LEY C 002372 1888 10 04 0000 000 0000 000"
                       }
                     },
                     "numero-articulo": "A 0003",
-                    "texto": "*ARTICULO 3. - Son funciones de la Policía Federal:\n\n1.  -  Prevenir  los  delitos  de la competencia de los jueces de la Nación:\n\n2. - Averiguar los delitos de la  competencia  de  los  jueces de la Nación, practicar   las  diligencias  para  asegurar  su  prueba, descubrir a los autores  y  partícipes, entregándolos a la justicia, con los deberes y atribuciones  que  a la policía confiere el Código de Procedimientos en lo Criminal:\n\n3. - Proveer a la seguridad de las personas  o  cosas  de la Nación, entendíendose  por  tales,  los  funcionarios,  empleados  y  bienes nacionales;\n\n4.  -  Concurrir  a  la  vigilancia  y  seguridad  policiales en las fronteras nacionales;\n\n5. - Cooperar con las autoridades militares en la defensa  antiaérea pasiva;\n\n6.  -  Cooperar  dentro  de  sus  posibilidades  con  las  justicias nacional, militar y provinciales para el mejor cumplimiento  de  la función jurisdiccional,    cuando    así  se  le  solicitare.  7.  -  \"Realizar las pericias que soliciten  los  tribunales  de  la Nación u otros  organismos  nacionales,  para  la  averiguación  de hechos  delictuosos y  otras  irregularidades,  siempre  que puedan cumplirse  en los laboratorios o gabinetes de la Policía Federal,  o por expertos de la misma, en los casos previstos en la reglamentación respectiva.\n\nLa designación  judicial  obrará  como suficiente titulo habilitante para todos los efectos legales\".",
+                    "texto": "*ARTICULO 3. - Son funciones de la Policía Federal:\n\n1. - Prevenir los delitos de la competencia de los jueces de la Nación:\n\n2. - Averiguar los delitos de la competencia de los jueces de la Nación, practicar las diligencias para asegurar su prueba, descubrir a los autores y partícipes, entregándolos a la justicia, con los deberes y atribuciones que a la policía confiere el Código de Procedimientos en lo Criminal:\n\n3. - Proveer a la seguridad de las personas o cosas de la Nación, entendíendose por tales, los funcionarios, empleados y bienes nacionales;\n\n4. - Concurrir a la vigilancia y seguridad policiales en las fronteras nacionales;\n\n5. - Cooperar con las autoridades militares en la defensa antiaérea pasiva;\n\n6. - Cooperar dentro de sus posibilidades con las justicias nacional, militar y provinciales para el mejor cumplimiento de la función jurisdiccional, cuando así se le solicitare.\n\n7. - \"Realizar las pericias que soliciten los tribunales de la Nación u otros organismos nacionales, para la averiguación de hechos delictuosos y otras irregularidades, siempre que puedan cumplirse en los laboratorios o gabinetes de la Policía Federal, o por expertos de la misma, en los casos previstos en la reglamentación respectiva.\n\nLa designación judicial obrará como suficiente titulo habilitante para todos los efectos legales\".",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Inciso 7) incorporado.",
@@ -246,11 +254,11 @@
                   },
                   {
                     "numero-articulo": "A 0004",
-                    "texto": "ARTICULO  4.  -  En  la  Capital Federal son funciones de la Policía Federal sin perjuicio de las  contenidas  en  el  Artículo  3,  Las siguientes 1. - Velar  por  el  mantenimiento del orden público y de las buenas costumbres garantizando  la tranquilidad de la población y reprimir el juego ílicito, todo ello  de acuerdo con las leyes, reglamentos y edictos respectivos;\n\n2. - Colaborar en la protección  de  los  menores  e incapaces en la forma  que las  leyes,  reglamentos  y  edictos  establezcan;  3. - Recoger las cosas perdidas y proceder con ellas  de acuerdo con las prescripciones del Código Civil;\n\n4.  -  Asegurar  los  bienes  dejados  por desaparición, demencia  o fallecimiento  del  propietario,  sin  derechohabientes   conocidos, dando inmediata intervención a la justicia."
+                    "texto": "ARTICULO 4. - En la Capital Federal son funciones de la Policía Federal sin perjuicio de las contenidas en el Artículo 3, Las siguientes 1. - Velar por el mantenimiento del orden público y de las buenas costumbres garantizando la tranquilidad de la población y reprimir el juego ílicito, todo ello de acuerdo con las leyes, reglamentos y edictos respectivos;\n\n2. - Colaborar en la protección de los menores e incapaces en la forma que las leyes, reglamentos y edictos establezcan;\n\n3. - Recoger las cosas perdidas y proceder con ellas de acuerdo con las prescripciones del Código Civil;\n\n4. - Asegurar los bienes dejados por desaparición, demencia o fallecimiento del propietario, sin derechohabientes conocidos, dando inmediata intervención a la justicia."
                   },
                   {
                     "numero-articulo": "A 0005",
-                    "texto": "*ARTICULO   5.-  Son  facultades  de  la  Policía  Federal  para  el cumplimiento de sus funciones:\n\n1.- Fuera de  los  casos establecidos en el Código de Procedimientos en Materia Penal, no  podrá detener a las personas sin orden de Juez competente. Sin embargo,  si  existiesen  circunstancias debidamente fundada que hagan presumir que alguien hubiese  cometido  o  pudiere cometer  algún  hecho  delictivo  o contravencional y no acreditase fehacientemente su identidad, podrá ser conducido  a la dependencia policial que correspondiese, con noticia al juez con  competencia en lo  correccional en turno y demorada por el tiempo mínimo necesario para  establecer  su  identidad, el que en ningún caso podrá exceder de diez horas. Se le permitirá  comunicarse  en  forma inmediata con un familiar  o  persona  de  su  confianza  a fin de informarle  su situación. Las personas demoradas para su identificación  no  podrán ser alojadas junto ni en los lugares destinados a los detenidos  por delitos o contravenciones.\n\n2.  -  Expedir  pasaportes,  así  como  también  todo  documento  de identidad  y  buena  conducta  para  los  lugares  de  jurisdicción nacional y para el extranjero;\n\n3. - Registrar  y calificar a las personas dedicadas habitualmente a una actividad que la policía debe reprimir;\n\n4. - Llevar registro  de vecindad en la Capital de la Nación; en las zonas de las fronteras  donde  no  sean organizados por otra policía nacional;  y, en el territorio de las  provincias,  en  los  lugares sujetos a la  jurisdicción nacional  y sus adyacencias, hasta donde sea  necesario  a  los  fines  de seguridad  de  los  mismos;  5. - Requerir de los jueces competentes de la Nación, autorizaciones  para allanamientos  domiciliarios    con  fines  de pesquisa,  detención    de personas  o  secuestros. La autorización judicial   no  será  necesario  para entrar  en    establecimientos públicos,  negocios    comercios,  locales, centros  de  reunión  o recreos, y demás lugares  abiertos  al  público,  y establecimientos industriales  y rurales en los que sólo se dará aviso  de atención.",
+                    "texto": "*ARTICULO 5.- Son facultades de la Policía Federal para el cumplimiento de sus funciones:\n\n1.- Fuera de los casos establecidos en el Código de Procedimientos en Materia Penal, no podrá detener a las personas sin orden de Juez competente. Sin embargo, si existiesen circunstancias debidamente fundada que hagan presumir que alguien hubiese cometido o pudiere cometer algún hecho delictivo o contravencional y no acreditase fehacientemente su identidad, podrá ser conducido a la dependencia policial que correspondiese, con noticia al juez con competencia en lo correccional en turno y demorada por el tiempo mínimo necesario para establecer su identidad, el que en ningún caso podrá exceder de diez horas. Se le permitirá comunicarse en forma inmediata con un familiar o persona de su confianza a fin de informarle su situación. Las personas demoradas para su identificación no podrán ser alojadas junto ni en los lugares destinados a los detenidos por delitos o contravenciones.\n\n2. - Expedir pasaportes, así como también todo documento de identidad y buena conducta para los lugares de jurisdicción nacional y para el extranjero;\n\n3. - Registrar y calificar a las personas dedicadas habitualmente a una actividad que la policía debe reprimir;\n\n4. - Llevar registro de vecindad en la Capital de la Nación; en las zonas de las fronteras donde no sean organizados por otra policía nacional; y, en el territorio de las provincias, en los lugares sujetos a la jurisdicción nacional y sus adyacencias, hasta donde sea necesario a los fines de seguridad de los mismos;\n\n5. - Requerir de los jueces competentes de la Nación, autorizaciones para allanamientos domiciliarios con fines de pesquisa, detención de personas o secuestros. La autorización judicial no será necesario para entrar en establecimientos públicos, negocios comercios, locales, centros de reunión o recreos, y demás lugares abiertos al público, y establecimientos industriales y rurales en los que sólo se dará aviso de atención.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "(B.O. 11-09-91). Inciso 1) sustituido.",
@@ -262,40 +270,40 @@
                   {
                     "referencias-normativas": {
                       "referencia-normativa": {
-                        "cr": "C3/4digo de Procedimiento Penal",
+                        "cr": "Código de Procedimiento Penal",
                         "id": "REFERENCIAS_NORMATIVAS_0",
                         "ref": "LEY C 002372 1888 10 04 0000 000 0000 000"
                       }
                     },
                     "numero-articulo": "A 0006",
-                    "texto": "ARTICULO  6.  -  En  la Capital Federal son facultades de la Policía Federal, sin perjuicio  de  las  enumeradas  en  el  Artículo 5, las siguientes:\n\n1.  -  Aplicar  los  edictos  policiales  dentro  de  la competencia asignada por  el  Código  de  Procedimientos  en lo Criminal;  2.  -  Conmutar y remitir total o parcialmente las  penas  impuestas por contravenciones;\n\n3. - Intervenir  en  el  ejercicio de las profesiones de corredor de hotel sereno y policía particular;\n\n4. - Intervenir en la venta  y  tenencia de armas y explosivos:\n\n5. - Intervenir en la realización  de  las  reuniones públicas en el modo  y extensión  que  determinan  las  leyes y reglamentos;  6. - Inspeccionar los registros de pasajeros  en  hoteles,  casas de hospedaje y de vecindad."
+                    "texto": "ARTICULO 6. - En la Capital Federal son facultades de la Policía Federal, sin perjuicio de las enumeradas en el Artículo 5, las siguientes:\n\n1. - Aplicar los edictos policiales dentro de la competencia asignada por el Código de Procedimientos en lo Criminal;\n\n2. - Conmutar y remitir total o parcialmente las penas impuestas por contravenciones;\n\n3. - Intervenir en el ejercicio de las profesiones de corredor de hotel sereno y policía particular;\n\n4. - Intervenir en la venta y tenencia de armas y explosivos:\n\n5. - Intervenir en la realización de las reuniones públicas en el modo y extensión que determinan las leyes y reglamentos;\n\n6. - Inspeccionar los registros de pasajeros en hoteles, casas de hospedaje y de vecindad."
                   },
                   {
                     "referencias-normativas": {
                       "referencia-normativa": {
-                        "cr": "C3/4digo de Procedimiento Penal",
+                        "cr": "Código de Procedimiento Penal",
                         "id": "REFERENCIAS_NORMATIVAS_0",
                         "ref": "LEY C 002372 1888 10 04 0000 000 0000 000"
                       }
                     },
                     "numero-articulo": "A 0007",
-                    "texto": "ARTICULO  7.  -  En  las actuaciones procesales levantadas fuera del asiento de los jueces  de la Nación, el funcionario instructor de la Policía Federal tendrá las atribuciones que el Código de Procedimientos en lo Criminal  para la Capital  Federal  otorga al juez para la instrucción de sumarios. Estas atribuciones cesarán  en cuanto se presente el juez."
+                    "texto": "ARTICULO 7. - En las actuaciones procesales levantadas fuera del asiento de los jueces de la Nación, el funcionario instructor de la Policía Federal tendrá las atribuciones que el Código de Procedimientos en lo Criminal para la Capital Federal otorga al juez para la instrucción de sumarios. Estas atribuciones cesarán en cuanto se presente el juez."
                   },
                   {
                     "numero-articulo": "A 0008",
-                    "texto": "ARTICULO  8.  -  La  Policía Federal como representante de la fuerza Pública podrá hacer uso  de  la  misma  para  el cumplimiento de sus funciones. Asimismo el personal con estado policial  podrá  esgrimir ostensiblemente  sus armas para asegurar la defensa oportuna de  las personas o derechos de terceros o de los propios."
+                    "texto": "ARTICULO 8. - La Policía Federal como representante de la fuerza Pública podrá hacer uso de la misma para el cumplimiento de sus funciones. Asimismo el personal con estado policial podrá esgrimir ostensiblemente sus armas para asegurar la defensa oportuna de las personas o derechos de terceros o de los propios."
                   },
                   {
                     "numero-articulo": "A 0009",
-                    "texto": "ARTICULO  9.  -  La  Policía Federal podrá actuar en jurisdicción de otras policías  nacionales,    cuando  razones  de  urgencia  o  la naturaleza del hecho que se investiga  lo  justifiquen  debiendo dar conocimiento  en forma circunstanciada a las autoridades correspondientes."
+                    "texto": "ARTICULO 9. - La Policía Federal podrá actuar en jurisdicción de otras policías nacionales, cuando razones de urgencia o la naturaleza del hecho que se investiga lo justifiquen debiendo dar conocimiento en forma circunstanciada a las autoridades correspondientes."
                   },
                   {
                     "numero-articulo": "A 0010",
-                    "texto": "ARTICULO  10.  -  La  Policía Federal podrá: 1. - Realizar convenios con las policías nacionales y provinciales, con fines de cooperación, reciprocidad  y ayuda mutua, que faciliten la actuación policial;\n\n2.  -  Intercambiar  con las policías  provinciales  y  nacionales, datos estadísticos, fichas  informes  y  toda  otra  diligencia  de coordinación que sea conveniente;\n\n3. - Mantener relaciones con las policías extranjeras, especialmente con las de países limítrofes, con fines de cooperación  y coordinación internacional, para la persecución de la delincuencia y  en especial a la que se refiera a las actividades de los  tratantes de  blancas  y niños, traficantes de estupefacientes, agentes saboteadores, espías,  agitadores  sociales, contrabandistas de  armas  u  otros  artículos  y falsificadores  de  monedas;\n\n4. - Intervenir en hechos de jurisdicción  provincial en ausencia de  la autoridad local, para prevenir el delito  o  asegurar la persona del delincuente,  o  realizar  las  medidas  urgentes  de   prueba, debiendo    dar  aviso  y  hacer  entrega  inmediatamente  a  dicha autoridad, de las actuaciones correspondientes, con los detenidos y elementos de delitos si los hubiere."
+                    "texto": "ARTICULO 10. - La Policía Federal podrá: 1. - Realizar convenios con las policías nacionales y provinciales, con fines de cooperación, reciprocidad y ayuda mutua, que faciliten la actuación policial;\n\n2. - Intercambiar con las policías provinciales y nacionales, datos estadísticos, fichas informes y toda otra diligencia de coordinación que sea conveniente;\n\n3. - Mantener relaciones con las policías extranjeras, especialmente con las de países limítrofes, con fines de cooperación y coordinación internacional, para la persecución de la delincuencia y en especial a la que se refiera a las actividades de los tratantes de blancas y niños, traficantes de estupefacientes, agentes saboteadores, espías, agitadores sociales, contrabandistas de armas u otros artículos y falsificadores de monedas;\n\n4. - Intervenir en hechos de jurisdicción provincial en ausencia de la autoridad local, para prevenir el delito o asegurar la persona del delincuente, o realizar las medidas urgentes de prueba, debiendo dar aviso y hacer entrega inmediatamente a dicha autoridad, de las actuaciones correspondientes, con los detenidos y elementos de delitos si los hubiere."
                   },
                   {
                     "numero-articulo": "A 0011",
-                    "texto": "ARTICULO  11.  - La Policía Federal no podrá ser utilizada para ninguna finalidad política  partidaria. Las directivas u órdenes que se dicten contraviniendo tal  prohibición  impondrán  la exención de obediencia."
+                    "texto": "ARTICULO 11. - La Policía Federal no podrá ser utilizada para ninguna finalidad política partidaria. Las directivas u órdenes que se dicten contraviniendo tal prohibición impondrán la exención de obediencia."
                   }
                 ]
               }
@@ -309,7 +317,7 @@
                 "articulo": [
                   {
                     "numero-articulo": "A 0012",
-                    "texto": "*ARTICULO  12.  -  La  POLICIA  FEDERAL  se organiza de la siguiente forma:\n\nI - JEFATURA-SUBJEFATURA II - SUPERINTENDENCIA:\n\n. Seguridad Metropolitana . Investigaciones Criminales . Personal . Técnica . Seguridad Federal . Administración .  Dirección  de  Investigaciones  en  lo  Penal    Económico;  III - ESTADO MAYOR IV - DEPARTAMENTOS:\n\n. Relaciones Públicas y Despacho General . Asuntos Jurídicos",
+                    "texto": "*ARTICULO 12. - La POLICIA FEDERAL se organiza de la siguiente forma:\n\nI - JEFATURA-SUBJEFATURA II - SUPERINTENDENCIA:\n\n. Seguridad Metropolitana . Investigaciones Criminales . Personal . Técnica . Seguridad Federal . Administración . Dirección de Investigaciones en lo Penal Económico;\n\nIII - ESTADO MAYOR IV - DEPARTAMENTOS:\n\n. Relaciones Públicas y Despacho General . Asuntos Jurídicos",
                     "modificado-por": {
                       "referencia-normativa": [
                         {
@@ -341,7 +349,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO    13.   -  Las  Superintendencias,  ESTADO  MAYOR  y  los Departamentos de: RELACIONES  PUBLICAS  Y DESPACHO GENERAL Y ASUNTOS JURIDICOS, se organizarán conforme lo determine  la  Reglamentación de la ley,  en  los niveles de Direcciones Generales, Departamento y División\".",
+                    "texto": "*ARTICULO 13. - Las Superintendencias, ESTADO MAYOR y los Departamentos de: RELACIONES PUBLICAS Y DESPACHO GENERAL Y ASUNTOS JURIDICOS, se organizarán conforme lo determine la Reglamentación de la ley, en los niveles de Direcciones Generales, Departamento y División\".",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -359,7 +367,7 @@
                         "ref": "DLE C 009937 1962 09 25 0001 000 0000 000"
                       }
                     },
-                    "texto": "*ARTICULO  14.  -  Es  facultad  del  Jefe de la POLICIA FEDERAL, la organización  de  los  servicios a nivel de  Sección  o  inferiores.",
+                    "texto": "*ARTICULO 14. - Es facultad del Jefe de la POLICIA FEDERAL, la organización de los servicios a nivel de Sección o inferiores.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -394,7 +402,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  15. - La Jefatura de la Policía Federal será ejercida por un funcionario  que designará al efecto el Poder Ejecutivo nacional.",
+                    "texto": "*ARTICULO 15. - La Jefatura de la Policía Federal será ejercida por un funcionario que designará al efecto el Poder Ejecutivo nacional.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 02-10-62).",
@@ -419,7 +427,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO    16.  -  La  Subjefatura  de  la  POLICIA  FEDERAL  será desempeñada por  un  Oficial  Superior  de  la  POLICIA  FEDERAL  en actividad, del  Escalafón  de Seguridad y del grado máximo nombrado por el Poder Ejecutivo Nacional.\"",
+                    "texto": "*ARTICULO 16. - La Subjefatura de la POLICIA FEDERAL será desempeñada por un Oficial Superior de la POLICIA FEDERAL en actividad, del Escalafón de Seguridad y del grado máximo nombrado por el Poder Ejecutivo Nacional.\"",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -430,7 +438,7 @@
                   },
                   {
                     "numero-articulo": "A 0017",
-                    "texto": "*ARTICULO  17.  -  La  Jefatura  de la Superintendencia de SEGURIDAD FEDERAL será desempeñada por un Oficial  Superior  y  la Subjefatura por un Oficial Superior o Jefe de las Fuerzas Armadas de  la Nación, del  Cuerpo  de  Comando designados  por el Poder Ejecutivo Nacional que dependerá directa  y exclusivamente  del  Jefe  de  la  POLICIA FEDERAL.\"",
+                    "texto": "*ARTICULO 17. - La Jefatura de la Superintendencia de SEGURIDAD FEDERAL será desempeñada por un Oficial Superior y la Subjefatura por un Oficial Superior o Jefe de las Fuerzas Armadas de la Nación, del Cuerpo de Comando designados por el Poder Ejecutivo Nacional que dependerá directa y exclusivamente del Jefe de la POLICIA FEDERAL.\"",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -455,7 +463,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  18.  - \"La jefatura del Departamento de Asuntos Jurídicos será cubierta según  el  régimen común de asignación de destinos por grado jerárquico en el Escalafón  de  Seguridad,  debiendo poseer el funcionario designado título universitario de abogado.\"",
+                    "texto": "*ARTICULO 18. - \"La jefatura del Departamento de Asuntos Jurídicos será cubierta según el régimen común de asignación de destinos por grado jerárquico en el Escalafón de Seguridad, debiendo poseer el funcionario designado título universitario de abogado.\"",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 18-10-71).",
@@ -480,7 +488,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO    19.   -  Las  Jefaturas  de  las  Superintendencias  de SEGURIDAD, METROPOLITANA,   INVESTIGACIONES  CRIMINALES,  PERSONAL, TECNICA, ADMINISTRACION y del  ESTADO  MAYOR  serán  ejercidas  por Oficiales Superiores  en  actividad  de  la  POLICIA  FEDERAL  del Escalafón de Seguridad,  designados  por  el  Jefe  de  la  misma.\"",
+                    "texto": "*ARTICULO 19. - Las Jefaturas de las Superintendencias de SEGURIDAD, METROPOLITANA, INVESTIGACIONES CRIMINALES, PERSONAL, TECNICA, ADMINISTRACION y del ESTADO MAYOR serán ejercidas por Oficiales Superiores en actividad de la POLICIA FEDERAL del Escalafón de Seguridad, designados por el Jefe de la misma.\"",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -503,7 +511,7 @@
                         "ref": "LEY C 018894 1970 12 30 0001 000 0000 000"
                       }
                     },
-                    "texto": "*ARTICULO  20.  -  Es misión del Jefe de la Policía Federal conducir operativa y  administrativamente    la  Institución  y  ejercer  el contralor e inspección de todas sus dependencias y de su funcionamiento,  asumir  su representación  externa;  proponer  los retiros  del  personal  policial comprendido  en  los  escalafones mencionados en el artículo 40 de esta ley, elevando las resoluciones al Poder Ejecutivo Nacional  para su aprobación; actuar como  Juez contravencional; otorgar los documentos  de  identidad  y conducta;  proponer al Poder Ejecutivo Nacional la reglamentación de esta ley y dictar  la  reglamentación de los servicios internos y su organización a nivel de Superintendencia.",
+                    "texto": "*ARTICULO 20. - Es misión del Jefe de la Policía Federal conducir operativa y administrativamente la Institución y ejercer el contralor e inspección de todas sus dependencias y de su funcionamiento, asumir su representación externa; proponer los retiros del personal policial comprendido en los escalafones mencionados en el artículo 40 de esta ley, elevando las resoluciones al Poder Ejecutivo Nacional para su aprobación; actuar como Juez contravencional; otorgar los documentos de identidad y conducta; proponer al Poder Ejecutivo Nacional la reglamentación de esta ley y dictar la reglamentación de los servicios internos y su organización a nivel de Superintendencia.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 22-01-73).",
@@ -514,7 +522,7 @@
                   },
                   {
                     "numero-articulo": "A 0021",
-                    "texto": "*ARTICULO  21.  -  Es  misión  del  Subjefe  de  la  POLICIA FEDERAL participar en  la  fiscalización  e intervenir en el funcionamiento operativo  y administrativo  de  las  dependencias   que  le  están subordinadas;  cooperar en su acción con la del Jefe de  la  POLICIA FEDERAL, reemplazándolo  en  su ausencia,  enfermedad o delegación, con  todas  las  obligaciones y facultades que  le  corresponden,  y proponer las  modificaciones  que estime convenientes para la mejora o  actualización de los servicios.",
+                    "texto": "*ARTICULO 21. - Es misión del Subjefe de la POLICIA FEDERAL participar en la fiscalización e intervenir en el funcionamiento operativo y administrativo de las dependencias que le están subordinadas; cooperar en su acción con la del Jefe de la POLICIA FEDERAL, reemplazándolo en su ausencia, enfermedad o delegación, con todas las obligaciones y facultades que le corresponden, y proponer las modificaciones que estime convenientes para la mejora o actualización de los servicios.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -525,7 +533,7 @@
                   },
                   {
                     "numero-articulo": "A 0022",
-                    "texto": "*ARTICULO  22.  -  Es  misión  de  la  Superintendencia de SEGURIDAD METROPOLITANA, cumplir las funciones de  policía  de Seguridad en la Capital Federal; atender las funciones de regulación  del  tránsito vehicular y peatonal y asegurar y salvaguardar las personas y bienes en caso de incendio, derrumbe, inundación u otros siniestros.",
+                    "texto": "*ARTICULO 22. - Es misión de la Superintendencia de SEGURIDAD METROPOLITANA, cumplir las funciones de policía de Seguridad en la Capital Federal; atender las funciones de regulación del tránsito vehicular y peatonal y asegurar y salvaguardar las personas y bienes en caso de incendio, derrumbe, inundación u otros siniestros.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -536,7 +544,7 @@
                   },
                   {
                     "numero-articulo": "A 0023",
-                    "texto": "*ARTICULO  23. - Es misión de la Superintendencia de INVESTIGACIONES CRIMINALES,  cumplir  los  servicios especializados de prevención y represión de los delitos dentro  de la Capital Federal e intervenir en  todo  cuanto importe  una  relación  con  el  Poder  Judicial.\"",
+                    "texto": "*ARTICULO 23. - Es misión de la Superintendencia de INVESTIGACIONES CRIMINALES, cumplir los servicios especializados de prevención y represión de los delitos dentro de la Capital Federal e intervenir en todo cuanto importe una relación con el Poder Judicial.\"",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -547,7 +555,7 @@
                   },
                   {
                     "numero-articulo": "A 0024",
-                    "texto": "*ARTICULO  24.  -  Es  misión  de  la  Superintendencia de PERSONAL, asegurar el  reclutamiento  para  proveer  el  personal  necesario, fijando  los cuadros de  dotación  básicos  de  cada  una  de  las dependencias;  gestionar  los  cambios  de situación de  revista  de acuerdo  con  la reglamentación; formar y perfeccionar  al  personal Superior  y  Subalterno;  y  arbitrar  las medidas  conducentes  al bienestar  de los  integrantes  de  la  Institución  y  su  familia, prestándole asistencia médica y espiritual.",
+                    "texto": "*ARTICULO 24. - Es misión de la Superintendencia de PERSONAL, asegurar el reclutamiento para proveer el personal necesario, fijando los cuadros de dotación básicos de cada una de las dependencias; gestionar los cambios de situación de revista de acuerdo con la reglamentación; formar y perfeccionar al personal Superior y Subalterno; y arbitrar las medidas conducentes al bienestar de los integrantes de la Institución y su familia, prestándole asistencia médica y espiritual.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -558,7 +566,7 @@
                   },
                   {
                     "numero-articulo": "A 0025",
-                    "texto": "*ARTICULO  25. - Es misión de la Superintendencia TECNICA prestarlos servicios  técnico-periciales    a   través  de  los  laboratorios especializados, con los alcances que determine  la reglamentación de esta Ley; otorgar documentos de identidad y pasaportes;  llevar  los archivos  y  registros correspondientes y  establecer,  atender  y coordinar los sistemas y medios de telecomunicaciones.",
+                    "texto": "*ARTICULO 25. - Es misión de la Superintendencia TECNICA prestarlos servicios técnico-periciales a través de los laboratorios especializados, con los alcances que determine la reglamentación de esta Ley; otorgar documentos de identidad y pasaportes; llevar los archivos y registros correspondientes y establecer, atender y coordinar los sistemas y medios de telecomunicaciones.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -569,7 +577,7 @@
                   },
                   {
                     "numero-articulo": "A 0026",
-                    "texto": "*ARTICULO  26.  -  Es  misión  de  la  Superintendencia de SEGURIDAD FEDERAL, realizar en todo el territorio  de  la Nación por sí, o en coordinación con otros organismos nacionales o  provinciales, tareas conducentes  a contrarrestar  la  acción subrepticia  de  potencias extranjeras, de grupos subversivos,  o  de  personas que constituyan una  amenaza  para  la  seguridad del  Estado.  Asimismo    cumplir funciones  de  policía  de Seguridad y Judicial en el territorio  de las  Provincias,  dentro  de   la  jurisdicción determinada  en  el artículo 1.\"",
+                    "texto": "*ARTICULO 26. - Es misión de la Superintendencia de SEGURIDAD FEDERAL, realizar en todo el territorio de la Nación por sí, o en coordinación con otros organismos nacionales o provinciales, tareas conducentes a contrarrestar la acción subrepticia de potencias extranjeras, de grupos subversivos, o de personas que constituyan una amenaza para la seguridad del Estado. Asimismo cumplir funciones de policía de Seguridad y Judicial en el territorio de las Provincias, dentro de la jurisdicción determinada en el artículo 1.\"",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -580,7 +588,7 @@
                   },
                   {
                     "numero-articulo": "A 0027",
-                    "texto": "*ARTICULO  27. - Es misión de la Superintendencia de ADMINISTRACION, todo lo relativo  al  régimen económico-financiero de la Institución y  ejercer el contralor  administrativo  en  el  orden  patrimonial.",
+                    "texto": "*ARTICULO 27. - Es misión de la Superintendencia de ADMINISTRACION, todo lo relativo al régimen económico-financiero de la Institución y ejercer el contralor administrativo en el orden patrimonial.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -591,7 +599,7 @@
                   },
                   {
                     "numero-articulo": "A 0027 002",
-                    "texto": "*ARTICULO  27  BIS - Es misión de la Superintendencia de Policía del Tráfico Ferroviario,  cumplir  funciones  de  policía de seguridad y judicial  en  el ámbito  de la Empresa Ferrocarriles  Argentinos  y actuar  como autoridad de aplicación,  fiscalización  y comprobación de  infracciones  a  los reglamentos relativos a la prestación  de servicios ferroviarios, siempre que conciernan  al  cumplimiento  de su misión específica.",
+                    "texto": "*ARTICULO 27 BIS - Es misión de la Superintendencia de Policía del Tráfico Ferroviario, cumplir funciones de policía de seguridad y judicial en el ámbito de la Empresa Ferrocarriles Argentinos y actuar como autoridad de aplicación, fiscalización y comprobación de infracciones a los reglamentos relativos a la prestación de servicios ferroviarios, siempre que conciernan al cumplimiento de su misión específica.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Incorporado. (B.O. 24-01-75).",
@@ -602,7 +610,7 @@
                   },
                   {
                     "numero-articulo": "A 0028",
-                    "texto": "*ARTICULO  28.  -  Es  misión  del ESTADO MAYOR asistir a JEFATURA - SUBJEFATURA en forma directa y permanente  a  fin  de  facilitar  la conducción integral de la Institución.\"",
+                    "texto": "*ARTICULO 28. - Es misión del ESTADO MAYOR asistir a JEFATURA - SUBJEFATURA en forma directa y permanente a fin de facilitar la conducción integral de la Institución.\"",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -613,7 +621,7 @@
                   },
                   {
                     "numero-articulo": "A 0029",
-                    "texto": "*ARTICULO  29. - Es misión del DEPARTAMENTO DE RELACIONES PUBLICAS Y DESPACHO GENERAL  desarrollar las acciones que hagan al mejoramiento permanente de la imágen  institucional,  propendiendo a la previsión y  desarrollo  de una relación directa e inmediata  en  los  ámbitos interno y externo  de  la POLICIA  FEDERAL;  recibir  y tramitar el despacho  de  todas  las dependencias,  organizando  y llevando  el archivo de las actuaciones de la POLICIA FEDERAL.",
+                    "texto": "*ARTICULO 29. - Es misión del DEPARTAMENTO DE RELACIONES PUBLICAS Y DESPACHO GENERAL desarrollar las acciones que hagan al mejoramiento permanente de la imágen institucional, propendiendo a la previsión y desarrollo de una relación directa e inmediata en los ámbitos interno y externo de la POLICIA FEDERAL; recibir y tramitar el despacho de todas las dependencias, organizando y llevando el archivo de las actuaciones de la POLICIA FEDERAL.",
                     "modificado-por": {
                       "referencia-normativa": {
                         "cr": "Sustituido. (B.O. 04-02-71).",
@@ -904,7 +912,7 @@
                       }
                     },
                     "numero-articulo": "A 0046",
-                    "texto": "*ARTICULO  46.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 46. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -915,7 +923,7 @@
                       }
                     },
                     "numero-articulo": "A 0047",
-                    "texto": "*ARTICULO  47.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 47. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -926,7 +934,7 @@
                       }
                     },
                     "numero-articulo": "A 0048",
-                    "texto": "*ARTICULO  48.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 48. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -937,7 +945,7 @@
                       }
                     },
                     "numero-articulo": "A 0049",
-                    "texto": "*ARTICULO  49.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 49. - (Nota de redacción) DEROGADO POR L. 21.965"
                   }
                 ]
               },
@@ -967,7 +975,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  50.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 50. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -978,7 +986,7 @@
                       }
                     },
                     "numero-articulo": "A 0051",
-                    "texto": "*ARTICULO  51.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 51. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -989,7 +997,7 @@
                       }
                     },
                     "numero-articulo": "A 0052",
-                    "texto": "*ARTICULO  52.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 52. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1000,7 +1008,7 @@
                       }
                     },
                     "numero-articulo": "A 0053",
-                    "texto": "*ARTICULO  53.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 53. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1011,7 +1019,7 @@
                       }
                     },
                     "numero-articulo": "A 0054",
-                    "texto": "*ARTICULO  54.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 54. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1022,7 +1030,7 @@
                       }
                     },
                     "numero-articulo": "A 0055",
-                    "texto": "*ARTICULO  55.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 55. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1033,7 +1041,7 @@
                       }
                     },
                     "numero-articulo": "A 0056",
-                    "texto": "*ARTICULO  56.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 56. - (Nota de redacción) DEROGADO POR L. 21.965"
                   }
                 ]
               },
@@ -1049,7 +1057,7 @@
                       }
                     },
                     "numero-articulo": "A 0057",
-                    "texto": "*ARTICULO  57.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 57. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1060,7 +1068,7 @@
                       }
                     },
                     "numero-articulo": "A 0058",
-                    "texto": "*ARTICULO  58.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 58. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1071,7 +1079,7 @@
                       }
                     },
                     "numero-articulo": "A 0059",
-                    "texto": "*ARTICULO  59.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 59. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1082,7 +1090,7 @@
                       }
                     },
                     "numero-articulo": "A 0060",
-                    "texto": "*ARTICULO  60.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 60. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1107,7 +1115,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  61.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 61. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1118,7 +1126,7 @@
                       }
                     },
                     "numero-articulo": "A 0062",
-                    "texto": "*ARTICULO  62.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 62. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1129,7 +1137,7 @@
                       }
                     },
                     "numero-articulo": "A 0063",
-                    "texto": "*ARTICULO  63.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 63. - (Nota de redacción) DEROGADO POR L. 21.965"
                   }
                 ]
               },
@@ -1145,7 +1153,7 @@
                       }
                     },
                     "numero-articulo": "A 0064",
-                    "texto": "*ARTICULO  64.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 64. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1156,7 +1164,7 @@
                       }
                     },
                     "numero-articulo": "A 0065",
-                    "texto": "*ARTICULO  65.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 65. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1167,7 +1175,7 @@
                       }
                     },
                     "numero-articulo": "A 0066",
-                    "texto": "*ARTICULO  66.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 66. - (Nota de redacción) DEROGADO POR L. 21.965"
                   }
                 ]
               },
@@ -1183,7 +1191,7 @@
                       }
                     },
                     "numero-articulo": "A 0067",
-                    "texto": "*ARTICULO  67.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 67. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1194,7 +1202,7 @@
                       }
                     },
                     "numero-articulo": "A 0068",
-                    "texto": "*ARTICULO  68.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 68. - (Nota de redacción) DEROGADO POR L. 21.965"
                   }
                 ]
               },
@@ -1210,7 +1218,7 @@
                       }
                     },
                     "numero-articulo": "A 0069",
-                    "texto": "*ARTICULO  69.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 69. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1221,7 +1229,7 @@
                       }
                     },
                     "numero-articulo": "A 0070",
-                    "texto": "*ARTICULO  70.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 70. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1232,7 +1240,7 @@
                       }
                     },
                     "numero-articulo": "A 0071",
-                    "texto": "*ARTICULO  71.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 71. - (Nota de redacción) DEROGADO POR L. 21.965"
                   }
                 ]
               },
@@ -1267,7 +1275,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  72.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 72. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1292,7 +1300,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  73.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 73. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1303,7 +1311,7 @@
                       }
                     },
                     "numero-articulo": "A 0074",
-                    "texto": "*ARTICULO  74.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 74. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1314,7 +1322,7 @@
                       }
                     },
                     "numero-articulo": "A 0075",
-                    "texto": "*ARTICULO  75.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 75. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1339,7 +1347,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  76.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 76. - (Nota de redacción) DEROGADO POR L. 21.965"
                   }
                 ]
               },
@@ -1355,7 +1363,7 @@
                       }
                     },
                     "numero-articulo": "A 0077",
-                    "texto": "*ARTICULO  77.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 77. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1373,7 +1381,7 @@
                         "ref": "LEY C 020090 1973 01 11 0002 000 0000 000"
                       }
                     },
-                    "texto": "*ARTICULO  78.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 78. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1384,7 +1392,7 @@
                       }
                     },
                     "numero-articulo": "A 0079",
-                    "texto": "*ARTICULO  79.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 79. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1395,7 +1403,7 @@
                       }
                     },
                     "numero-articulo": "A 0080",
-                    "texto": "*ARTICULO  80.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 80. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1413,7 +1421,7 @@
                         "ref": "DLE C 006076 1958 04 25 0002 000 0000 000"
                       }
                     },
-                    "texto": "*ARTICULO  81.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 81. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1443,7 +1451,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  82.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 82. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1454,7 +1462,7 @@
                       }
                     },
                     "numero-articulo": "A 0083",
-                    "texto": "*ARTICULO  83.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 83. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1479,7 +1487,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  84.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 84. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1497,7 +1505,7 @@
                         "ref": "LEY C 020387 1973 05 16 0001 000 0000 000"
                       }
                     },
-                    "texto": "*ARTICULO  85.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 85. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1515,7 +1523,7 @@
                         "ref": "LEY C 016791 1965 10 30 0003 000 0000 000"
                       }
                     },
-                    "texto": "*ARTICULO  86.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 86. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1540,7 +1548,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  87.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 87. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1558,7 +1566,7 @@
                         "ref": "LEY C 018209 1969 05 12 0001 000 0000 000"
                       }
                     },
-                    "texto": "*ARTICULO  88.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 88. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1569,7 +1577,7 @@
                       }
                     },
                     "numero-articulo": "A 0089",
-                    "texto": "*ARTICULO  89.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 89. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1580,7 +1588,7 @@
                       }
                     },
                     "numero-articulo": "A 0090",
-                    "texto": "*ARTICULO  90.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 90. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1591,7 +1599,7 @@
                       }
                     },
                     "numero-articulo": "A 0091",
-                    "texto": "*ARTICULO  91.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 91. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1602,7 +1610,7 @@
                       }
                     },
                     "numero-articulo": "A 0092",
-                    "texto": "*ARTICULO  92.  -  (Nota  de  redacción)  :  DEROGADO POR L. 21.965"
+                    "texto": "*ARTICULO 92. - (Nota de redacción) : DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1613,7 +1621,7 @@
                       }
                     },
                     "numero-articulo": "A 0093",
-                    "texto": "*ARTICULO  93.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 93. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1638,7 +1646,7 @@
                         }
                       ]
                     },
-                    "texto": "*ARTICULO  94.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 94. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1649,7 +1657,7 @@
                       }
                     },
                     "numero-articulo": "A 0095",
-                    "texto": "*ARTICULO  95.  -  (Nota  de  redacción)  DEROGADO  POR  L.  21.965"
+                    "texto": "*ARTICULO 95. - (Nota de redacción) DEROGADO POR L. 21.965"
                   },
                   {
                     "derogado-por": {
@@ -1763,7 +1771,8 @@
           }
         ]
       },
-      "id-infojus": "LNS0001687"
+      "id-infojus": "LNS0001687",
+      "fecha-umod": 20250617115523
     }
   }
 }

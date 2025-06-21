@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g18-80000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413584520222,
+      "timestamp": 1750343532872,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,8 +17,6 @@
     "content": {
       "mecanografico": "S0000881",
       "numero-norma": 17606,
-      "timestamp": "2013-09-19T07:22:20",
-      "timestamp-m": "2013-09-19T07:22:20",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -44,17 +42,21 @@
           "fecha": "1968 01 17"
         }
       },
-      "publicacion-privada": "ADLA                                                  A002819680159",
-      "sancion": "En  uso  de  las  atribuciones  conferidas  por  el  artículo  5 del Estatuto de la Revolución Argentina, El presidente de la Nación Argentina SANCIONA Y PROMULGA CON FUERZA DE LEY: Registro Oficial de Productores de plantas.",
+      "publicacion-privada": "ADLA A002819680159",
+      "sancion": "En uso de las atribuciones conferidas por el artículo 5 del Estatuto de la Revolución Argentina, El presidente de la Nación Argentina SANCIONA Y PROMULGA CON FUERZA DE LEY: Registro Oficial de Productores de plantas.",
       "lugar-sancion": "BUENOS AIRES",
       "nombre-coloquial": "Ley 17.606",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-22",
-      "fecha-mod": "2013-09-19",
+      "estado": "Derogada",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-06-19",
+      "fecha-mod": "2025-06-19",
+      "timestamp": "2025-06-19T11:25:00",
+      "timestamp-alta": "2025-06-19T11:25:00",
+      "timestamp-m": "2025-06-19T11:25:00",
       "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 5",
-        "informacion-vinculada": 1E+19
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 5.\n\nOBSERVACION: LEY DEROGADA POR ART. 1 DEL DECRETO 410/25 (B.O. 18/6/2025) CON VIGENCIA AL DIA SIGUIENTE A SU PUBLICACION EN EL BOLETIN OFICIAL."
       },
       "sumario": {
         "sumario": "AGRICULTURA-SANIDAD VEGETAL-DIRECCION GENERAL DE SANIDAD VEGETAL- Registro-Inscripción-Ambito de Aplicación-ESTADO-PODER EJECUTIVO NACIONAL-SECRETARIAS DE ESTADO-SECRETARIA DE ESTADO DE AGRICULTURA Y GANADERIA:DIRECCION GENERAL DE SANIDAD VEGETAL-Funciones-Guía de Sanidad para el Tránsito de Plantas o sus Partes-Infracciones- Sanciones-"
@@ -70,8 +72,8 @@
             },
             "sinonimos": {
               "termino": [
-                "medidas sanitarias",
                 "policía sanitaria",
+                "medidas sanitarias",
                 "vigilancia sanitaria"
               ]
             }
@@ -85,8 +87,8 @@
             },
             "sinonimos": {
               "termino": [
-                "medidas sanitarias",
                 "policía sanitaria",
+                "medidas sanitarias",
                 "medidas fitosanitarias",
                 "inspección portuaria de vegetales",
                 "vigilancia sanitaria"
@@ -113,15 +115,15 @@
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTICULO  1.-  Todo  establecimiento, ya sea oficial o particular, y persona dedicados a la  producción  o venta de plantas o sus partes, están obligados a inscribirse en un registro  oficial  especialmente habilitado a tal efecto por la Dirección General de Sanidad  Vegetal de la Secretaría de Estado de Agricultura y Ganadería."
+          "texto": "ARTICULO 1.- Todo establecimiento, ya sea oficial o particular, y persona dedicados a la producción o venta de plantas o sus partes, están obligados a inscribirse en un registro oficial especialmente habilitado a tal efecto por la Dirección General de Sanidad Vegetal de la Secretaría de Estado de Agricultura y Ganadería."
         },
         {
           "numero-articulo": 2,
-          "texto": "ARTICULO  2.-  Los  establecimientos  y  personas  indicados  en  el artículo  anterior,  están  obligados  a despachar las plantas o sus partes  acompañadas de una \"Guía de sanidad  para  el  tránsito  de plantas o  sus partes\", cuyos formularios serán confeccionados a tal efecto por la  Dirección General de Sanidad Vegetal de la Secretaría de Estado de Agricultura y  Ganadería."
+          "texto": "ARTICULO 2.- Los establecimientos y personas indicados en el artículo anterior, están obligados a despachar las plantas o sus partes acompañadas de una \"Guía de sanidad para el tránsito de plantas o sus partes\", cuyos formularios serán confeccionados a tal efecto por la Dirección General de Sanidad Vegetal de la Secretaría de Estado de Agricultura y Ganadería."
         },
         {
           "numero-articulo": 3,
-          "texto": "ARTICULO   3.-  La  Dirección  General  de  Sanidad  Vegetal  de  la Secretaría  de  Estado  de  Agricultura y  Ganadería queda facultada para exigir a todo particular  que transportare plantas o sus partes sin fines de lucro, no provenientes  de  los  establecimientos antes mencionados,  que vayan acompañadas de la citada  \"Guía  de  sanidad para el tránsito  de plantas o sus partes\", la que será otorgada por la  misma,  previa  verificación   del  buen  estado  sanitario  del material examinado."
+          "texto": "ARTICULO 3.- La Dirección General de Sanidad Vegetal de la Secretaría de Estado de Agricultura y Ganadería queda facultada para exigir a todo particular que transportare plantas o sus partes sin fines de lucro, no provenientes de los establecimientos antes mencionados, que vayan acompañadas de la citada \"Guía de sanidad para el tránsito de plantas o sus partes\", la que será otorgada por la misma, previa verificación del buen estado sanitario del material examinado."
         },
         {
           "referencias-normativas": {
@@ -132,17 +134,18 @@
             }
           },
           "numero-articulo": 4,
-          "texto": "ARTICULO  4.-  Los infractores a lo establecido en los artículos 1 y 2 de la presente  ley,  se harán pasibles de las sanciones previstas en el artículo 11 del decreto ley 6.704/63."
+          "texto": "ARTICULO 4.- Los infractores a lo establecido en los artículos 1 y 2 de la presente ley, se harán pasibles de las sanciones previstas en el artículo 11 del decreto ley 6.704/63."
         },
         {
           "numero-articulo": 5,
-          "texto": "ARTICULO  5.-  Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+          "texto": "ARTICULO 5.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
         }
       ],
       "firmantes": {
         "firmantes": "ONGANIA - Krieger Vasena"
       },
-      "id-infojus": "LNS0000881"
+      "id-infojus": "LNS0000881",
+      "fecha-umod": 20250619113212
     }
   }
 }
