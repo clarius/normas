@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g07-23000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1709050403698,
+      "timestamp": 1751032241078,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -57,11 +57,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-02-27",
-      "fecha-mod": "2024-02-27",
-      "timestamp": "2024-02-27T13:00:51",
-      "timestamp-alta": "2024-02-27T13:00:51",
-      "timestamp-m": "2024-02-27T13:00:51",
+      "fecha-alta": "2025-06-27",
+      "fecha-mod": "2025-06-27",
+      "timestamp": "2025-06-27T10:44:44",
+      "timestamp-alta": "2025-06-27T10:44:44",
+      "timestamp-m": "2025-06-27T10:44:44",
       "sumario": {
         "sumario": "ESTADO-POBLACION-INDIGENAS-COMUNIDADES ABORIGENES-LEY SOBRE POLITICA INDIGENA Y APOYO A LAS COMUNIDADES ABORIGENES-OBJETIVOS- CREASE EL INSTITUTO NACIONAL DE ASUNTOS INDIGENAS"
       },
@@ -218,7 +218,7 @@
       },
       "generalidades": {
         "informacion-vinculada": 1E+19,
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 25 OBSERVACION: POR RES. 328/10 (B.O. 10/11/2010) DEL INSTITUTO NACIONAL DE ASUNTOS INDIGENAS SE CREA EL REGISTRO NACIONAL DE ORGANIZACIONES DE PUEBLOS INDIGENAS"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 25.\n\nOBSERVACION: POR RES. 328/10 (B.O. 10/11/2010) DEL INSTITUTO NACIONAL DE ASUNTOS INDIGENAS SE CREA EL REGISTRO NACIONAL DE ORGANIZACIONES DE PUEBLOS INDIGENAS .\n\nOBSERVACION: POR DECRETO 438/25 (B.O. 27/6/2025) SE DISPONE LA TRANSFORMACION DEL INSTITUTO NACIONAL DE ASUNTOS INDÍGENAS (INAI), ORGANISMO DESCENTRALIZADO ACTUANTE EN LA ORBITA DE LA VICEJEFATURA DE GABINETE DEL INTERIOR DE LA JEFATURA DE GABINETE DE MINISTROS, EN UNA UNIDAD ORGANIZATIVA A INCORPORARSE A LA ESTRUCTURA ORGANIZATIVA DE LA CITADA VICEJEFATURA."
       },
       "segmento": [
         {
@@ -257,12 +257,19 @@
           "articulo": [
             {
               "numero-articulo": 5,
-              "texto": "ARTICULO 5 - Créase el Instituto Nacional de Asuntos Indígenas como entidad descentralizada con participación indígena, que dependerá en forma directa del MINISTERIO DEL INTERIOR. El PODER EJECUTIVO NACIONAL designará a su titular y contará con un Consejo de Coordinación y un Consejo Asesor.\n\nI - El Consejo de Coordinación estará integrado por:\n\na) UN (1) representante del MINISTERIO DEL INTERIOR;\n\nb) UN (1) representante del MINISTERIO DE ECONOMÍA;\n\nc) UN (1) representante del MINISTERIO DE CAPITAL HUMANO;\n\nd) UN (1) representante del MINISTERIO DE JUSTICIA;\n\ne) Representantes elegidos por las comunidades aborígenes cuyo número, requisitos y procedimiento electivo determinará la reglamentación;\n\nf) UN (1) representante por cada una de las provincias que adhieran a la presente ley.\n\nII - El Consejo Asesor estará integrado por:\n\na) UN (1) representante del INSTITUTO NACIONAL DE ASOCIATIVISMO Y ECONOMÍA SOCIAL (INAES);\n\nb) UN (1) representante del MINISTERIO DE ECONOMÍA;\n\nc) UN (1) representante del INSTITUTO NACIONAL DE TECNOLOGÍA AGROPECUARIA;\n\nd) UN (1) representante de la SECRETARÍA DE CULTO del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO;\n\ne) UN (1) representante de la COMISIÓN NACIONAL DE FRONTERAS.",
-              "modificado-por": {
+              "antecedentes": {
                 "referencia-normativa": {
                   "cr": "(SUP. B.O. 26/02/2024) Artículo sustituido",
-                  "id": "MODIFICADO_POR_0",
+                  "id": "ANTECEDENTES_0",
                   "ref": "DNU C 000195 2024 02 23 0009 000 0000 000"
+                }
+              },
+              "texto": "ARTICULO 5 - Créase el INSTITUTO NACIONAL DE ASUNTOS INDÍGENAS como unidad organizativa con participación indígena, que dependerá de la VICEJEFATURA DE GABINETE DEL INTERIOR de la JEFATURA DE GABINETE DE MINISTROS.\n\nEl Instituto contará con un Consejo de Coordinación integrado por:.\n\na) UN (1) representante de la VICEJEFATURA DE GABINETE DEL INTERIOR de la JEFATURA DE GABINETE DE MINISTROS;\n\nb) UN (1) representante del MINISTERIO DE ECONOMÍA;\n\nc) UN (1) representante del MINISTERIO DE CAPITAL HUMANO;\n\nd) UN (1) representante del MINISTERIO DE JUSTICIA;\n\ne) UN (1) representante del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO;\n\nf) UN (1) representante del MINISTERIO DE SALUD;\n\ng) Representantes elegidos por las comunidades aborígenes cuyo número, requisitos y procedimiento electivo determinará la reglamentación;\n\nh) UN (1) representante por cada una de las provincias que adhieran a la presente ley.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 27/6/2025) ARTICULO SUSTITUIDO CON VIGENCIA AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000438 2025 06 26 0002 000 0000 000"
                 }
               }
             },
@@ -398,7 +405,8 @@
           }
         }
       ],
-      "id-infojus": "LNS0003270"
+      "id-infojus": "LNS0003270",
+      "fecha-umod": 20250627105041
     }
   }
 }

@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g41-72000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413584224551,
+      "timestamp": 1751029387617,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,13 +16,12 @@
     },
     "content": {
       "mecanografico": "S0002714",
-      "numero-norma": 21134,
-      "timestamp": "2013-01-19T18:52:09",
-      "timestamp-m": "2013-01-19T18:52:09",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "TOR",
         "texto": "Texto Ordenado Ley"
       },
+      "numero-norma": 21134,
       "fecha": "1980-12-22",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -31,6 +30,7 @@
         "id-pais": 11
       },
       "standard-normativo": "TOR C 021134 1980 12 22",
+      "nombre-coloquial": "Ley 21.134",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "*LEY 21.134",
@@ -38,6 +38,8 @@
           "TEXTO ORDENADO POR DECRETO 2.644/80"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
+      "texto-ordenado": "TEXTO ORDENADO POR DECRETO 2.644/80",
       "titulo-norma": "CREACION DEL FONDO NACIONAL PARA LA CONSTRUCCION DE VIVIENDAS DE SERVICIO PARA EL PERSONAL MILITAR, DE GENDARMERIA NACIONAL, DE PREFECTURA NAVAL ARGENTINA Y DE LA POLICIA AERONAUTICA NACIONAL.",
       "publicacion-codificada": {
         "publicacion-decodificada": {
@@ -45,17 +47,15 @@
           "fecha": "1980 12 31"
         }
       },
-      "publicacion-privada": "ADLA                                                  A004119810240",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 21.134",
-      "texto-ordenado": "TEXTO ORDENADO POR DECRETO 2.644/80",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-21",
-      "fecha-mod": "2013-01-19",
-      "uid-mod": "SASAIJ",
-      "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 12 OBSERVACION TO POR DECRETO 2644/80 (B.O. 31-12-80)"
-      },
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-06-27",
+      "fecha-mod": "2025-06-27",
+      "timestamp": "2025-06-27T09:56:22",
+      "timestamp-alta": "2025-06-27T09:56:22",
+      "timestamp-m": "2025-06-27T09:56:22",
       "sumario": {
         "sumario": "SEGURIDAD SOCIAL-VIVIENDA-DEFENSA Y SEGURIDAD-FUERZAS ARMADAS- PERSONAL MILITAR-FUERZAS DE SEGURIDAD-GENDARMERIA NACIONAL- PREFECTURA NAVAL ARGENTINA-POLICIA AERONAUTICA NACIONAL-Creación- Integración-Cuenta Especial-Objeto-Remuneraciones:Retenciones- EJERCITO-COMANDO EN JEFE DEL EJERCITO-ARMADA-COMANDO EN JEFE DE LA ARMADA-FUERZA AEREA-COMANDO EN JEFE DE LA FUERZA AEREA-ESTADO- MINISTERIOS-MINISTERIO DE DEFENSA:Funciones-PODER EJECUTIVO NACIONAL:Funciones"
       },
@@ -88,11 +88,12 @@
               "termino": "personal militar"
             },
             "preferido": {
-              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas/personal militar"
+              "termino": "Defensa y seguridad/derecho militar/Fuerzas Armadas/personal militar"
             },
             "sinonimos": {
               "termino": [
                 "personal de las Fuerzas Armadas",
+                "defensa nacional",
                 "personal de las fuerzas armadas y de seguridad",
                 "militares"
               ]
@@ -103,11 +104,12 @@
               "termino": "Gendarmería Nacional"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "personal de seguridad"
               ]
             }
@@ -117,11 +119,12 @@
               "termino": "Prefectura naval Argentina"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/Prefectura Naval"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/Prefectura Naval"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "Prefectura naval Argentina",
                 "personal de seguridad"
               ]
@@ -132,11 +135,12 @@
               "termino": "policía aeronáutica"
             },
             "preferido": {
-              "termino": "Defensa nacional/seguridad pública/fuerzas de seguridad/policía/policía de seguridad aeroportuaria"
+              "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía de seguridad aeroportuaria"
             },
             "sinonimos": {
               "termino": [
                 "seguridad nacional",
+                "defensa nacional",
                 "policía aeronáutica",
                 "personal de seguridad",
                 "policía aeronáutica nacional"
@@ -145,23 +149,24 @@
           },
           {
             "elegido": {
-              "termino": "Fondo Nacional para la Construcción de Viviendas de Servicio"
+              "termino": "FONDO NACIONAL PARA LA CONSTRUCCIÓN DE VIVIENDAS DE SERVICIO"
             },
             "preferido": {
-              "termino": "Fondo Nacional para la Construcción de Viviendas de Servicio"
+              "termino": "FONDO NACIONAL PARA LA CONSTRUCCIÓN DE VIVIENDAS DE SERVICIO"
             },
             "sinonimos": null
           }
         ],
         "suggest": {
           "termino": [
+            "FONDO NACIONAL PARA LA CONSTRUCCIÓN DE VIVIENDAS DE SERVICIO",
             "Prefectura Naval",
             "personal de las fuerzas armadas y de seguridad (personal militar)",
             "militares (personal militar)",
             "policía aeronáutica (policía de seguridad aeroportuaria)",
-            "Defensa nacional",
+            "defensa nacional (Defensa y seguridad)",
             "personal de seguridad (fuerzas de seguridad)",
-            "Fondo Nacional para la Construcción de Viviendas de Servicio",
+            "Defensa y seguridad",
             "fuerzas de seguridad",
             "Gendarmería Nacional",
             "personal militar",
@@ -180,10 +185,13 @@
           ]
         }
       },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 12.\n\nOBSERVACION: TO POR DECRETO 2644/80 (B.O. 31-12-80).\n\nOBSERVACION: LEY DEROGADA POR ARTICULO 1 DEL DECRETO 437/25 (B.O. 27/6/2025) CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL."
+      },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTICULO  1.-  Créase  el  \"Fondo  Nacional  para la Construcción de Viviendas de  Servicio  para  el Personal Militar,  de  Gendarmería Nacional, de Prefectura Naval Argentina  y de la Policía Aeronáutica Nacional\"."
+          "texto": "ARTICULO 1.- Créase el \"Fondo Nacional para la Construcción de Viviendas de Servicio para el Personal Militar, de Gendarmería Nacional, de Prefectura Naval Argentina y de la Policía Aeronáutica Nacional\"."
         },
         {
           "numero-articulo": 2,
@@ -194,7 +202,7 @@
               "ref": "LEY C 023110 1984 09 30 0027 000 0000 000"
             }
           },
-          "texto": "Artículo  2.-  Dicho  Fondo se integrará de la siguiente forma:\n\na)  Con  los  recursos  que  a  tal fin le  sean  asignados  por  el presupuesto general de la administración nacional.  b) Con las donaciones, legados y  contribuciones que se hicieren.\n\nc) Con el producido proveniente del movimiento de los capitales que posea el fondo.",
+          "texto": "Artículo 2.- Dicho Fondo se integrará de la siguiente forma:\n\na) Con los recursos que a tal fin le sean asignados por el presupuesto general de la administración nacional.\n\nb) Con las donaciones, legados y contribuciones que se hicieren.\n\nc) Con el producido proveniente del movimiento de los capitales que posea el fondo.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 9/12/1986) ARTICULO SUSTITUIDO",
@@ -205,31 +213,31 @@
         },
         {
           "numero-articulo": 3,
-          "texto": "ARTICULO  3.-  A  los  fines  establecidos  por  la  presente ley se procederá a  la  apertura de una cuenta especial que se  denominará \"Fondo Nacional para la  Construcción de Viviendas de Servicio para el Personal Militar, de Gendarmería  Nacional,  de  Prefectura Naval Argentina  y  de  la  Policía Aeronáutica  Nacional\". Dicha  cuenta especial se incorporará al Presupuesto General  de la Administración Pública  Nacional  en  la  jurisdicción del Ministerio  de  Defensa."
+          "texto": "ARTICULO 3.- A los fines establecidos por la presente ley se procederá a la apertura de una cuenta especial que se denominará \"Fondo Nacional para la Construcción de Viviendas de Servicio para el Personal Militar, de Gendarmería Nacional, de Prefectura Naval Argentina y de la Policía Aeronáutica Nacional\". Dicha cuenta especial se incorporará al Presupuesto General de la Administración Pública Nacional en la jurisdicción del Ministerio de Defensa."
         },
         {
           "numero-articulo": 4,
-          "texto": "ARTICULO  4.- Facúltase al Ministerio de Defensa y a los Comandos en Jefe  a que  movilicen  transitoriamente  las  disponibilidades  en efectivo de  los recursos  del  fondo,  invirtiéndolos  en  valores emitidos  por  el Gobierno Nacional. Las operaciones que se realicen deberán canalizarse por intermedio de bancos oficiales."
+          "texto": "ARTICULO 4.- Facúltase al Ministerio de Defensa y a los Comandos en Jefe a que movilicen transitoriamente las disponibilidades en efectivo de los recursos del fondo, invirtiéndolos en valores emitidos por el Gobierno Nacional. Las operaciones que se realicen deberán canalizarse por intermedio de bancos oficiales."
         },
         {
           "numero-articulo": 5,
-          "texto": "ARTICULO  5.-  El  fondo creado por el Artículo 1 de la presente ley será destinado  al estudio,  proyecto,  construcción,  adquisición, equipamiento y mantenimiento  de  viviendas,  y a la formulación, de planes para la construcción o adquisición de edificios  destinados a crear  centros  cívicos en aquellos lugares donde se manifieste  su real necesidad."
+          "texto": "ARTICULO 5.- El fondo creado por el Artículo 1 de la presente ley será destinado al estudio, proyecto, construcción, adquisición, equipamiento y mantenimiento de viviendas, y a la formulación, de planes para la construcción o adquisición de edificios destinados a crear centros cívicos en aquellos lugares donde se manifieste su real necesidad."
         },
         {
           "numero-articulo": 6,
-          "texto": "ARTICULO    6.-   Los  bienes  adquiridos  y/o  construidos  por  la aplicación de la presente  ley, pasarán a integrar el patrimonio del Estado y quedará a cargo de  los  respectivos  Comandos  en  Jefe su administración y conservación."
+          "texto": "ARTICULO 6.- Los bienes adquiridos y/o construidos por la aplicación de la presente ley, pasarán a integrar el patrimonio del Estado y quedará a cargo de los respectivos Comandos en Jefe su administración y conservación."
         },
         {
           "numero-articulo": 7,
-          "texto": "ARTICULO  7.- Las unidades de vivienda serán adjudicadas al personal en actividad  mientras  dure  su situación de revista en el lugar de ubicación de las viviendas y conforme  a  las  reglamentaciones  que sobre  la  materia rijan  en  los  respectivos  Comandos  en  Jefe."
+          "texto": "ARTICULO 7.- Las unidades de vivienda serán adjudicadas al personal en actividad mientras dure su situación de revista en el lugar de ubicación de las viviendas y conforme a las reglamentaciones que sobre la materia rijan en los respectivos Comandos en Jefe."
         },
         {
           "numero-articulo": 8,
-          "texto": "ARTICULO  8.-  A  los  ocupantes  se  les retendrá de los haberes la parte correspondiente al pago por el uso  de  la  vivienda  que fije cada Comando en Jefe."
+          "texto": "ARTICULO 8.- A los ocupantes se les retendrá de los haberes la parte correspondiente al pago por el uso de la vivienda que fije cada Comando en Jefe."
         },
         {
           "numero-articulo": 9,
-          "texto": "ARTICULO  9.- Las sumas retenidas conforme a lo dispuesto en el artículo anterior serán ingresadas a las cuentas especiales de los Estados Mayores Generales de las Fuerzas Armadas que se indican a continuación a fin de atender los gastos de mantenimiento y reparación de las viviendas de acuerdo con la finalidad prevista en la presente Ley.\n\nCuenta Especial 519 -Ejército- Obras, adquisiciones y servicios especiales.\n\nCuenta Especial 874 -Obras y Servicios especiales- Armada Argentina.\n\nCuenta Especial 754 -Varios Ingresos-.\n\nCuenta Especial 762 -Dirección Nacional de Gendarmería- Producidos varios.\n\nCuenta Especial 819 -Prefectura Naval Argentina- Producidos varios.",
+          "texto": "ARTICULO 9.- Las sumas retenidas conforme a lo dispuesto en el artículo anterior serán ingresadas a las cuentas especiales de los Estados Mayores Generales de las Fuerzas Armadas que se indican a continuación a fin de atender los gastos de mantenimiento y reparación de las viviendas de acuerdo con la finalidad prevista en la presente Ley.\n\nCuenta Especial 519 -Ejército- Obras, adquisiciones y servicios especiales.\n\nCuenta Especial 874 -Obras y Servicios especiales- Armada Argentina.\n\nCuenta Especial 754 -Varios Ingresos-.\n\nCuenta Especial 762 -Dirección Nacional de Gendarmería- Producidos varios.\n\nCuenta Especial 819 -Prefectura Naval Argentina- Producidos varios.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 9/12/1986) ARTICULO SUSTITUIDO PERO DICHA SUSTITUCION ES REALIZADA AL ART. 12 (TEXTO ANTERIOR) ACTUALMENTE ART. 9",
@@ -240,11 +248,11 @@
         },
         {
           "numero-articulo": 10,
-          "texto": "ARTICULO  10.-  Corresponde al Ministerio de Defensa la distribución de los recursos asignados  al  Fondo  Nacional  que  se  crea por la presente  ley  y la transferencia anual de los mismos, en proporción a  los  efectivos  del personal  militar  y  de  seguridad  de  las respectivas Fuerzas Armadas y Fuerzas de Seguridad."
+          "texto": "ARTICULO 10.- Corresponde al Ministerio de Defensa la distribución de los recursos asignados al Fondo Nacional que se crea por la presente ley y la transferencia anual de los mismos, en proporción a los efectivos del personal militar y de seguridad de las respectivas Fuerzas Armadas y Fuerzas de Seguridad."
         },
         {
           "numero-articulo": 11,
-          "texto": "ARTICULO  11.-  El  Poder  Ejecutivo,  a  traves  del  Ministerio de Defensa, reglamentará la presente ley dentro de los noventa  días de su promulgación."
+          "texto": "ARTICULO 11.- El Poder Ejecutivo, a traves del Ministerio de Defensa, reglamentará la presente ley dentro de los noventa días de su promulgación."
         },
         {
           "numero-articulo": 12,
@@ -254,7 +262,8 @@
       "firmantes": {
         "firmantes": "FRAGA - de la Riva"
       },
-      "id-infojus": "LNS0002714"
+      "id-infojus": "LNS0002714",
+      "fecha-umod": 20250627100307
     }
   }
 }
