@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-692-0000-7991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1721749028845,
+      "timestamp": 1751390002079,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,36 +16,38 @@
     },
     "content": {
       "mecanografico": 19970000296,
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 296,
+      "fecha": "1997-03-31",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 296,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1997-03-31",
       "standard-normativo": "DEC C 000296 1997 03 31",
       "titulo-norma": "Decreto Reglamentario de la Ley de Impuestos Internos",
+      "nombre-coloquial": "DECRETO NACIONAL 296/1997",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1997 04 07"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 296/1997",
-      "estado": "Vigente, de alcance general",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-07-23",
-      "fecha-mod": "2024-07-23",
-      "timestamp": "2024-07-23T12:33:12",
-      "timestamp-alta": "2024-07-23T12:33:12",
-      "timestamp-m": "2024-07-23T12:33:12",
+      "fecha-alta": "2025-07-01",
+      "fecha-mod": "2025-07-01",
+      "timestamp": "2025-07-01T14:04:19",
+      "timestamp-alta": "2025-07-01T14:04:19",
+      "timestamp-m": "2025-07-01T14:04:19",
       "generalidades": {
         "sintesis": "SE APRUEBA LA REGLAMENTACION DE LA LEY DE IMPUESTOS INTERNOS.",
         "anexos-decreto": {
@@ -322,7 +324,14 @@
               {
                 "numero-articulo": 9,
                 "titulo-articulo": "IMPRESION DE INSTRUMENTOS FISCALES Y LEYENDAS DE CONTROL",
-                "texto": "Art. 9: La DIRECCION GENERAL IMPOSITIVA establecerá los modelos e instrumentos fiscales y dispondrá, según sus necesidades, la impresión de los mismos en la SOCIEDAD DEL ESTADO CASA DE MONEDA, salvo disposición en contrario de la SECRETARIA DE HACIENDA del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS.\n\nLas leyendas que identifiquen al inscripto deberán ser igualmente impresas en la SOCIEDAD DEL ESTADO CASA DE MONEDA por cuenta de los interesados. Cuando estos necesiten instrumentos fiscales en cantidades reducidas, la DIRECCION GENERAL IMPOSITIVA podrá autorizar el estampado de tales leyendas mediante un sello común.\n\nEn casos especiales, la DIRECCION GENERAL IMPOSITIVA podrá autorizar que la impresión a que se refiere el párrafo anterior se efectúe en establecimientos particulares por cuenta y riesgo del inscripto.\n\nTratándose de instrumentos fiscales numerados, podrá prescindirse de la impresión de la leyenda que identifique al inscripto."
+                "texto": "Art. 9: La AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO establecerá los modelos de instrumentos fiscales de control y dispondrá, según sus necesidades, las herramientas para su actualización, modernización y suministro.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O. 01/07/2025) Artículo sustituido",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DEC C 000442 2025 06 30 0008 000 0000 000"
+                  }
+                }
               },
               {
                 "numero-articulo": 10,
@@ -832,7 +841,7 @@
         ]
       },
       "id-infojus": "DN19970000296",
-      "fecha-umod": 20240723123708
+      "fecha-umod": 20250701141322
     }
   }
 }

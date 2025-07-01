@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g84-10000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413584599131,
+      "timestamp": 1751378240067,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,13 +16,12 @@
     },
     "content": {
       "mecanografico": "S0000148",
-      "numero-norma": 21622,
-      "timestamp": "2013-01-19T18:52:59",
-      "timestamp-m": "2013-01-19T18:52:59",
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 21622,
       "fecha": "1977-08-19",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -31,34 +30,31 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 021622 1977 08 19",
+      "nombre-coloquial": "Ley 21.622",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "*LEY 21.622",
           "BUENOS AIRES, 19 DE AGOSTO DE 1977"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
       "titulo-norma": "SOCIEDAD DEL ESTADO CASA DE MONEDA.",
-      "datos-publicacion": "BOLETIN OFICIAL   1977 08 25",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1977 08 25"
         }
       },
-      "publicacion-privada": "ADLA                                                  C003719772575",
-      "sancion": "En    uso  de  las  atribuciones  conferidas  por  el artículo 5 del Estatuto  para  el  Proceso  de  Reorganización  Nacional,    EL  PRESIDENTE  DE  LA  NACION  ARGENTINA  SANCIONA  Y  PROMULGA CON FUERZA DE LEY:",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 21.622",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-22",
-      "fecha-mod": "2013-01-19",
-      "uid-mod": "SASAIJ",
-      "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 10 OBSERVACION SE APRUEBA EL ESTATUTO ORGANICO DE LA SOCIEDAD DEL ESTADO CASA DE LA MONEDA,por DE. 2475/77 (BO.25/08/77)."
-      },
-      "noticias-accesorias": {
-        "texto": "CANTIDAD    DE  ARTICULOS  QUE  COMPONEN  LA  NORMA  0010   OBSERVACION Se  aprueba el estatuto orgánico de la sociedad del estado  \"Casa de  la  Moneda\", por DE. 2475/77 (B.O. 25/08/77)."
-      },
+      "sancion": "En uso de las atribuciones conferidas por el artículo 5 del Estatuto para el Proceso de Reorganización Nacional, EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-07-01",
+      "fecha-mod": "2025-07-01",
+      "timestamp": "2025-07-01T10:51:39",
+      "timestamp-alta": "2025-07-01T10:51:39",
+      "timestamp-m": "2025-07-01T10:51:39",
       "sumario": {
         "sumario": "ESTADO-ADMINISTRACION PUBLICA NACIONAL-SOCIEDADES DEL ESTADO-MONEDA MONEDA NACIONAL-SOCIEDAD DEL ESTADO \"CASA DE MONEDA\"-Creación- Funciones-MONEDA-Emisión-Patrimonio-FUNCIONARIOS Y EMPLEADOS PUBLICOS-Transferencia-Dirección-Administración-Comisión Fiscalizadora-TRIBUTOS-IMPUESTOS-IMPUESTOS DE SELLOS-Exención.-- MODIFICA L. 20.705.-"
       },
@@ -81,10 +77,10 @@
           },
           {
             "elegido": {
-              "termino": "Casa de la Moneda"
+              "termino": "CASA DE LA MONEDA"
             },
             "preferido": {
-              "termino": "Casa de la Moneda"
+              "termino": "CASA DE LA MONEDA"
             },
             "sinonimos": {
               "termino": "Casa de la Moneda de la Nación"
@@ -121,18 +117,18 @@
         ],
         "suggest": {
           "termino": [
-            "Casa de la Moneda de la Nación (Casa de la Moneda)",
             "capital suscripto (capital social)",
             "derecho financiero (Economía y finanzas)",
             "empresas públicas (empresas del Estado)",
             "empresas del Estado",
             "moneda",
             "derecho económico financiero (Economía y finanzas)",
+            "Casa de la Moneda de la Nación (CASA DE LA MONEDA)",
             "sociedades del Estado (empresas del Estado)",
             "sociedades comerciales",
             "sociedades (sociedades comerciales)",
+            "CASA DE LA MONEDA",
             "Derecho comercial",
-            "Casa de la Moneda",
             "sistema financiero",
             "sujetos de derecho administrativo",
             "Hacienda y Finanzas (Economía y finanzas)",
@@ -142,92 +138,119 @@
           ]
         }
       },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 10 OBSERVACION SE APRUEBA EL ESTATUTO ORGANICO DE LA SOCIEDAD DEL ESTADO CASA DE LA MONEDA,por DE. 2475/77 (BO.25/08/77)."
+      },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTICULO  1.- Créase la Sociedad del Estado \"Casa de Moneda\", la que tendrá a su cargo las siguientes actividades:  a)  Fabricar  el dinero circulante, especies valoradas, instrumentos de control y recaudación  y  documentación  especial que requiera el Estado Nacional.\n\nb)    Subsidiariamente,  y  en  la  medida que no interfiera  en  la actividad mencionada en el inciso precedente,  atender  necesidades similares de  la Municipalidad de la Ciudad de Buenos Aires, de las Provincias y sus Municipios y  de  Estados  extranjeros  y realizar toda  clase  de impresos para entes oficiales o privados, nacionales o extranjeros."
+          "texto": "ARTICULO 1.- CASA DE MONEDA S.A.U. tendrá a su cargo las siguientes actividades:\n\na) La fabricación de dinero circulante y especies valoradas que le requiera el ESTADO NACIONAL.\n\nb) Asistencia en el proceso de atesoramiento, destrucción y disposición final de residuos de dinero circulante.\n\nc) Realizar toda clase de impresos para entidades públicas o privadas, nacionales, provinciales, de la CIUDAD AUTÓNOMA DE BUENOS AIRES, municipales y/o Estados extranjeros.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0003 000 0000 000"
+            }
+          }
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) Artículo derogado",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0005 000 0000 000"
+            }
+          },
           "numero-articulo": 2,
-          "texto": "ARTICULO  2.-  Fíjase  como  capital  social, la diferencia entre el activo real  que  se  determine a la fecha  de  iniciación  de  sus actividades y el pasivo  que  por  la  prestación del servicio hasta esa misma fecha, existiera pendiente de  liquidación  por  la actual Casa de Moneda."
-        },
-        {
-          "referencias-normativas": {
-            "referencia-normativa": [
-              {
-                "cr": null,
-                "id": "REFERENCIAS_NORMATIVAS_0",
-                "ref": "LEY C 019550 1972 04 03 0000 000 0000 000"
-              },
-              {
-                "cr": null,
-                "id": "REFERENCIAS_NORMATIVAS_1",
-                "ref": "LEY C 020705 1974 07 31 0000 000 0000 000"
-              }
-            ]
-          },
-          "numero-articulo": 3,
-          "texto": "ARTICULO  3.-  La Sociedad del Estado \"Casa de Moneda\" se regirá por las disposiciones  de  las Leyes 19.550 y 20.705, en cuanto no estén modificadas por la presente ley, y por las normas que se establezcan en su respectivo estatuto,  el que podrá ser aprobado y modificado por Decreto del Poder Ejecutivo Nacional."
-        },
-        {
-          "numero-articulo": 4,
-          "texto": "ARTICULO  4.-  El  patrimonio de \"Casa de Moneda\" se formará con los bienes muebles  e inmuebles,  máquinas  e  instalaciones  asignados actualmente en uso a la repartición del mismo nombre dependiente de la Secretaría de Estado  de Hacienda  del  Ministerio  de Economía.\n\nEl   plantel inicial de la Sociedad del Estado se integrará  con  el personal que  actualmente  se  desempeña  en la citada repartición."
-        },
-        {
-          "referencias-normativas": {
-            "referencia-normativa": [
-              {
-                "cr": null,
-                "id": "REFERENCIAS_NORMATIVAS_0",
-                "ref": "LEY C 020705 1974 07 31 0004 000 0000 000"
-              },
-              {
-                "cr": null,
-                "id": "REFERENCIAS_NORMATIVAS_1",
-                "ref": "LEY C 020705 1974 07 31 0008 000 0000 000"
-              },
-              {
-                "cr": null,
-                "id": "REFERENCIAS_NORMATIVAS_2",
-                "ref": "LEY C 019550 1972 04 03 0000 000 0000 000"
-              }
-            ]
-          },
-          "numero-articulo": 5,
-          "texto": "ARTICULO  5.-  La  Sociedad  del  Estado \"Casa de Moneda\" funcionará como ente societario unipersonal, siendo  su único titular el Estado Nacional.  No  regirá al efecto lo previsto en los artículos  4  y  8 de la Ley 20.705, debiendo  en  cambio  registrarse  su  patrimonio  en  la Contaduría General de la Nación.  La  Dirección  y  Administración de la Sociedad estará a cargo de un Directorio, en tanto  que  el  Poder Ejecutivo Nacional ejercerá por intermedio de la Secretaría de  Estado  de Hacienda las funciones  que  la  Ley 19.550 acuerda a las Asambleas."
-        },
-        {
-          "numero-articulo": 6,
-          "texto": "ARTICULO  6.-  El  Directorio se compondrá de tres miembros, los que serán designados por  el  Poder  Ejecutivo  Nacional en la siguiente forma:  a)  El Presidente, a propuesta del Ministerio  de  Economía  con  el asesoramiento de la Secretaría de Estado de Hacienda.  b)    El Vice-Presidente a propuesta del Ministerio de Defensa.\n\nc)  El  Director  a  propuesta  del  Banco  Central  de la República Argentina."
+          "texto": "ARTICULO 2.- NOTA DE REDACCIÓN: Artículo derogado por Dec. 442/2025 (B.O. 01/07/2025)."
         },
         {
           "referencias-normativas": {
             "referencia-normativa": {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_0",
-              "ref": "LEY C 019550 1972 04 03 0000 000 0000 000"
+              "ref": "TOR C 019550 1984 03 20 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 3,
+          "texto": "ARTICULO 3.- CASA DE MONEDA S.A.U. se regirá por las disposiciones de la Ley General de Sociedades N° 19.550, T.O. 1984 y sus modificatorias y por las normas que se establezcan en su respectivo estatuto",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0003 000 0000 000"
+            }
+          }
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) Artículo derogado",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0005 000 0000 000"
+            }
+          },
+          "numero-articulo": 4,
+          "texto": "ARTICULO 4.- NOTA DE REDACCIÓN: Artículo derogado por Dec. 442/2025 (B.O. 01/07/2025)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) Artículo derogado",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0005 000 0000 000"
+            }
+          },
+          "numero-articulo": 5,
+          "texto": "ARTICULO 5.- NOTA DE REDACCIÓN: Artículo derogado por Dec. 442/2025 (B.O. 01/07/2025)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) Artículo derogado",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0005 000 0000 000"
+            }
+          },
+          "numero-articulo": 6,
+          "texto": "ARTICULO 6.- NOTA DE REDACCIÓN: Artículo derogado por Dec. 442/2025 (B.O. 01/07/2025)."
+        },
+        {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) Artículo derogado",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0005 000 0000 000"
             }
           },
           "numero-articulo": 7,
-          "texto": "ARTICULO  7.-  El  contralor  de  gestión empresaria, la auditoría y fiscalización de los actos de la Sociedad  del  Estado,  que se crea por   esta ley,  será  ejercido  por  una  Comisión  Fiscalizadora, ajustando su cometido a las normas de la Ley 19.550."
+          "texto": "ARTICULO 7.- NOTA DE REDACCIÓN: Artículo derogado por Dec. 442/2025 (B.O. 01/07/2025)."
         },
         {
           "numero-articulo": 8,
-          "texto": "ARTICULO   8.-  La  Sociedad  del  Estado  \"Casa  de  Moneda\"  queda exceptuada del  pago del impuesto de sellos, tanto en lo que hace a su constitución e inscripción como en lo referente a sus operaciones y actividades,  tendientes al cumplimiento de su objeto"
+          "texto": "ARTICULO 8.- La Sociedad del Estado \"Casa de Moneda\" queda exceptuada del pago del impuesto de sellos, tanto en lo que hace a su constitución e inscripción como en lo referente a sus operaciones y actividades, tendientes al cumplimiento de su objeto"
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 01/07/2025) Artículo derogado",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000442 2025 06 30 0005 000 0000 000"
+            }
+          },
           "numero-articulo": 9,
-          "texto": "ARTICULO 9.- El Poder Ejecutivo procederá a efectuar la transferencia  del personal,  bienes  y  servicios  indicados en el artículo  4  a  la  Sociedad del Estado que se crea, dentro  de  los treinta  (30) días de  estar designadas sus  autoridades,  a  cuyo efecto instrumentará las medidas y actos necesarios."
+          "texto": "ARTICULO 9.- NOTA DE REDACCIÓN: Artículo derogado por Dec. 442/2025 (B.O. 01/07/2025)."
         },
         {
           "numero-articulo": 10,
-          "texto": "ARTICULO  10.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+          "texto": "ARTICULO 10.- Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
         }
       ],
       "firmantes": {
         "firmantes": "VIDELA - Martínez de Hoz - Klix"
       },
-      "id-infojus": "LNS0000148"
+      "id-infojus": "LNS0000148",
+      "fecha-umod": 20250701105720
     }
   }
 }
