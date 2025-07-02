@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-544-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1751376150397,
+      "timestamp": 1751466214700,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-07-01",
-      "fecha-mod": "2025-07-01",
-      "timestamp": "2025-07-01T10:15:35",
-      "timestamp-alta": "2025-07-01T10:15:35",
-      "timestamp-m": "2025-07-01T10:15:35",
+      "fecha-alta": "2025-07-02",
+      "fecha-mod": "2025-07-02",
+      "timestamp": "2025-07-02T11:17:52",
+      "timestamp-alta": "2025-07-02T11:17:52",
+      "timestamp-m": "2025-07-02T11:17:52",
       "generalidades": {
         "sintesis": "Transformación de la Agencia Nacional de Materiales Controlados en el Registro Nacional de Armas.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 13"
@@ -95,19 +95,41 @@
               "termino": "Derecho penal/ciencias auxiliares del derecho penal/política criminal"
             },
             "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "decretos delegados"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/jerarquía de las leyes/decretos/decretos delegados"
+            },
+            "sinonimos": {
+              "termino": [
+                "orden de prelación de las leyes",
+                "jerarquía normativa",
+                "orden jerárquico de las leyes"
+              ]
+            }
           }
         ],
         "suggest": {
           "termino": [
             "defensa nacional (Defensa y seguridad)",
-            "ciencias auxiliares del derecho penal",
+            "jerarquía normativa (jerarquía de las leyes)",
+            "política criminal",
+            "decretos delegados",
+            "armas",
+            "registro de armas",
+            "Defensa y seguridad",
+            "orden jerárquico de las leyes (jerarquía de las leyes)",
+            "Derecho constitucional",
+            "jerarquía de las leyes",
+            "orden de prelación de las leyes (jerarquía de las leyes)",
             "ANMAC (Agencia Nacional de Materiales Controlados)",
+            "ciencias auxiliares del derecho penal",
             "Derecho penal",
             "registro nacional de armas",
-            "política criminal",
-            "armas",
-            "Defensa y seguridad",
-            "registro de armas",
+            "decretos",
             "Agencia Nacional de Materiales Controlados"
           ]
         }
@@ -189,10 +211,10 @@
       },
       "articulo": [
         {
-          "referencias-normativas": {
+          "observa-a": {
             "referencia-normativa": {
               "cr": null,
-              "id": "REFERENCIAS_NORMATIVAS_0",
+              "id": "OBSERVA_A_0",
               "ref": "LEY C 027192 2015 10 07 0000 000 0000 000"
             }
           },
@@ -299,7 +321,7 @@
         "firmantes": "MILEI - Francos - Bullrich"
       },
       "id-infojus": "DN20250000445",
-      "fecha-umod": 20250701102230
+      "fecha-umod": 20250702112334
     }
   }
 }
