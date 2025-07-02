@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-244-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1751375622602,
+      "timestamp": 1751466204947,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-07-01",
-      "fecha-mod": "2025-07-01",
-      "timestamp": "2025-07-01T10:07:41",
-      "timestamp-alta": "2025-07-01T10:07:41",
-      "timestamp-m": "2025-07-01T10:07:41",
+      "fecha-alta": "2025-07-02",
+      "fecha-mod": "2025-07-02",
+      "timestamp": "2025-07-02T11:17:52",
+      "timestamp-alta": "2025-07-02T11:17:52",
+      "timestamp-m": "2025-07-02T11:17:52",
       "generalidades": {
         "sintesis": "Reconformación estructural y operativa de Casa de Moneda S.A.U.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 14"
@@ -115,6 +115,21 @@
                 "derecho público fiscal"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "decretos delegados"
+            },
+            "preferido": {
+              "termino": "Derecho constitucional/jerarquía de las leyes/decretos/decretos delegados"
+            },
+            "sinonimos": {
+              "termino": [
+                "orden de prelación de las leyes",
+                "jerarquía normativa",
+                "orden jerárquico de las leyes"
+              ]
+            }
           }
         ],
         "suggest": {
@@ -123,18 +138,23 @@
             "telefonía móvil (telefonía celular)",
             "servicio de telefonía móvil (telefonía celular)",
             "servicio de telecomunicaciones (telecomunicaciones)",
+            "jerarquía normativa (jerarquía de las leyes)",
             "Derecho tributario y aduanero",
+            "decretos delegados",
             "CASA DE LA MONEDA",
             "app móvil (aplicaciones móviles)",
             "telefonía (servicio telefónico)",
             "telefonía celular",
+            "orden jerárquico de las leyes (jerarquía de las leyes)",
             "tributos",
             "personas de existencia visible (persona humana)",
             "servicio de telefonía celular (telefonía celular)",
+            "jerarquía de las leyes",
             "billetera virtual",
             "derecho tributario",
             "derecho fiscal (derecho tributario)",
             "pasaporte",
+            "decretos",
             "Derecho civil",
             "Comunicaciones",
             "servicio de comunicaciones móviles (telefonía celular)",
@@ -147,8 +167,10 @@
             "documentos de identidad",
             "telecomunicaciones",
             "personas físicas (persona humana)",
+            "Derecho constitucional",
             "impuestos internos",
             "servicios de comunicación audiovisual",
+            "orden de prelación de las leyes (jerarquía de las leyes)",
             "persona humana",
             "impuestos",
             "servicio telefónico",
@@ -394,10 +416,10 @@
       },
       "articulo": [
         {
-          "referencias-normativas": {
+          "observa-a": {
             "referencia-normativa": {
               "cr": null,
-              "id": "REFERENCIAS_NORMATIVAS_0",
+              "id": "OBSERVA_A_0",
               "ref": "LEY C 027742 2024 06 27 0004 000 0000 000"
             }
           },
@@ -519,10 +541,10 @@
         }
       ],
       "firmantes": {
-        "firmantes": "MILEI - Francos - Caputo"
+        "firmantes": "MILEI-Francos-Caputo"
       },
       "id-infojus": "DN20250000442",
-      "fecha-umod": 20250701101342
+      "fecha-umod": 20250702112324
     }
   }
 }
