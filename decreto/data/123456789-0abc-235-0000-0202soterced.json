@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-235-0000-0202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1591805390450,
+      "timestamp": 1752161238297,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 532,
-      "timestamp": "2020-06-10T12:24:14",
-      "timestamp-alta": "2020-06-10T10:05:46",
-      "timestamp-m": "2020-06-10T12:24:14",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,11 +40,14 @@
       "nombre-coloquial": "DECRETO NACIONAL 532/2020",
       "analista": "Rocca, Adriana",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2020-06-10",
-      "fecha-mod": "2020-06-10",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-10",
+      "fecha-mod": "2025-07-10",
+      "timestamp": "2025-07-10T12:20:14",
+      "timestamp-alta": "2025-07-10T12:20:14",
+      "timestamp-m": "2025-07-10T12:20:14",
       "generalidades": {
         "sintesis": "Se aprueba la Reglamentación de la Ley 27.514 que Declara de interés público nacional la política de seguridad en el transporte",
         "anexos-decreto": {
@@ -185,7 +185,7 @@
             {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_3",
-              "ref": "DEC C 000050 2019 12 19 0000 000 0000 000  C"
+              "ref": "DEC C 000050 2019 12 19 0000 000 0000 000 C"
             }
           ]
         },
@@ -194,8 +194,15 @@
       },
       "articulo": [
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8-07-2025) ARTICULO DEROGADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000461 2025 07 07 0034 000 0000 000"
+            }
+          },
           "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- Apruébase la reglamentación de la Ley Nº 27.514, que como ANEXO I (IF-2020-25891848-APNJST#MTR) forma parte integrante del presente decreto.",
+          "texto": "ARTÍCULO 1°.- NOTA DE REDACCION: DEROGADO POR DECRETO 461/25.\n\nApruébase la reglamentación de la Ley Nº 27.514, que como ANEXO I (IF-2020-25891848-APNJST#MTR) forma parte integrante del presente decreto.",
           "reglamenta-a": {
             "referencia-normativa": {
               "cr": null,
@@ -209,7 +216,7 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 000050 2019 12 19 0000 000 0000 000  C"
+              "ref": "DEC C 000050 2019 12 19 0000 000 0000 000 C"
             }
           },
           "numero-articulo": 2,
@@ -247,7 +254,8 @@
         "titulo-anexo": "ANEXO I",
         "texto": "ANEXO I"
       },
-      "id-infojus": "DN20200000532"
+      "id-infojus": "DN20200000532",
+      "fecha-umod": 20250710122718
     }
   }
 }
