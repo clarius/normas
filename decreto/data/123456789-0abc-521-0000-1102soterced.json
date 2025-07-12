@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-521-0000-1102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1548853862896,
+      "timestamp": 1752167309387,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,41 +16,49 @@
     },
     "content": {
       "mecanografico": 20110000125,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 125,
+      "fecha": "2011-02-08",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 125,
-      "timestamp": "2019-01-30T09:59:36",
-      "timestamp-m": "2019-01-30T09:59:36",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2011-02-08",
       "standard-normativo": "DEC C 000125 2011 02 08",
       "titulo-norma": "INSTITUTO NACIONAL DE MEDICINA TROPICAL. FUNCIONES, COMPETENCIA Y ORGANIZACION",
+      "nombre-coloquial": "DECRETO NACIONAL 125/2011",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2011 02 10"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 125/2011",
       "analista": "Rocca, Adriana",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2011-05-20",
-      "fecha-mod": "2019-01-30",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-10",
+      "fecha-mod": "2025-07-10",
+      "timestamp": "2025-07-10T14:03:44",
+      "timestamp-alta": "2025-07-10T14:03:44",
+      "timestamp-m": "2025-07-10T14:03:44",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B,O 8/7/2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000458 2025 07 07 0000 000 0000 000"
+          }
+        },
         "sintesis": "Instituto Nacional de Medicina Tropical. Funciones, competencia y organización.",
         "informacion-vinculada": 1E+19,
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 12",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 12.\n\nOBSERVACION: Decreto derogado por Art. 4 del Decreto 458/25 (B.O. 8/7/2025) con vigencia el día de su publicación en el Boletín Oficial.",
         "reglamenta-a": {
           "referencia-normativa": {
             "cr": null,
@@ -72,10 +80,10 @@
           },
           {
             "elegido": {
-              "termino": "Ministerio de Salud"
+              "termino": "MINISTERIO DE SALUD"
             },
             "preferido": {
-              "termino": "Ministerio de Salud"
+              "termino": "MINISTERIO DE SALUD"
             },
             "sinonimos": {
               "termino": [
@@ -88,13 +96,13 @@
         ],
         "suggest": {
           "termino": [
-            "Ministerio de Salud y Acción Social (Ministerio de Salud)",
-            "Ministerio de Salud",
+            "Ministerio de Salud y Ambiente (MINISTERIO DE SALUD)",
+            "MINISTERIO DE SALUD",
             "Salud pública",
-            "Ministerio de Salud y Ambiente (Ministerio de Salud)",
+            "Ministerio de Salud y Acción Social (MINISTERIO DE SALUD)",
             "enfermedades tropicales",
-            "Ministerio de Salud Pública y Medio Ambiente (Ministerio de Salud)",
             "enfermedades",
+            "Ministerio de Salud Pública y Medio Ambiente (MINISTERIO DE SALUD)",
             "Instituto Nacional de Medicina Tropical"
           ]
         }
@@ -129,7 +137,7 @@
             }
           ]
         },
-        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA            DECRETA:",
+        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA DECRETA:",
         "texto": "Que dentro de las políticas sustantivas del MINISTERIO DE SALUD, fijadas por el PODER EJECUTIVO NACIONAL se destacan las acciones de promoción y protección de la salud, que cumple el citado Ministerio como organismo rector en la materia.\n\nQue conforme la Ley Nº 26.534 de creación del INSTITUTO NACIONAL DE MEDICINA TROPICAL, corresponde al PODER EJECUTIVO NACIONAL determinar la figura jurídica bajo la cual funcionará el Instituto, su competencia específica y organización.\n\nQue patologías como el Chagas, Paludismo, Dengue, Leishmanisis Tegumentaria y Visceral, Helmintiasis transmitidas por el suelo, Cólera (enfermedad diarreica epidémica), Fiebre Amarilla, Leptospirosis, Lepra, Esquistosomiasis, son de alta prevalencia e incidencia actual y/o potencial en la región Tropical y Subtropical argentina.\n\nQue a tales fines se estima procedente poner en funcionamiento, en el ámbito del MINISTERIO DE SALUD y con carácter de organismo desconcentrado, al INSTITUTO NACIONAL DE MEDICINA TROPICAL el que cumplirá una función referencial y de investigación operacional en los temas de su incumbencia, manteniéndose las funciones de referencia nacional en el ámbito de los Institutos preexistentes de la ADMINISTRACION NACIONAL DE LABORATORIOS E INSTITUTOS DE SALUD \"DR. CARLOS G. MALBRAN\" (ANLIS).\n\nQue ha tomado la intervención de su competencia la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE SALUD.\n\nQue la presente medida se dicta en ejercicio de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCION NACIONAL y por el artículo 5º de la Ley Nº 26.534.\n\nPor ello,"
       },
       "articulo": [
@@ -173,7 +181,7 @@
         },
         {
           "numero-articulo": 7,
-          "texto": "Art. 7º - El Director del INSTITUTO NACIONAL DE MEDICINA TROPICAL tendrá los siguientes deberes y atribuciones:\n\na) Ejercer la representación del INSTITUTO NACIONAL DE MEDICINA TROPICAL, en el marco de su competencia sustantiva.\n\nb)Dirigir y promover estudios e investigaciones especializados y disponer la difusión de sus resultados.\n\nc) Formular, propiciar y promover todo tipo de relaciones institucionales y en su caso, firmar convenios de colaboración con las instituciones y organizaciones que se requieran para el logro de sus objetivos.\n\nd) Convocar al Consejo Asesor Científico- Técnico por lo menos una vez al mes y someter a su consideración las cuestiones respectivas.\n\ne) NOTA DE REDACCION: (INCISO DEROGADO POR DECRETO 91/2019) Elevar al Secretario de Políticas, Regulación e Institutos del MINISTERIO DE SALUD el anteproyecto de Presupuesto del organismo.\n\nf) Propiciar la designación y/o contratación del personal, así como la contratación de expertos nacionales o extranjeros y administrar su promoción y desempeño.\n\ng)  NOTA DE REDACCION : (INCISO DEROGADO POR DECRETO 91/2019) Administrar los recursos provenientes del presupuesto nacional y los bienes del INSTITUTO NACIONAL DE MEDICINA TROPICAL, en coordinación con la SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS y la SECRETARIA DE COORDINACION, ambas del MINISTERIO DE SALUD.",
+          "texto": "Art. 7º - El Director del INSTITUTO NACIONAL DE MEDICINA TROPICAL tendrá los siguientes deberes y atribuciones:\n\na) Ejercer la representación del INSTITUTO NACIONAL DE MEDICINA TROPICAL, en el marco de su competencia sustantiva.\n\nb)Dirigir y promover estudios e investigaciones especializados y disponer la difusión de sus resultados.\n\nc) Formular, propiciar y promover todo tipo de relaciones institucionales y en su caso, firmar convenios de colaboración con las instituciones y organizaciones que se requieran para el logro de sus objetivos.\n\nd) Convocar al Consejo Asesor Científico- Técnico por lo menos una vez al mes y someter a su consideración las cuestiones respectivas.\n\ne) NOTA DE REDACCION: (INCISO DEROGADO POR DECRETO 91/2019) Elevar al Secretario de Políticas, Regulación e Institutos del MINISTERIO DE SALUD el anteproyecto de Presupuesto del organismo.\n\nf) Propiciar la designación y/o contratación del personal, así como la contratación de expertos nacionales o extranjeros y administrar su promoción y desempeño.\n\ng) NOTA DE REDACCION : (INCISO DEROGADO POR DECRETO 91/2019) Administrar los recursos provenientes del presupuesto nacional y los bienes del INSTITUTO NACIONAL DE MEDICINA TROPICAL, en coordinación con la SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS y la SECRETARIA DE COORDINACION, ambas del MINISTERIO DE SALUD.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 30/1/2019) INCISOS E) Y G) DEROGADOS",
@@ -216,7 +224,7 @@
             ]
           },
           "numero-articulo": 10,
-          "texto": "Art. 10. -  El personal del INSTITUTO NACIONAL DE MEDICINA TROPICAL revistará en alguno de los regímenes previstos en la Ley Nº\u00A025.164 y en el Decreto Nº\u00A0214 de fecha 27 de febrero de 2006, resultando de aplicación las disposiciones del SISTEMA NACIONAL DE EMPLEO PÚBLICO (SINEP), aprobado por el Decreto Nº\u00A02098 de fecha 3 diciembre de 2008 y en su caso, las del Decreto Nº\u00A01109 de fecha 28 de diciembre de 2017.",
+          "texto": "Art. 10. - El personal del INSTITUTO NACIONAL DE MEDICINA TROPICAL revistará en alguno de los regímenes previstos en la Ley Nº\u00A025.164 y en el Decreto Nº\u00A0214 de fecha 27 de febrero de 2006, resultando de aplicación las disposiciones del SISTEMA NACIONAL DE EMPLEO PÚBLICO (SINEP), aprobado por el Decreto Nº\u00A02098 de fecha 3 diciembre de 2008 y en su caso, las del Decreto Nº\u00A01109 de fecha 28 de diciembre de 2017.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 30/1/2019) ARTICULO SUSTITUIDO",
@@ -237,7 +245,8 @@
       "firmantes": {
         "firmantes": "FERNANDEZ DE KIRCHNER-Fernández-Manzur"
       },
-      "id-infojus": "DN20110000125"
+      "id-infojus": "DN20110000125",
+      "fecha-umod": 20250710140829
     }
   }
 }

@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g73-76200ncanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1624532547117,
+      "timestamp": 1752165565659,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -11,18 +11,18 @@
       "document-recovery-strategy": "abstract-legislacion",
       "friendly-url": {
         "subdomain": "ley",
-        "description": "20622-nacional-lnn0026737-1973-11-29"
+        "description": "20622-nacional-modificacion-ley-20416-sobre-ley-organica-servicio-penitenciario-federal-lnn0026737-1973-11-29"
       }
     },
     "content": {
       "mecanografico": "N0026737",
-      "numero-norma": 20622,
-      "timestamp": "2021-06-24T07:09:53",
-      "timestamp-m": "2021-06-24T07:09:53",
+      "tipo-ley": "R",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 20622,
       "fecha": "1973-11-29",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -31,35 +31,72 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 020622 1973 11 29",
+      "nombre-coloquial": "Ley 20.622",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "LEY NRO. 20622",
           "BUENOS AIRES, 29 DE NOVIEMBRE DE 1973"
         ]
       },
-      "datos-publicacion": "BOLETIN OFICIAL   1974 01 09",
+      "lugar-sancion": "BUENOS AIRES",
+      "titulo-norma": "Modificación de la Ley 20.416 sobre Ley Orgánica del Servicio Penitenciario Federal",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1974 01 09"
         }
       },
-      "publicacion-privada": "ADLA                                                  034 A19740048",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 20.622",
-      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
-      "fecha-alta": "1997-07-23",
-      "fecha-mod": "2021-06-24",
       "texto-original": {
         "file-name": "N0026737.PDF",
         "uuid": "hijklmno-prst-uvwl-eyna-cn0026737pdf"
       },
-      "tipo-ley": "R",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-10",
+      "fecha-mod": "2025-07-10",
+      "timestamp": "2025-07-10T13:30:31",
+      "timestamp-alta": "2025-07-10T13:30:31",
+      "timestamp-m": "2025-07-10T13:30:31",
       "sumario": {
         "sumario": "SERVICIO PENITENCIARIO FEDERAL-SUPRESION DE GRADO DE PERSONAL SUPERIOR"
       },
-      "id-infojus": "LNN0026737"
+      "descriptores": {
+        "descriptor": {
+          "elegido": {
+            "termino": "Servicio Penitenciario Federal"
+          },
+          "preferido": {
+            "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/servicio penitenciario/Servicio Penitenciario Federal"
+          },
+          "sinonimos": {
+            "termino": [
+              "seguridad nacional",
+              "defensa nacional",
+              "personal de seguridad"
+            ]
+          }
+        },
+        "suggest": {
+          "termino": [
+            "fuerzas de seguridad",
+            "servicio penitenciario",
+            "Servicio Penitenciario Federal",
+            "seguridad pública",
+            "defensa nacional (Defensa y seguridad)",
+            "seguridad nacional (seguridad pública)",
+            "personal de seguridad (fuerzas de seguridad)",
+            "Defensa y seguridad"
+          ]
+        }
+      },
+      "generalidades": {
+        "sintesis": "Se modifica la Ley 20.416 sobre Ley Orgánica del Servicio Penitenciario Federal",
+        "observaciones-generales": "OBSERVACION: Ley Derogada por Art. 4 del Decreto 455/25 (B.O 8/7/2025) con vigencia el día de su publicación en el Boletín Oficial."
+      },
+      "id-infojus": "LNN0026737",
+      "fecha-umod": 20250710133925
     }
   }
 }

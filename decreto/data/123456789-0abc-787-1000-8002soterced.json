@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-787-1000-8002soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410990003784,
+      "timestamp": 1752161245682,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,36 +16,46 @@
     },
     "content": {
       "mecanografico": 20080001787,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1787,
+      "fecha": "2008-11-05",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1787,
-      "timestamp": "2013-09-27T07:42:03",
-      "timestamp-m": "2013-09-27T07:42:03",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2008-11-05",
       "standard-normativo": "DEC C 001787 2008 11 05",
       "titulo-norma": "APROBACION DE LA ESTRUCTURA ORGANIZATIVA DE LA AGENCIA NACIONAL DE SEGURIDAD VIAL EN EL AMBITO DEL MINISTERIO DEL INTERIOR.",
+      "nombre-coloquial": "DECRETO NACIONAL 1.787/2008",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2008 11 07"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 1.787/2008",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2008-11-07",
-      "fecha-mod": "2013-09-27",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-10",
+      "fecha-mod": "2025-07-10",
+      "timestamp": "2025-07-10T12:20:14",
+      "timestamp-alta": "2025-07-10T12:20:14",
+      "timestamp-m": "2025-07-10T12:20:14",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(BO 8/7/2025) CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000461 2025 07 07 0034 000 0000 000"
+          }
+        },
         "sintesis": "Se aprueba la estructura organizativa de la Agencia Nacional de Seguridad Vial del Ministerio del Interior.",
         "anexos-decreto": {
           "anexo-ley": [
@@ -54,8 +64,8 @@
             "C PLANILLAS ANEXAS ART. 4"
           ]
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 8",
-        "informacion-vinculada": 1E+19
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 8"
       },
       "descriptores": {
         "descriptor": [
@@ -84,30 +94,30 @@
                 "organismos centralizados",
                 "entes públicos",
                 "función pública",
-                "organismos administrativos",
                 "organismos públicos",
+                "organismos administrativos",
                 "reparticiones nacionales"
               ]
             }
           },
           {
             "elegido": {
-              "termino": "Agencia Nacional de Seguridad Vial"
+              "termino": "AGENCIA NACIONAL DE SEGURIDAD VIAL"
             },
             "preferido": {
-              "termino": "Agencia Nacional de Seguridad Vial"
+              "termino": "AGENCIA NACIONAL DE SEGURIDAD VIAL"
             },
             "sinonimos": null
           },
           {
             "elegido": {
-              "termino": "Ministerio del Interior"
+              "termino": "MINISTERIO DEL INTERIOR"
             },
             "preferido": {
-              "termino": "Ministerio del Interior y Transporte"
+              "termino": "MINISTERIO DEL INTERIOR Y TRANSPORTE"
             },
             "sinonimos": {
-              "termino": "Ministerio del Interior"
+              "termino": "MINISTERIO DEL INTERIOR"
             }
           }
         ],
@@ -117,17 +127,17 @@
             "organismos públicos (organismos del Estado)",
             "función pública (Administración Pública)",
             "administración centralizada",
-            "Ministerio del Interior y Transporte",
+            "MINISTERIO DEL INTERIOR Y TRANSPORTE",
             "entidades gubernamentales (organismos del Estado)",
             "Administración Pública",
+            "MINISTERIO DEL INTERIOR (MINISTERIO DEL INTERIOR Y TRANSPORTE)",
             "organismos administrativos (organismos del Estado)",
-            "Agencia Nacional de Seguridad Vial",
-            "Ministerio del Interior (Ministerio del Interior y Transporte)",
             "estructura orgánica",
             "organismos del Estado",
             "reparticiones nacionales (organismos del Estado)",
             "Derecho administrativo",
             "órgano administrativo (organismos del Estado)",
+            "AGENCIA NACIONAL DE SEGURIDAD VIAL",
             "entes públicos (organismos del Estado)"
           ]
         }
@@ -179,8 +189,8 @@
             }
           ]
         },
-        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que mediante la Ley Nº 26.363 se creó la AGENCIA NACIONAL DE SEGURIDAD VIAL (ANSV), organismo descentralizado en el ámbito del MINISTERIO DEL INTERIOR, con autarquía económica financiera, personería jurídica propia y capacidad de actuación en el ámbito del derecho público y del privado.\n\nQue la AGENCIA NACIONAL DE SEGURIDAD VIAL tiene como misión la reducción de la tasa de siniestralidad en el territorio nacional, mediante la promoción, coordinación, control y seguimiento de las políticas de seguridad vial, nacionales e internacionales.\n\nQue resulta pertinente dotar a la AGENCIA NACIONAL DE SEGURIDAD VIAL (ANSV), de una estructura organizativa que le permita alcanzar los objetivos de su creación, así como el óptimo ejercicio, en tiempo real, de las competencias asignadas y de la constante interrelación que deberá mantener con los distintos organismos con competencias afines en todo el territorio nacional.\n\nQue para ello, y en virtud de lo establecido por el artículo 6º de la    Ley Nº 26.337, resulta menester efectuar una compensación de cargos. Asimismo, el artículo 7º de dicha ley dispuso el congelamiento de los cargos vacantes financiados existentes a la fecha de la sanción de la misma en las Jurisdicciones y Entidades de la Administración Nacional y de los que queden vacantes, salvo decisión fundada del Jefe de Gabinete de Ministros.\n\nQue la SECRETARIA DE GABINETE Y GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS y la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DEL INTERIOR, han tomado la intervención que les compete.\n\nQue la presente medida se dicta en uso de las facultades otorgadas por el artículo 99, inciso 1 de la CONSTITUCION NACIONAL y en los artículos 6º y 10 de la Ley Nº 26.337. Por ello,"
+        "sancion": "LA PRESIDENTA DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que mediante la Ley Nº 26.363 se creó la AGENCIA NACIONAL DE SEGURIDAD VIAL (ANSV), organismo descentralizado en el ámbito del MINISTERIO DEL INTERIOR, con autarquía económica financiera, personería jurídica propia y capacidad de actuación en el ámbito del derecho público y del privado.\n\nQue la AGENCIA NACIONAL DE SEGURIDAD VIAL tiene como misión la reducción de la tasa de siniestralidad en el territorio nacional, mediante la promoción, coordinación, control y seguimiento de las políticas de seguridad vial, nacionales e internacionales.\n\nQue resulta pertinente dotar a la AGENCIA NACIONAL DE SEGURIDAD VIAL (ANSV), de una estructura organizativa que le permita alcanzar los objetivos de su creación, así como el óptimo ejercicio, en tiempo real, de las competencias asignadas y de la constante interrelación que deberá mantener con los distintos organismos con competencias afines en todo el territorio nacional.\n\nQue para ello, y en virtud de lo establecido por el artículo 6º de la Ley Nº 26.337, resulta menester efectuar una compensación de cargos. Asimismo, el artículo 7º de dicha ley dispuso el congelamiento de los cargos vacantes financiados existentes a la fecha de la sanción de la misma en las Jurisdicciones y Entidades de la Administración Nacional y de los que queden vacantes, salvo decisión fundada del Jefe de Gabinete de Ministros.\n\nQue la SECRETARIA DE GABINETE Y GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS y la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DEL INTERIOR, han tomado la intervención que les compete.\n\nQue la presente medida se dicta en uso de las facultades otorgadas por el artículo 99, inciso 1 de la CONSTITUCION NACIONAL y en los artículos 6º y 10 de la Ley Nº 26.337. Por ello,"
       },
       "articulo": [
         {
@@ -211,7 +221,7 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 000357 2002 02 21 0000 000 0000 000  C"
+              "ref": "DEC C 000357 2002 02 21 0000 000 0000 000 C"
             }
           },
           "numero-articulo": 5,
@@ -279,7 +289,8 @@
           "texto": "Planillas"
         }
       ],
-      "id-infojus": "DN20080001787"
+      "id-infojus": "DN20080001787",
+      "fecha-umod": 20250710122725
     }
   }
 }
