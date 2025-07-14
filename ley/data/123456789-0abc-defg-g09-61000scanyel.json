@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g09-61000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1471368543510,
+      "timestamp": 1752494445467,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,8 +17,6 @@
     "content": {
       "mecanografico": "S0001690",
       "numero-norma": 17138,
-      "timestamp": "2016-08-16T13:36:40",
-      "timestamp-m": "2016-08-16T13:36:40",
       "tipo-norma": {
         "codigo": "DLE",
         "texto": "Decreto Ley"
@@ -45,17 +43,21 @@
           "fecha": "1958 01 15"
         }
       },
-      "publicacion-privada": "ADLA                                                  A001819580437",
+      "publicacion-privada": "ADLA A001819580437",
       "lugar-sancion": "BUENOS AIRES",
       "nombre-coloquial": "Decreto Ley 17.138/57",
       "ratificado-por": "RATIFICADO LEY 14.467",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-22",
-      "fecha-mod": "2016-08-16",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-14",
+      "fecha-mod": "2025-07-14",
+      "timestamp": "2025-07-14T08:25:23",
+      "timestamp-alta": "2025-07-14T08:25:23",
+      "timestamp-m": "2025-07-14T08:25:23",
       "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 15 OBSERVACION RATIFICADO POR LEY 14467 BO 29/9/58 OBSERVACION: POR ART. 1 DEL DECRETO 1016/01 (B.O.15/08/2001) SE MODIFICA EL ORGANO DE CONDUCCION DEL INSTITUTO NACIONAL DE TECNOLOGIA INDUSTRIAL ELIMINANDO SEIS CARGOS DEL DIRECTORIO",
-        "informacion-vinculada": 1E+19
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 15.\n\nOBSERVACION: RATIFICADO POR LEY 14467 BO 29/9/58.\n\nOBSERVACION: POR ART. 1 DEL DECRETO 1016/01 (B.O.15/08/2001) SE MODIFICA EL ORGANO DE CONDUCCION DEL INSTITUTO NACIONAL DE TECNOLOGIA INDUSTRIAL ELIMINANDO SEIS CARGOS DEL DIRECTORIO.\n\nOBSERVACION: POR ART. 46 DEL DECRETO 462/25 (B.O. 8/7/2025) SE DISPONE LA TRANSFORMACION DEL INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL (INTI) COMO EN UNA UNIDAD ORGANIZATIVA DEPENDIENTE DE LA SECRETARÍA DE INDUSTRIA Y COMERCIO DEL MINISTERIO DE ECONOMÍA."
       },
       "sumario": {
         "sumario": "INDUSTRIA-INSTITUTO NACIONAL DE TECNOLOGIA INDUSTRIAL-Creación- Naturaleza-Dependencia:ESTADO-MINISTERIOS-MINISTERIO DE ECONOMIA- MINISTERIO DE COMERCIO E INDUSTRIA-Funciones-Organización- Administración-PODER EJECUTIVO NACIONAL:Funciones-Comisión Asesora:Organización-Funciones-Recursos Financieros-Centros de Investigación-"
@@ -64,10 +66,10 @@
         "descriptor": [
           {
             "elegido": {
-              "termino": "Instituto Nacional de Tecnología Industrial"
+              "termino": "INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL"
             },
             "preferido": {
-              "termino": "Instituto Nacional de Tecnología Industrial"
+              "termino": "INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL"
             },
             "sinonimos": null
           },
@@ -97,53 +99,74 @@
         "suggest": {
           "termino": [
             "ciencia y tecnología",
-            "Instituto Nacional de Tecnología Industrial",
             "tecnología industrial",
             "Educación y Cultura (Cultura y educación)",
             "investigaciones científicas y técnicas",
             "Cultura y educación",
-            "tecnología"
+            "tecnología",
+            "INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL"
           ]
         }
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTICULO 1.- El actual Instituto tecnológico, integrante de la Dirección  nacional  de  la  industria,   constituirá  un  organismo descentralizado  que funcionará bajo la dependencia  del  Ministerio de Comercio e Industria  con  la  denominación de Instituto nacional de tecnología industrial."
+          "texto": "ARTICULO 1.- El INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL funcionará como unidad organizativa dependiente de la SECRETARÍA DE INDUSTRIA Y COMERCIO del MINISTERIO DE ECONOMÍA.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000462 2025 07 07 0047 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 2,
-          "texto": "ARTICULO 2.- El Instituto nacional de tecnología industrial tendrá las siguientes funciones:\n\na) Realizar  investigaciones  y  estudios  con el fin de mejorar las técnicas  de  elaboración  y  proceso  de  las  materias   primas  y desarrollar  el uso de materiales y materias primas de origen  local o  más  económicos    y  el  aprovechamiento  de  subproductos\n\nb) Estimular a los industriales  del  país  para que emprendan tales estudios  para  mejorar su producción, a cuyo efecto  propiciará  la formación de centros  de  investigación  con la participación de los sectores interesados;\n\nc)  Mantener estrecha vinculación con los industriales  de  todo  el país,  en  forma  directa,  a  través de sus organizaciones y de los centros de investigación;\n\nd) Tener relación constante con  las universidades de la República y con  organismos  estatales  y privados  de  investigaciones  con  el propósito de seguir atentamente  los  trabajos que ellos realicen, y de  apoyar  y  colaborar en aquellos que ofrezcan  interés  para  el desarrollo industrial."
+          "texto": "ARTICULO 2.- El Instituto nacional de tecnología industrial tendrá las siguientes funciones:\n\na) Realizar investigaciones y estudios con el fin de mejorar las técnicas de elaboración y proceso de las materias primas y desarrollar el uso de materiales y materias primas de origen local o más económicos y el aprovechamiento de subproductos\n\nb) Estimular a los industriales del país para que emprendan tales estudios para mejorar su producción, a cuyo efecto propiciará la formación de centros de investigación con la participación de los sectores interesados;\n\nc) Mantener estrecha vinculación con los industriales de todo el país, en forma directa, a través de sus organizaciones y de los centros de investigación;\n\nd) Tener relación constante con las universidades de la República y con organismos estatales y privados de investigaciones con el propósito de seguir atentamente los trabajos que ellos realicen, y de apoyar y colaborar en aquellos que ofrezcan interés para el desarrollo industrial."
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000462 2025 07 07 0052 000 0000 000"
+            }
+          },
           "numero-articulo": 3,
-          "texto": "ARTICULO 3.- El Instituto nacional de tecnología industrial estará dirigido y  administrado  por un Consejo directivo, designado por el Poder Ejecutivo e integrado  por  un  presidente  y ocho vocales. De entre los vocales, cuatro de ellos serán designados  a  propuesta de las  asociaciones  representativas  de  los  industriales,  y uno  a propuesta  del  Banco Industrial de la República Argentina, sin  que tales  designaciones   importen  asumir  la  representación  de  las entidades que los propusieron.\n\nLos vocales durarán cuatro  años en sus cargos. En el primer consejo constituido, dos de los vocales  propuestos  por las asociaciones de industriales  y  dos  de  los restantes, seleccionados  por  sorteo, durarán sólo dos años en el  cargo. El carácter de cargos rentados o \"ad-honorem\" de estas designaciones  será  determinado  por  la vía reglamentaria."
+          "texto": "ARTICULO 3.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEl Instituto nacional de tecnología industrial estará dirigido y administrado por un Consejo directivo, designado por el Poder Ejecutivo e integrado por un presidente y ocho vocales. De entre los vocales, cuatro de ellos serán designados a propuesta de las asociaciones representativas de los industriales, y uno a propuesta del Banco Industrial de la República Argentina, sin que tales designaciones importen asumir la representación de las entidades que los propusieron.\n\nLos vocales durarán cuatro años en sus cargos. En el primer consejo constituido, dos de los vocales propuestos por las asociaciones de industriales y dos de los restantes, seleccionados por sorteo, durarán sólo dos años en el cargo. El carácter de cargos rentados o \"ad-honorem\" de estas designaciones será determinado por la vía reglamentaria."
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000462 2025 07 07 0052 000 0000 000"
+            }
+          },
           "numero-articulo": 4,
-          "informacion-vinculada": 1E+19,
-          "texto": "*ARTICULO 4.- El Consejo directivo tendrá las siguientes atribuciones:\n\na) Dirigir las actividades  del  Instituto  nacional  de  tecnología industrial  en  la realización, promoción y estímulo de los estudios mencionados,  creando    un   ambiente  favorable  a  los  mismos  y facilitando y fomentando su desarrollo  especialmente  en  el ámbito de  la  industria  privada  y  con la colaboración de la misma;\n\nb) Administrar los bienes pertenecientes  a  la institución, de modo de  lograr  los  más  amplios  resultados  en la acción  que  se  le encomienda,  en las condiciones y con las responsabilidades  legales prescriptas en las normas vigentes;\n\nc) Ejercer la  representación  de  la  entidad por intermedio de los apoderados  que designe al efecto; estar  en  juicio  como  actor  o demandado con  relación a aquellos derechos de que pueda ser titular pudiendo transigir, comprometer en árbitros, prorrogar jurisdicciones, desistir de apelaciones y renunciar a prescripciones adquiridas;\n\nd)  Promover entre  los  empresarios  la  formación  de  Centros  de investigación  para  el  estudio  de  asuntos  concretos  y  para el desarrollo    de  actividades  especiales,  con  la  colaboración  y aquiescencia de quienes contribuyan a su formación;\n\ne) Elaborar el  presupuesto  general de gastos y cálculo de recursos y elevarlo a la consideración  del  Poder  Ejecutivo.  Efectuar  los reajustes  del  presupuesto,  debiendo comunicar los mismos al Poder Ejecutivo  dentro  de  los  treinta  días  de  su  aprobación;\n\nf)  Aceptar donaciones y legados  y  establecer  los  aranceles  que regirán los servicios que preste el instituto;\n\ng) Designar,  promover y remover el personal técnico, administrativo y de servicio,  establecer  el  escalafón  para el mismo y fijar sus retribuciones,  y contratar en el país o en el  extranjero  personal técnico-científico  y  de  colaboración,  con  funciones  comunes  o especiales, permanentes o transitorias.\n\nh)  Crear  y  otorgar  becas  para  estudios  técnicos y científicos aplicables  a  la  tecnología  en  el  país  o  el extranjero;\n\ni)  Dictar los reglamentos que determinen, faciliten  y  ordenen  la marcha  del  instituto,  especialmente  en  lo  que se refiere a las normas  a  que se sujetará la constitución y funcionamiento  de  los Centros de investigación  y  al uso de las patentes que surgieren de los trabajos realizados;\n\nj)  Establecer,  con  aprobación    del  Ministerio  de  Comercio  e Industria, las disposiciones que reglamentarán  el aporte financiero del  Instituto nacional de tecnología industrial a  los  Centros  de investigación;\n\nk) Designar  los miembros de la comisión asesora a que se refiere el artículo siguiente  y recabar la opinión de la misma para ilustrarse en sus decisiones acerca  de  la designación del personal científico superior, planes de investigación  y  desarrollo  de los mismos, sin perjuicios de las funciones que le competen, y de las  prerrogativas reservadas por los interesados al constituir y dotar los  Centros de investigación;\n\nl)  Disponer  la  publicación  de  los  trabajos  efectuados,  salvo disposición en contrario previamente convenida;\n\nm)  Adquirir,  construir, arrendar, contraer obligaciones y enajenar bienes de todas  clases,  a  los  efectos  del  cumplimiento  de sus finalidades;\n\nn)  Otorgar  poderes  especiales  para  adquirir  bienes  inmuebles;",
-          "modificado-por": {
+          "antecedentes": {
             "referencia-normativa": [
               {
                 "cr": "(B.O. 22-02-65). Incisos e) y g) sustituidos.",
-                "id": "MODIFICADO_POR_0",
+                "id": "ANTECEDENTES_0",
                 "ref": "LEY C 016662 1965 02 18 0067 000 0000 000"
               },
               {
                 "cr": "Sustituido. (B.O. 25-04-58).",
-                "id": "MODIFICADO_POR_1",
+                "id": "ANTECEDENTES_1",
                 "ref": "DLE C 004837 1958 04 15 0001 000 0000 000"
               }
             ]
-          }
+          },
+          "informacion-vinculada": 1E+19,
+          "texto": "*ARTICULO 4.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEl Consejo directivo tendrá las siguientes atribuciones:\n\na) Dirigir las actividades del Instituto nacional de tecnología industrial en la realización, promoción y estímulo de los estudios mencionados, creando un ambiente favorable a los mismos y facilitando y fomentando su desarrollo especialmente en el ámbito de la industria privada y con la colaboración de la misma;\n\nb) Administrar los bienes pertenecientes a la institución, de modo de lograr los más amplios resultados en la acción que se le encomienda, en las condiciones y con las responsabilidades legales prescriptas en las normas vigentes;\n\nc) Ejercer la representación de la entidad por intermedio de los apoderados que designe al efecto; estar en juicio como actor o demandado con relación a aquellos derechos de que pueda ser titular pudiendo transigir, comprometer en árbitros, prorrogar jurisdicciones, desistir de apelaciones y renunciar a prescripciones adquiridas;\n\nd) Promover entre los empresarios la formación de Centros de investigación para el estudio de asuntos concretos y para el desarrollo de actividades especiales, con la colaboración y aquiescencia de quienes contribuyan a su formación;\n\ne) Elaborar el presupuesto general de gastos y cálculo de recursos y elevarlo a la consideración del Poder Ejecutivo. Efectuar los reajustes del presupuesto, debiendo comunicar los mismos al Poder Ejecutivo dentro de los treinta días de su aprobación;\n\nf) Aceptar donaciones y legados y establecer los aranceles que regirán los servicios que preste el instituto;\n\ng) Designar, promover y remover el personal técnico, administrativo y de servicio, establecer el escalafón para el mismo y fijar sus retribuciones, y contratar en el país o en el extranjero personal técnico-científico y de colaboración, con funciones comunes o especiales, permanentes o transitorias.\n\nh) Crear y otorgar becas para estudios técnicos y científicos aplicables a la tecnología en el país o el extranjero;\n\ni) Dictar los reglamentos que determinen, faciliten y ordenen la marcha del instituto, especialmente en lo que se refiere a las normas a que se sujetará la constitución y funcionamiento de los Centros de investigación y al uso de las patentes que surgieren de los trabajos realizados;\n\nj) Establecer, con aprobación del Ministerio de Comercio e Industria, las disposiciones que reglamentarán el aporte financiero del Instituto nacional de tecnología industrial a los Centros de investigación;\n\nk) Designar los miembros de la comisión asesora a que se refiere el artículo siguiente y recabar la opinión de la misma para ilustrarse en sus decisiones acerca de la designación del personal científico superior, planes de investigación y desarrollo de los mismos, sin perjuicios de las funciones que le competen, y de las prerrogativas reservadas por los interesados al constituir y dotar los Centros de investigación;\n\nl) Disponer la publicación de los trabajos efectuados, salvo disposición en contrario previamente convenida;\n\nm) Adquirir, construir, arrendar, contraer obligaciones y enajenar bienes de todas clases, a los efectos del cumplimiento de sus finalidades;\n\nn) Otorgar poderes especiales para adquirir bienes inmuebles;"
         },
         {
           "numero-articulo": 5,
-          "texto": "*ARTICULO 5.- Las autoridades del instituto designarán una comisión asesora, de carácter tecnicocientífico, integrada por nueve miembros como máximo.\n\nLos integrantes de la misma  serán  seleccionados  de  una  lista de candidatos,  versados  en  la materia, que propondrán, a pedido  del consejo, las siguientes entidades:\n\nAcademia  Nacional  de  Agronomía,  Academia  Nacional  de  Ciencias Exactas, Físicas y Naturales,  Asociación Argentina para el Progreso de  las Ciencias, Asociación Física  Argentina,  Asociación  Química Argentina,  Centro  Argentino  de  Ingenieros,  Centro  Argentino de Ingenieros  Agrónomos,  Facultad de Ciencias Exactas y Naturales  de la Universidad Buenos Aires,  Facultad de Ciencias Fisicomatemáticas de la Universidad Nacional de La  Plata,  Facultad  de Ingeniería de Buenos Aires, Instituto Argentino de Racionalización  de Materiales, Sociedad Científica Argentina.",
+          "texto": "*ARTICULO 5.- Las autoridades del instituto designarán una comisión asesora, de carácter tecnicocientífico, integrada por nueve miembros como máximo.\n\nLos integrantes de la misma serán seleccionados de una lista de candidatos, versados en la materia, que propondrán, a pedido del consejo, las siguientes entidades:\n\nAcademia Nacional de Agronomía, Academia Nacional de Ciencias Exactas, Físicas y Naturales, Asociación Argentina para el Progreso de las Ciencias, Asociación Física Argentina, Asociación Química Argentina, Centro Argentino de Ingenieros, Centro Argentino de Ingenieros Agrónomos, Facultad de Ciencias Exactas y Naturales de la Universidad Buenos Aires, Facultad de Ciencias Fisicomatemáticas de la Universidad Nacional de La Plata, Facultad de Ingeniería de Buenos Aires, Instituto Argentino de Racionalización de Materiales, Sociedad Científica Argentina.",
           "observado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 15-08-2001). LA LABOR DE LOS INTEGRANTES DELA COMISION ASESORA TENDRA CARACTER AD-HONOREM",
+              "cr": "(B.O. 15-08-2001). LA LABOR DE LOS INTEGRANTES DE LA COMISION ASESORA TENDRA CARACTER AD-HONOREM",
               "id": "OBSERVADO_POR_0",
               "ref": "DEC C 001016 2001 08 13 0002 000 0000 000"
             }
@@ -151,40 +174,68 @@
         },
         {
           "numero-articulo": 6,
-          "texto": "ARTICULO 6.- Los miembros de la Comisión asesora desempeñarán sus funciones durante  el  tiempo  y  en  la  forma  que  establezca  el reglamento a dictar por el Consejo directivo.\n\nLa  Comisión asesora podrá sugerir al consejo las medidas que estime convenientes  para el mejor cumplimiento de los fines del Instituto."
-        },
-        {
-          "numero-articulo": 7,
-          "texto": "ARTICULO 7.- Constituirán el patrimonio inicial de este organismo todos los bienes  afectados  actualmente  al  Instituto tecnológico, dependiente de la Dirección nacional de la industria,  los  fondos y presupuesto correspondiente al mismo, y los que se le asignaren  por disposiciones especiales."
-        },
-        {
-          "numero-articulo": 8,
-          "texto": "*ARTICULO  8.  -  Los recursos del instituto se integrarán con:\n\na) Las contribuciones  que  acuerde  el  presupuesto  de la Nación y decretos y leyes especiales;\n\nb)  Los créditos que se le asignen en el Plan de trabajos  públicos;\n\nc) Contribuciones  y  subsidios  de  provincias,  municipalidades  u otras dependencias o reparticiones oficiales;\n\nd)  Legados y donaciones, que en todos los casos serán sin cargos de ninguna naturaleza;\n\ne) Los  derechos,  aranceles  o  tasas  que perciba o adquiera en el ejercicio de sus funciones, como así también  las rentas o frutos de sus bienes patrimoniales;\n\nf)  Las  patentes  que  se  registren  a  su nombre y  los  derechos intelectuales que le correspondan;\n\ng)  El  importe  de  los recursos a que se refiere  el  art.  3  del presente decreto-ley;\n\nh)  Otros  recursos  que  determine  el  Poder  Ejecutivo  Nacional.",
+          "texto": "ARTICULO 6.- Los miembros de la Comisión Asesora desempeñarán sus funciones de manera honoraria y durante el tiempo y en la forma que establezca la reglamentación.\n\nLa Comisión Asesora podrá sugerir a la SECRETARÍA DE INDUSTRIA Y COMERCIO del MINISTERIO DE ECONOMÍA las medidas que estime convenientes para el mejor cumplimiento de los fines del Instituto.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "Sustituido. (B.O. 25-04-58).",
+              "cr": "(B.O. 8-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
               "id": "MODIFICADO_POR_0",
-              "ref": "DLE C 004837 1958 04 15 0001 000 0000 000"
+              "ref": "DEC C 000462 2025 07 07 0048 000 0000 000"
             }
           }
         },
         {
           "derogado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 22-02-65).",
+              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
               "id": "DEROGADO_POR_0",
-              "ref": "LEY C 016662 1965 02 18 0067 000 0000 000"
+              "ref": "DEC C 000462 2025 07 07 0052 000 0000 000"
             }
           },
-          "numero-articulo": 9,
+          "numero-articulo": 7,
+          "texto": "ARTICULO 7.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nConstituirán el patrimonio inicial de este organismo todos los bienes afectados actualmente al Instituto tecnológico, dependiente de la Dirección nacional de la industria, los fondos y presupuesto correspondiente al mismo, y los que se le asignaren por disposiciones especiales."
+        },
+        {
+          "numero-articulo": 8,
           "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 25-04-58). Sustituido.",
+              "cr": "Sustituido. (B.O. 25-04-58).",
               "id": "ANTECEDENTES_0",
               "ref": "DLE C 004837 1958 04 15 0001 000 0000 000"
             }
           },
-          "texto": "*ARTICULO 9.- (Nota de redacción) DEROGADO POR LEY 16.662. -"
+          "texto": "*ARTICULO 8. - Los derechos, aranceles o tasas que perciba el INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL (INTI) en el ejercicio de sus funciones, así como las rentas o frutos de sus bienes patrimoniales, las patentes que se registren a su nombre y los derechos intelectuales que le correspondan, y los aportes de terceros destinados a solventar el funcionamiento de sus Centros de Investigación, constituirán recursos del TESORO NACIONAL.\n\nEl cobro de dichos recursos estará a cargo de la SECRETARÍA DE INDUSTRIA Y COMERCIO del MINISTERIO DE ECONOMÍA, o de la autoridad que esta designe.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000462 2025 07 07 0049 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 9,
+          "antecedentes": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 25-04-58). Sustituido.",
+                "id": "ANTECEDENTES_0",
+                "ref": "DLE C 004837 1958 04 15 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 22-02-65).",
+                "id": "ANTECEDENTES_1",
+                "ref": "LEY C 016662 1965 02 18 0067 000 0000 000"
+              }
+            ]
+          },
+          "texto": "*ARTICULO 9.- El Instituto, a pedido de parte interesada, podrá constituir Centros de Investigación, de carácter temporario o permanente, destinados a realizar estudios o investigaciones de carácter particular, en base a un programa previamente establecido de acuerdo con el interesado. Éste contribuirá a la creación del Centro de Investigación mediante el aporte de una contribución pecuniaria o de otra índole, aceptada por la SECRETARÍA DE INDUSTRIA Y COMERCIO la que será la Autoridad Competente, y determinará, por su parte, el aporte del Instituto a la realización de los trabajos convenidos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000462 2025 07 07 0050 000 0000 000"
+            }
+          }
         },
         {
           "referencias-normativas": {
@@ -202,7 +253,7 @@
             ]
           },
           "numero-articulo": 10,
-          "texto": "*ARTICULO 10.- El  instituto, a pedido de parte interesada podrá constituir Centros  de investigación,  temporarios  o  permanentes, destinados a realizar   estudios  o  investigaciones  de  carácter particular, en base a un programa  previamente  establecido  con  el interesado.  Este  contribuirá  al  sostenimiento  del Centro con un aporte  pecuniario  o de otra índole, aceptado por el  consejo,  que determinará, por su parte,  la  contribución, del Instituto en forma de  cesión  de  equipo,  locales,  instrumentos,  personal  y  otros elementos  de  trabajo,  del modo que reglamente  el  consejo  y  se convenga con los interesados.\n\nEl Instituto podrá contribuir  con aporte pecuniario, de acuerdo con las normas que a ese efecto dictará  el  consejo  y de conformidad a las previsiones presupuestarias.\n\nLa  administración  de los Centros de investigación estará  a  cargo del instituto y la gestión  e  inversión  de  los  fondos que se les asigne  quedan  eximidas  de  las  prescripciones  de las  leyes  de Contabilidad y Obras Públicas.",
+          "texto": "*ARTICULO 10.- El instituto, a pedido de parte interesada podrá constituir Centros de investigación, temporarios o permanentes, destinados a realizar estudios o investigaciones de carácter particular, en base a un programa previamente establecido con el interesado. Este contribuirá al sostenimiento del Centro con un aporte pecuniario o de otra índole, aceptado por el consejo, que determinará, por su parte, la contribución, del Instituto en forma de cesión de equipo, locales, instrumentos, personal y otros elementos de trabajo, del modo que reglamente el consejo y se convenga con los interesados.\n\nEl Instituto podrá contribuir con aporte pecuniario, de acuerdo con las normas que a ese efecto dictará el consejo y de conformidad a las previsiones presupuestarias.\n\nLa administración de los Centros de investigación estará a cargo del instituto y la gestión e inversión de los fondos que se les asigne quedan eximidas de las prescripciones de las leyes de Contabilidad y Obras Públicas.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "Sustituido. (B.O. 25-04-58).",
@@ -213,26 +264,33 @@
         },
         {
           "numero-articulo": 11,
-          "texto": "*ARTICULO 11.- Los centros de investigación, en el desarrollo de las tareas a ellos confiadas,  serán  dirigidos  y administrados por personal responsable, designado de común acuerdo,  entre las partes, en la forma que se convenga.",
-          "modificado-por": {
+          "antecedentes": {
             "referencia-normativa": {
               "cr": "Sustituido. (B.O. 25-04-58).",
-              "id": "MODIFICADO_POR_0",
+              "id": "ANTECEDENTES_0",
               "ref": "DLE C 004837 1958 04 15 0001 000 0000 000"
+            }
+          },
+          "texto": "*ARTICULO 11.- Además de la cesión de equipo, locales, instrumentos y otros elementos de trabajo, en la forma que reglamente la Autoridad Competente y se convenga con los interesados, el Instituto podrá contribuir a los Centros de Investigación con aportes pecuniarios y de personal.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 8-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000462 2025 07 07 0051 000 0000 000"
             }
           }
         },
         {
           "numero-articulo": 12,
-          "texto": "ARTICULO 12.- El instituto queda autorizado para registrar a su nombre las patentes que  resulten de sus trabajos, pudiendo conceder y contratar licencias de utilización  de  las  mismas. En el caso de patentes  que se deriven de trabajos encarados por  los  centros  de investigación,    los    particulares   y  el  instituto  convendrán previamente  la  forma  y  condiciones en que  se  distribuirán  los posibles beneficios de su explotación."
+          "texto": "ARTICULO 12.- El instituto queda autorizado para registrar a su nombre las patentes que resulten de sus trabajos, pudiendo conceder y contratar licencias de utilización de las mismas. En el caso de patentes que se deriven de trabajos encarados por los centros de investigación, los particulares y el instituto convendrán previamente la forma y condiciones en que se distribuirán los posibles beneficios de su explotación."
         },
         {
           "numero-articulo": 13,
-          "texto": "ARTICULO 13.- Todo  el  personal,  funcionarios y empleados, que actualmente  se  desempeña en el Instituto  tecnológico,  podrá  ser transferido total  o parcialmente al nuevo organismo que se crea por este decreto, siendo  su  Consejo  directivo  quien  decidirá a este respecto.  Los  funcionarios o empleados que no fueran transferidos, seguirán revistando  en  sus  mismas  categorías en el Ministerio de Comercio e Industria y en las funciones  que se estime del caso. Los fondos de presupuesto que correspondan al  personal  no  transferido no  incidirán  sobre  el  patrimonio o recursos del Instituto.  Todo funcionario o empleado del  actual Instituto tecnológico podrá optar ante  el  Consejo  directivo,  mediante    presentación  personal  y escrita, para no ser incluído en la transferencia  aludida,  en cuyo caso quedará revistando en el ministerio."
+          "texto": "ARTICULO 13.- Todo el personal, funcionarios y empleados, que actualmente se desempeña en el Instituto tecnológico, podrá ser transferido total o parcialmente al nuevo organismo que se crea por este decreto, siendo su Consejo directivo quien decidirá a este respecto. Los funcionarios o empleados que no fueran transferidos, seguirán revistando en sus mismas categorías en el Ministerio de Comercio e Industria y en las funciones que se estime del caso. Los fondos de presupuesto que correspondan al personal no transferido no incidirán sobre el patrimonio o recursos del Instituto. Todo funcionario o empleado del actual Instituto tecnológico podrá optar ante el Consejo directivo, mediante presentación personal y escrita, para no ser incluído en la transferencia aludida, en cuyo caso quedará revistando en el ministerio."
         },
         {
           "numero-articulo": 14,
-          "texto": "ARTICULO 14.- El presente  decreto-ley  será  refrendado por el Excmo. señor Vicepresidente provisional de la Nación  y los señores ministros  secretarios de Estado en los departamentos de  Comercio e Industria, Hacienda, Guerra, Marina y Aeronáutica."
+          "texto": "ARTICULO 14.- El presente decreto-ley será refrendado por el Excmo. señor Vicepresidente provisional de la Nación y los señores ministros secretarios de Estado en los departamentos de Comercio e Industria, Hacienda, Guerra, Marina y Aeronáutica."
         },
         {
           "numero-articulo": 15,
@@ -242,7 +300,8 @@
       "firmantes": {
         "firmantes": "ARAMBURU-Rojas-Cueto Rúa-Krieger Vasena-Majó-Hartung-Landaburu"
       },
-      "id-infojus": "LNS0001690"
+      "id-infojus": "LNS0001690",
+      "fecha-umod": 20250714090045
     }
   }
 }
