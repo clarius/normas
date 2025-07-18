@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-720-1000-8102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1650650820169,
+      "timestamp": 1752839850297,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 1027,
-      "timestamp": "2022-04-22T14:58:34",
-      "timestamp-alta": "2018-11-08T09:40:07",
-      "timestamp-m": "2022-04-22T14:58:34",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -46,17 +43,20 @@
         "texto": "Integridad y Transparencia"
       },
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2018-11-08",
-      "fecha-mod": "2022-04-22",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-18",
+      "fecha-mod": "2025-07-18",
+      "timestamp": "2025-07-18T08:49:18",
+      "timestamp-alta": "2025-07-18T08:49:18",
+      "timestamp-m": "2025-07-18T08:49:18",
       "generalidades": {
         "sintesis": "Se reglamenta la Ley 27.132 sobre Política de reactivación de los ferrocarriles de pasajeros y de cargas",
         "anexos-decreto": {
           "anexo-ley": "A ANEXO I"
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 17 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 16 FECHA DE ENTRADA EN VIGENCIA: 9/11/2018",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 17 .\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 16 .\n\nFECHA DE ENTRADA EN VIGENCIA: 9/11/2018",
         "reglamenta-a": {
           "referencia-normativa": {
             "cr": null,
@@ -94,17 +94,15 @@
           },
           {
             "elegido": {
-              "termino": "políticas públicas"
+              "termino": "politicas públicas"
             },
             "preferido": {
-              "termino": "Derecho constitucional/poderes del Estado/actos de los poderes públicos/políticas públicas"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas"
             },
             "sinonimos": {
               "termino": [
-                "poderes públicos",
-                "actos de imperio",
-                "actos de gobierno",
-                "actos de autoridad nacional"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -113,14 +111,12 @@
               "termino": "declaración de interés público nacional"
             },
             "preferido": {
-              "termino": "Cultura y educación/cultura/política cultural/conmemoraciones/declaración de interés nacional"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/medidas de concientización/declaración de interés público nacional"
             },
             "sinonimos": {
               "termino": [
-                "Educación y Cultura",
-                "declaración de interés público nacional",
-                "política científica",
-                "política tecnológica"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -138,14 +134,12 @@
               "termino": "participación ciudadana"
             },
             "preferido": {
-              "termino": "Derecho administrativo/situaciones jurídicas subjetivas/derechos de incidencia colectiva/participación ciudadana"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia de la gestión pública/gobierno abierto/participación ciudadana"
             },
             "sinonimos": {
               "termino": [
-                "intereses colectivos",
-                "participación popular",
-                "intereses difusos",
-                "derechos individuales homogéneos"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -180,48 +174,35 @@
         "suggest": {
           "termino": [
             "transporte terrestre",
-            "derechos de incidencia colectiva",
-            "intereses colectivos (derechos de incidencia colectiva)",
+            "políticas de Estado (politicas públicas)",
+            "politicas públicas transversales (politicas públicas)",
             "red ferroviaria nacional",
             "ferrocarriles",
             "decreto reglamentario",
+            "declaración de interés público nacional",
             "reglamento de ejecución (decreto reglamentario)",
-            "Cultura y educación",
             "reglamento ejecutivo (decreto reglamentario)",
             "participación ciudadana",
-            "políticas públicas",
-            "modernización de la infraestructura",
-            "política científica (política cultural)",
             "reglamentos",
-            "política cultural",
+            "medidas de concientización",
+            "modernización de la infraestructura",
+            "fortalecimiento de las instituciones",
+            "gobierno abierto",
+            "integridad y transparencia",
             "Infraestructura",
-            "situaciones jurídicas subjetivas",
-            "intereses difusos (derechos de incidencia colectiva)",
             "acto administrativo de alcance general",
-            "poderes públicos (poderes del Estado)",
             "reglamento administrativo (reglamentos)",
-            "actos de gobierno (actos de los poderes públicos)",
             "Derecho administrativo",
-            "actos de imperio (actos de los poderes públicos)",
-            "Educación y Cultura (Cultura y educación)",
-            "actos de autoridad nacional (actos de los poderes públicos)",
-            "declaración de interés público nacional (declaración de interés nacional)",
-            "declaración de interés nacional",
             "Transporte",
             "contrato de transporte",
-            "participación popular (participación ciudadana)",
-            "política tecnológica (política cultural)",
-            "conmemoraciones",
-            "poderes del Estado",
-            "derechos individuales homogéneos (derechos de incidencia colectiva)",
-            "actos de los poderes públicos",
-            "Derecho constitucional",
+            "politicas públicas",
+            "Estado",
             "Ferrocarriles Argentinos Sociedad del Estado",
             "transporte ferroviario",
             "infraestructura ferroviaria",
             "acto administrativo",
-            "cultura",
-            "actos de alcance general (acto administrativo de alcance general)"
+            "actos de alcance general (acto administrativo de alcance general)",
+            "transparencia de la gestión pública"
           ]
         }
       },
@@ -271,7 +252,7 @@
           ]
         },
         "sancion": "EL\u00A0PRESIDENTE DE\u00A0LA\u00A0NACIÓN ARGENTINA DECRETA:",
-        "texto": "Que por el artículo 1º de la Ley Nº\u00A027.132 se declaró de interés público nacional y como objetivo prioritario de la REPÚBLICA ARGENTINA la política de reactivación de los ferrocarriles de pasajeros y de cargas, la renovación y el mejoramiento de la infraestructura ferroviaria y la incorporación de tecnologías y servicios que coadyuven a la modernización y a la eficiencia del sistema de transporte público ferroviario, con el objeto de garantizar la integración del territorio nacional y la conectividad del país, el desarrollo de las economías regionales con equidad social y la creación de empleo.\n\nQue la reactivación del Sistema Ferroviario Nacional se ha constituido en una Política de Estado, cuyos principios fundamentales se enumeran en el artículo 2º de la mencionada ley, y entre los que destacan, la administración de la infraestructura ferroviaria por parte del ESTADO NACIONAL, la maximización de las inversiones y de los recursos empleados para la prestación de un servicio ferroviario en condiciones de eficiencia y seguridad, la protección de los derechos de los usuarios y la promoción de condiciones de libre accesibilidad a la red nacional ferroviaria de cargas y de pasajeros, basada en los principios de objetividad, transparencia y no discriminación.\n\nQue según lo dispuesto en el artículo 3º de la citada Ley Nº\u00A027.132, el PODER EJECUTIVO NACIONAL deberá adoptar las medidas necesarias a los fines de reasumir la plena administración de la infraestructura ferroviaria, pudiendo a tal fin resolver, desafectar bienes, rescatar, reconvenir o renegociar los contratos de concesión vigentes.\n\nQue el artículo 4º de la mencionada norma, establece la modalidad de acceso abierto a la red ferroviaria nacional para la operación de los servicios de transporte de cargas y de pasajeros, indicando que dicha modalidad permitirá que cualquier operador pueda transportar la carga con origen y destino en cualquier punto de la red, independientemente de quien posea la titularidad o tenencia de las instalaciones del punto de carga o destino.\n\nQue, asimismo, por la referida ley se incorporó el inciso m) al   artículo 3º de la Ley Nº\u00A026.352, estableciendo como competencia de la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO, la gestión de los sistemas de control de circulación de trenes por sí o por intermedio de los operadores ferroviarios a los que se les asigne dicha tarea.\n\nQue en virtud de lo dispuesto en los artículos 4º y 7º de la citada Ley Nº\u00A027.132, el PODER EJECUTIVO NACIONAL dictó el   Decreto Nº\u00A01924 de fecha 16 de septiembre de 2015, por medio del cual se creó el REGISTRO DE OPERADORES DE CARGA Y DE PASAJEROS y se aprobó el estatuto de la sociedad FERROCARRILES ARGENTINOS SOCIEDAD DEL ESTADO.\n\nQue atento lo expuesto resulta procedente en esta instancia proceder a la reglamentación de la Ley N°\u00A027.132.\n\nQue, en razón de ello, la SUBSECRETARÍA DE TRANSPORTE FERROVIARIO dependiente de la SECRETARÍA DE GESTIÓN DE TRANSPORTE del MINISTERIO DE TRANSPORTE ha realizado distintas consultas a los diferentes actores del SECTOR PÚBLICO NACIONAL con competencia específica en la materia, a fin de proyectar conjuntamente la reglamentación que por el presente se aprueba.\n\nQue conforme lo informado por la SECRETARÍA DE PLANIFICACIÓN DE TRANSPORTE del MINISTERIO DE TRANSPORTE, para impulsar la reactivación del Sistema Ferroviario Nacional resulta imprescindible la implementación de estrategias que busquen favorecer su crecimiento, para llevar al sistema a capturar su pleno potencial de carga.\n\nQue el MINISTERIO DE TRANSPORTE y la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO han llevado adelante diversos estudios en relación con la estructuración y diseño del sistema ferroviario de cargas de jurisdicción nacional.\n\nQue en atención a lo señalado en el Informe remitido por la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO, se concluye que, con el objeto de acelerar la captura de la carga potencial del sistema, resulta más efectivo migrar a la modalidad de acceso abierto, en la medida que el estado de la infraestructura permita maximizar su capacidad, a la vez que reducir los posibles incidentes que puedan originarse en caso de deficiencia, para lo cual resulta ineludible readecuar el estado de la infraestructura actual.\n\nQue los estudios realizados por el MINISTERIO DE TRANSPORTE y por la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO concluyen que para poder capturar el potencial de carga resulta necesario generar estrategias de inversión que permitan readecuar la infraestructura actual que hoy en día no se encuentra en condiciones óptimas, así como incorporar competencia en la operación.\n\nQue, consecuentemente y tal como ha sido delineado mediante la referida Ley Nº\u00A027.132, la migración hacia un modelo con separación vertical y acceso abierto en la operación a múltiples operadores ferroviarios, es el camino a seguir para generar el marco adecuado para que el Sistema Ferroviario Nacional se desarrolle.\n\nQue, dado que en la actualidad se encuentran vigentes los Contratos de Concesión celebrados entre el ESTADO NACIONAL y FERROSUR ROCA SOCIEDAD ANÓNIMA, FERROEXPRESO PAMPEANO SOCIEDAD ANÓNIMA y NUEVO CENTRAL ARGENTINO SOCIEDAD ANÓNIMA, aprobados por los Decretos Nº\u00A02681 del 29 de diciembre de 1992, Nº\u00A01144 del 14 de junio de 1991 y Nº\u00A0994 del 18 de junio de 1992, y sus modificatorios, resulta necesario desarrollar un plan de transición que garantice la continuidad de la operación del servicio y proteja el mantenimiento de los activos del ESTADO NACIONAL, lo cual dada la naturaleza del cambio requerirá de tiempo suficiente y diversas etapas.\n\nQue, a fin de implementar el referido período de transición, resulta necesario adecuar dichos contratos, a efectos de establecer los términos de la reasunción paulatina de la infraestructura por parte del ESTADO NACIONAL, favoreciendo tanto la competencia como el crecimiento de la carga transportada por ferrocarril y la participación del modo en la matriz nacional de cargas.\n\nQue durante este período se deberán llevar adelante las reestructuraciones necesarias para desarrollar las capacidades que el sistema requiere para migrar al nuevo modelo, profundizando el proceso de inversión en la red que posibilite potenciar e incrementar la capacidad de oferta del sistema y atraer demanda, para mejorar los estándares de eficiencia y los tiempos de circulación.\n\nQue, asimismo, el MINISTERIO DE TRANSPORTE deberá definir los sistemas y subsistemas de los distintos sectores de la red, a fin de establecer, por etapas, las obras de inversión y su priorización, como así también la metodología adecuada para llevarlas adelante, permitiendo una reasunción de la infraestructura en forma paulatina y por etapas.\n\nQue finalizada la etapa de transición se implementará el nuevo modelo, en el cual la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO asumirá la administración de la infraestructura del sistema, por sí o a través de terceros, y se permitirá la incorporación de operadores ferroviarios habilitados conforme el mencionado Registro de Operadores de Cargas y de Pasajeros.\n\nQue, en tanto la implementación de la modalidad de acceso abierto, requerirá fortalecer el rol de la COMISIÓN NACIONAL DE REGULACIÓN DEL TRANSPORTE como controlador y fiscalizador del sistema, resulta necesario instruirla para que adecue su estructura, a fin de dar cabal cumplimiento a las previsiones del nuevo esquema de operación, modificándose, a esos fines, el   artículo 2° del Decreto N°\u00A01924 del 16 de septiembre de 2015, incorporándose además determinadas disposiciones en los distintos   Anexos del Decreto N°\u00A01388 del 29 de noviembre de 1996 y su modificatorio.\n\nQue por el Decreto Nº\u00A0566 del 21 de mayo de 2013 y su modifciatorio, se dispuso la constitución de la sociedad BELGRANO CARGAS Y LOGÍSTICA SOCIEDAD ANÓNIMA la que tiene por objeto la prestación y explotación comercial del servicio, la operación y logística de trenes, la atención de estaciones, el mantenimiento del material rodante, infraestructura, equipos, terminales de carga y servicios de telecomunicaciones; pudiendo asimismo realizar todas las demás actividades complementarias y subsidiarias del sector de la Red Nacional Ferroviaria de cargas.\n\nQue, asimismo, por la Resolución Nº\u00A0469 del 30 de mayo de 2013 del entonces MINISTERIO DEL INTERIOR Y TRANSPORTE, se asignó a BELGRANO CARGAS Y LOGÍSTICA SOCIEDAD ANÓNIMA, la operación del servicio ferroviario y la administración de la infraestructura ferroviaria, integrantes de los contratos de concesión rescindidos a AMÉRICA LATINA LOGÍSTICA CENTRAL SOCIEDAD ANÓNIMA y a AMÉRICA LATINA LOGÍSTICA MESOPOTÁMICA SOCIEDAD ANÓNIMA.\n\nQue además resulta necesario definir un plan de transición para la empresa BELGRANO CARGAS Y LOGÍSTICA SOCIEDAD ANÓNIMA, a fin de garantizar que no se generen asimetrías en las condiciones de competitividad con los restantes operadores en razón del aporte que realiza el Estado Nacional en la red que opera, y considerando el rol de fomento que dicha empresa cumple como consecuencia del interés público actualmente comprometido en su objeto social.\n\nQue existe consenso entre los organismos competentes respecto de las ventajas de implementar la modalidad de acceso abierto, así como también de la necesidad de un período de transición por etapas a fin de realizar las inversiones en infraestructura necesarias, avanzar con la separación vertical del sistema y realizar la armonización de la normativa vigente.\n\nQue la DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS de la SUBSECRETARÍA DE COORDINACIÓN ADMINISTRATIVA del MINISTERIO DE TRANSPORTE ha tomado la intervención de su competencia.\n\nQue el presente se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
+        "texto": "Que por el artículo 1º de la Ley Nº\u00A027.132 se declaró de interés público nacional y como objetivo prioritario de la REPÚBLICA ARGENTINA la política de reactivación de los ferrocarriles de pasajeros y de cargas, la renovación y el mejoramiento de la infraestructura ferroviaria y la incorporación de tecnologías y servicios que coadyuven a la modernización y a la eficiencia del sistema de transporte público ferroviario, con el objeto de garantizar la integración del territorio nacional y la conectividad del país, el desarrollo de las economías regionales con equidad social y la creación de empleo.\n\nQue la reactivación del Sistema Ferroviario Nacional se ha constituido en una Política de Estado, cuyos principios fundamentales se enumeran en el artículo 2º de la mencionada ley, y entre los que destacan, la administración de la infraestructura ferroviaria por parte del ESTADO NACIONAL, la maximización de las inversiones y de los recursos empleados para la prestación de un servicio ferroviario en condiciones de eficiencia y seguridad, la protección de los derechos de los usuarios y la promoción de condiciones de libre accesibilidad a la red nacional ferroviaria de cargas y de pasajeros, basada en los principios de objetividad, transparencia y no discriminación.\n\nQue según lo dispuesto en el artículo 3º de la citada Ley Nº\u00A027.132, el PODER EJECUTIVO NACIONAL deberá adoptar las medidas necesarias a los fines de reasumir la plena administración de la infraestructura ferroviaria, pudiendo a tal fin resolver, desafectar bienes, rescatar, reconvenir o renegociar los contratos de concesión vigentes.\n\nQue el artículo 4º de la mencionada norma, establece la modalidad de acceso abierto a la red ferroviaria nacional para la operación de los servicios de transporte de cargas y de pasajeros, indicando que dicha modalidad permitirá que cualquier operador pueda transportar la carga con origen y destino en cualquier punto de la red, independientemente de quien posea la titularidad o tenencia de las instalaciones del punto de carga o destino.\n\nQue, asimismo, por la referida ley se incorporó el inciso m) al artículo 3º de la Ley Nº\u00A026.352, estableciendo como competencia de la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO, la gestión de los sistemas de control de circulación de trenes por sí o por intermedio de los operadores ferroviarios a los que se les asigne dicha tarea.\n\nQue en virtud de lo dispuesto en los artículos 4º y 7º de la citada Ley Nº\u00A027.132, el PODER EJECUTIVO NACIONAL dictó el  Decreto Nº\u00A01924 de fecha 16 de septiembre de 2015, por medio del cual se creó el REGISTRO DE OPERADORES DE CARGA Y DE PASAJEROS y se aprobó el estatuto de la sociedad FERROCARRILES ARGENTINOS SOCIEDAD DEL ESTADO.\n\nQue atento lo expuesto resulta procedente en esta instancia proceder a la reglamentación de la Ley N°\u00A027.132.\n\nQue, en razón de ello, la SUBSECRETARÍA DE TRANSPORTE FERROVIARIO dependiente de la SECRETARÍA DE GESTIÓN DE TRANSPORTE del MINISTERIO DE TRANSPORTE ha realizado distintas consultas a los diferentes actores del SECTOR PÚBLICO NACIONAL con competencia específica en la materia, a fin de proyectar conjuntamente la reglamentación que por el presente se aprueba.\n\nQue conforme lo informado por la SECRETARÍA DE PLANIFICACIÓN DE TRANSPORTE del MINISTERIO DE TRANSPORTE, para impulsar la reactivación del Sistema Ferroviario Nacional resulta imprescindible la implementación de estrategias que busquen favorecer su crecimiento, para llevar al sistema a capturar su pleno potencial de carga.\n\nQue el MINISTERIO DE TRANSPORTE y la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO han llevado adelante diversos estudios en relación con la estructuración y diseño del sistema ferroviario de cargas de jurisdicción nacional.\n\nQue en atención a lo señalado en el Informe remitido por la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO, se concluye que, con el objeto de acelerar la captura de la carga potencial del sistema, resulta más efectivo migrar a la modalidad de acceso abierto, en la medida que el estado de la infraestructura permita maximizar su capacidad, a la vez que reducir los posibles incidentes que puedan originarse en caso de deficiencia, para lo cual resulta ineludible readecuar el estado de la infraestructura actual.\n\nQue los estudios realizados por el MINISTERIO DE TRANSPORTE y por la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO concluyen que para poder capturar el potencial de carga resulta necesario generar estrategias de inversión que permitan readecuar la infraestructura actual que hoy en día no se encuentra en condiciones óptimas, así como incorporar competencia en la operación.\n\nQue, consecuentemente y tal como ha sido delineado mediante la referida Ley Nº\u00A027.132, la migración hacia un modelo con separación vertical y acceso abierto en la operación a múltiples operadores ferroviarios, es el camino a seguir para generar el marco adecuado para que el Sistema Ferroviario Nacional se desarrolle.\n\nQue, dado que en la actualidad se encuentran vigentes los Contratos de Concesión celebrados entre el ESTADO NACIONAL y FERROSUR ROCA SOCIEDAD ANÓNIMA, FERROEXPRESO PAMPEANO SOCIEDAD ANÓNIMA y NUEVO CENTRAL ARGENTINO SOCIEDAD ANÓNIMA, aprobados por los Decretos Nº\u00A02681 del 29 de diciembre de 1992, Nº\u00A01144 del 14 de junio de 1991 y Nº\u00A0994 del 18 de junio de 1992, y sus modificatorios, resulta necesario desarrollar un plan de transición que garantice la continuidad de la operación del servicio y proteja el mantenimiento de los activos del ESTADO NACIONAL, lo cual dada la naturaleza del cambio requerirá de tiempo suficiente y diversas etapas.\n\nQue, a fin de implementar el referido período de transición, resulta necesario adecuar dichos contratos, a efectos de establecer los términos de la reasunción paulatina de la infraestructura por parte del ESTADO NACIONAL, favoreciendo tanto la competencia como el crecimiento de la carga transportada por ferrocarril y la participación del modo en la matriz nacional de cargas.\n\nQue durante este período se deberán llevar adelante las reestructuraciones necesarias para desarrollar las capacidades que el sistema requiere para migrar al nuevo modelo, profundizando el proceso de inversión en la red que posibilite potenciar e incrementar la capacidad de oferta del sistema y atraer demanda, para mejorar los estándares de eficiencia y los tiempos de circulación.\n\nQue, asimismo, el MINISTERIO DE TRANSPORTE deberá definir los sistemas y subsistemas de los distintos sectores de la red, a fin de establecer, por etapas, las obras de inversión y su priorización, como así también la metodología adecuada para llevarlas adelante, permitiendo una reasunción de la infraestructura en forma paulatina y por etapas.\n\nQue finalizada la etapa de transición se implementará el nuevo modelo, en el cual la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO asumirá la administración de la infraestructura del sistema, por sí o a través de terceros, y se permitirá la incorporación de operadores ferroviarios habilitados conforme el mencionado Registro de Operadores de Cargas y de Pasajeros.\n\nQue, en tanto la implementación de la modalidad de acceso abierto, requerirá fortalecer el rol de la COMISIÓN NACIONAL DE REGULACIÓN DEL TRANSPORTE como controlador y fiscalizador del sistema, resulta necesario instruirla para que adecue su estructura, a fin de dar cabal cumplimiento a las previsiones del nuevo esquema de operación, modificándose, a esos fines, el artículo 2° del Decreto N°\u00A01924 del 16 de septiembre de 2015, incorporándose además determinadas disposiciones en los distintos Anexos del Decreto N°\u00A01388 del 29 de noviembre de 1996 y su modificatorio.\n\nQue por el Decreto Nº\u00A0566 del 21 de mayo de 2013 y su modifciatorio, se dispuso la constitución de la sociedad BELGRANO CARGAS Y LOGÍSTICA SOCIEDAD ANÓNIMA la que tiene por objeto la prestación y explotación comercial del servicio, la operación y logística de trenes, la atención de estaciones, el mantenimiento del material rodante, infraestructura, equipos, terminales de carga y servicios de telecomunicaciones; pudiendo asimismo realizar todas las demás actividades complementarias y subsidiarias del sector de la Red Nacional Ferroviaria de cargas.\n\nQue, asimismo, por la Resolución Nº\u00A0469 del 30 de mayo de 2013 del entonces MINISTERIO DEL INTERIOR Y TRANSPORTE, se asignó a BELGRANO CARGAS Y LOGÍSTICA SOCIEDAD ANÓNIMA, la operación del servicio ferroviario y la administración de la infraestructura ferroviaria, integrantes de los contratos de concesión rescindidos a AMÉRICA LATINA LOGÍSTICA CENTRAL SOCIEDAD ANÓNIMA y a AMÉRICA LATINA LOGÍSTICA MESOPOTÁMICA SOCIEDAD ANÓNIMA.\n\nQue además resulta necesario definir un plan de transición para la empresa BELGRANO CARGAS Y LOGÍSTICA SOCIEDAD ANÓNIMA, a fin de garantizar que no se generen asimetrías en las condiciones de competitividad con los restantes operadores en razón del aporte que realiza el Estado Nacional en la red que opera, y considerando el rol de fomento que dicha empresa cumple como consecuencia del interés público actualmente comprometido en su objeto social.\n\nQue existe consenso entre los organismos competentes respecto de las ventajas de implementar la modalidad de acceso abierto, así como también de la necesidad de un período de transición por etapas a fin de realizar las inversiones en infraestructura necesarias, avanzar con la separación vertical del sistema y realizar la armonización de la normativa vigente.\n\nQue la DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS de la SUBSECRETARÍA DE COORDINACIÓN ADMINISTRATIVA del MINISTERIO DE TRANSPORTE ha tomado la intervención de su competencia.\n\nQue el presente se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
       },
       "articulo": [
         {
@@ -294,7 +275,14 @@
             }
           },
           "numero-articulo": 2,
-          "texto": "ARTÍCULO 2º.- Delégase en el MINISTERIO DE TRANSPORTE la facultad prevista en el artículo 3º de la Ley Nº\u00A027.132, a efectos de llevar adelante la adecuación de los Contratos de Concesión vigentes.\n\nEn el marco de dicha adecuación deberán analizarse, entre otros aspectos, la posibilidad de extensión de plazo contractual por un plazo no mayor a DIEZ (10) años, el régimen de inversiones, la previsión de reembolsos por mantenimiento de terceros en la red, las pautas para la realización de obras por terceros en la red, la asignación de material rodante durante el plazo de concesión y la administración por parte de la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD DEL ESTADO de la zona de acceso a puertos."
+          "texto": "ARTÍCULO 2º.- Delégase en la SECRETARÍA DE TRANSPORTE del MINISTERIO DE ECONOMÍA la facultad prevista en el artículo 3º de la Ley Nº 27.132, a efectos de llevar adelante la adecuación de los Contratos de Concesión vigentes.\n\nEn el marco de dicha adecuación deberán analizarse, entre otros aspectos, la posibilidad de extensión de plazo contractual por un plazo no mayor a DIEZ (10) años, el régimen de inversiones, la previsión de reembolsos por mantenimiento de terceros en la red, las pautas para la realización de obras por terceros en la red, la asignación de material rodante durante el plazo de concesión y la administración por parte de la ADMINISTRACIÓN DE INFRAESTRUCTURAS FERROVIARIAS SOCIEDAD ANÓNIMA de la zona de acceso a puertos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 18/7/2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000478 2025 07 17 0001 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 3,
@@ -340,25 +328,25 @@
             }
           },
           "numero-articulo": 10,
-          "texto": "ARTÍCULO 10.- Incorpórase como incisos k) y l) al artículo 9º del   ANEXO I del Decreto Nº\u00A01388/96 y su modificatorio, los siguientes:\n\n\"k) Analizar los sistemas de comunicaciones y efectuar las recomendaciones tendientes a su unificación;\n\nl) Habilitar el material rodante, por sí o por terceros, previendo el trámite de la habilitación en forma previa a la puesta en operación por primera vez, luego de una revisión general, modificación en su configuración o características, o en caso de accidente grave\"."
+          "texto": "ARTÍCULO 10.- Incorpórase como incisos k) y l) al artículo 9º del ANEXO I del Decreto Nº\u00A01388/96 y su modificatorio, los siguientes:\n\n\"k) Analizar los sistemas de comunicaciones y efectuar las recomendaciones tendientes a su unificación;\n\nl) Habilitar el material rodante, por sí o por terceros, previendo el trámite de la habilitación en forma previa a la puesta en operación por primera vez, luego de una revisión general, modificación en su configuración o características, o en caso de accidente grave\"."
         },
         {
           "modifica-a": {
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 001388 1996 11 29 0000 000 0000 000  C"
+              "ref": "DEC C 001388 1996 11 29 0000 000 0000 000 C"
             }
           },
           "numero-articulo": 11,
-          "texto": "ARTÍCULO 11.- Incorpórase como puntos 10. y 11. a las ACCIONES de la GERENCIA DE CONTROL TÉCNICO FERROVIARIO establecidas en el   ANEXO III del Decreto Nº\u00A01388/96, y su modificatorio los siguientes:\n\n\"10. Analizar los sistemas de comunicaciones y efectuar las recomendaciones tendientes a su unificación.\n\n11. Otorgar, por sí o por terceros, la habilitación al material rodante.\""
+          "texto": "ARTÍCULO 11.- Incorpórase como puntos 10. y 11. a las ACCIONES de la GERENCIA DE CONTROL TÉCNICO FERROVIARIO establecidas en el ANEXO III del Decreto Nº\u00A01388/96, y su modificatorio los siguientes:\n\n\"10. Analizar los sistemas de comunicaciones y efectuar las recomendaciones tendientes a su unificación.\n\n11. Otorgar, por sí o por terceros, la habilitación al material rodante.\""
         },
         {
           "modifica-a": {
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 001388 1996 11 29 0008 000 0000 000  A"
+              "ref": "DEC C 001388 1996 11 29 0008 000 0000 000 A"
             }
           },
           "numero-articulo": 12,
@@ -369,11 +357,11 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 001388 1996 11 29 0000 000 0000 000  C"
+              "ref": "DEC C 001388 1996 11 29 0000 000 0000 000 C"
             }
           },
           "numero-articulo": 13,
-          "texto": "ARTÍCULO 13.- Incorpórase como punto 17 a las ACCIONES de la GERENCIA DE CONTROL DE GESTIÓN FERROVIARIA, establecidas en el    ANEXO III del Decreto Nº\u00A01388/96, y su modificatorio el siguiente:\n\n\"17. Intervenir en los conflictos que se susciten por la implementación de la modalidad de acceso abierto\"."
+          "texto": "ARTÍCULO 13.- Incorpórase como punto 17 a las ACCIONES de la GERENCIA DE CONTROL DE GESTIÓN FERROVIARIA, establecidas en el ANEXO III del Decreto Nº\u00A01388/96, y su modificatorio el siguiente:\n\n\"17. Intervenir en los conflictos que se susciten por la implementación de la modalidad de acceso abierto\"."
         },
         {
           "referencias-normativas": {
@@ -384,11 +372,11 @@
             }
           },
           "numero-articulo": 14,
-          "texto": "ARTÍCULO 14.- Instrúyese a la COMISIÓN NACIONAL DE REGULACIÓN DEL TRANSPORTE para que, en el marco de la elaboración del proyecto de optimización de su estructura organizativa dispuesto por el   artículo 11 del Decreto Nº\u00A0632 del 6 de julio de 2018, incorpore las previsiones que resultaren pertinentes a fin de dar cumplimiento a lo previsto en presente decreto y en el Anexo que lo integra."
+          "texto": "ARTÍCULO 14.- Instrúyese a la COMISIÓN NACIONAL DE REGULACIÓN DEL TRANSPORTE para que, en el marco de la elaboración del proyecto de optimización de su estructura organizativa dispuesto por el artículo 11 del Decreto Nº\u00A0632 del 6 de julio de 2018, incorpore las previsiones que resultaren pertinentes a fin de dar cumplimiento a lo previsto en presente decreto y en el Anexo que lo integra."
         },
         {
           "numero-articulo": 15,
-          "texto": "ARTÍCULO 15.- Facúltase al MINISTERIO DE TRANSPORTE a dictar las normas aclaratorias y complementarias que resulten necesarias para el cumplimiento de la reglamentación que se aprueba por el   artículo 1º del presente."
+          "texto": "ARTÍCULO 15.- Facúltase al MINISTERIO DE TRANSPORTE a dictar las normas aclaratorias y complementarias que resulten necesarias para el cumplimiento de la reglamentación que se aprueba por el artículo 1º del presente."
         },
         {
           "numero-articulo": 16,
@@ -407,7 +395,8 @@
         "titulo-anexo": "ANEXO I",
         "texto": "ANEXO I"
       },
-      "id-infojus": "DN20180001027"
+      "id-infojus": "DN20180001027",
+      "fecha-umod": 20250718085730
     }
   }
 }
