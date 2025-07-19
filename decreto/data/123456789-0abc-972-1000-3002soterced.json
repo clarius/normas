@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-972-1000-3002soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410992229491,
+      "timestamp": 1752499486234,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,55 +16,56 @@
     },
     "content": {
       "mecanografico": 20030001279,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1279,
+      "fecha": "2003-05-23",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1279,
-      "timestamp-m": "2011-10-26T09:36:29",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2003-05-23",
       "standard-normativo": "DEC C 001279 2003 05 23",
       "titulo-norma": "INSTITUTO NACIONAL DE VITIVINICULTURA. APROBACION DE ESTRUCTURA ORGANICA DEL PRIMER NIVEL OPERATIVO.",
+      "nombre-coloquial": "DECRETO NACIONAL 1279/2003",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2003 05 26"
         }
       },
-      "efecto-activo": {
-        "referencia-normativa": {
-          "cr": "POR ART. 7",
-          "id": "DEROGA A0",
-          "ref": "DEC C 001084 1996 09 26 0000 000"
-        }
-      },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 1279/2003",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2003-05-26",
-      "fecha-mod": "2011-10-26",
-      "uid-alta": "SAUID",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-14",
+      "fecha-mod": "2025-07-14",
+      "timestamp": "2025-07-14T10:15:46",
+      "timestamp-alta": "2025-07-14T10:15:46",
+      "timestamp-m": "2025-07-14T10:15:46",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000462 2025 07 07 0045 000 0000 000"
+          }
+        },
         "sintesis": "SE APRUEBA LA ESTRUCTURA ORGANICA DEL PRIMER NIVEL OPERATIVO DEL INSTITUTO NACIONAL DE VITIVINICULTURA DEL MINISTERIO DE LA PRODUCCION.",
         "anexos-decreto": {
           "anexo-ley": [
-            "0000IA ANEXO I.",
-            "000IIB ANEXO II",
-            "00IIIC ANEXO III"
+            "A ANEXO I.",
+            "B ANEXO II",
+            "C ANEXO III"
           ]
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 8",
-        "informacion-vinculada": 1E+19
-      },
-      "noticias-accesorias": {
-        "texto": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 8"
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 8"
       },
       "descriptores": {
         "descriptor": [
@@ -81,15 +82,6 @@
           },
           {
             "elegido": {
-              "termino": "Instituto Nacional de Vitivinicultura"
-            },
-            "preferido": {
-              "termino": "Instituto Nacional de Vitivinicultura"
-            },
-            "sinonimos": null
-          },
-          {
-            "elegido": {
               "termino": "estructura orgánica"
             },
             "preferido": {
@@ -102,17 +94,27 @@
                 "organismos centralizados",
                 "entes públicos",
                 "función pública",
-                "organismos administrativos",
                 "organismos públicos",
+                "organismos administrativos",
                 "reparticiones nacionales"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "INSTITUTO NACIONAL DE VITIVINICULTURA"
+            },
+            "preferido": {
+              "termino": "INSTITUTO NACIONAL DE VITIVINICULTURA"
+            },
+            "sinonimos": null
           }
         ],
         "suggest": {
           "termino": [
             "organismos centralizados (administración centralizada)",
             "organismos públicos (organismos del Estado)",
+            "INSTITUTO NACIONAL DE VITIVINICULTURA",
             "función pública (Administración Pública)",
             "administración centralizada",
             "entidades gubernamentales (organismos del Estado)",
@@ -121,48 +123,47 @@
             "estructura orgánica",
             "organismos del Estado",
             "reparticiones nacionales (organismos del Estado)",
-            "órgano administrativo (organismos del Estado)",
             "Derecho administrativo",
-            "entes públicos (organismos del Estado)",
-            "Instituto Nacional de Vitivinicultura"
+            "órgano administrativo (organismos del Estado)",
+            "entes públicos (organismos del Estado)"
           ]
         }
       },
       "visto": {
-        "texto": "VISTO  el Expediente N S01:0071561/2003 del registro del MINISTERIO DE LA PRODUCCION,  las  Leyes  Nros.  14.878,  24.566,  25.163, los Decretos Nros. 2284 de fecha 31 de octubre de 1991, ratificado  por la  Ley  N  24.307; 1084 de fecha 26 de septiembre de 1996, 1565 de fecha 19 de diciembre de 1996, 23 de fecha 23 de diciembre de 2001, 157 de fecha  21  de  enero  de 2002, 344 de fecha 18 de febrero de 2002 y 357 de fecha 21 de febrero de 2002, y"
+        "texto": "VISTO el Expediente N S01:0071561/2003 del registro del MINISTERIO DE LA PRODUCCION, las Leyes Nros. 14.878, 24.566, 25.163, los Decretos Nros. 2284 de fecha 31 de octubre de 1991, ratificado por la Ley N 24.307; 1084 de fecha 26 de septiembre de 1996, 1565 de fecha 19 de diciembre de 1996, 23 de fecha 23 de diciembre de 2001, 157 de fecha 21 de enero de 2002, 344 de fecha 18 de febrero de 2002 y 357 de fecha 21 de febrero de 2002, y"
       },
       "considerando": {
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que mediante el Decreto N 1084  de  fecha 26 de septiembre de 1996, se dispuso que la conducción del INSTITUTO NACIONAL DE VITIVINICULTURA, Entidad Autárquica en  el  ámbito de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS  del  MINISTERIO DE LA PRODUCCION, esté a cargo de un Director, Nacional designado  por el PODER  EJECUTIVO  NACIONAL  a propuesta de la mencionada Secretaría.\n\nQue  por  el  mismo  dispositivo  se  creó  el  CONSEJO  CONSULTIVO INTERPROVINCIAL del INSTITUTO  NACIONAL  DE VITIVINICULTURA, con la función  de  asesorar  al Director Nacional,  pero  sin  tener  sus opiniones carácter vinculante.\n\nQue  en  consonancia con lo  establecido  por  la  referida  norma, mediante el  Decreto  N  1565  de fecha 19 de diciembre de 1996, se aprobó la estructura organizativa  hasta primer nivel operativo del mencionado Instituto.\n\nQue con posterioridad al dictado de  dichos decretos fue sancionada la Ley N 25.163 (NORMAS GENERALES PARA LA DESIGNACION Y PRESENTACION DE VINOS Y BEBIDAS ESPIRITUOSAS DE ORIGEN VINICO DE LA REPUBLICA ARGENTINA), que impuso nuevas funciones al organismo, y a su vez, se pusieron en práctica los mecanismos de control derivados de la aplicación de la Ley N 24.566 (LEY  NACIONAL  DE  ALCOHOLES), causando ello profundos cambios en el funcionamiento de la  entidad.\n\nQue  resulta manifiesta la necesidad de adecuar tanto el órgano  de conducción  como  la estructura organizativa del INSTITUTO NACIONAL DE VITIVINICULTURA,  a la vez que hace aconsejable la supresión del CONSEJO CONSULTIVO INTERPROVINCIAL.\n\nQue la reforma de la estructura organizativa del organismo que ello implica se encuentra contemplada  entre  las  excepciones previstas por los artículos 17 y 18 de la Ley N 25.725 y  lo dispuesto por el artículo 7 de la Decisión Administrativa N 7 de fecha  24  de enero de 2003.\n\nQue  por  el Decreto N 357 del 21 de febrero de 2002, se aprobó  el organigrama de aplicación de la Administración Nacional Centralizada   hasta  el  nivel  de  Subsecretaría  y  los  ámbitos jurisdiccionales en los que actuarán los organismos descentralizados  detallados  en  el  Anexo  III  de  dicho Decreto.\n\nQue  en  lo  que  respecta  al órgano de conducción, los resultados experimentados con las distintas formas que éste ha revestido desde la creación del organismo, determinan  la conveniencia de restituir la integración que tenía hasta el dictado  del  Decreto  N  1084 de fecha 26 de septiembre de 1996; esto es, con UN (1) Presidente y UN (1)  Vicepresidente,  conforme  lo  estableciera el artículo 54 del Decreto N 2284 de fecha 31 de octubre  de  1991,  ratificado por el artículo 13 de la Ley N 24.307.\n\nQue  se  encuentra en funciones como responsable del  organismo  el funcionario  designado  mediante  el Decreto N 56 del 8 de enero de 2002.\n\nQue las medidas que se adoptan por el presente acto serán atendidas con los créditos previstos en el presupuesto  vigente del INSTITUTO NACIONAL    DE   VITIVINICULTURA,  no  implicando  en  consecuencia erogaciones mayores a las ya autorizadas.\n\nQue la SUBSECRETARIA  DE  LA  GESTION  PUBLICA  de  la  JEFATURA DE GABINETE DE MINISTROS ha tomado la intervención que le compete,  en virtud  de  la  competencia asignada, como así también, la COMISION TECNICA  ASESORA  DE  POLITICA  SALARIAL  DEL  SECTOR  PUBLICO  del MINISTERIO DE ECONOMIA.\n\nQue el presente acto se dicta en uso de las atribuciones emergentes del ARTICULO 99, inciso 1 de la CONSTITUCION NACIONAL.\n\nPor ello,"
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que mediante el Decreto N 1084 de fecha 26 de septiembre de 1996, se dispuso que la conducción del INSTITUTO NACIONAL DE VITIVINICULTURA, Entidad Autárquica en el ámbito de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION, esté a cargo de un Director, Nacional designado por el PODER EJECUTIVO NACIONAL a propuesta de la mencionada Secretaría.\n\nQue por el mismo dispositivo se creó el CONSEJO CONSULTIVO INTERPROVINCIAL del INSTITUTO NACIONAL DE VITIVINICULTURA, con la función de asesorar al Director Nacional, pero sin tener sus opiniones carácter vinculante.\n\nQue en consonancia con lo establecido por la referida norma, mediante el Decreto N 1565 de fecha 19 de diciembre de 1996, se aprobó la estructura organizativa hasta primer nivel operativo del mencionado Instituto.\n\nQue con posterioridad al dictado de dichos decretos fue sancionada la Ley N 25.163 (NORMAS GENERALES PARA LA DESIGNACION Y PRESENTACION DE VINOS Y BEBIDAS ESPIRITUOSAS DE ORIGEN VINICO DE LA REPUBLICA ARGENTINA), que impuso nuevas funciones al organismo, y a su vez, se pusieron en práctica los mecanismos de control derivados de la aplicación de la Ley N 24.566 (LEY NACIONAL DE ALCOHOLES), causando ello profundos cambios en el funcionamiento de la entidad.\n\nQue resulta manifiesta la necesidad de adecuar tanto el órgano de conducción como la estructura organizativa del INSTITUTO NACIONAL DE VITIVINICULTURA, a la vez que hace aconsejable la supresión del CONSEJO CONSULTIVO INTERPROVINCIAL.\n\nQue la reforma de la estructura organizativa del organismo que ello implica se encuentra contemplada entre las excepciones previstas por los artículos 17 y 18 de la Ley N 25.725 y lo dispuesto por el artículo 7 de la Decisión Administrativa N 7 de fecha 24 de enero de 2003.\n\nQue por el Decreto N 357 del 21 de febrero de 2002, se aprobó el organigrama de aplicación de la Administración Nacional Centralizada hasta el nivel de Subsecretaría y los ámbitos jurisdiccionales en los que actuarán los organismos descentralizados detallados en el Anexo III de dicho Decreto.\n\nQue en lo que respecta al órgano de conducción, los resultados experimentados con las distintas formas que éste ha revestido desde la creación del organismo, determinan la conveniencia de restituir la integración que tenía hasta el dictado del Decreto N 1084 de fecha 26 de septiembre de 1996; esto es, con UN (1) Presidente y UN (1) Vicepresidente, conforme lo estableciera el artículo 54 del Decreto N 2284 de fecha 31 de octubre de 1991, ratificado por el artículo 13 de la Ley N 24.307.\n\nQue se encuentra en funciones como responsable del organismo el funcionario designado mediante el Decreto N 56 del 8 de enero de 2002.\n\nQue las medidas que se adoptan por el presente acto serán atendidas con los créditos previstos en el presupuesto vigente del INSTITUTO NACIONAL DE VITIVINICULTURA, no implicando en consecuencia erogaciones mayores a las ya autorizadas.\n\nQue la SUBSECRETARIA DE LA GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS ha tomado la intervención que le compete, en virtud de la competencia asignada, como así también, la COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTOR PUBLICO del MINISTERIO DE ECONOMIA.\n\nQue el presente acto se dicta en uso de las atribuciones emergentes del ARTICULO 99, inciso 1 de la CONSTITUCION NACIONAL.\n\nPor ello,"
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "Artículo 1 - La conducción del INSTITUTO NACIONAL DE VITIVINICULTURA estará  a  cargo  de  UN (1) Presidente y de UN (1) Vicepresidente, los que serán designados  por  el  PODER  EJECUTIVO NACIONAL  a  propuesta  de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION. Ambos funcionarios  deberán  poseer    título    de  Ingeniero  Agrónomo, Licenciado en Enología u otro de nivel universitario  equivalente y afín con dichas materias."
+          "texto": "Artículo 1 - La conducción del INSTITUTO NACIONAL DE VITIVINICULTURA estará a cargo de UN (1) Presidente y de UN (1) Vicepresidente, los que serán designados por el PODER EJECUTIVO NACIONAL a propuesta de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION. Ambos funcionarios deberán poseer título de Ingeniero Agrónomo, Licenciado en Enología u otro de nivel universitario equivalente y afín con dichas materias."
         },
         {
           "numero-articulo": 2,
-          "texto": "Art.  2  -  El  Presidente  tendrá  las  funciones  y  atribuciones establecidas por el artículo 7 de la Ley N 14.878 y sus modificatorias y las previstas por el artículo 8 de la misma  norma para el Consejo Directivo, órgano suprimido por el artículo 54  del Decreto  N  2284  de fecha 31 de octubre de 1991. El Vicepresidente ejercerá las funciones  que le delegue el Presidente y sustituirá a éste en casos de ausencia o imposibilidad temporaria."
+          "texto": "Art. 2 - El Presidente tendrá las funciones y atribuciones establecidas por el artículo 7 de la Ley N 14.878 y sus modificatorias y las previstas por el artículo 8 de la misma norma para el Consejo Directivo, órgano suprimido por el artículo 54 del Decreto N 2284 de fecha 31 de octubre de 1991. El Vicepresidente ejercerá las funciones que le delegue el Presidente y sustituirá a éste en casos de ausencia o imposibilidad temporaria."
         },
         {
           "numero-articulo": 3,
-          "texto": "Art. 3 - Establécese que  a  partir  de  la  vigencia  del presente decreto  en  todas  las  normas  legales  y  reglamentarias y actos dictados  en  consecuencia,  donde  dice  Director    Nacional  del INSTITUTO  NACIONAL  DE  VITIVINICULTURA debe entenderse Presidente del INSTITUTO NACIONAL DE VITIVINICULTURA."
+          "texto": "Art. 3 - Establécese que a partir de la vigencia del presente decreto en todas las normas legales y reglamentarias y actos dictados en consecuencia, donde dice Director Nacional del INSTITUTO NACIONAL DE VITIVINICULTURA debe entenderse Presidente del INSTITUTO NACIONAL DE VITIVINICULTURA."
         },
         {
           "numero-articulo": 4,
-          "texto": "Art. 4 - Las remuneraciones  del Presidente y Vicepresidente; serán equivalentes  a  las  sumas  que  resulten  de  considerar  la  que corresponda por todo concepto al funcionario  de  planta permanente de mayor rango escalafonario, incrementada en el VEINTE  POR CIENTO (20%) y DIEZ POR CIENTO (10%) respectivamente."
+          "texto": "Art. 4 - Las remuneraciones del Presidente y Vicepresidente; serán equivalentes a las sumas que resulten de considerar la que corresponda por todo concepto al funcionario de planta permanente de mayor rango escalafonario, incrementada en el VEINTE POR CIENTO (20%) y DIEZ POR CIENTO (10%) respectivamente."
         },
         {
           "numero-articulo": 5,
-          "texto": "Art.  5  -  Apruébase  la  estructura organizativa del primer nivel operativo  del  INSTITUTO NACIONAL  DE  VITIVINICULTURA,  organismo descentralizado  dependiente   de  la  SECRETARIA  DE  AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del  MINISTERIO  DE  LA PRODUCCION, de conformidad con el Organigrama, Objetivos, Responsabilidad Primaria y Acciones y Dotación, los que como Anexos I, II y III forman parte integrante del presente decreto.\n\nHasta tanto sean aprobadas las aperturas inferiores de las unidades organizativas que se establecen por la presente medida,  mantiénese la vigencia de las existentes a la fecha de publicación de la misma con  los niveles y grados de revista del personal involucrado,  así como  también   las  correspondientes  al  régimen  de  cargos  con funciones ejecutivas."
+          "texto": "Art. 5 - Apruébase la estructura organizativa del primer nivel operativo del INSTITUTO NACIONAL DE VITIVINICULTURA, organismo descentralizado dependiente de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION, de conformidad con el Organigrama, Objetivos, Responsabilidad Primaria y Acciones y Dotación, los que como Anexos I, II y III forman parte integrante del presente decreto.\n\nHasta tanto sean aprobadas las aperturas inferiores de las unidades organizativas que se establecen por la presente medida, mantiénese la vigencia de las existentes a la fecha de publicación de la misma con los niveles y grados de revista del personal involucrado, así como también las correspondientes al régimen de cargos con funciones ejecutivas."
         },
         {
           "numero-articulo": 6,
-          "texto": "Art. 6 - El gasto  que  demande la aplicación del presente decreto, será  atendido  con  los  créditos   de  las  partidas  específicas asignadas  al  INSTITUTO  NACIONAL  DE  VITIVINICULTURA    por   el Presupuesto de la Administración Nacional vigente."
+          "texto": "Art. 6 - El gasto que demande la aplicación del presente decreto, será atendido con los créditos de las partidas específicas asignadas al INSTITUTO NACIONAL DE VITIVINICULTURA por el Presupuesto de la Administración Nacional vigente."
         },
         {
           "numero-articulo": 7,
-          "texto": "Art.  7  -  Derógase el Decreto N 1084 de fecha 26 de septiembre de 1996.",
+          "texto": "Art. 7 - Derógase el Decreto N 1084 de fecha 26 de septiembre de 1996.",
           "deroga-a": {
             "referencia-normativa": {
               "cr": null,
@@ -173,7 +174,7 @@
         },
         {
           "numero-articulo": 8,
-          "texto": "Art. 8 - Comuníquese,  publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+          "texto": "Art. 8 - Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
         }
       ],
       "firmantes": {
@@ -186,7 +187,7 @@
           "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 1",
           "articulo": {
             "numero-articulo": 1,
-            "texto": "INSTITUTO NACIONAL                       DE VITIVINICULTURA                          Presidencia                         Vicepresidencia                                            UNIDAD DE                                        AUDITORIA INTERNA GERENCIA DE FISCALIZACION                                        SUBGERENCIA DE               SUBGERENCIA DE                         ADMINISTRACION            ASUNTOS JURIDICOS                       DEPARTAMENTO DE   CENTRO DE PRENSA                         DESPACHO         E INFORMACION"
+            "texto": "INSTITUTO NACIONAL DE VITIVINICULTURA Presidencia Vicepresidencia UNIDAD DE AUDITORIA INTERNA GERENCIA DE FISCALIZACION SUBGERENCIA DE  SUBGERENCIA DE ADMINISTRACION ASUNTOS JURIDICOS  DEPARTAMENTO DE CENTRO DE PRENSA DESPACHO E INFORMACION"
           }
         },
         {
@@ -195,7 +196,7 @@
           "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 1",
           "articulo": {
             "numero-articulo": 1,
-            "texto": "INSTITUTO NACIONAL DE VITIVINICULTURA Objetivos - Aprobar  y coordinar la ejecución de planes y programas para el control de la genuinidad y aptitud para el consumo de los productos vitivinícolas,  en  las  etapas    de   produ  cción,  elaboración, fraccionamiento y comercialización, de acuerdo con lo dispuesto por la  Ley  N  14.878  y    normas  modificatorias  y  complementarias.\n\n-  Aprobar y coordinar la ejecución  de  planes  y  programas  para ejercer   el control de la producción, circulación, fraccionamiento y comercialización  de  alcoholes, conforme a lo normado por la Ley Nacional de Alcoholes N 24.566.\n\n- Promover investigaciones  sobre los productos vitivinícolas y los alc  oholes  para  lograr  la  permanente    actualización  de  los mecanismos de control frente a las innovaciones  t  ecnológicas y a las nuevas técnicas analíticas puestas en vigencia en los distintos países.\n\n-  Participar  en  reuniones de organismos técnicos internacionales vincu  lados al sector  vitivinícola  y  alcoholes,  a  efectos  de aumentar   la  gravitación  de  la  REPUBLICA  ARGENTINA  en  las decisiones que se adoptan en los mismos.\n\n- Entender en las certificaciones correspondientes a las exportaciones , contribuyendo a la adopción de medidas destinadas a facilitar el  comercio  internacional  de  los  pro  ductos  de  su competencia.\n\n-  Adoptar  un  sistema  de  aseguramiento  de la calidad en base a normas i nternacionalmente reconocidas.\n\n- Entender en la ejecución de las normas que hacen a la designación del origen de vinos y bebidas espirituosas de  naturaleza  vínica, conforme a la Ley N 25.163.\n\n-  Coordinar  y realizar en su carácter de organismo específico  la actua lización  permanente  de  las estadísticas vitivinícolas y de alcoholes,  siendo responsable de  aportar  esta  información  al SISTEMA ESTADISTICO NACIONAL (SEN) Ley N 17.622, y su reglamentación, a la SECRETARIA DE PROGRAMACION PARA LA PREVENCION DE LA DROGADICCION  Y LUCHA CONTRA EL NARCOTRÁ- FICO (SEDRONAR) Ley N 24.788 y su reglamentación, y a la ORGANIZACION  INTERNACIONAL DE LA VID Y DEL VINO (O.I.V.) como delegado oficial por la REPUBLICA ARGENTINA.\n\n- Poner en vigencia las  disposiciones  que en materia vitivinícola se  adopten en el Mercado Común del Sur (MERCOSUR),  interviniendo en la armonización de las normas técnicas del control.\n\n- Integrar como órgano técnico específico en materia vitivinícola y de alcoholes los sistemas y cuerpos de la SECRETARIA DE AGRICULTURA,  GANADERIA,  PESCA  Y  ALIMENTOS  del MINISTERIO DE LA PRODUCCIÓN, a fin de lograr una actuación  coordinada en el ámbito de la actividad vitivinícola y de alcoholes.\n\n- Asistir a organismos nacionales y provinciales en los temas de su competencia.\n\nUNIDAD DE AUDITORIA INTERNA Responsabilidad  Primaria Verificar el mantenimiento  de  un  adecuado  sistema  de  control  interno incorporado a la organización del INSTITUTO NACIONAL DE VITIVINICULTURA, privilegiando las pautas de economía, eficiencia y eficacia.\n\nAcciones  - Establecer  la  planificación  general  y  anual de la Auditoría  Interna    y los programas específicos, conforme  a  las pautas establecidas por  la  SINDICATURA  GENERAL  DE  LA  NACION.\n\n- Evaluar el cumplimiento de las políticas, planes y procedimientos es tablecidos por la autoridad superior.\n\n-  Asesorar  en  la  determinación  de  las normas y procedimientos propios  del Sistema de Control Interno.\n\n- Verificar el cumplimiento de la normativa  vigente  en la gestión del    Organismo,  tanto  en  materia  administrativa  como técnica específica.\n\n- Constatar la confiabilidad de los antecedentes utilizados para la el aboración de los informes o estados contables.\n\n- Emitir informes periódicos respecto de las auditorias  realizadas y otros controles practicados.\n\n- Informar a las autoridades superiores y a la SINDICATURA  GENERAL DE    LA NACION, el resultado del seguimiento de las observaciones, conclusiones y cumplimiento de l as recomendaciones que se hubieren realizado.\n\n- Informar  sobre los temas que la SINDICATURA GENERAL DE LA NACION le  requiera  en  lo  atinente  al  desarrollo  de  sus actividades.\n\n-  Evaluar  aquellos actos administrativos que por su trascendencia econ ómica puedan  afectar en forma significativa el patrimonio del Organismo.\n\nGERENCIA DE FISCALIZACION Responsabilidad Primaria Administrar, en todo el ámbito del Territorio  Nacional, las normas procedimientos establecidos  en  las Leyes Nros.  14.878,  24.566 y  25.163,  sus complementarias, ampliato  rias  y  reglamentarias, a  través  del contralor  técnico y legal de la producción, industrialización y comercialización  de  los productos vitivinícolas y alcoholes, con el objeto de asegurar la  genuinidad y aptitud para el consumo de los productos definidos en los  mencionados instrumentos legales, tanto par a el consumo interno como para la exportación.\n\nAcciones - Programar, coordinar y supervisar la fiscalización de la producción, industrialización y comercialización de los productos y subproductos vitivinícolas y alcoholes.\n\n- Planificar y supervisar estudios vitivinícolas y de alcoholes que sobre bases científico-técnicas permitan la permanente actualización  del  control  y de  las  normas  de  procedimiento.\n\n- Supervisar la actualización  permanente  de los registros bajo su órbita  y  la  elaboración de la información estadística  de  los sectores vitivinícola  y  de  alcoholes  pa  ra  aportar al Sistema Estadístico Nacional y a otros usos.\n\n- Intervenir en la certificación de la clasificación  legal  de los prod uctos en función del resultado de sus análisis.\n\n-   Supervisar  las  actividades  de  las  delegaciones  y  de  los laboratorios del Organismo en el país.\n\n- Promover  la  normalización  y  oficialización  de los métodos de análisi s de control de vinos, alcoholes y productos  enológicos en los laboratorios del Organismo, conforme a l as normas nacionales e internacionales sobre calidad y certificación.\n\n-  Intervenir en la aprobación de productos de uso enológico  y  de otros productos o elementos de uso en establecimientos vitivinícolas  y  de  producción, fraccionamiento y manipulación de alcoholes.\n\n- Entender en la fijación  de  tolerancias y límites de componentes en v inos, alcoholes y productos enológicos.\n\n- Organizar y supervisar los controles  inherentes  a la aplicación de la Ley N 25.163.\n\n-  Participar  en  reuniones  técnicas  de organismos nacionales  e internac ionales, sobre temas de su competencia,  interviniendo  en la toma de decisiones y aprobación de no rmas que puedan incidir en el control de vinos y alcoholes.\n\n-  Intervenir  en  las  actuaciones  sumariales  derivadas  de  las transgresiones a las Leyes Nros.14.878, 24.566 y 25.163.\n\nSUBGERENCIA DE ADMINISTRACION Responsabilidad Primaria Coordinar  y supervisar   las  actividades  relativas  a  los  servicios  de  administración financiera, de mantenimiento y suministros, informáticas y de recursos humanos.\n\nAcciones - Participar  en  la  formulación  y diseño de la política presupuestaria  y administrativa institucional.\n\n-  Coordinar  y  supervisar  la  planificación y ejecución  de  los procesos  administrativos, contables,  financieros,  informáticos y de servicios generales.\n\n-  Formular  planes,  programas y proyectos en materia de  recursos financ ieros, sistemas administrativo-contables y patrimoniales, de compras,  de  innovación  te  cnológica  y  desarrollo  informático.\n\n- Administrar la  política  de  recursos humanos y la aplicación de las n ormas en la materia.\n\n- Intervenir en la elaboración de  los proyectos de leyes, decretos y  resoluciones vinculados al quehacer  sustantivo  del  Organismo.\n\n- Promover  la  aplicación  de  los  Sistemas  de  Control  Interno.\n\nSUBGERENCIA  DE ASUNTOS JURIDICOS Responsabilidad Primaria Asesorar en todos los asuntos  de  carácter  jurídico  en  el  ámbito del Organismo,  intervenir  y  dictaminar sobre  los proyectos de  actos administrativos que se generen en el mismo y ejercer la representación  del  INSTITUTO NACIONAL DE VITIVINICULTURA  en  los procesos judiciales en que es parte.\n\nAcciones - Asistir en  la  aplicación del régimen contravencional y punitivo  previsto en las Leyes  Nros.  14.878,  24.566  y  25.163.\n\n- Participar  y  asesorar  en  todo asunto de carácter jurídico que involu  cre  a  las leyes citadas o  que  sea  de  competencia  del Organismo a fin de  asegurar  la  legalidad  de  los procedimientos.\n\n-  Intervenir,  asesorar  y  asistir  en  los  proyectos  de  actos administrativos y en los temas legales administrativos relativos a procedimientos,  sumarios,  legislación  labo  ral  administrativa, contrataciones y convenios del personal.\n\n-  Emitir dictámenes y evacuar consultas en los casos  determinados por    normas  legales  o  por necesidades de servicio e instar los recursos  y  demás  reclamaciones   y    denuncias  administrativas.\n\n- Representar y patrocinar al INSTITUTO NACIONAL DE VITIVINICULTURA en los juicios en que sea parte o tomando intervención, diligenciando y controlando el venci  miento  de todos los oficios, cédulas y demás requerimientos judiciales.\n\n- Intervenir, en el ámbito de su competencia, como parte querellante en los asuntos penales.\n\n- Organizar, coordinar y procesar la información  en  materia de su comp  etencia  y  centralizar  la  información de los registros  de infractores a las Leyes de Vinos y Alcoholes.\n\nDEPARTAMENTO DE DESPACHO Responsabilidad  Primaria Entender  en la gestión de la documentación administrativa y atender el despacho de la Presidencia del INSTITUTO NACIONAL DE VITIVINICULTURA.\n\nAcciones   - Entender  en  el  diligenciamiento  de  los  actos  y actuaciones    administr  ativas,  su  seguimiento,  distribución, clasificación, registro y archivo.\n\n- Participar en la redacción  y  confección  de proyectos de leyes, decre tos, decisiones administrativas, resoluciones  ministeriales, resoluciones y disposiciones y entender en el registro, protocolización  y  difusión  de  los  actos  administrativos   que correspondan.\n\n-  Entender  en  la centralización y prestación de los servicios de Mesa  de Entradas  y  Salidas  y  de  Archivo General del Organismo.\n\n- Fiscalizar la redacción y el cumplimiento  de las normas vigentes ref eridas a la confección, plazos de tramitación de los expedientes administrativos y difusión de los actos administrativos.\n\n- Participar en el diligenciamiento de las actuaciones  sometidas a consideración de la Presidencia del Organismo.\n\n-  Desarrollar  dentro  del  Sistema  de  diligenciamiento  de  las actuaciones,  Subsistemas  que aseguren la conducción económica y eficiente de las actividades del  Despacho  y  la evaluación de los resultados de la gestión.\n\nCENTRO DE PRENSA E INFORMACION Responsabilidad Primaria Entender en todo  lo  relacionado  con la centralización y el suministro    de información vinculada con las actividades del INSTITUTO NACIONAL DE VITIVINICULTURA.\n\nAcciones - Coordinar la  recopilación  y actualización del material destinado a l a biblioteca del Organismo y supervisar el funcionamiento de ésta.\n\n- Promover el intercambio de la información con otras bibliotecas y ce ntros de documentación del país y del extranjero.\n\n- Coordinar la centralización de la información  que  deba producir el Organismo.\n\n-  Suministrar  a  los medios de difusión, instituciones oficiales, privadas y público  en  general  la  información  producida por el Organismo.\n\n- Organizar las reuniones de prensa y actos de difusión.\n\n-  Efectuar la organización editorial en todas sus etapas  para  la produ cción de las publicaciones del Instituto.\n\n- Analizar  y  evaluar la información periodística que se refiera o interese al Organismo.\n\n- Intervenir en la organización y desarrollo de actos, ceremoniales o  reuniones oficiales o protocolares."
+            "texto": "INSTITUTO NACIONAL DE VITIVINICULTURA Objetivos - Aprobar y coordinar la ejecución de planes y programas para el control de la genuinidad y aptitud para el consumo de los productos vitivinícolas, en las etapas de produ cción, elaboración, fraccionamiento y comercialización, de acuerdo con lo dispuesto por la Ley N 14.878 y normas modificatorias y complementarias.\n\n- Aprobar y coordinar la ejecución de planes y programas para ejercer el control de la producción, circulación, fraccionamiento y comercialización de alcoholes, conforme a lo normado por la Ley Nacional de Alcoholes N 24.566.\n\n- Promover investigaciones sobre los productos vitivinícolas y los alc oholes para lograr la permanente actualización de los mecanismos de control frente a las innovaciones t ecnológicas y a las nuevas técnicas analíticas puestas en vigencia en los distintos países.\n\n- Participar en reuniones de organismos técnicos internacionales vincu lados al sector vitivinícola y alcoholes, a efectos de aumentar la gravitación de la REPUBLICA ARGENTINA en las decisiones que se adoptan en los mismos.\n\n- Entender en las certificaciones correspondientes a las exportaciones , contribuyendo a la adopción de medidas destinadas a facilitar el comercio internacional de los pro ductos de su competencia.\n\n- Adoptar un sistema de aseguramiento de la calidad en base a normas i nternacionalmente reconocidas.\n\n- Entender en la ejecución de las normas que hacen a la designación del origen de vinos y bebidas espirituosas de naturaleza vínica, conforme a la Ley N 25.163.\n\n- Coordinar y realizar en su carácter de organismo específico la actua lización permanente de las estadísticas vitivinícolas y de alcoholes, siendo responsable de aportar esta información al SISTEMA ESTADISTICO NACIONAL (SEN) Ley N 17.622, y su reglamentación, a la SECRETARIA DE PROGRAMACION PARA LA PREVENCION DE LA DROGADICCION Y LUCHA CONTRA EL NARCOTRÁ- FICO (SEDRONAR) Ley N 24.788 y su reglamentación, y a la ORGANIZACION INTERNACIONAL DE LA VID Y DEL VINO (O.I.V.) como delegado oficial por la REPUBLICA ARGENTINA.\n\n- Poner en vigencia las disposiciones que en materia vitivinícola se adopten en el Mercado Común del Sur (MERCOSUR), interviniendo en la armonización de las normas técnicas del control.\n\n- Integrar como órgano técnico específico en materia vitivinícola y de alcoholes los sistemas y cuerpos de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCIÓN, a fin de lograr una actuación coordinada en el ámbito de la actividad vitivinícola y de alcoholes.\n\n- Asistir a organismos nacionales y provinciales en los temas de su competencia.\n\nUNIDAD DE AUDITORIA INTERNA Responsabilidad Primaria Verificar el mantenimiento de un adecuado sistema de control interno incorporado a la organización del INSTITUTO NACIONAL DE VITIVINICULTURA, privilegiando las pautas de economía, eficiencia y eficacia.\n\nAcciones - Establecer la planificación general y anual de la Auditoría Interna y los programas específicos, conforme a las pautas establecidas por la SINDICATURA GENERAL DE LA NACION.\n\n- Evaluar el cumplimiento de las políticas, planes y procedimientos es tablecidos por la autoridad superior.\n\n- Asesorar en la determinación de las normas y procedimientos propios del Sistema de Control Interno.\n\n- Verificar el cumplimiento de la normativa vigente en la gestión del Organismo, tanto en materia administrativa como técnica específica.\n\n- Constatar la confiabilidad de los antecedentes utilizados para la el aboración de los informes o estados contables.\n\n- Emitir informes periódicos respecto de las auditorias realizadas y otros controles practicados.\n\n- Informar a las autoridades superiores y a la SINDICATURA GENERAL DE LA NACION, el resultado del seguimiento de las observaciones, conclusiones y cumplimiento de l as recomendaciones que se hubieren realizado.\n\n- Informar sobre los temas que la SINDICATURA GENERAL DE LA NACION le requiera en lo atinente al desarrollo de sus actividades.\n\n- Evaluar aquellos actos administrativos que por su trascendencia econ ómica puedan afectar en forma significativa el patrimonio del Organismo.\n\nGERENCIA DE FISCALIZACION Responsabilidad Primaria Administrar, en todo el ámbito del Territorio Nacional, las normas procedimientos establecidos en las Leyes Nros. 14.878, 24.566 y 25.163, sus complementarias, ampliato rias y reglamentarias, a través del contralor técnico y legal de la producción, industrialización y comercialización de los productos vitivinícolas y alcoholes, con el objeto de asegurar la genuinidad y aptitud para el consumo de los productos definidos en los mencionados instrumentos legales, tanto par a el consumo interno como para la exportación.\n\nAcciones - Programar, coordinar y supervisar la fiscalización de la producción, industrialización y comercialización de los productos y subproductos vitivinícolas y alcoholes.\n\n- Planificar y supervisar estudios vitivinícolas y de alcoholes que sobre bases científico-técnicas permitan la permanente actualización del control y de las normas de procedimiento.\n\n- Supervisar la actualización permanente de los registros bajo su órbita y la elaboración de la información estadística de los sectores vitivinícola y de alcoholes pa ra aportar al Sistema Estadístico Nacional y a otros usos.\n\n- Intervenir en la certificación de la clasificación legal de los prod uctos en función del resultado de sus análisis.\n\n- Supervisar las actividades de las delegaciones y de los laboratorios del Organismo en el país.\n\n- Promover la normalización y oficialización de los métodos de análisi s de control de vinos, alcoholes y productos enológicos en los laboratorios del Organismo, conforme a l as normas nacionales e internacionales sobre calidad y certificación.\n\n- Intervenir en la aprobación de productos de uso enológico y de otros productos o elementos de uso en establecimientos vitivinícolas y de producción, fraccionamiento y manipulación de alcoholes.\n\n- Entender en la fijación de tolerancias y límites de componentes en v inos, alcoholes y productos enológicos.\n\n- Organizar y supervisar los controles inherentes a la aplicación de la Ley N 25.163.\n\n- Participar en reuniones técnicas de organismos nacionales e internac ionales, sobre temas de su competencia, interviniendo en la toma de decisiones y aprobación de no rmas que puedan incidir en el control de vinos y alcoholes.\n\n- Intervenir en las actuaciones sumariales derivadas de las transgresiones a las Leyes Nros.14.878, 24.566 y 25.163.\n\nSUBGERENCIA DE ADMINISTRACION Responsabilidad Primaria Coordinar y supervisar las actividades relativas a los servicios de administración financiera, de mantenimiento y suministros, informáticas y de recursos humanos.\n\nAcciones - Participar en la formulación y diseño de la política presupuestaria y administrativa institucional.\n\n- Coordinar y supervisar la planificación y ejecución de los procesos administrativos, contables, financieros, informáticos y de servicios generales.\n\n- Formular planes, programas y proyectos en materia de recursos financ ieros, sistemas administrativo-contables y patrimoniales, de compras, de innovación te cnológica y desarrollo informático.\n\n- Administrar la política de recursos humanos y la aplicación de las n ormas en la materia.\n\n- Intervenir en la elaboración de los proyectos de leyes, decretos y resoluciones vinculados al quehacer sustantivo del Organismo.\n\n- Promover la aplicación de los Sistemas de Control Interno.\n\nSUBGERENCIA DE ASUNTOS JURIDICOS Responsabilidad Primaria Asesorar en todos los asuntos de carácter jurídico en el ámbito del Organismo, intervenir y dictaminar sobre los proyectos de actos administrativos que se generen en el mismo y ejercer la representación del INSTITUTO NACIONAL DE VITIVINICULTURA en los procesos judiciales en que es parte.\n\nAcciones - Asistir en la aplicación del régimen contravencional y punitivo previsto en las Leyes Nros. 14.878, 24.566 y 25.163.\n\n- Participar y asesorar en todo asunto de carácter jurídico que involu cre a las leyes citadas o que sea de competencia del Organismo a fin de asegurar la legalidad de los procedimientos.\n\n- Intervenir, asesorar y asistir en los proyectos de actos administrativos y en los temas legales administrativos relativos a procedimientos, sumarios, legislación labo ral administrativa, contrataciones y convenios del personal.\n\n- Emitir dictámenes y evacuar consultas en los casos determinados por normas legales o por necesidades de servicio e instar los recursos y demás reclamaciones y denuncias administrativas.\n\n- Representar y patrocinar al INSTITUTO NACIONAL DE VITIVINICULTURA en los juicios en que sea parte o tomando intervención, diligenciando y controlando el venci miento de todos los oficios, cédulas y demás requerimientos judiciales.\n\n- Intervenir, en el ámbito de su competencia, como parte querellante en los asuntos penales.\n\n- Organizar, coordinar y procesar la información en materia de su comp etencia y centralizar la información de los registros de infractores a las Leyes de Vinos y Alcoholes.\n\nDEPARTAMENTO DE DESPACHO Responsabilidad Primaria Entender en la gestión de la documentación administrativa y atender el despacho de la Presidencia del INSTITUTO NACIONAL DE VITIVINICULTURA.\n\nAcciones - Entender en el diligenciamiento de los actos y actuaciones administr ativas, su seguimiento, distribución, clasificación, registro y archivo.\n\n- Participar en la redacción y confección de proyectos de leyes, decre tos, decisiones administrativas, resoluciones ministeriales, resoluciones y disposiciones y entender en el registro, protocolización y difusión de los actos administrativos que correspondan.\n\n- Entender en la centralización y prestación de los servicios de Mesa de Entradas y Salidas y de Archivo General del Organismo.\n\n- Fiscalizar la redacción y el cumplimiento de las normas vigentes ref eridas a la confección, plazos de tramitación de los expedientes administrativos y difusión de los actos administrativos.\n\n- Participar en el diligenciamiento de las actuaciones sometidas a consideración de la Presidencia del Organismo.\n\n- Desarrollar dentro del Sistema de diligenciamiento de las actuaciones, Subsistemas que aseguren la conducción económica y eficiente de las actividades del Despacho y la evaluación de los resultados de la gestión.\n\nCENTRO DE PRENSA E INFORMACION Responsabilidad Primaria Entender en todo lo relacionado con la centralización y el suministro de información vinculada con las actividades del INSTITUTO NACIONAL DE VITIVINICULTURA.\n\nAcciones - Coordinar la recopilación y actualización del material destinado a l a biblioteca del Organismo y supervisar el funcionamiento de ésta.\n\n- Promover el intercambio de la información con otras bibliotecas y ce ntros de documentación del país y del extranjero.\n\n- Coordinar la centralización de la información que deba producir el Organismo.\n\n- Suministrar a los medios de difusión, instituciones oficiales, privadas y público en general la información producida por el Organismo.\n\n- Organizar las reuniones de prensa y actos de difusión.\n\n- Efectuar la organización editorial en todas sus etapas para la produ cción de las publicaciones del Instituto.\n\n- Analizar y evaluar la información periodística que se refiera o interese al Organismo.\n\n- Intervenir en la organización y desarrollo de actos, ceremoniales o reuniones oficiales o protocolares."
           }
         },
         {
@@ -204,11 +205,12 @@
           "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 1",
           "articulo": {
             "numero-articulo": 1,
-            "texto": "INSTITUTO NACIONAL DE VITIVINICULTURA                                   PLANTA PERMANENTE JURISDICCION: 54.00-MINISTERIO DE LA PRODUCCION ENTIDAD: 609 INSTITUTO NACIONAL DE VITIVINICULTURA PROGRAMA PRESUPUESTARIO: 16 ESCALAFON 300 (1)  ACTIVIDAD PRESUP.     UNIDAD ORGANIZATIVA     E/E  A  B  C    D  E  SUB-                                                        TOTAL 05            PRESIDENCIA            2   1  2  2    3      30  05       SUBGERENCIA DE JURIDICOS           1  1    4  1    7 05  CENTRO DE PRENSA E INFORMACION             2    2  1    5  05      DEPARTAMENTO DE DESPACHO               1    4  3    8 05  UNIDAD DE AUDITORIA INTERNA      1   0  1  2    1  0    5 01  GERENCIA DE FISCALIZACION        0   2 20 252  67 10  351 05 GERENCIA DE ADMINISTRACION        0   2  4  17  33 14   70 TOTALES                              3   5 28 277 114 29  456 (1) CORRESPONDIENTE A PLANTA PERMANENTE Y ESCALAFON 101 PARA EXTRAESCALAFONARIOS."
+            "texto": "INSTITUTO NACIONAL DE VITIVINICULTURA  PLANTA PERMANENTE JURISDICCION: 54.00-MINISTERIO DE LA PRODUCCION ENTIDAD: 609 INSTITUTO NACIONAL DE VITIVINICULTURA PROGRAMA PRESUPUESTARIO: 16 ESCALAFON 300 (1)  ACTIVIDAD PRESUP. UNIDAD ORGANIZATIVA E/E A B C D E SUB- TOTAL 05 PRESIDENCIA 2 1 2 2 3 30  05 SUBGERENCIA DE JURIDICOS 1 1 4 1 7 05 CENTRO DE PRENSA E INFORMACION 2 2 1 5  05 DEPARTAMENTO DE DESPACHO 1 4 3 8 05 UNIDAD DE AUDITORIA INTERNA 1 0 1 2 1 0 5 01 GERENCIA DE FISCALIZACION 0 2 20 252 67 10 351 05 GERENCIA DE ADMINISTRACION 0 2 4 17 33 14 70 TOTALES 3 5 28 277 114 29 456 (1) CORRESPONDIENTE A PLANTA PERMANENTE Y ESCALAFON 101 PARA EXTRAESCALAFONARIOS."
           }
         }
       ],
-      "id-infojus": "DN20030001279"
+      "id-infojus": "DN20030001279",
+      "fecha-umod": 20250714102446
     }
   }
 }
