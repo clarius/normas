@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g07-51000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1729506095290,
+      "timestamp": 1753099652327,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,18 +16,12 @@
     },
     "content": {
       "mecanografico": "S0001570",
-      "decreto-reglamentario": {
-        "referencia-normativa": {
-          "cr": null,
-          "id": "DECRETO_REGLAMENTARIO_0",
-          "ref": "DEC C 017265 1959 12 28 0000 000 0000 000"
-        }
-      },
-      "numero-norma": 15262,
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 15262,
       "fecha": "1959-12-10",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -36,12 +30,14 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 015262 1959 12 10",
+      "nombre-coloquial": "Ley 15.262",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "LEY 15.262",
           "BUENOS AIRES, 10 DE DICIEMBRE DE 1959"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
       "titulo-norma": "SIMULTANEIDAD DE ELECCIONES NACIONALES, PROVINCIALES Y MUNICIPALES.",
       "publicacion-codificada": {
         "publicacion-decodificada": {
@@ -49,20 +45,23 @@
           "fecha": "1959 12 19"
         }
       },
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": null,
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 017265 1959 12 28 0000 000 0000 000"
+        }
+      },
       "sancion": "El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc. SANCIONAN CON FUERZA DE LEY",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 15.262",
-      "estado": "Vigente, de alcance general",
+      "analista": "Signorelli, Angela",
+      "responsable": "Signorelli, Angela",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-10-21",
-      "fecha-mod": "2024-10-21",
-      "timestamp": "2024-10-21T07:11:33",
-      "timestamp-alta": "2024-10-21T07:11:33",
-      "timestamp-m": "2024-10-21T07:11:33",
-      "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 6"
-      },
+      "fecha-alta": "2025-07-21",
+      "fecha-mod": "2025-07-21",
+      "timestamp": "2025-07-21T08:48:36",
+      "timestamp-alta": "2025-07-21T08:48:36",
+      "timestamp-m": "2025-07-21T08:48:36",
       "sumario": {
         "sumario": "ESTADO-POLITICA-LEYES ELECTORALES-ELECCIONES-PROVINCIAS-MUNICIPIOS PROVINCIALES-REGISTRO NACIONAL DE ELECTORES-Simultaneidad de Elecciones Nacionales,Provinciales y Municipales-Requisitos-JUNTA ELECTORAL NACIONAL:Funciones-"
       },
@@ -167,6 +166,16 @@
           ]
         }
       },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 6",
+        "adherida-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "ADHERIDA_POR_0",
+            "ref": "LEY F 010805 2025 07 03 0000 000 0000 000"
+          }
+        }
+      },
       "articulo": [
         {
           "numero-articulo": 1,
@@ -218,7 +227,7 @@
         "firmantes": "GUIDO - MONJARDIN - Barraza - González."
       },
       "id-infojus": "LNS0001570",
-      "fecha-umod": 20241021072135
+      "fecha-umod": 20250721090732
     }
   }
 }
