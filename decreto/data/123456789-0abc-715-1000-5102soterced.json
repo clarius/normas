@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-715-1000-5102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1460725647524,
+      "timestamp": 1753108175563,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 1517,
-      "timestamp": "2016-04-15T09:19:47",
-      "timestamp-alta": "2016-04-15T09:19:47",
-      "timestamp-m": "2016-04-15T09:19:47",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -42,10 +39,13 @@
       "lugar-emision": "BUENOS AIRES",
       "nombre-coloquial": "DECRETO NACIONAL 1.517/2015",
       "estado": "Individual, Solo Modificatoria o Sin Eficacia",
-      "fecha-alta": "2016-04-15",
-      "fecha-mod": "2016-04-15",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-07-21",
+      "fecha-mod": "2025-07-21",
+      "timestamp": "2025-07-21T11:22:26",
+      "timestamp-alta": "2025-07-21T11:22:26",
+      "timestamp-m": "2025-07-21T11:22:26",
       "generalidades": {
         "sintesis": "Se designa con carácter transitorio en la Planta Permanente de la Dirección Nacional de Migraciones organismo descentralizado actuante en la órbita del Ministerio del Interior y Transporte",
         "anexos-decreto": {
@@ -54,7 +54,7 @@
             "B ANEXO II"
           ]
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5.\n\nOBSERVACION: Por Resolución 308/ de la Jefatura de Gabinete de Ministros-Vicejefatura de Gabinete del Interior (B.O. 21/7/2025) se prorroga a partir del 6 de diciembre de 2024 y hasta el 31 de marzo de 2025 la designación con carácter transitorio en la Planta Permanente de la Dirección Nacional de Migraciones de la agente Noelia Patricia LÓPEZ (DNI Nº 42.284.191)."
       },
       "descriptores": {
         "descriptor": [
@@ -85,22 +85,22 @@
           },
           {
             "elegido": {
-              "termino": "Dirección Nacional de Migraciones"
+              "termino": "DIRECCIÓN NACIONAL DE MIGRACIONES"
             },
             "preferido": {
-              "termino": "Dirección Nacional de Migraciones"
+              "termino": "DIRECCIÓN NACIONAL DE MIGRACIONES"
             },
             "sinonimos": null
           },
           {
             "elegido": {
-              "termino": "Ministerio del Interior y Transporte"
+              "termino": "MINISTERIO DEL INTERIOR Y TRANSPORTE"
             },
             "preferido": {
-              "termino": "Ministerio del Interior y Transporte"
+              "termino": "MINISTERIO DEL INTERIOR Y TRANSPORTE"
             },
             "sinonimos": {
-              "termino": "Ministerio del Interior"
+              "termino": "MINISTERIO DEL INTERIOR"
             }
           }
         ],
@@ -108,13 +108,14 @@
           "termino": [
             "personal no permanente",
             "función pública (Administración Pública)",
+            "MINISTERIO DEL INTERIOR Y TRANSPORTE",
+            "DIRECCIÓN NACIONAL DE MIGRACIONES",
             "agentes de la administración pública",
-            "Ministerio del Interior y Transporte",
             "agentes de la Administración (agentes de la administración pública)",
             "Administración Pública",
+            "MINISTERIO DEL INTERIOR (MINISTERIO DEL INTERIOR Y TRANSPORTE)",
             "agentes públicos (agentes de la administración pública)",
             "personal del sector público (agentes de la administración pública)",
-            "Ministerio del Interior (Ministerio del Interior y Transporte)",
             "personal transitorio",
             "personal de planta temporaria (personal no permanente)",
             "situaciones de revista",
@@ -126,7 +127,6 @@
             "relación de empleo público (empleo público)",
             "funcionarios y empleados públicos (agentes de la administración pública)",
             "Derecho administrativo",
-            "Dirección Nacional de Migraciones",
             "agentes transitorios (personal transitorio)",
             "contratación temporaria (personal no permanente)"
           ]
@@ -254,7 +254,8 @@
           "texto": "ANEXO II"
         }
       ],
-      "id-infojus": "DN20150001517"
+      "id-infojus": "DN20150001517",
+      "fecha-umod": 20250721112935
     }
   }
 }
