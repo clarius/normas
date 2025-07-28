@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-520-1000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1732110763283,
+      "timestamp": 1753716501490,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-11-20",
-      "fecha-mod": "2024-11-20",
-      "timestamp": "2024-11-20T10:45:39",
-      "timestamp-alta": "2024-11-20T10:45:39",
-      "timestamp-m": "2024-11-20T10:45:39",
+      "fecha-alta": "2025-07-28",
+      "fecha-mod": "2025-07-28",
+      "timestamp": "2025-07-28T12:19:34",
+      "timestamp-alta": "2025-07-28T12:19:34",
+      "timestamp-m": "2025-07-28T12:19:34",
       "generalidades": {
         "sintesis": "Se modifica el Estatuto de la Agencia de Publicidad del Estado Sociedad Anónima Unipersonal (APE S.A.U.)",
         "anexos-decreto": {
@@ -98,13 +98,16 @@
           },
           {
             "elegido": {
-              "termino": "Agencia de Publicidad del Estado Sociedad Anónima"
+              "termino": "Agencia de Publicidad del Estado Sociedad Anónima Unipersonal"
             },
             "preferido": {
-              "termino": "Agencia de Publicidad del Estado Sociedad Anónima"
+              "termino": "Agencia de Publicidad del Estado Sociedad Anónima Unipersonal"
             },
             "sinonimos": {
-              "termino": "APE SAU"
+              "termino": [
+                "APE SAU",
+                "Agencia de Publicidad del Estado Sociedad Anónima"
+              ]
             }
           }
         ],
@@ -116,15 +119,16 @@
             "publicidad (contrato de publicidad)",
             "empresas del Estado",
             "Télam SAI y P (TÉLAM)",
+            "Agencia de Publicidad del Estado Sociedad Anónima (Agencia de Publicidad del Estado Sociedad Anónima Unipersonal)",
             "sociedades del Estado (empresas del Estado)",
-            "Agencia de Publicidad del Estado Sociedad Anónima",
             "Derecho comercial",
             "sujetos de derecho administrativo",
-            "APE SAU (Agencia de Publicidad del Estado Sociedad Anónima)",
             "contratos comerciales",
+            "Agencia de Publicidad del Estado Sociedad Anónima Unipersonal",
             "Télam SA (TÉLAM)",
             "TÉLAM",
-            "Derecho administrativo"
+            "Derecho administrativo",
+            "APE SAU (Agencia de Publicidad del Estado Sociedad Anónima Unipersonal)"
           ]
         }
       },
@@ -191,7 +195,7 @@
         "texto": "ANEXO I"
       },
       "id-infojus": "DN20240001025",
-      "fecha-umod": 20241120105243
+      "fecha-umod": 20250728122821
     }
   }
 }
