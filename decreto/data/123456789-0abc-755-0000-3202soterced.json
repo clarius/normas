@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-755-0000-3202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1747766112895,
+      "timestamp": 1753803569662,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-05-20",
-      "fecha-mod": "2025-05-20",
-      "timestamp": "2025-05-20T15:30:28",
-      "timestamp-alta": "2025-05-20T15:30:28",
-      "timestamp-m": "2025-05-20T15:30:28",
+      "fecha-alta": "2025-07-29",
+      "fecha-mod": "2025-07-29",
+      "timestamp": "2025-07-29T12:22:45",
+      "timestamp-alta": "2025-07-29T12:22:45",
+      "timestamp-m": "2025-07-29T12:22:45",
       "generalidades": {
         "sintesis": "Se modifican la Nomenclatura Común del Mercosur, el Arancel Externo Común y los Reintegros a la Exportación",
         "anexos-decreto": {
@@ -635,44 +635,56 @@
           "anexo": "B",
           "titulo-anexo": "ANEXO II",
           "antecedentes": {
-            "referencia-normativa": {
-              "cr": "(B.O. 6/5/2024)ANEXO SUSTITUIDO",
-              "id": "ANTECEDENTES_0",
-              "ref": "DEC C 000384 2024 05 03 0003 000 0000 000"
-            }
-          },
-          "texto": "ANEXO II .\n\nANEXO II .",
-          "modificado-por": {
             "referencia-normativa": [
               {
+                "cr": "(B.O. 6/5/2024)ANEXO SUSTITUIDO .",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000384 2024 05 03 0003 000 0000 000"
+              },
+              {
                 "cr": "(B.O. 16/10/2024) ANEXO SUSTITUIDO .",
-                "id": "MODIFICADO_POR_0",
+                "id": "ANTECEDENTES_1",
                 "ref": "DEC C 000908 2024 10 15 0003 000 0000 000"
               },
               {
-                "cr": "(B.O. 31-03-2025) ANEXO MODIFICADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL.",
-                "id": "MODIFICADO_POR_1",
+                "cr": "(B.O. 31-03-2025) ANEXO MODIFICADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL..",
+                "id": "ANTECEDENTES_2",
                 "ref": "DEC C 000236 2025 03 28 0002 000 0000 000"
               }
             ]
+          },
+          "texto": "ANEXO II.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 29/7/2025) ANEXO SUSTITUIDO.VIGENCIA ESPECIAL ESTABLECIDA POR ART. 4 .",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000513 2025 07 28 0001 000 0000 000"
+            }
           }
         },
         {
           "anexo": "C",
           "titulo-anexo": "ANEXO III",
           "antecedentes": {
-            "referencia-normativa": {
-              "cr": "(B.O. 6/5/2024)ANEXO SUSTITUIDO",
-              "id": "ANTECEDENTES_0",
-              "ref": "DEC C 000384 2024 05 03 0004 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 6/5/2024)ANEXO SUSTITUIDO .",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000384 2024 05 03 0004 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 16/10/2024) ANEXO MODIFICADO",
+                "id": "ANTECEDENTES_1",
+                "ref": "DEC C 000908 2024 10 15 0004 000 0000 000"
+              }
+            ]
           },
-          "texto": "ANEXO III",
+          "texto": "ANEXO III.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 16/10/2024) ANEXO MODIFICADO",
+              "cr": "(B.O. 29/7/2025) ANEXO SUSTITUIDO.VIGENCIA ESPECIAL ESTABLECIDA POR ART. 4 .",
               "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000908 2024 10 15 0004 000 0000 000"
+              "ref": "DEC C 000513 2025 07 28 0002 000 0000 000"
             }
           }
         },
@@ -692,26 +704,31 @@
           "anexo": "E",
           "titulo-anexo": "ANEXO V",
           "antecedentes": {
-            "referencia-normativa": {
-              "cr": "(B.O. 6/5/2024)ANEXO SUSTITUIDO",
-              "id": "ANTECEDENTES_0",
-              "ref": "DEC C 000384 2024 05 03 0005 000 0000 000"
-            }
-          },
-          "texto": "ANEXO V",
-          "modificado-por": {
             "referencia-normativa": [
               {
-                "cr": "(B.O. 16/10/2024) ANEXO MODIFICADO",
-                "id": "MODIFICADO_POR_0",
+                "cr": "(B.O. 6/5/2024)ANEXO SUSTITUIDO .",
+                "id": "ANTECEDENTES_0",
+                "ref": "DEC C 000384 2024 05 03 0005 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 16/10/2024) ANEXO MODIFICADO .",
+                "id": "ANTECEDENTES_1",
                 "ref": "DEC C 000908 2024 10 15 0005 000 0000 000"
               },
               {
                 "cr": "(B.O. 20/5/2025) POSICIONES ARANCELARIAS 9504.50.00 ELIMINADA CON VIGENCIA EL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-                "id": "MODIFICADO_POR_1",
+                "id": "ANTECEDENTES_2",
                 "ref": "DEC C 000333 2025 05 19 0002 000 0000 000"
               }
             ]
+          },
+          "texto": "ANEXO V.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 29/7/2025) ANEXO SUSTITUIDO. VIGENCIA ESPECIAL ESTABLECIDA POR ART. 4.",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000513 2025 07 28 0003 000 0000 000"
+            }
           }
         },
         {
@@ -772,7 +789,7 @@
         }
       ],
       "id-infojus": "DN20230000557",
-      "fecha-umod": 20250520153512
+      "fecha-umod": 20250729123929
     }
   }
 }
