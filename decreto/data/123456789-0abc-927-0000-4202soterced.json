@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-927-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1743175756987,
+      "timestamp": 1753802443842,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-03-28",
-      "fecha-mod": "2025-03-28",
-      "timestamp": "2025-03-28T12:20:16",
-      "timestamp-alta": "2025-03-28T12:20:16",
-      "timestamp-m": "2025-03-28T12:20:16",
+      "fecha-alta": "2025-07-29",
+      "fecha-mod": "2025-07-29",
+      "timestamp": "2025-07-29T12:13:15",
+      "timestamp-alta": "2025-07-29T12:13:15",
+      "timestamp-m": "2025-07-29T12:13:15",
       "generalidades": {
         "sintesis": "Se aprueba la Estructura Organizativa de primer nivel operativo del Ministerio de Defensa",
         "anexos-decreto": {
@@ -209,19 +209,26 @@
         {
           "anexo": "A",
           "titulo-anexo": "ANEXO",
-          "texto": "ANEXO.\n\nANEXO Id",
+          "texto": "ANEXO.\n\nANEXO Id..\n\nANEXO Ic.",
           "modificado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 28/3/2025) ANEXO Id SUSTITUIDO",
-              "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000233 2025 03 27 0006 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 28/3/2025) ANEXO Id SUSTITUIDO",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000233 2025 03 27 0006 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 29/7/2025) ANEXO Ic SUSTITUIDO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DEC C 000514 2025 07 28 0001 000 0000 000"
+              }
+            ]
           }
         },
         {
           "anexo": "B",
           "titulo-anexo": "ANEXO II",
-          "texto": "ANEXO II.\n\nRESPONSABILIDADES PRIMARIAS Y ACCIONES DE LA DIRECCION NACIONAL DE ENLACE CON LA AGENCIA FEDERAL DE EMERGENCIAS Y DE LA DIRECCIÓN NACIONAL DE PROTECCIÓN HUMANITARIA",
+          "texto": "ANEXO II.\n\nRESPONSABILIDADES PRIMARIAS Y ACCIONES DE LA DIRECCION NACIONAL DE ENLACE CON LA AGENCIA FEDERAL DE EMERGENCIAS Y DE LA DIRECCIÓN NACIONAL DE PROTECCIÓN HUMANITARIA.\n\nRESPONSABILIDAD PRIMARIA Y LAS ACCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN PARA LA LOGÍSTICA.\n\n RESPONSABILIDAD PRIMARIA Y LAS ACCIONES DE LA DIRECCIÓN GENERAL DE FUNCIONAMIENTO Y MANTENIMIENTO DE LA FLOTA AÉREA PRESIDENCIAL DE LA SUBSECRETARÍA DE PLANEAMIENTO OPERATIVO Y SERVICIO LOGÍSTICO DE LA DEFENSA DEL MINISTERIO DE DEFENSA.",
           "modificado-por": {
             "referencia-normativa": [
               {
@@ -233,6 +240,16 @@
                 "cr": "(B.O. 28/3/2025) RESPONSABILIDADES PRIMARIAS Y ACCIONES DE LA DIRECCION NACIONAL DE ENLACE CON LA AGENCIA FEDERAL DE EMERGENCIAS Y DE LA DIRECCIÓN NACIONAL DE PROTECCIÓN HUMANITARIA, DEPENDIENTES DE LA SUBSECRETARÍA DE DEFENSA CIVIL Y PROTECCIÓN HUMANITARIA DEL MINISTERIO DE DEFENSA INCORPORADAS",
                 "id": "MODIFICADO_POR_1",
                 "ref": "DEC C 000233 2025 03 27 0008 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 29/7/2025) RESPONSABILIDAD PRIMARIA Y LAS ACCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN PARA LA LOGÍSTICA, DE LA SUBSECRETARÍA DE PLANEAMIENTO OPERATIVO Y SERVICIO LOGÍSTICO DE LA DEFENSA DEL MINISTERIO DE DEFENSA, SUSTITUIDA",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DEC C 000514 2025 07 28 0002 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 29/7/2025) RESPONSABILIDAD PRIMARIA Y LAS ACCIONES DE LA DIRECCIÓN GENERAL DE FUNCIONAMIENTO Y MANTENIMIENTO DE LA FLOTA AÉREA PRESIDENCIAL DE LA SUBSECRETARÍA DE PLANEAMIENTO OPERATIVO Y SERVICIO LOGÍSTICO DE LA DEFENSA DEL MINISTERIO DE DEFENSA, INCORPORADA",
+                "id": "MODIFICADO_POR_3",
+                "ref": "DEC C 000514 2025 07 28 0003 000 0000 000"
               }
             ]
           }
@@ -245,7 +262,14 @@
         {
           "anexo": "D",
           "titulo-anexo": "ANEXO IV",
-          "texto": "ANEXO IV"
+          "texto": "ANEXO IV.\n\n ACCIONES DE LA DIRECCION DE SUPERVISION LOGISTICA OPERATIVA Y DE LA DIRECCION DE PLANEAMIENTO DE COMPRAS.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 29/7/2025) ACCIONES DE LA DIRECCION DE SUPERVISION LOGISTICA OPERATIVA Y DE LA DIRECCION DE PLANEAMIENTO DE COMPRAS, AMBAS DE LA DIRECCIÓN NACIONAL DE PLANEAMIENTO OPERATIVO PARA LA DEFENSA DE LA SUBSECRETARÍA DE PLANEAMIENTO OPERATIVO Y SERVICIO LOGÍSTICO DE LA DEFENSA DEL MINISTERIO DE DEFENSA, SUSTITUIDAS",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000514 2025 07 28 0004 000 0000 000"
+            }
+          }
         },
         {
           "anexo": "E",
@@ -254,7 +278,7 @@
         }
       ],
       "id-infojus": "DN20240000729",
-      "fecha-umod": 20250328122916
+      "fecha-umod": 20250729122043
     }
   }
 }
