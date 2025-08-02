@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-934-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1751027785435,
+      "timestamp": 1753971706386,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,7 +16,7 @@
     },
     "content": {
       "mecanografico": 20250000439,
-      "estado": "Vigente, de alcance general",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,12 +43,19 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-06-27",
-      "fecha-mod": "2025-06-27",
-      "timestamp": "2025-06-27T09:16:49",
-      "timestamp-alta": "2025-06-27T09:16:49",
-      "timestamp-m": "2025-06-27T09:16:49",
+      "fecha-alta": "2025-07-31",
+      "fecha-mod": "2025-07-31",
+      "timestamp": "2025-07-31T11:14:49",
+      "timestamp-alta": "2025-07-31T11:14:49",
+      "timestamp-m": "2025-07-31T11:14:49",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 31/7/2025) Vigencia a partir del día siguiente al de su publicación en el Boletín Oficial",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000526 2025 07 30 0003 000 0000 000"
+          }
+        },
         "sintesis": "Se Prorrogan hasta el 31 de marzo de 2026 la aplicación de alícuotas del Derecho de Exportación",
         "anexos-decreto": {
           "anexo-ley": "A ANEXO"
@@ -270,7 +277,7 @@
         "texto": "ANEXO"
       },
       "id-infojus": "DN20250000439",
-      "fecha-umod": 20250627093625
+      "fecha-umod": 20250731112146
     }
   }
 }
