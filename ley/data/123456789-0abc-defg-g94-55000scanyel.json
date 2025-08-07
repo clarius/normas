@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g94-55000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1643137439945,
+      "timestamp": 1754569642560,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,20 +16,12 @@
     },
     "content": {
       "mecanografico": "S0005549",
-      "decreto-reglamentario": {
-        "referencia-normativa": {
-          "cr": "(B.O. 6/7/2012)",
-          "id": "DECRETO_REGLAMENTARIO_0",
-          "ref": "DEC C 001089 2012 07 05 0000 000 0000 000"
-        }
-      },
-      "numero-norma": 26529,
-      "timestamp": "2022-01-25T15:33:15",
-      "timestamp-m": "2022-01-25T15:33:15",
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 26529,
       "fecha": "2009-10-21",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -38,12 +30,14 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 026529 2009 10 21",
+      "nombre-coloquial": "LEY 26.529",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "LEY 26.529",
           "BUENOS AIRES, 21 DE OCTUBRE DE 2009"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
       "titulo-norma": "DERECHOS DEL PACIENTE, HISTORIA CLINICA Y CONSENTIMIENTO INFORMADO",
       "publicacion-codificada": {
         "publicacion-decodificada": {
@@ -51,18 +45,23 @@
           "fecha": "2009 11 20"
         }
       },
-      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "LEY 26.529",
-      "estado": "Vigente, de alcance general",
-      "analista": "Quintana, Carolina",
-      "enciclopedia": {
-        "texto": "Integridad y Transparencia"
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "(B.O. 6/7/2012)",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 001089 2012 07 05 0000 000 0000 000"
+        }
       },
-      "fecha-alta": "2009-11-20",
-      "fecha-mod": "2022-01-25",
+      "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
+      "analista": "Quintana, Carolina",
       "responsable": "Quintana, Carolina",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-08-07",
+      "fecha-mod": "2025-08-07",
+      "timestamp": "2025-08-07T09:22:21",
+      "timestamp-alta": "2025-08-07T09:22:21",
+      "timestamp-m": "2025-08-07T09:22:21",
       "sumario": {
         "sumario": "DERECHOS DEL PACIENTE-INFORMACION SANITARIA-CONSENTIMIENTO DEL PACIENTE-HISTORIA CLINICA"
       },
@@ -73,10 +72,16 @@
               "termino": "derechos del paciente"
             },
             "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/derechos del paciente"
+              "termino": "Derecho civil/persona humana/derechos personalísimos/derecho a la salud/derechos del paciente"
             },
             "sinonimos": {
-              "termino": "derechos de las personas"
+              "termino": [
+                "derechos y actos personalísimos",
+                "libertades personalísimas",
+                "personas de existencia visible",
+                "personas físicas",
+                "derecho a la preservación de la salud"
+              ]
             }
           },
           {
@@ -101,10 +106,16 @@
               "termino": "consentimiento del paciente"
             },
             "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/derechos del paciente/consentimiento del paciente"
+              "termino": "Derecho civil/persona humana/derechos personalísimos/derecho a la salud/derechos del paciente/consentimiento del paciente"
             },
             "sinonimos": {
-              "termino": "derechos de las personas"
+              "termino": [
+                "derechos y actos personalísimos",
+                "libertades personalísimas",
+                "personas de existencia visible",
+                "personas físicas",
+                "derecho a la preservación de la salud"
+              ]
             }
           },
           {
@@ -112,10 +123,13 @@
               "termino": "historia clínica"
             },
             "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/derechos del paciente/historia clínica"
+              "termino": "Salud pública/asistencia sanitaria/asistencia médica/historia clínica"
             },
             "sinonimos": {
-              "termino": "derechos de las personas"
+              "termino": [
+                "atención médica",
+                "servicios médico asistenciales"
+              ]
             }
           },
           {
@@ -123,10 +137,16 @@
               "termino": "derecho a la salud"
             },
             "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud"
+              "termino": "Derecho civil/persona humana/derechos personalísimos/derecho a la salud"
             },
             "sinonimos": {
-              "termino": "derechos de las personas"
+              "termino": [
+                "derechos y actos personalísimos",
+                "libertades personalísimas",
+                "personas de existencia visible",
+                "personas físicas",
+                "derecho a la preservación de la salud"
+              ]
             }
           },
           {
@@ -134,21 +154,46 @@
               "termino": "orden público"
             },
             "preferido": {
-              "termino": "Estado/orden público"
+              "termino": "Derecho civil/ejercicio de los derechos/orden público"
             },
             "sinonimos": null
           },
           {
             "elegido": {
-              "termino": "autonomía del paciente"
+              "termino": "consentimiento informado"
             },
             "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/derechos del paciente/autonomía del paciente"
+              "termino": "Derecho civil/persona humana/derechos personalísimos/derecho a la salud/derechos del paciente/consentimiento del paciente/consentimiento informado"
             },
             "sinonimos": {
               "termino": [
-                "derechos de las personas",
-                "respeto a las decisiones del paciente"
+                "derechos y actos personalísimos",
+                "libertades personalísimas",
+                "personas de existencia visible",
+                "personas físicas",
+                "derecho a la preservación de la salud"
+              ]
+            }
+          },
+          {
+            "elegido": {
+              "termino": "establecimientos de salud"
+            },
+            "preferido": {
+              "termino": "Salud pública/infraestructura sanitaria/establecimientos asistenciales"
+            },
+            "sinonimos": {
+              "termino": [
+                "clínicas",
+                "establecimientos sanitarios",
+                "establecimientos médicos",
+                "salas de primeros auxilios",
+                "establecimientos de salud",
+                "hospitales",
+                "infraestructura asistencial",
+                "policlínicos",
+                "servicios hospitalarios",
+                "sanatorios"
               ]
             }
           },
@@ -157,128 +202,55 @@
               "termino": "dignidad del paciente"
             },
             "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/dignidad del paciente"
+              "termino": "Derecho civil/persona humana/derechos personalísimos/derecho a la salud/derechos del paciente/dignidad del paciente"
             },
             "sinonimos": {
               "termino": [
-                "trato digno",
-                "derechos de las personas",
-                "dignidad de la paciente"
+                "derechos y actos personalísimos",
+                "libertades personalísimas",
+                "personas de existencia visible",
+                "personas físicas",
+                "derecho a la preservación de la salud"
               ]
-            }
-          },
-          {
-            "elegido": {
-              "termino": "consentimiento informado"
-            },
-            "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/derechos del paciente/consentimiento del paciente/consentimiento informado"
-            },
-            "sinonimos": {
-              "termino": "derechos de las personas"
-            }
-          },
-          {
-            "elegido": {
-              "termino": "protección de datos personales de salud"
-            },
-            "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/derechos del paciente/protección de datos personales de salud"
-            },
-            "sinonimos": {
-              "termino": "derechos de las personas"
-            }
-          },
-          {
-            "elegido": {
-              "termino": "confidencialidad médica"
-            },
-            "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/derechos del paciente/protección de datos personales de salud/confidencialidad médica"
-            },
-            "sinonimos": {
-              "termino": "derechos de las personas"
-            }
-          },
-          {
-            "elegido": {
-              "termino": "responsabilidad del personal de salud"
-            },
-            "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/personal de salud/responsabilidad del personal de salud"
-            },
-            "sinonimos": {
-              "termino": "derechos de las personas"
-            }
-          },
-          {
-            "elegido": {
-              "termino": "acceso a la información sanitaria"
-            },
-            "preferido": {
-              "termino": "Derechos Humanos/derecho a la información/acceso a la información sanitaria"
-            },
-            "sinonimos": {
-              "termino": "derechos de las personas"
-            }
-          },
-          {
-            "elegido": {
-              "termino": "establecimientos de salud"
-            },
-            "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/salud pública/establecimientos de salud"
-            },
-            "sinonimos": {
-              "termino": "derechos de las personas"
-            }
-          },
-          {
-            "elegido": {
-              "termino": "obligaciones de los establecimientos de salud"
-            },
-            "preferido": {
-              "termino": "Derechos Humanos/derecho a la salud/salud pública/establecimientos de salud/obligaciones de los establecimientos de salud"
-            },
-            "sinonimos": {
-              "termino": "derechos de las personas"
             }
           }
         ],
         "suggest": {
           "termino": [
-            "Derechos Humanos",
+            "servicios médico asistenciales (asistencia médica)",
+            "establecimientos sanitarios (establecimientos asistenciales)",
+            "establecimientos asistenciales",
             "información sanitaria",
-            "derechos de las personas (Derechos Humanos)",
-            "responsabilidad del personal de salud",
             "derechos del paciente",
             "derecho a la preservación de la salud (derecho a la salud)",
-            "salud pública",
             "derechos personalísimos",
-            "acceso a la información sanitaria",
+            "servicios hospitalarios (establecimientos asistenciales)",
             "consentimiento informado",
             "personas de existencia visible (persona humana)",
-            "dignidad de la paciente (dignidad del paciente)",
-            "derechos y actos personalísimos (derechos personalísimos)",
+            "policlínicos (establecimientos asistenciales)",
             "dignidad del paciente",
+            "derechos y actos personalísimos (derechos personalísimos)",
             "Derecho civil",
-            "obligaciones de los establecimientos de salud",
-            "confidencialidad médica",
-            "protección de datos personales de salud",
+            "sanatorios (establecimientos asistenciales)",
+            "hospitales (establecimientos asistenciales)",
+            "salas de primeros auxilios (establecimientos asistenciales)",
+            "clínicas (establecimientos asistenciales)",
+            "infraestructura asistencial (establecimientos asistenciales)",
+            "infraestructura sanitaria",
             "consentimiento del paciente",
+            "Salud pública",
             "historia clínica",
-            "autonomía del paciente",
+            "asistencia médica",
             "personas físicas (persona humana)",
+            "establecimientos médicos (establecimientos asistenciales)",
             "orden público",
-            "Estado",
             "libertades personalísimas (derechos personalísimos)",
             "derecho a la salud",
-            "establecimientos de salud",
-            "derecho a la información",
+            "asistencia sanitaria",
             "persona humana",
-            "respeto a las decisiones del paciente (autonomía del paciente)",
-            "trato digno (dignidad del paciente)",
-            "personal de salud"
+            "atención médica (asistencia médica)",
+            "establecimientos de salud (establecimientos asistenciales)",
+            "ejercicio de los derechos"
           ]
         }
       },
@@ -286,11 +258,43 @@
         "informacion-vinculada": 1E+19,
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 25 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 23",
         "adhiere-a": {
-          "referencia-normativa": {
-            "cr": "(B.O. 03/02/2020) Adhiere en lo que es materia del régimen de sanciones y del beneficio de gratuidad de acceso a la justicia.",
-            "id": "ADHIERE_A_0",
-            "ref": "LEY S 013956 2019 11 28 0006 000 0000 000"
-          }
+          "referencia-normativa": [
+            {
+              "cr": "(B.O. 03/02/2020) Adhiere en lo que es materia del régimen de sanciones y del beneficio de gratuidad de acceso a la justicia.",
+              "id": "ADHIERE_A_0",
+              "ref": "LEY S 013956 2019 11 28 0006 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHIERE_A_1",
+              "ref": "LEY R 004692 2011 07 07 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHIERE_A_2",
+              "ref": "LEY H 006925 2011 12 07 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHIERE_A_3",
+              "ref": "LEY B 014464 2012 12 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHIERE_A_4",
+              "ref": "LEY F 009585 2014 09 04 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHIERE_A_5",
+              "ref": "LEY Y 005645 2010 06 30 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHIERE_A_6",
+              "ref": "LEY T 008906 2016 08 11 0000 000 0000 000"
+            }
+          ]
         }
       },
       "articulo": {
@@ -318,7 +322,7 @@
             },
             "numero-articulo": 2,
             "titulo-articulo": "Derechos del paciente.",
-            "texto": "ARTICULO 2º - Constituyen derechos esenciales en la relación entre el paciente y el o los profesionales de la salud, el o los agentes del seguro de salud, y cualquier efector de que se trate, los siguientes:\n\na) Asistencia. El paciente, prioritariamente los niños, niñas y adolescentes, tiene derecho a ser asistido por los profesionales de la salud, sin menoscabo y distinción alguna, producto de sus ideas, creencias religiosas, políticas, condición socioeconómica, raza, sexo, orientación sexual o cualquier otra condición. El profesional actuante sólo podrá eximirse del deber de asistencia, cuando se hubiere hecho cargo efectivamente del paciente otro profesional competente;\n\nb) Trato digno y respetuoso. El paciente tiene el derecho a que los agentes del sistema de salud intervinientes, le otorguen un trato digno, con respeto a sus convicciones personales y morales, principalmente las relacionadas con sus condiciones socioculturales, de género, de pudor y a su intimidad, cualquiera sea el padecimiento que presente, y se haga extensivo a los familiares o acompañantes;\n\nc) Intimidad. Toda actividad médico - asistencial tendiente a obtener, clasificar, utilizar, administrar, custodiar y transmitir información y documentación clínica del paciente debe observar el estricto respeto por la dignidad humana y la autonomía de la voluntad, así como el debido resguardo de la intimidad del mismo y la confidencialidad de sus datos sensibles, sin perjuicio de las previsiones contenidas en la Ley Nº 25.326;\n\nd) Confidencialidad. El paciente tiene derecho a que toda persona que participe en la elaboración o manipulación de la documentación clínica, o bien tenga acceso al contenido de la misma, guarde la debida reserva, salvo expresa disposición en contrario emanada de autoridad judicial competente o autorización del propio paciente;\n\ne)  Autonomía de la voluntad. El paciente tiene derecho a aceptar o rechazar determinadas terapias o procedimientos médicos o biológicos, con o sin expresión de causa, como así también a revocar posteriormente su manifestación de la voluntad.\n\nLos niños, niñas y adolescentes tienen derecho a intervenir en los términos de la  Ley 26.061 a los fines de la toma de decisión sobre terapias o procedimientos médicos o biológicos que involucren su vida o salud.\n\nEn el marco de esta potestad, el paciente que presente una enfermedad irreversible, incurable o se encuentre en estadio terminal, o haya sufrido lesiones que lo coloquen en igual situación, informado en forma fehaciente, tiene el derecho a manifestar su voluntad en cuanto al rechazo de procedimientos quirúrgicos, de reanimación artificial o al retiro de medidas de soporte vital cuando sean extraordinarias o desproporcionadas en relación con la perspectiva de mejoría, o produzcan un sufrimiento desmesurado. También podrá rechazar procedimientos de hidratación o alimentación cuando los mismos produzcan como único efecto la prolongación en el tiempo de ese estadio terminal irreversible o incurable.\n\nEn todos los casos la negativa o el rechazo de los procedimientos mencionados no significará la interrupción de aquellas medidas y acciones para el adecuado control y alivio del sufrimiento del paciente.\n\nf) Información Sanitaria. El paciente tiene derecho a recibir la información sanitaria necesaria, vinculada a su salud. El derecho a la información sanitaria incluye el de no recibir la mencionada información.\n\ng) Interconsulta Médica. El paciente tiene derecho a recibir la información sanitaria por escrito, a fin de obtener una segunda opinión sobre el diagnóstico, pronóstico o tratamiento relacionados con su estado de salud.",
+            "texto": "ARTICULO 2º - Constituyen derechos esenciales en la relación entre el paciente y el o los profesionales de la salud, el o los agentes del seguro de salud, y cualquier efector de que se trate, los siguientes:\n\na) Asistencia. El paciente, prioritariamente los niños, niñas y adolescentes, tiene derecho a ser asistido por los profesionales de la salud, sin menoscabo y distinción alguna, producto de sus ideas, creencias religiosas, políticas, condición socioeconómica, raza, sexo, orientación sexual o cualquier otra condición. El profesional actuante sólo podrá eximirse del deber de asistencia, cuando se hubiere hecho cargo efectivamente del paciente otro profesional competente;\n\nb) Trato digno y respetuoso. El paciente tiene el derecho a que los agentes del sistema de salud intervinientes, le otorguen un trato digno, con respeto a sus convicciones personales y morales, principalmente las relacionadas con sus condiciones socioculturales, de género, de pudor y a su intimidad, cualquiera sea el padecimiento que presente, y se haga extensivo a los familiares o acompañantes;\n\nc) Intimidad. Toda actividad médico - asistencial tendiente a obtener, clasificar, utilizar, administrar, custodiar y transmitir información y documentación clínica del paciente debe observar el estricto respeto por la dignidad humana y la autonomía de la voluntad, así como el debido resguardo de la intimidad del mismo y la confidencialidad de sus datos sensibles, sin perjuicio de las previsiones contenidas en la Ley Nº 25.326;\n\nd) Confidencialidad. El paciente tiene derecho a que toda persona que participe en la elaboración o manipulación de la documentación clínica, o bien tenga acceso al contenido de la misma, guarde la debida reserva, salvo expresa disposición en contrario emanada de autoridad judicial competente o autorización del propio paciente;\n\ne) Autonomía de la voluntad. El paciente tiene derecho a aceptar o rechazar determinadas terapias o procedimientos médicos o biológicos, con o sin expresión de causa, como así también a revocar posteriormente su manifestación de la voluntad.\n\nLos niños, niñas y adolescentes tienen derecho a intervenir en los términos de la Ley 26.061 a los fines de la toma de decisión sobre terapias o procedimientos médicos o biológicos que involucren su vida o salud.\n\nEn el marco de esta potestad, el paciente que presente una enfermedad irreversible, incurable o se encuentre en estadio terminal, o haya sufrido lesiones que lo coloquen en igual situación, informado en forma fehaciente, tiene el derecho a manifestar su voluntad en cuanto al rechazo de procedimientos quirúrgicos, de reanimación artificial o al retiro de medidas de soporte vital cuando sean extraordinarias o desproporcionadas en relación con la perspectiva de mejoría, o produzcan un sufrimiento desmesurado. También podrá rechazar procedimientos de hidratación o alimentación cuando los mismos produzcan como único efecto la prolongación en el tiempo de ese estadio terminal irreversible o incurable.\n\nEn todos los casos la negativa o el rechazo de los procedimientos mencionados no significará la interrupción de aquellas medidas y acciones para el adecuado control y alivio del sufrimiento del paciente.\n\nf) Información Sanitaria. El paciente tiene derecho a recibir la información sanitaria necesaria, vinculada a su salud. El derecho a la información sanitaria incluye el de no recibir la mencionada información.\n\ng) Interconsulta Médica. El paciente tiene derecho a recibir la información sanitaria por escrito, a fin de obtener una segunda opinión sobre el diagnóstico, pronóstico o tratamiento relacionados con su estado de salud.",
             "modificado-por": {
               "referencia-normativa": {
                 "cr": "(B.O. 24/05/2012) INCISO E MODIFICADO",
@@ -361,7 +365,7 @@
             {
               "numero-articulo": 6,
               "titulo-articulo": "Obligatoriedad.",
-              "texto": "ARTICULO 6º - Toda actuación profesional en el  ámbito médico-sanitario, sea público o privado, requiere, con carácter general y dentro de los límites que se fijen por vía reglamentaria, el previo consentimiento informado del paciente.\n\nEn el supuesto de incapacidad del paciente, o imposibilidad de brindar el consentimiento informado a causa de su estado físico o psíquico, el mismo podrá ser dado por las personas mencionadas en el artículo 21 de la Ley 24.193, con los requisitos y con el orden de prelación allí establecido.\n\nSin perjuicio de la aplicación del párrafo anterior, deberá garantizarse que el paciente en la medida de sus posibilidades, participe en la toma de decisiones a lo largo del proceso sanitario.",
+              "texto": "ARTICULO 6º - Toda actuación profesional en el ámbito médico-sanitario, sea público o privado, requiere, con carácter general y dentro de los límites que se fijen por vía reglamentaria, el previo consentimiento informado del paciente.\n\nEn el supuesto de incapacidad del paciente, o imposibilidad de brindar el consentimiento informado a causa de su estado físico o psíquico, el mismo podrá ser dado por las personas mencionadas en el artículo 21 de la Ley 24.193, con los requisitos y con el orden de prelación allí establecido.\n\nSin perjuicio de la aplicación del párrafo anterior, deberá garantizarse que el paciente en la medida de sus posibilidades, participe en la toma de decisiones a lo largo del proceso sanitario.",
               "modificado-por": {
                 "referencia-normativa": {
                   "cr": "(B.O. 24/05/2012) ARTICULO SUSTITUIDO",
@@ -533,7 +537,8 @@
           }
         }
       ],
-      "id-infojus": "LNS0005549"
+      "id-infojus": "LNS0005549",
+      "fecha-umod": 20250807092722
     }
   }
 }
