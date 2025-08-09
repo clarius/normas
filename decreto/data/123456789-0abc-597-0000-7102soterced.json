@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-597-0000-7102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1507583302075,
+      "timestamp": 1754499153760,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,16 +23,13 @@
         "id-pais": 11
       },
       "numero-norma": 795,
-      "timestamp": "2017-10-09T17:17:19",
-      "timestamp-alta": "2017-10-05T08:57:28",
-      "timestamp-m": "2017-10-09T17:17:19",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
       },
       "fecha": "2017-10-03",
       "standard-normativo": "DEC C 000795 2017 10 03",
-      "titulo-norma": "Designacion del cargo de Directora Ejecutiva del Cuerpo de Abogadas y Abogados para Víctimas de Violencia de Género",
+      "titulo-norma": "Designación del cargo de Directora Ejecutiva del Cuerpo de Abogadas y Abogados para Víctimas de Violencia de Género",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
@@ -42,12 +39,15 @@
       "lugar-emision": "BUENOS AIRES",
       "nombre-coloquial": "DECRETO NACIONAL 795/2017",
       "analista": "Romani, Graciela",
-      "estado": "Derogada",
-      "fecha-alta": "2017-10-05",
-      "fecha-mod": "2017-10-09",
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
       "responsable": "Romani, Graciela",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-08-06",
+      "fecha-mod": "2025-08-06",
+      "timestamp": "2025-08-06T13:46:30",
+      "timestamp-alta": "2025-08-06T13:46:30",
+      "timestamp-m": "2025-08-06T13:46:30",
       "generalidades": {
         "sintesis": "Se designa Directora Ejecutiva del Cuerpo de Abogadas y Abogados para Víctimas de Violencia de Género.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5"
@@ -80,7 +80,7 @@
               "termino": "Ministerio de Justicia y Derechos Humanos"
             },
             "preferido": {
-              "termino": "Ministerio de Justicia"
+              "termino": "MINISTERIO DE JUSTICIA"
             },
             "sinonimos": {
               "termino": [
@@ -96,20 +96,20 @@
             "ingreso a la función pública",
             "nombramiento de funcionarios (nombramiento)",
             "designación de personal (nombramiento)",
+            "Ministerio de Justicia y Derechos Humanos (MINISTERIO DE JUSTICIA)",
             "función pública (Administración Pública)",
             "designación de funcionarios públicos (nombramiento)",
-            "Ministerio de Justicia de la Nación (Ministerio de Justicia)",
             "nombramiento",
             "designación de funcionarios (nombramiento)",
-            "Ministerio de Justicia y Derechos Humanos (Ministerio de Justicia)",
-            "Ministerio de Justicia",
+            "Ministerio de Justicia, Seguridad y Derechos Humanos (MINISTERIO DE JUSTICIA)",
             "Administración Pública",
             "nombramiento de funcionarios públicos (nombramiento)",
             "nombramiento de empleados públicos (nombramiento)",
-            "Ministerio de Justicia, Seguridad y Derechos Humanos (Ministerio de Justicia)",
             "designación (nombramiento)",
             "empleo público",
             "relación de empleo público (empleo público)",
+            "MINISTERIO DE JUSTICIA",
+            "Ministerio de Justicia de la Nación (MINISTERIO DE JUSTICIA)",
             "Derecho administrativo"
           ]
         }
@@ -179,7 +179,8 @@
       "firmantes": {
         "firmantes": "MACRI-Garavano"
       },
-      "id-infojus": "DN20170000795"
+      "id-infojus": "DN20170000795",
+      "fecha-umod": 20250806135233
     }
   }
 }

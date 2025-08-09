@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-901-0000-9102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1549476440932,
+      "timestamp": 1754322250243,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 109,
-      "timestamp": "2019-02-06T14:11:47",
-      "timestamp-alta": "2019-02-04T12:58:27",
-      "timestamp-m": "2019-02-06T14:11:47",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,11 +40,14 @@
       "nombre-coloquial": "DECRETO NACIONAL 109/2019",
       "analista": "Quintana, Carolina",
       "estado": "Individual, Solo Modificatoria o Sin Eficacia",
-      "fecha-alta": "2019-02-04",
-      "fecha-mod": "2019-02-06",
       "responsable": "Quintana, Carolina",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-08-04",
+      "fecha-mod": "2025-08-04",
+      "timestamp": "2025-08-04T12:15:43",
+      "timestamp-alta": "2025-08-04T12:15:43",
+      "timestamp-m": "2025-08-04T12:15:43",
       "generalidades": {
         "sintesis": "Se establece la remuneración del Director Ejecutivo del Instituto Nacional del Teatro, del Presidente y Vicepresidente del Directorio del Instituto Nacional de la Música dependientes de la Secretaria de Gobierno de Cultura del Ministerio de Educación, Cultura, Ciencia y Técnología.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5"
@@ -70,10 +70,10 @@
           },
           {
             "elegido": {
-              "termino": "Instituto Nacional del Teatro"
+              "termino": "INSTITUTO NACIONAL DEL TEATRO"
             },
             "preferido": {
-              "termino": "Instituto Nacional del Teatro"
+              "termino": "INSTITUTO NACIONAL DEL TEATRO"
             },
             "sinonimos": null
           },
@@ -109,6 +109,7 @@
             "sueldo del directorio (remuneración del directorio)",
             "Educación y Cultura (Cultura y educación)",
             "Cultura y educación",
+            "INSTITUTO NACIONAL DEL TEATRO",
             "obras musicales (música)",
             "sociedad anónima",
             "honorarios del directorio (remuneración del directorio)",
@@ -116,7 +117,6 @@
             "sociedades por acciones",
             "Instituto Nacional de la Música",
             "sociedades (sociedades comerciales)",
-            "Instituto Nacional del Teatro",
             "Derecho comercial",
             "remuneración del directorio",
             "arte",
@@ -179,8 +179,15 @@
       },
       "articulo": [
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
+            }
+          },
           "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- Establécese que, a partir del dictado de la presente medida, el Director Ejecutivo del INSTITUTO NACIONAL DEL TEATRO, organismo descentralizado actuante en la órbita de la SECRETARÍA DE GOBIERNO DE CULTURA del MINISTERIO DE EDUCACIÓN, CULTURA, CIENCIA Y TECNOLOGÍA, tendrá una remuneración equivalente a Subsecretario."
+          "texto": "ARTÍCULO 1°.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nEstablécese que, a partir del dictado de la presente medida, el Director Ejecutivo del INSTITUTO NACIONAL DEL TEATRO, organismo descentralizado actuante en la órbita de la SECRETARÍA DE GOBIERNO DE CULTURA del MINISTERIO DE EDUCACIÓN, CULTURA, CIENCIA Y TECNOLOGÍA, tendrá una remuneración equivalente a Subsecretario."
         },
         {
           "numero-articulo": 2,
@@ -209,7 +216,8 @@
       "firmantes": {
         "firmantes": "MACRI-Peña-Finocchiaro"
       },
-      "id-infojus": "DN20190000109"
+      "id-infojus": "DN20190000109",
+      "fecha-umod": 20250804124410
     }
   }
 }
