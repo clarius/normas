@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-803-0000-2202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1655215212570,
+      "timestamp": 1754572662394,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,39 +16,46 @@
     },
     "content": {
       "mecanografico": 20220000308,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 308,
+      "fecha": "2022-06-12",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 308,
-      "timestamp": "2022-06-14T10:59:57",
-      "timestamp-alta": "2022-06-14T07:29:45",
-      "timestamp-m": "2022-06-14T10:59:57",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2022-06-12",
       "standard-normativo": "DEC C 000308 2022 06 12",
       "titulo-norma": "Creación del Registro Optativo de Exportaciones de Cobre para promocionar la actividad minera a través de un esquema de derechos de exportación",
+      "nombre-coloquial": "DECRETO NACIONAL 308/2022",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2022 06 14"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 308/2022",
       "analista": "Rocca, Adriana",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2022-06-14",
-      "fecha-mod": "2022-06-14",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-08-07",
+      "fecha-mod": "2025-08-07",
+      "timestamp": "2025-08-07T10:03:44",
+      "timestamp-alta": "2025-08-07T10:03:44",
+      "timestamp-m": "2025-08-07T10:03:44",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 7/8/2025)",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000563 2025 08 06 0002 000 0000 000"
+          }
+        },
         "sintesis": "Se crea el Registro Optativo de Exportaciones de Cobre que tiene como objetivo promocionar la actividad minera a través de un esquema de derechos de exportación",
         "anexos-decreto": {
           "anexo-ley": [
@@ -298,7 +305,7 @@
                 }
               },
               "numero-articulo": 7,
-              "texto": "ARTÍCULO 7°.- Mantiénense, para las operaciones tramitadas por los exportadores que no optaren por la inscripción en el \"Registro\", las alícuotas del Derecho de Exportación establecidas en el   Decreto N° 1060/20, en lo que respecta a las mercaderías comprendidas en las posiciones arancelarias de la NOMENCLATURA COMÚN DEL MERCOSUR (N.C.M.) que se consignan en la Planilla, que como ANEXO I (IF-2022-55033769-APN-SPT#MEC) forma parte integrante del presente decreto."
+              "texto": "ARTÍCULO 7°.- Mantiénense, para las operaciones tramitadas por los exportadores que no optaren por la inscripción en el \"Registro\", las alícuotas del Derecho de Exportación establecidas en el Decreto N° 1060/20, en lo que respecta a las mercaderías comprendidas en las posiciones arancelarias de la NOMENCLATURA COMÚN DEL MERCOSUR (N.C.M.) que se consignan en la Planilla, que como ANEXO I (IF-2022-55033769-APN-SPT#MEC) forma parte integrante del presente decreto."
             },
             {
               "numero-articulo": 8,
@@ -346,7 +353,8 @@
           "texto": "ANEXO II"
         }
       ],
-      "id-infojus": "DN20220000308"
+      "id-infojus": "DN20220000308",
+      "fecha-umod": 20250807101742
     }
   }
 }
