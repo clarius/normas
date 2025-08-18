@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-830-0000-3102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1591200456802,
+      "timestamp": 1755539533578,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,8 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 38,
-      "timestamp": "2020-06-03T12:34:21",
-      "timestamp-m": "2020-06-03T12:34:21",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -41,16 +39,19 @@
       "lugar-emision": "BUENOS AIRES",
       "nombre-coloquial": "DECRETO NACIONAL 38/2013",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2013-01-25",
-      "fecha-mod": "2020-06-03",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-08-18",
+      "fecha-mod": "2025-08-18",
+      "timestamp": "2025-08-18T14:36:52",
+      "timestamp-alta": "2025-08-18T14:36:52",
+      "timestamp-m": "2025-08-18T14:36:52",
       "generalidades": {
         "sintesis": "Se aprueba la Reglamentación de la Ley 26.548 sobre Banco Nacional de Datos Genéticos",
         "anexos-decreto": {
           "anexo-ley": "A RECLAMENTACION DE LA LEY"
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA:  5 FECHA DE ENTRADA EN VIGENCIA : 2013 01 25 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 4"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5 FECHA DE ENTRADA EN VIGENCIA : 2013 01 25 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 4"
       },
       "descriptores": {
         "descriptor": [
@@ -194,11 +195,11 @@
         },
         {
           "numero-articulo": 2,
-          "texto": "Art. 2° - Delégase en el MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION PRODUCTIVA la facultad para dictar las normas complementarias y aclaratorias del presente  decreto."
+          "texto": "Art. 2° - Delégase en el MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION PRODUCTIVA la facultad para dictar las normas complementarias y aclaratorias del presente decreto."
         },
         {
           "numero-articulo": 3,
-          "texto": "Art. 3° - Los gastos que irrogue el cumplimiento del presente  decreto serán atendidos con las partidas presupuestarias correspondientes a la Jurisdicción 71 - MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION PRODUCTIVA."
+          "texto": "Art. 3° - Los gastos que irrogue el cumplimiento del presente decreto serán atendidos con las partidas presupuestarias correspondientes a la Jurisdicción 71 - MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION PRODUCTIVA."
         },
         {
           "numero-articulo": 4,
@@ -215,7 +216,7 @@
       "anexo": {
         "anexo": "A",
         "titulo-anexo": "ANEXO I",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO:  29",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO: 29",
         "articulo": [
           {
             "numero-articulo": 1,
@@ -364,8 +365,15 @@
             }
           },
           {
+            "derogado-por": {
+              "referencia-normativa": {
+                "cr": "(B.O. 18/8/2025) ARTICULO DEROGADO. VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                "id": "DEROGADO_POR_0",
+                "ref": "DEC C 000583 2025 08 14 0008 000 0000 000"
+              }
+            },
             "numero-articulo": 22,
-            "texto": "ARTICULO 22.- El/la Subdirector/a Administrativo/a del BANCO NACIONAL DE DATOS GENÉTICOS (BNDG), organismo descentralizado actuante en la órbita del MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, tendrá rango de Director General y una remuneración equivalente al Nivel A, Grado 0, Función Ejecutiva I del Sistema Nacional de Empleo Público (SINEP), aprobado por el Convenio Colectivo de Trabajo Sectorial homologado por el Decreto N° 2098 del 3 de diciembre de 2008 y sus modificatorios.",
+            "texto": "ARTICULO 22.- NOTA DE REDACCION: DEROGADO POR DECRETO 583/25.\n\nEl/la Subdirector/a Administrativo/a del BANCO NACIONAL DE DATOS GENÉTICOS (BNDG), organismo descentralizado actuante en la órbita del MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, tendrá rango de Director General y una remuneración equivalente al Nivel A, Grado 0, Función Ejecutiva I del Sistema Nacional de Empleo Público (SINEP), aprobado por el Convenio Colectivo de Trabajo Sectorial homologado por el Decreto N° 2098 del 3 de diciembre de 2008 y sus modificatorios.",
             "modificado-por": {
               "referencia-normativa": {
                 "cr": "(B.O. 3/6/2020) ARTICULO SUSTITUIDO",
@@ -404,7 +412,8 @@
           }
         ]
       },
-      "id-infojus": "DN20130000038"
+      "id-infojus": "DN20130000038",
+      "fecha-umod": 20250818145213
     }
   }
 }
