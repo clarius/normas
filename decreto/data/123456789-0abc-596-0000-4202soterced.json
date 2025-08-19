@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-596-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1754923769713,
+      "timestamp": 1755612628871,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,17 +43,17 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-11",
-      "fecha-mod": "2025-08-11",
-      "timestamp": "2025-08-11T11:35:09",
-      "timestamp-alta": "2025-08-11T11:35:09",
-      "timestamp-m": "2025-08-11T11:35:09",
+      "fecha-alta": "2025-08-19",
+      "fecha-mod": "2025-08-19",
+      "timestamp": "2025-08-19T10:54:50",
+      "timestamp-alta": "2025-08-19T10:54:50",
+      "timestamp-m": "2025-08-19T10:54:50",
       "generalidades": {
         "sintesis": "Se aprueba la Reglamentación del Título II de Reforma del Estado de la Ley de Bases y Puntos de Partida para la Libertad de los Argentinos N° 27.742",
         "anexos-decreto": {
           "anexo-ley": "A REGLAMENTACION"
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 5.\n\nFECHA DE ENTRADA EN VIGENCIA: 5/8/2024",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 5.\n\nFECHA DE ENTRADA EN VIGENCIA: 5/8/2024.\n\nOBSERVACION: Por Resolución 1198/25 del Ministerio de Economía (B.O. 19/8/2025) se instruye a la Unidad Ejecutora Especial Temporaria \"Agencia de Transformación de Empresas Públicas\" del Ministerio de Economía a coordinar las acciones necesarias para dar cumplimiento a lo previsto en el capítulo II del anexo I del presente decreto.",
         "reglamenta-a": {
           "referencia-normativa": {
             "cr": null,
@@ -367,11 +367,18 @@
                   "numero-articulo": 4,
                   "texto": "ARTÍCULO 4°.- Otorgada la autorización por el PODER EJECUTIVO NACIONAL, el Ministro o Secretario de la Presidencia de la Nación en cuya jurisdicción se encuentre la empresa o sociedad sujeta a privatización, en su carácter de Autoridad de Aplicación, iniciará los procedimientos tendientes a la privatización que corresponda.",
                   "observado-por": {
-                    "referencia-normativa": {
-                      "cr": "(B.O. 8/08/2025) AUTORIZA LA TRANSFERENCIA Y VENTA DE LAS ACCIONES DE EMPRESAS HIDROELECTRICAS. VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-                      "id": "OBSERVADO_POR_0",
-                      "ref": "DEC C 000564 2025 08 07 0001 000 0000 000"
-                    }
+                    "referencia-normativa": [
+                      {
+                        "cr": "(B.O. 8/08/2025) AUTORIZA LA TRANSFERENCIA Y VENTA DE LAS ACCIONES DE EMPRESAS HIDROELECTRICAS. VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                        "id": "OBSERVADO_POR_0",
+                        "ref": "DEC C 000564 2025 08 07 0001 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 19/08/2025) AUTORIZAN LA TRANSFERENCIA Y VENTAS DE LAS ACCIONES DE EMPRESAS CONCESIONARIAS DE LOS COMPLEJOS HIDROELECTRICOS. VIGENCIA: EN EL MOMENTO DE SU DICTADO",
+                        "id": "OBSERVADO_POR_1",
+                        "ref": "DEC C 000590 2025 08 18 0001 000 0000 000"
+                      }
+                    ]
                   }
                 },
                 {
@@ -1051,7 +1058,7 @@
         }
       },
       "id-infojus": "DN20240000695",
-      "fecha-umod": 20250811114929
+      "fecha-umod": 20250819111028
     }
   }
 }
