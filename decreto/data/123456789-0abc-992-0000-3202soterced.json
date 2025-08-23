@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-992-0000-3202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1686066425929,
+      "timestamp": 1755872301879,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,7 +16,7 @@
     },
     "content": {
       "mecanografico": 20230000299,
-      "estado": "Vigente, de alcance general",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,12 +43,19 @@
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2023-06-06",
-      "fecha-mod": "2023-06-06",
-      "timestamp": "2023-06-06T11:48:55",
-      "timestamp-alta": "2023-06-06T11:48:55",
-      "timestamp-m": "2023-06-06T11:48:55",
+      "fecha-alta": "2025-08-22",
+      "fecha-mod": "2025-08-22",
+      "timestamp": "2025-08-22T10:57:08",
+      "timestamp-alta": "2025-08-22T10:57:08",
+      "timestamp-m": "2025-08-22T10:57:08",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 22/8/2025) LA PRESENTE DEROGACION NO AFECTA LA VALIDEZ Y VIGENCIA DE LA RESOLUCION DEL EX MINISTERIO DE TRANSPORTE N° 502/23 Y DE LAS ACTAS QUE SE RATIFIQUEN POR LA MISMA, IDENTIFICADAS COMO ACUERDO DE ADECUACIÓN CONTRACTUAL CORRESPONDIENTE A LA CONCESIÓN DE LAS TERMINALES 1, 2 Y 3 DE PUERTO NUEVO BUENOS AIRES CONFORME DECRETO N° 299/2023 y ACUERDO DE ADECUACIÓN CONTRACTUAL CORRESPONDIENTE A LA CONCESIÓN DE LA TERMINAL 4 DE PUERTO NUEVO BUENOS AIRES CONFORME DECRETO N° 299/2023, VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL.",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000602 2025 08 21 0001 000 0000 000"
+          }
+        },
         "sintesis": "Se deroga el dec. 870/2018 de Licitación Pública Nacional e Internacional para la Concesión de Obra Pública para la construcción, conservación y explotación de la Terminal Portuaria de Puerto Nuevo - Buenos Aires.",
         "anexos-decreto": {
           "anexo-ley": "A ANEXO I"
@@ -332,7 +339,8 @@
         "titulo-anexo": "ANEXO I",
         "texto": "ANEXO I"
       },
-      "id-infojus": "DN20230000299"
+      "id-infojus": "DN20230000299",
+      "fecha-umod": 20250822111821
     }
   }
 }
