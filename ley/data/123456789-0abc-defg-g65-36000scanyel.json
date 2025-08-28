@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g65-36000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1732193367969,
+      "timestamp": 1756384046716,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -50,11 +50,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-11-21",
-      "fecha-mod": "2024-11-21",
-      "timestamp": "2024-11-21T09:37:15",
-      "timestamp-alta": "2024-11-21T09:37:15",
-      "timestamp-m": "2024-11-21T09:37:15",
+      "fecha-alta": "2025-08-28",
+      "fecha-mod": "2025-08-28",
+      "timestamp": "2025-08-28T09:03:39",
+      "timestamp-alta": "2025-08-28T09:03:39",
+      "timestamp-m": "2025-08-28T09:03:39",
       "sumario": {
         "sumario": "FERIADOS NACIONALES-DIAS NO LABORABLES-FERIADOS CON FINES TURISTICOS"
       },
@@ -128,7 +128,7 @@
         }
       },
       "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 10"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 10.\n\nOBSERVACION: Por Decreto 789/21 (B.O. 15/11/2021) se establece que los feriados nacionales trasladables permanecerán en la fecha designada por dicho precepto en aquellos años en los cuales la aplicación del artículo 6 redunde en una superposición con un feriado nacional inamovible.\n\nOBSERVACION: Por Decreto 614/25 (B.O. 28/8/2025) se establece que los feriados nacionales trasladables conforme lo dispuesto en el artículo 1 de la presente Ley , cuyas fechas coincidan con un día sábado o domingo podrán trasladarse al lunes inmediato posterior o al último viernes inmediato anterior, según lo determine la Autoridad de Aplicación. Se designa como autoridad de aplicación a la Jefatura de Gabinete de Ministros.Vigencia: el día de su publicación en el Boletín Oficial."
       },
       "segmento": [
         {
@@ -138,11 +138,18 @@
               "numero-articulo": 1,
               "texto": "ARTÍCULO 1°.- Establécense como días feriados nacionales y días no laborables en todo el territorio de la Nación los siguientes:\n\nFERIADOS NACIONALES INAMOVIBLES:\n\n1° de enero: Año Nuevo.\n\nLunes y Martes de Carnaval.\n\n24 de marzo: Día Nacional de la Memoria por la Verdad y la Justicia.\n\nViernes Santo.\n\n2 de abril: Día del Veterano y de los Caídos en la Guerra de Malvinas.\n\n1° de mayo: Día del Trabajo.\n\n25 de mayo: Día de la Revolución de Mayo.\n\n20 de junio: Paso a la Inmortalidad del General Don Manuel Belgrano.\n\n9 de julio: Día de la Independencia.\n\n8 de diciembre: Día de la Inmaculada Concepción de María.\n\n25 de diciembre: Navidad.\n\nFERIADOS NACIONALES TRASLADABLES:\n\n17 de junio: Paso a la Inmortalidad del General Don Martín Miguel de Güemes.\n\n17 de agosto: Paso a la Inmortalidad del General Don José de San Martín.\n\n12 de octubre: Día del Respeto a la Diversidad Cultural.\n\n20 de noviembre: Día de la Soberanía Nacional.\n\nDIAS NO LABORABLES:\n\nJueves Santo.",
               "observado-por": {
-                "referencia-normativa": {
-                  "cr": "(B.O. 15/11/2021) Se establece que los feriados nacionales trasladables permanecerán en la fecha designada por dicho precepto en aquellos años en los cuales la aplicación del artículo 6 redunde en una superposición con un feriado nacional inamovible.",
-                  "id": "OBSERVADO_POR_0",
-                  "ref": "DEC C 000789 2021 11 12 0001 000 0000 000"
-                }
+                "referencia-normativa": [
+                  {
+                    "cr": "(B.O. 15/11/2021) Se establece que los feriados nacionales trasladables permanecerán en la fecha designada por dicho precepto en aquellos años en los cuales la aplicación del artículo 6 redunde en una superposición con un feriado nacional inamovible.",
+                    "id": "OBSERVADO_POR_0",
+                    "ref": "DEC C 000789 2021 11 12 0001 000 0000 000"
+                  },
+                  {
+                    "cr": "(B.O. 28/08/2025) Se establece que los feriados nacionales trasladables cuyas fechas coincidan con un día sábado o domingo podrán trasladarse al lunes inmediato posterior o al último viernes inmediato anterior, según lo determine la Autoridad de Aplicación. Se designa como autoridad de aplicación a la Jefatura de Gabinete de Ministros. Vigencia: el día de su publicación en el Boletín Oficial",
+                    "id": "OBSERVADO_POR_1",
+                    "ref": "DEC C 000614 2025 08 27 0001 000 0002 000"
+                  }
+                ]
               }
             },
             {
@@ -251,7 +258,7 @@
         }
       ],
       "id-infojus": "LNS0006356",
-      "fecha-umod": 20241121094927
+      "fecha-umod": 20250828092726
     }
   }
 }
