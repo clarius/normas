@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g93-53000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1755098322230,
+      "timestamp": 1756743509658,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,18 +16,12 @@
     },
     "content": {
       "mecanografico": "S0003539",
-      "decreto-reglamentario": {
-        "referencia-normativa": {
-          "cr": "REGLAMENTA ARTICULO 39",
-          "id": "DECRETO_REGLAMENTARIO_0",
-          "ref": "DEC C 001148 1991 06 18 0000 000 0000 000"
-        }
-      },
-      "numero-norma": 23737,
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 23737,
       "fecha": "1989-09-21",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -36,32 +30,38 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 023737 1989 09 21",
+      "nombre-coloquial": "Ley 23.737",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "*LEY 23.737",
           "BUENOS AIRES, 21 DE SEPTIEMBRE DE 1989"
         ]
       },
-      "titulo-norma": "REGIMEN PENAL DE ESTUPEFACIENTES.",
+      "lugar-sancion": "BUENOS AIRES",
+      "titulo-norma": "REGIMEN PENAL DE ESTUPEFACIENTES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1989 10 11"
         }
       },
+      "decreto-reglamentario": {
+        "referencia-normativa": {
+          "cr": "REGLAMENTA ARTICULO 39",
+          "id": "DECRETO_REGLAMENTARIO_0",
+          "ref": "DEC C 001148 1991 06 18 0000 000 0000 000"
+        }
+      },
       "sancion": "EL SENADO Y CÁMARA DE DIPUTADOS DE LA NACIÓN ARGENTINA REUNIDOS EN CONGRESO, ETC. SANCIONAN CON FUERZA DE LEY:",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 23.737",
-      "estado": "Vigente, de alcance general",
       "analista": "Rocca, Adriana",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-13",
-      "fecha-mod": "2025-08-13",
-      "timestamp": "2025-08-13T11:53:07",
-      "timestamp-alta": "2025-08-13T11:53:07",
-      "timestamp-m": "2025-08-13T11:53:07",
+      "fecha-alta": "2025-09-01",
+      "fecha-mod": "2025-09-01",
+      "timestamp": "2025-09-01T12:51:06",
+      "timestamp-alta": "2025-09-01T12:51:06",
+      "timestamp-m": "2025-09-01T12:51:06",
       "sumario": {
         "sumario": "DERECHO PENAL-CODIGO PENAL-PREPARACION,IMPORTACION,EXPORTACION, DISTRIBUCION Y VENTA DE ESTUPEFACIENTES-RESPONSABILIDAD DE LOS MEDICOS COMERCIO DE ESTUPEFACIENTES-RECUPERACION DE LOS ADICTOS A LOS ESTUPEFACIENTES-MODIFICA CODIGO PENAL Y LEYES 10.903,20.655 Y 20.771"
       },
@@ -665,7 +665,7 @@
           "referencia-normativa": {
             "cr": null,
             "id": "ADHERIDA_POR_0",
-            "ref": "LEY D 001081 1927 10 25 0001 000 0000 000"
+            "ref": "LEY D 001081 2022 09 07 0001 000 0000 000"
           }
         }
       },
@@ -1423,7 +1423,7 @@
         "firmantes": "PIERRI-DUHALDE-PEREYRA ARANDIA DE PEREZ PARDO-IRIBARNE"
       },
       "id-infojus": "LNS0003539",
-      "fecha-umod": 20250813121842
+      "fecha-umod": 20250901131829
     }
   }
 }
