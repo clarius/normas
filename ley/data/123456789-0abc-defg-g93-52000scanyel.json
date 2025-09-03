@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g93-52000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1676383365331,
+      "timestamp": 1756912958412,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,8 +17,6 @@
     "content": {
       "mecanografico": "S0002539",
       "numero-norma": 527,
-      "timestamp": "2023-02-13T20:24:56",
-      "timestamp-m": "2023-02-13T20:24:56",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -44,14 +42,18 @@
           "fecha-sf": "1872 08 07"
         }
       },
-      "publicacion-privada": "ADLA                                                  0000018800945",
+      "publicacion-privada": "ADLA 0000018800945",
       "sancion": "EL SENADO Y LA CAMARA DE DIPUTADOS DE LA NACION ARGENTINA, REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY :",
       "lugar-sancion": "BUENOS AIRES",
       "nombre-coloquial": "Ley 527",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-21",
-      "fecha-mod": "2023-02-13",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-09-03",
+      "fecha-mod": "2025-09-03",
+      "timestamp": "2025-09-03T12:16:37",
+      "timestamp-alta": "2025-09-03T12:16:37",
+      "timestamp-m": "2025-09-03T12:16:37",
       "generalidades": {
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 3"
       },
@@ -93,7 +95,7 @@
             }
           },
           "numero-articulo": 1,
-          "texto": "ARTICULO  1.  Declárase  auténtica la edición del Código Civil de la República, hecha en Nueva  York,  en el año de 1870, En virtud de la autorización al Poder Ejecutivo en  el  artículo  4, de la ley de 29 de  Septiembre  de 1869, con la siguiente planilla de  correcciones, que  se  agregará  como  fe  de  erratas,  a  dicha  edición.    #NM (planilla)"
+          "texto": "ARTICULO 1. Declárase auténtica la edición del Código Civil de la República, hecha en Nueva York, en el año de 1870, En virtud de la autorización al Poder Ejecutivo en el artículo 4, de la ley de 29 de Septiembre de 1869, con la siguiente planilla de correcciones, que se agregará como fe de erratas, a dicha edición. #NM (planilla)"
         },
         {
           "referencias-normativas": {
@@ -104,7 +106,7 @@
             }
           },
           "numero-articulo": 2,
-          "texto": "ARTICULO  2.  - La edición del Código Civil hecha en Buenos Aires, a que se refiere  el Decreto del Poder Ejecutivo, de diez de Enero del año mil ochocientos  setenta  y  uno,  sólo tendrá valor en la parte que esté conforme con el texto con el texto  de  la  edición  de que habla el artículo primero de esta ley."
+          "texto": "ARTICULO 2. - La edición del Código Civil hecha en Buenos Aires, a que se refiere el Decreto del Poder Ejecutivo, de diez de Enero del año mil ochocientos setenta y uno, sólo tendrá valor en la parte que esté conforme con el texto de la edición de que habla el artículo primero de esta ley."
         },
         {
           "numero-articulo": 3,
@@ -114,7 +116,8 @@
       "firmantes": {
         "firmantes": "FIRMANTES"
       },
-      "id-infojus": "LNS0002539"
+      "id-infojus": "LNS0002539",
+      "fecha-umod": 20250903122238
     }
   }
 }
