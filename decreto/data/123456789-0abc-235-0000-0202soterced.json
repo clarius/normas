@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-235-0000-0202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1756233067671,
+      "timestamp": 1757004559658,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,17 +43,17 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-26",
-      "fecha-mod": "2025-08-26",
-      "timestamp": "2025-08-26T15:25:57",
-      "timestamp-alta": "2025-08-26T15:25:57",
-      "timestamp-m": "2025-08-26T15:25:57",
+      "fecha-alta": "2025-09-04",
+      "fecha-mod": "2025-09-04",
+      "timestamp": "2025-09-04T13:44:16",
+      "timestamp-alta": "2025-09-04T13:44:16",
+      "timestamp-m": "2025-09-04T13:44:16",
       "generalidades": {
         "sintesis": "Se aprueba la Reglamentación de la Ley 27.514 que Declara de interés público nacional la política de seguridad en el transporte",
         "anexos-decreto": {
           "anexo-ley": "A ANEXO I"
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 5.\n\nFECHA DE ENTRADA EN VIGENCIA : 10/6/2020.\n\nOBSERVACION: EL DECRETO 461/25 (B.O 8/7/2025) QUE MODIFICA EL PRESENTE DECRETO HA SIDO RECHAZADO POR RESOLUCION 94/25 DE LA HONORABLE CÁMARA DE DIPUTADOS DE LA NACIÓN Y 55/25 DEL HONORABLE SENADO DE LA NACIÓN (B.O. 25/8/2025). DEROGADO CONFORME LO DISPUESTO POR ART. 24 DE LA LEY 26.122."
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 5.\n\nFECHA DE ENTRADA EN VIGENCIA : 10/6/2020.\n\nOBSERVACION: El Decreto 461/25 (B.O 8/7/2025) que modifica el presente Decreto ha sido rechazado por Resolución 94/25 de la Honorable Cámara de Diputados de la Nación y 55/25 del Honorable Senado de la Nación (B.O. 25/8/2025). Derogado Conforme lo dispuesto por art. 24 de la ley 26.122.\n\nOBSERVACION: Por DNU 627/25 (B.O. 3/9/2025) se restituye la plena vigencia de las disposiciones normativas que fueron derogadas, sustituidas o modificadas por el Decreto 461/25 y que se encontraban vigentes al momento del dictado de dicho Decreto."
       },
       "descriptores": {
         "descriptor": [
@@ -194,15 +194,22 @@
       },
       "articulo": [
         {
-          "derogado-por": {
+          "numero-articulo": 1,
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) ARTICULO DEROGADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
-              "ref": "DEC C 000461 2025 07 07 0034 000 0000 000"
+              "cr": "(B.O 23/05/2025) ARTICULO DEROGADO.",
+              "id": "ANTECEDENTES_0",
+              "ref": "DNU C 000461 2025 07 07 0034 000 0000 000"
             }
           },
-          "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- NOTA DE REDACCION: DEROGADO POR DECRETO 461/25.\n\nApruébase la reglamentación de la Ley Nº 27.514, que como ANEXO I (IF-2020-25891848-APNJST#MTR) forma parte integrante del presente decreto.",
+          "texto": "ARTÍCULO 1°.- Apruébase la reglamentación de la Ley Nº 27.514, que como ANEXO I (IF-2020-25891848-APNJST#MTR) forma parte integrante del presente decreto.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          },
           "reglamenta-a": {
             "referencia-normativa": {
               "cr": null,
@@ -252,10 +259,24 @@
       "anexo": {
         "anexo": "A",
         "titulo-anexo": "ANEXO I",
-        "texto": "ANEXO I"
+        "antecedentes": {
+          "referencia-normativa": {
+            "cr": "(B.O 23/05/2025) ARTICULO DEROGADO.",
+            "id": "ANTECEDENTES_0",
+            "ref": "DNU C 000461 2025 07 07 0034 000 0000 000"
+          }
+        },
+        "texto": "ANEXO I",
+        "modificado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "MODIFICADO_POR_0",
+            "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+          }
+        }
       },
       "id-infojus": "DN20200000532",
-      "fecha-umod": 20250826153107
+      "fecha-umod": 20250904134919
     }
   }
 }
