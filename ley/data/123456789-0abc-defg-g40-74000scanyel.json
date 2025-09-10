@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g40-74000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1756299101068,
+      "timestamp": 1757097731478,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -48,16 +48,16 @@
       "estado": "Vigente, de alcance general",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-27",
-      "fecha-mod": "2025-08-27",
-      "timestamp": "2025-08-27T09:20:20",
-      "timestamp-alta": "2025-08-27T09:20:20",
-      "timestamp-m": "2025-08-27T09:20:20",
+      "fecha-alta": "2025-09-05",
+      "fecha-mod": "2025-09-05",
+      "timestamp": "2025-09-05T15:35:48",
+      "timestamp-alta": "2025-09-05T15:35:48",
+      "timestamp-m": "2025-09-05T15:35:48",
       "sumario": {
         "sumario": "TECNOLOGIA AGROPECUARIA-INSTITUTO NACIONAL DE TECNOLOGIA AGROPECUARIA"
       },
       "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 4 .\n\nOBSERVACION: EL DECRETO 462/25 (B.O 8/7/2025) QUE MODIFICA LA PRESENTE LEY HA SIDO RECHAZADO POR RESOLUCION 95/25 DE LA HONORABLE CÁMARA DE DIPUTADOS DE LA NACIÓN Y 56/25 DEL HONORABLE SENADO DE LA NACIÓN (B.O. 25/8/2025). DEROGADO CONFORME LO DISPUESTO POR ART. 24 DE LA LEY 26.122."
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 4 .\n\nOBSERVACION: EL DECRETO 462/25 (B.O 8/7/2025) QUE MODIFICA LA PRESENTE LEY HA SIDO RECHAZADO POR RESOLUCION 95/25 DE LA HONORABLE CÁMARA DE DIPUTADOS DE LA NACIÓN Y 56/25 DEL HONORABLE SENADO DE LA NACIÓN (B.O. 25/8/2025). DEROGADO CONFORME LO DISPUESTO POR ART. 24 DE LA LEY 26.122.\n\nOBSERVACION: POR DNU 627/25 (B.O. 3/9/2025) SE RESTITUYE LA PLENA VIGENCIA DE LAS DISPOSICIONES NORMATICAS QUE FUERON DEROGADAS, SUSTITUIDAS O MODIFICADAS POR EL DECRETO 462/25 Y QUE SE ENCONTRABAN VIGENTES AL MOMENTO DEL DICTADO DE DICHO DECRETO."
       },
       "descriptores": {
         "descriptor": [
@@ -105,15 +105,22 @@
       },
       "articulo": [
         {
-          "derogado-por": {
+          "numero-articulo": 1,
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0069 000 0000 000"
             }
           },
-          "numero-articulo": 1,
-          "texto": "ARTICULO 1° - NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEl Instituto Nacional de Tecnología Agropecuaria (INTA), se regirá exclusivamente por su ley orgánica y sus decretos reglamentarios sin sujeción a las normas que limiten su autarquía y las facultades que tiene asignadas."
+          "texto": "ARTICULO 1° - El Instituto Nacional de Tecnología Agropecuaria (INTA), se regirá exclusivamente por su ley orgánica y sus decretos reglamentarios sin sujeción a las normas que limiten su autarquía y las facultades que tiene asignadas.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
         },
         {
           "modifica-a": {
@@ -178,7 +185,7 @@
         "firmantes": "CAMAÑO-MAQUEDA-Rollano-Oyarzún"
       },
       "id-infojus": "LNS0004704",
-      "fecha-umod": 20250827095141
+      "fecha-umod": 20250905154211
     }
   }
 }

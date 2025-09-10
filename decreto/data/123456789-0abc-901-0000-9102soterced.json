@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-901-0000-9102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1754322263827,
+      "timestamp": 1757352145394,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -39,18 +39,18 @@
       "lugar-emision": "CAPITAL FEDERAL",
       "nombre-coloquial": "DECRETO NACIONAL 109/2019",
       "analista": "Quintana, Carolina",
-      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "estado": "Vigente, de alcance general",
       "responsable": "Quintana, Carolina",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-04",
-      "fecha-mod": "2025-08-04",
-      "timestamp": "2025-08-04T12:15:43",
-      "timestamp-alta": "2025-08-04T12:15:43",
-      "timestamp-m": "2025-08-04T12:15:43",
+      "fecha-alta": "2025-09-08",
+      "fecha-mod": "2025-09-08",
+      "timestamp": "2025-09-08T13:50:29",
+      "timestamp-alta": "2025-09-08T13:50:29",
+      "timestamp-m": "2025-09-08T13:50:29",
       "generalidades": {
         "sintesis": "Se establece la remuneración del Director Ejecutivo del Instituto Nacional del Teatro, del Presidente y Vicepresidente del Directorio del Instituto Nacional de la Música dependientes de la Secretaria de Gobierno de Cultura del Ministerio de Educación, Cultura, Ciencia y Técnología.",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5.\n\nOBSERVACION: Por art. 2 del DNU 627/25 (B.O. 3/9/2025) se restituye la plena vigencia de las disposiciones normativas que fueron derogadas, sustituidas o modificadas por el Decreto 531/25 (B.O. 4/8/2025) dictado como consecuencia de la aplicación de los Decretos Nros. 345 del 21 de mayo de 2025, 351 del 22 de mayo de 2025 y 461 y 462, ambos del 7 de julio de 2025."
       },
       "descriptores": {
         "descriptor": [
@@ -179,15 +179,22 @@
       },
       "articulo": [
         {
-          "derogado-por": {
+          "numero-articulo": 1,
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 4/8/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
             }
           },
-          "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nEstablécese que, a partir del dictado de la presente medida, el Director Ejecutivo del INSTITUTO NACIONAL DEL TEATRO, organismo descentralizado actuante en la órbita de la SECRETARÍA DE GOBIERNO DE CULTURA del MINISTERIO DE EDUCACIÓN, CULTURA, CIENCIA Y TECNOLOGÍA, tendrá una remuneración equivalente a Subsecretario."
+          "texto": "ARTÍCULO 1°.- Establécese que, a partir del dictado de la presente medida, el Director Ejecutivo del INSTITUTO NACIONAL DEL TEATRO, organismo descentralizado actuante en la órbita de la SECRETARÍA DE GOBIERNO DE CULTURA del MINISTERIO DE EDUCACIÓN, CULTURA, CIENCIA Y TECNOLOGÍA, tendrá una remuneración equivalente a Subsecretario.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 2,
@@ -217,7 +224,7 @@
         "firmantes": "MACRI-Peña-Finocchiaro"
       },
       "id-infojus": "DN20190000109",
-      "fecha-umod": 20250804124423
+      "fecha-umod": 20250908142225
     }
   }
 }

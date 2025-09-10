@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-870-1001-9891soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1754322262887,
+      "timestamp": 1757352135497,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -41,16 +41,17 @@
       "estado": "Vigente, de alcance general",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-04",
-      "fecha-mod": "2025-08-04",
-      "timestamp": "2025-08-04T12:15:43",
-      "timestamp-alta": "2025-08-04T12:15:43",
-      "timestamp-m": "2025-08-04T12:15:43",
+      "fecha-alta": "2025-09-08",
+      "fecha-mod": "2025-09-08",
+      "timestamp": "2025-09-08T13:50:29",
+      "timestamp-alta": "2025-09-08T13:50:29",
+      "timestamp-m": "2025-09-08T13:50:29",
       "generalidades": {
         "sintesis": "Se reglamenta la Ley 23.351 de Bibliotecas Populares",
         "anexos-decreto": {
           "anexo-ley": "A ANEXO I REGLAMENTACION"
         },
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 7.\n\nOBSERVACION: Por art. 2 del DNU 627/25 (B.O. 3/9/2025) se restituye la plena vigencia de las disposiciones normativas que fueron derogadas, sustituidas o modificadas por el Decreto 531/25 (B.O. 4/8/2025) dictado como consecuencia de la aplicación de los Decretos Nros. 345 del 21 de mayo de 2025, 351 del 22 de mayo de 2025 y 461 y 462, ambos del 7 de julio de 2025.",
         "reglamenta-a": {
           "referencia-normativa": {
             "cr": null,
@@ -221,26 +222,40 @@
               "ref": "LEY C 023351 1986 08 07 0000 000 0000 000"
             }
           },
-          "derogado-por": {
+          "numero-articulo": 2,
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 4/8/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
             }
           },
-          "numero-articulo": 2,
-          "texto": "ARTICULO 2.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nLa COMISION NACIONAL PROTECTORA DE BIBLIOTECAS POPULARES elevará su proyecto de estructura adecuado a los requerimientos de la Ley N. 23.351 y decretos reglamentarios, en jurisdicción de la SECRETARIA DE CULTURA DEL MINISTERIO DE EDUCACION Y JUSTICIA."
+          "texto": "ARTICULO 2.- La COMISION NACIONAL PROTECTORA DE BIBLIOTECAS POPULARES elevará su proyecto de estructura adecuado a los requerimientos de la Ley N. 23.351 y decretos reglamentarios, en jurisdicción de la SECRETARIA DE CULTURA DEL MINISTERIO DE EDUCACION Y JUSTICIA.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
+            }
+          }
         },
         {
-          "derogado-por": {
+          "numero-articulo": 3,
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 4/8/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
             }
           },
-          "numero-articulo": 3,
-          "texto": "ARTICULO 3.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nAsígnase nivel extraescalafonario a la Presidencia y demás miembros de la COMISION NACIONAL PROTECTORA DE BIBLIOTECAS POPULARES, cuyos cargos se regirán por las disposiciones vigentes relativas a las Autoridades Superiores de Organismos del Estado, con la intervención que le compete a la Comisión Técnica Asesora de Política Salarial del Sector Público."
+          "texto": "ARTICULO 3.- Asígnase nivel extraescalafonario a la Presidencia y demás miembros de la COMISION NACIONAL PROTECTORA DE BIBLIOTECAS POPULARES, cuyos cargos se regirán por las disposiciones vigentes relativas a las Autoridades Superiores de Organismos del Estado, con la intervención que le compete a la Comisión Técnica Asesora de Política Salarial del Sector Público.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
+            }
+          }
         },
         {
           "referencias-normativas": {
@@ -274,7 +289,7 @@
         }
       ],
       "firmantes": {
-        "firmantes": "ALFONSIN - DUMON - RODRIGUEZ - MERBILHAA - BASTIANES"
+        "firmantes": "ALFONSIN-DUMON-RODRIGUEZ-MERBILHAA-BASTIANES"
       },
       "anexo": {
         "anexo": "A",
@@ -399,48 +414,76 @@
             "titulo-particion": "TITULO III DE LA COMISION NACIONAL PROTECTORA",
             "articulo": [
               {
-                "derogado-por": {
-                  "referencia-normativa": {
-                    "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
-                    "id": "DEROGADO_POR_0",
-                    "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
-                  }
-                },
                 "numero-articulo": 12,
-                "texto": "ARTICULO 12.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nPara ser Presidente de la Comisión Nacional es requisito indispensable acreditar una estrecha vinculación al quehacer bibliotecario y cultural como asimismo, una experiencia relevante no menor de CINCO años en el desarrollo de las instituciones en el ámbito de la educación, de la cultura popular y/o de las ciencias sociales afines a los intereses específicos comunitarios de las bibliotecas populares. Para ser Secretario, es requisito poseer formación y experiencia en administración cultural pública o privada en preferente conexión con el campo de las bibliotecas populares."
-              },
-              {
-                "derogado-por": {
+                "antecedentes": {
                   "referencia-normativa": {
-                    "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
-                    "id": "DEROGADO_POR_0",
+                    "cr": "(B.O 4/8/2025) ARTICULO DEROGADO",
+                    "id": "ANTECEDENTES_0",
                     "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
                   }
                 },
+                "texto": "ARTICULO 12.- Para ser Presidente de la Comisión Nacional es requisito indispensable acreditar una estrecha vinculación al quehacer bibliotecario y cultural como asimismo, una experiencia relevante no menor de CINCO años en el desarrollo de las instituciones en el ámbito de la educación, de la cultura popular y/o de las ciencias sociales afines a los intereses específicos comunitarios de las bibliotecas populares. Para ser Secretario, es requisito poseer formación y experiencia en administración cultural pública o privada en preferente conexión con el campo de las bibliotecas populares.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
+                  }
+                }
+              },
+              {
                 "numero-articulo": 13,
-                "texto": "ARTICULO 13.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nPara ser designado miembro vocal de la Comisión Nacional Protectora se deberá acreditar una experiencia no menor de CINCO años ligada directa o indirectamente al quehacer de las bibliotecas populares. El PODER EJECUTIVO NACIONAL designará las CINCO vocalías considerando las siguientes propuestas:\n\na) UN vocal de una terna que elevará la entidad confederada de dirigentes de bibliotecas populares con adecuada representatividad institucional regional y nacional que las agrupe.\n\nb) UN vocal de una terna que elevará la institución de bibliotecarios graduados que tenga adecuada representatividad institucional, regional y nacional.\n\nc) UN vocal representativo de las entidades y/o industrias ligadas al ámbito bibliotecológico y cultural (papel, libro, medio de comunicación, artes y/o ciencias).\n\nd) DOS vocales delegados de la Junta Representativa que tomarán sus turnos en la Comisión Nacional de acuerdo a lo establecido en esta reglamentación."
-              },
-              {
-                "derogado-por": {
+                "antecedentes": {
                   "referencia-normativa": {
-                    "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
-                    "id": "DEROGADO_POR_0",
+                    "cr": "(B.O 4/8/2025) ARTICULO DEROGADO",
+                    "id": "ANTECEDENTES_0",
                     "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
                   }
                 },
+                "texto": "ARTICULO 13.- Para ser designado miembro vocal de la Comisión Nacional Protectora se deberá acreditar una experiencia no menor de CINCO años ligada directa o indirectamente al quehacer de las bibliotecas populares. El PODER EJECUTIVO NACIONAL designará las CINCO vocalías considerando las siguientes propuestas:\n\na) UN vocal de una terna que elevará la entidad confederada de dirigentes de bibliotecas populares con adecuada representatividad institucional regional y nacional que las agrupe.\n\nb) UN vocal de una terna que elevará la institución de bibliotecarios graduados que tenga adecuada representatividad institucional, regional y nacional.\n\nc) UN vocal representativo de las entidades y/o industrias ligadas al ámbito bibliotecológico y cultural (papel, libro, medio de comunicación, artes y/o ciencias).\n\nd) DOS vocales delegados de la Junta Representativa que tomarán sus turnos en la Comisión Nacional de acuerdo a lo establecido en esta reglamentación.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
+                  }
+                }
+              },
+              {
                 "numero-articulo": 14,
-                "texto": "ARTICULO 14.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nA los efectos operativos, la Comisión Nacional Protectora dictará su propio Reglamento."
-              },
-              {
-                "derogado-por": {
+                "antecedentes": {
                   "referencia-normativa": {
-                    "cr": "(B.O. 4/8/2025) ARTICULO DEROGADO.",
-                    "id": "DEROGADO_POR_0",
+                    "cr": "(B.O 4/8/2025) ARTICULO DEROGADO",
+                    "id": "ANTECEDENTES_0",
                     "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
                   }
                 },
+                "texto": "ARTICULO 14.- A los efectos operativos, la Comisión Nacional Protectora dictará su propio Reglamento.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
+                  }
+                }
+              },
+              {
                 "numero-articulo": 15,
-                "texto": "ARTICULO 15.- NOTA DE REDACCION: DEROGADO POR DECRETO 531/25.\n\nA los efectos de asegurar la continuidad de las responsabilidades y funciones asignadas a la Comisión Nacional, en oportunidad de su primera constitución, el PODER EJECUTIVO NACIONAL decretará la reelección automática por un nuevo período de TRES de sus miembros."
+                "antecedentes": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 4/8/2025) ARTICULO DEROGADO",
+                    "id": "ANTECEDENTES_0",
+                    "ref": "DEC C 000531 2025 08 01 0010 000 0000 000"
+                  }
+                },
+                "texto": "ARTICULO 15.- A los efectos de asegurar la continuidad de las responsabilidades y funciones asignadas a la Comisión Nacional, en oportunidad de su primera constitución, el PODER EJECUTIVO NACIONAL decretará la reelección automática por un nuevo período de TRES de sus miembros.",
+                "modificado-por": {
+                  "referencia-normativa": {
+                    "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                    "id": "MODIFICADO_POR_0",
+                    "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
+                  }
+                }
               }
             ]
           },
@@ -473,7 +516,7 @@
         ]
       },
       "id-infojus": "DN19891001078",
-      "fecha-umod": 20250804124422
+      "fecha-umod": 20250908142215
     }
   }
 }
