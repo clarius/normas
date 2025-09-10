@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-813-0000-6991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1754320982988,
+      "timestamp": 1757348662318,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -41,16 +41,17 @@
       "estado": "Vigente, de alcance general",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-04",
-      "fecha-mod": "2025-08-04",
-      "timestamp": "2025-08-04T12:13:11",
-      "timestamp-alta": "2025-08-04T12:13:11",
-      "timestamp-m": "2025-08-04T12:13:11",
+      "fecha-alta": "2025-09-08",
+      "fecha-mod": "2025-09-08",
+      "timestamp": "2025-09-08T13:19:21",
+      "timestamp-alta": "2025-09-08T13:19:21",
+      "timestamp-m": "2025-09-08T13:19:21",
       "generalidades": {
         "sintesis": "SE ESTABLECE LA CONDICION DE AUTARQUICA DEL TEATRO NACIONAL CERVANTES. SE DETERMINAN SUS OBJETIVOS.",
         "anexos-decreto": {
           "anexo-ley": "A ANEXOS"
-        }
+        },
+        "observaciones-generales": "OBSERVACION: Por art. 2 del DNU 627/25 (B.O. 3/9/2025) se restituye la plena vigencia de las disposiciones normativas que fueron derogadas, sustituidas o modificadas por el Decreto 531/25 (B.O. 4/8/2025) dictado como consecuencia de la aplicación de los Decretos Nros. 345 del 21 de mayo de 2025, 351 del 22 de mayo de 2025 y 461 y 462, ambos del 7 de julio de 2025."
       },
       "descriptores": {
         "descriptor": [
@@ -197,12 +198,19 @@
         },
         {
           "numero-articulo": 2,
-          "texto": "Art. 2: El TEATRO NACIONAL CERVANTES tendrá como objetivos:.\n\na) Preservar, promover y difundir el arte y la técnica del género teatral, los valores artísticos teatrales nacionales y universales, la diversidad teatral, como así también todo otro arte o actividad escénica que se considere pertinente acorde a la jerarquía del teatro.\n\nb) Fomentar y promover la dramaturgia nacional.\n\nc) Promover investigaciones especializadas en la historia del teatro argentino, sus hacedores e intérpretes y efectuar publicaciones al respecto.\n\nd) Prestar un servicio bibliográfico especializado en la historia del teatro argentino, sus hacedores e intérpretes.",
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O 4/8/2025) ARTICULO SUSTITUIDO",
+              "id": "ANTECEDENTES_0",
+              "ref": "DEC C 000531 2025 08 01 0001 000 0000 000"
+            }
+          },
+          "texto": "Art. 2: El TEATRO NACIONAL CERVANTES tendrá como objetivos:.\n\na) Preservar, promover y difundir el arte y la técnica del género teatral, los valores artísticos teatrales nacionales y universales, como así también todo otro arte o actividad escénica que se considere pertinente acorde a la jerarquía del teatro.\n\nb) Fomentar y promover la dramaturgia nacional.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 4/8/2025) ARTICULO SUSTITUIDO.",
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
               "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000531 2025 08 01 0001 000 0000 000"
+              "ref": "DNU C 000627 2025 09 02 0002 000 0000 000"
             }
           }
         },
@@ -312,7 +320,7 @@
         }
       },
       "id-infojus": "DN19960000318",
-      "fecha-umod": 20250804122302
+      "fecha-umod": 20250908132422
     }
   }
 }

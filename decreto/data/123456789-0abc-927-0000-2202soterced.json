@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-927-0000-2202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1756238116409,
+      "timestamp": 1757084014609,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,14 +43,14 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-26",
-      "fecha-mod": "2025-08-26",
-      "timestamp": "2025-08-26T16:04:05",
-      "timestamp-alta": "2025-08-26T16:04:05",
-      "timestamp-m": "2025-08-26T16:04:05",
+      "fecha-alta": "2025-09-05",
+      "fecha-mod": "2025-09-05",
+      "timestamp": "2025-09-05T11:42:10",
+      "timestamp-alta": "2025-09-05T11:42:10",
+      "timestamp-m": "2025-09-05T11:42:10",
       "generalidades": {
         "sintesis": "Por Decreto de Necesidad y Urgencia se Crea el Instituto Nacional de la Agricultura Familiar, Campesina e Indígena",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 20.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 18.\n\nFECHA DE ENTRADA EN VIGENCIA: 4/11/2022.\n\nOBSERVACION: POR ART. 16 DEL DECRETO 462/25 (B.O. 11/7/2025) SE DISUELVE EL INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA (INAFCI) CREADO POR EL ART. 1 DEL PRESENTE DECRETO.\n\nOBSERVACION: EL DECRETO 462/25 (B.O 8/7/2025) QUE MODIFICA EL PRESENTE DECRETO HA SIDO RECHAZADO POR RESOLUCION 95/25 DE LA HONORABLE CÁMARA DE DIPUTADOS DE LA NACIÓN Y 56/25 DEL HONORABLE SENADO DE LA NACIÓN (B.O. 25/8/2025). DEROGADO CONFORME LO DISPUESTO POR ART. 24 DE LA LEY 26.122."
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 20.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 18.\n\nFECHA DE ENTRADA EN VIGENCIA: 4/11/2022.\n\nOBSERVACION: Por Art. 16 del Decreto 462/25 (B.O. 11/7/2025) se disuelve el Instituto Nacional de la Agricultura Familiar, Campesina e Indígena (INAFCI) creado por el art. 1.\n\nOBSERVACION: El Decreto 462/25 (B.O 8/7/2025) que modifica el presente Decreto ha sido rechazado por Resolución 95/25 de la Honorable Cámara de Diputados de la Nación y 56/25 del Honorable Senado de la Nación (B.O. 25/8/2025). Derogado Conforme lo dispuesto por art. 24 de la ley 26.122.\n\nOBSERVACION: Por DNU 627/25 (B.O. 3/9/2025) se restituye la plena vigencia de las disposiciones normativas que fueron derogadas, sustituidas o modificadas por el Decreto 462/25 y que se encontraban vigentes al momento del dictado de dicho Decreto."
       },
       "descriptores": {
         "descriptor": [
@@ -239,13 +239,6 @@
       },
       "articulo": [
         {
-          "derogado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
-              "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
-            }
-          },
           "numero-articulo": 1,
           "antecedentes": {
             "referencia-normativa": [
@@ -255,19 +248,26 @@
                 "ref": "DNU C 000008 2023 12 10 0019 000 0000 000"
               },
               {
-                "cr": "(SUP. B.O. 26/02/2024) Artículo sustituido",
+                "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
                 "id": "ANTECEDENTES_1",
-                "ref": "DNU C 000195 2024 02 23 0012 000 0000 000"
+                "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
               }
             ]
           },
-          "texto": "ARTÍCULO 1°.- .- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nCréase el INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA como organismo descentralizado actuante en el ámbito del MINISTERIO DE ECONOMÍA, con autarquía económica y financiera, personería jurídica propia y capacidad de actuar en el ámbito del derecho público y privado.",
-          "observado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA DISUELTO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "OBSERVADO_POR_0",
-              "ref": "DEC C 000462 2025 07 07 0016 000 0000 000"
-            }
+          "texto": "ARTÍCULO 1°.- Créase el INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA como organismo descentralizado actuante en el ámbito del MINISTERIO DE ECONOMÍA, con autarquía económica y financiera, personería jurídica propia y capacidad de actuar en el ámbito del derecho público y privado.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(SUP. B.O. 26/02/2024) Artículo sustituido",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DNU C 000195 2024 02 23 0012 000 0000 000"
+              },
+              {
+                "cr": "(B.O 3/9/2025) TEXTO RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+              }
+            ]
           }
         },
         {
@@ -278,37 +278,58 @@
               "ref": "LEY C 027118 2014 12 17 0000 000 0000 000"
             }
           },
-          "derogado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
-              "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
-            }
-          },
           "numero-articulo": 2,
-          "texto": "ARTÍCULO 2°.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nInstitúyese al INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA como Autoridad de Aplicación de la Ley N°\u00A027.118, encontrándose facultado para dictar las normas complementarias, aclaratorias e interpretativas que resultaren necesarias para su implementación."
-        },
-        {
-          "derogado-por": {
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
+          "texto": "ARTÍCULO 2°.- Institúyese al INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA como Autoridad de Aplicación de la Ley N°\u00A027.118, encontrándose facultado para dictar las normas complementarias, aclaratorias e interpretativas que resultaren necesarias para su implementación.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
+        },
+        {
           "numero-articulo": 3,
-          "texto": "ARTÍCULO 3°.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEstablécese que en un plazo de SESENTA (60) días, computados a partir de la entrada vigencia del presente decreto, el o la titular del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA deberá elevar al Jefe de Gabinete de Ministros para su consideración y aprobación el proyecto de estructura organizativa de primer y segundo nivel operativo de dicho organismo."
-        },
-        {
-          "derogado-por": {
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
+          "texto": "ARTÍCULO 3°.- Establécese que en un plazo de SESENTA (60) días, computados a partir de la entrada vigencia del presente decreto, el o la titular del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA deberá elevar al Jefe de Gabinete de Ministros para su consideración y aprobación el proyecto de estructura organizativa de primer y segundo nivel operativo de dicho organismo.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
+        },
+        {
           "numero-articulo": 4,
-          "texto": "ARTÍCULO 4°.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nSerán objetivos del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA los siguientes:.\n\n1. Entender en el diseño, propuesta, coordinación, elaboración y ejecución de políticas, planes y programas que atiendan las necesidades y fomenten el desarrollo y fortalecimiento de los diversos sectores agroproductivos vinculados a la agricultura familiar, campesina e indígena y de la pesca artesanal, impulsando su formalización, modernización, tecnificación, complementación y diversificación de la economía relacionada con el sector productivo, tanto en la producción primaria como en la transformación asociada.\n\n2. Entender en la promoción de las formas de producción agroecológicas, así como fomentar y acompañar la transición hacia estos sistemas de producción primaria y transformación asociada, a través de la ejecución de políticas de formación y fortalecimiento específicos.\n\n3. Fomentar programas de construcción, ampliación y mejoramiento del hábitat rural, acceso al agua y sus condiciones productivas, propiciando el arraigo y la vuelta al campo, con el objetivo de promover la pesca artesanal y la permanencia en la tierra de las familias de los agricultores y las agricultoras familiares, campesinos y campesinas e indígenas, en condiciones dignas, con seguridad jurídica y garantizado el acceso a sus derechos, a través de la articulación de acciones con las áreas de la Administración Pública Nacional con competencia en la materia.\n\n4. Entender en la ejecución de las políticas y programas que se orienten a la puesta en valor de los saberes de los agricultores y las agricultoras familiares, en especial, políticas de arraigo rural y de reconocimiento del valor social de la agricultura familiar en el desarrollo nacional, la seguridad y la soberanía alimentaria.\n\n5. Entender en la coordinación de las instancias de relaciones institucionales con el Consejo de la Agricultura Familiar, Campesina e Indígena y las organizaciones de la Agricultura Familiar, y ejercer la representación en la Reunión Especializada sobre Agricultura Familiar en el MERCADO COMÚN DEL SUR (MERCOSUR) y en otras instancias nacionales e internacionales específicas.\n\n6. Generar instancias de participación de los productores y las productoras de la agricultura familiar, campesina e indígena, como así también reconocer y fomentar sus formas asociativas, convocando y coordinando espacios interinstitucionales con participación de los ámbitos público y privado relacionados con la actividad de su competencia.\n\n7. Entender en la coordinación con organismos de cooperación técnica y financiamiento nacional y/o internacional de la planificación y elaboración de programas y proyectos de desarrollo técnico, económico, comercial y de agregado de valor destinados a la producción de los pequeños y medianos productores y las pequeñas y medianas productoras familiares, campesinos y campesinas e indígenas, como así también intervenir y colaborar en su ejecución.\n\n8. Intervenir en el seguimiento de las negociaciones multilaterales, regionales y bilaterales y la cooperación internacional, en coordinación con las áreas competentes de la JEFATURA DE GABINETE DE MINISTROS y de los Ministerios u organismos relacionados con la temática propia del Instituto.\n\n9. Elaborar, ejecutar y supervisar la ejecución de programas destinados a atender la problemática del agricultor y de la agricultora familiar, campesino y campesina e indígena y de la pesca artesanal, el desarrollo regional y territorial rural, con énfasis en el arraigo de los y las jóvenes, la inclusión social y en la promoción de la igualdad de género.\n\n10. Intervenir en materias vinculadas al Consejo Federal Agropecuario, en los ámbitos de su competencia.\n\n11. Entender en la coordinación con las áreas de la Administración Pública Nacional centralizada competentes en materia de agricultura, ganadería y pesca, en lo que hace a sus propias atribuciones institucionales."
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
+              "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
+            }
+          },
+          "texto": "ARTÍCULO 4°.- Serán objetivos del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA los siguientes:.\n\n1. Entender en el diseño, propuesta, coordinación, elaboración y ejecución de políticas, planes y programas que atiendan las necesidades y fomenten el desarrollo y fortalecimiento de los diversos sectores agroproductivos vinculados a la agricultura familiar, campesina e indígena y de la pesca artesanal, impulsando su formalización, modernización, tecnificación, complementación y diversificación de la economía relacionada con el sector productivo, tanto en la producción primaria como en la transformación asociada.\n\n2. Entender en la promoción de las formas de producción agroecológicas, así como fomentar y acompañar la transición hacia estos sistemas de producción primaria y transformación asociada, a través de la ejecución de políticas de formación y fortalecimiento específicos.\n\n3. Fomentar programas de construcción, ampliación y mejoramiento del hábitat rural, acceso al agua y sus condiciones productivas, propiciando el arraigo y la vuelta al campo, con el objetivo de promover la pesca artesanal y la permanencia en la tierra de las familias de los agricultores y las agricultoras familiares, campesinos y campesinas e indígenas, en condiciones dignas, con seguridad jurídica y garantizado el acceso a sus derechos, a través de la articulación de acciones con las áreas de la Administración Pública Nacional con competencia en la materia.\n\n4. Entender en la ejecución de las políticas y programas que se orienten a la puesta en valor de los saberes de los agricultores y las agricultoras familiares, en especial, políticas de arraigo rural y de reconocimiento del valor social de la agricultura familiar en el desarrollo nacional, la seguridad y la soberanía alimentaria.\n\n5. Entender en la coordinación de las instancias de relaciones institucionales con el Consejo de la Agricultura Familiar, Campesina e Indígena y las organizaciones de la Agricultura Familiar, y ejercer la representación en la Reunión Especializada sobre Agricultura Familiar en el MERCADO COMÚN DEL SUR (MERCOSUR) y en otras instancias nacionales e internacionales específicas.\n\n6. Generar instancias de participación de los productores y las productoras de la agricultura familiar, campesina e indígena, como así también reconocer y fomentar sus formas asociativas, convocando y coordinando espacios interinstitucionales con participación de los ámbitos público y privado relacionados con la actividad de su competencia.\n\n7. Entender en la coordinación con organismos de cooperación técnica y financiamiento nacional y/o internacional de la planificación y elaboración de programas y proyectos de desarrollo técnico, económico, comercial y de agregado de valor destinados a la producción de los pequeños y medianos productores y las pequeñas y medianas productoras familiares, campesinos y campesinas e indígenas, como así también intervenir y colaborar en su ejecución.\n\n8. Intervenir en el seguimiento de las negociaciones multilaterales, regionales y bilaterales y la cooperación internacional, en coordinación con las áreas competentes de la JEFATURA DE GABINETE DE MINISTROS y de los Ministerios u organismos relacionados con la temática propia del Instituto.\n\n9. Elaborar, ejecutar y supervisar la ejecución de programas destinados a atender la problemática del agricultor y de la agricultora familiar, campesino y campesina e indígena y de la pesca artesanal, el desarrollo regional y territorial rural, con énfasis en el arraigo de los y las jóvenes, la inclusión social y en la promoción de la igualdad de género.\n\n10. Intervenir en materias vinculadas al Consejo Federal Agropecuario, en los ámbitos de su competencia.\n\n11. Entender en la coordinación con las áreas de la Administración Pública Nacional centralizada competentes en materia de agricultura, ganadería y pesca, en lo que hace a sus propias atribuciones institucionales.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
         },
         {
           "referencias-normativas": {
@@ -325,59 +346,94 @@
               }
             ]
           },
-          "derogado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
-              "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
-            }
-          },
           "numero-articulo": 5,
-          "texto": "ARTÍCULO 5°.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nSerán funciones del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA:.\n\n1. Proponer las políticas, normas y procedimientos respecto de la utilización y disposición de los bienes que pudiesen pasar a integrar conforme la normativa vigente al Banco de Tierras para la Agricultura Familiar, creado por el artículo 16 de la Ley N°\u00A027.118. 2. Participar en la celebración, ya sea a título oneroso o gratuito, de los siguientes actos con relación a inmuebles estatales que integren el Banco de Tierras para la Agricultura Familiar conforme la normativa vigente y de acuerdo con las directivas que imparta la AGENCIA DE ADMINISTRACIÓN DE BIENES DEL ESTADO (AABE), organismo descentralizado actuante en el ámbito de la JEFATURA DE GABINETE DE MINISTROS:.\n\na. Adquisición o enajenación.\n\nb. Constitución, transferencia, modificación o extinción de derechos reales o personales no contemplados en los demás incisos del presente artículo.\n\nc. Locación.\n\nd. Asignación en comodato o transferencia de uso.\n\n3. Contratar obras y servicios que hagan al cumplimiento de sus misiones y funciones, de conformidad con la normativa vigente.\n\n4. Intervenir en la celebración de todo tipo de contratos y, en particular, contratos de concesión de uso, en los bienes que eventualmente integren el Banco de Tierras para Agricultura Familiar y en cualquier otro contrato civil o comercial, típico o atípico, nominado o innominado, que fuera conducente para el cumplimiento de su objeto con personas humanas y/o jurídicas.\n\n5. Adquirir bienes que resulten necesarios para el cumplimiento de sus misiones y funciones, de conformidad con la normativa vigente.\n\n6. Administrar el REGISTRO NACIONAL DE LA AGRICULTURA FAMILIAR (RENAF) creado por la Resolución N°\u00A0255/07 de la ex-SECRETARÍA DE AGRICULTURA, GANADERÍA, PESCA Y ALIMENTOS del entonces MINISTERIO DE ECONOMÍA Y PRODUCCIÓN y su modificatoria, creación que fuera ratificada por el artículo 6° de la Ley N°\u00A027.118 y monitorear su actualización permanente.\n\n7. Promover las relaciones institucionales del Organismo y, en su caso, suscribir convenios con organizaciones públicas o privadas, nacionales o extranjeras, para el logro de sus objetivos en coordinación con los organismos con competencia en la materia.\n\n8. Elevar anualmente a la JEFATURA DE GABINETE DE MINISTROS una memoria e informe sobre las actividades cumplidas en el año precedente y su propuesta sobre las actividades a cumplir en el siguiente ejercicio."
-        },
-        {
-          "derogado-por": {
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
+          "texto": "ARTÍCULO 5°.- Serán funciones del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA:.\n\n1. Proponer las políticas, normas y procedimientos respecto de la utilización y disposición de los bienes que pudiesen pasar a integrar conforme la normativa vigente al Banco de Tierras para la Agricultura Familiar, creado por el artículo 16 de la Ley N°\u00A027.118. 2. Participar en la celebración, ya sea a título oneroso o gratuito, de los siguientes actos con relación a inmuebles estatales que integren el Banco de Tierras para la Agricultura Familiar conforme la normativa vigente y de acuerdo con las directivas que imparta la AGENCIA DE ADMINISTRACIÓN DE BIENES DEL ESTADO (AABE), organismo descentralizado actuante en el ámbito de la JEFATURA DE GABINETE DE MINISTROS:.\n\na. Adquisición o enajenación.\n\nb. Constitución, transferencia, modificación o extinción de derechos reales o personales no contemplados en los demás incisos del presente artículo.\n\nc. Locación.\n\nd. Asignación en comodato o transferencia de uso.\n\n3. Contratar obras y servicios que hagan al cumplimiento de sus misiones y funciones, de conformidad con la normativa vigente.\n\n4. Intervenir en la celebración de todo tipo de contratos y, en particular, contratos de concesión de uso, en los bienes que eventualmente integren el Banco de Tierras para Agricultura Familiar y en cualquier otro contrato civil o comercial, típico o atípico, nominado o innominado, que fuera conducente para el cumplimiento de su objeto con personas humanas y/o jurídicas.\n\n5. Adquirir bienes que resulten necesarios para el cumplimiento de sus misiones y funciones, de conformidad con la normativa vigente.\n\n6. Administrar el REGISTRO NACIONAL DE LA AGRICULTURA FAMILIAR (RENAF) creado por la Resolución N°\u00A0255/07 de la ex-SECRETARÍA DE AGRICULTURA, GANADERÍA, PESCA Y ALIMENTOS del entonces MINISTERIO DE ECONOMÍA Y PRODUCCIÓN y su modificatoria, creación que fuera ratificada por el artículo 6° de la Ley N°\u00A027.118 y monitorear su actualización permanente.\n\n7. Promover las relaciones institucionales del Organismo y, en su caso, suscribir convenios con organizaciones públicas o privadas, nacionales o extranjeras, para el logro de sus objetivos en coordinación con los organismos con competencia en la materia.\n\n8. Elevar anualmente a la JEFATURA DE GABINETE DE MINISTROS una memoria e informe sobre las actividades cumplidas en el año precedente y su propuesta sobre las actividades a cumplir en el siguiente ejercicio.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
+        },
+        {
           "numero-articulo": 6,
-          "texto": "ARTÍCULO 6°.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nLa conducción del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA estará a cargo de UN (1) Presidente o UNA (1) Presidenta, con rango y jerarquía de Secretario o Secretaria, designado o designada por el PODER EJECUTIVO NACIONAL, que tendrá los siguientes deberes y atribuciones:.\n\na. Ejercer la administración, la representación legal y dirección general del Organismo, suscribiendo a tal fin los actos administrativos pertinentes.\n\nb. Aprobar el Plan Operativo Anual y el Plan Estratégico del Organismo.\n\nc. Promover y gestionar la obtención de recursos y fondos públicos y privados, locales y extranjeros, para el cumplimiento de los objetivos del Organismo.\n\nd. Proveer la información pertinente para la confección del presupuesto del Organismo y elevar el anteproyecto de presupuesto. e. Aceptar herencias, legados, donaciones y subvenciones que le asignen organismos públicos o privados, nacionales o extranjeros. f. Requerir a los distintos organismos de la Administración Pública Nacional la información necesaria para el adecuado cumplimiento de sus objetivos.\n\ng. Elaborar y publicar la Memoria Anual del Organismo."
-        },
-        {
-          "derogado-por": {
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
+          "texto": "ARTÍCULO 6°.- La conducción del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA estará a cargo de UN (1) Presidente o UNA (1) Presidenta, con rango y jerarquía de Secretario o Secretaria, designado o designada por el PODER EJECUTIVO NACIONAL, que tendrá los siguientes deberes y atribuciones:.\n\na. Ejercer la administración, la representación legal y dirección general del Organismo, suscribiendo a tal fin los actos administrativos pertinentes.\n\nb. Aprobar el Plan Operativo Anual y el Plan Estratégico del Organismo.\n\nc. Promover y gestionar la obtención de recursos y fondos públicos y privados, locales y extranjeros, para el cumplimiento de los objetivos del Organismo.\n\nd. Proveer la información pertinente para la confección del presupuesto del Organismo y elevar el anteproyecto de presupuesto. e. Aceptar herencias, legados, donaciones y subvenciones que le asignen organismos públicos o privados, nacionales o extranjeros. f. Requerir a los distintos organismos de la Administración Pública Nacional la información necesaria para el adecuado cumplimiento de sus objetivos.\n\ng. Elaborar y publicar la Memoria Anual del Organismo.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
+        },
+        {
           "numero-articulo": 7,
-          "texto": "ARTÍCULO 7°.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEstablécese que los recursos operativos del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA serán los siguientes:.\n\n1. Las partidas presupuestarias asignadas por la Ley de Presupuesto Nacional o leyes especiales.\n\n2. Los subsidios, herencias, legados, donaciones o transferencias bajo cualquier título que reciba el organismo.\n\n3. Los intereses y beneficios resultantes de la gestión de sus propios fondos y/o activos.\n\n4. Cualquier otro recurso que pueda disponer según la ley, atribución administrativa o convencional, o por cualquier otro procedimiento legalmente establecido, incluyendo los aportes y transferencias presupuestarias del Sector Público Nacional."
-        },
-        {
-          "derogado-por": {
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
+          "texto": "ARTÍCULO 7°.- Establécese que los recursos operativos del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA serán los siguientes:.\n\n1. Las partidas presupuestarias asignadas por la Ley de Presupuesto Nacional o leyes especiales.\n\n2. Los subsidios, herencias, legados, donaciones o transferencias bajo cualquier título que reciba el organismo.\n\n3. Los intereses y beneficios resultantes de la gestión de sus propios fondos y/o activos.\n\n4. Cualquier otro recurso que pueda disponer según la ley, atribución administrativa o convencional, o por cualquier otro procedimiento legalmente establecido, incluyendo los aportes y transferencias presupuestarias del Sector Público Nacional.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
+        },
+        {
           "numero-articulo": 8,
-          "texto": "ARTÍCULO 8°-. NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nTransfiérense de la SUBSECRETARÍA DE AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA a la órbita del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA, organismo descentralizado actuante en la órbita de la JEFATURA DE GABINETE DE MINISTROS, las unidades organizativas, créditos presupuestarios, recursos operativos, bienes, personal con sus cargos y dotaciones vigentes a la fecha. El personal mantendrá su actual situación de revista."
-        },
-        {
-          "derogado-por": {
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
+          "texto": "ARTÍCULO 8°-.Transfiérense de la SUBSECRETARÍA DE AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA a la órbita del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA, organismo descentralizado actuante en la órbita de la JEFATURA DE GABINETE DE MINISTROS, las unidades organizativas, créditos presupuestarios, recursos operativos, bienes, personal con sus cargos y dotaciones vigentes a la fecha. El personal mantendrá su actual situación de revista.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
+        },
+        {
           "numero-articulo": 9,
-          "texto": "ARTÍCULO 9°.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEl INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA es continuador, a todos sus efectos, de la ex-SUBSECRETARÍA DE AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA dependiente de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, debiendo considerarse modificada por tal denominación cada vez que se hace referencia a dicha ex-Subsecretaría y a la referida Secretaría en toda aquella normativa que aborde o se vincule con la competencia, objetivos institucionales o funcionales encomendados por el presente al referido Instituto."
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
+              "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
+            }
+          },
+          "texto": "ARTÍCULO 9°.- El INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA es continuador, a todos sus efectos, de la ex-SUBSECRETARÍA DE AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA dependiente de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, debiendo considerarse modificada por tal denominación cada vez que se hace referencia a dicha ex-Subsecretaría y a la referida Secretaría en toda aquella normativa que aborde o se vincule con la competencia, objetivos institucionales o funcionales encomendados por el presente al referido Instituto.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
         },
         {
           "modifica-a": {
@@ -413,13 +469,6 @@
           "texto": "ARTÍCULO 12.- Sustitúyese el Artículo 16 de la Ley N°\u00A026.737 por el siguiente:.\n\n\"ARTÍCULO 16.- Créase el Consejo Interministerial de Tierras Rurales, el que será presidido por el MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS y conformado por la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, por la SECRETARÍA DE AMBIENTE Y DESARROLLO SUSTENTABLE del MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE, por el INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA, organismo descentralizado actuante en la órbita de la JEFATURA DE GABINETE DE MINISTROS, por el MINISTERIO DE DEFENSA y por el MINISTERIO DEL INTERIOR, con los y las representantes que al efecto designen las provincias, el que tendrá las siguientes funciones:.\n\na. Dirigir las acciones para el cumplimiento de la presente ley.\n\nb. Ejecutar la política nacional sobre tierras rurales.\n\nc. Ejecutar la política nacional sobre aquellas tierras rurales destinadas específicamente a la agricultura familiar, campesina e indígena.\n\nd. Recabar la colaboración de organismos de la administración centralizada y descentralizada del ESTADO NACIONAL y las provincias.\n\ne. Determinar la equivalencia de superficies del territorio nacional a que hace referencia el artículo 10 de la presente ley, sobre la base de los instrumentos técnicos elaborados por los organismos oficiales competentes\"."
         },
         {
-          "derogado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
-              "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
-            }
-          },
           "modifica-a": {
             "referencia-normativa": {
               "cr": null,
@@ -428,7 +477,21 @@
             }
           },
           "numero-articulo": 13,
-          "texto": "ARTÍCULO 13.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEstablécese que quedan sustituidas las referencias al ex-MINISTERIO DE AGRICULTURA, GANADERÍA Y PESCA previstas por los artículos 10, 18, 20, 23, 26, 27, 29 y 32 incisos 1, 4 y 6 (incluyendo la alusión a la ex-Secretaría de Agricultura Familiar que en él se hace) de la Ley N°\u00A027.118."
+          "antecedentes": {
+            "referencia-normativa": {
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
+              "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
+            }
+          },
+          "texto": "ARTÍCULO 13.- Establécese que quedan sustituidas las referencias al ex-MINISTERIO DE AGRICULTURA, GANADERÍA Y PESCA previstas por los artículos 10, 18, 20, 23, 26, 27, 29 y 32 incisos 1, 4 y 6 (incluyendo la alusión a la ex-Secretaría de Agricultura Familiar que en él se hace) de la Ley N°\u00A027.118.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
         },
         {
           "modifica-a": {
@@ -442,26 +505,40 @@
           "texto": "ARTÍCULO 14.- Incorpórase como inciso 36 del artículo 16 de la Ley de Ministerios (texto .ordenado por Decreto N°\u00A0438/92) y sus modificaciones el siguiente:.\n\n\"36. Articular el diseño y ejecución de políticas públicas destinadas a la Agricultura Familiar, Campesina e Indígena por medio del INSTITUTO NACIONAL DE LA AGRICULTURA FAMILIAR, CAMPESINA E INDÍGENA, en coordinación con las áreas competentes del MINISTERIO DE ECONOMÍA relacionadas con la agricultura, la ganadería y la pesca en general\"."
         },
         {
-          "derogado-por": {
+          "numero-articulo": 15,
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
-          "numero-articulo": 15,
-          "texto": "ARTÍCULO 15.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEl gasto que demande el cumplimiento de la presente medida será atendido con cargo a los créditos de las partidas de origen asignadas por el Presupuesto General de la Administración Nacional."
+          "texto": "ARTÍCULO 15.- El gasto que demande el cumplimiento de la presente medida será atendido con cargo a los créditos de las partidas de origen asignadas por el Presupuesto General de la Administración Nacional.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
         },
         {
-          "derogado-por": {
+          "numero-articulo": 16,
+          "antecedentes": {
             "referencia-normativa": {
-              "cr": "(B.O. 8-07-2025) DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-              "id": "DEROGADO_POR_0",
+              "cr": "(B.O 8/7/2025) ARTICULO DEROGADO",
+              "id": "ANTECEDENTES_0",
               "ref": "DEC C 000462 2025 07 07 0019 000 0000 000"
             }
           },
-          "numero-articulo": 16,
-          "texto": "ARTÍCULO 16.- NOTA DE REDACCION: DEROGADO POR DECRETO 462/25.\n\nEstablécese que hasta tanto se realice la adecuación administrativa del Instituto que se crea por el artículo 1°, el mismo continuará presupuestariamente en la entidad de origen."
+          "texto": "ARTÍCULO 16.- Establécese que hasta tanto se realice la adecuación administrativa del Instituto que se crea por el artículo 1°, el mismo continuará presupuestariamente en la entidad de origen.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O 3/9/2025) TEXTO ORIGINAL RESTITUIDO A PARTIR DEL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DNU C 000627 2025 09 02 0001 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 17,
@@ -484,7 +561,7 @@
         "firmantes": "FERNÁNDEZ-Manzur-de Pedro-Cafiero-Taiana-Massa-Guerrera-Katopodis -Soria-Fernández-Vizzotti-Tolosa Paz-Mazzina Guiñazú-Perczyk- Bauer-Filmus-Kismer-Cabandie-Lammens-Maggiotti"
       },
       "id-infojus": "DN20220000729",
-      "fecha-umod": 20250826165516
+      "fecha-umod": 20250905115334
     }
   }
 }
