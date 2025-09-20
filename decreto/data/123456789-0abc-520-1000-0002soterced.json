@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-520-1000-0002soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1448036623680,
+      "timestamp": 1756995689557,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,55 +16,48 @@
     },
     "content": {
       "mecanografico": 20000001025,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1025,
+      "fecha": "2000-11-04",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1025,
-      "timestamp": "2015-11-20T12:12:19",
-      "timestamp-m": "2015-11-20T12:12:19",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2000-11-04",
       "standard-normativo": "DEC C 001025 2000 11 04",
       "titulo-norma": "REGIMEN JURIDICO APLICABLE A LA VENTA Y DISTRIBUCION DE DIARIOS Y REVISTAS EN LA VIA PUBLICA.",
+      "nombre-coloquial": "DECRETO NACIONAL 1.025/2000",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2000 11 10"
         }
       },
-      "efecto-pasivo": {
-        "referencia-normativa": [
-          {
-            "cr": "MINIST. ECONOMIA, ART. 3 (B.O. 02/07/2001)",
-            "id": "OBSERVADO POR0",
-            "ref": "RES C 000256 2001 06 29 0001 000"
-          },
-          {
-            "cr": "MINIST. ECONOMIA, ART. 6 (B.O. 02/07/2001)",
-            "id": "OBSERVADO POR1",
-            "ref": "RES C 000256 2001 06 29 0002 000"
-          }
-        ]
-      },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 1.025/2000",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2000-11-10",
-      "fecha-mod": "2015-11-20",
-      "uid-alta": "SAUID",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-09-04",
+      "fecha-mod": "2025-09-04",
+      "timestamp": "2025-09-04T11:15:19",
+      "timestamp-alta": "2025-09-04T11:15:19",
+      "timestamp-m": "2025-09-04T11:15:19",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 4/9/2025) DEROGADO. VIGENCIA: EL DIA SIGUIENTE A SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000629 2025 09 03 0002 000 0000 000"
+          }
+        },
         "sintesis": "SE ESTABLECE EL REGIMEN JURIDICO APLICABLE A LA VENTA Y DISTRIBUCION DE DIARIOS, REVISTAS Y AFINES EN LA VIA PUBLICA Y LUGARES PUBLICOS DE CIRCULACION DE PERSONAS.",
-        "informacion-vinculada": 1E+19
-      },
-      "noticias-accesorias": {
-        "texto": "CANTIDAD DE ARTICULOS QUE COMPONEN EL DECRETO: 8 OBSERVACION: SE ESTABLECE QUE, PARA LA VENTA, REPARTO Y/O DISTRIBUCION DE DIARIOS, REVISTAS Y AFINES EN CUALQUIER LUGAR DEL PAIS, A QUE SE REFIERE EL ART. 3 DEL PRESENTE, LOS INTERESADOS DEBERAN OBTENER SOLAMENTE LAS HABILITACIONES QUE EXIJAN LAS NORMAS DE DERECHO PUBLICO LOCAL QUE RESULTEN APLICABLES, POR ART. 1 DE LA RES. N. 256/01 DEL MINISTERIO DE ECONOMIA (B.O. 2/7/01).\n\nOBSERVACION: SE ESTABLECE, A LOS FINES PREVISTOS POR EL ART. 6 DEL PRESENTE, QUE LOS TITULARES DE LOS DERECHOS DE PARADA Y REPARTO O DE LINEAS DE DISTRIBUCION INSCRIPTOS EN EL REGISTRO NACIONAL DE VENDEDORES Y DISTRIBUIDORES DE DIARIOS Y REVISTAS, NO PODRAN EXIGIR LA EXCLUSIVIDAD COMO CONDICION PARA VENDER, REPARTIR Y/O DISTRIBUIR DIARIOS, REVISTAS O AFINES, POR ART. 2 DE LA RES. 256/01 (B.O. 2/7/01)."
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 8.\n\nOBSERVACION: SE ESTABLECE QUE, PARA LA VENTA, REPARTO Y/O DISTRIBUCION DE DIARIOS, REVISTAS Y AFINES EN CUALQUIER LUGAR DEL PAIS, A QUE SE REFIERE EL ART. 3 DEL PRESENTE, LOS INTERESADOS DEBERAN OBTENER SOLAMENTE LAS HABILITACIONES QUE EXIJAN LAS NORMAS DE DERECHO PUBLICO LOCAL QUE RESULTEN APLICABLES, POR ART. 1 DE LA RES. N. 256/01 DEL MINISTERIO DE ECONOMIA (B.O. 2/7/01).\n\nOBSERVACION: SE ESTABLECE, A LOS FINES PREVISTOS POR EL ART. 6 DEL PRESENTE, QUE LOS TITULARES DE LOS DERECHOS DE PARADA Y REPARTO O DE LINEAS DE DISTRIBUCION INSCRIPTOS EN EL REGISTRO NACIONAL DE VENDEDORES Y DISTRIBUIDORES DE DIARIOS Y REVISTAS, NO PODRAN EXIGIR LA EXCLUSIVIDAD COMO CONDICION PARA VENDER, REPARTIR Y/O DISTRIBUIR DIARIOS, REVISTAS O AFINES, POR ART. 2 DE LA RES. 256/01 (B.O. 2/7/01)."
       },
       "descriptores": {
         "descriptor": [
@@ -195,7 +188,7 @@
             }
           ]
         },
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
         "texto": "Que el artículo 1 del Decreto N. 2284/91 ratificado por la Ley N. 24.307 dispuso la desregulación del comercio interior de bienes y servicios mediante la eliminación de todas las restricciones a la oferta de bienes y servicios en todo el territorio nacional que distorsionen los precios del mercado. Que el artículo 118 del Decreto mencionado en el considerando precedente dispuso, en sentido complementario, la derogación de todas las normas que se le opongan.\n\nQue, a pesar del proceso de desregulación económica encarado por el gobierno nacional, y del tiempo transcurrido desde entonces, actualmente subsisten en los hechos regímenes que, producto de la intervención estatal, generan efectos distorsivos sobre la libre interacción de la oferta y la demanda, en abierta contradicción con la letra y el espíritu del artículo 42 de la CONSTITUCION NACIONAL y del Decreto N. 2284/91, ratificado por Ley 24.307 que establecen un régimen general de libertad de competencia y desregulación de la actividad económica. Que, entre tales regímenes se encuentra el de distribución y venta de diarios, revistas y afines, generado a partir del dictado del Decreto-Ley N. 24.095/45, ratificado por Ley N. 12.921 y reglamentado por las resoluciones Nros. 42/91 y 43/91 del ex - MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL. Que, si bien el régimen fue instituido a fin de proteger la actividad de los distribuidores y vendedores de diarios, revistas y afines en virtud de la situación de emergencia existente al momento del dictado del Decreto-Ley N. 24.095/45, tal situación de emergencia ha perdido virtualidad en oportunidad del dictado del Decreto N. 2284/91. Que, sin perjuicio que el sistema creado a partir del Decreto-Ley N. 24.095/45 ratificado por la Ley N. 12.921 cumplió con los objetivos previstos en la normativa indicada, con la modificación de las reglas económicas introducidas a partir de 1991, entre ellas la Ley N. 24.307, se generó una situación de conflictividad que es necesario resolver. Que la declaración contenida en el presente, en modo alguno cercena o afecta el derecho de quienes se encuentran desarrollando la actividad en cuestión en el carácter de titulares de derechos de parada, o de reparto o de línea de distribución de diarios, revistas y afines.\n\nQue, lejos de ello, el presente tiene por objeto reconocer el derecho de otros interesados para acceder a un mercado abierto, en un régimen de libre competencia, todo lo cual, en definitiva resultará beneficioso para los consumidores y posibilitará un mayor acceso a la divulgación de la prensa escrita, afianzando, de ese modo, la libertad de expresión en todo el territorio nacional. Que la Resolución N. 416/99 del ex - MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, haciendo uso de las facultades conferidas por el Decreto N. 2284/91 interpretó que el Decreto-Ley N. 24.095/45, ratificado por la Ley N. 12.921 y sus normas reglamentarias estaban derogados por los artículos 1 y 118 del Decreto N. 2284/91. Que como consecuencia de ello se iniciaron acciones judiciales en diversas jurisdicciones del territorio nacional cuestionando la validez de la mencionada Resolución N. 416/ 99. Que según la jurisdicción en que fueron interpuestas las acciones mencionadas estas tuvieron resultados diversos, produciéndose, en los hechos, que la desregulación sólo se verifica en algunas provincias, mientras que en otras se aplica el plexo normativo derivado del Decreto-Ley N. 24.095/45. Que esta situación genera inseguridad jurídica y desigualdad ante la ley, a la vez que impide la prosecución plena de la política adoptada por el Estado Nacional en cuanto a la eliminación de trabas y restricciones para el libre ejercicio de las actividades privadas. Que esta situación hace necesario el dictado de una norma declarativa que garantice en todo el territorio nacional el derecho a la libre competencia para todas las personas que pretendan ejercer las actividades de distribución y venta de diarios y revistas y el libre acceso a las fuentes de información escrita, estableciendo las nuevas condiciones de ejercicio de dichas actividades en un mercado abierto y sin restricciones. Que se ha recibido la opinión favorable de los sectores involucrados y han tomado la intervención que les compete los servicios jurídicos pertinentes. Que el presente se dicta en uso de las atribuciones conferidas por el artículo 99, incisos 1 y 2 de la CONSTITUCION NACIONAL.\n\nPor ello,"
       },
       "articulo": [
@@ -279,7 +272,8 @@
       "firmantes": {
         "firmantes": "DE LA RUA-Colombo-Machinea-Bullrich"
       },
-      "id-infojus": "DN20000001025"
+      "id-infojus": "DN20000001025",
+      "fecha-umod": 20250904112129
     }
   }
 }

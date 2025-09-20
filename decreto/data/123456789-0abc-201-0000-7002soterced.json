@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-201-0000-7002soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410990249297,
+      "timestamp": 1757595397235,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,39 +16,49 @@
     },
     "content": {
       "mecanografico": 20070000102,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 102,
+      "fecha": "2007-02-07",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 102,
-      "timestamp": "2013-09-27T07:42:03",
-      "timestamp-m": "2013-09-27T07:42:03",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2007-02-07",
       "standard-normativo": "DEC C 000102 2007 02 07",
       "titulo-norma": "COMITE DE ELEGIBILIDAD PARA REFUGIADOS.",
+      "nombre-coloquial": "DECRETO NACIONAL 102/2007",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2007 02 09"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 102/2007",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2007-02-09",
-      "fecha-mod": "2013-09-27",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-09-11",
+      "fecha-mod": "2025-09-11",
+      "timestamp": "2025-09-11T09:45:38",
+      "timestamp-alta": "2025-09-11T09:45:38",
+      "timestamp-m": "2025-09-11T09:45:38",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 11/9/2025) VIGENCIA: EL DIA SIGUIENTE A SU PUBLICACION EN EL BOLETIN OFICIAL.",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000646 2025 09 10 0002 000 0000 000"
+          }
+        },
         "sintesis": "SE ESTABLECE QUE EL COMITE DE ELEGIBILIDAD PARA REFUGIADOS -C.E.Pa.Re- MANTENDRA SUS MISIONES Y FUNCIONES COMO AUTORIDAD DE APLICACION Y EJECUCION HASTA LA EFECTIVA CONFORMACION DE LA COMISION NACIONAL PARA LOS REFUGIADOS - LEY 26.165 Y SU REGLAMENTACION.",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 3 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 2 FECHA DE ENTRADA EN VIGENCIA: 09/02/2007",
-        "informacion-vinculada": 1E+19
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 3.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 2.\n\nFECHA DE ENTRADA EN VIGENCIA: 09/02/2007."
       },
       "descriptores": {
         "descriptor": [
@@ -65,21 +75,21 @@
           },
           {
             "elegido": {
-              "termino": "Ministerio del Interior"
+              "termino": "MINISTERIO DEL INTERIOR"
             },
             "preferido": {
-              "termino": "Ministerio del Interior y Transporte"
+              "termino": "MINISTERIO DEL INTERIOR Y TRANSPORTE"
             },
             "sinonimos": {
-              "termino": "Ministerio del Interior"
+              "termino": "MINISTERIO DEL INTERIOR"
             }
           },
           {
             "elegido": {
-              "termino": "Comité de Elegibilidad para Refugiados"
+              "termino": "COMITÉ DE ELEGIBILIDAD PARA REFUGIADOS"
             },
             "preferido": {
-              "termino": "Comité de Elegibilidad para Refugiados"
+              "termino": "COMITÉ DE ELEGIBILIDAD PARA REFUGIADOS"
             },
             "sinonimos": null
           }
@@ -87,11 +97,11 @@
         "suggest": {
           "termino": [
             "derechos fundamentales (Derechos humanos)",
-            "Ministerio del Interior (Ministerio del Interior y Transporte)",
             "refugiados",
-            "Comité de Elegibilidad para Refugiados",
-            "Ministerio del Interior y Transporte",
+            "MINISTERIO DEL INTERIOR Y TRANSPORTE",
+            "COMITÉ DE ELEGIBILIDAD PARA REFUGIADOS",
             "Derechos humanos",
+            "MINISTERIO DEL INTERIOR (MINISTERIO DEL INTERIOR Y TRANSPORTE)",
             "protección de las minorías"
           ]
         }
@@ -130,14 +140,26 @@
       },
       "considerando": {
         "referencias-normativas": {
-          "referencia-normativa": {
-            "cr": null,
-            "id": "REFERENCIAS_NORMATIVAS_0",
-            "ref": "LEY C 026165 2006 11 08 0000 000 0000 000"
-          }
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "LEY C 026165 2006 11 08 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_1",
+              "ref": "DEC C 000464 1985 03 11 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_2",
+              "ref": "CON C 000000 1994 08 22 0099 000 0000 000"
+            }
+          ]
         },
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que la próxima entrada en vigencia de la Ley N° 26.165 -General de Reconocimiento y Protección al Refugiado- implica, de conformidad con su artículo 58, la derogación del Decreto N° 464/85, que oportunamente creó el COMITE DE ELEGIBILIDAD PARA REFUGIADOS (C.E.Pa.Re.) Que la referida Ley 26.165 crea en jurisdicción del MINISTERIO DEL INTERIOR la COMISION NACIONAL PARA LOS REFUGIADOS, con representación interministerial, y no prevé un mecanismo de transición para el período que transcurra entre su entrada en vigencia y la constitución e integración de la COMISION y el dictado de la Reglamentación de la norma; resultando necesario adoptar los recaudos pertinentes a los efectos de garantizar tanto la continuidad de las actuaciones en trámite, así como de las solicitudes que se efectúen durante ese lapso.\n\nQue en mérito a lo expuesto, teniendo en consideración los compromisos asumidos por el Estado Nacional en cuanto al reconocimiento y protección de los refugiados, corresponde establecer que el COMITE DE ELEGIBILIDAD PARA REFUGIADOS -C.E.Pa.Re.- mantendrá sus misiones y funciones como autoridad de aplicación y ejecución en cuanto al reconocimiento en la condición de refugiado, hasta tanto se haga efectiva la conformación de la COMISION NACIONAL PARA LOS REFUGIADOS y la Reglamentación de la Ley 26.165.\n\nQue la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DEL INTERIOR ha tomado la intervención que le compete.\n\nQue la presente medida se dicta en virtud de las atribuciones conferidas por el inciso 1° del artículo 99 de la CONSTITUCION NACIONAL.\n\nPor ello,"
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que la próxima entrada en vigencia de la Ley N° 26.165 -General de Reconocimiento y Protección al Refugiado- implica, de conformidad con su artículo 58, la derogación del Decreto N° 464/85, que oportunamente creó el COMITE DE ELEGIBILIDAD PARA REFUGIADOS (C.E.Pa.Re.) Que la referida Ley 26.165 crea en jurisdicción del MINISTERIO DEL INTERIOR la COMISION NACIONAL PARA LOS REFUGIADOS, con representación interministerial, y no prevé un mecanismo de transición para el período que transcurra entre su entrada en vigencia y la constitución e integración de la COMISION y el dictado de la Reglamentación de la norma; resultando necesario adoptar los recaudos pertinentes a los efectos de garantizar tanto la continuidad de las actuaciones en trámite, así como de las solicitudes que se efectúen durante ese lapso.\n\nQue en mérito a lo expuesto, teniendo en consideración los compromisos asumidos por el Estado Nacional en cuanto al reconocimiento y protección de los refugiados, corresponde establecer que el COMITE DE ELEGIBILIDAD PARA REFUGIADOS -C.E.Pa.Re.- mantendrá sus misiones y funciones como autoridad de aplicación y ejecución en cuanto al reconocimiento en la condición de refugiado, hasta tanto se haga efectiva la conformación de la COMISION NACIONAL PARA LOS REFUGIADOS y la Reglamentación de la Ley 26.165.\n\nQue la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DEL INTERIOR ha tomado la intervención que le compete.\n\nQue la presente medida se dicta en virtud de las atribuciones conferidas por el inciso 1° del artículo 99 de la CONSTITUCION NACIONAL. Por ello,"
       },
       "articulo": [
         {
@@ -163,7 +185,8 @@
       "firmantes": {
         "firmantes": "KIRCHNER-Fernández-Fernández"
       },
-      "id-infojus": "DN20070000102"
+      "id-infojus": "DN20070000102",
+      "fecha-umod": 20250911095637
     }
   }
 }
