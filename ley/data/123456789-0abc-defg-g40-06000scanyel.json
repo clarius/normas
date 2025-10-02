@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g40-06000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1750953567475,
+      "timestamp": 1759405917305,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -72,11 +72,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-06-26",
-      "fecha-mod": "2025-06-26",
-      "timestamp": "2025-06-26T12:53:21",
-      "timestamp-alta": "2025-06-26T12:53:21",
-      "timestamp-m": "2025-06-26T12:53:21",
+      "fecha-alta": "2025-10-02",
+      "fecha-mod": "2025-10-02",
+      "timestamp": "2025-10-02T08:00:40",
+      "timestamp-alta": "2025-10-02T08:00:40",
+      "timestamp-m": "2025-10-02T08:00:40",
       "sumario": {
         "sumario": "LEY ARGENTINA DIGITAL-COMUNICACIONES-TELECOMUNICACIONES-TECNOLOGIA DE LA INFORMACION Y LAS COMUNICACIONES"
       },
@@ -110,13 +110,13 @@
               "termino": "telecomunicaciones"
             },
             "preferido": {
-              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/ciencia y tecnología/Tecnologías de la Información y la Comunicación/telecomunicaciones"
+              "termino": "Comunicaciones/servicios de comunicación audiovisual/telecomunicaciones"
             },
             "sinonimos": {
               "termino": [
-                "políticas de Estado",
-                "politicas públicas transversales",
-                "TICs"
+                "medios de difusión",
+                "servicio de telecomunicaciones",
+                "medios de comunicación"
               ]
             }
           },
@@ -186,13 +186,10 @@
               "termino": "ciencia y tecnología"
             },
             "preferido": {
-              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/ciencia y tecnología"
+              "termino": "Cultura y educación/ciencia y tecnología"
             },
             "sinonimos": {
-              "termino": [
-                "políticas de Estado",
-                "politicas públicas transversales"
-              ]
+              "termino": "Educación y Cultura"
             }
           },
           {
@@ -275,10 +272,15 @@
               "termino": "servicio público"
             },
             "preferido": {
-              "termino": "Infraestructura/servicio público"
+              "termino": "Derecho administrativo/contratos administrativos/servicio público"
             },
             "sinonimos": {
-              "termino": "servicios públicos"
+              "termino": [
+                "servicios públicos",
+                "servicios públicos locales",
+                "contrataciones del Estado",
+                "contrataciones públicas"
+              ]
             }
           },
           {
@@ -509,6 +511,7 @@
             "Derecho informático",
             "fortalecimiento de las instituciones",
             "telefonía celular",
+            "servicios públicos locales (servicio público)",
             "gobierno abierto",
             "red de telecomunicación",
             "derecho de acceso a los servicios de información y comunicaciones",
@@ -519,10 +522,12 @@
             "migración de banda",
             "equipo de telecomunicaciones",
             "tecnología de la información",
+            "Derecho administrativo",
             "Comunicaciones",
             "servicio de comunicaciones móviles (telefonía celular)",
             "innovación tecnologica",
             "tecnología de la información y las comunicaciones (tecnología de la información)",
+            "Educación y Cultura (Cultura y educación)",
             "desarrollo productivo (economía productiva)",
             "politicas públicas",
             "Velocidad Mínima de Transmisión",
@@ -530,22 +535,25 @@
             "servicios de comunicación audiovisual",
             "obligaciones de los licenciatarios de servicios de TIC",
             "Micro, Pequeña o Mediana Empresa",
-            "TIC (tecnología de la información)",
             "neutralidad de red",
+            "TIC (tecnología de la información)",
             "TICs (Tecnologías de la Información y la Comunicación)",
+            "contrataciones públicas (contratos administrativos)",
             "servicio telefónico",
             "medios de comunicación (Comunicaciones)",
             "Internet",
             "economía y finanzas",
             "políticas de Estado (politicas públicas)",
             "Derechos Humanos",
-            "telefonía móvil (telefonía celular)",
             "politicas públicas transversales (politicas públicas)",
+            "telefonía móvil (telefonía celular)",
             "derechos de las personas (Derechos Humanos)",
             "servicio de telefonía móvil (telefonía celular)",
             "servicio de telecomunicaciones (telecomunicaciones)",
+            "Cultura y educación",
             "economía regional",
             "modernización de la infraestructura",
+            "contrataciones del Estado (contratos administrativos)",
             "telefonía (servicio telefónico)",
             "red satelital",
             "espectro radioeléctrico",
@@ -560,6 +568,7 @@
             "Estado",
             "servicio universal",
             "MiPyMEs (Micro, Pequeña o Mediana Empresa)",
+            "contratos administrativos",
             "transparencia de la gestión pública",
             "PYMES (Micro, Pequeña o Mediana Empresa)"
           ]
@@ -609,7 +618,7 @@
                 {
                   "numero-articulo": 6,
                   "titulo-articulo": "Definiciones generales.",
-                  "texto": "ARTÍCULO 6° - Definiciones generales. En lo que respecta al régimen de las Tecnologías de la Información y las Comunicaciones y de las Telecomunicaciones (TIC), se aplicarán las siguientes definiciones:\n\na) Radiodifusión por suscripción: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico o mediante vinculo físico o satelital, indistintamente. Incluye el servicio de radiodifusión ofrecido por un prestador de servicios TIC que utilice la tecnología de transmisión de contenidos audiovisuales basados en el protocolo IP (IPTV), para el acceso de los programas en vivo y/o televisión lineal.\n\nb) Radiodifusión por suscripción mediante vínculo físico: Toda forma de radiocomunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por públicos determinables, mediante la utilización de medios físicos.\n\nc) Radiodifusión por suscripción mediante vínculo radioeléctrico: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico.\n\nd) Recursos asociados: son las infraestructuras físicas, los sistemas, los dispositivos, los servicios asociados u otros recursos o elementos asociados con una red de telecomunicaciones o con un Servicio de TIC que permitan o apoyen la prestación de servicios a través de dicha red o servicio, o tengan potencial para ello. Incluirán, entre otros, edificios o entradas de edificios, el cableado de edificios, antenas, torres y otras construcciones de soporte, conductos, mástiles, bocas de acceso y distribuidores.\n\ne) Servicio Básico Telefónico (SBT): consiste en la provisión del servicio de telefonía nacional e internacional de voz, a través de las redes locales, independientemente de la tecnología utilizada para su transmisión, siempre que cumpla con la finalidad de permitir a sus usuarios comunicarse entre sí.\n\nf) Servicio de video a pedido o a demanda: servicio ofrecido por un prestador de servicios de TIC para el acceso a programas en el momento elegido y a petición propia, sobre la base de un catálogo.\n\ng) Servicios de Tecnologías de la Información y las Comunicaciones (Servicios de TIC): son aquellos que tienen por objeto transportar y distribuir señales o datos, como voz, texto, video e imágenes, facilitados o solicitados por los terceros usuarios, a través de redes de telecomunicaciones. Cada servicio estará sujeto a su marco regulatorio específico.\n\nh) Servicio de Telecomunicación: es el servicio de transmisión, emisión o recepción de escritos, signos, señales, imágenes, sonidos o información de cualquier naturaleza, por hilo, radioelectricidad, medios ópticos u otros sistemas electromagnéticos, a través de redes de telecomunicaciones.\n\ni) Tecnologías de la información y las comunicaciones (TIC): es el conjunto de recursos, herramientas, equipos, programas informáticos, aplicaciones, redes y medios que permitan la compilación, procesamiento, almacenamiento y transmisión de información, como por ejemplo voz, datos, texto, video e imágenes, entre otros.\n\nj) Telecomunicación: es toda transmisión, emisión o recepción de signos, señales, escritos, imágenes, sonidos o información de cualquier naturaleza, por hilo, radioelectricidad, medios ópticos u otros sistemas electromagnéticos.",
+                  "texto": "ARTÍCULO 6° - Definiciones generales. En lo que respecta al régimen de las Tecnologías de la Información y las Comunicaciones y de las Telecomunicaciones (TIC), se aplicarán las siguientes definiciones:\n\na) Radiodifusión por suscripción: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico o mediante vinculo físico o satelital, indistintamente.\n\nIncluye el servicio de radiodifusión ofrecido por un prestador de servicios TIC que utilice la tecnología de transmisión de contenidos audiovisuales basados en el protocolo IP (IPTV), para el acceso de los programas en vivo y/o televisión lineal.\n\nb) Radiodifusión por suscripción mediante vínculo físico: Toda forma de radiocomunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por públicos determinables, mediante la utilización de medios físicos.\n\nc) Radiodifusión por suscripción mediante vínculo radioeléctrico: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico.\n\nd) Recursos asociados: son las infraestructuras físicas, los sistemas, los dispositivos, los servicios asociados u otros recursos o elementos asociados con una red de telecomunicaciones o con un Servicio de TIC que permitan o apoyen la prestación de servicios a través de dicha red o servicio, o tengan potencial para ello. Incluirán, entre otros, edificios o entradas de edificios, el cableado de edificios, antenas, torres y otras construcciones de soporte, conductos, mástiles, bocas de acceso y distribuidores.\n\ne) Servicio Básico Telefónico (SBT): consiste en la provisión del servicio de telefonía nacional e internacional de voz, a través de las redes locales, independientemente de la tecnología utilizada para su transmisión, siempre que cumpla con la finalidad de permitir a sus usuarios comunicarse entre sí.\n\nf) Servicio de video a pedido o a demanda: servicio ofrecido por un prestador de servicios de TIC para el acceso a programas en el momento elegido y a petición propia, sobre la base de un catálogo.\n\ng) Servicios de Tecnologías de la Información y las Comunicaciones (Servicios de TIC): son aquellos que tienen por objeto transportar y distribuir señales o datos, como voz, texto, video e imágenes, facilitados o solicitados por los terceros usuarios, a través de redes de telecomunicaciones. Cada servicio estará sujeto a su marco regulatorio específico.\n\nh) Servicio de Telecomunicación: es el servicio de transmisión, emisión o recepción de escritos, signos, señales, imágenes, sonidos o información de cualquier naturaleza, por hilo, radioelectricidad, medios ópticos u otros sistemas electromagnéticos, a través de redes de telecomunicaciones.\n\ni) Tecnologías de la información y las comunicaciones (TIC): es el conjunto de recursos, herramientas, equipos, programas informáticos, aplicaciones, redes y medios que permitan la compilación, procesamiento, almacenamiento y transmisión de información, como por ejemplo voz, datos, texto, video e imágenes, entre otros.\n\nj) Telecomunicación: es toda transmisión, emisión o recepción de signos, señales, escritos, imágenes, sonidos o información de cualquier naturaleza, por hilo, radioelectricidad, medios ópticos u otros sistemas electromagnéticos.",
                   "modificado-por": {
                     "referencia-normativa": [
                       {
@@ -671,7 +680,7 @@
                 }
               },
               "titulo-articulo": "Contenidos y transporte.",
-              "texto": "ARTÍCULO 10. - Incorpórase como servicio que podrán registrar los prestadores de TIC, al servicio de Radiodifusión por suscripción mediante cualquier vínculo. El servicio de Radiodifusión por suscripción se regirá por los requisitos que establecen los artículos siguientes de la presente ley y los demás que establezca la reglamentación, no resultándole aplicables las disposiciones de la Ley N° 26.522.\n\nEl plazo de otorgamiento del uso de las frecuencias del espectro radioeléctrico de los titulares de licencias de Radiodifusión por Suscripción conferidas bajo las Leyes Nros. 22.285 y 26.522 será el de su título original, o de DIEZ (10) años contados a partir del 1° de enero de 2016, siempre el que sea mayor para aquellos que tuvieren a dicha fecha una licencia vigente.",
+              "texto": "ARTÍCULO 10. - Incorpórase como servicio que podrán registrar los prestadores de TIC, al servicio de Radiodifusión por suscripción mediante cualquier vínculo.\n\nEl servicio de Radiodifusión por suscripción se regirá por los requisitos que establecen los artículos siguientes de la presente ley y los demás que establezca la reglamentación, no resultándole aplicables las disposiciones de la Ley N° 26.522.\n\nEl plazo de otorgamiento del uso de las frecuencias del espectro radioeléctrico de los titulares de licencias de Radiodifusión por Suscripción conferidas bajo las Leyes Nros. 22.285 y 26.522 será el de su título original, o de DIEZ (10) años contados a partir del 1° de enero de 2016, siempre el que sea mayor para aquellos que tuvieren a dicha fecha una licencia vigente.",
               "modificado-por": {
                 "referencia-normativa": {
                   "cr": "(B.O. 21/12/2023) ARTICULO SUSTITUIDO",
@@ -1516,7 +1525,7 @@
         }
       ],
       "id-infojus": "LNS0006004",
-      "fecha-umod": 20250626125927
+      "fecha-umod": 20251002085157
     }
   }
 }
