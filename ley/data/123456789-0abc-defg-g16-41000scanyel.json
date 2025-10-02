@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g16-41000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1752152691388,
+      "timestamp": 1759405725587,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -74,11 +74,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-07-10",
-      "fecha-mod": "2025-07-10",
-      "timestamp": "2025-07-10T09:51:15",
-      "timestamp-alta": "2025-07-10T09:51:15",
-      "timestamp-m": "2025-07-10T09:51:15",
+      "fecha-alta": "2025-10-02",
+      "fecha-mod": "2025-10-02",
+      "timestamp": "2025-10-02T08:00:40",
+      "timestamp-alta": "2025-10-02T08:00:40",
+      "timestamp-m": "2025-10-02T08:00:40",
       "sumario": {
         "sumario": "ECONOMIA-ENERGIA Y MINERIA-ENERGIA ELECTRICA-INDUSTRIA-CONSEJO FEDERAL DE LA ENERGIA ELECTRICA-FONDO NACIONAL DE ENERGIA ELECTRICA FONDO ESPECIAL DE DESARROLLO ELECTRICO DEL INTERIOR-ESTADO-PODER EJECUTIVO NACIONAL-Funciones-Utilidad-Pública-TRIBUTOS-IMPUESTOS- TASAS-CONTRIBUCIONES:REGALIAS HIDROELECTRICAS-OBRAS Y SERVICIOS PUBLICOS-CONCESION-ECONOMIA-COMERCIO EXTERIOR-IMPORTACIONES- EXPORTACIONES-Zonas de Electrificación-Comité Zonal de la Energía Eléctrica-HACIENDA Y FINANZAS-TESORO NACIONAL-ESTADO-PROVINCIAS- TESORERIA GENERAL DE LA NACION-Funciones-ENERGIA HIDROELECTRICA- AGUA Y ENERGIA ELECTRICA-EMPRESAS DEL ESTADO-"
       },
@@ -128,15 +128,10 @@
               "termino": "servicio público"
             },
             "preferido": {
-              "termino": "Derecho administrativo/contratos administrativos/servicio público"
+              "termino": "Infraestructura/servicio público"
             },
             "sinonimos": {
-              "termino": [
-                "servicios públicos",
-                "servicios públicos locales",
-                "contrataciones del Estado",
-                "contrataciones públicas"
-              ]
+              "termino": "servicios públicos"
             }
           },
           {
@@ -299,6 +294,7 @@
             "SECRETARÍA DE ENERGÍA Y COMBUSTIBLES",
             "reactores nucleares (central nuclear)",
             "concesión administrativa",
+            "Infraestructura",
             "servicios públicos (servicio público)",
             "zonas de electrificación (electrificación)",
             "FONDO NACIONAL DE LA ENERGÍA",
@@ -543,30 +539,26 @@
               }
             ]
           },
-          "numero-articulo": [
-            21,
-            "21 002"
-          ],
-          "texto": [
-            "Art. 21.- Los aprovechamientos de la energía hidroeléctrica y cualquier otra actividad de la industria eléctrica excluidos del régimen de concesiones y autorizaciones del artículo 14, pero comprendidos en el ámbito de la jurisdicción nacional, se ejercerán con sujeción a las reglamentaciones vigentes o a dictarse.\n\nLos particulares, individual o colectivamente, o agrupados en cooperativas, consorcios de usuarios y otras formas de asociación legítima, podrán utilizar para las necesidades de sus propiedades o industrias la energía hidroeléctrica de cursos de agua pública, con la sola sujeción a dichas reglamentaciones y siempre que la potencia total instalada no exceda de QUINIENTOS (500) kilovatios y no afecte a otros aprovechamientos, al sistema eléctrico o a los planes nacionales y regionales de electrificación. Respecto de las aguas que surgen en terrenos de los particulares resulta de aplicación lo dispuesto en el artículo 239 del CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN. ARTICULO 0021 002",
-            "ARTÍCULO 21 bis.- Al vencimiento de la concesión hidroeléctrica, por cualquier causal que se determine en el Contrato de Concesión, el ESTADO NACIONAL convocará a una licitación pública nacional e internacional para el otorgamiento de una nueva concesión conforme lo dispuesto en el artículo 14 de la presente ley."
-          ],
-          "modificado-por": [
-            {
-              "referencia-normativa": {
-                "cr": "(B.O. 7-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-                "id": "MODIFICADO_POR_0",
-                "ref": "DEC C 000450 2025 07 04 0009 000 0000 000 A"
-              }
-            },
-            {
-              "referencia-normativa": {
-                "cr": "(B.O. 7-07-2025) ARTICULO INCORPORADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
-                "id": "MODIFICADO_POR_0",
-                "ref": "DEC C 000450 2025 07 04 0010 000 0000 000 A"
-              }
+          "numero-articulo": 21,
+          "texto": "Art. 21.- Los aprovechamientos de la energía hidroeléctrica y cualquier otra actividad de la industria eléctrica excluidos del régimen de concesiones y autorizaciones del artículo 14, pero comprendidos en el ámbito de la jurisdicción nacional, se ejercerán con sujeción a las reglamentaciones vigentes o a dictarse.\n\nLos particulares, individual o colectivamente, o agrupados en cooperativas, consorcios de usuarios y otras formas de asociación legítima, podrán utilizar para las necesidades de sus propiedades o industrias la energía hidroeléctrica de cursos de agua pública, con la sola sujeción a dichas reglamentaciones y siempre que la potencia total instalada no exceda de QUINIENTOS (500) kilovatios y no afecte a otros aprovechamientos, al sistema eléctrico o a los planes nacionales y regionales de electrificación. Respecto de las aguas que surgen en terrenos de los particulares resulta de aplicación lo dispuesto en el artículo 239 del CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 7-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000450 2025 07 04 0009 000 0000 000 A"
             }
-          ]
+          }
+        },
+        {
+          "numero-articulo": "21 002",
+          "texto": "ARTÍCULO 21 bis.- Al vencimiento de la concesión hidroeléctrica, por cualquier causal que se determine en el Contrato de Concesión, el ESTADO NACIONAL convocará a una licitación pública nacional e internacional para el otorgamiento de una nueva concesión conforme lo dispuesto en el artículo 14 de la presente ley.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 7-07-2025) ARTICULO INCORPORADO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000450 2025 07 04 0010 000 0000 000 A"
+            }
+          }
         },
         {
           "derogado-por": {
@@ -594,7 +586,7 @@
         {
           "numero-articulo": 24,
           "titulo-articulo": "Consejo Federal de la Energía Eléctrica",
-          "texto": "Art. 24.- Créase el Consejo Federal de la Energía Eléctrica, dependiente de la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA, la que establecerá su funcionamiento.\n\nEl Consejo Federal de la Energía Eléctrica cumplirá los siguientes fines:.\n\na. Emitir opinión técnicamente fundada, no vinculante, en relación con los planes de desarrollo de los sistemas eléctricos del país y recomendar modificaciones o mejoras a los respectivos poderes jurisdiccionales;\n\nb. Actuar como consejo asesor y consultor del PODER EJECUTIVO NACIONAL cuando este lo requiera en todo lo concerniente a la industria eléctrica y a los servicios públicos de electricidad; a las prioridades en la ejecución de estudios y obras y a las concesiones y autorizaciones.\n\nc. Establecer los índices repartidores del Fondo Subsidiario para Compensaciones Regionales de Tarifas a Usuarios Finales y del Fondo Especial de Desarrollo Eléctrico del Interior, que integran el Fondo Nacional de la Energía Eléctrica.\n\nd. Mantener informada a la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA, con la periodicidad que esta determine, sobre el cumplimiento de los principios tarifarios determinados en la Ley N° 24.065 por parte de las jurisdicciones locales en el marco de la adhesión a la que se hace referencia en el inciso a) del artículo 31 de la presente ley; y sobre cualquier circunstancia que pudiera implicar un incumplimiento por parte de las respectivas jurisdicciones y, en particular, de las distribuidoras de la respectiva jurisdicción, del marco regulatorio eléctrico federal y de sus normas complementarias.\n\ne. Proponer las disposiciones que considere necesarias para la mejor aplicación de la presente ley y de su reglamentación.",
+          "texto": "Art. 24.- Créase el Consejo Federal de la Energía Eléctrica, dependiente de la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA, la que establecerá su funcionamiento.\n\nEl Consejo Federal de la Energía Eléctrica cumplirá los siguientes fines:\n\na. Emitir opinión técnicamente fundada, no vinculante, en relación con los planes de desarrollo de los sistemas eléctricos del país y recomendar modificaciones o mejoras a los respectivos poderes jurisdiccionales;\n\nb. Actuar como consejo asesor y consultor del PODER EJECUTIVO NACIONAL cuando este lo requiera en todo lo concerniente a la industria eléctrica y a los servicios públicos de electricidad; a las prioridades en la ejecución de estudios y obras y a las concesiones y autorizaciones.\n\nc. Establecer los índices repartidores del Fondo Subsidiario para Compensaciones Regionales de Tarifas a Usuarios Finales y del Fondo Especial de Desarrollo Eléctrico del Interior, que integran el Fondo Nacional de la Energía Eléctrica.\n\nd. Mantener informada a la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA, con la periodicidad que esta determine, sobre el cumplimiento de los principios tarifarios determinados en la Ley N° 24.065 por parte de las jurisdicciones locales en el marco de la adhesión a la que se hace referencia en el inciso a) del artículo 31 de la presente ley; y sobre cualquier circunstancia que pudiera implicar un incumplimiento por parte de las respectivas jurisdicciones y, en particular, de las distribuidoras de la respectiva jurisdicción, del marco regulatorio eléctrico federal y de sus normas complementarias.\n\ne. Proponer las disposiciones que considere necesarias para la mejor aplicación de la presente ley y de su reglamentación.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 7-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
@@ -751,7 +743,7 @@
               }
             ]
           },
-          "texto": "Art. 31.- El FONDO NACIONAL DE LA ENERGÍA ELÉCTRICA será administrado por la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA y se aplicará:.\n\na. El SESENTA POR CIENTO (60 %), deducido lo establecido en el segundo párrafo de este artículo para crear el Fondo Subsidiario para Compensaciones Regionales de Tarifas a Usuarios Finales, que asignará anualmente el CONSEJO FEDERAL DE LA ENERGÍA ELÉCTRICA (CFEE) a lasjurisdicciones provinciales que hayan adherido a los principios tarifarios contenidos en la Ley N° 24.065.\n\nb. El CUARENTA POR CIENTO (40 %) restante, deducido lo establecido en el segundo párrafo de este artículo, para alimentar el Fondo Especial de Desarrollo Eléctrico del Interior.\n\nEl DIECINUEVE COMA OCHENTA Y SEIS POR CIENTO (19,86 %) de larecaudación total del FONDO NACIONAL DE LA ENERGÍA ELÉCTRICA -que contendrá el recargo instituido en el artículo 146 de la Ley N° 11.672 Complementaria Permanente de Presupuesto (t.o. 2014) y sus modificatorias, el cual a todos los efectos se mantiene vigente- se destinará para las obras que la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA identifique como una ampliación del sistema de transporte de energía eléctrica en alta tensión destinada al abastecimiento de la demanda o a la interconexión de regiones eléctricas para mejora de calidad y/o seguridad de la demanda.\n\nLas sumas líquidas, tenencias en títulos públicos y otros activos financieros representativos de inversiones del FONDO FIDUCIARIO PARA EL TRANSPORTE ELÉCTRICO FEDERAL al momento de su disolución serán transferidos a la cuenta que indique la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA, para aplicarlo a las obras identificadas en el párrafo anterior. En caso de que existan remanentes no devengados al cierre del ejercicio, no será de aplicación lo establecido en el último párrafo del artículo 41 del Anexo al Decreto N° 1344/07 y sus modificatorios.",
+          "texto": "Art. 31.- El FONDO NACIONAL DE LA ENERGÍA ELÉCTRICA será administrado por la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA y se aplicará:.\n\na. El SESENTA POR CIENTO (60 %), deducido lo establecido en el segundo párrafo de este artículo para crear el Fondo Subsidiario para Compensaciones Regionales de Tarifas a Usuarios Finales, que asignará anualmente el CONSEJO FEDERAL DE LA ENERGÍA ELÉCTRICA (CFEE) a las jurisdicciones provinciales que hayan adherido a los principios tarifarios contenidos en la Ley N° 24.065.\n\nb. El CUARENTA POR CIENTO (40 %) restante, deducido lo establecido en el segundo párrafo de este artículo, para alimentar el Fondo Especial de Desarrollo Eléctrico del Interior.\n\nEl DIECINUEVE COMA OCHENTA Y SEIS POR CIENTO (19,86 %) de larecaudación total del FONDO NACIONAL DE LA ENERGÍA ELÉCTRICA -que contendrá el recargo instituido en el artículo 146 de la Ley N° 11.672 Complementaria Permanente de Presupuesto (t.o. 2014) y sus modificatorias, el cual a todos los efectos se mantiene vigente- se destinará para las obras que la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA identifique como una ampliación del sistema de transporte de energía eléctrica en alta tensión destinada al abastecimiento de la demanda o a la interconexión de regiones eléctricas para mejora de calidad y/o seguridad de la demanda.\n\nLas sumas líquidas, tenencias en títulos públicos y otros activos financieros representativos de inversiones del FONDO FIDUCIARIO PARA EL TRANSPORTE ELÉCTRICO FEDERAL al momento de su disolución serán transferidos a la cuenta que indique la SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA, para aplicarlo a las obras identificadas en el párrafo anterior. En caso de que existan remanentes no devengados al cierre del ejercicio, no será de aplicación lo establecido en el último párrafo del artículo 41 del Anexo al Decreto N° 1344/07 y sus modificatorios.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 7-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
@@ -803,7 +795,7 @@
         },
         {
           "numero-articulo": 34,
-          "texto": "Art. 34.- La SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA distribuirá el fondo referido y lo administrará asegurando en todos los casos el retorno de los préstamos de acuerdo a las siguientes normas:.\n\na. En los casos de los préstamos establecidos en el artículo 33, incisos a) y b), con un interés no menor al CINCUENTA POR CIENTO (50 %) de la tasa fijada por el BANCO DE LA NACIÓN ARGENTINA (BNA) para sus operaciones de descuento de documentos a TREINTA (30) días de plazo y con amortización hasta QUINCE (15) años;\n\nb. Para los casos de los préstamos establecidos en el artículo 33, inciso c), con un interés no inferior al CINCUENTA POR CIENTO (50 %) de la tasa fijada por el BANCO DE LA NACIÓN ARGENTINA (BNA) para sus operaciones de descuento de documentos a TREINTA (30) días de plazo y con amortización hasta CINCO (5) años. Los plazos de amortización precedentes podrán ampliarse hasta DIEZ (10) años más en los siguientes casos: I) cuando los préstamos se apliquen total o parcialmente para la ejecución de obras de electrificación rural; II) cuando se destinen a planes que incluyan la adquisición de equipos electromecánicos y materiales eléctricos de fabricación nacional en una proporción no inferior al OCHENTA POR CIENTO (80 %) del total de la inversión. En estos casos, para lo invertido en electrificación rural o en la compra de equipos y elementos de fabricación nacional, la tasa de interés aplicable podrá reducirse al CUARENTA POR CIENTO (40 %) de la tasa referencial del BANCO DE LA NACIÓN ARGENTINA.",
+          "texto": "Art. 34.- La SECRETARÍA DE ENERGÍA del MINISTERIO DE ECONOMÍA distribuirá el fondo referido y lo administrará asegurando en todos los casos el retorno de los préstamos de acuerdo a las siguientes normas:.\n\na. En los casos de los préstamos establecidos en el artículo 33, incisos a) y b), con un interés no menor al CINCUENTA POR CIENTO (50 %) de la tasa fijada por el BANCO DE LA NACIÓN ARGENTINA (BNA) para sus operaciones de descuento de documentos a TREINTA (30) días de plazo y con amortización hasta QUINCE (15) años;\n\nb. Para los casos de los préstamos establecidos en el artículo 33, inciso c), con un interés no inferior al CINCUENTA POR CIENTO (50 %) de la tasa fijada por el BANCO DE LA NACIÓN ARGENTINA (BNA) para sus operaciones de descuento de documentos a TREINTA (30) días de plazo y con amortización hasta CINCO (5) años.\n\nLos plazos de amortización precedentes podrán ampliarse hasta DIEZ (10) años más en los siguientes casos: I) cuando los préstamos se apliquen total o parcialmente para la ejecución de obras de electrificación rural; II) cuando se destinen a planes que incluyan la adquisición de equipos electromecánicos y materiales eléctricos de fabricación nacional en una proporción no inferior al OCHENTA POR CIENTO (80 %) del total de la inversión. En estos casos, para lo invertido en electrificación rural o en la compra de equipos y elementos de fabricación nacional, la tasa de interés aplicable podrá reducirse al CUARENTA POR CIENTO (40 %) de la tasa referencial del BANCO DE LA NACIÓN ARGENTINA.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 7-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
@@ -815,7 +807,7 @@
         {
           "numero-articulo": 35,
           "titulo-articulo": "Transporte y distribución de la energía eléctrica-Sistemas eléctricos",
-          "texto": "Art. 35.- A los efectos de la presente ley y de la Ley N° 24.065 se denominan:.\n\na. Sistemas Eléctricos Nacionales (SEN), las centrales, líneas y redes de transmisión y distribución, y obras e instalaciones complementarias -sin distinción de las personas, públicas o privadas, a quienes pertenezcan-, sometidos a la jurisdicción nacional;\n\nb. Sistemas Eléctricos Provinciales (SEP), las centrales, líneas y redes de jurisdicción provincial;\n\nc. Sistemas Eléctricos del Estado (SEE), las centrales, líneas y redes de transmisión, y obras e instalaciones complementarias, de propiedad del ESTADO NACIONAL, o que él administra o explota;\n\nd. Red Nacional de Interconexión (RNI), al conjunto de Sistemas Eléctricos Nacionales (SEN) interconectados. Los términos Sistema Argentino de Interconexión (SADI) y Red Nacional de Interconexión (RNI) son equivalentes;\n\ne. Mercado Eléctrico Nacional (MEN) o Mercado Eléctrico Mayorista (MEM), al ámbito y conjunto de transacciones de energía eléctrica que se ejecutan a través del Sistema Argentino de Interconexión (SADI) o de cualquier otra instalación de vinculación eléctrica sujeta a jurisdicción federal.",
+          "texto": "Art. 35.- A los efectos de la presente ley y de la Ley N° 24.065 se denominan:.\n\na. Sistemas Eléctricos Nacionales (SEN), las centrales, líneas y redes de transmisión y distribución, y obras e instalaciones complementarias -sin distinción de las personas, públicas o privadas, a quienes pertenezcan-, sometidos a la jurisdicción nacional;\n\nb. Sistemas Eléctricos Provinciales (SEP), las centrales, líneas y redes de jurisdicción provincial;\n\nc. Sistemas Eléctricos del Estado (SEE), las centrales, líneas y redes de transmisión, y obras e instalaciones complementarias, de propiedad del ESTADO NACIONAL, o que él administra o explota;\n\nd. Red Nacional de Interconexión (RNI), al conjunto de Sistemas Eléctricos Nacionales (SEN) interconectados.\n\nLos términos Sistema Argentino de Interconexión (SADI) y Red Nacional de Interconexión (RNI) son equivalentes;\n\ne. Mercado Eléctrico Nacional (MEN) o Mercado Eléctrico Mayorista (MEM), al ámbito y conjunto de transacciones de energía eléctrica que se ejecutan a través del Sistema Argentino de Interconexión (SADI) o de cualquier otra instalación de vinculación eléctrica sujeta a jurisdicción federal.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 7-07-2025) ARTICULO SUSTITUIDO CON VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
@@ -1002,7 +994,7 @@
         "firmantes": "GUIDO-Barraza-MONJARDIN-González."
       },
       "id-infojus": "LNS0001461",
-      "fecha-umod": 20250710100451
+      "fecha-umod": 20251002084845
     }
   }
 }
