@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g24-94000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1759405708361,
+      "timestamp": 1759405712293,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -69,14 +69,9 @@
               "termino": "hidrocarburos"
             },
             "preferido": {
-              "termino": "Recursos naturales/recursos minerales/minería/productos mineros/hidrocarburos"
+              "termino": "Recursos naturales/recursos energéticos/sistema energético/hidrocarburos"
             },
-            "sinonimos": {
-              "termino": [
-                "Derecho Minero",
-                "actividad minera"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
@@ -314,8 +309,8 @@
             "contratos de exploración y explotación de hidrocarburos",
             "servicio público",
             "defensa de la competencia",
-            "minería",
             "Recursos naturales",
+            "minería",
             "producción de hidrocarburos (explotación de hidrocarburos)",
             "actividades económicas",
             "fondo fiduciario público (fondos fiduciarios)",
@@ -1044,7 +1039,7 @@
         }
       },
       "id-infojus": "LNS0004942",
-      "fecha-umod": 20251002084828
+      "fecha-umod": 20251002084832
     }
   }
 }
