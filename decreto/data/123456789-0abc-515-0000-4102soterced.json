@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-515-0000-4102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1492517271187,
+      "timestamp": 1759150876955,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,49 +16,57 @@
     },
     "content": {
       "mecanografico": 20140000515,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 515,
+      "fecha": "2014-04-09",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 515,
-      "timestamp": "2017-04-18T06:47:37",
-      "timestamp-alta": "2017-04-18T06:47:37",
-      "timestamp-m": "2017-04-18T06:47:37",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2014-04-09",
       "standard-normativo": "DEC C 000515 2014 04 09",
       "titulo-norma": "Designacion del Embajador de la Cultura Popular Argentina",
+      "nombre-coloquial": "DECRETO NACIONAL 515/2014",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2014 04 14"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 515/2014",
-      "analista": "Echegaray, Mirta",
-      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
-      "fecha-alta": "2017-04-18",
-      "fecha-mod": "2017-04-18",
-      "responsable": "Echegaray, Mirta",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-09-29",
+      "fecha-mod": "2025-09-29",
+      "timestamp": "2025-09-29T09:34:30",
+      "timestamp-alta": "2025-09-29T09:34:30",
+      "timestamp-m": "2025-09-29T09:34:30",
       "generalidades": {
-        "sintesis": "Se declara Embajador de la Cultura Popular Argentina, con rango y jerarquía de Subsecretario."
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(BO 29/9/2025) DECRETO DEROGADO CON VIGENCIA A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000692 2025 09 26 0001 000 0000 000"
+          }
+        },
+        "sintesis": "Se declara Embajador de la Cultura Popular Argentina, con rango y jerarquía de Subsecretario.",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 3"
       },
       "descriptores": {
         "descriptor": [
           {
             "elegido": {
-              "termino": "Secretaría de Cultura"
+              "termino": "SECRETARÍA DE CULTURA"
             },
             "preferido": {
-              "termino": "Secretaría de Cultura"
+              "termino": "SECRETARÍA DE CULTURA"
             },
             "sinonimos": null
           },
@@ -94,8 +102,8 @@
             "empleados del Servicio Exterior de la Nación (funcionarios del Servicio Exterior de la Nación)",
             "servicio exterior de la Nación",
             "derecho internacional público",
+            "SECRETARÍA DE CULTURA",
             "embajadores extraordinarios (embajadores)",
-            "Secretaría de Cultura",
             "agentes diplomáticos",
             "embajadores",
             "representaciones diplomáticas (embajadas)"
@@ -133,7 +141,8 @@
       "firmantes": {
         "firmantes": "FERNANDEZ DE KIRCHNER-Capitanich-Randazzo"
       },
-      "id-infojus": "DN20140000515"
+      "id-infojus": "DN20140000515",
+      "fecha-umod": 20250929100116
     }
   }
 }
