@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-357-0000-4102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1492693402825,
+      "timestamp": 1759500261752,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,49 +16,50 @@
     },
     "content": {
       "mecanografico": 20140000753,
+      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 753,
+      "fecha": "2014-05-22",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 753,
-      "timestamp": "2017-04-20T09:17:59",
-      "timestamp-alta": "2017-04-20T09:17:59",
-      "timestamp-m": "2017-04-20T09:17:59",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2014-05-22",
       "standard-normativo": "DEC C 000753 2014 05 22",
       "titulo-norma": "Designaciones transitorias en el ámbito del Ministerio de Salud",
+      "nombre-coloquial": "DECRETO NACIONAL 753/2014",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2014 05 28"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 753/2014",
       "analista": "Díaz, Omar",
-      "estado": "Individual, Solo Modificatoria o Sin Eficacia",
-      "fecha-alta": "2017-04-20",
-      "fecha-mod": "2017-04-20",
       "responsable": "Díaz, Omar",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-10-03",
+      "fecha-mod": "2025-10-03",
+      "timestamp": "2025-10-03T10:58:43",
+      "timestamp-alta": "2025-10-03T10:58:43",
+      "timestamp-m": "2025-10-03T10:58:43",
       "generalidades": {
-        "sintesis": "Se aprueban designaciones transitorias en el Centro Nacional de Control de Calidad de Biológicos, dependiente de la Administración Nacional de Laboratorios e Institutos de Salud \"Dr. Cárlos G. Malbran\" (ANLIS)."
+        "sintesis": "Se aprueban designaciones transitorias en el Centro Nacional de Control de Calidad de Biológicos, dependiente de la Administración Nacional de Laboratorios e Institutos de Salud \"Dr. Cárlos G. Malbran\" (ANLIS).",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 4.\n\nOBSERVACION: Por Resolución 2669/25 (B.O. 3/10/2025) se prorroga a partir del 22 de agosto de 2025 y por el término de (180) días hábiles, la designación transitoria de la Farmacéutica Andrea Paula Torres."
       },
       "descriptores": {
         "descriptor": [
           {
             "elegido": {
-              "termino": "Ministerio de Salud"
+              "termino": "MINISTERIO DE SALUD"
             },
             "preferido": {
-              "termino": "Ministerio de Salud"
+              "termino": "MINISTERIO DE SALUD"
             },
             "sinonimos": {
               "termino": [
@@ -70,10 +71,10 @@
           },
           {
             "elegido": {
-              "termino": "Administración Nacional de Laboratorios e Institutos Carlos Malbrán"
+              "termino": "ADMINISTRACIÓN NACIONAL DE LABORATORIOS E INSTITUTOS CARLOS MALBRÁN"
             },
             "preferido": {
-              "termino": "Administración Nacional de Laboratorios e Institutos Carlos Malbrán"
+              "termino": "ADMINISTRACIÓN NACIONAL DE LABORATORIOS E INSTITUTOS CARLOS MALBRÁN"
             },
             "sinonimos": null
           },
@@ -106,9 +107,10 @@
         "suggest": {
           "termino": [
             "personal no permanente",
-            "Ministerio de Salud y Ambiente (Ministerio de Salud)",
             "agentes de la administración pública",
+            "Ministerio de Salud y Acción Social (MINISTERIO DE SALUD)",
             "agentes de la Administración (agentes de la administración pública)",
+            "ADMINISTRACIÓN NACIONAL DE LABORATORIOS E INSTITUTOS CARLOS MALBRÁN",
             "personal del sector público (agentes de la administración pública)",
             "situaciones de revista",
             "personal del Estado (agentes de la administración pública)",
@@ -118,13 +120,12 @@
             "funcionarios y empleados públicos (agentes de la administración pública)",
             "Derecho administrativo",
             "agentes transitorios (personal transitorio)",
+            "Ministerio de Salud y Ambiente (MINISTERIO DE SALUD)",
             "función pública (Administración Pública)",
-            "Ministerio de Salud Pública y Medio Ambiente (Ministerio de Salud)",
             "Administración Pública",
+            "Ministerio de Salud Pública y Medio Ambiente (MINISTERIO DE SALUD)",
             "agentes públicos (agentes de la administración pública)",
-            "Ministerio de Salud y Acción Social (Ministerio de Salud)",
-            "Ministerio de Salud",
-            "Administración Nacional de Laboratorios e Institutos Carlos Malbrán",
+            "MINISTERIO DE SALUD",
             "personal transitorio",
             "personal de planta temporaria (personal no permanente)",
             "empleo público",
@@ -270,7 +271,8 @@
       "firmantes": {
         "firmantes": "FERNANDEZ DE KIRCHNER-Capitanich-Manzur"
       },
-      "id-infojus": "DN20140000753"
+      "id-infojus": "DN20140000753",
+      "fecha-umod": 20251003110421
     }
   }
 }

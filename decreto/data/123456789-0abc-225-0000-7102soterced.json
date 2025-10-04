@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-225-0000-7102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1650651111326,
+      "timestamp": 1759497321385,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,42 +16,47 @@
     },
     "content": {
       "mecanografico": 20170000522,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 522,
+      "fecha": "2017-07-17",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 522,
-      "timestamp": "2022-04-22T14:58:31",
-      "timestamp-alta": "2017-07-18T12:02:18",
-      "timestamp-m": "2022-04-22T14:58:31",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2017-07-17",
       "standard-normativo": "DEC C 000522 2017 07 17",
       "titulo-norma": "Reglamentación de la Ley 26.879 de Creación del Registro Nacional de Datos Genéticos vinculados a Delitos contra la Integridad Sexual",
+      "nombre-coloquial": "DECRETO NACIONAL 522/2017",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2017 07 18"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 522/2017",
       "analista": "Rocca, Adriana",
-      "enciclopedia": {
-        "texto": "Integridad y Transparencia"
-      },
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2017-07-18",
-      "fecha-mod": "2022-04-22",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-10-03",
+      "fecha-mod": "2025-10-03",
+      "timestamp": "2025-10-03T10:10:37",
+      "timestamp-alta": "2025-10-03T10:10:37",
+      "timestamp-m": "2025-10-03T10:10:37",
       "generalidades": {
+        "enciclopedia": "no procesado",
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 3/10/2025) VIGENCIA: EL DIA SIGUIENTE A SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000709 2025 10 02 0006 000 0000 000"
+          }
+        },
         "sintesis": "Se Reglamenta la Ley 26.879 de Creación del Registro Nacional de Datos Genéticos vinculados a Delitos contra la Integridad Sexual",
         "anexos-decreto": {
           "anexo-ley": "A REGLAMENTACION"
@@ -103,12 +108,12 @@
               "termino": "delitos contra la integridad sexual"
             },
             "preferido": {
-              "termino": "Derecho penal/delitos contra la integridad sexual"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/prevención y lucha contra la corrupción/delitos complejos/delitos contra la integridad sexual"
             },
             "sinonimos": {
               "termino": [
-                "delitos sexuales",
-                "delitos contra la honestidad"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -123,22 +128,6 @@
               "termino": [
                 "políticas de Estado",
                 "politicas públicas transversales"
-              ]
-            }
-          },
-          {
-            "elegido": {
-              "termino": "derechos de la víctima"
-            },
-            "preferido": {
-              "termino": "Derecho penal/proceso penal/sujetos del proceso penal/víctima del delito/derechos de la víctima"
-            },
-            "sinonimos": {
-              "termino": [
-                "víctima",
-                "procedimiento penal",
-                "juicio criminal",
-                "juicio penal"
               ]
             }
           },
@@ -167,18 +156,26 @@
           },
           {
             "elegido": {
+              "termino": "derechos de la víctima"
+            },
+            "preferido": {
+              "termino": "Derechos Humanos/derechos de la víctima"
+            },
+            "sinonimos": {
+              "termino": "derechos de las personas"
+            }
+          },
+          {
+            "elegido": {
               "termino": "datos sensibles"
             },
             "preferido": {
-              "termino": "Derecho constitucional/derechos y garantías constitucionales/habeas data/información sensible"
+              "termino": "Derechos Humanos/derecho a la protección de datos personales/datos sensibles"
             },
             "sinonimos": {
               "termino": [
-                "datos sensibles",
-                "garantías constitucionales",
-                "protección de datos personales",
-                "principios constitucionales",
-                "disposiciones constitucionales"
+                "habeas data",
+                "derechos de las personas"
               ]
             }
           }
@@ -186,49 +183,38 @@
         "suggest": {
           "termino": [
             "Ministerio de Justicia y Derechos Humanos de la Nación",
+            "Derechos Humanos",
             "políticas de Estado (politicas públicas)",
+            "derechos de las personas (Derechos Humanos)",
             "politicas públicas transversales (politicas públicas)",
             "decreto reglamentario",
             "reglamento de ejecución (decreto reglamentario)",
-            "delitos complejos",
             "registro de violadores (registro de condenados por delitos contra la integridad sexual)",
-            "víctima del delito",
+            "delitos complejos",
             "reglamento ejecutivo (decreto reglamentario)",
-            "sujetos del proceso penal",
             "reglamentos",
             "fortalecimiento de las instituciones",
             "delitos contra la integridad sexual",
             "integridad y transparencia",
-            "proceso penal",
             "Poderes del Estado",
-            "habeas data",
+            "derecho a la protección de datos personales",
             "Derecho penal",
             "acto administrativo de alcance general",
             "reglamento administrativo (reglamentos)",
             "delitos sexuales (delitos contra la integridad sexual)",
-            "disposiciones constitucionales (derechos y garantías constitucionales)",
-            "información sensible",
             "Derecho administrativo",
             "registro de condenados por delitos contra la integridad sexual",
-            "datos sensibles (información sensible)",
-            "juicio criminal (proceso penal)",
-            "juicio penal (proceso penal)",
-            "principios constitucionales (derechos y garantías constitucionales)",
             "politicas públicas",
             "Poder Ejecutivo Nacional",
-            "Derecho constitucional",
             "delitos contra la honestidad (delitos contra la integridad sexual)",
             "Estado",
-            "garantías constitucionales (derechos y garantías constitucionales)",
             "registro nacional de datos genéticos",
+            "datos sensibles",
+            "habeas data (derecho a la protección de datos personales)",
             "Registro Nacional de Datos Genéticos vinculados a Delitos contra la Integridad Sexual",
-            "procedimiento penal (proceso penal)",
-            "derechos y garantías constitucionales",
             "acto administrativo",
-            "víctima (víctima del delito)",
             "prevención y lucha contra la corrupción",
             "actos de alcance general (acto administrativo de alcance general)",
-            "protección de datos personales (habeas data)",
             "derechos de la víctima"
           ]
         },
@@ -338,7 +324,7 @@
           },
           {
             "numero-articulo": 8,
-            "texto": "ARTÍCULO 8°.- El MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PRODUCTIVA, a través de la Junta Técnica de Laboratorios de Genética Forense creada por la Resolución del MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PRODUCTIVA N° 573/16 establecerá las acciones necesarias para Ilevar a cabo el proceso de acreditación de los laboratorios, determinará un mínimo de marcadores polimórficos, conforme lo establecido en el  artículo 4°, inciso e) de la presente reglamentación de acuerdo a los criterios científicamente consensuados a nivel internacional, que en conjunto otorguen un alto poder de discriminación estadístico para la elaboración del perfil genético. Se podrá admitir el ingreso de perfiles parciales de patrones genéticos obtenidos a partir de evidencias biológicas, siempre y cuando el número de marcadores usados, y los valores estimados de coincidencia por azar, garanticen un valor aceptable como prueba de identidad. Los valores máximos de probabilidad de coincidencia por azar deberán ser coherentes con el criterio científico internacionalmente establecido."
+            "texto": "ARTÍCULO 8°.- El MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PRODUCTIVA, a través de la Junta Técnica de Laboratorios de Genética Forense creada por la Resolución del MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PRODUCTIVA N° 573/16 establecerá las acciones necesarias para Ilevar a cabo el proceso de acreditación de los laboratorios, determinará un mínimo de marcadores polimórficos, conforme lo establecido en el artículo 4°, inciso e) de la presente reglamentación de acuerdo a los criterios científicamente consensuados a nivel internacional, que en conjunto otorguen un alto poder de discriminación estadístico para la elaboración del perfil genético. Se podrá admitir el ingreso de perfiles parciales de patrones genéticos obtenidos a partir de evidencias biológicas, siempre y cuando el número de marcadores usados, y los valores estimados de coincidencia por azar, garanticen un valor aceptable como prueba de identidad. Los valores máximos de probabilidad de coincidencia por azar deberán ser coherentes con el criterio científico internacionalmente establecido."
           },
           {
             "numero-articulo": 9,
@@ -354,7 +340,8 @@
           }
         ]
       },
-      "id-infojus": "DN20170000522"
+      "id-infojus": "DN20170000522",
+      "fecha-umod": 20251003101521
     }
   }
 }
