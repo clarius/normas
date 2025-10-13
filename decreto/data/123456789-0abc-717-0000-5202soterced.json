@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-717-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1760035940202,
+      "timestamp": 1760362645134,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-10-09",
-      "fecha-mod": "2025-10-09",
-      "timestamp": "2025-10-09T15:47:28",
-      "timestamp-alta": "2025-10-09T15:47:28",
-      "timestamp-m": "2025-10-09T15:47:28",
+      "fecha-alta": "2025-10-13",
+      "fecha-mod": "2025-10-13",
+      "timestamp": "2025-10-13T10:30:40",
+      "timestamp-alta": "2025-10-13T10:30:40",
+      "timestamp-m": "2025-10-13T10:30:40",
       "generalidades": {
         "sintesis": "Creación del Centro Nacional Antiterrorista (CNA).",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 13"
@@ -90,22 +90,35 @@
                 "defensa nacional"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "Centro Nacional Antiterrorista"
+            },
+            "preferido": {
+              "termino": "Centro Nacional Antiterrorista"
+            },
+            "sinonimos": {
+              "termino": "CNA"
+            }
           }
         ],
         "suggest": {
           "termino": [
-            "seguridad interior",
+            "CNA (Centro Nacional Antiterrorista)",
             "Derecho internacional",
-            "seguridad pública",
             "defensa nacional (Defensa y seguridad)",
+            "terrorismo internacional",
+            "actividades terroristas (terrorismo)",
+            "Defensa y seguridad",
+            "Derecho penal internacional",
+            "seguridad interior",
+            "seguridad pública",
             "Derecho penal",
             "terrorismo",
-            "seguridad nacional (seguridad pública)",
+            "Centro Nacional Antiterrorista",
             "actos terroristas (terrorismo)",
-            "terrorismo internacional",
-            "Defensa y seguridad",
-            "actividades terroristas (terrorismo)",
-            "Derecho penal internacional"
+            "seguridad nacional (seguridad pública)"
           ]
         }
       },
@@ -222,7 +235,7 @@
         "firmantes": "MILEI - Francos"
       },
       "id-infojus": "DN20250000717",
-      "fecha-umod": 20251009155220
+      "fecha-umod": 20251013103725
     }
   }
 }
