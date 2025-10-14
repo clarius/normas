@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-831-1000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1735838966360,
+      "timestamp": 1760461075097,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-01-02",
-      "fecha-mod": "2025-01-02",
-      "timestamp": "2025-01-02T14:20:32",
-      "timestamp-alta": "2025-01-02T14:20:32",
-      "timestamp-m": "2025-01-02T14:20:32",
+      "fecha-alta": "2025-10-14",
+      "fecha-mod": "2025-10-14",
+      "timestamp": "2025-10-14T13:51:06",
+      "timestamp-alta": "2025-10-14T13:51:06",
+      "timestamp-m": "2025-10-14T13:51:06",
       "generalidades": {
         "sintesis": "Se aprueba la estructura organizativa de primer nivel operativo del Ministerio de Salud",
         "anexos-decreto": {
@@ -233,22 +233,67 @@
         {
           "anexo": "A",
           "titulo-anexo": "ANEXO I",
-          "texto": "ANEXO I"
+          "texto": "ANEXO I.\n\nANEXO Ic",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 14/10/2025) ANEXO Ic SUSTITUIDO. VIGENCIA: EL DIA DE SU DICTADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000741 2025 10 13 0003 000 0000 000"
+            }
+          }
         },
         {
           "anexo": "B",
           "titulo-anexo": "ANEXO II",
-          "texto": "ANEXO II"
+          "texto": "ANEXO II.\n\nDIRECCIÓN NACIONAL DEL CÁNCER.\n\nACCION 13 .\n\nDIRECCIÓN NACIONAL DE GESTIÓN DE SERVICIOS ASISTENCIALES.",
+          "modificado-por": {
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 14/10/2025) RESPONSABILIDAD PRIMARIA Y ACCIONES DE LA DIRECCIÓN NACIONAL DEL CÁNCER DE LA SECRETARÍA DE GESTIÓN SANITARIA DEL ANEXO II INCORPORADAS. VIGENCIA: EL DIA DE SU DICTADO",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000741 2025 10 13 0004 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 14/10/2025) ACCION 13 DE LA DIRECCIÓN NACIONAL DE ABORDAJE INTEGRAL DE ENFERMEDADES NO TRANSMISIBLES DE LA SUBSECRETARÍA DE PLANIFICACIÓN Y PROGRAMACIÓN SANITARIA DE LA SECRETARÍA DE GESTIÓN SANITARIA DEL ANEXO II, INCORPORADO. VIGENCIA: EL DIA DE SU DICTADO",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DEC C 000741 2025 10 13 0005 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 14/10/2025) ACCION 11 DE LA DIRECCIÓN NACIONAL DE HABILITACIÓN, FISCALIZACIÓN Y SANIDAD DE FRONTERAS DE LA SUBSECRETARÍA DE INSTITUTOS Y FISCALIZACIÓN DE LA SECRETARÍA DE GESTIÓN SANITARIA DEL ANEXO II SUPRIMIDA. VIGENCIA: EL DIA DE SU DICTADO",
+                "id": "MODIFICADO_POR_2",
+                "ref": "DEC C 000741 2025 10 13 0006 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 14/10/2025) RESPONSABILIDAD PRIMARIA Y ACCIONES DE LA DIRECCIÓN NACIONAL DE GESTIÓN DE SERVICIOS ASISTENCIALES, DE LA SUBSECRETARÍA DE INSTITUTOS Y FISCALIZACIÓN DE LA SECRETARÍA DE GESTIÓN SANITARIA SUSTITUIDAS. VIGENCIA: EL DIA DE SU DICTADO",
+                "id": "MODIFICADO_POR_3",
+                "ref": "DEC C 000741 2025 10 13 0007 000 0000 000"
+              }
+            ]
+          }
         },
         {
           "anexo": "C",
           "titulo-anexo": "ANEXO III",
-          "texto": "ANEXO III"
+          "texto": "ANEXO III.\n\nANEXO IIIc .",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 14/10/2025) ANEXO IIIc SUSTITUIDO. VIGENCIA: EL DIA DE SU DICTADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000741 2025 10 13 0008 000 0000 000"
+            }
+          }
         },
         {
           "anexo": "D",
           "titulo-anexo": "ANEXO IV",
-          "texto": "ANEXO IV"
+          "texto": "ANEXO IV.\n\nDIRECCION DE PREVENCION, DIAGNOSTICO Y TRATAMIENTO Y DE LA DIRECCION DE SISTEMAS DE INFORMACION Y GESTION DEL CONOCIMIENTO EN CANCER .",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 14/10/2025) ACCIONES DE LA DIRECCION DE PREVENCION, DIAGNOSTICO Y TRATAMIENTO Y DE LA DIRECCION DE SISTEMAS DE INFORMACION Y GESTION DEL CONOCIMIENTO EN CANCER, AMBAS DEPENDIENTES DE LA DIRECCIÓN NACIONAL DEL CÁNCER DE LA SECRETARÍA DE GESTIÓN SANITARIA, INCORPORADAS. VIGENCIA: EL DIA DE SU DICTADO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000741 2025 10 13 0009 000 0000 000"
+            }
+          }
         },
         {
           "anexo": "E",
@@ -257,7 +302,7 @@
         }
       ],
       "id-infojus": "DN20240001138",
-      "fecha-umod": 20250102142926
+      "fecha-umod": 20251014135755
     }
   }
 }
