@@ -1,9 +1,9 @@
 {
   "document": {
     "metadata": {
-      "uuid": "123456789-0abc-617-0000-5202soterced",
+      "uuid": "123456789-0abc-517-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1760453608375,
+      "timestamp": 1760360238262,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -11,17 +11,17 @@
       "document-recovery-strategy": "abstract-legislacion",
       "friendly-url": {
         "subdomain": "decreto",
-        "description": "716-nacional-aceptacion-renuncia-al-cargo-jueza-juzgado-nacional-primera-instancia-trabajo-47-capital-federal-dn20250000716-2025-10-07"
+        "description": "715-nacional-aceptacion-renuncia-al-cargo-fiscal-ante-juzgado-federal-primera-instancia-criminal-correccional-posadas-provincia-misiones-fiscalia-1-dn20250000715-2025-10-07"
       }
     },
     "content": {
-      "mecanografico": 20250000716,
+      "mecanografico": 20250000715,
       "estado": "Individual, Solo Modificatoria o Sin Eficacia",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
       },
-      "numero-norma": 716,
+      "numero-norma": 715,
       "fecha": "2025-10-07",
       "jurisdiccion": {
         "codigo": "C",
@@ -29,9 +29,9 @@
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "standard-normativo": "DEC C 000716 2025 10 07",
-      "titulo-norma": "Aceptación de la renuncia al cargo de Jueza del Juzgado Nacional de Primera Instancia del Trabajo N° 47 de la Capital Federal",
-      "nombre-coloquial": "DECRETO NACIONAL 716/2025",
+      "standard-normativo": "DEC C 000715 2025 10 07",
+      "titulo-norma": "Aceptación de la renuncia al cargo de Fiscal ante el Juzgado Federal de Primera Instancia en lo Criminal y Correccional de Posadas, provincia de Misiones, Fiscalía N° 1",
+      "nombre-coloquial": "DECRETO NACIONAL 715/2025",
       "lugar-emision": "CAPITAL FEDERAL",
       "publicacion-codificada": {
         "publicacion-decodificada": {
@@ -43,35 +43,26 @@
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-10-14",
-      "fecha-mod": "2025-10-14",
-      "timestamp": "2025-10-14T11:47:24",
-      "timestamp-alta": "2025-10-14T11:47:24",
-      "timestamp-m": "2025-10-14T11:47:24",
+      "fecha-alta": "2025-10-13",
+      "fecha-mod": "2025-10-13",
+      "timestamp": "2025-10-13T09:51:06",
+      "timestamp-alta": "2025-10-13T09:51:06",
+      "timestamp-m": "2025-10-13T09:51:06",
       "generalidades": {
-        "sintesis": "Aceptación de la renuncia al cargo de Jueza del Juzgado Nacional de Primera Instancia del Trabajo N° 47 de la Capital Federal.",
+        "sintesis": "Aceptación de la renuncia al cargo de Fiscal ante el Juzgado Federal de Primera Instancia en lo Criminal y Correccional de Posadas, provincia de Misiones, Fiscalía N° 1.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
       },
       "descriptores": {
         "descriptor": [
           {
             "elegido": {
-              "termino": "juez"
+              "termino": "Poder Judicial"
             },
             "preferido": {
-              "termino": "Derecho procesal/organización de la justicia/funcionarios judiciales/jueces"
+              "termino": "Derecho constitucional/poderes del Estado/Poder Judicial"
             },
             "sinonimos": {
-              "termino": [
-                "empleados del Poder Judicial",
-                "organización del Poder Judicial",
-                "magistrados judiciales",
-                "empleados judiciales",
-                "organización judicial",
-                "personal judicial",
-                "juez",
-                "magistrados"
-              ]
+              "termino": "poderes públicos"
             }
           },
           {
@@ -97,13 +88,17 @@
           },
           {
             "elegido": {
-              "termino": "Poder Judicial"
+              "termino": "fiscales"
             },
             "preferido": {
-              "termino": "Derecho constitucional/poderes del Estado/Poder Judicial"
+              "termino": "Derecho procesal/organización de la justicia/Ministerio Público/Ministerio Público Fiscal/fiscales"
             },
             "sinonimos": {
-              "termino": "poderes públicos"
+              "termino": [
+                "organización del Poder Judicial",
+                "ministerio fiscal",
+                "organización judicial"
+              ]
             }
           }
         ],
@@ -111,38 +106,34 @@
           "termino": [
             "distracto laboral (extinción del contrato de trabajo)",
             "distracto (extinción del contrato de trabajo)",
-            "jueces",
             "organización judicial (organización de la justicia)",
-            "magistrados (jueces)",
-            "empleados del Poder Judicial (funcionarios judiciales)",
             "contrato laboral (contrato de trabajo)",
             "organización del Poder Judicial (organización de la justicia)",
             "renuncia al cargo (renuncia al empleo)",
             "renuncia del empleado (renuncia al empleo)",
+            "Ministerio Público Fiscal",
             "Derecho procesal",
-            "juez (jueces)",
             "poderes públicos (poderes del Estado)",
-            "personal judicial (funcionarios judiciales)",
+            "Ministerio Público",
+            "fiscales",
             "renuncia al empleo",
             "poderes del Estado",
             "dimisión (renuncia al empleo)",
-            "empleados judiciales (funcionarios judiciales)",
-            "derecho del trabajo (Derecho laboral)",
             "contrato de trabajo",
+            "derecho del trabajo (Derecho laboral)",
             "Derecho constitucional",
-            "magistrados judiciales (jueces)",
-            "funcionarios judiciales",
             "Derecho laboral",
             "renuncia del trabajador (renuncia al empleo)",
-            "extinción del contrato de trabajo",
+            "ministerio fiscal (Ministerio Público Fiscal)",
             "organización de la justicia",
             "renuncia al trabajo (renuncia al empleo)",
+            "extinción del contrato de trabajo",
             "Poder Judicial"
           ]
         }
       },
       "visto": {
-        "texto": "el Expediente Nº EX-2025-103902774-APN-DGDYD#MJ, y"
+        "texto": "el Expediente Nº EX-2025-101654414-APN-DGDYD#MJ, y"
       },
       "considerando": {
         "referencias-normativas": {
@@ -153,12 +144,12 @@
           }
         },
         "sancion": "EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
-        "texto": "Que la doctora Emilce Leda SELLERIO ha presentado su renuncia, a partir del 1º de noviembre de 2025, al cargo de JUEZA DEL JUZGADO NACIONAL DE PRIMERA INSTANCIA DEL TRABAJO N° 47 DE LA CAPITAL FEDERAL.\n\nQue el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 4 de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
+        "texto": "Que el doctor Jorge Horacio CAMPITELLI ha presentado su renuncia, a partir del 1° de octubre de 2025, al cargo de FISCAL ANTE EL JUZGADO FEDERAL DE PRIMERA INSTANCIA EN LO CRIMINAL Y CORRECCIONAL DE POSADAS, PROVINCIA DE MISIONES, FISCALÍA N° 1.\n\nQue el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 7 de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- Acéptase, a partir del 1º de noviembre de 2025, la renuncia presentada por la doctora Emilce Leda SELLERIO (D.N.I. N° 13.678.640) al cargo de JUEZA DEL JUZGADO NACIONAL DE PRIMERA INSTANCIA DEL TRABAJO N° 47 DE LA CAPITAL FEDERAL."
+          "texto": "ARTÍCULO 1°.- Acéptase, a partir del 1° de octubre de 2025, la renuncia presentada por el doctor Jorge Horacio CAMPITELLI (D.N.I. N° 7.595.476) al cargo de FISCAL ANTE EL JUZGADO FEDERAL DE PRIMERA INSTANCIA EN LO CRIMINAL Y CORRECCIONAL DE POSADAS, PROVINCIA DE MISIONES, FISCALÍA N° 1."
         },
         {
           "numero-articulo": 2,
@@ -168,8 +159,8 @@
       "firmantes": {
         "firmantes": "MILEI - Cúneo Libarona"
       },
-      "id-infojus": "DN20250000716",
-      "fecha-umod": 20251014115328
+      "id-infojus": "DN20250000715",
+      "fecha-umod": 20251013095718
     }
   }
 }
