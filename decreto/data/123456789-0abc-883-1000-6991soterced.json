@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-883-1000-6991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1757348850365,
+      "timestamp": 1760966317134,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,38 +16,38 @@
     },
     "content": {
       "mecanografico": 19960001388,
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1388,
+      "fecha": "1996-11-29",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1388,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1996-11-29",
       "standard-normativo": "DEC C 001388 1996 11 29",
       "titulo-norma": "COMISION NACIONAL DE REGULACION DEL TRANSPORTE.",
+      "nombre-coloquial": "DECRETO NACIONAL 1.388/1996",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1996 12 10"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 1.388/1996",
       "analista": "Rocca, Adriana",
-      "estado": "Vigente, de alcance general",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-09-08",
-      "fecha-mod": "2025-09-08",
-      "timestamp": "2025-09-08T13:19:21",
-      "timestamp-alta": "2025-09-08T13:19:21",
-      "timestamp-m": "2025-09-08T13:19:21",
+      "fecha-alta": "2025-10-20",
+      "fecha-mod": "2025-10-20",
+      "timestamp": "2025-10-20T10:12:29",
+      "timestamp-alta": "2025-10-20T10:12:29",
+      "timestamp-m": "2025-10-20T10:12:29",
       "generalidades": {
         "sintesis": "SE ESTABLECE LA INTEGRACION DE LA COMISION NACIONAL DE REGULACION DEL TRANSPORTE. SE APRUEBA SU ESTATUTO.",
         "anexos-decreto": {
@@ -60,7 +60,7 @@
           ]
         },
         "informacion-vinculada": 1E+19,
-        "observaciones-generales": "OBSERVACION: Por dec. 110/2015 se establece que cada vez que en el Estatuto se haga referencia al \"Directorio\" o al \"Presidente del Directorio\" deberá entenderse referido al \"Director Ejecutivo\".\n\nOBSERVACION: Por art. 2 del DNU 627/25 (B.O. 3/9/2025) se restituye la plena vigencia de las disposiciones normativas que fueron derogadas, sustituidas o modificadas por el Decreto 584/25 (B.O. 18/8/2025) dictado como consecuencia de la aplicación de los Decretos Nros. 345 del 21 de mayo de 2025, 351 del 22 de mayo de 2025 y 461 y 462, ambos del 7 de julio de 2025."
+        "observaciones-generales": "OBSERVACION: Por dec. 110/2015 se establece que cada vez que en el Estatuto se haga referencia al \"Directorio\" o al \"Presidente del Directorio\" deberá entenderse referido al \"Director Ejecutivo\".\n\nOBSERVACION: Por art. 2 del DNU 627/25 (B.O. 3/9/2025) se restituye la plena vigencia de las disposiciones normativas que fueron derogadas, sustituidas o modificadas por el Decreto 584/25 (B.O. 18/8/2025) dictado como consecuencia de la aplicación de los Decretos Nros. 345 del 21 de mayo de 2025, 351 del 22 de mayo de 2025 y 461 y 462, ambos del 7 de julio de 2025.\n\nOBSERVACION: Por Disposición 79/25 de la CNRT (B.O. 20/10/2025) se aprueba la Política de Seguridad de la Información de la Comisión Nacional de Transporte.\n\nOBSERVACION: Por Disposición 457/25 de la CNRT (B.O. 20/10/2025) se aprueba el esquema de autorizaciones y aprobación de llamado de procedimientos de adquisición de bienes y/o servicios, aplicable a la CNRT."
       },
       "descriptores": {
         "descriptor": [
@@ -788,7 +788,7 @@
         }
       ],
       "id-infojus": "DN19960001388",
-      "fecha-umod": 20250908132730
+      "fecha-umod": 20251020101837
     }
   }
 }
