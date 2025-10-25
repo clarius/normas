@@ -1,0 +1,199 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Invalid document data'. (Parameter 'json')
+     at Clarius.OpenLaw.Argentina.Document.ParseAsync(String json) in /_/src/OpenLaw.Commands/Argentina/Document.cs:line 50
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 248
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-053-0000-7102soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Individual, Solo Modificatoria o Sin Eficacia
+  Date: 2017-05-18
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-053-0000-7102soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 350-nacional-reconocimiento-obispo-diocesis-gualeguaychu-dn20170000350-2017-05-18
+      content:
+        mecanografico: 20170000350
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        numero-norma: 350
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        fecha: 2017-05-18
+        standard-normativo: DEC C 000350 2017 05 18
+        titulo-norma: Reconocimiento de Obispo de la Diócesis de Gualeguaychú
+        nombre-coloquial: DECRETO NACIONAL 350/2017
+        estado: Individual, Solo Modificatoria o Sin Eficacia
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: Ministerio de Relaciones Exteriores y Culto
+            preferido:
+              termino: Ministerio de Relaciones Exteriores
+            sinonimos:
+              termino:
+              - Ministerio de Relaciones Exteriores, Comercio Internacional y Culto
+              - Ministerio de Relaciones Exteriores y Culto
+          - elegido:
+              termino: obispos
+            preferido:
+              termino: Derecho civil/personas jurídicas/personas jurídicas de carácter público/Iglesia Católica/diócesis/obispos
+            sinonimos:
+              termino: personas de existencia ideal
+          - elegido:
+              termino: reconocimiento
+            preferido:
+              termino: Derecho procesal/etapas del proceso/etapa probatoria/prueba/medios de prueba/reconocimiento en sede judicial
+            sinonimos:
+              termino:
+              - desarrollo del juicio
+              - etapas procesales
+              - reconocimiento
+          suggest:
+            termino:
+            - personas de existencia ideal (personas jurídicas)
+            - reconocimiento en sede judicial
+            - reconocimiento (reconocimiento en sede judicial)
+            - etapas procesales (etapas del proceso)
+            - Ministerio de Relaciones Exteriores
+            - Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (Ministerio de Relaciones Exteriores)
+            - medios de prueba
+            - Ministerio de Relaciones Exteriores y Culto (Ministerio de Relaciones Exteriores)
+            - etapa probatoria
+            - Iglesia Católica
+            - Derecho procesal
+            - prueba
+            - etapas del proceso
+            - diócesis
+            - personas jurídicas
+            - obispos
+            - Derecho civil
+            - desarrollo del juicio (etapas del proceso)
+            - personas jurídicas de carácter público
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-053-0000-7102soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "350-nacional-reconocimiento-obispo-diocesis-gualeguaychu-dn20170000350-2017-05-18"
+          }
+        },
+        "content": {
+          "mecanografico": 20170000350,
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "numero-norma": 350,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "fecha": "2017-05-18",
+          "standard-normativo": "DEC C 000350 2017 05 18",
+          "titulo-norma": "Reconocimiento de Obispo de la Diócesis de Gualeguaychú",
+          "nombre-coloquial": "DECRETO NACIONAL 350/2017",
+          "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "Ministerio de Relaciones Exteriores y Culto"
+                },
+                "preferido": {
+                  "termino": "Ministerio de Relaciones Exteriores"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+                    "Ministerio de Relaciones Exteriores y Culto"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "obispos"
+                },
+                "preferido": {
+                  "termino": "Derecho civil/personas jurídicas/personas jurídicas de carácter público/Iglesia Católica/diócesis/obispos"
+                },
+                "sinonimos": {
+                  "termino": "personas de existencia ideal"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "reconocimiento"
+                },
+                "preferido": {
+                  "termino": "Derecho procesal/etapas del proceso/etapa probatoria/prueba/medios de prueba/reconocimiento en sede judicial"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "desarrollo del juicio",
+                    "etapas procesales",
+                    "reconocimiento"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "personas de existencia ideal (personas jurídicas)",
+                "reconocimiento en sede judicial",
+                "reconocimiento (reconocimiento en sede judicial)",
+                "etapas procesales (etapas del proceso)",
+                "Ministerio de Relaciones Exteriores",
+                "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (Ministerio de Relaciones Exteriores)",
+                "medios de prueba",
+                "Ministerio de Relaciones Exteriores y Culto (Ministerio de Relaciones Exteriores)",
+                "etapa probatoria",
+                "Iglesia Católica",
+                "Derecho procesal",
+                "prueba",
+                "etapas del proceso",
+                "diócesis",
+                "personas jurídicas",
+                "obispos",
+                "Derecho civil",
+                "desarrollo del juicio (etapas del proceso)",
+                "personas jurídicas de carácter público"
+              ]
+            }
+          }
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-053-0000-7102soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2017-05-18",
+      "status": "Individual, Solo Modificatoria o Sin Eficacia",
+      "timestamp": null
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
