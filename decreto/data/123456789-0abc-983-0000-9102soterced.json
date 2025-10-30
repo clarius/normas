@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-983-0000-9102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1650650738341,
+      "timestamp": 1761826639630,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 389,
-      "timestamp": "2022-04-22T14:58:36",
-      "timestamp-alta": "2019-06-03T09:29:52",
-      "timestamp-m": "2022-04-22T14:58:36",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -46,25 +43,34 @@
         "texto": "Integridad y Transparencia"
       },
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2019-06-03",
-      "fecha-mod": "2022-04-22",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-10-30",
+      "fecha-mod": "2025-10-30",
+      "timestamp": "2025-10-30T09:06:23",
+      "timestamp-alta": "2025-10-30T09:06:23",
+      "timestamp-m": "2025-10-30T09:06:23",
       "generalidades": {
         "sintesis": "Se crea un Comité Permanente Interorgánico (CPI) en la órbita de la Administración Federal De Ingresos Públicos del Ministerio de Hacienda que tendrá como fin establecer los procedimientos que disminuyan los costos operativos, faciliten el comercio exterior y la integración con otros países",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 3"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 3.\n\nOBSERVACION: Por Resolución 5780/25 de ARCA (B.O. 30/10/2025) se crea el Comité Permanente Interorgánico (CPI) en el marco del programa \"Operador Económico Autorizado\" (OEA), en el ámbito de la Dirección General de Aduanas con la participación de la Subsecretaría de Comercio Exterior -dependiente de la Secretaría de Industria y Comercio-, y entidades privadas y/u otros organismos del Estado Nacional intervinientes en el comercio internacional, conforme lo dispuesto por el artículo 1 del presente Decreto y se Aprueba el Reglamento del Comité Permanente Interorgánico (CPI) ."
       },
       "descriptores": {
         "descriptor": [
           {
             "elegido": {
-              "termino": "Comité permanente interorgánico"
+              "termino": "Comité Permanente Interorgánico"
             },
             "preferido": {
-              "termino": "Comité permanente interorgánico"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia de la gestión pública/atención pública/Administración pública/Administración pública nacional/Administración descentralizada/Administración Federal de Ingresos Públicos/Comité Permanente Interorgánico"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": [
+                "AFIP",
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
           },
           {
             "elegido": {
@@ -89,10 +95,14 @@
               "termino": "AFIP"
             },
             "preferido": {
-              "termino": "Derecho tributario y aduanero/AFIP"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia de la gestión pública/atención pública/Administración pública/Administración pública nacional/Administración descentralizada/Administración Federal de Ingresos Públicos"
             },
             "sinonimos": {
-              "termino": "Administración Federal de Ingresos Públicos"
+              "termino": [
+                "políticas de Estado",
+                "AFIP",
+                "politicas públicas transversales"
+              ]
             }
           },
           {
@@ -100,18 +110,18 @@
               "termino": "comercio exterior"
             },
             "preferido": {
-              "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior"
+              "termino": "economía y finanzas/actividades económicas/comercio internacional"
             },
             "sinonimos": {
-              "termino": "comercio internacional"
+              "termino": "comercio exterior"
             }
           },
           {
             "elegido": {
-              "termino": "Actividades económicas"
+              "termino": "actividades económicas"
             },
             "preferido": {
-              "termino": "Actividades económicas"
+              "termino": "economía y finanzas/actividades económicas"
             },
             "sinonimos": null
           },
@@ -120,9 +130,14 @@
               "termino": "modernización del Estado"
             },
             "preferido": {
-              "termino": "Derecho administrativo/modernización del Estado"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/modernización del Estado"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
           },
           {
             "elegido": {
@@ -143,10 +158,13 @@
               "termino": "simplificación normativa"
             },
             "preferido": {
-              "termino": "Derecho civil/fuentes del derecho/interpretación y aplicación de la ley/simplificación normativa"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/modernización del Estado/desburocratización/simplificación normativa"
             },
             "sinonimos": {
-              "termino": "interpretación y aplicación"
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
             }
           },
           {
@@ -168,61 +186,59 @@
               "termino": "tributos aduaneros"
             },
             "preferido": {
-              "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros"
+              "termino": "economía y finanzas/tributos/tributos aduaneros"
             },
-            "sinonimos": {
-              "termino": [
-                "aranceles aduaneros",
-                "derechos de aduana"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
               "termino": "Administración Federal de Ingresos Públicos"
             },
             "preferido": {
-              "termino": "Derecho tributario y aduanero/AFIP"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia de la gestión pública/atención pública/Administración pública/Administración pública nacional/Administración descentralizada/Administración Federal de Ingresos Públicos"
             },
             "sinonimos": {
-              "termino": "Administración Federal de Ingresos Públicos"
+              "termino": [
+                "políticas de Estado",
+                "AFIP",
+                "politicas públicas transversales"
+              ]
             }
           }
         ],
         "suggest": {
           "termino": [
-            "Derecho Aduanero",
             "Ministerio de Economía e Infraestructura (MINISTERIO DE ECONOMÍA)",
-            "AFIP",
+            "economía y finanzas",
             "políticas de Estado (politicas públicas)",
             "politicas públicas transversales (politicas públicas)",
+            "AFIP (Administración Federal de Ingresos Públicos)",
             "Ministerio de Economía y Producción (MINISTERIO DE ECONOMÍA)",
             "simplificación de trámites",
-            "derechos de aduana (tributos aduaneros)",
-            "Derecho tributario y aduanero",
             "Ministerio de Hacienda (MINISTERIO DE ECONOMÍA)",
-            "comercio internacional (comercio exterior)",
             "fortalecimiento de las instituciones",
+            "Administración pública",
+            "tributos",
             "desburocratización",
-            "Ministerio de Hacienda y Finanzas (MINISTERIO DE ECONOMÍA)",
-            "comercio exterior",
+            "integridad y transparencia",
             "modernización del Estado",
-            "interpretación y aplicación (interpretación y aplicación de la ley)",
-            "aranceles aduaneros (tributos aduaneros)",
-            "Derecho civil",
-            "Actividades económicas",
-            "Derecho administrativo",
+            "Ministerio de Hacienda y Finanzas (MINISTERIO DE ECONOMÍA)",
+            "actividades económicas",
+            "atención pública",
             "MINISTERIO DE ECONOMÍA",
             "tributos aduaneros",
-            "interpretación y aplicación de la ley",
-            "Comité permanente interorgánico",
+            "Comité Permanente Interorgánico",
+            "comercio internacional",
             "politicas públicas",
             "simplificación normativa",
+            "Administración pública nacional",
             "Estado",
-            "Administración Federal de Ingresos Públicos (AFIP)",
+            "Administración Federal de Ingresos Públicos",
             "Ministerio de Economía y Obras y Servicios Públicos (MINISTERIO DE ECONOMÍA)",
             "Ministerio de Economía y Finanzas Públicas (MINISTERIO DE ECONOMÍA)",
-            "fuentes del derecho"
+            "comercio exterior (comercio internacional)",
+            "transparencia de la gestión pública",
+            "Administración descentralizada"
           ]
         }
       },
@@ -288,7 +304,8 @@
       "firmantes": {
         "firmantes": "MACRI-Peña-Dujovne-Sica"
       },
-      "id-infojus": "DN20190000389"
+      "id-infojus": "DN20190000389",
+      "fecha-umod": 20251030091719
     }
   }
 }
