@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-755-0000-3202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1753803594728,
+      "timestamp": 1761916584592,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-07-29",
-      "fecha-mod": "2025-07-29",
-      "timestamp": "2025-07-29T12:22:45",
-      "timestamp-alta": "2025-07-29T12:22:45",
-      "timestamp-m": "2025-07-29T12:22:45",
+      "fecha-alta": "2025-10-31",
+      "fecha-mod": "2025-10-31",
+      "timestamp": "2025-10-31T10:09:06",
+      "timestamp-alta": "2025-10-31T10:09:06",
+      "timestamp-m": "2025-10-31T10:09:06",
       "generalidades": {
         "sintesis": "Se modifican la Nomenclatura Común del Mercosur, el Arancel Externo Común y los Reintegros a la Exportación",
         "anexos-decreto": {
@@ -421,9 +421,16 @@
           "texto": "ARTÍCULO 7°.- Mantiénense para las posiciones arancelarias de la Nomenclatura Común del MERCOSUR (N.C.M.) incluidas en el ANEXO IX (IF-2023-43058971-APN-SSPYGC#MEC) que integra el presente decreto los niveles del Arancel Externo Común (A.E.C.) que en cada caso se indican."
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 31/10/2025) ARTICULO DEROGADO. VIGENCIA: A PARTIR DEL DIA SIGUIENTE A SU PUBLICACION EN EL BOLETIN OFICIAL.",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000781 2025 10 30 0001 000 0000 000"
+            }
+          },
           "numero-articulo": 8,
           "titulo-articulo": "Alícuotas transitorias sobre determinados productos. Juguetes.",
-          "texto": "ARTÍCULO 8°.- Mantiénense para las mercaderías comprendidas en las posiciones arancelarias de la Nomenclatura Común del MERCOSUR (N.C.M.) incluidas en el ANEXO X (IF-2023-43058703-APN-SSPYGC#MEC) que integra el presente decreto las alícuotas que, en concepto de Derecho de Importación Extrazona (D.I.E.), en cada caso se indican."
+          "texto": "ARTÍCULO 8°.- NOTA DE REDACCION: DEROGADO POR DECRETO 781/25.\n\nMantiénense para las mercaderías comprendidas en las posiciones arancelarias de la Nomenclatura Común del MERCOSUR (N.C.M.) incluidas en el ANEXO X (IF-2023-43058703-APN-SSPYGC#MEC) que integra el presente decreto las alícuotas que, en concepto de Derecho de Importación Extrazona (D.I.E.), en cada caso se indican."
         },
         {
           "referencias-normativas": {
@@ -653,13 +660,20 @@
               }
             ]
           },
-          "texto": "ANEXO II.",
+          "texto": "ANEXO II.\n\n. POSICION ARANCELARIA 8507.60.00.",
           "modificado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 29/7/2025) ANEXO SUSTITUIDO.VIGENCIA ESPECIAL ESTABLECIDA POR ART. 4 .",
-              "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000513 2025 07 28 0001 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 29/7/2025) ANEXO SUSTITUIDO.VIGENCIA ESPECIAL ESTABLECIDA POR ART. 4 .",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000513 2025 07 28 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 31/10/2025) ALCANCE ESTABLECIDO PARA LA POSICION ARANCELARIA 8507.60.00 SUSTITUIDA . VIGENCIA: A PARTIR DEL DIA SIGUIENTE A SU PUBLICACION EN EL BOLETIN OFICIAL.",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DEC C 000781 2025 10 30 0003 000 0000 000"
+              }
+            ]
           }
         },
         {
@@ -761,7 +775,14 @@
         {
           "anexo": "J",
           "titulo-anexo": "ANEXO X",
-          "texto": "ANEXO X"
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 31/10/2025) ANEXO DEROGADO. VIGENCIA: A PARTIR DEL DIA SIGUIENTE A SU PUBLICACION EN EL BOLETIN OFICIAL.",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000781 2025 10 30 0001 000 0000 000"
+            }
+          },
+          "texto": "NOTA DE REDACCION: DEROGADO POR DECRETO 781/25.\n\n. ANEXO X"
         },
         {
           "anexo": "K",
@@ -789,7 +810,7 @@
         }
       ],
       "id-infojus": "DN20230000557",
-      "fecha-umod": 20250729123954
+      "fecha-umod": 20251031101624
     }
   }
 }
