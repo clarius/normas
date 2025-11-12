@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-621-2003-1791soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1737391515991,
+      "timestamp": 1762958236793,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-01-20",
-      "fecha-mod": "2025-01-20",
-      "timestamp": "2025-01-20T13:39:07",
-      "timestamp-alta": "2025-01-20T13:39:07",
-      "timestamp-m": "2025-01-20T13:39:07",
+      "fecha-alta": "2025-11-12",
+      "fecha-mod": "2025-11-12",
+      "timestamp": "2025-11-12T11:31:27",
+      "timestamp-alta": "2025-11-12T11:31:27",
+      "timestamp-m": "2025-11-12T11:31:27",
       "generalidades": {
         "sintesis": "SE REGLAMENTA EL CODIGO ALIMENTARIO ARGENTINO, LEY 18.284.",
         "anexos-decreto": {
@@ -269,18 +269,25 @@
           "anexo": "C",
           "titulo-anexo": "ANEXO III",
           "observaciones-generales": "OBSERVACION: Anexo incorporado por Dec. 35/2025 (B.O. 20/01/2025)",
-          "texto": "Anexo III  AUSTRALIA CANADÁ CONFEDERACIÓN SUIZA UNIÓN EUROPEA ESTADOS UNIDOS DE AMÉRICA NUEVA ZELANDA ESTADO DE ISRAEL JAPÓN REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE  Países con los que rijan Tratados de Integración Económica o Acuerdos de Reciprocidad en materia higiénico-sanitarias.",
+          "texto": "ANEXO III  CANADÁ  Un país miembro de la UNIÓN EUROPEA  ESTADOS UNIDOS DE AMÉRICA  MANCOMUNIDAD DE AUSTRALIA  NUEVA ZELANDA  ESTADO DE ISRAEL  JAPÓN  REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE  Un país miembro de la Asociación Europea de Libre Comercio.\n\nPaíses con los que rijan Tratados de Integración Económica o Acuerdos de Reciprocidad en materia higiénico-sanitarias.",
           "modificado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 20/01/2025) Anexo incorporado",
-              "id": "MODIFICADO_POR_0",
-              "ref": "DEC C 000035 2025 01 17 0001 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 20/01/2025) Anexo incorporado",
+                "id": "MODIFICADO_POR_0",
+                "ref": "DEC C 000035 2025 01 17 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 11/11/2025) Anexo sustituido",
+                "id": "MODIFICADO_POR_1",
+                "ref": "DEC C 000790 2025 11 10 0014 000 0000 000"
+              }
+            ]
           }
         }
       ],
       "id-infojus": "DN19713002126",
-      "fecha-umod": 20250120134515
+      "fecha-umod": 20251112113716
     }
   }
 }
