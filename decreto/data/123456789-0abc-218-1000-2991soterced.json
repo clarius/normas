@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-218-1000-2991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410990369869,
+      "timestamp": 1762952294834,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,38 +16,40 @@
     },
     "content": {
       "mecanografico": 19920001812,
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1812,
+      "fecha": "1992-09-29",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1812,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1992-09-29",
       "standard-normativo": "DEC C 001812 1992 09 29",
       "titulo-norma": "CONTROLES SANITARIOS PARA LA IMPORTACION DE PRODUCTOS ALIMENTICIOS",
+      "nombre-coloquial": "DECRETO NACIONAL 1812/1992",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1992 10 02"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "Decreto Nacional 1.812/92",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1995-04-05",
-      "fecha-mod": "2010-04-13",
-      "uid-alta": "SAUID",
-      "uid-mod": "SASAIJ",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2025-11-12",
+      "fecha-mod": "2025-11-12",
+      "timestamp": "2025-11-12T09:52:39",
+      "timestamp-alta": "2025-11-12T09:52:39",
+      "timestamp-m": "2025-11-12T09:52:39",
       "generalidades": {
         "sintesis": "SE ESTABLECEN NORMAS DE APLICACION PARA LOS CONTROLES SANITARIOS PREVIOS Y POSTERIORES AL INGRESO A PLAZA, EN EL CASO DE IMPORTACIONES DE PRODUCTOS DE ORIGEN ANIMAL O VEGETAL."
-      },
-      "noticias-accesorias": {
-        "texto": "NRO.  DE  ART.  QUE ESTABLECE LA ENTRADA EN VIGENCIA 0023\n\nFECHA DE ENTRADA EN VIGENCIA 1992 10 05"
       },
       "descriptores": {
         "descriptor": [
@@ -60,8 +62,8 @@
             },
             "sinonimos": {
               "termino": [
-                "medidas sanitarias",
                 "policía sanitaria",
+                "medidas sanitarias",
                 "control bromatológico",
                 "control de alimentos",
                 "vigilancia sanitaria"
@@ -88,8 +90,8 @@
             },
             "sinonimos": {
               "termino": [
-                "medidas sanitarias",
                 "policía sanitaria",
+                "medidas sanitarias",
                 "vigilancia sanitaria"
               ]
             }
@@ -103,8 +105,8 @@
             },
             "sinonimos": {
               "termino": [
-                "medidas sanitarias",
                 "policía sanitaria",
+                "medidas sanitarias",
                 "medidas fitosanitarias",
                 "inspección portuaria de vegetales",
                 "vigilancia sanitaria"
@@ -120,8 +122,8 @@
             },
             "sinonimos": {
               "termino": [
-                "medidas sanitarias",
                 "policía sanitaria",
+                "medidas sanitarias",
                 "SENASA",
                 "vigilancia sanitaria"
               ]
@@ -129,10 +131,10 @@
           },
           {
             "elegido": {
-              "termino": "Instituto Argentino de Sanidad y Calidad Vegetal"
+              "termino": "INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL"
             },
             "preferido": {
-              "termino": "Instituto Argentino de Sanidad y Calidad Vegetal"
+              "termino": "INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL"
             },
             "sinonimos": null
           },
@@ -141,7 +143,7 @@
               "termino": "Ministerio de Salud y Acción Social"
             },
             "preferido": {
-              "termino": "Ministerio de Salud"
+              "termino": "MINISTERIO DE SALUD"
             },
             "sinonimos": {
               "termino": [
@@ -156,18 +158,19 @@
               "termino": "Administración Nacional de Aduanas"
             },
             "preferido": {
-              "termino": "Derecho tributario y aduanero/AFIP/AFIP DGA"
+              "termino": "Derecho tributario y aduanero/ARCA/AFIP/AFIP DGA"
             },
             "sinonimos": {
               "termino": [
                 "Administración Federal de Ingresos Públicos",
                 "Dirección General de Aduanas",
-                "Administración Nacional de Aduanas",
                 "Dirección Nacional de Aduanas",
+                "Administración Nacional de Aduanas",
                 "Administración Federal de Ingresos Públicos Dirección General de Aduanas",
                 "ANA",
+                "DGA",
                 "Administración General de Aduanas y Puertos",
-                "DGA"
+                "Agencia de recaudación y control aduanero"
               ]
             }
           }
@@ -178,7 +181,7 @@
             "política sanitaria",
             "AFIP",
             "operaciones aduaneras",
-            "Ministerio de Salud y Ambiente (Ministerio de Salud)",
+            "Ministerio de Salud y Acción Social (MINISTERIO DE SALUD)",
             "SENASA (Servicio Nacional de Sanidad Animal)",
             "Derecho tributario y aduanero",
             "control sanitario",
@@ -191,7 +194,8 @@
             "Dirección General de Aduanas (AFIP DGA)",
             "medidas sanitarias (control sanitario)",
             "control fitosanitario",
-            "Instituto Argentino de Sanidad y Calidad Vegetal",
+            "INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL",
+            "Ministerio de Salud y Ambiente (MINISTERIO DE SALUD)",
             "Administración Federal de Ingresos Públicos Dirección General de Aduanas (AFIP DGA)",
             "vigilancia sanitaria (control sanitario)",
             "Salud pública",
@@ -199,15 +203,16 @@
             "Administración Nacional de Aduanas (AFIP DGA)",
             "Servicio Nacional de Sanidad Animal",
             "policía sanitaria (control sanitario)",
-            "Ministerio de Salud Pública y Medio Ambiente (Ministerio de Salud)",
+            "ARCA",
             "control de alimentos (control de productos alimenticios)",
             "DGA (AFIP DGA)",
-            "Ministerio de Salud y Acción Social (Ministerio de Salud)",
-            "Ministerio de Salud",
+            "Ministerio de Salud Pública y Medio Ambiente (MINISTERIO DE SALUD)",
             "control bromatológico (control de productos alimenticios)",
+            "MINISTERIO DE SALUD",
             "Administración Federal de Ingresos Públicos (AFIP)",
             "sanidad vegetal",
             "inspección portuaria de vegetales (control fitosanitario)",
+            "Agencia de recaudación y control aduanero (ARCA)",
             "Dirección Nacional de Aduanas (AFIP DGA)",
             "importaciones",
             "control de productos alimenticios"
@@ -220,27 +225,27 @@
             {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_0",
-              "ref": "DEC C 002092 1991 10 10 0000 000"
+              "ref": "DNU C 002284 1991 10 31 0000 000 0000 000"
             },
             {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_1",
-              "ref": "DNU C 002284 1991 10 31 0000 000"
+              "ref": "DEC C 002092 1991 10 10 0000 000 0000 000"
             }
           ]
         },
-        "texto": "el  Expediente  N.610.539/92  del Registro de la SECRETARIA DE INDUSTRIA Y COMERCIO y los Decretos  Nros.  2092  del 10 de octubre de 1991 y 2284 del 31 de octubre de 1991, y"
+        "texto": "el Expediente N.610.539/92 del Registro de la SECRETARIA DEINDUSTRIA Y COMERCIO y los Decretos Nros. 2092 del 10 de octubre de 1991 y 2284 del 31 de octubre de 1991, y"
       },
       "considerando": {
         "referencias-normativas": {
           "referencia-normativa": {
             "cr": null,
             "id": "REFERENCIAS_NORMATIVAS_0",
-            "ref": "DNU C 002284 1991 10 31 0032 000"
+            "ref": "DNU C 002284 1991 10 31 0032 000 0000 000"
           }
         },
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que  el  artículo  32  del  Decreto  N.2284/91,  establece  la obligatoriedad  de  publicar  un  texto  ordenado de las normas que rigen las intervenciones sanitarias dispuestas para las importaciones de los productos alimentarios.\n\nQue el mencionado Decreto tiene entre sus  objetivos  facilitar el comercio  exterior,  sin  perjuicio  de la aplicación del poder  de policía sanitario.\n\nQue la intervención del MINISTERIO DE  SALUD  Y ACCION SOCIAL, del SERVICIO  NACIONAL  DE  SANIDAD  ANIMAL  (SENASA)  y del  INSTITUTO ARGENTINO  DE  SANIDAD Y CALIDAD VEGETAL (IASCAV) en las  áreas  de control    bromatológico,    higiénico-sanitario,    fitosanitario, zoosanitario  y  de  calidad  para  las actividades de elaboración, fraccionamiento,  distribución,  conservación,    comercialización, importación  y  exportación de alimentos, debe asegurar,  en  forma ágil  y  transparente,    las  gestiones  que  se  ejerzan  en  las respectivas dependencias, para  dar  cumplimiento  a sus funciones, evitando   algunas  superposiciones  de  áreas  y  trámites,    que solamente significarán  inconvenientes  para  los particulares.\n\nQue, asimismo, se considera adecuado tender a  la  unificación  de las  tasas  y  aranceles  para el registro de productos en el orden nacional, provincial y municipal.\n\nQue  con  igualdad  de  criterio,    las  autoridades  nacionales, provinciales  y  municipales,  consideran    conveniente    que  se establezca  un arancel uniforme por parte de la autoridad sanitaria competente en todo el país.\n\nQue en consecuencia,  debe dictarse un texto común que rija dichas intervenciones, sin perjuicio  de  lo  dispuesto por el artículo 32 del  Decreto  N.2284/91,  con  el fin de establecer  procedimientos simples,  bien  definidos  y  rigurosos,  debiendo  los  organismos mencionados  adecuar  sus  reglamentos   al  presente  Decreto.\n\nQue el presente se dicta en uso de las facultades  que  surgen  de los  incisos  1)  y 2) del artículo 86 de la CONSTITUCION NACIONAL."
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que el artículo 32 del Decreto N.2284/91, establece la obligatoriedad de publicar un texto ordenado de las normas que rigen las intervenciones sanitarias dispuestas para las importaciones de los productos alimentarios.\n\nQue el mencionado Decreto tiene entre sus objetivos facilitar el comercio exterior, sin perjuicio de la aplicación del poder de policía sanitario.\n\nQue la intervención del MINISTERIO DE SALUD Y ACCION SOCIAL, del SERVICIO NACIONAL DE SANIDAD ANIMAL (SENASA) y del INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL (IASCAV) en las áreas de control bromatológico, higiénico-sanitario, fitosanitario, zoosanitario y de calidad para las actividades de elaboración, fraccionamiento, distribución, conservación, comercialización, importación y exportación de alimentos, debe asegurar, en forma ágil y transparente, las gestiones que se ejerzan en las respectivas dependencias, para dar cumplimiento a sus funciones, evitando algunas superposiciones de áreas y trámites, que solamente significarán inconvenientes para los particulares.\n\nQue, asimismo, se considera adecuado tender a la unificación de las tasas y aranceles para el registro de productos en el orden nacional, provincial y municipal.\n\nQue con igualdad de criterio, las autoridades nacionales, provinciales y municipales, consideran conveniente que se establezca un arancel uniforme por parte de la autoridad sanitaria competente en todo el país.\n\nQue en consecuencia, debe dictarse un texto común que rija dichas intervenciones, sin perjuicio de lo dispuesto por el artículo 32 del Decreto N.2284/91, con el fin de establecer procedimientos simples, bien definidos y rigurosos, debiendo los organismos mencionados adecuar sus reglamentos al presente Decreto.\n\nQue el presente se dicta en uso de las facultades que surgen de los incisos 1) y 2) del artículo 86 de la CONSTITUCION NACIONAL."
       },
       "articulo": [
         {
@@ -249,144 +254,228 @@
               {
                 "cr": null,
                 "id": "REFERENCIAS_NORMATIVAS_0",
-                "ref": "DNU C 002284 1991 10 31 0022 000"
+                "ref": "DNU C 002284 1991 10 31 0022 000 0000 000"
               },
               {
                 "cr": null,
                 "id": "REFERENCIAS_NORMATIVAS_1",
-                "ref": "DNU C 002284 1991 10 31 0023 000"
+                "ref": "DNU C 002284 1991 10 31 0023 000 0000 000"
               },
               {
                 "cr": null,
                 "id": "REFERENCIAS_NORMATIVAS_2",
-                "ref": "DNU C 002284 1991 10 31 0024 000"
+                "ref": "DNU C 002284 1991 10 31 0024 000 0000 000"
               },
               {
                 "cr": null,
                 "id": "REFERENCIAS_NORMATIVAS_3",
-                "ref": "DNU C 002284 1991 10 31 0025 000"
+                "ref": "DNU C 002284 1991 10 31 0025 000 0000 000"
               },
               {
                 "cr": null,
                 "id": "REFERENCIAS_NORMATIVAS_4",
-                "ref": "DNU C 002284 1991 10 31 0026 000"
+                "ref": "DNU C 002284 1991 10 31 0026 000 0000 000"
               }
             ]
           },
           "numero-articulo": 1,
-          "texto": "Art. 1: Los controles previos y posteriores al ingreso a plaza, en el  caso  de  importaciones  de productos alimentarios de origen animal o vegetal, se regirán por  las  normas  establecidas  en los artículos  22 a 26 del Decreto N.2284/91 de Desregulación Económica y por el presente Decreto."
+          "texto": "Art. 1: Los controles previos y posteriores al ingreso a plaza, en el caso de importaciones de productos alimentarios de origen animal o vegetal, se regirán por las normas establecidas en los artículos 22 a 26 del Decreto N.2284/91 de Desregulación Económica y por el presente Decreto."
         },
         {
           "numero-articulo": 2,
-          "texto": "Art. 2: Los controles higiénico-sanitarios y bromatológico, de calidad,  estabilidad,  embalaje  y  transporte  que correspondiere sobre las importaciones de productos, subproductos  o  derivados de origen  animal no acondicionados para su venta directa al  público, estarán a  cargo del SERVICIO NACIONAL DE SANIDAD ANIMAL (SENASA) y serán realizados  con  carácter  previo  al  ingreso  a plaza de la mercadería."
+          "texto": "Art. 2: Los controles higiénico-sanitarios y bromatológicos, los cuales pueden incluir el control del embalaje y transporte, y de estabilidad, que correspondiere realizar sobre las importaciones de los productos, subproductos o derivados de origen animal, no acondicionados para su venta directa al público, estarán a cargo del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA), organismo descentralizado actuante en la órbita de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, y serán realizados con carácter previo al ingreso a plaza de la mercadería, conforme los artículos 12 y 13 y el Anexo I del Decreto N° 815 del 26 de julio de 1999 y su modificatorio.\n\nEn el caso del transporte y embalaje de alimentos, la intervención del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA) se limitará a los controles necesarios para garantizar la salubridad e inocuidad de los productos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0001 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 3,
-          "texto": "Art.  3: Los controles fitosanitarios, de calidad y transporte de las materias  primas  y productos alimentarios de origen vegetal no acondicionados para su  venta  directa  al  público,  estarán  a cargo   del  INSTITUTO  ARGENTINO  DE  SANIDAD  Y  CALIDAD  VEGETAL (IASCAV)  y serán realizados con carácter previo al ingreso a plaza de la mercadería."
+          "texto": "Art. 3: Los controles de las materias primas y los productos alimentarios de origen vegetal no acondicionados para su venta directa al público estarán a cargo del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA), organismo descentralizado actuante en la órbita de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, y serán realizados con carácter previo al ingreso a plaza de mercadería conforme a los artículos 12 y 13 y Anexo II del Decreto N° 815 del 26 de julio de 1999 y su modificatorio.\n\nEn el caso del transporte y del embalaje de alimentos, la intervención del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA) se limitará a los controles necesarios para garantizar la salubridad e inocuidad de los productos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0002 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 4,
-          "texto": "Art. 4: Los productos, subproductos o derivados no acondicionados  para  su  venta directa al público, comprendidos en los artículos 2 y 3 del presente  Decreto,  comprenden las materias primas  o los productos en proceso con destino  a  la  elaboración, fraccionamiento  o  modificación  de las características originales\n\nLos mencionados servicios podrán adecuar  dicho  control previo en función  de  la  frecuencia  de  las  importaciones  de  un   mismo productos  y  considerando  los  antecedentes  del  importador, del proveedor extranjero y del control sanitario en el país  de origen."
+          "texto": "Art. 4: Los productos, subproductos o derivados no acondicionados para su venta directa al público, comprendidos en los artículos 2 y 3 del presente Decreto, comprenden las materias primas o los productos en proceso con destino a la elaboración, fraccionamiento o modificación de las características originales  Los mencionados servicios podrán adecuar dicho control previo en función de la frecuencia de las importaciones de un mismo productos y considerando los antecedentes del importador, del proveedor extranjero y del control sanitario en el país de origen."
         },
         {
           "numero-articulo": 5,
-          "texto": "Art.  5:  Las  importaciones  de  los  productos  alimentarios acondicionados  para  su  venta directa al público cuya estabilidad esté  asegurada  y  que  hayan    sido  registrados  en  el  Código Alimentario Argentino, estarán sujetas  a  los  controles higiénico sanitarios  y  bromatológicos  con  posterioridad  a su  ingreso  a plaza,  los  que  serán  efectuados  por el MINISTERIO DE  SALUD  Y ACCION  SOCIAL.  Tal  control  no  podrá  impedir   la  disposición comercial de la mercadería por parte del importador."
+          "texto": "Art. 5: Las importaciones de los productos alimenticios acondicionados para su venta directa al público estarán sujetos a los controles higiénico-sanitarios y bromatológicos con posterioridad a su ingreso a plaza, los que serán efectuados por la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), organismo descentralizado actuante en la órbita del MINISTERIO DE SALUD, o por el SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA), organismo descentralizado actuante en la órbita de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, en el ámbito de sus competencias. Tal control no podrá obstaculizar la disposición comercial de la mercadería por parte del importador.\n\nQuedan exceptuados de los requisitos referidos en el párrafo anterior los productos alimenticios que cuenten con la certificación emitida por los países referidos en el tercer párrafo del artículo 2º del Anexo I del Decreto Nº 2126 del 30 de junio de 1971 y sus modificaciones, los cuales únicamente deberán cumplimentar el procedimiento estipulado por el artículo 4º, inciso a) del Anexo II del citado decreto. En estos casos, la Autoridad Sanitaria competente no podrá exigir mayores requerimientos.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0003 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 6,
-          "texto": "Art.  6:  Se  considerará  que  el  producto  cumple  con  las condiciones  de  estabilidad  requeridas  en el artículo precedente cuando  el  importador  demuestre,  al  momento  del  registro  del producto,  que  el  mismo  reúne  los  requisitos  de  elaboración, embalaje  y  transporte, de acuerdo a los  requerimientos  exigidos por la autoridad  sanitaria  competente,  la  que  hará  constar la indicación  de  estabilidad en el certificado respectivo, así  como la  autorización  para    despacho  a  plaza  sin  control  previo."
+          "texto": "Art. 6: Se considerará que el producto cumple con las condiciones de estabilidad requeridas en el artículo precedente cuando el importador demuestre, al momento del registro del producto, que el mismo reúne los requisitos de elaboración, embalaje y transporte, de acuerdo a los requerimientos exigidos por la autoridad sanitaria competente, la que hará constar la indicación de estabilidad en el certificado respectivo, así como la autorización para despacho a plaza sin control previo."
         },
         {
           "numero-articulo": 7,
-          "texto": "Art.  7: Cuando los productos alimentarios acondicionados para su venta directa  al  público  no  cuenten  con  el  certificado de estabilidad  establecido  en  los  artículos  6  y  17 del presente Decreto, o cuando al momento de la importación se presenten  signos de  deterioro  o pérdida de estabilidad, las autoridades sanitarias competentes  podrán  exigir  el  control  con  carácter  previo  al ingreso  a  plaza.  En  el  último  caso,  la  decisión  puede  ser reclamada en  el  acto  por  el  importador,  debiendo la autoridad sanitaria respectiva, responder dentro de las CUARENTA  Y OCHO (48) horas, previa consulta al nivel jerárquico superior."
+          "texto": "Art. 7: Cuando al momento de la importación de los productos alimenticios acondicionados para su venta directa al público se detecten signos de deterioro, o cuando de la documentación presentada por el importador surgieran inconsistencias o elementos que hagan suponer incumplimientos a la normativa vigente, las Autoridades Sanitarias competentes podrán exigir la realización del control con carácter previo al ingreso a plaza. La inspección deberá efectuarse en el plazo de TRES (3) días hábiles administrativos contados desde la constatación de los signos de deterioro o de las inconsistencias documentales; la Autoridad Sanitaria competente podrá prorrogar por única vez dicho plazo cuando existan fundamentos debidamente justificados. En los casos en que se efectúe la referida inspección, el importador podrá presentar un reclamo en el acto ante la decisión de la Autoridad Sanitaria. La Autoridad Sanitaria respectiva deberá responder a dicho reclamo en un plazo no mayor a CUARENTA Y OCHO (48) horas, previa consulta con su superior jerárquico.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0004 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 8,
-          "texto": "Art.  8:  Cuando  existan  razones  debidamente  fundadas, con informaciones  fehacientes  y  comprobadas,  que hagan presumir  la existencia de riesgos para la salud humana, animal  o  vegetal, por la  introducci  nn al país de productos alimentarios, el MINISTERIO DE SALUD Y ACCION SOCIAL, el SENASA y el IASCAV, en sus respectivas áreas  de  competencia,  podrán  disponer  en cualquier caso los controles sanitarios convenientes, con carácter  previo al despacho  a  plaza, debiendo informar al importador los fundamentos que motivan la intervención."
+          "texto": "Art. 8: Cuando existan razones debidamente fundadas, con información fehaciente y comprobada, que hagan presumir la existencia de riesgos para la salud humana, animal o vegetal, por la introducción al país de productos alimentarios, la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT) y el SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA), en sus respectivas áreas de competencia, podrán disponer los controles sanitarios convenientes, con carácter previo al despacho a plaza, debiendo informar al importador los fundamentos que motivan la intervención. Dichos controles deberán efectuarse en el plazo de CINCO (5) días hábiles administrativos. La Autoridad Sanitaria competente podrá prorrogar dicho plazo cuando existan fundamentos debidamente justificados.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0005 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 9,
-          "texto": "Art. 9: En todos los casos comprendidos en los artículos 2 y 3 del presente  Decreto,  se  cumplimentará,  además,  la  inspección previa    consistente   en  la  verificación  de  la  documentación sanitaria y de las condiciones  de  transporte  de  los  productos."
+          "texto": "Art. 9: En todos los casos comprendidos en los artículos 2° y 3° del presente decreto se cumplimentará, además, la inspección previa consistente en la verificación de la documentación sanitaria.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0006 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 10,
-          "texto": "Art. 10: Se establece un plazo de hasta CATORCE (14) días para liberación  de  los productos alimentarios que requieran el control previo  al  despacho  a  plaza;  los  mismos  deberán  ingresar  al depósito del  importador  sin  derecho  a  uso  antes de obtener la certificación  de  su aptitud, otorgada por la autoridad  sanitaria competente.\n\nSin  perjuicio de este  plazo  máximo,  los  servicios  de  control sanitario  reducirán  el  mismo en cada caso, en base a la duración de los análisis y estudios técnicos que correspondan."
+          "texto": "Art. 10: Se establece un plazo de hasta CINCO (5) días hábiles administrativos para la liberación, en caso de proceder, de los productos alimenticios que requieran el control previo al despacho a plaza; los mismos deberán ingresar al depósito del importador sin derecho a uso antes de obtener la certificación de su aptitud, otorgada por la Autoridad Sanitaria competente. La Autoridad Sanitaria competente podrá prorrogar por única vez dicho plazo cuando existan fundamentos debidamente justificados.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0007 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 11,
-          "texto": "Art.  11:  El  servicio  aduanero  procederá  al  libramiento automático    de  los  productos  alimentarios  alcanzados  por  el artículo 5 del  presente  Decreto.  En el caso de los productos que requieran control previo al despacho  a  plaza  según los artículos 2,  3,  7  y  8 del presente Decreto, el servicio aduanero  exigirá previo a la liberación de la mercadería, la respectiva autorización de los servicios de control sanitario."
+          "texto": "Art. 11: El servicio aduanero procederá al libramiento automático de los productos alimentarios alcanzados por el artículo 5 del presente Decreto. En el caso de los productos que requieran control previo al despacho a plaza según los artículos 2, 3, 7 y 8 del presente Decreto, el servicio aduanero exigirá previo a la liberación de la mercadería, la respectiva autorización de los servicios de control sanitario."
         },
         {
           "numero-articulo": 12,
-          "texto": "Art.  12:  De  no  contarse  con  la  autorización o eximición prevista en el artículo anterior, el servicio  aduanero  autorizará la entrega de los productos sin derecho a uso, a requerimiento  del importador.  A tal efecto, este último declarará expresamente en el Despacho de Importación,  que  se constituye fiel depositario de la mercadería, sin derecho a uso, y  que  se  compromete  a impedir su deterioro  y/o  contaminación  hasta  que  la  autoridad  sanitaria competente se expida al respecto, indicando domicilio del lugar  de su depósito."
+          "texto": "Art. 12: De no contarse con la autorización o eximición prevista en el artículo anterior, el servicio aduanero autorizará la entrega de los productos sin derecho a uso, a requerimiento del importador. A tal efecto, este último declarará expresamente en el Despacho de Importación que se constituye como fiel depositario de la mercadería, sin derecho a uso, y que se compromete a evitar su deterioro y/o contaminación indicando el domicilio del lugar de su depósito. La Autoridad Sanitaria competente tendrá un plazo de CINCO (5) días hábiles administrativos contados desde que se realiza la importación de la mercadería para expedirse al respecto. La Autoridad Sanitaria competente podrá prorrogar dicho plazo cuando existan fundamentos debidamente justificados.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0008 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 13,
-          "texto": "Art.  13:  A  los fines del control previo al despacho a plaza establecido en el artículo  10  del  presente  Decreto, el servicio aduanero   identificará  una  muestra  representativa    de    cada importación  antes  de  proceder  a la entrega de la mercadería sin derecho a uso. El tamaño de la muestra  deberá  respetar  criterios técnicos  de  general  aceptación  en  el  comercio  internacional."
+          "texto": "Art. 13: A los fines del control previo al despacho a plaza establecido en el artículo 10 del presente Decreto, el servicio aduanero identificará una muestra representativa de cada importación antes de proceder a la entrega de la mercadería sin derecho a uso. El tamaño de la muestra deberá respetar criterios técnicos de general aceptación en el comercio internacional."
         },
         {
           "referencias-normativas": {
             "referencia-normativa": {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_0",
-              "ref": "LEY C 022415 1981 03 02 0449 000"
+              "ref": "CAD C 022415 1981 03 02 0449 000 0000 000"
             }
           },
           "numero-articulo": 14,
-          "texto": "Art.  14: Cuando el importador no presentare la autorización o eximición pertinente  en  el  plazo  fijado  por el artículo 10 del presente  Decreto,  por  razones  imputables  a éste,  el  servicio aduanero procederá de acuerdo con lo establecido  en  los artículos 449 y siguientes de la Ley N.22.415.\n\nLa  destrucción, inutilización o reeexportación previstas  por  el Código  Aduanero Argentino, estarán a cargo del servicio aduanero y de  la  autoridad    sanitaria   competente,  siendo  a  cargo  del importador los gastos que demanden  las  operaciones, sin perjuicio de  su  responsabilidad  por  infracción al Código  Penal  y  demás sanciones que le pudieren corresponder."
+          "texto": "Art. 14: Cuando el importador no presentare la autorización o eximición pertinente en el plazo fijado por el artículo 10 del presente Decreto, por razones imputables a éste, el servicio aduanero procederá de acuerdo con lo establecido en los artículos 449 y siguientes de la Ley N.22.415.\n\nLa destrucción, inutilización o reeexportación previstas por el Código Aduanero Argentino, estarán a cargo del servicio aduanero y de la autoridad sanitaria competente, siendo a cargo del importador los gastos que demanden las operaciones, sin perjuicio de su responsabilidad por infracción al Código Penal y demás sanciones que le pudieren corresponder."
         },
         {
           "numero-articulo": 15,
-          "texto": "Art.  15:  El  MINISTERIO  DE  SALUD  Y  ACCION  SOCIAL  y los Organismos Provinciales y Municipales competentes, de acuerdo a  la legislación  vigente, estarán a cargo del registro de los productos alimentarios previsto  en  el  Código  Alimentario  Argentino,  con excepción  de  aquéllos de origen animal importados o producidos en el país, en establecimientos  sujetos  al contralor del SENASA, los que se registrarán ante ese Organismo. El  MINISTERIO  DE  SALUD  Y ACCION  SOCIAL  y  el  SENASA  deberán  establecer en el término de TREINTA  (30)  días  de  la  publicación del presente  Decreto,  el listado de productos considerados  de origen animal a los fines del registro."
-        },
-        {
-          "referencias-normativas": {
-            "referencia-normativa": [
-              {
-                "cr": null,
-                "id": "REFERENCIAS_NORMATIVAS_0",
-                "ref": "DEC C 002126 1971 00 00 0004 000"
-              },
-              {
-                "cr": null,
-                "id": "REFERENCIAS_NORMATIVAS_1",
-                "ref": "DEC C 002092 1991 00 00 0002 000"
-              }
-            ]
-          },
-          "numero-articulo": 16,
-          "texto": "Art.  16: Los importadores de los productos comprendidos en el artículo 5,  deberán  cumplimentar  al  momento  del  registro, los requisitos  establecidos en el artículo 4 del Anexo II del  Decreto N.2126/71, texto según artículo 2 Decreto N.2092/91."
-        },
-        {
-          "numero-articulo": 17,
-          "texto": "Art.  17: Para cumplimentar con la indicación de estabilidad y autorización  para  el  despacho  establecidas en el artículo 6 del presente  Decreto,  los  servicios  encargados    del  registro  de productos  alimentarios entregarán a solicitud de los  importadores un certificado  complementario, en el caso de productos registrados con anterioridad  a  la  fecha  de  vigencia  del presente Decreto."
-        },
-        {
-          "numero-articulo": 18,
-          "texto": "Art.  18:  A  los  fines de los párrafos segundo y tercero del artículo 2 del Anexo I del  Decreto  N.2126/71 texto según artículo 1 del Decreto 2092/91, se considerarán  satisfechas  las exigencias del  Código  Alimentario Argentino, en el caso de importaciones  de productos alimentarios  acondicionados  para  su  venta  directa al público, provenientes de los siguientes países:\n\n- Países de la COMUNIDAD ECONOMICA EUROPEA\n\n- ESTADOS UNIDOS DE AMERICA\n\n- NUEVA ZELANDA\n\n- REINO DE SUECIA\n\n- CONFEDERACION SUIZA\n\n- JAPON\n\n- AUSTRALIA\n\n- NORUEGA\n\n- CANADA\n\n- ESTADO DE ISRAEL\n\n- AUSTRIA\n\n-  Países  con  los que rijan Tratados de Integración Económica  o Acuerdos  de  Reciprocidad   en  materia  higiénico-sanitarias.\n\nEn  todos estos casos, los productos  alimentarios  deberán  haber sido elaborados  bajo  los  controles  aplicables  a  los alimentos destinados  al  consumo  humano en el mercado interno del  país  de origen. Las autoridades sanitarias  competentes podrán modificar el listado anterior de países, siguiendo  el  mecanismo establecido en el artículo 20 del presente Decreto."
+          "texto": "Art. 15: La ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), organismo descentralizado actuante en la órbita del MINISTERIO DE SALUD, de acuerdo a lo estipulado por el artículo 4° de la Ley N° 18.284, estará a cargo del registro o autorización de los productos alimentarios importados previsto en el Código Alimentario Argentino (CAA), con excepción de aquellos de origen animal importados en el país en establecimientos sujetos al contralor del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA), organismo descentralizado actuante en la órbita de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, los que se registrarán ante ese Organismo, conforme el artículo 13 del Decreto N° 815 del 26 de julio de 1999 y su modificatorio.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0009 000 0000 000"
+            }
+          }
         },
         {
           "referencias-normativas": {
             "referencia-normativa": {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_0",
-              "ref": "TOR C 018284 1971 06 30 0000 000"
+              "ref": "DEC C 002126 1971 06 30 0000 000 0000 000"
+            }
+          },
+          "numero-articulo": 16,
+          "texto": "Art. 16: Los importadores de los productos comprendidos en el artículo 5º del presente deberán cumplimentar, al momento del registro o autorización, los requisitos establecidos en el Decreto Nº 2126 del 30 de junio de 1971 y sus modificaciones.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0010 000 0000 000"
+            }
+          }
+        },
+        {
+          "numero-articulo": 17,
+          "texto": "Art. 17: Para cumplimentar con la indicación de estabilidad y autorización para el despacho establecidas en el artículo 6 del presente Decreto, los servicios encargados del registro de productos alimentarios entregarán a solicitud de los importadores un certificado complementario, en el caso de productos registrados con anterioridad a la fecha de vigencia del presente Decreto."
+        },
+        {
+          "numero-articulo": 18,
+          "texto": "Art. 18: En función de lo establecido en el Decreto Nº 2126 del 30 de junio de 1971 y sus modificaciones se considerarán satisfechas las exigencias del Código Alimentario Argentino (CAA) en el caso de importaciones de productos alimenticios acondicionados para su venta directa al público, provenientes o que cuenten con el certificado de libre venta o documento análogo aprobado por la Autoridad Sanitaria competente de alguno de los países consignados en el Anexo III del Decreto Nº 2126 del 30 de junio de 1971 y sus modificaciones.\n\nLas Autoridades Sanitarias competentes podrán ampliar el referido listado de países.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0011 000 0000 000"
+            }
+          }
+        },
+        {
+          "referencias-normativas": {
+            "referencia-normativa": {
+              "cr": null,
+              "id": "REFERENCIAS_NORMATIVAS_0",
+              "ref": "TOR C 018284 1971 06 30 0000 000 0000 000"
             }
           },
           "numero-articulo": 19,
-          "texto": "Art. 19: El MINISTERIO DE SALUD Y ACCION SOCIAL establecerá los aranceles  o  tasas  a  cobrar por los servicios de registro de los productos alimentarios. Los  importes  que se fijen serán uniformes en  todo  el  país, conforme con el criterio  de  organización  del artículo 7 de la  Ley  18.284  y  su  aplicación  se efectivizará a través  de  la autoridad sanitaria que resulte competente  en  cada jurisdicción."
+          "texto": "Art. 19: El MINISTERIO DE SALUD Y ACCION SOCIAL establecerá los aranceles o tasas a cobrar por los servicios de registro de los productos alimentarios. Los importes que se fijen serán uniformes en todo el país, conforme con el criterio de organización del artículo 7 de la Ley 18.284 y su aplicación se efectivizará a través de la autoridad sanitaria que resulte competente en cada jurisdicción."
         },
         {
           "numero-articulo": 20,
-          "texto": "Art.  20:  Los  servicios  estatales de control de alimentos y demás productos de origen animal y vegetal actuarán coordinadamente con el fin de evitar  la  superposición de tareas y la  imposición  de  trámites  innecesarios  que    dificulten    el intercambio  comercial.  A tal fin, el SERVICIO NACIONAL DE SANIDAD ANIMAL  (SENASA),  el INSTITUTO  ARGENTINO  DE  SANIDAD  Y  CALIDAD VEGETAL (IASCAV), el  MINISTERIO  DE  SALUD  Y  ACCION  SOCIAL y la ADMINISTRACION  NACIONAL DE ADUANAS (ANA), realizarán reuniones  de coordinación a nivel  de  sus máximas autoridades por lo menos cada TRES (3) meses y considerarán  las  propuestas  de  facilitación de sus  intervenciones originadas tanto en el sector estatal  como  en el privado."
+          "texto": "Art. 20: Las Autoridades Sanitarias Nacionales actuarán coordinadamente con el fin de evitar la superposición de tareas y la imposición de trámites innecesarios que dificulten el intercambio comercial.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0012 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 21,
-          "texto": "Art. 21: Déjase sin efecto todo trámite de consulta, información,    intervención  y  autorización  previa  de  carácter cuantitativa  para    la   importación  de  productos  alimentarios realizada  hasta la fecha por  los  organismos  mencionados  en  el presente Decreto."
+          "texto": "Art. 21: Déjase sin efecto todo trámite de consulta, información, intervención y autorización previa de carácter cuantitativa para la importación de productos alimentarios realizada hasta la fecha por los organismos mencionados en el presente Decreto."
         },
         {
           "numero-articulo": 22,
-          "texto": "Art. 22: Deróganse las disposiciones que se opongan al presente Decreto  y  autorízase  al  MINISTERIO  DE  SALUD  Y ACCION SOCIAL, SENASA, IASCAV y ADMINISTRACION NACIONAL DE ADUANAS,  a adecuar las reglamentaciones vigentes en concordancia con lo establecido  en el presente Decreto."
+          "texto": "Art. 22: El MINISTERIO DE SALUD, la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), organismo descentralizado actuante en la órbita de dicho Ministerio, el SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA), organismo descentralizado actuante en la órbita de la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, y la AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO, organismo descentralizado actuante en el ámbito del MINISTERIO DE ECONOMÍA, serán competentes para dictar las normas complementarias y aclaratorias correspondientes del presente decreto.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 11/11/2025) ARTÍCULO SUSTITUIDO",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000790 2025 11 10 0013 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 23,
@@ -400,7 +489,8 @@
       "firmantes": {
         "firmantes": "MENEM - CAVALLO - ARAOZ"
       },
-      "id-infojus": "DN19920001812"
+      "id-infojus": "DN19920001812",
+      "fecha-umod": 20251112095814
     }
   }
 }
