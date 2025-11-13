@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-084-0000-8102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1650651122239,
+      "timestamp": 1763047576162,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,41 +16,38 @@
     },
     "content": {
       "mecanografico": 20180000480,
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 480,
+      "fecha": "2018-05-23",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 480,
-      "timestamp": "2022-04-22T14:58:33",
-      "timestamp-alta": "2018-05-24T10:12:43",
-      "timestamp-m": "2022-04-22T14:58:33",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2018-05-23",
       "standard-normativo": "DEC C 000480 2018 05 23",
       "titulo-norma": "Reglamentación de la Ley 27.442 de Defensa de la Competencia",
+      "nombre-coloquial": "DECRETO NACIONAL 480/2018",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2018 05 24"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 480/2018",
       "analista": "Rocca, Adriana",
-      "enciclopedia": {
-        "texto": "Integridad y Transparencia"
-      },
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2018-05-24",
-      "fecha-mod": "2022-04-22",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-11-13",
+      "fecha-mod": "2025-11-13",
+      "timestamp": "2025-11-13T12:18:44",
+      "timestamp-alta": "2025-11-13T12:18:44",
+      "timestamp-m": "2025-11-13T12:18:44",
       "generalidades": {
         "sintesis": "Se aprueba de la Reglamentación de la Ley 27.442 de Defensa de la Competencia",
         "anexos-decreto": {
@@ -127,72 +124,6 @@
           },
           {
             "elegido": {
-              "termino": "defensa de la competencia"
-            },
-            "preferido": {
-              "termino": "Derecho comercial/lealtad comercial/defensa de la competencia"
-            },
-            "sinonimos": null
-          },
-          {
-            "elegido": {
-              "termino": "distorsión de la competencia"
-            },
-            "preferido": {
-              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/defensa de la competencia/distorsión de la competencia"
-            },
-            "sinonimos": {
-              "termino": [
-                "políticas de Estado",
-                "politicas públicas transversales"
-              ]
-            }
-          },
-          {
-            "elegido": {
-              "termino": "abuso de posición dominante en el mercado"
-            },
-            "preferido": {
-              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/defensa de la competencia/distorsión de la competencia/concentración económica/abuso de posición dominante en el mercado"
-            },
-            "sinonimos": {
-              "termino": [
-                "políticas de Estado",
-                "politicas públicas transversales",
-                "monopolio"
-              ]
-            }
-          },
-          {
-            "elegido": {
-              "termino": "prácticas restrictivas de la competencia"
-            },
-            "preferido": {
-              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/defensa de la competencia/prácticas restrictivas de la competencia"
-            },
-            "sinonimos": {
-              "termino": [
-                "políticas de Estado",
-                "politicas públicas transversales"
-              ]
-            }
-          },
-          {
-            "elegido": {
-              "termino": "acuerdo entre competidores"
-            },
-            "preferido": {
-              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/defensa de la competencia/prácticas restrictivas de la competencia/acuerdo entre competidores"
-            },
-            "sinonimos": {
-              "termino": [
-                "políticas de Estado",
-                "politicas públicas transversales"
-              ]
-            }
-          },
-          {
-            "elegido": {
               "termino": "Tribunal de Defensa de la Competencia"
             },
             "preferido": {
@@ -204,60 +135,49 @@
           },
           {
             "elegido": {
-              "termino": "responsabilidad de los funcionarios públicos"
+              "termino": "defensa de la competencia"
             },
             "preferido": {
-              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/prevención y lucha contra la corrupción/responsabilidad de los funcionarios públicos"
+              "termino": "Derecho comercial/lealtad comercial/defensa de la competencia"
             },
-            "sinonimos": {
-              "termino": [
-                "políticas de Estado",
-                "politicas públicas transversales",
-                "deberes de los funcionarios públicos"
-              ]
-            }
+            "sinonimos": null
           }
         ],
         "suggest": {
           "termino": [
-            "políticas de Estado (politicas públicas)",
-            "politicas públicas transversales (politicas públicas)",
+            "LEY DE DEFENSA DE LA COMPETENCIA",
+            "derecho financiero (Economía y finanzas)",
             "decreto reglamentario",
             "reglamento de ejecución (decreto reglamentario)",
-            "abuso de posición dominante en el mercado",
-            "reglamento ejecutivo (decreto reglamentario)",
+            "derecho económico financiero (Economía y finanzas)",
             "regulación económica",
+            "reglamento ejecutivo (decreto reglamentario)",
+            "concentración económica",
             "reglamentos",
-            "monopolio (concentración económica)",
-            "fortalecimiento de las instituciones",
-            "Derecho comercial",
+            "monopolio",
             "Autoridad Nacional de la Competencia",
-            "deberes de los funcionarios públicos (responsabilidad de los funcionarios públicos)",
-            "integridad y transparencia",
+            "Derecho comercial",
             "Tribunal Nacional de Defensa de la Competencia",
             "política económica",
             "Hacienda y Finanzas (Economía y finanzas)",
+            "acto administrativo",
             "acto administrativo de alcance general",
-            "reglamento administrativo (reglamentos)",
+            "actos de alcance general (acto administrativo de alcance general)",
             "defensa de la competencia",
+            "reglamento administrativo (reglamentos)",
             "Tribunal de Defensa de la Competencia (Tribunal Nacional de Defensa de la Competencia)",
             "lealtad comercial",
             "Economía y finanzas",
-            "responsabilidad de los funcionarios públicos",
-            "Derecho administrativo",
-            "LEY DE DEFENSA DE LA COMPETENCIA",
-            "distorsión de la competencia",
-            "acuerdo entre competidores",
-            "derecho financiero (Economía y finanzas)",
-            "derecho económico financiero (Economía y finanzas)",
-            "concentración económica",
-            "politicas públicas",
-            "prácticas restrictivas de la competencia",
-            "monopolio",
-            "Estado",
-            "acto administrativo",
-            "prevención y lucha contra la corrupción",
-            "actos de alcance general (acto administrativo de alcance general)"
+            "Derecho administrativo"
+          ]
+        },
+        "invalidos": {
+          "termino": [
+            "ABUSO DE POSICION DOMINANTE EN EL MERCADO",
+            "DISTORSION DE LA COMPETENCIA",
+            "ACUERDO ENTRE COMPETIDORES",
+            "PRACTICAS RESTRICTIVAS DE LA COMPETENCIA",
+            "RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS"
           ]
         }
       },
@@ -341,7 +261,7 @@
             }
           },
           "numero-articulo": 5,
-          "texto": "ARTÍCULO 5º.- Establécese que la SECRETARÍA DE COMERCIO INTERIOR del MINISTERIO DE PRODUCCIÓN  Y TRABAJO ejercerá las funciones de Autoridad de Aplicación, con todas las facultades y atribuciones que la Ley Nº 27.442 y la presente Reglamentación le otorgan a la AUTORIDAD NACIONAL DE LA COMPETENCIA, hasta su constitución y puesta en funcionamiento.",
+          "texto": "ARTÍCULO 5º.- Establécese que la SECRETARÍA DE COMERCIO INTERIOR del MINISTERIO DE PRODUCCIÓN Y TRABAJO ejercerá las funciones de Autoridad de Aplicación, con todas las facultades y atribuciones que la Ley Nº 27.442 y la presente Reglamentación le otorgan a la AUTORIDAD NACIONAL DE LA COMPETENCIA, hasta su constitución y puesta en funcionamiento.",
           "modificado-por": {
             "referencia-normativa": {
               "cr": "(B.O. 14/1/2019) EXPRESION SUSTITUIDA",
@@ -387,9 +307,17 @@
       "anexo": {
         "anexo": "A",
         "titulo-anexo": "Reglamentación de la Ley 27.442",
-        "texto": "Reglamentación de la Ley 27.442"
+        "texto": "Reglamentación de la Ley 27.442",
+        "modificado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 13/11/2025) ARTÍCULOS 18 y 28 SUSTITUIDOS",
+            "id": "MODIFICADO_POR_0",
+            "ref": "DEC C 000803 2025 11 12 0001 000 0002 000"
+          }
+        }
       },
-      "id-infojus": "DN20180000480"
+      "id-infojus": "DN20180000480",
+      "fecha-umod": 20251113122616
     }
   }
 }
