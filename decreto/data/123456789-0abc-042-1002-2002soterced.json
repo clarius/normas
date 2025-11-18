@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-042-1002-2002soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1471367459151,
+      "timestamp": 1763464824749,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,35 +16,38 @@
     },
     "content": {
       "mecanografico": 20022001240,
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 1240,
+      "fecha": "2002-07-12",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 1240,
-      "timestamp": "2016-08-16T13:37:00",
-      "timestamp-m": "2016-08-16T13:37:00",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2002-07-12",
       "standard-normativo": "DEC C 001240 2002 07 12",
       "titulo-norma": "CONSTITUCION DEL INSTITUTO NACIONAL DE LA YERBA MATE.",
+      "nombre-coloquial": "DECRETO NACIONAL 1.240/2002",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2002 07 15"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 1.240/2002",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2002-07-15",
-      "fecha-mod": "2016-08-16",
-      "uid-alta": "SAUID",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-11-18",
+      "fecha-mod": "2025-11-18",
+      "timestamp": "2025-11-18T08:11:04",
+      "timestamp-alta": "2025-11-18T08:11:04",
+      "timestamp-m": "2025-11-18T08:11:04",
       "generalidades": {
         "sintesis": "SE CONSTITUYE EL INSTITUTO NACIONAL DE LA YERBA MATE.\n\nSE ESTABLECE SU NATURALEZA JURIDICA, CAPACIDAD, REGIMEN LEGAL, AMBITO DE ACTUACION, OBJETIVO, FUNCIONES Y FACULTADES.",
         "informacion-vinculada": 1E+19,
@@ -56,17 +59,14 @@
           }
         }
       },
-      "noticias-accesorias": {
-        "texto": "NUMERO DE ARTICULO QUE ESTABLECE LA ENTRADA EN VIGENCIA: 40 FECHA DE ENTRADA EN VIGENCIA: 16/07/2002"
-      },
       "descriptores": {
         "descriptor": [
           {
             "elegido": {
-              "termino": "Instituto Nacional de la Yerba Mate"
+              "termino": "INSTITUTO NACIONAL DE LA YERBA MATE"
             },
             "preferido": {
-              "termino": "Instituto Nacional de la Yerba Mate"
+              "termino": "INSTITUTO NACIONAL DE LA YERBA MATE"
             },
             "sinonimos": null
           },
@@ -89,24 +89,46 @@
                 "derecho financiero"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "yerba mate"
+            },
+            "preferido": {
+              "termino": "Actividades económicas/actividad agropecuaria/productos agropecuarios/yerba mate"
+            },
+            "sinonimos": {
+              "termino": [
+                "ganadería",
+                "agricultura",
+                "productos agrícolas"
+              ]
+            }
           }
         ],
         "suggest": {
           "termino": [
-            "Instituto Nacional de la Yerba Mate",
-            "política económica",
-            "fijación de precios",
-            "derecho financiero (Economía y finanzas)",
+            "productos agropecuarios",
             "fijación de precios máximos (fijación de precios)",
-            "Hacienda y Finanzas (Economía y finanzas)",
-            "cotización de precios (fijación de precios)",
-            "derecho económico financiero (Economía y finanzas)",
-            "precios máximos (fijación de precios)",
+            "derecho financiero (Economía y finanzas)",
+            "ganadería (actividad agropecuaria)",
             "fijación de precios indicativos (fijación de precios)",
+            "precios máximos (fijación de precios)",
+            "derecho económico financiero (Economía y finanzas)",
             "política económica interna",
+            "actividad agropecuaria",
+            "agricultura (actividad agropecuaria)",
+            "productos agrícolas (productos agropecuarios)",
+            "fijación de precios",
+            "política económica",
+            "cotización de precios (fijación de precios)",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "yerba mate",
+            "INSTITUTO NACIONAL DE LA YERBA MATE",
             "fijación de precios mínimos (fijación de precios)",
             "control de precios",
-            "Economía y finanzas"
+            "Economía y finanzas",
+            "Actividades económicas"
           ]
         }
       },
@@ -118,7 +140,7 @@
             "ref": "LEY C 025564 2002 02 21 0000 000 0000 000"
           }
         },
-        "texto": "el  Expediente  N.  S01:0172355/2002  del  Registro  de la SECRETARIA   DE  AGRICULTURA,  GANADERIA,  PESCA  Y  ALIMENTOS  del MINISTERIO DE LA PRODUCCION, la Ley N. 25.564, y"
+        "texto": "el Expediente N. S01:0172355/2002 del Registro de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION, la Ley N. 25.564, y"
       },
       "considerando": {
         "referencias-normativas": {
@@ -128,15 +150,15 @@
             "ref": "LEY C 025564 2002 02 21 0000 000 0000 000"
           }
         },
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que mediante  la  ley  citada  en  el  Visto,  se creó el INSTITUTO NACIONAL  DE LA YERBA MATE (INYM) como ente de derecho  público  no estatal, con  jurisdicción  en  todo  el territorio de la REPUBLICA ARGENTINA.\n\nQue el mencionado Instituto se creó con  el  objetivo  principal de promover,  facilitar  y  fortalecer el desarrollo de la producción, elaboración, industrialización, comercialización y consumo de yerba mate y derivados en sus diferentes  modalidades  de  consumo y usos.\n\nQue a través de la acción del mismo se procura la sostenibilidad de los  distintos  sectores  involucrados  en  la  actividad así  como mejorar  la  competitividad  del  sector  productivo  e  industrial.\n\nQue  el  INSTITUTO NACIONAL DE LA YERBA MATE (INYM) funcionará  con sede en la  Ciudad  de  POSADAS  de  la  Provincia de MISIONES, por concentrar  esa  Jurisdicción  la mayor parte  de  los  productores.\n\nQue la Ley N. 25.564 le otorga al INSTITUTO  NACIONAL DE  LA YERBA MATE (INYM) la facultad de acordar semestralmente el precio  de  la materia prima.\n\nQue  para ello es necesario determinar las condiciones y estándares de calidad  que  serán  tenidos  en cuenta para la determinación de dicho precio.\n\nQue asimismo, ante la posibilidad que el precio de la materia prima no llegue a acordarse en el Directorio  del  citado  Instituto,  es esencial  fijar  pautas mínimas para el sometimiento de la cuestión al arbitraje del señor  Secretario de Agricultura, Ganadería, Pesca y Alimentos.\n\nQue  resulta  necesario  establecer    el   procedimiento  para  la designación  del  primer Directorio del INSTITUTO  NACIONAL  DE  LA YERBA MATE.\n\nQue la ley citada en  el  Visto  creó  una  Tasa  de  Inspección  y Fiscalización  y  la  utilización  de  estampilla  de  control para obtener  recursos  que  permitan  el  funcionamiento del mencionado Instituto y el cumplimiento de los objetivos.\n\nQue  atañe  a  la  SECRETARIA DE AGRICULTURA,  GANADERIA,  PESCA  Y ALIMENTOS  del MINISTERIO  DE  LA  PRODUCCION,  como  Autoridad  de Aplicación, determinar el procedimiento de aplicación, percepción y fiscalización de la Tasa de Inspección y Fiscalización.\n\nQue, con relación  a  dicha  Tasa,  es  conveniente  delegar  en el INSTITUTO  NACIONAL  DE  LA  YERBA  MATE la facultad de disponer el mecanismo  más  eficaz  para  su  recaudación,    suscribiendo  los Convenios necesarios para ello.\n\nQue corresponde implementar el procedimiento para la  aplicación de sanciones por incumplimientos al régimen de la ley, garantizando el derecho de defensa de los infractores.\n\nQue  la  DIRECCION  GENERAL DE ASUNTOS JURIDICOS del MINISTERIO  DE ECONOMIA, ha tomado la  intervención que le compete en virtud de lo dispuesto por la Resolución  de  la  PROCURACION  DEL  TESORO DE LA NACION N. 7 de fecha 4 de febrero de 2002.\n\nQue  el  presente acto se dicta en uso de las facultades conferidas por el Artículo 99, Inciso 2 de la CONSTITUCION NACIONAL.\n\nPor ello,"
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que mediante la ley citada en el Visto, se creó el INSTITUTO NACIONAL DE LA YERBA MATE (INYM) como ente de derecho público no estatal, con jurisdicción en todo el territorio de la REPUBLICA ARGENTINA.\n\nQue el mencionado Instituto se creó con el objetivo principal de promover, facilitar y fortalecer el desarrollo de la producción, elaboración, industrialización, comercialización y consumo de yerba mate y derivados en sus diferentes modalidades de consumo y usos.\n\nQue a través de la acción del mismo se procura la sostenibilidad de los distintos sectores involucrados en la actividad así como mejorar la competitividad del sector productivo e industrial.\n\nQue el INSTITUTO NACIONAL DE LA YERBA MATE (INYM) funcionará con sede en la Ciudad de POSADAS de la Provincia de MISIONES, por concentrar esa Jurisdicción la mayor parte de los productores.\n\nQue la Ley N. 25.564 le otorga al INSTITUTO NACIONAL DE LA YERBA MATE (INYM) la facultad de acordar semestralmente el precio de la materia prima.\n\nQue para ello es necesario determinar las condiciones y estándares de calidad que serán tenidos en cuenta para la determinación de dicho precio.\n\nQue asimismo, ante la posibilidad que el precio de la materia prima no llegue a acordarse en el Directorio del citado Instituto, es esencial fijar pautas mínimas para el sometimiento de la cuestión al arbitraje del señor Secretario de Agricultura, Ganadería, Pesca y Alimentos.\n\nQue resulta necesario establecer el procedimiento para la designación del primer Directorio del INSTITUTO NACIONAL DE LA YERBA MATE.\n\nQue la ley citada en el Visto creó una Tasa de Inspección y Fiscalización y la utilización de estampilla de control para obtener recursos que permitan el funcionamiento del mencionado Instituto y el cumplimiento de los objetivos.\n\nQue atañe a la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION, como Autoridad de Aplicación, determinar el procedimiento de aplicación, percepción y fiscalización de la Tasa de Inspección y Fiscalización.\n\nQue, con relación a dicha Tasa, es conveniente delegar en el INSTITUTO NACIONAL DE LA YERBA MATE la facultad de disponer el mecanismo más eficaz para su recaudación, suscribiendo los Convenios necesarios para ello.\n\nQue corresponde implementar el procedimiento para la aplicación de sanciones por incumplimientos al régimen de la ley, garantizando el derecho de defensa de los infractores.\n\nQue la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA, ha tomado la intervención que le compete en virtud de lo dispuesto por la Resolución de la PROCURACION DEL TESORO DE LA NACION N. 7 de fecha 4 de febrero de 2002.\n\nQue el presente acto se dicta en uso de las facultades conferidas por el Artículo 99, Inciso 2 de la CONSTITUCION NACIONAL.\n\nPor ello,"
       },
       "segmento": [
         {
           "titulo-particion": "CONSTITUCION. NATURALEZA JURIDICA",
           "articulo": {
             "numero-articulo": 1,
-            "texto": "Artículo 1 - El INSTITUTO NACIONAL DE LA YERBA MATE, en adelante el INYM, en su  condición  de  ente  de derecho público no estatal, se regirá  por  el  estatuto  y  reglamento  interno  que  apruebe  el Directorio y por las normas que  le  sean  aplicables conforme a su naturaleza jurídica, objeto y funciones."
+            "texto": "Artículo 1 - El INSTITUTO NACIONAL DE LA YERBA MATE, en adelante el INYM, en su condición de ente de derecho público no estatal, se regirá por el estatuto y reglamento interno que apruebe el Directorio y por las normas que le sean aplicables conforme a su naturaleza jurídica, objeto y funciones."
           }
         },
         {
@@ -144,19 +166,19 @@
           "articulo": [
             {
               "numero-articulo": 2,
-              "texto": "Art.  2  -  El  citado Instituto, como ente de derecho  público  no estatal, con personaría jurídica y autonomía financiera, contable y administrativa, tiene  plena capacidad legal de conformidad con las disposiciones del derecho  privado  para  realizar  todos los actos jurídicos  y  celebrar  todos  los  contratos  necesarios  para  el cumplimiento  de  su  objeto  y  funciones,  y  responderá  por sus obligaciones con su patrimonio y recursos."
+              "texto": "Art. 2 - El citado Instituto, como ente de derecho público no estatal, con personaría jurídica y autonomía financiera, contable y administrativa, tiene plena capacidad legal de conformidad con las disposiciones del derecho privado para realizar todos los actos jurídicos y celebrar todos los contratos necesarios para el cumplimiento de su objeto y funciones, y responderá por sus obligaciones con su patrimonio y recursos."
             },
             {
               "numero-articulo": 3,
-              "texto": "Art.  3  -  El  INYM,  se regirá por las normas del derecho público nacional o provincial respecto  de aquellas funciones de naturaleza pública que le sean expresamente  delegadas  y  la administración y disposición de eventuales aportes o subsidios del  Tesoro Nacional, Provincial y/o Municipal. Dichos aportes se recibirán  en todos los casos  con  cargo, por parte del INYM, de rendir cuenta documentada sobre la aplicación  de  los fondos públicos recibidos. En cuanto a las restantes funciones, serán  de aplicación las disposiciones del derecho privado."
+              "texto": "Art. 3 - El INYM, se regirá por las normas del derecho público nacional o provincial respecto de aquellas funciones de naturaleza pública que le sean expresamente delegadas y la administración y disposición de eventuales aportes o subsidios del Tesoro Nacional, Provincial y/o Municipal. Dichos aportes se recibirán en todos los casos con cargo, por parte del INYM, de rendir cuenta documentada sobre la aplicación de los fondos públicos recibidos. En cuanto a las restantes funciones, serán de aplicación las disposiciones del derecho privado."
             },
             {
               "numero-articulo": 4,
-              "texto": "Art. 4 - Los aportes o subsidios que el Estado Nacional, Provincial o  Municipal  asigne  al  INYM para aplicar  a  fines  específicos, estarán  sometidos  al  contralor    de  los  organismos  estatales pertinentes."
+              "texto": "Art. 4 - Los aportes o subsidios que el Estado Nacional, Provincial o Municipal asigne al INYM para aplicar a fines específicos, estarán sometidos al contralor de los organismos estatales pertinentes."
             },
             {
               "numero-articulo": 5,
-              "texto": "Art. 5 - El INYM tendrá su domicilio a todos los efectos legales en la  Ciudad  de  POSADAS,  Provincia de MISIONES,  y  su  ámbito  de actuación comprende la totalidad  del  territorio  de  la REPUBLICA ARGENTINA."
+              "texto": "Art. 5 - El INYM tendrá su domicilio a todos los efectos legales en la Ciudad de POSADAS, Provincia de MISIONES, y su ámbito de actuación comprende la totalidad del territorio de la REPUBLICA ARGENTINA."
             }
           ]
         },
@@ -172,19 +194,33 @@
                 }
               },
               "numero-articulo": 6,
-              "texto": "Art.  6  -  Entiéndese  por promoción, fomento y fortalecimiento  a todas aquellas acciones,  planes  y/o  programas que, dentro de las funciones y facultades establecidas en la Ley N. 25.564, tiendan al mejor posicionamiento de la yerba mate, propendiendo  a su difusión a nivel nacional e internacional y procurando la sustentabilidad  y mejoramiento   de  la  competitividad  de  los  distintos  sectores involucrados en la actividad, pudiendo, para el cumplimiento de sus objetivos, constituir un fondo fiduciario."
+              "texto": "Art. 6 - Entiéndese por promoción, fomento y fortalecimiento a todas aquellas acciones, planes y/o programas que, dentro de las funciones y facultades establecidas en la Ley N. 25.564, tiendan al mejor posicionamiento de la yerba mate, propendiendo a su difusión a nivel nacional e internacional y procurando la sustentabilidad y mejoramiento de la competitividad de los distintos sectores involucrados en la actividad, pudiendo, para el cumplimiento de sus objetivos, constituir un fondo fiduciario."
             },
             {
               "numero-articulo": 7,
-              "texto": "Art. 7 - Las acciones  del INYM deberán ser difundidas públicamente entre los sectores involucrados,  mediante  campañas que contemplen información  detallada  de  su  accionar,  memoria,    balances   y auditorías."
+              "texto": "Art. 7 - Las acciones del INYM deberán ser difundidas públicamente entre los sectores involucrados, mediante campañas que contemplen información detallada de su accionar, memoria, balances y auditorías."
             },
             {
               "numero-articulo": 8,
-              "texto": "Art.  8  -  El  INYM  deberá  implementar  las medidas que resulten necesarias  y convenientes para facilitar el  equilibrio  entre  la oferta y la demanda de la yerba mate y derivados."
+              "texto": "Art. 8 - El INYM no podrá dictar normas o establecer intervenciones que provoquen distorsiones en los precios de mercado, generen barreras de entrada, impidan la libre iniciativa privada y/o interfieran en la libre interacción de la oferta y la demanda en la producción y comercialización de la yerba mate y derivados.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO SUSTITUIDO",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0001 000 0000 000"
+                }
+              }
             },
             {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
               "numero-articulo": 9,
-              "texto": "Art. 9 - En caso de constatarse desequilibrio en base a relevamientos  satelitales,  censos, índices emanados del INSTITUTO NACIONAL DE ESTADISTICAS Y CENSOS (INDEC), estadísticas de la plaza comercial,  existencia  de materia  prima,  proyección  de  demanda futura, o de cualquier método  que  el INYM considere conveniente y conflable, podrá establecer, en forma conjunta con la SECRETARIA DE AGRICULTURA,  GANADERIA, PESCA Y ALIMENTOS  del  MINISTERIO  DE  LA PRODUCCION, medidas  que  limiten la producción consistentes en:\n\na) Fijación  de  calendario de cosecha b)  Limitación  temporaria  de nuevas plantaciones c) Aplicación de cupos de cosecha, analizando, en forma prioritaria, un  sistema  progresivo  de  menor  a  mayor."
+              "texto": "Art. 9 - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
             }
           ]
         },
@@ -193,58 +229,107 @@
           "articulo": [
             {
               "numero-articulo": 10,
-              "texto": "Art. 10. - Se considera Materia Prima tanto a la hoja verde como  a la yerba mate canchada."
+              "texto": "Art. 10. - Se considera Materia Prima tanto a la hoja verde como a la yerba mate canchada."
             },
             {
-              "numero-articulo": 11,
-              "texto": "Art.  11.  - El precio de la materia prima deberá ser fijada por el Directorio del  INYM  en  forma  unánime, en Sesión Especial que se convocará al efecto cada semestre,  en  forma  personal  o mediante comunicación  fehaciente a cada uno de sus miembros, con un  mínimo de VEINTE (20) días corridos de antelación."
-            },
-            {
-              "numero-articulo": 12,
-              "texto": "Art. 12. - El precio  de  la  materia prima se establecerá para los períodos semestrales de abril a  setiembre  y de octubre a marzo de cada año, siendo facultad del órgano directivo  acordar  mecanismos de ajuste en caso que se modifiquen sustancialmente los valores que deben  regir  durante  el  semestre, por cambios en las condiciones generales económicas."
-            },
-            {
-              "numero-articulo": 13,
-              "texto": "Art. 13. - El Directorio del  INYM  deberá  acordar, por única vez, luego  de publicado el presente decreto, el precio  de  la  materia prima que  regirá durante el lapso que transcurra desde ese momento hasta  el  inicio    del   semestre  que  seguidamente  corresponda."
-            },
-            {
-              "numero-articulo": 14,
-              "texto": "Art. 14. - Para la determinación  del  precio  promedio de venta al consumidor que será tomado como base para la fijación del precio de la materia prima, se tendrán en cuenta los productos elaborados con el  CIEN  POR  CIENTO (100%) de yerba mate con palo,  envasados  en fracciones de UN (1) kilogramo."
-            },
-            {
-              "numero-articulo": 15,
-              "texto": "Art. 15. - A los fines indicados en el artículo precedente, el INYM tomará en consideración el precio de venta en góndola de las marcas que representen  el  CINCUENTA  POR CIENTO (50%) del volumen de las ventas  del mercado interno mejor  posicionado,  de  acuerdo  a  la información  surgida  por  venta  de  estampillas  de  la  Tasa  de Inspección  y  Fiscalización,  efectuándose  el  promedio ponderado correspondiente. Si alguna de estas marcas participa en las compras que realiza el Estado Nacional, serán consideradas  en  el promedio de  precios  teniendo  en  cuenta  su  carácter  de  venta  directa."
-            },
-            {
-              "numero-articulo": 16,
-              "texto": "Art. 16. - Para la determinación del precio de la materia prima, el Directorio deberá contar, entre otros elementos, con la información de  costos  de cada uno de los sectores de la actividad. Los costos de la producción  primaria  deberán  ser  determinados  teniendo en cuenta la modal productiva de las explotaciones agropecuarias de la región productiva de yerba mate."
-            },
-            {
-              "numero-articulo": 17,
-              "texto": "Art.  17. - El precio de las materias primas no podrá ser  inferior al importe  que  resulte  necesario  para  desarrollar la actividad productiva,  incluyendo  las  cargas  impositivas,    laborales   y previsionales,  de  conformidad  a  los  costos  establecidos en el Artículo  anterior,  incluyendo  una    rentabilidad  razonable."
-            },
-            {
-              "referencias-normativas": {
+              "derogado-por": {
                 "referencia-normativa": {
-                  "cr": "Inciso r).",
-                  "id": "REFERENCIAS_NORMATIVAS_0",
-                  "ref": "LEY C 025564 2002 02 21 0004 000 0000 000"
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 11,
+              "texto": "Art. 11. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 12,
+              "texto": "Art. 12. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 13,
+              "texto": "Art. 13. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 14,
+              "texto": "Art. 14. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 15,
+              "texto": "Art. 15. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 16,
+              "texto": "Art. 16. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
+                }
+              },
+              "numero-articulo": 17,
+              "texto": "Art. 17. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
+            },
+            {
+              "derogado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
                 }
               },
               "numero-articulo": 18,
               "informacion-vinculada": 1E+19,
-              "texto": "Art.  18.  -  El  resultado  unánime  de  la  Sesión  Especial  del Directorio  para  la  fijación  del precio de la materia prima,  se protocolizará dentro de los QUINCE  (15)  días corridos de iniciada la Sesión.\n\nEn  caso  de  no  arribarse  a  acuerdo unánime,  se  dispondrá  el sometimiento del diferendo al arbitraje  prescripto  en el Artículo 4, Inciso  r), segundo apartado de la Ley N. 25.564, elevándose al señor Secretario  de  Agricultura,  Ganadería, Pesca y Alimentos el Acta de la Sesión Especial, la totalidad  de  los  antecedentes que hayan  sido  tenidos  en  cuenta  en  la Sesión Especial,  debiendo contener, ineludiblemente, la información  de costos de cada uno de los sectores de la actividad.\n\nEl laudo deberá resolverse dentro del plazo  máximo  de VEINTE (20) días hábiles administrativos."
+              "texto": "Art. 18. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
             },
             {
-              "referencias-normativas": {
+              "derogado-por": {
                 "referencia-normativa": {
-                  "cr": null,
-                  "id": "REFERENCIAS_NORMATIVAS_0",
-                  "ref": "LEY C 025564 2002 02 21 0000 000 0000 000"
+                  "cr": "(B.O. 18/11/2025) ARTÍCULO DEROGADO",
+                  "id": "DEROGADO_POR_0",
+                  "ref": "DEC C 000812 2025 11 17 0003 000 0000 000"
                 }
               },
               "numero-articulo": 19,
-              "texto": "Art.  19.  -  El  precio  de la materia prima que se determine  por acuerdo unánime del Directorio  en  Sesión Especial o por arbitraje del señor Secretario de Agricultura,  Ganadería, Pesca y Alimentos, será obligatorio para todos los sectores,  estén  o  no asociados a una  determinada  entidad.  Su incumplimiento será pasible  de  las sanciones  impuestas  en  el  Título  X  de  la  Ley  N 25.564."
+              "texto": "Art. 19. - NOTA DE REDACCIÓN: ARTÍCULO DEROGADO POR DEC. 812/2025, ART. 3° (B.O. 18/11/2025)"
             }
           ]
         },
@@ -259,7 +344,7 @@
               }
             },
             "numero-articulo": 20,
-            "texto": "Art. 20. - A los fines del ejercicio de las facultades establecidas en los Incisos a) y d) del Artículo  5  de la Ley N 25.564, el INYM suscribirá acuerdos y/o convenios con los organismos competentes en cada  una  de  las  materias,  a  efectos de establecer  mecanismos conjuntos  de  control  en  materia  tributaria,   sanitaria  y  de producción, evitando la superposición de controles  sobre una misma actividad y procurando el aprovechamiento de los recursos técnicos, materiales  y  humanos  disponibles,  aplicados  a  estas funciones."
+            "texto": "Art. 20. - A los fines del ejercicio de las facultades establecidas en los Incisos a) y d) del Artículo 5 de la Ley N 25.564, el INYM suscribirá acuerdos y/o convenios con los organismos competentes en cada una de las materias, a efectos de establecer mecanismos conjuntos de control en materia tributaria, sanitaria y de producción, evitando la superposición de controles sobre una misma actividad y procurando el aprovechamiento de los recursos técnicos, materiales y humanos disponibles, aplicados a estas funciones."
           }
         },
         {
@@ -274,11 +359,11 @@
                 }
               },
               "numero-articulo": 21,
-              "texto": "Art.  21. - El INYM será dirigido y administrado por un  Directorio integrado  por  DOCE  (12)  miembros cuya duración en el mandato se establece en el Capítulo III del  Título  IV  de  la  Ley N. 25.564.\n\nLos  representantes  del  sector  privado  y  sindical  podrán  ser removidos de su cargo antes del vencimiento de su mandato  a pedido fundado  de  las entidades que los propusieron, o por el Directorio de conformidad  a  las causales que determine el Reglamento Interno."
+              "texto": "Art. 21. - El INYM será dirigido y administrado por un Directorio integrado por DOCE (12) miembros cuya duración en el mandato se establece en el Capítulo III del Título IV de la Ley N. 25.564.\n\nLos representantes del sector privado y sindical podrán ser removidos de su cargo antes del vencimiento de su mandato a pedido fundado de las entidades que los propusieron, o por el Directorio de conformidad a las causales que determine el Reglamento Interno."
             },
             {
               "numero-articulo": 22,
-              "texto": "Art. 22. - La Presidencia del Directorio la ejercerá el miembro que lo integre en representación  del  PODER  EJECUTIVO NACIONAL, quien designará  UN  (1)  suplente  entre  los  restantes   miembros  del Directorio,  que  lo  reemplazará  en el cargo en caso de  ausencia transitoria o vacancia temporaria.\n\nEl Presidente tendrá doble voto en caso de empate."
+              "texto": "Art. 22. - La Presidencia del Directorio la ejercerá el miembro que lo integre en representación del PODER EJECUTIVO NACIONAL, quien designará UN (1) suplente entre los restantes miembros del Directorio, que lo reemplazará en el cargo en caso de ausencia transitoria o vacancia temporaria.\n\nEl Presidente tendrá doble voto en caso de empate."
             },
             {
               "referencias-normativas": {
@@ -289,15 +374,15 @@
                 }
               },
               "numero-articulo": 23,
-              "texto": "Art. 23. - A los fines de la constitución del primer Directorio del INYM, la Autoridad de Aplicación, a  través del MINISTERIO DEL AGRO Y LA PRODUCCION de la Provincia de MISIONES  y  del  MINISTERIO  DE PRODUCCION,  TRABAJO  Y  TURISMO  de  la  Provincia  de CORRIENTES, convocará a las entidades indicadas en los Incisos d), e), f), g) y h)  del Artículo 6 de la Ley N 25.564, para la designación  de  los representantes que integrarán el Directorio.\n\nLa convocatoria  se  realizará  a  la totalidad de las asociaciones legalmente constituidas, inscriptas  en  los  registros  que  a tal efecto se abran en los citados ministerios."
+              "texto": "Art. 23. - A los fines de la constitución del primer Directorio del INYM, la Autoridad de Aplicación, a través del MINISTERIO DEL AGRO Y LA PRODUCCION de la Provincia de MISIONES y del MINISTERIO DE PRODUCCION, TRABAJO Y TURISMO de la Provincia de CORRIENTES, convocará a las entidades indicadas en los Incisos d), e), f), g) y h) del Artículo 6 de la Ley N 25.564, para la designación de los representantes que integrarán el Directorio.\n\nLa convocatoria se realizará a la totalidad de las asociaciones legalmente constituidas, inscriptas en los registros que a tal efecto se abran en los citados ministerios."
             },
             {
               "numero-articulo": 24,
-              "texto": "Art.  24. - Para ser Director se requiere:\n\na) Ser argentino, nativo o naturalizado y mayor de edad.\n\nb) No tener  pendiente  proceso  criminal o correccional por delito doloso, no haber sido condenado por  igual  delito a pena privativa de  la  libertad o de inhabilitación, ni ser fallido  o  concursado.\n\nc) No haber  sido  exonerado  o dejado cesante de la Administración Pública  Nacional,  Provincial o  Municipal,  salvo  rehabilitación.\n\nd) Los representantes  del  sector  privado  y  sindical  no podrán ejercer cargos públicos electivos o por designación."
+              "texto": "Art. 24. - Para ser Director se requiere:\n\na) Ser argentino, nativo o naturalizado y mayor de edad.\n\nb) No tener pendiente proceso criminal o correccional por delito doloso, no haber sido condenado por igual delito a pena privativa de la libertad o de inhabilitación, ni ser fallido o concursado.\n\nc) No haber sido exonerado o dejado cesante de la Administración Pública Nacional, Provincial o Municipal, salvo rehabilitación.\n\nd) Los representantes del sector privado y sindical no podrán ejercer cargos públicos electivos o por designación."
             },
             {
               "numero-articulo": 25,
-              "texto": "Art.  25.  - El cargo de Director será de carácter ad honorem,  sin derecho a ningún  tipo  de  retribución  a cargo del INYM, salvo el pago  de  viáticos  debidamente documentados,  los  que  no  podrán superar  el  menor de los  montos  fijados  en  tal  concepto  para funcionarios de organismos autárquicos nacionales."
+              "texto": "Art. 25. - El cargo de Director será de carácter ad honorem, sin derecho a ningún tipo de retribución a cargo del INYM, salvo el pago de viáticos debidamente documentados, los que no podrán superar el menor de los montos fijados en tal concepto para funcionarios de organismos autárquicos nacionales."
             }
           ]
         },
@@ -313,19 +398,19 @@
                 }
               },
               "numero-articulo": 26,
-              "texto": "Art. 26. - El  INYM contará con UN (1) Síndico y UN (1) Auditor que tendrán los deberes  y atribuciones establecidos en el Artículo 294 y concordantes de la Ley  N  19.550  y  en  las normas de auditoría aceptadas  y  aprobadas  por  la Federación Argentina  de  Consejos Profesionales de Ciencias Económicas."
+              "texto": "Art. 26. - El INYM contará con UN (1) Síndico y UN (1) Auditor que tendrán los deberes y atribuciones establecidos en el Artículo 294 y concordantes de la Ley N 19.550 y en las normas de auditoría aceptadas y aprobadas por la Federación Argentina de Consejos Profesionales de Ciencias Económicas."
             },
             {
               "numero-articulo": 27,
-              "texto": "Art. 27. - El Síndico y el Auditor  deberán  ser abogado o contador público nacional, matriculados, con una antigüedad no menor a CINCO (5) años en el ejercicio profesional."
+              "texto": "Art. 27. - El Síndico y el Auditor deberán ser abogado o contador público nacional, matriculados, con una antigüedad no menor a CINCO (5) años en el ejercicio profesional."
             },
             {
               "numero-articulo": 28,
-              "texto": "Art. 28. - Son deberes y atribuciones del Auditor, entre otros, los siguientes:\n\na)  Examinar  los libros y la documentación  del  INYM siempre que lo creyera conveniente.\n\nb)  Verificar cuando lo estime  necesario  las  disponibilidades  y títulos valores, así como también las obligaciones y su cumplimiento,  pudiendo  solicitar  al  Directorio  que se realicen balances de comprobación.\n\nc) Solicitar que se le suministre en tiempo y en forma los balances trimestrales   y  el  balance  anual  histórico  y  reexpresado.\n\nd) Solicitar toda otra documentación necesaria para cumplir  con su cometido,  en  un  todo  de  acuerdo  con  las  Normas de Auditoría aprobadas por la Federación Argentina de Consejos  Profesionales en Ciencias Económicas.\n\ne) Solicitar se admita su presencia en las reuniones  de Directorio cuando  estime  conveniente  efectuar  informe  personal  al  mismo.\n\nf) Suministrar al señor Secretario de Agricultura, Ganadería, Pesca y  Alimentos,  y/u  otra  autoridad  nacional  competente y/o a los Ministros del área de las Provincias de MISIONES  Y  CORRIENTES, la información que se le requiera en aquellos temas de su  competencia.\n\ng) Recabar informes sobre los asuntos judiciales en trámite  en los que  sea parte el INYM y el correspondiente asesoramiento legal  en aquellos  asuntos  en  que  considere necesario contar con dictamen jurídico.\n\nh) Deberá poner en conocimiento  inmediato  al  señor Secretario de Agricultura,  Ganadería,  Pesca  y  Alimentos  y  de  los   señores Ministros del área de las Provincias de MISIONES y CORRIENTES, toda irregularidad  que  verifique  en  el ejercicio de sus funciones  y comprometan  la actuación del Directorio,  así  como  todo  acto  u omisión cometido  por  el  mismo  o  sus  integrantes  que implique violación  a  las  leyes  vigentes  y/o  al  Estatuto  Interno  del Instituto.\n\ni) Practicar la Auditoría sobre los libros, registros y documentación  del  INYM,  en  un todo de acuerdo con las normas de Auditoría aceptadas y aprobadas  por  la  Federación  Argentina  de Consejos  Profesionales  en  Ciencias  Económicas,  que  le permita emitir un dictamen, en el que deberá incluir el alcance de la tarea y  su  opinión  con  respecto  a  la  razonabilidad de la situación patrimonial,  financiera  y  los  resultados  presentados  por  los Estados Contables verificados.\n\nj) Elevar al Directorio un informe trimestral exhaustivo, emitiendo opinión sobre el resultado de la auditoría  parcial  practicada del período  correspondiente,  asentando  dicho  informe  en  el  libro especial previsto  en  el  Artículo  29  del  presente  decreto.\n\nk)  Practicar  la  auditoría  del  Balance  General  del Ejercicio, emitiendo dictamen de profesional competente con firma  certificada por el Consejo Profesional de Ciencias Económicas.\n\nl)  Practicar  las  auditorías especiales que le solicite el  señor Secretario    de  Agricultura,  Ganadería,  Pesca  y  Alimentos."
+              "texto": "Art. 28. - Son deberes y atribuciones del Auditor, entre otros, los siguientes:\n\na) Examinar los libros y la documentación del INYM siempre que lo creyera conveniente.\n\nb) Verificar cuando lo estime necesario las disponibilidades y títulos valores, así como también las obligaciones y su cumplimiento, pudiendo solicitar al Directorio que se realicen balances de comprobación.\n\nc) Solicitar que se le suministre en tiempo y en forma los balances trimestrales y el balance anual histórico y reexpresado.\n\nd) Solicitar toda otra documentación necesaria para cumplir con su cometido, en un todo de acuerdo con las Normas de Auditoría aprobadas por la Federación Argentina de Consejos Profesionales en Ciencias Económicas.\n\ne) Solicitar se admita su presencia en las reuniones de Directorio cuando estime conveniente efectuar informe personal al mismo.\n\nf) Suministrar al señor Secretario de Agricultura, Ganadería, Pesca y Alimentos, y/u otra autoridad nacional competente y/o a los Ministros del área de las Provincias de MISIONES Y CORRIENTES, la información que se le requiera en aquellos temas de su competencia.\n\ng) Recabar informes sobre los asuntos judiciales en trámite en los que sea parte el INYM y el correspondiente asesoramiento legal en aquellos asuntos en que considere necesario contar con dictamen jurídico.\n\nh) Deberá poner en conocimiento inmediato al señor Secretario de Agricultura, Ganadería, Pesca y Alimentos y de los señores Ministros del área de las Provincias de MISIONES y CORRIENTES, toda irregularidad que verifique en el ejercicio de sus funciones y comprometan la actuación del Directorio, así como todo acto u omisión cometido por el mismo o sus integrantes que implique violación a las leyes vigentes y/o al Estatuto Interno del Instituto.\n\ni) Practicar la Auditoría sobre los libros, registros y documentación del INYM, en un todo de acuerdo con las normas de Auditoría aceptadas y aprobadas por la Federación Argentina de Consejos Profesionales en Ciencias Económicas, que le permita emitir un dictamen, en el que deberá incluir el alcance de la tarea y su opinión con respecto a la razonabilidad de la situación patrimonial, financiera y los resultados presentados por los Estados Contables verificados.\n\nj) Elevar al Directorio un informe trimestral exhaustivo, emitiendo opinión sobre el resultado de la auditoría parcial practicada del período correspondiente, asentando dicho informe en el libro especial previsto en el Artículo 29 del presente decreto.\n\nk) Practicar la auditoría del Balance General del Ejercicio, emitiendo dictamen de profesional competente con firma certificada por el Consejo Profesional de Ciencias Económicas.\n\nl) Practicar las auditorías especiales que le solicite el señor Secretario de Agricultura, Ganadería, Pesca y Alimentos."
             },
             {
               "numero-articulo": 29,
-              "texto": "Art.  29. - El Auditor  realizará  un  informe  trimestral que  se asentará  en un libro especial que se llevará al efecto, elevándose copias a la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION y a los respectivos Ministerios del área en las Provincias de MISIONES y CORRIENTES."
+              "texto": "Art. 29. - El Auditor realizará un informe trimestral que se asentará en un libro especial que se llevará al efecto, elevándose copias a la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION y a los respectivos Ministerios del área en las Provincias de MISIONES y CORRIENTES."
             }
           ]
         },
@@ -334,7 +419,7 @@
           "articulo": [
             {
               "numero-articulo": 30,
-              "texto": "Art.  30. -  El  Directorio  del  INYM  acordará  el  mecanismo  de recaudación de la Tasa de Inspección y Fiscalización que establezca la  SECRETARIA   DE  AGRICULTURA,  GANADERIA,  PESCA  Y  ALIMENTOS, pudiendo  suscribir    para   ello,  los  convenios  que  considere necesarios."
+              "texto": "Art. 30. - El Directorio del INYM acordará el mecanismo de recaudación de la Tasa de Inspección y Fiscalización que establezca la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS, pudiendo suscribir para ello, los convenios que considere necesarios."
             },
             {
               "referencias-normativas": {
@@ -345,7 +430,7 @@
                 }
               },
               "numero-articulo": 31,
-              "texto": "Art.  31.  -  La  SECRETARIA  DE AGRICULTURA,  GANADERIA,  PESCA  Y ALIMENTOS,  revisará  semestralmente    el  valor  de  la  Tasa  de Inspección  y Fiscalización, teniendo en cuenta  la  variación  del precio promedio de venta al consumidor de la yerba mate determinado semestralmente  de conformidad al Artículo 4, Inciso r) de la Ley N 25.564.\n\nDicho precio promedio  será  el  valor de referencia en caso que la tasa se fijara en un porcentaje del  precio  promedio  de  venta al consumidor."
+              "texto": "Art. 31. - La SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS, revisará semestralmente el valor de la Tasa de Inspección y Fiscalización, teniendo en cuenta la variación del precio promedio de venta al consumidor de la yerba mate determinado semestralmente de conformidad al Artículo 4, Inciso r) de la Ley N 25.564.\n\nDicho precio promedio será el valor de referencia en caso que la tasa se fijara en un porcentaje del precio promedio de venta al consumidor."
             }
           ]
         },
@@ -368,7 +453,7 @@
                 ]
               },
               "numero-articulo": 32,
-              "texto": "Art. 32. - Para el cumplimiento de los objetivos establecidos en la Ley  N  25.564, el Directorio del INYM, elaborará el presupuesto  y distribución  de  los  recursos  recaudados  en concepto de Tasa de Inspección y Fiscalización y de cualquier otro  aporte que perciba, teniendo   en  cuenta  las  siguientes  asignaciones:\n\na)    Gastos Administrativos, no pudiendo éstos superar el CINCO POR CIENTO (5%) de los gastos totales aprobados en el Presupuesto.\n\nb) Programas  para  la  difusión,  investigación y desarrollo de la actividad yerbatera.\n\nc) Programas de Reconversión Tecnológica.\n\nPodrá incluirse en este rubro, el reintegro  de  los  gastos que le demande al sector industrial la implementación, por primera y única vez, de la tecnología necesaria para el estampillado que  prescribe el Artículo 21 de la Ley N 25.564.\n\nd)  Gastos  Operativos  para  las  tareas  de  inspección, control, análisis  de  laboratorio,  monitoreo  del  mercado  y  control  de estampillado.\n\ne) Implementación y operación de un Centro de Transacción  de Yerba Mate."
+              "texto": "Art. 32. - Para el cumplimiento de los objetivos establecidos en la Ley N 25.564, el Directorio del INYM, elaborará el presupuesto y distribución de los recursos recaudados en concepto de Tasa de Inspección y Fiscalización y de cualquier otro aporte que perciba, teniendo en cuenta las siguientes asignaciones:\n\na) Gastos Administrativos, no pudiendo éstos superar el CINCO POR CIENTO (5%) de los gastos totales aprobados en el Presupuesto.\n\nb) Programas para la difusión, investigación y desarrollo de la actividad yerbatera.\n\nc) Programas de Reconversión Tecnológica.\n\nPodrá incluirse en este rubro, el reintegro de los gastos que le demande al sector industrial la implementación, por primera y única vez, de la tecnología necesaria para el estampillado que prescribe el Artículo 21 de la Ley N 25.564.\n\nd) Gastos Operativos para las tareas de inspección, control, análisis de laboratorio, monitoreo del mercado y control de estampillado.\n\ne) Implementación y operación de un Centro de Transacción de Yerba Mate."
             },
             {
               "referencias-normativas": {
@@ -379,15 +464,15 @@
                 }
               },
               "numero-articulo": 33,
-              "texto": "Art. 33. - El presupuesto mencionado en el artículo precedente será remitido  para su aprobación por parte del PODER EJECUTIVO NACIONAL en los términos  establecidos  para  las  instituciones  del Sector Público Nacional definidas en el inciso c) del artículo 8 de la Ley N 24.156."
+              "texto": "Art. 33. - El presupuesto mencionado en el artículo precedente será remitido para su aprobación por parte del PODER EJECUTIVO NACIONAL en los términos establecidos para las instituciones del Sector Público Nacional definidas en el inciso c) del artículo 8 de la Ley N 24.156"
             },
             {
               "numero-articulo": 34,
-              "texto": "Art.  34.  -  En  caso  que  existiera remanente presupuestario  no utilizado luego de cerrado el  ejercicio  anual, el mismo integrará automáticamente  el presupuesto del año siguiente.  Este  excedente será considerado intangible  para  todo  fin no relacionado con los objetivos del INYM."
+              "texto": "Art. 34. - En caso que existiera remanente presupuestario no utilizado luego de cerrado el ejercicio anual, el mismo integrará automáticamente el presupuesto del año siguiente. Este excedente será considerado intangible para todo fin no relacionado con los objetivos del INYM."
             },
             {
               "numero-articulo": 35,
-              "texto": "Art. 35. - La memoria, balance general y estado  de  resultados que se  confeccionen anualmente, deberán ser remitidos a la  SECRETARIA DE AGRICULTURA,  GANADERIA,  PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION, y a los Ministerios  competentes  de  las Provincias de MISIONES  y  CORRIENTES en un plazo no mayor de TREINTA  (30)  días corridos de aprobados por el Directorio."
+              "texto": "Art. 35. - La memoria, balance general y estado de resultados que se confeccionen anualmente, deberán ser remitidos a la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS del MINISTERIO DE LA PRODUCCION, y a los Ministerios competentes de las Provincias de MISIONES y CORRIENTES en un plazo no mayor de TREINTA (30) días corridos de aprobados por el Directorio."
             }
           ]
         },
@@ -411,15 +496,15 @@
               },
               "numero-articulo": 36,
               "informacion-vinculada": 1E+19,
-              "texto": "Art. 36. - El incumplimiento de las obligaciones establecidas en la Ley N 25.564, el presente decreto reglamentario y/o las disposiciones  que en su consecuencia se dicten por la Autoridad de Aplicación y/o por  el  INYM,  dará  lugar  a  la aplicación de las sanciones previstas  en  el  Artículo  28  de  la  Ley N 25.564."
+              "texto": "Art. 36. - El incumplimiento de las obligaciones establecidas en la Ley N 25.564, el presente decreto reglamentario y/o las disposiciones que en su consecuencia se dicten por la Autoridad de Aplicación y/o por el INYM, dará lugar a la aplicación de las sanciones previstas en el Artículo 28 de la Ley N 25.564"
             },
             {
               "numero-articulo": 37,
-              "texto": "Art. 37. - La aplicación de sanciones se hará previa  sustanciación del  correspondiente  proceso  sumarial  por  el INYM, conforme  al siguiente  procedimiento,  en  el que se asegurará  el  derecho  de defensa:\n\na) Detectada la infracción  o  recibida la denuncia de una presunta infracción, se dará traslado al  interesado para que en el término de  DIEZ  (10)  días  hábiles administrativos  efectúe  su defensa y  agregue  todas  las pruebas  de  que  intente  valerse, acompañando la documental que obre en su poder. La notificación, en la  que  se  transcribirán los fundamentos  de  la  imputación,  se remitirá al domicilio  que  figure  en el o los registros del INYM.\n\nPresentado el descargo y ofrecidas las  pruebas,  se  dispondrá  la producción  de  aquellas  que  fueren conducentes para la decisión, rechazándose    las  que  fueren  manifiestamente    improcedentes, superfluas o meramente  dilatorias.  El plazo para la producción de las pruebas será de DIEZ (10) días hábiles  administrativos, el que podrá ser ampliado si correspondiere.\n\nb) La providencia que ordene o rechace la producción  de  prueba se notificará al interesado.\n\nc)  Sustanciadas las pruebas, se clausurará el período de prueba  y desde esa fecha correrá el plazo de DIEZ (10) hábiles administrativos  para  que  el imputado, si lo creyere conveniente, alegue sobre la prueba producida.\n\nd) Sin más trámite, se dictará  el pertinente acto que resuelva las actuaciones."
+              "texto": "Art. 37. - La aplicación de sanciones se hará previa sustanciación del correspondiente proceso sumarial por el INYM, conforme al siguiente procedimiento, en el que se asegurará el derecho de defensa:\n\na) Detectada la infracción o recibida la denuncia de una presunta infracción, se dará traslado al interesado para que en el término de DIEZ (10) días hábiles administrativos efectúe su defensa y agregue todas las pruebas de que intente valerse, acompañando la documental que obre en su poder. La notificación, en la que se transcribirán los fundamentos de la imputación, se remitirá al domicilio que figure en el o los registros del INYM.\n\nPresentado el descargo y ofrecidas las pruebas, se dispondrá la producción de aquellas que fueren conducentes para la decisión, rechazándose las que fueren manifiestamente improcedentes, superfluas o meramente dilatorias. El plazo para la producción de las pruebas será de DIEZ (10) días hábiles administrativos, el que podrá ser ampliado si correspondiere.\n\nb) La providencia que ordene o rechace la producción de prueba se notificará al interesado.\n\nc) Sustanciadas las pruebas, se clausurará el período de prueba y desde esa fecha correrá el plazo de DIEZ (10) hábiles administrativos para que el imputado, si lo creyere conveniente, alegue sobre la prueba producida.\n\nd) Sin más trámite, se dictará el pertinente acto que resuelva las actuaciones."
             },
             {
               "numero-articulo": 38,
-              "texto": "Art. 38. - Las sanciones impuestas  serán  apelables  dentro de los DIEZ (10) días hábiles judiciales de notificadas, por ante el fuero Contencioso Administrativo Federal con jurisdicción en  la sede del INYM, previo depósito del importe correspondiente si se tratase  de multas  o  de  la  aceptación  de la garantía ofrecida, en su caso, debiendo el recurso ser fundado en el mismo acto de su interposición."
+              "texto": "Art. 38. - Las sanciones impuestas serán apelables dentro de los DIEZ (10) días hábiles judiciales de notificadas, por ante el fuero Contencioso Administrativo Federal con jurisdicción en la sede del INYM, previo depósito del importe correspondiente si se tratase de multas o de la aceptación de la garantía ofrecida, en su caso, debiendo el recurso ser fundado en el mismo acto de su interposición."
             },
             {
               "numero-articulo": 39,
@@ -427,7 +512,7 @@
             },
             {
               "numero-articulo": 40,
-              "texto": "Art.  40.  - Comuníquese, publíquese, dése a la Dirección  Nacional del Registro Oficial y archívese."
+              "texto": "Art. 40. - Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
             }
           ],
           "firmantes": {
@@ -435,7 +520,8 @@
           }
         }
       ],
-      "id-infojus": "DN20022001240"
+      "id-infojus": "DN20022001240",
+      "fecha-umod": 20251118082024
     }
   }
 }
