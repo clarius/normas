@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-491-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1742216468007,
+      "timestamp": 1763556850024,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,7 +16,7 @@
     },
     "content": {
       "mecanografico": 20250000194,
-      "estado": "Vigente, de alcance general",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,12 +43,19 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-03-17",
-      "fecha-mod": "2025-03-17",
-      "timestamp": "2025-03-17T09:33:37",
-      "timestamp-alta": "2025-03-17T09:33:37",
-      "timestamp-m": "2025-03-17T09:33:37",
+      "fecha-alta": "2025-11-19",
+      "fecha-mod": "2025-11-19",
+      "timestamp": "2025-11-19T09:47:24",
+      "timestamp-alta": "2025-11-19T09:47:24",
+      "timestamp-m": "2025-11-19T09:47:24",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000821 2025 11 18 0001 000 0000 000"
+          }
+        },
         "sintesis": "Se transfieren las plataformas CINE.AR, CINE.AR PLAY y CINE.AR ESTRENOS a Contenidos Artísticos e Informativos Sociedad Anónima Unipersonal de la Presidencia de la Nación",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 5.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 4.\n\nFECHA DE ENTRADA EN VIGENCIA: 17/3/2025"
       },
@@ -59,11 +66,12 @@
               "termino": "cine argentino"
             },
             "preferido": {
-              "termino": "Cultura y educación/cultura/arte/cinematografía/películas/películas nacionales"
+              "termino": "Cultura y educación/cultura/arte/artes visuales/cinematografía/películas/películas nacionales"
             },
             "sinonimos": {
               "termino": [
                 "cine argentino",
+                "largometrajes",
                 "obras cinematográficas",
                 "Educación y Cultura",
                 "industria cinematográfica",
@@ -77,7 +85,7 @@
               "termino": "cinematografía"
             },
             "preferido": {
-              "termino": "Cultura y educación/cultura/arte/cinematografía"
+              "termino": "Cultura y educación/cultura/arte/artes visuales/cinematografía"
             },
             "sinonimos": {
               "termino": [
@@ -129,9 +137,11 @@
         ],
         "suggest": {
           "termino": [
+            "artes visuales",
             "Cultura y educación",
             "obras cinematográficas (películas)",
             "obras audiovisuales (películas)",
+            "largometrajes (películas)",
             "INCAA (INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES)",
             "arte",
             "INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES",
@@ -233,7 +243,7 @@
         "firmantes": "MILEI-Francos"
       },
       "id-infojus": "DN20250000194",
-      "fecha-umod": 20250317100108
+      "fecha-umod": 20251119095410
     }
   }
 }
