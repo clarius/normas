@@ -1,0 +1,222 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Document not found with ID '123456789-0abc-582-0000-7102soterced. (Parameter 'id')
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 237
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-582-0000-7102soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Vigente, de alcance general
+  Date: 2017-04-21
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-582-0000-7102soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 285-nacional-aprobacion-modelo-contrato-prestamo-banco-internacional-reconstruccion-fomento-destinado-al-financiamiento-adicional-para-proyecto-transporte-urbano-para-areas-metropolitanas-dn20170000285-2017-04-21
+      content:
+        mecanografico: 20170000285
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        numero-norma: 285
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        fecha: 2017-04-21
+        standard-normativo: DEC C 000285 2017 04 21
+        titulo-norma: Aprobación del Modelo de Contrato de Préstamo con el Banco Internacional de Reconstrucción y Fomento destinado al "Financiamiento Adicional para el Proyecto de Transporte Urbano para Áreas Metropolitanas"
+        nombre-coloquial: DECRETO NACIONAL 285/2017
+        estado: Vigente, de alcance general
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: contrato de préstamo
+            preferido:
+              termino: Economía y finanzas/sistema financiero/préstamo internacional/contratos de préstamo garantizados
+            sinonimos:
+              termino:
+              - Hacienda y Finanzas
+              - préstamos garantizados
+              - convenio de préstamo
+              - derecho económico financiero
+              - contrato de préstamo
+              - préstamo bancario internacional
+              - derecho financiero
+          - elegido:
+              termino: Transporte
+            preferido:
+              termino: Transporte
+          - elegido:
+              termino: Banco Internacional de Reconstrucción y Fomento
+            preferido:
+              termino: Derecho internacional/derecho internacional público/organismos internacionales/Naciones Unidas/organismos especializados de las Naciones Unidas/Banco Mundial/Banco Internacional de Reconstrucción y Fomento
+            sinonimos:
+              termino:
+              - Grupo del Banco Mundial
+              - organizaciones internacionales
+              - Organización de las Naciones Unidas
+              - ONU
+              - BIRF
+              - entidades internacionales
+          suggest:
+            termino:
+            - Derecho internacional
+            - préstamo bancario internacional (préstamo internacional)
+            - derecho financiero (Economía y finanzas)
+            - préstamos garantizados (contratos de préstamo garantizados)
+            - Naciones Unidas
+            - ONU (Naciones Unidas)
+            - contrato de préstamo (contratos de préstamo garantizados)
+            - Transporte
+            - derecho económico financiero (Economía y finanzas)
+            - Organización de las Naciones Unidas (Naciones Unidas)
+            - organismos especializados de las Naciones Unidas
+            - Banco Mundial
+            - organizaciones internacionales (organismos internacionales)
+            - sistema financiero
+            - Banco Internacional de Reconstrucción y Fomento
+            - organismos internacionales
+            - entidades internacionales (organismos internacionales)
+            - contratos de préstamo garantizados
+            - Grupo del Banco Mundial (Banco Mundial)
+            - Hacienda y Finanzas (Economía y finanzas)
+            - derecho internacional público
+            - BIRF (Banco Internacional de Reconstrucción y Fomento)
+            - convenio de préstamo (contratos de préstamo garantizados)
+            - préstamo internacional
+            - Economía y finanzas
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-582-0000-7102soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "285-nacional-aprobacion-modelo-contrato-prestamo-banco-internacional-reconstruccion-fomento-destinado-al-financiamiento-adicional-para-proyecto-transporte-urbano-para-areas-metropolitanas-dn20170000285-2017-04-21"
+          }
+        },
+        "content": {
+          "mecanografico": 20170000285,
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "numero-norma": 285,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "fecha": "2017-04-21",
+          "standard-normativo": "DEC C 000285 2017 04 21",
+          "titulo-norma": "Aprobación del Modelo de Contrato de Préstamo con el Banco Internacional de Reconstrucción y Fomento destinado al \"Financiamiento Adicional para el Proyecto de Transporte Urbano para Áreas Metropolitanas\"",
+          "nombre-coloquial": "DECRETO NACIONAL 285/2017",
+          "estado": "Vigente, de alcance general",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "contrato de préstamo"
+                },
+                "preferido": {
+                  "termino": "Economía y finanzas/sistema financiero/préstamo internacional/contratos de préstamo garantizados"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "Hacienda y Finanzas",
+                    "préstamos garantizados",
+                    "convenio de préstamo",
+                    "derecho económico financiero",
+                    "contrato de préstamo",
+                    "préstamo bancario internacional",
+                    "derecho financiero"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Transporte"
+                },
+                "preferido": {
+                  "termino": "Transporte"
+                },
+                "sinonimos": null
+              },
+              {
+                "elegido": {
+                  "termino": "Banco Internacional de Reconstrucción y Fomento"
+                },
+                "preferido": {
+                  "termino": "Derecho internacional/derecho internacional público/organismos internacionales/Naciones Unidas/organismos especializados de las Naciones Unidas/Banco Mundial/Banco Internacional de Reconstrucción y Fomento"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "Grupo del Banco Mundial",
+                    "organizaciones internacionales",
+                    "Organización de las Naciones Unidas",
+                    "ONU",
+                    "BIRF",
+                    "entidades internacionales"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "Derecho internacional",
+                "préstamo bancario internacional (préstamo internacional)",
+                "derecho financiero (Economía y finanzas)",
+                "préstamos garantizados (contratos de préstamo garantizados)",
+                "Naciones Unidas",
+                "ONU (Naciones Unidas)",
+                "contrato de préstamo (contratos de préstamo garantizados)",
+                "Transporte",
+                "derecho económico financiero (Economía y finanzas)",
+                "Organización de las Naciones Unidas (Naciones Unidas)",
+                "organismos especializados de las Naciones Unidas",
+                "Banco Mundial",
+                "organizaciones internacionales (organismos internacionales)",
+                "sistema financiero",
+                "Banco Internacional de Reconstrucción y Fomento",
+                "organismos internacionales",
+                "entidades internacionales (organismos internacionales)",
+                "contratos de préstamo garantizados",
+                "Grupo del Banco Mundial (Banco Mundial)",
+                "Hacienda y Finanzas (Economía y finanzas)",
+                "derecho internacional público",
+                "BIRF (Banco Internacional de Reconstrucción y Fomento)",
+                "convenio de préstamo (contratos de préstamo garantizados)",
+                "préstamo internacional",
+                "Economía y finanzas"
+              ]
+            }
+          }
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-582-0000-7102soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2017-04-21",
+      "status": "Vigente, de alcance general",
+      "timestamp": null
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
