@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-624-0000-8991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1410989132871,
+      "timestamp": 1766077098990,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,59 +16,82 @@
     },
     "content": {
       "mecanografico": 19980000426,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 426,
+      "fecha": "1998-04-16",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 426,
-      "timestamp-m": "2012-04-19T15:09:04",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "1998-04-16",
       "standard-normativo": "DEC C 000426 1998 04 16",
       "titulo-norma": "CREACION DE LA COMISION NACIONAL DE ETICA BIOMEDICA.",
+      "nombre-coloquial": "DECRETO NACIONAL 426/1998",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1998 04 21"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 426/1998",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1998-04-27",
-      "fecha-mod": "2012-04-19",
-      "uid-alta": "SAUID",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2025-12-18",
+      "fecha-mod": "2025-12-18",
+      "timestamp": "2025-12-18T13:04:31",
+      "timestamp-alta": "2025-12-18T13:04:31",
+      "timestamp-m": "2025-12-18T13:04:31",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 18/12/2025)",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000893 2025 12 17 0009 000 0000 000"
+          }
+        },
         "sintesis": "SE CREA, EN EL AMBITO DEL MINISTERIO DE SALUD Y ACCION SOCIAL, LA COMISION NACIONAL DE ETICA BIOMEDICA. SE ESTABLECEN SUS FUNCIONES E INTEGRACION."
       },
       "descriptores": {
-        "descriptor": {
-          "elegido": {
-            "termino": "Ministerio de Salud y Acción Social"
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "Ministerio de Salud y Acción Social"
+            },
+            "preferido": {
+              "termino": "MINISTERIO DE SALUD"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Salud Pública y Medio Ambiente",
+                "Ministerio de Salud y Ambiente",
+                "Ministerio de Salud y Acción Social"
+              ]
+            }
           },
-          "preferido": {
-            "termino": "Ministerio de Salud"
-          },
-          "sinonimos": {
-            "termino": [
-              "Ministerio de Salud Pública y Medio Ambiente",
-              "Ministerio de Salud y Ambiente",
-              "Ministerio de Salud y Acción Social"
-            ]
+          {
+            "elegido": {
+              "termino": "Comisión Nacional de Ética Biomédica"
+            },
+            "preferido": {
+              "termino": "Comisión Nacional de Ética Biomédica"
+            },
+            "sinonimos": null
           }
-        },
+        ],
         "suggest": {
           "termino": [
-            "Ministerio de Salud y Acción Social (Ministerio de Salud)",
-            "Ministerio de Salud",
-            "Ministerio de Salud y Ambiente (Ministerio de Salud)",
-            "Ministerio de Salud Pública y Medio Ambiente (Ministerio de Salud)"
+            "Ministerio de Salud y Ambiente (MINISTERIO DE SALUD)",
+            "MINISTERIO DE SALUD",
+            "Ministerio de Salud y Acción Social (MINISTERIO DE SALUD)",
+            "Comisión Nacional de Ética Biomédica",
+            "Ministerio de Salud Pública y Medio Ambiente (MINISTERIO DE SALUD)"
           ]
         }
       },
@@ -76,37 +99,37 @@
         "texto": "el expediente N. 1-2002-4113/97-9 del registro del MINISTERIO DE SALUD Y ACCION SOCIAL, y"
       },
       "considerando": {
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que el avance  tecnológico  en  las  ciencias  biológicas y médicas ocasiona por sus características en algunos casos problemas éticos, morales  y  legales,  en  relación  con  la  práctica médica  y  el ejercicio profesional.\n\nQue muchos de estos problemas están vinculados  con  las  pautas y valores culturales de la sociedad y con las nociones sobre la vida, la salud y la muerte.\n\nQue  algunos procedimientos generan controversias en la forma  de pensar y de actuar en el campo de la salud.\n\nQue, asimismo,  en  la  práctica  diaria  se  pueden  presentar en determinadas circunstancias problemas éticos y morales relacionados con  el proceso de toma de decisiones en materia de salud,  con  la asignación  de  recursos  y  la  interpretación  operativa  de  los conceptos  de  equidad,  solidaridad,  eficacia  y  calidad  de los servicios.\n\nQue en tal sentido la Bioética configura un nuevo campo multidisciplinario,  con  la  profundidad  que  el tema merece, que contribuye a analizar los eventuales problemas éticos y valorativos que plantean a la sociedad y a los sistemas de servicios  de  salud dichos  avances  y  los  continuos  cambios  de  la atención médica.\n\nQue  la  Bioética  representa,  además,  un  movimiento  cultural universal de gran interés para la mayoría de los grupos académicos, universitarios, científicos y religiosos.\n\nQue  existen antecedentes internacionales y nacionales  sobre  el tema.\n\nQue en  tal  sentido  resulta  de  sumo  interés  contar  con  el asesoramiento de entidades académicas, universitarias y científicas,  además  de  personalidades, profesionales y expertos;\n\nasí como de organismos oficiales y organizaciones no gubernamentales dedicados al tema.\n\nQue desde el año 1992 funciona  en el MINISTERIO DE SALUD Y ACCION SOCIAL  una  comisión  cuyo  objetivo  es  el  de  asesorar  a  las autoridades sanitarias sobre temas  específicos en materia de ética médica  y  bioética,  la  cual  será reemplazada  por  la  COMISION NACIONAL DE ETICA BIOMEDICA que se crea por el presente.\n\nQue la DIRECCION GENERAL DE ASUNTOS  JURIDICOS  del  MINISTERIO DE SALUD  Y  ACCION SOCIAL ha tomado la intervención de su competencia.\n\nQue la presente  medida  se  dicta de conformidad con lo dispuesto por  el  artículo  99,  inciso  1)  de   la  CONSTITUCION  NACIONAL.\n\nPor ello,"
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que el avance tecnológico en las ciencias biológicas y médicas ocasiona por sus características en algunos casos problemas éticos, morales y legales, en relación con la práctica médica y el ejercicio profesional.\n\nQue muchos de estos problemas están vinculados con las pautas y valores culturales de la sociedad y con las nociones sobre la vida, la salud y la muerte.\n\nQue algunos procedimientos generan controversias en la forma de pensar y de actuar en el campo de la salud.\n\nQue, asimismo, en la práctica diaria se pueden presentar en determinadas circunstancias problemas éticos y morales relacionados con el proceso de toma de decisiones en materia de salud, con la asignación de recursos y la interpretación operativa de los conceptos de equidad, solidaridad, eficacia y calidad de los servicios.\n\nQue en tal sentido la Bioética configura un nuevo campo multidisciplinario, con la profundidad que el tema merece, que contribuye a analizar los eventuales problemas éticos y valorativos que plantean a la sociedad y a los sistemas de servicios de salud dichos avances y los continuos cambios de la atención médica.\n\nQue la Bioética representa, además, un movimiento cultural universal de gran interés para la mayoría de los grupos académicos, universitarios, científicos y religiosos.\n\nQue existen antecedentes internacionales y nacionales sobre el tema.\n\nQue en tal sentido resulta de sumo interés contar con el asesoramiento de entidades académicas, universitarias y científicas, además de personalidades, profesionales y expertos;\n\nasí como de organismos oficiales y organizaciones no gubernamentales dedicados al tema.\n\nQue desde el año 1992 funciona en el MINISTERIO DE SALUD Y ACCION SOCIAL una comisión cuyo objetivo es el de asesorar a las autoridades sanitarias sobre temas específicos en materia de ética médica y bioética, la cual será reemplazada por la COMISION NACIONAL DE ETICA BIOMEDICA que se crea por el presente.\n\nQue la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE SALUD Y ACCION SOCIAL ha tomado la intervención de su competencia.\n\nQue la presente medida se dicta de conformidad con lo dispuesto por el artículo 99, inciso 1) de la CONSTITUCION NACIONAL.\n\nPor ello,"
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "Art. 1: Créase en el ámbito del MINISTERIO  DE  SALUD Y ACCION SOCIAL  la  COMISION  NACIONAL DE ETICA BIOMEDICA, cuyos  objetivos serán:\n\na) Asesorar a través de  la  Autoridad  Sanitaria Nacional al PODER EJECUTIVO NACIONAL y a los Organismos Oficiales  que  lo  soliciten sobre temas específicos de Etica Médica y Bioética.\n\nb)  Asesorar  con el fin de asegurar y garantizar el derecho  a  la salud y la plena vigencia de la dignidad de la persona humana en la investigación biomédica,  en  la calidad de la atención médica y en la humanización de la medicina en general, así como en la equidad y solidaridad de los sistemas de salud, y en los aspectos antropológicos, morales, deontológicos  y  éticos que eventualmente puede  generar  el avance científico y la incorporación  de  nuevas tecnologías médicas.\n\nc) Fomentar la enseñanza de la Etica Biomédica.\n\nd) Promover que en  todas las instituciones de salud se organicen y funcionen Comités de Etica Biomédica.\n\ne) Promover la investigación y estudio de temas relacionados con la Etica Biomédica.\n\nf)  Participar  en  actividades   académicas,  la  investigación  y docencia vinculadas a los objetivos de la Comisión.\n\ng)  Efectuar  la difusión  de  los  objetivos  de  la  Comisión.\n\nh) Recabar la información y la documentación  que fueren necesarias para el logro de sus propósitos.\n\ni) Promover centros de información y documentación con el objeto de sistematizar y difundir los conocimientos científicos y tecnológicos vinculados a la Etica Biomédica.\n\nj)  Promover  la formación, especialización y perfeccionamiento  de los recursos humanos  en  las diversas disciplinas relacionadas con la Etica Biomédica."
+          "texto": "Art. 1: Créase en el ámbito del MINISTERIO DE SALUD Y ACCION SOCIAL la COMISION NACIONAL DE ETICA BIOMEDICA, cuyos objetivos serán:\n\na) Asesorar a través de la Autoridad Sanitaria Nacional al PODER EJECUTIVO NACIONAL y a los Organismos Oficiales que lo soliciten sobre temas específicos de Etica Médica y Bioética.\n\nb) Asesorar con el fin de asegurar y garantizar el derecho a la salud y la plena vigencia de la dignidad de la persona humana en la investigación biomédica, en la calidad de la atención médica y en la humanización de la medicina en general, así como en la equidad y solidaridad de los sistemas de salud, y en los aspectos antropológicos, morales, deontológicos y éticos que eventualmente puede generar el avance científico y la incorporación de nuevas tecnologías médicas.\n\nc) Fomentar la enseñanza de la Etica Biomédica.\n\nd) Promover que en todas las instituciones de salud se organicen y funcionen Comités de Etica Biomédica.\n\ne) Promover la investigación y estudio de temas relacionados con la Etica Biomédica.\n\nf) Participar en actividades académicas, la investigación y docencia vinculadas a los objetivos de la Comisión.\n\ng) Efectuar la difusión de los objetivos de la Comisión.\n\nh) Recabar la información y la documentación que fueren necesarias para el logro de sus propósitos.\n\ni) Promover centros de información y documentación con el objeto de sistematizar y difundir los conocimientos científicos y tecnológicos vinculados a la Etica Biomédica.\n\nj) Promover la formación, especialización y perfeccionamiento de los recursos humanos en las diversas disciplinas relacionadas con la Etica Biomédica."
         },
         {
           "numero-articulo": 2,
-          "texto": "Art. 2: La COMISION NACIONAL DE ETICA BIOMEDICA será presidida por el Ministro de Salud y Acción  Social,  actuando  como  Coordinador General   el  Subsecretario  de  Política  de  Salud  y  Relaciones Internacionales."
+          "texto": "Art. 2: La COMISION NACIONAL DE ETICA BIOMEDICA será presidida por el Ministro de Salud y Acción Social, actuando como Coordinador General el Subsecretario de Política de Salud y Relaciones Internacionales."
         },
         {
           "numero-articulo": 3,
-          "texto": "Art. 3: La  aludida  Comisión  estará integrada por UN (1) miembro titular  y  UNO  (1) alterno en representación  del  MINISTERIO  DE JUSTICIA; UN (1) miembro titular y UNO (1) alterno en representación  de  la  SECRETARIA  DE  CIENCIA  Y  TECNOLOGIA  del MINISTERIO DE CULTURA  Y  EDUCACION y TRES (3) miembros titulares y TRES (3) alternos en representación  de  las confesiones religiosas oficialmente reconocidas, a propuesta de la SECRETARIA DE CULTO del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO."
+          "texto": "Art. 3: La aludida Comisión estará integrada por UN (1) miembro titular y UNO (1) alterno en representación del MINISTERIO DE JUSTICIA; UN (1) miembro titular y UNO (1) alterno en representación de la SECRETARIA DE CIENCIA Y TECNOLOGIA del MINISTERIO DE CULTURA Y EDUCACION y TRES (3) miembros titulares y TRES (3) alternos en representación de las confesiones religiosas oficialmente reconocidas, a propuesta de la SECRETARIA DE CULTO del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO."
         },
         {
           "numero-articulo": 4,
-          "texto": "Art. 4: El Presidente de la Comisión determinará el funcionamiento de la misma y designará UN (1) Secretario titular y UNO (1) alterno y  a DOS (2) funcionarios en representación  de  cada  una  de  las Secretarías del MINISTERIO DE SALUD Y ACCION SOCIAL."
+          "texto": "Art. 4: El Presidente de la Comisión determinará el funcionamiento de la misma y designará UN (1) Secretario titular y UNO (1) alterno y a DOS (2) funcionarios en representación de cada una de las Secretarías del MINISTERIO DE SALUD Y ACCION SOCIAL."
         },
         {
           "numero-articulo": 5,
-          "texto": "Art.  5: Invítase  a  designar  un  Representante titular y otro alterno para integrar dicha Comisión a la  HONORABLE  CORTE SUPREMA DE JUSTICIA, a la HONORABLE CAMARA DE SENADORES DE LA NACION,  a la HONORABLE  CAMARA  DE  DIPUTADOS  DE  LA  NACION,  a la CONFERENCIA EPISCOPAL ARGENTINA, a la ACADEMIA NACIONAL DE CIENCIAS  MORALES  Y POLITICAS, a la ACADEMIA NACIONAL DE DERECHO Y CIENCIAS SOCIALES DE BUENOS AIRES, a la ACADEMIA NACIONAL DE MEDICINA DE BUENOS AIRES, a la  ASOCIACION MEDICA ARGENTINA (AMA), a la CONFEDERACION MEDICA DE LA REPUBLICA  ARGENTINA  (COMRA)  y a la CONFEDERACION DE ENTIDADES MEDICAS COLEGIADAS (CONFEMECO)."
+          "texto": "Art. 5: Invítase a designar un Representante titular y otro alterno para integrar dicha Comisión a la HONORABLE CORTE SUPREMA DE JUSTICIA, a la HONORABLE CAMARA DE SENADORES DE LA NACION, a la HONORABLE CAMARA DE DIPUTADOS DE LA NACION, a la CONFERENCIA EPISCOPAL ARGENTINA, a la ACADEMIA NACIONAL DE CIENCIAS MORALES Y POLITICAS, a la ACADEMIA NACIONAL DE DERECHO Y CIENCIAS SOCIALES DE BUENOS AIRES, a la ACADEMIA NACIONAL DE MEDICINA DE BUENOS AIRES, a la ASOCIACION MEDICA ARGENTINA (AMA), a la CONFEDERACION MEDICA DE LA REPUBLICA ARGENTINA (COMRA) y a la CONFEDERACION DE ENTIDADES MEDICAS COLEGIADAS (CONFEMECO)."
         },
         {
           "numero-articulo": 6,
-          "texto": "Art. 6: Invítase a la ASOCIACION DE  FACULTADES  DE MEDICINA DE LA REPUBLICA  ARGENTINA  (AFACIMERA),  a  proponer  TRES (3)  miembros titulares  y TRES (3) alternos en representación de  las  áreas  de bioética,  deontología  y  medicina  legal  de  las  Facultades  de Medicina públicas o privadas del país."
+          "texto": "Art. 6: Invítase a la ASOCIACION DE FACULTADES DE MEDICINA DE LA REPUBLICA ARGENTINA (AFACIMERA), a proponer TRES (3) miembros titulares y TRES (3) alternos en representación de las áreas de bioética, deontología y medicina legal de las Facultades de Medicina públicas o privadas del país."
         },
         {
           "numero-articulo": 7,
-          "texto": "Art. 7: Autorízase  al Presidente de la COMISION NACIONAL DE ETICA BIOMEDICA a invitar a  participar  de  las  reuniones de la misma a entidades académicas, científicas, de profesionales, de colaboradores de la medicina, de prestadores  de  atención médica y profesionales  de  las  áreas  de Ciencias de la Salud,  Filosofía, Sociología y Antropología, de reconocida  experiencia  en  el tema, cuando lo estime conveniente."
+          "texto": "Art. 7: Autorízase al Presidente de la COMISION NACIONAL DE ETICA BIOMEDICA a invitar a participar de las reuniones de la misma a entidades académicas, científicas, de profesionales, de colaboradores de la medicina, de prestadores de atención médica y profesionales de las áreas de Ciencias de la Salud, Filosofía, Sociología y Antropología, de reconocida experiencia en el tema, cuando lo estime conveniente."
         },
         {
           "numero-articulo": 8,
@@ -114,17 +137,18 @@
         },
         {
           "numero-articulo": 9,
-          "texto": "Art.  9: El MINISTERIO DE SALUD Y ACCION SOCIAL brindará el  apoyo necesario  para  el funcionamiento de la COMISION NACIONAL DE ETICA BIOMEDICA."
+          "texto": "Art. 9: El MINISTERIO DE SALUD Y ACCION SOCIAL brindará el apoyo necesario para el funcionamiento de la COMISION NACIONAL DE ETICA BIOMEDICA."
         },
         {
           "numero-articulo": 10,
-          "texto": "Art. 10: Comuníquese,  publíquese,  dése  a la Dirección Nacional del Registro Oficial y archívese."
+          "texto": "Art. 10: Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
         }
       ],
       "firmantes": {
         "firmantes": "MENEM-RODRIGUEZ-MAZZA-GRANILLO OCAMPO"
       },
-      "id-infojus": "DN19980000426"
+      "id-infojus": "DN19980000426",
+      "fecha-umod": 20251218135818
     }
   }
 }
