@@ -1,9 +1,9 @@
 {
   "document": {
     "metadata": {
-      "uuid": "123456789-0abc-828-0000-5202soterced",
+      "uuid": "123456789-0abc-739-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1767017801401,
+      "timestamp": 1767366035565,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -11,49 +11,63 @@
       "document-recovery-strategy": "abstract-legislacion",
       "friendly-url": {
         "subdomain": "decreto",
-        "description": "828-nacional-renuncia-al-cargo-vocal-cmara-federal-seguridad-social-dn20250000828-2025-11-20"
+        "description": "937-nacional-renuncia-al-cargo-secretario-culto-civilizacion-dn20250000937-2025-12-31"
       }
     },
     "content": {
-      "mecanografico": 20250000828,
+      "mecanografico": 20250000937,
       "estado": "Individual, Solo Modificatoria o Sin Eficacia",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
       },
-      "numero-norma": 828,
-      "fecha": "2025-11-20",
+      "numero-norma": 937,
+      "fecha": "2025-12-31",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "standard-normativo": "DEC C 000828 2025 11 20",
-      "titulo-norma": "Renuncia al cargo de Vocal de Càmara Federal de la Seguridad Social",
-      "nombre-coloquial": "DECRETO NACIONAL 828/2025",
+      "standard-normativo": "DEC C 000937 2025 12 31",
+      "titulo-norma": "Renuncia al cargo de Secretario de Culto y Civilización",
+      "nombre-coloquial": "DECRETO NACIONAL 937/2025",
       "lugar-emision": "CAPITAL FEDERAL",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
-          "fecha": "2025 11 25"
+          "fecha": "2026 01 02"
         }
       },
       "analista": "Romani, Graciela",
       "responsable": "Romani, Graciela",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-12-29",
-      "fecha-mod": "2025-12-29",
-      "timestamp": "2025-12-29T09:36:12",
-      "timestamp-alta": "2025-12-29T09:36:12",
-      "timestamp-m": "2025-12-29T09:36:12",
+      "fecha-alta": "2026-01-02",
+      "fecha-mod": "2026-01-02",
+      "timestamp": "2026-01-02T11:21:06",
+      "timestamp-alta": "2026-01-02T11:21:06",
+      "timestamp-m": "2026-01-02T11:21:06",
       "generalidades": {
         "sintesis": "Se acepta la renuncia al cargo presentada",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA:2"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
       },
       "descriptores": {
         "descriptor": [
+          {
+            "elegido": {
+              "termino": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto"
+            },
+            "preferido": {
+              "termino": "MINISTERIO DE RELACIONES EXTERIORES"
+            },
+            "sinonimos": {
+              "termino": [
+                "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+                "Ministerio de Relaciones Exteriores y Culto"
+              ]
+            }
+          },
           {
             "elegido": {
               "termino": "renuncia al cargo"
@@ -74,24 +88,6 @@
                 "renuncia del trabajador"
               ]
             }
-          },
-          {
-            "elegido": {
-              "termino": "vocalías"
-            },
-            "preferido": {
-              "termino": "Derecho procesal/organización de la justicia/tribunal colegiado/vocal del Tribunal"
-            },
-            "sinonimos": {
-              "termino": [
-                "tribunal de justicia",
-                "organización del Poder Judicial",
-                "vocal",
-                "organización judicial",
-                "vocalías",
-                "tribunal pluripersonal"
-              ]
-            }
           }
         ],
         "suggest": {
@@ -99,33 +95,23 @@
             "distracto laboral (extinción del contrato de trabajo)",
             "distracto (extinción del contrato de trabajo)",
             "renuncia al empleo",
-            "organización judicial (organización de la justicia)",
-            "tribunal de justicia (tribunal colegiado)",
-            "tribunal pluripersonal (tribunal colegiado)",
-            "tribunal colegiado",
+            "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (MINISTERIO DE RELACIONES EXTERIORES)",
+            "MINISTERIO DE RELACIONES EXTERIORES",
             "dimisión (renuncia al empleo)",
             "contrato laboral (contrato de trabajo)",
-            "vocal del Tribunal",
             "derecho del trabajo (Derecho laboral)",
             "contrato de trabajo",
-            "organización del Poder Judicial (organización de la justicia)",
             "renuncia al cargo (renuncia al empleo)",
             "renuncia del empleado (renuncia al empleo)",
-            "Derecho procesal",
             "Derecho laboral",
-            "vocal (vocal del Tribunal)",
-            "vocalías (vocal del Tribunal)",
             "renuncia del trabajador (renuncia al empleo)",
-            "organización de la justicia",
             "extinción del contrato de trabajo",
-            "renuncia al trabajo (renuncia al empleo)"
+            "renuncia al trabajo (renuncia al empleo)",
+            "Ministerio de Relaciones Exteriores y Culto (MINISTERIO DE RELACIONES EXTERIORES)"
           ]
         }
       },
       "visto": {
-        "texto": "el Expediente Nº EX-2025-124926194-APN-DGDYD#MJ, y"
-      },
-      "considerando": {
         "referencias-normativas": {
           "referencia-normativa": {
             "cr": null,
@@ -133,24 +119,27 @@
             "ref": "CON C 000000 1994 08 22 0000 000 0000 000"
           }
         },
-        "sancion": "El Presidente de la Naci¾n Argentina decreta:",
-        "texto": "Que la doctora Adriana Claudia CAMMARATA ha presentado su renuncia, a partir del 16 de diciembre de 2025, al cargo de VOCAL DE LA CÁMARA FEDERAL DE LA SEGURIDAD SOCIAL, SALA I.\n\nQue el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 4 de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
+        "texto": "el artículo 99, inciso 7 de la CONSTITUCIÓN NACIONAL"
+      },
+      "considerando": {
+        "sancion": "El Presidente de la Nación Argentina decreta:",
+        "texto": "y"
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- Acéptase, a partir del 16 de diciembre de 2025, la renuncia presentada por la doctora Adriana Claudia CAMMARATA (D.N.I. N° 14.223.441) al cargo de VOCAL DE LA CÁMARA FEDERAL DE LA SEGURIDAD SOCIAL, SALA I."
+          "texto": "ARTÍCULO 1°.- Acéptase, a partir del 2 de diciembre de 2025, la renuncia del señor Nahuel SOTELO LARCHER (D.N.I. N° 38.417.753) al cargo de Secretario de Culto y Civilización del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO."
         },
         {
           "numero-articulo": 2,
-          "texto": "ARTÍCULO 2°.- Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
+          "texto": "ARTÍCULO 2º.- Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
         }
       ],
       "firmantes": {
-        "firmantes": "MILEI-Cúneo Libarona"
+        "firmantes": "MILEI-Magrane"
       },
-      "id-infojus": "DN20250000828",
-      "fecha-umod": 20251229111641
+      "id-infojus": "DN20250000937",
+      "fecha-umod": 20260102120035
     }
   }
 }
