@@ -1,9 +1,9 @@
 {
   "document": {
     "metadata": {
-      "uuid": "123456789-0abc-577-0000-5202soterced",
+      "uuid": "123456789-0abc-029-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1767017816697,
+      "timestamp": 1767027876535,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -11,32 +11,32 @@
       "document-recovery-strategy": "abstract-legislacion",
       "friendly-url": {
         "subdomain": "decreto",
-        "description": "775-nacional-renuncia-al-cargo-juez-nacional-primera-instancia-trabajo-dn20250000775-2025-10-28"
+        "description": "920-nacional-renuncia-al-cargo-fiscal-nacional-civil-comercial-dn20250000920-2025-12-26"
       }
     },
     "content": {
-      "mecanografico": 20250000775,
+      "mecanografico": 20250000920,
       "estado": "Individual, Solo Modificatoria o Sin Eficacia",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
       },
-      "numero-norma": 775,
-      "fecha": "2025-10-28",
+      "numero-norma": 920,
+      "fecha": "2025-12-26",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "standard-normativo": "DEC C 000775 2025 10 28",
-      "titulo-norma": "Renuncia al cargo de Juez Nacional de Primera Instancia del Trabajo",
-      "nombre-coloquial": "DECRETO NACIONAL 775/2025",
+      "standard-normativo": "DEC C 000920 2025 12 26",
+      "titulo-norma": "Renuncia al cargo de Fiscal Nacional en lo Civil y Comercial",
+      "nombre-coloquial": "DECRETO NACIONAL 920/2025",
       "lugar-emision": "CAPITAL FEDERAL",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
-          "fecha": "2025 10 29"
+          "fecha": "2025 12 29"
         }
       },
       "analista": "Romani, Graciela",
@@ -45,15 +45,30 @@
       "uid-mod": "ABM",
       "fecha-alta": "2025-12-29",
       "fecha-mod": "2025-12-29",
-      "timestamp": "2025-12-29T09:36:12",
-      "timestamp-alta": "2025-12-29T09:36:12",
-      "timestamp-m": "2025-12-29T09:36:12",
+      "timestamp": "2025-12-29T11:33:56",
+      "timestamp-alta": "2025-12-29T11:33:56",
+      "timestamp-m": "2025-12-29T11:33:56",
       "generalidades": {
-        "sintesis": "Se aceota la renuncia al cargo presentada",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA:2"
+        "sintesis": "Se acepta la renuncia al cargo presentada",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
       },
       "descriptores": {
         "descriptor": [
+          {
+            "elegido": {
+              "termino": "fiscales"
+            },
+            "preferido": {
+              "termino": "Derecho procesal/organización de la justicia/Ministerio Público/Ministerio Público Fiscal/fiscales"
+            },
+            "sinonimos": {
+              "termino": [
+                "organización del Poder Judicial",
+                "ministerio fiscal",
+                "organización judicial"
+              ]
+            }
+          },
           {
             "elegido": {
               "termino": "renuncia al cargo"
@@ -74,60 +89,36 @@
                 "renuncia del trabajador"
               ]
             }
-          },
-          {
-            "elegido": {
-              "termino": "juez"
-            },
-            "preferido": {
-              "termino": "Derecho procesal/organización de la justicia/funcionarios judiciales/jueces"
-            },
-            "sinonimos": {
-              "termino": [
-                "empleados del Poder Judicial",
-                "organización del Poder Judicial",
-                "magistrados judiciales",
-                "empleados judiciales",
-                "organización judicial",
-                "personal judicial",
-                "juez",
-                "magistrados"
-              ]
-            }
           }
         ],
         "suggest": {
           "termino": [
             "distracto laboral (extinción del contrato de trabajo)",
+            "fiscales",
             "distracto (extinción del contrato de trabajo)",
-            "jueces",
+            "renuncia al empleo",
             "organización judicial (organización de la justicia)",
-            "magistrados (jueces)",
-            "empleados del Poder Judicial (funcionarios judiciales)",
             "contrato laboral (contrato de trabajo)",
+            "dimisión (renuncia al empleo)",
+            "contrato de trabajo",
+            "derecho del trabajo (Derecho laboral)",
             "organización del Poder Judicial (organización de la justicia)",
             "renuncia al cargo (renuncia al empleo)",
             "renuncia del empleado (renuncia al empleo)",
+            "Ministerio Público Fiscal",
             "Derecho procesal",
-            "juez (jueces)",
-            "personal judicial (funcionarios judiciales)",
-            "renuncia al empleo",
-            "dimisión (renuncia al empleo)",
-            "empleados judiciales (funcionarios judiciales)",
-            "contrato de trabajo",
-            "derecho del trabajo (Derecho laboral)",
-            "magistrados judiciales (jueces)",
-            "funcionarios judiciales",
             "Derecho laboral",
             "renuncia del trabajador (renuncia al empleo)",
-            "renuncia al trabajo (renuncia al empleo)",
+            "ministerio fiscal (Ministerio Público Fiscal)",
+            "Ministerio Público",
             "extinción del contrato de trabajo",
+            "renuncia al trabajo (renuncia al empleo)",
             "organización de la justicia"
           ]
         }
       },
       "visto": {
-        "texto": "el Expediente Nº EX-2025-113461572-APN-DGDYD#MJ, y"
+        "texto": "el Expediente Nº EX-2025-135009997-APN-DGDYD#MJ, y"
       },
       "considerando": {
         "referencias-normativas": {
@@ -137,24 +128,23 @@
             "ref": "CON C 000000 1994 08 22 0000 000 0000 000"
           }
         },
-        "sancion": "El Presidente de la Nación Argentina decreta:",
-        "texto": "Que la doctora Ana Alejandra BARILARO ha presentado su renuncia, a partir del 1º de diciembre de 2025, al cargo de JUEZA DEL JUZGADO NACIONAL DE PRIMERA INSTANCIA DEL TRABAJO N° 20 DE LA CAPITAL FEDERAL.\n\nQue el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 4 de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
+        "texto": "Que la doctora Mónica Susana MAURI ha presentado su renuncia, a partir del 1° de enero de 2026, al cargo de FISCAL ANTE LOS JUZGADOS NACIONALES DE PRIMERA INSTANCIA EN LO CIVIL Y COMERCIAL, FISCALÍA N° 1.\n\nQue el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 7 de la CONSTITUCIÓN NACIONAL.\n\nPor ello,"
       },
       "articulo": [
         {
           "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- Acéptase, a partir del 1º de diciembre de 2025, la renuncia presentada por la doctora Ana Alejandra BARILARO (D.N.I. N° 12.010.013) al cargo de JUEZA DEL JUZGADO NACIONAL DE PRIMERA INSTANCIA DEL TRABAJO N° 20 DE LA CAPITAL FEDERAL."
+          "texto": "ARTÍCULO 1º.- Acéptase, a partir del 1° de enero de 2026, la renuncia presentada por la doctora Mónica Susana MAURI (D.N.I. N° 12.093.314) al cargo de FISCAL ANTE LOS JUZGADOS NACIONALES DE PRIMERA INSTANCIA EN LO CIVIL Y COMERCIAL, FISCALÍA N° 1."
         },
         {
           "numero-articulo": 2,
-          "texto": "ARTÍCULO 2°.- Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
+          "texto": "ARTÍCULO 2º.- Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
         }
       ],
       "firmantes": {
         "firmantes": "MILEI-Cúneo Libarona"
       },
-      "id-infojus": "DN20250000775",
-      "fecha-umod": 20251229111656
+      "id-infojus": "DN20250000920",
+      "fecha-umod": 20251229140436
     }
   }
 }
