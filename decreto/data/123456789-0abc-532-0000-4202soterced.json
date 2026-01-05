@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-532-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1710156327424,
+      "timestamp": 1767631393069,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-03-11",
-      "fecha-mod": "2024-03-11",
-      "timestamp": "2024-03-11T08:18:36",
-      "timestamp-alta": "2024-03-11T08:18:36",
-      "timestamp-m": "2024-03-11T08:18:36",
+      "fecha-alta": "2026-01-05",
+      "fecha-mod": "2026-01-05",
+      "timestamp": "2026-01-05T13:37:08",
+      "timestamp-alta": "2026-01-05T13:37:08",
+      "timestamp-m": "2026-01-05T13:37:08",
       "generalidades": {
         "sintesis": "Se modifica la metodología de fijación de las retribuciones de las Autoridades Superiores de las Jurisdicciones, Entidades y Organismos del Poder Ejecutivo nacional y se establece que no podrán ser establecidas en el marco de la homologación de las Actas Acuerdo que se celebren conforme la negociación colectiva de trabajo para la Administración Pública Nacional, salvo disposición expresa en contrario y se fijarán de forma independiente.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6"
@@ -288,8 +288,15 @@
               }
             ]
           },
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 2/1/2026) ARTICULO DEROGADO. VIGENCIA A PARTIR DE LA FECHA DE SU DICTADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000931 2025 12 31 0004 000 0000 000"
+            }
+          },
           "numero-articulo": 4,
-          "texto": "ARTÍCULO 4°.- Las retribuciones de las Autoridades Superiores de las Jurisdicciones, Entidades y Organismos del PODER EJECUTIVO NACIONAL, incluidas las comprendidas en el Decreto Nº\u00A0838/94 y sus modificatorios, en el régimen del Decreto N°\u00A01716/92 y su normativa complementaria y en el Decreto N°\u00A0140/07, y de los funcionarios con rango y jerarquía equivalente, no podrán ser establecidas en el marco de la homologación de las Actas Acuerdo que se celebren conforme la negociación colectiva de trabajo para la Administración Pública Nacional, salvo disposición expresa en contrario y se fijarán de forma independiente."
+          "texto": "ARTÍCULO 4°.- NOTA DE REDACCION: DEROGADO POR DECRETO 931/25.\n\nLas retribuciones de las Autoridades Superiores de las Jurisdicciones, Entidades y Organismos del PODER EJECUTIVO NACIONAL, incluidas las comprendidas en el Decreto Nº\u00A0838/94 y sus modificatorios, en el régimen del Decreto N°\u00A01716/92 y su normativa complementaria y en el Decreto N°\u00A0140/07, y de los funcionarios con rango y jerarquía equivalente, no podrán ser establecidas en el marco de la homologación de las Actas Acuerdo que se celebren conforme la negociación colectiva de trabajo para la Administración Pública Nacional, salvo disposición expresa en contrario y se fijarán de forma independiente."
         },
         {
           "numero-articulo": 5,
@@ -303,7 +310,8 @@
       "firmantes": {
         "firmantes": "MILEI-Posse"
       },
-      "id-infojus": "DN20240000235"
+      "id-infojus": "DN20240000235",
+      "fecha-umod": 20260105134313
     }
   }
 }
