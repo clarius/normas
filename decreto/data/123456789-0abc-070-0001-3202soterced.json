@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-070-0001-3202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1735215540896,
+      "timestamp": 1767611867058,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-12-26",
-      "fecha-mod": "2024-12-26",
-      "timestamp": "2024-12-26T09:05:12",
-      "timestamp-alta": "2024-12-26T09:05:12",
-      "timestamp-m": "2024-12-26T09:05:12",
+      "fecha-alta": "2026-01-05",
+      "fecha-mod": "2026-01-05",
+      "timestamp": "2026-01-05T08:08:42",
+      "timestamp-alta": "2026-01-05T08:08:42",
+      "timestamp-m": "2026-01-05T08:08:42",
       "generalidades": {
         "sintesis": "Por Decreto de Necesidad y Urgencia se aprueban las Bases para la Reconstrucción de la Economía Argentina",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 366.\n\nOBSERVACION: POR DNU 553/2024 (B.O. 1/7/2024) SE PRORROGA POR 180 DIAS EL PLAZO PREVISTO EN EL ART. 51."
@@ -639,7 +639,14 @@
             {
               "numero-articulo": 1,
               "titulo-articulo": "EMERGENCIA.",
-              "texto": "ARTÍCULO 1°.- Declárase la emergencia pública en materia económica, financiera, fiscal, administrativa, previsional, tarifaria, sanitaria y social hasta el 31 de diciembre de 2025."
+              "texto": "ARTÍCULO 1°.- Declárase la emergencia pública en materia económica, financiera, fiscal, administrativa, previsional, tarifaria, sanitaria y social hasta el 31 de diciembre de 2025.",
+              "observado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 2/01/2026) PRORROGAN HASTA EL 31/12/2026 LA EMERGENCIA SANITARIA NACIONAL ESTABLECIDA EN EL PRESENTE ARTICULO. VIGENCIA EL DIA DE SU DICTADO",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "DNU C 000942 2025 12 31 0001 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 2,
@@ -5173,7 +5180,7 @@
         }
       ],
       "id-infojus": "DN20231000070",
-      "fecha-umod": 20241226091900
+      "fecha-umod": 20260105081747
     }
   }
 }

@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g49-24000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1710765825573,
+      "timestamp": 1767621272436,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -61,11 +61,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-03-18",
-      "fecha-mod": "2024-03-18",
-      "timestamp": "2024-03-18T09:35:58",
-      "timestamp-alta": "2024-03-18T09:35:58",
-      "timestamp-m": "2024-03-18T09:35:58",
+      "fecha-alta": "2026-01-05",
+      "fecha-mod": "2026-01-05",
+      "timestamp": "2026-01-05T10:47:03",
+      "timestamp-alta": "2026-01-05T10:47:03",
+      "timestamp-m": "2026-01-05T10:47:03",
       "sumario": {
         "sumario": "DIRECCION GENERAL IMPOSITIVA:CREACION-FUNCIONES-DOMICILIO FISCAL-DECLARACION JURADA-DEUDAS IMPOSITIVAS-LIQUIDACION DE IMPUESTOS-DETERMINACION DE OFICIO:EFECTOS-VALUACION DEL BIEN-AGENTES DE PERCEPCION-PAGO-LUGAR DE PAGO-ANTICIPOS IMPOSITIVOS-QUEBRANTOS IMPOSITIVOS-COMPENSACION-INTERESES RESARCITORIOS-ACTUALIZACION MONETARIA-SANCIONES TRIBUTARIAS-MULTA-TRIBUTARIO-ARRESTO-CLAUSULA DEL ESTABLECIMIENTO-DEFRAUDACION FISCAL-INTERESES PUNITORIOS-PROCEDIMIENTO TRIBUTARIO-ACCION DE REPETICION -TRIBUNAL FISCAL DE LA NACION-PRESCRIPCION-RECURSO DE RECONSIDERACION-RECURSO DE APELACION-ADMINISTRATIVO -EJECUCION FISCAL-EXCEPCIONES PROCESALES-NOTIFICACION -SECRETO FISCAL-EXENCIONES IMPOSITIVAS-EMBARGO PREVENTIVO-INHIBICION GENERAL DE BIENES"
       },
@@ -85,14 +85,15 @@
               "termino": "Dirección General Impositiva"
             },
             "preferido": {
-              "termino": "Derecho tributario y aduanero/AFIP/AFIP DGI"
+              "termino": "Derecho tributario y aduanero/ARCA/AFIP/AFIP DGI"
             },
             "sinonimos": {
               "termino": [
                 "Administración Federal de Ingresos Públicos",
                 "DGI",
                 "Administración Federal de Ingresos Públicos Dirección General Impositiva",
-                "Dirección General Impositiva"
+                "Dirección General Impositiva",
+                "Agencia de recaudación y control aduanero"
               ]
             }
           },
@@ -569,10 +570,10 @@
             "resoluciones judiciales",
             "régimen penal tributario y de los recursos de la seguridad social (régimen penal tributario)",
             "arresto (detención)",
+            "juicio penal (proceso penal)",
             "responsables por deuda ajena (responsables)",
             "deudas tributarias (deudas impositivas)",
             "deudas de dinero (obligaciones de dar sumas de dinero)",
-            "juicio penal (proceso penal)",
             "gravámenes (tributos)",
             "proceso administrativo (procedimiento administrativo)",
             "repotenciación (actualización monetaria)",
@@ -653,18 +654,20 @@
             "detención",
             "defraudación fiscal",
             "competencia administrativa",
-            "anticipos de impuestos (anticipos impositivos)",
             "juicio criminal (proceso penal)",
+            "anticipos de impuestos (anticipos impositivos)",
             "excepciones de previo y especial pronunciamiento (excepciones procesales)",
             "exenciones de tasas (exenciones impositivas)",
             "agentes de percepción",
             "demanda de repetición (acción de repetición)",
+            "ARCA",
             "exenciones impositivas",
             "procedimiento fiscal (procedimiento tributario)",
             "deuda fiscal (deudas impositivas)",
             "interés bancario (intereses)",
             "excepciones en juicio ejecutivo (excepciones procesales)",
             "procedimiento penal (proceso penal)",
+            "Agencia de recaudación y control aduanero (ARCA)",
             "organismos de percepción (agentes de percepción)",
             "reconsideración (recurso de reconsideración)",
             "ilícitos tributarios (delitos tributarios)",
@@ -1455,18 +1458,25 @@
                   "articulo": [
                     {
                       "numero-articulo": 38,
-                      "texto": "*Artículo 38.- Cuando existiere la obligación de presentar declaraciones juradas, la omisión de hacerlo dentro de los plazos generales que establezca la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, será sancionada, sin necesidad de requerimiento previo, con una multa de DOSCIENTOS PESOS ($ 200), la que se elevará a DOS CUATROCIENTOS ($ 400) si se tratare de sociedades, asociaciones o entidades de cualquier clase constituidas en el país o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior. Las mismas sanciones se aplicarán cuando se omitiere proporcionar los datos a que se refiere el último párrafo del artículo 11.\n\nEl procedimiento de aplicación de esta multa podrá iniciarse, a opción de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, con una notificación emitida por el sistema de computación de datos que reúna los requisitos establecidos en el artículo 71. Si dentro del plazo de QUINCE (15) días a partir de la notificación el infractor pagare voluntariamente la multa y presentare la declaración jurada omitida, los importes señalados en el párrafo primero de este artículo, se reducirán de pleno derecho a la mitad y la infracción no se considerará como un antecedente en su contra. El mismo efecto se producirá si ambos requisitos se cumplimentaren desde el vencimiento general de la obligación hasta los QUINCE (15) días posteriores a la notificación mencionada. En caso de no pagarse la multa o de no presentarse la declaración jurada, deberá sustanciarse el sumario a que se refieren los artículos 70 y siguientes, sirviendo como cabeza del mismo la notificación indicada precedentemente.",
-                      "modificado-por": {
+                      "antecedentes": {
                         "referencia-normativa": {
                           "cr": "(B.O. 17-11-2003) EXPRESION SUSTITUIDA (IMPORTE) EN EL PRIMER PARRAFO",
-                          "id": "MODIFICADO_POR_0",
+                          "id": "ANTECEDENTES_0",
                           "ref": "LEY C 025795 2003 10 29 0002 000 0000 000"
+                        }
+                      },
+                      "texto": "*Artículo 38.- Cuando existiere la obligación de presentar declaraciones juradas, la omisión de hacerlo dentro de los plazos generales que establezca la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, será sancionada, sin necesidad de requerimiento previo, con una multa de pesos doscientos veinte mil ($220.000), la que se elevará a pesos cuatrocientos cuarenta mil ($440.000) si se tratare de sociedades, asociaciones o entidades de cualquier clase constituidas en el país o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior. Las mismas sanciones se aplicarán cuando se omitiere proporcionar los datos a que se refiere el último párrafo del artículo 11.\n\nEl procedimiento de aplicación de esta multa podrá iniciarse, a opción de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, con una notificación emitida por el sistema de computación de datos que reúna los requisitos establecidos en el artículo 71. Si dentro del plazo de QUINCE (15) días a partir de la notificación el infractor pagare voluntariamente la multa y presentare la declaración jurada omitida, los importes señalados en el párrafo primero de este artículo, se reducirán de pleno derecho a la mitad y la infracción no se considerará como un antecedente en su contra. El mismo efecto se producirá si ambos requisitos se cumplimentaren desde el vencimiento general de la obligación hasta los QUINCE (15) días posteriores a la notificación mencionada. En caso de no pagarse la multa o de no presentarse la declaración jurada, deberá sustanciarse el sumario a que se refieren los artículos 70 y siguientes, sirviendo como cabeza del mismo la notificación indicada precedentemente.",
+                      "modificado-por": {
+                        "referencia-normativa": {
+                          "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL PRIMER PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                          "id": "MODIFICADO_POR_0",
+                          "ref": "LEY C 027799 2025 12 26 0015 000 0000 000"
                         }
                       }
                     },
                     {
                       "numero-articulo": "38 002",
-                      "texto": "*Artículo...: La omisión de presentar las declaraciones juradas informativas previstas en los regímenes de información propia del contribuyente o responsable, o de información de terceros, establecidos mediante resolución general de la Administración Federal de Ingresos Públicos, dentro de los plazos establecidos al efecto, será sancionada -sin necesidad de requerimiento previo- con una multa de hasta PESOS CINCO MIL ($ 5.000), la que se elevará hasta PESOS DIEZ MIL ($ 10.000) si se tratare de sociedades, empresas, fideicomisos, asociaciones o entidades de cualquier clase constituidas en el país, o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior.\n\nCuando existiere la obligación de presentar declaración jurada informativa sobre la incidencia en la determinación del impuesto a las ganancias derivada de las operaciones de importación y exportación entre partes independientes, la omisión de hacerlo dentro de los plazos generales que establezca la Administración Federal de Ingresos Públicos, será sancionada, sin necesidad de requerimiento previo, con una multa de PESOS UN MIL QUINIENTOS ($ 1.500), la que se elevará a PESOS NUEVE MIL ($ 9.000) si se tratare de sociedades, empresas, fideicomisos, asociaciones o entidades de cualquier clase constituidas en el país, o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior.\n\nEn los supuestos en que la obligación de presentar declaraciones juradas se refiera al detalle de las transacciones -excepto en el caso de importación y exportación entre partes independientes - celebradas entre personas físicas, empresas o explotaciones unipersonales, sociedades locales, fideicomisos o establecimientos estables ubicados en el país con personas físicas, jurídicas o cualquier otro tipo de entidad domiciliada, constituida o ubicada en el exterior, la omisión de hacerlo dentro de los plazos generales que establezca la Administración Federal de Ingresos Públicos, será sancionada, sin necesidad de requerimiento previo, con una multa de PESOS DIEZ MIL ($ 10.000), la que se elevará a PESOS VEINTE MIL ($ 20.000) si se tratare de sociedades, fideicomisos, asociaciones o entidades de cualquier clase constituidas en el país o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior.\n\nLa aplicación de estas multas, se regirá por el procedimiento previsto en los artículos 70 y siguientes.",
+                      "texto": "*Artículo...: La omisión de presentar las declaraciones juradas informativas previstas en los regímenes de información propia del contribuyente o responsable, o de información de terceros, establecidos mediante resolución general de la Administración Federal de Ingresos Públicos, dentro de los plazos establecidos al efecto, será sancionada -sin necesidad de requerimiento previo- con una multa de hasta pesos cinco millones ($5.000.000) , la que se elevará hasta pesos diez millones ($10.000.000) si se tratare de sociedades, empresas, fideicomisos, asociaciones o entidades de cualquier clase constituidas en el país, o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior.\n\nCuando existiere la obligación de presentar declaración jurada informativa sobre la incidencia en la determinación del impuesto a las ganancias derivada de las operaciones de importación y exportación entre partes independientes, la omisión de hacerlo dentro de los plazos generales que establezca la Administración Federal de Ingresos Públicos, será sancionada, sin necesidad de requerimiento previo, con una multa de pesos un millón quinientos mil ($1.500.000), la que se elevará a pesos diez millones ($10.000.000) si se tratare de sociedades, empresas, fideicomisos, asociaciones o entidades de cualquier clase constituidas en el país, o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior.\n\nEn los supuestos en que la obligación de presentar declaraciones juradas se refiera al detalle de las transacciones -excepto en el caso de importación y exportación entre partes independientes - celebradas entre personas físicas, empresas o explotaciones unipersonales, sociedades locales, fideicomisos o establecimientos estables ubicados en el país con personas físicas, jurídicas o cualquier otro tipo de entidad domiciliada, constituida o ubicada en el exterior, la omisión de hacerlo dentro de los plazos generales que establezca la Administración Federal de Ingresos Públicos, será sancionada, sin necesidad de requerimiento previo, con una multa de pesos once millones ($11.000.000), la que se elevará a pesos veintidós millones ($22.000.000) si se tratare de sociedades, fideicomisos, asociaciones o entidades de cualquier clase constituidas en el país o de establecimientos organizados en forma de empresas estables -de cualquier naturaleza u objeto- pertenecientes a personas de existencia física o ideal domiciliadas, constituidas o radicadas en el exterior.\n\nLa aplicación de estas multas, se regirá por el procedimiento previsto en los artículos 70 y siguientes.",
                       "modificado-por": {
                         "referencia-normativa": [
                           {
@@ -1478,6 +1488,21 @@
                             "cr": "(B.O. 06-07-2005). TEXTO INCORPORADO COMO PRIMER PARRAFO",
                             "id": "MODIFICADO_POR_1",
                             "ref": "LEY C 026044 2005 06 08 0001 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL PRIMER PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_2",
+                            "ref": "LEY C 027799 2025 12 26 0016 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL SEGUNDO PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_3",
+                            "ref": "LEY C 027799 2025 12 26 0017 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL TERCER PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_4",
+                            "ref": "LEY C 027799 2025 12 26 0018 000 0000 000"
                           }
                         ]
                       },
@@ -1498,35 +1523,86 @@
                           "ref": "DNU C 001334 1998 11 11 0004 000 0000 000"
                         }
                       },
-                      "texto": "*Artículo 39.- Serán sancionadas con multas de PESOS CIENTO CINCUENTA ($ 150) a PESOS DOS MIL QUINIENTOS ($ 2.500) las violaciones a las disposiciones de esta ley, de las respectivas leyes tributarias, de los decretos reglamentarios y de toda otra norma de cumplimiento obligatorio, que establezcan o requieran el cumplimiento de deberes formales tendientes a determinar la obligación tributaria, a verificar y fiscalizar el cumplimiento que de ella hagan los responsables.\n\nEn los casos de los incumplimientos que en adelante se indican, la multa prevista en el primer párrafo del presente artículo se graduará entre el menor allí previsto y hasta un máximo de PESOS CUARENTA Y CINCO MIL ($ 45.000):\n\n1. Las infracciones a las normas referidas al domicilio fiscal previstas en el artículo 3º de esta ley, en el decreto reglamentario, o en las normas complementarias que dicte la Administración Federal de Ingresos Públicos con relación al mismo.\n\n2. La resistencia a la fiscalización, por parte del contribuyente o responsable, consistente en el incumplimiento reiterado a los requerimientos de los funcionarios actuantes, sólo en la medida en que los mismos no sean excesivos o desmesurados respecto de la información y la forma exigidas, y siempre que se haya otorgado al contribuyente el plazo previsto por la Ley de Procedimientos Administrativos para su contestación.\n\n3. La omisión de proporcionar datos requeridos por la Administración> Federal de Ingresos Públicos para el control de las operaciones internacionales.\n\n4. La falta de conservación de los comprobantes y elementos justificativos de los precios pactados en operaciones internacionales.\n\nLas multas previstas en este artículo, en su caso, son acumulables con las establecidas en el artículo 38 de la presente ley.\n\nSi existiera resolución condenatoria respecto del incumplimiento a un requerimiento de la Administración Federal de Ingresos Públicos, las sucesivas reiteraciones que se formulen a partir de ese momento y que tuvieren por objeto el mismo deber formal, serán pasibles en su caso de la aplicación de multas independientes, aun cuando las anteriores no hubieran quedado firmes o estuvieran en curso de discusión administrativa o judicial.\n\nEn todos los casos de incumplimiento mencionados en el presente artículo la multa a aplicarse se graduará conforme a la condición del contribuyente y a la gravedad de la infracción.",
+                      "texto": "*Artículo 39.- Serán sancionadas con multas de pesos ciento cincuenta mil ($150.000) a pesos dos millones quinientos mil ($2.500.000) las violaciones a las disposiciones de esta ley, de las respectivas leyes tributarias, de los decretos reglamentarios y de toda otra norma de cumplimiento obligatorio, que establezcan o requieran el cumplimiento de deberes formales tendientes a determinar la obligación tributaria, a verificar y fiscalizar el cumplimiento que de ella hagan los responsables.\n\nEn los casos de los incumplimientos que en adelante se indican, la multa prevista en el primer párrafo del presente artículo se graduará entre el menor allí previsto y hasta un máximo de pesos treinta y cinco millones ($35.000.000) :.\n\n1. Las infracciones a las normas referidas al domicilio fiscal previstas en el artículo 3º de esta ley, en el decreto reglamentario, o en las normas complementarias que dicte la Administración Federal de Ingresos Públicos con relación al mismo.\n\n2. La resistencia a la fiscalización, por parte del contribuyente o responsable, consistente en el incumplimiento reiterado a los requerimientos de los funcionarios actuantes, sólo en la medida en que los mismos no sean excesivos o desmesurados respecto de la información y la forma exigidas, y siempre que se haya otorgado al contribuyente el plazo previsto por la Ley de Procedimientos Administrativos para su contestación.\n\n3. La omisión de proporcionar datos requeridos por la Administración> Federal de Ingresos Públicos para el control de las operaciones internacionales.\n\n4. La falta de conservación de los comprobantes y elementos justificativos de los precios pactados en operaciones internacionales.\n\nLas multas previstas en este artículo, en su caso, son acumulables con las establecidas en el artículo 38 de la presente ley.\n\nSi existiera resolución condenatoria respecto del incumplimiento a un requerimiento de la Administración Federal de Ingresos Públicos, las sucesivas reiteraciones que se formulen a partir de ese momento y que tuvieren por objeto el mismo deber formal, serán pasibles en su caso de la aplicación de multas independientes, aun cuando las anteriores no hubieran quedado firmes o estuvieran en curso de discusión administrativa o judicial.\n\nEn todos los casos de incumplimiento mencionados en el presente artículo la multa a aplicarse se graduará conforme a la condición del contribuyente y a la gravedad de la infracción.",
                       "modificado-por": {
-                        "referencia-normativa": {
-                          "cr": "(B.O. 17-11-2003) ARTICULO SUSTITUIDO",
-                          "id": "MODIFICADO_POR_0",
-                          "ref": "LEY C 025795 2003 10 29 0001 000 0000 000"
-                        }
+                        "referencia-normativa": [
+                          {
+                            "cr": "(B.O. 17-11-2003) ARTICULO SUSTITUIDO",
+                            "id": "MODIFICADO_POR_0",
+                            "ref": "LEY C 025795 2003 10 29 0001 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL PRIMER PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_1",
+                            "ref": "LEY C 027799 2025 12 26 0019 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL SEGUNDO PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_2",
+                            "ref": "LEY C 027799 2025 12 26 0020 000 0000 000"
+                          }
+                        ]
                       }
                     },
                     {
                       "numero-articulo": "39 002",
-                      "texto": "*Artículo...: Será sancionado con multas de PESOS QUINIENTOS ($ 500) a PESOS CUARENTA Y CINCO MIL ($ 45.000) el incumplimiento a los requerimientos dispuestos por la Administración Federal de Ingresos Públicos a presentar las declaraciones juradas informativas -originales o rectificativas- previstas en el artículo agregado a continuación del artículo 38 y las previstas en los regímenes de información propia del contribuyente o responsable, o de información de terceros, establecidos mediante Resolución General de la Administración Federal de Ingresos Públicos.\n\nLas multas previstas en este artículo, en su caso, son acumulables con las del artículo agregado a continuación del artículo 38 de la presente ley, y al igual que aquéllas, deberán atender a la condición del contribuyente y a la gravedad de la infracción.\n\nSi existiera resolución condenatoria respecto del incumplimiento a un requerimiento de la Administración Federal de Ingresos Públicos, las sucesivas reiteraciones que se formulen a partir de ese momento y que tuvieren por objeto el mismo deber formal, serán pasibles en su caso de la aplicación de multas independientes, aun cuando las anteriores no hubieran quedado firmes o estuvieran en curso de discusión administrativa o judicial.\n\nSin perjuicio de lo establecido precedentemente, a los contribuyentes o responsables cuyos ingresos brutos anuales sean iguales o superiores a la suma de PESOS DIEZ MILLONES ($ 10.000.000), que incumplan el tercero de los requerimientos indicados en el primer párrafo, se les aplicará una multa de DOS (2) a DIEZ (10) veces del importe máximo previsto en el citado párrafo, la que se acumulará a las restantes sanciones previstas en el presente artículo.",
+                      "texto": "*Artículo...: Será sancionado con multas de pesos quinientos mil ($500.000) a pesos treinta y cinco millones ($35.000.000) el incumplimiento a los requerimientos dispuestos por la Administración Federal de Ingresos Públicos a presentar las declaraciones juradas informativas -originales o rectificativas- previstas en el artículo agregado a continuación del artículo 38 y las previstas en los regímenes de información propia del contribuyente o responsable, o de información de terceros, establecidos mediante Resolución General de la Administración Federal de Ingresos Públicos.\n\nLas multas previstas en este artículo, en su caso, son acumulables con las del artículo agregado a continuación del artículo 38 de la presente ley, y al igual que aquéllas, deberán atender a la condición del contribuyente y a la gravedad de la infracción.\n\nSi existiera resolución condenatoria respecto del incumplimiento a un requerimiento de la Administración Federal de Ingresos Públicos, las sucesivas reiteraciones que se formulen a partir de ese momento y que tuvieren por objeto el mismo deber formal, serán pasibles en su caso de la aplicación de multas independientes, aun cuando las anteriores no hubieran quedado firmes o estuvieran en curso de discusión administrativa o judicial.\n\nSin perjuicio de lo establecido precedentemente, a los contribuyentes o responsables cuyos ingresos brutos anuales sean iguales o superiores a la suma de pesos diez mil millones ($10.000.000.000) , que incumplan el tercero de los requerimientos indicados en el primer párrafo, se les aplicará una multa de DOS (2) a DIEZ (10) veces del importe máximo previsto en el citado párrafo, la que se acumulará a las restantes sanciones previstas en el presente artículo.",
                       "modificado-por": {
-                        "referencia-normativa": {
-                          "cr": "(B.O. 17-11-2003) ARTICULO INCORPORADO",
-                          "id": "MODIFICADO_POR_0",
-                          "ref": "LEY C 025795 2003 10 29 0001 000 0000 000"
-                        }
+                        "referencia-normativa": [
+                          {
+                            "cr": "(B.O. 17-11-2003) ARTICULO INCORPORADO",
+                            "id": "MODIFICADO_POR_0",
+                            "ref": "LEY C 025795 2003 10 29 0001 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL PRIMER PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_1",
+                            "ref": "LEY C 027799 2025 12 26 0021 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL CUARTO PARRAFO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_2",
+                            "ref": "LEY C 027799 2025 12 26 0022 000 0000 000"
+                          }
+                        ]
                       }
                     },
                     {
                       "numero-articulo": "39 003",
-                      "texto": "ARTÍCULO ...- Serán sancionados:\n\na) Con multa graduable entre ochenta mil pesos ($ 80.000) y doscientos mil pesos ($ 200.000), las siguientes conductas:\n\n(i) Omitir informar en los plazos establecidos al efecto, la pertenencia a uno o más grupos de Entidades Multinacionales, cuyos ingresos anuales consolidados totales de cada grupo sean iguales o superiores a los parámetros que regule la Administración Federal de Ingresos Públicos, a los fines del cumplimiento del régimen; y de informar los datos identificatorios de la última entidad controlante del o los grupos multinacionales a los que pertenece. La omisión de informar la pertenencia a uno o más grupos de Entidades Multinacionales con ingresos inferiores a tales parámetros y los datos de su última entidad controlante será pasible de una multa graduable entre quince mil pesos ($ 15.000) y setenta mil pesos ($ 70.000).\n\n(ii) Omitir informar, en los plazos establecidos al efecto, los datos identificatorios del sujeto informante designado para la presentación del Informe País por País, indicando si éste actúa en calidad de última entidad controlante, entidad sustituta o entidad integrante del o los grupos multinacionales, conforme lo disponga la Administración Federal.\n\n(iii) Omitir informar, en los plazos establecidos al efecto, la presentación del Informe País por País por parte de la entidad informante designada en la jurisdicción fiscal del exterior que corresponda; conforme lo disponga la Administración Federal.\n\nb) Con multa graduable entre seiscientos mil pesos ($ 600.000) y novecientos mil pesos ($ 900.000), la omisión de presentar el Informe País por País, o su presentación extemporánea, parcial, incompleta o con errores o inconsistencias graves.\n\nc) Con multa graduable entre ciento ochenta mil pesos ($ 180.000) y trescientos mil pesos ($ 300.000), el incumplimiento, total o parcial, a los requerimientos hechos por la Administración Federal de Ingresos Públicos, de información complementaria a la declaración jurada informativa del Informe País por País.\n\nd) Con multa de doscientos mil pesos ($ 200.000) el incumplimiento a los requerimientos dispuestos por la Administración Federal de Ingresos Públicos, a cumplimentar los deberes formales referidos en los incisos a) y b).\n\nLa multa prevista en este inciso es acumulable con la de los incisos a) y b).\n\nSi existiera resolución condenatoria respecto del incumplimiento de un requerimiento, las sucesivas reiteraciones que se formulen a continuación y que tuvieren por objeto el mismo deber formal, serán pasibles de multas independientes, aun cuando las anteriores no hubieran quedado firmes o estuvieran en curso de discusión administrativa o judicial.",
+                      "texto": "ARTÍCULO ...- Serán sancionados: .\n\na) Con multa graduable entre pesos seis millones ($6.000.000) y pesos quince millones ($15.000.000), las siguientes conductas:.\n\n(i) Omitir informar en los plazos establecidos al efecto, la pertenencia a uno o más grupos de Entidades Multinacionales, cuyos ingresos anuales consolidados totales de cada grupo sean iguales o superiores a los parámetros que regule la Administración Federal de Ingresos Públicos, a los fines del cumplimiento del régimen; y de informar los datos identificatorios de la última entidad controlante del o los grupos multinacionales a los que pertenece. La omisión de informar la pertenencia a uno o más grupos de Entidades Multinacionales con ingresos inferiores a tales parámetros y los datos de su última entidad controlante será pasible de una multa graduable entre pesos un millón ciento veinticinco mil ($1.125.000) y pesos cinco millones doscientos cincuenta mil ($5.250.000).\n\n(ii) Omitir informar, en los plazos establecidos al efecto, los datos identificatorios del sujeto informante designado para la presentación del Informe País por País, indicando si éste actúa en calidad de última entidad controlante, entidad sustituta o entidad integrante del o los grupos multinacionales, conforme lo disponga la Administración Federal.\n\n(iii) Omitir informar, en los plazos establecidos al efecto, la presentación del Informe País por País por parte de la entidad informante designada en la jurisdicción fiscal del exterior que corresponda; conforme lo disponga la Administración Federal.\n\nb) Con multa graduable entre pesos cuarenta y cinco millones ($45.000.000) y pesos sesenta y siete millones quinientos mil ($67.500.000), la omisión de presentar el Informe País por País, o su presentación extemporánea, parcial, incompleta o con errores o inconsistencias graves.\n\nc) Con multa graduable entre pesos trece millones quinientos mil ($13.500.000) y pesos veintidós millones quinientos mil ($22.500.000), el incumplimiento, total o parcial, a los requerimientos hechos por la Administración Federal de Ingresos Públicos, de información complementaria a la declaración jurada informativa del Informe País por País.\n\nd) Con multa de pesos quince millones ($15.000.000) el incumplimiento a los requerimientos dispuestos por la Administración Federal de Ingresos Públicos, a cumplimentar los deberes formales referidos en los incisos a) y b).\n\nLa multa prevista en este inciso es acumulable con la de los incisos a) y b).\n\nSi existiera resolución condenatoria respecto del incumplimiento de un requerimiento, las sucesivas reiteraciones que se formulen a continuación y que tuvieren por objeto el mismo deber formal, serán pasibles de multas independientes, aun cuando las anteriores no hubieran quedado firmes o estuvieran en curso de discusión administrativa o judicial.",
                       "modificado-por": {
-                        "referencia-normativa": {
-                          "cr": "(B.O. 29-12-2017) ARTICULO INCORPORADO",
-                          "id": "MODIFICADO_POR_0",
-                          "ref": "LEY C 027430 2017 12 27 0192 000 0000 000"
-                        }
+                        "referencia-normativa": [
+                          {
+                            "cr": "(B.O. 29-12-2017) ARTICULO INCORPORADO",
+                            "id": "MODIFICADO_POR_0",
+                            "ref": "LEY C 027430 2017 12 27 0192 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL INCISO A) . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_1",
+                            "ref": "LEY C 027799 2025 12 26 0023 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL APARTADO i) DEL INCISO A) . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_2",
+                            "ref": "LEY C 027799 2025 12 26 0024 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL INCISO B) . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_3",
+                            "ref": "LEY C 027799 2025 12 26 0025 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL INCISO C) . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_4",
+                            "ref": "LEY C 027799 2025 12 26 0026 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL INCISO D) . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_5",
+                            "ref": "LEY C 027799 2025 12 26 0027 000 0000 000"
+                          }
+                        ]
                       }
                     },
                     {
@@ -1555,7 +1631,7 @@
                         }
                       },
                       "informacion-vinculada": 1E+19,
-                      "texto": "*Artículo 40.- Serán sancionados con clausura de dos (2) a seis (6) días del establecimiento, local, oficina, recinto comercial, industrial, agropecuario o de prestación de servicios, o puesto móvil de venta, siempre que el valor de los bienes o servicios de que se trate exceda de diez pesos ($ 10), quienes:\n\na) No emitieren facturas o comprobantes equivalentes por una o más operaciones comerciales, industriales, agropecuarias o de prestación de servicios que realicen en las formas, requisitos y condiciones que establezca la Administración Federal de Ingresos Públicos.\n\nb) No llevaren registraciones o anotaciones de sus adquisiciones de bienes o servicios o de sus ventas, o de las prestaciones de servicios de industrialización, o, si las llevaren, fueren incompletas o defectuosas, incumpliendo con las formas, requisitos y condiciones exigidos por la Administración Federal de Ingresos Públicos.\n\nc) Encarguen o transporten comercialmente mercaderías, aunque no sean de su propiedad, sin el respaldo documental que exige la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS.\n\nd) No se encontraren inscriptos como contribuyentes o responsables ante la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS cuando estuvieren obligados a hacerlo.\n\nEl mínimo y el máximo de las sanciones de multa y clausura se duplicarán cuando se cometa otra infracción de las previstas en este artículo dentro de los DOS (2) años desde que se detectó la anterior.\n\nSin perjuicio de las sanciones de multa y clausura, y cuando sea pertinente, también se podrá aplicar la suspensión en el uso de matrícula, licencia o inscripción registral que las disposiciones exigen para el ejercicio de determinadas actividades, cuando su otorgamiento sea competencia del PODER EJECUTIVO NACIONAL.\n\ne) No poseyeren o no conservaren las facturas o comprobantes equivalentes que acreditaren la adquisición o tenencia de los bienes y/o servicios destinados o necesarios para el desarrollo de la actividad de que se trate.\n\nf) No poseyeren, o no mantuvieren en condiciones de operatividad o no utilizaren los instrumentos de medición y control de la producción dispuestos por leyes, decretos reglamentarios dictados por el Poder Ejecutivo nacional y toda otra norma de cumplimiento obligatorio, tendientes a posibilitar la verificación y fiscalización de los tributos a cargo de la Administración Federal de Ingresos Públicos.\n\ng) En el caso de un establecimiento de al menos diez (10) empleados, tengan cincuenta por ciento (50%) o más del personal relevado sin registrar, aun cuando estuvieran dados de alta como empleadores.\n\nSin perjuicio de las demás sanciones que pudieran corresponder, se aplicará una multa de tres mil ($ 3.000) a cien mil pesos ($ 100.000) a quienes ocuparen trabajadores en relación de dependencia y no los registraren y declararen con las formalidades exigidas por las leyes respectivas. En ese caso resultará aplicable el procedimiento recursivo previsto para supuestos de clausura en el artículo 77 de esta ley.",
+                      "texto": "*Artículo 40.- Serán sancionados con clausura de dos (2) a seis (6) días del establecimiento, local, oficina, recinto comercial, industrial, agropecuario o de prestación de servicios, o puesto móvil de venta, siempre que el valor de los bienes o servicios de que se trate exceda de pesos veinte mil ($20.000), quienes:.\n\na) No emitieren facturas o comprobantes equivalentes por una o más operaciones comerciales, industriales, agropecuarias o de prestación de servicios que realicen en las formas, requisitos y condiciones que establezca la Administración Federal de Ingresos Públicos.\n\nb) No llevaren registraciones o anotaciones de sus adquisiciones de bienes o servicios o de sus ventas, o de las prestaciones de servicios de industrialización, o, si las llevaren, fueren incompletas o defectuosas, incumpliendo con las formas, requisitos y condiciones exigidos por la Administración Federal de Ingresos Públicos.\n\nc) Encarguen o transporten comercialmente mercaderías, aunque no sean de su propiedad, sin el respaldo documental que exige la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS.\n\nd) No se encontraren inscriptos como contribuyentes o responsables ante la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS cuando estuvieren obligados a hacerlo.\n\nEl mínimo y el máximo de las sanciones de multa y clausura se duplicarán cuando se cometa otra infracción de las previstas en este artículo dentro de los DOS (2) años desde que se detectó la anterior.\n\nSin perjuicio de las sanciones de multa y clausura, y cuando sea pertinente, también se podrá aplicar la suspensión en el uso de matrícula, licencia o inscripción registral que las disposiciones exigen para el ejercicio de determinadas actividades, cuando su otorgamiento sea competencia del PODER EJECUTIVO NACIONAL.\n\ne) No poseyeren o no conservaren las facturas o comprobantes equivalentes que acreditaren la adquisición o tenencia de los bienes y/o servicios destinados o necesarios para el desarrollo de la actividad de que se trate.\n\nf) No poseyeren, o no mantuvieren en condiciones de operatividad o no utilizaren los instrumentos de medición y control de la producción dispuestos por leyes, decretos reglamentarios dictados por el Poder Ejecutivo nacional y toda otra norma de cumplimiento obligatorio, tendientes a posibilitar la verificación y fiscalización de los tributos a cargo de la Administración Federal de Ingresos Públicos.\n\ng) En el caso de un establecimiento de al menos diez (10) empleados, tengan cincuenta por ciento (50%) o más del personal relevado sin registrar, aun cuando estuvieran dados de alta como empleadores.\n\nSin perjuicio de las demás sanciones que pudieran corresponder, se aplicará una multa de cien mil pesos ($100.000) a pesos siete millones quinientos mil ($7.500.000) a quienes ocuparen trabajadores en relación de dependencia y no los registraren y declararen con las formalidades exigidas por las leyes respectivas. En ese caso resultará aplicable el procedimiento recursivo previsto para supuestos de clausura en el artículo 77 de esta ley.",
                       "modificado-por": {
                         "referencia-normativa": [
                           {
@@ -1587,6 +1663,16 @@
                             "cr": "(B.O. 29-12-2017) PARRAFO INCORPORADO A CONTINUACION DEL PRIMER PARRAFO",
                             "id": "MODIFICADO_POR_5",
                             "ref": "LEY C 027430 2017 12 27 0196 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL PRIMER PARRAFO. VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_6",
+                            "ref": "LEY C 027799 2025 12 26 0028 000 0000 000"
+                          },
+                          {
+                            "cr": "(B.O. 2-01-2026) EXPRESIONES SUSTITUIDAS (IMPORTES) EN EL SEGUNDO PARRAFO. VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                            "id": "MODIFICADO_POR_7",
+                            "ref": "LEY C 027799 2025 12 26 0029 000 0000 000"
                           }
                         ]
                       }
@@ -1932,24 +2018,44 @@
             },
             {
               "titulo-particion": "CAPITULO VIII DE LA PRESCRIPCION",
-              "articulo": {
-                "numero-articulo": 56,
-                "texto": "*Artículo 56.- Las acciones y poderes del Fisco para determinar y exigir el pago de los impuestos regidos por la presente ley, y para aplicar y hacer efectivas las multas y clausuras en ella previstas, prescriben:\n\na) Por el transcurso de CINCO (5) años en el caso de contribuyentes inscriptos, así como en el caso de contribuyentes no inscriptos que no tengan obligación legal de inscribirse ante la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS o que, teniendo esa obligación y no habiéndola cumplido, regularicen espontáneamente su situación.\n\nb) Por el transcurso de DIEZ (10) años en el caso de contribuyentes no inscriptos.\n\nLa acción de repetición de impuestos prescribe por el transcurso de CINCO (5) años.\n\nc) Por el transcurso de CINCO (5) años, respecto de los créditos fiscales indebidamente acreditados, devueltos o transferidos, a contar desde el 1 de enero del año siguiente a la fecha en que fueron acreditados, devueltos o transferidos.\n\nPrescribirán a los CINCO (5) años las acciones para exigir, el recupero o devolución de impuestos. El término se contará a partir del 1 de enero del año siguiente a la fecha desde la cual sea procedente dicho reintegro.\n\nLa prescripción de las acciones y poderes del Fisco en relación con el cumplimiento de las obligaciones impuestas a los agentes de retención y percepción es de cinco (5) años, contados a partir del 1° de enero siguiente al año en que ellas debieron cumplirse. Igual plazo de cinco (5) años rige para aplicar y hacer efectivas las sanciones respectivas.",
-                "modificado-por": {
-                  "referencia-normativa": [
-                    {
-                      "cr": "(B.O. 17-11-2003) ULTIMO PARRAFO INCORPORADO",
+              "articulo": [
+                {
+                  "numero-articulo": 56,
+                  "antecedentes": {
+                    "referencia-normativa": [
+                      {
+                        "cr": "(B.O. 17-11-2003) ULTIMO PARRAFO INCORPORADO",
+                        "id": "ANTECEDENTES_0",
+                        "ref": "LEY C 025795 2003 10 29 0001 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 29-12-2017) ULTIMO PARRAFO INCORPORADO",
+                        "id": "ANTECEDENTES_1",
+                        "ref": "LEY C 027430 2017 12 27 0206 000 0000 000"
+                      }
+                    ]
+                  },
+                  "texto": "*Artículo 56.- Las acciones y poderes del Fisco para determinar y exigir el pago de los impuestos regidos por la presente ley, y para aplicar y hacer efectivas las multas y clausuras en ella previstas, prescriben:.\n\na) Por el transcurso de cinco (5) años en el caso de contribuyentes inscriptos, como también en el caso de contribuyentes no inscriptos que no tengan obligación legal de inscribirse ante la Agencia de Recaudación y Control Aduanero o que, teniendo esa obligación y no habiéndola cumplido, regularicen espontáneamente su situación. Este plazo se reducirá a tres (3) años cuando el contribuyente inscripto hubiera cumplido en término con la presentación de la declaración jurada correspondiente y, en su caso, hubiera regularizado el saldo resultante, siempre que el organismo recaudador no impugne la declaración jurada presentada por detectar una discrepancia significativa entre la información declarada y la información disponible en sus sistemas o proporcionada por terceros;\n\nb) Por el transcurso de diez (10) años en el caso de contribuyentes no inscriptos;\n\nc) Por el transcurso de cinco (5) años, respecto de los créditos fiscales indebidamente acreditados, devueltos o transferidos, a contar desde el 1° de enero del año siguiente a la fecha en que fueron acreditados, devueltos o transferidos.\n\nLa acción de repetición de impuestos prescribe por el transcurso de cinco (5) años.\n\nPrescribirá a los cinco (5) años la acción para exigir el recupero o devolución de impuestos. El término se contará a partir del 1° de enero del año siguiente a la fecha desde la cual sea procedente dicho reintegro.\n\nLa prescripción de las acciones y poderes del Fisco con relación al cumplimiento de las obligaciones impuestas a los agentes de retención y percepción se produce a los cinco (5) años, contados a partir del 1° de enero siguiente al año en que ellas debieron cumplirse. Igual plazo de cinco (5) años rige para aplicar y hacer efectivas las sanciones respectivas.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 2-01-2026) ARTICULO SUSTITUIDO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
                       "id": "MODIFICADO_POR_0",
-                      "ref": "LEY C 025795 2003 10 29 0001 000 0000 000"
-                    },
-                    {
-                      "cr": "(B.O. 29-12-2017) ULTIMO PARRAFO INCORPORADO",
-                      "id": "MODIFICADO_POR_1",
-                      "ref": "LEY C 027430 2017 12 27 0206 000 0000 000"
+                      "ref": "LEY C 027799 2025 12 26 0030 000 0000 000"
                     }
-                  ]
+                  }
+                },
+                {
+                  "numero-articulo": "56 002",
+                  "texto": "Artículo.: A los fines de lo dispuesto en el inciso a) del artículo anterior, se considerará que existe una discrepancia significativa cuando se verifique, al menos, una de las siguientes condiciones:.\n\ni) Si de la impugnación realizada por la Agencia de Recaudación y Control Aduanero resultare un incremento de los saldos de impuestos a favor del organismo o, en su caso, una reducción de los quebrantos impositivos o de los saldos a favor de los contribuyentes o responsables, por un porcentaje no inferior al quince por ciento (15%) respecto de lo que hubiera declarado el contribuyente.\n\nii) Si la diferencia entre el impuesto declarado y el impuesto que resulte como consecuencia de la impugnación realizada por la Agencia de Recaudación y Control Aduanero supere la suma fijada en el artículo 1° del Régimen Penal Tributario, establecido por el título IX de la ley 27.430.\n\niii) Si de la impugnación realizada por el organismo recaudador con motivo de la utilización de facturas y otros documentos apócrifos, resulta un incremento del saldo de impuesto a favor del Fisco o, en su caso, una reducción de los quebrantos impositivos o de los saldos a favor de los contribuyentes o responsables.",
+                  "modificado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 2-01-2026) ARTICULO S/N INCORPORADO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                      "id": "MODIFICADO_POR_0",
+                      "ref": "LEY C 027799 2025 12 26 0031 000 0000 000"
+                    }
+                  }
                 }
-              },
+              ],
               "segmento": [
                 {
                   "titulo-particion": "Prescripción de impuestos",
@@ -2044,22 +2150,29 @@
                       }
                     },
                     {
+                      "derogado-por": {
+                        "referencia-normativa": {
+                          "cr": "(B.O. 2-01-2026) ARTICULO S/N DEROGADO . VIGENCIA: EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+                          "id": "DEROGADO_POR_0",
+                          "ref": "LEY C 027799 2025 12 26 0032 000 0000 000"
+                        }
+                      },
                       "numero-articulo": "65 002",
-                      "texto": "*Artículo ...: Se suspenderá por ciento veinte (120) días el curso de la prescripción de las acciones y poderes del Fisco para determinar y exigir el pago de los impuestos regidos por la presente ley y para aplicar y hacer efectivas las multas, desde la fecha de notificación de la vista del procedimiento de determinación de oficio o de la instrucción del sumario correspondiente, cuando se tratare del o los períodos fiscales próximos a prescribir y dichos actos se notificaran dentro de los ciento ochenta (180) días corridos anteriores a la fecha en que se produzca la correspondiente prescripción.",
-                      "modificado-por": {
+                      "antecedentes": {
                         "referencia-normativa": [
                           {
                             "cr": "(B.O. 06-07-2005). ARTICULO INCORPORADO",
-                            "id": "MODIFICADO_POR_0",
+                            "id": "ANTECEDENTES_0",
                             "ref": "LEY C 026044 2005 06 08 0001 000 0000 000"
                           },
                           {
                             "cr": "(B.O. 09-12-2005). ARTICULO SUSTITUIDO",
-                            "id": "MODIFICADO_POR_1",
+                            "id": "ANTECEDENTES_1",
                             "ref": "LEY C 026063 2005 11 09 0018 000 0000 000"
                           }
                         ]
-                      }
+                      },
+                      "texto": "*Artículo ...: NOTA DE REDACCION: DEROGADO POR LEY 27.799.\n\nSe suspenderá por ciento veinte (120) días el curso de la prescripción de las acciones y poderes del Fisco para determinar y exigir el pago de los impuestos regidos por la presente ley y para aplicar y hacer efectivas las multas, desde la fecha de notificación de la vista del procedimiento de determinación de oficio o de la instrucción del sumario correspondiente, cuando se tratare del o los períodos fiscales próximos a prescribir y dichos actos se notificaran dentro de los ciento ochenta (180) días corridos anteriores a la fecha en que se produzca la correspondiente prescripción."
                     },
                     {
                       "numero-articulo": 66,
@@ -4409,7 +4522,8 @@
           "texto": "ARTICULO ARTICULO DEL DEL PROYECTO FUENTE TEXTO  DE TEXTO ORDENADO EN ORDENADO 1978 Y SUS MODIFICACIONES 1º Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 11 ratificado por Ley Nº 12.922), artículo 12.  2º Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 12 ratificado por Ley Nº 12.922), artículo 13.  3º Ley Nº 23.658, artículo. 34, punto 2 y Decreto 13 Nº 618/97.  4º Ley Nº 20.626, artículo1º, punto 2. 14 5º Leyes Nros. 20.046, artículo 1º, punto 2 y 21.281 15 artículo 2º, punto 1.  6º Ley Nº 20.024, artículo 1º. 16 7º Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 17 ratificado por Ley Nº 12.922), artículo 18.  8º Leyes Nros. 20.024, artículo 1º y 23.314, artículo 4º,18 y Decreto Nº 618/97.  9º Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 19 ratificado por Ley Nº 12.922), artículo 20 y Decreto Nº 618/97.  10 Ley Nº 24.765, artículo 13 y Decreto Nº 618/97. 19.1 11 Ley Nº 21.858, artículo 1º, punto 5 y Decreto 20 Nº 618/97.  12 Ley Nº 23.314, artículo 5º y Decreto Nº 618/97. 20.1 13 Ley Nº 20.024, artículo 1º y Decreto Nº 618/97. 21 14 Ley Nº 23.658, artículo 34, punto 3 y Decreto 21.1 Nº 618/97.  15 Leyes Nros. 21.858, artículo 1º, punto 6; 22.826, 22  artículo 1º y Decreto N° 2.128/91, artículo 5°.  16 Ley Nº 20.046, art. 1º, punto 4 y Decreto Nº 618/97. 23 17 Leyes Nros. 21.858, art. 1º, punto 7 y 23.495, art. 24 53 punto y Decreto Nº 618/97.  18 Leyes Nros. 11.683 (texto según Decreto 25 Nº 14.341/46, ratificado por Ley Nº 12.922), artículo 25; 12.965, artículo 2º, punto 5; 13.237, artículo 8º; 13.925, artículo 1º, inciso j); Dto. Ley Nº 4073/56,  punto 1 y Leyes Nros. 15.273, artículo 1º, punto 2;  16.656, artículo 3º, punto 1, inciso c) (de hecho);  21.858 artículo 1º, punto 8; 23.314, artículo 6º y  24.073, artículo 29, punto 1 y Decreto Nº 618/97.  19 Ley Nº 16.450, artículo 1º, punto 5. 26 20 Ley Nº 20.024, artículo 1º y Decreto Nº 618/97. 27 21 Leyes Nros. 23.549, artículo 41, punto 1 y 23.871, 28  artículo 11, punto 1 y Decreto Nº 618/97. 22 Ley Nº 21.858, artículo 1º, punto 10 y Decreto 29 Nº 618/97.  23 Ley Nº 20.024, artículo 1º y Decreto Nº 618/97. 30 24 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 31 ratificado por Ley Nº 12.922), artículo 31 y Decreto Nº 618/97. 25 Ley Nº 20.046, artículo 1º, punto 6 y Decreto 32 Nº 618/97.  26 Ley Nº 16.450, artículo 1º, punto 7 y Decreto 33 Nº 618/97.  27 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46, 34 ratificado por Ley Nº 12.922), artículo 34; 23.871, artículo 11, punto 2 ; Decreto Nº 280/97 y Decreto Nº 618/97. 28 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 35 ratificado por Ley Nº 12.922), artículo 35 y Decreto  Nº 618/97. 29 Ley Nº 23.314, artículo 7º y Decreto Nº 618/97. 36 30 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 37 ratificado por Ley Nº 12.922), artículo 37; Decreto  Nº 6480/62 artículo 16, Decreto Ley Nº 3856/63, art. 1º y Decreto Nº 618/97. 31 Ley Nº 21.858, artículo 1º, punto 11 y Decreto 38 Nº 618/97.  32 Ley Nº 23.697, artículo 59, inc.a); Decreto Nº 39 938/97, artículos 1º y 2º y Decreto Nº 618/97. 33 Leyes Nros. 11.683 (texto según Decreto 40 Nº 14.341/46, ratificado por Ley Nº 12.922),  artículo 40 y 24.073, artículo 29, punto 2  y Decreto Nº 618/97. 34 Ley Nº 24.765, artículo 14 y Decreto Nº 618/97. 40.1 35 Leyes Nros. 20.024, artículo 1º y 24.765,  artículo 6º 41 y Decreto Nº 618/97. 36 Ley N° 24.073, artículo 29, punto 3 y Decreto 41.1 Nº 618/97.  37 Ley Nº 23.549, artículo 41, punto 2 y Decreto 42 Nº 618/97.  38 Ley Nº 23.314, artículo 11 y Decreto Nº 618/97. 42.1 39 Leyes Nros. 23.314, artículo 12; 24.587, artículo 43 7º, inciso a) y 24.765, artículo 1º y Decreto Nº 618/97.  40 Ley Nº 24.765, artículo 2º y Decreto Nº 618/97. 44 41 Ley Nº 24.765, artículo 3º. 44.1 42 Ley Nº 23.905, artículo 19, punto 3 y Decreto 44.2 Nº 618/97.  43 Ley Nº 23.314, artículo 16. 44.3 44 Ley Nº 23.905, artículo 19, punto 4 y Decreto 44.4 Nº 618/97.  45 Ley Nº 23.658, artículo 34, punto 7. 45 46 Leyes Nros. 21.858, artículo 1º, punto 16 y 46 23.771, artículo 19. 47 Ley Nº 23.314, artículo 19. 46.1 48 Leyes Nros. 21.858,artículo 1º,punto 17 y 23.771, 47 artículo 19. 49 Leyes Nros. 23.314, artículo 21 y 24.765,artículo 52 4º y Decreto Nº 618/97. 50 Ley Nº 24.765, artículo 5º 52.1. 51 Ley Nº 16.450, artículo 1º, punto 14. 53 52 Ley Nº 23.549, artículo 41, punto 3. 55 53 Ley Nº 20.046, artículo 1º, punto 9. 56 54 Leyes Nros. 21.858, artículo 1º, punto 25 y 57 22.917, artículo º 6. 55 Ley Nº 23.314, artículo 24. 58 56 Leyes Nros. 15.273, artículo 1º,punto 3 y 24.587, 59  artículo 7º, inciso b) y Decreto Nº 618/97. 57 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 60 ratificado por Ley Nº 12.922), artículo 54. 58 Leyes Nros. 11.683 (texto según Decreto 61 Nº 14.341/46, ratificado por Ley Nº 12.922),  artículo 55 y 24.587, artículo 7º, inciso b).   59 Leyes Nros. 21.858, artículo 1º, punto 27 y  23.658, 62 artículo 34, punto 8. 60 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46,  63 ratificado por Ley Nº 12.922), artículo 57 y 24.587,  artículo 7º, incisos c) y d). 61 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 64 ratificado por Ley Nº 12.922), artículo 58. 62 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 65 ratificado por Ley Nº 12.922), artículo 59. 63 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 66 ratificado por Ley Nº 12.922), artículo 60. 64 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 67 ratificado por Ley Nº 12.922), artículo 61. 65 Leyes Nros. 20.024, artículo 1º; 21.858, artículo 1º,  68 punto 28; 23.871, artículo 11, punto 3 y 24.073,  artículo 29, punto 5. 66 Ley Nº 23.658, artículo 34, punto 10. 68.1 67 Leyes Nros. 15.798, artículo 1º, punto 1 y 17.454,  69 artículo 604 (de hecho). 68 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46,  70 ratificado por Ley Nº 12.922), artículo 64 y 23.658,  artículo 34, punto 8. 69 Ley Nº 21.858, artículo 1º, punto 29 y Decreto Nº 618/97. 71 70 Ley Nº 23.314, artículo 25. 72 71 Leyes Nros. 21.858, artículo 1º, punto 31 y 24.765,  73 artículo 8º. 72 Ley Nº 20.626, artículo 1º, punto 9. 74 73 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 75 ratificado por Ley Nº 12.922), artículo 69. 74 Ley Nº 20.626, artículo 1º, punto 10 y Decreto Nº 618/97. 76 75 Ley Nº 24.765, artículo 9º y Decreto Nº 618/97. 77 76 Leyes Nros. 21.858, artículo 1º, punto 33 y 23.871,  78 artículo 11, punto 4. 77 Ley Nº 24.765, artículo 10 y Decreto Nº 618/97. 78.1 78 Ley Nº 24.765, artículo 11. 78.2 79 Ley Nº 21.858, artículo 1º, punto 34. 79 80 Ley Nº 24.765, artículo 12. 80 81 Ley Nº 21.858, artículo 1º, punto 36 y Decreto Nº 618/97. 81 82 Ley Nº 21.858, artículo 1º, punto 37. 82 83 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 83 ratificado por Ley Nº 12.922), artículo 76 y Decreto Nº 618/97. 84 Ley Nº 20.626, artículo 1º, punto 14 y Decreto Nº 618/97. 84 85 Ley Nº 20.024, artículo 1º y Decreto Nº 618/97. 85 86 Ley Nº 21.858, artículo 1º, punto 38. 86 87 Leyes Nros. 20.626, artículo 1º, punto 18 y 21.858,  87 artículo 1º, punto 39. 88 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46,  88 ratificado por Ley Nº 12.922), artículo 87 y 17.454,  artículo 604 (de hecho) y Decreto Nº 618/97. 89 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 89 ratificado por Ley Nº 12.922), artículo 88. 90 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 90 ratificado por Ley Nº 12.922), artículo 90. 91 Ley Nº 20.626, artículo 1º, punto 15. 91 92 Leyes Nros. 21.858, artículo 1º, punto 40; 23.658, artículo 92  34, punto 11 y 23.871, artículo 11, punto 5 y Decreto  Nº 618/97. 93 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46,  93 ratificado por Ley Nº 12.922), artículo 92 y 17.454,  artículo 604 (de hecho). 94 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46,  94 ratificado por Ley Nº 12.922), artículo 93 y 17.454,  artículo 604 (de hecho). 95 Ley Nº 21.858, artículo 1º, punto 41 y Decreto 95 Nº 618/97.  96 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 96 ratificado por Ley Nº 12.922), artículo 95 y Decreto  Nº 618/97. 97 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46,  97 ratificado por Ley Nº 12.922), artículo 96 y 17.595,  artículo 1º, punto 15 y Decreto Nº 618/97. 98 Leyes Nros. 11.683 (texto según Decreto Nº 14.341/46,  98 ratificado por Ley Nº 12.922), artículo 97 y 23.871,  artículo 11, punto 6 y Decreto Nº 618/97. 99 Ley Nº. 11.683 (texto según Decreto Nº 14.341/46,  99 ratificado por Ley Nº 12.922), artículo 98 y Decreto  Nº 618/97. 100 Leyes Nros. 20.024, artículo 1º y 21.858, artículo 1º,  100 punto 42 y Decreto Nº 618/97. 101 Leyes Nros. 20.024, artículo 1º y 21.858, artículo 1º,  101 punto 43 y 23.314, artículo 27 y Decreto Nº 618/97. 102 Ley Nº 24.138, artículo 1º. 101.1 103 Ley Nº 23.495, artículo 53, punto 6 y Decreto Nº 618/97. 102 104 Ley Nº 24.587, artículo 7º, inciso e) y Decreto Nº 618/97. 102.1 105 Leyes Nros. 20.046, artículo 1º, punto 11 y 20.532,  103 artículo 24 (Decreto Nº 188/75) y Decreto Nº 618/97. 106 Ley Nº 21.858, artículo 1º, punto 44. 104 107 Ley Nº 20.626, artículo 1º, punto 21 y Decreto Nº 618/97. 105 108 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 106 ratificado por Ley Nº 12.922), artículo 105. 109 Ley Nº 11.683 (texto según Decreto Nº 14.341/46, 107 ratificado por Ley Nº 12.922), artículo 106. 110 Ley Nº 20.046, artículo 1º, punto 12. 108 111 Ley Nº 23.658, artículo 34, punto 12 y Decreto Nº 618/97. 109 112 Ley Nº 21.425, artículo 4º, punto 1 y Decreto Nº 618/97. 110 113 Leyes Nros. 20.046, artículo 1º, punto 16; 23.697, artículo 111 59, inciso b); 23.905, artículo 19, punto 7 y Decreto  Nº 938/97, artículo 3º y Decreto Nº 618/97. 114 Ley Nº 24.587, artículo 7º, inciso g) y Decreto Nº 618/97. 111.1 115 Ley Nº 21.911, artículo 1º, punto 6. 111.2 116 Ley Nº 20.626, artículo 1º, punto 22. 112 117 Ley Nº 23.905, artículo 19, punto 8 y Decreto Nº 618/97.  118 Ley Nº 23.905, artículo 19, punto 8 y Decreto Nº 618/97.  119 Ley Nº 23.905, artículo 19, punto 8 y Decreto Nº 618/97.  120 Ley Nº 23.905, artículo 19, punto 8 y Decreto Nº 618/97.  121 Ley Nº 23.905, artículo 19, punto 8.  122 Ley Nº 23.905, artículo 19, punto 8 y Decreto Nº 618/97.  123 Ley Nº 23.905, artículo 19, punto 8 y Decreto Nº 618/97.  124 Ley Nº 23.905, artículo 19, punto 8.  125 Ley Nº 23.905, artículo 19, punto 8.  126 Ley Nº 23.905, artículo 19, punto 8 y Decreto Nº 618/97.  127 Ley Nº 23.905, artículo 19, punto 8.  128 Decreto Nº 618/97, artículo 13. 113.1 129 Leyes Nros. 23.314, artículo 28; 23.549 artículo 41,  115 punto 4 y 23.697, artículo 59, inciso c). 130 Leyes Nros. 21.281, artículo 1º y 21.864, artículo 21. 116 131 Leyes Nros. 21.281, artículo 1º y 23.549, artículo 41,  117 punto 5 y Decreto Nº 618/97. 132 Leyes Nros. 21.281, artículo 1º y 23.658, artículo 34,  119 punto 14. 133 Leyes Nros. 21.281, artículo 1º y 21.911, artículo 1º,  120 punto 2. 134 Leyes Nros. 21.281, artículo 1º y 21.911, artículo 1º,  121 punto 3. 135 Ley Nº. 21.281, artículo 1º . 122 136 Leyes Nros. 21.281, artículo 1º y 21.858, artículo 2º y  123 21.911, artículo 1º, punto 4. 137 Ley Nº. 21.281, artículo 1º y Decreto Nº 618/97. 124 138 Ley Nº. 21.281, artículo 1º . 125 139 Ley Nº 21.281, artículo 1º . 126 140 Ley Nº 21.281, artículo 1º . 127 141 Ley Nº 21.281, artículo 1º . 128 142 Leyes Nros. 23.549, artículo 41, punto 7; 23.871,  129 artículo 11, punto 8 y 23.905, artículo 19, punto 9. 143 Ley Nº 23.658, artículo 34, punto 15 y Decreto Nº 618/97. 129.1 144 Ley Nº 20.626, artículo 1º, punto 23 y Decreto Nº 618/97. 130 145 Ley Nº 21.858, artículo 1º, punto 46. 131 146 Ley Nº 21.858, artículo 1º, punto 47 y Decreto 132 Nº 1684/93, artículo 7º, inciso a). 147 Ley Nº 20.024, artículo 1º. 133 148 Leyes Nros. 20.626, artículo 1º, punto 26 y 23.658,  134 artículo 34, punto 16.  149 Ley Nº 21.858, artículo 1º, punto 48 y Decreto 135 Nº 1684/93, artículo 7º, inciso b). 150 Ley Nº 20.626, artículo 1º, punto 28. 136 151 Ley Nº 21.858, artículo 1º, punto 49 y Decreto 137 Nº 1684/93, artículo 7º, inciso c). 152 Leyes Nros. 15.265, artículo 9º y 16.450, artículo 1º, 138 punto 26. 153 Ley Nº 17.595, artículo 1º, punto 21 y Decreto 139 Nº 1684/93, artículo 7º, inciso d). 154 Decreto Nº 1684/93, artículo 7º, inciso e). 140 155 Decreto Nº 1684/93, artículo 7º, inciso f). 140.1 156 Decreto Nº 1684/93, artículo 7º, inciso f). 140.2 157 Decreto Nº 1684/93, artículo 7º, inciso f). 140.3 158 Decreto Nº 1684/93, artículo 7º, inciso f). 140.4 159 Leyes Nros. 21.858, artículo 1º. punto 51 y 23.871,  141 artículo 11, punto 9 y Decreto Nº 1684/93, artículo 7º, inciso g) y Decreto Nº 618/97. 160 Ley Nº 15.265, artículo 13. 142 161 Leyes Nros. 15.265, artículo 14 y 16.656, artículo 1º,  143 punto 5. 162 Ley Nº 20.626, artículo 1º, punto 32. 144 163 Ley Nº 20.626, artículo 1º, punto 33 145 164 Ley Nº 21.858, artículo 1º, punto 52. 146 165 Decreto Nº 1684/93, artículo 7º, inciso h) y Decreto  147 Nº 618/97. 166 Ley Nº 21.858, artículo 1º, punto 54 y Decreto Nº 618/97. 148 167 Ley Nº 20.024, artículo 1º. 149 168 Ley Nº 23.549, artículo 41, punto 8. 150 169 Decreto Nº 1684/93, artículo 7º, inciso i). 151 170 Leyes Nros. 20.024, artículo 1º, y 20.219, artículo 2º.  152 171 Ley Nº 21.858, artículo 1º, punto 55 y Decreto Nº  153 1684/93, artículo 7º, inciso j) y Decreto Nº 618/97. 172 Decreto Nº 1684/93, artículo 7º, inciso k). 154 173 Ley Nº 21.858, artículo 1º, punto 56 y Decreto 155 Nº 1684/93, artículo 7º, inciso l). 174 Ley Nº 20.626, artículo 1º, punto 41 y Decreto Nº 618/97. 156 175 Ley Nº 20.626, artículo 1º, punto 42 y Decreto Nº 618/97. 157 176 Ley Nº 21.858, artículo 1º, punto 57 y Decreto 158 Nº 1684/93, artículo 7º, inciso m). 177 Ley Nº 21.858, artículo 1º, punto 58 y Decreto Nº 618/97. 159 178 Ley Nº 21.858, artículo 1º, punto 59, inciso a) y Decreto 160 Nº 618/97. 179 Ley Nº 21.858, artículo 1º, punto 59, inciso b) 161 180 Ley Nº 21.858, artículo 1º, punto 59, inciso c). 162 181 Ley Nº 21.858, artículo 1º, punto 59, inciso d) 163 182 Ley Nº 21.858, artículo 1º, punto 60 y Decreto Nº 618/97. 164 183 Ley Nº 21.858, artículo 1º, punto 61 y Decreto 165 Nº 1684/93, artículo 7º, inciso n) y Decreto Nº  618/97. 184 Ley Nº 21.858, artículo 1º, punto 62 y Decreto 166 Nº 1684/93, artículo 7º, inciso o). 185 Ley Nº 21.436, artículo 1º. 167 186 Ley Nº 21.858, artículo 1º, punto 63 168 187 Ley Nº 21.858, artículo 1º, punto 64 169 188 Ley Nº 21.858, artículo 1º, punto 65 y Decreto 170 Nº 1684/93, artículo 7º, inciso p). 189 Ley Nº 20.626, artículo 1º, punto 51. 171 190 Leyes Nros. 20.626, artículo 1º, punto 52; 21.858, artículo 172 1º, punto 66 y Decreto Nº 1684/93, artículo 7º,  inciso q). 191 Ley Nº 20.024, artículo 1º. 173 192 Ley Nº 21.858, artículo 1º, punto 67 y Decreto Nº  174 1684/93, artículo 7º, inciso r) y Decreto Nº 618/97. 193 Leyes Nros. 20.046, artículo 1º, punto 25 y 22.091, artículo 175 19 y Decretos Nros. 2818 del 11 de abril de 1973  y 75 del 25 de octubre de 1973, artículos 3º y 11  y Decreto Nº 618/97. 194 Ley Nº 20.626, artículo 1º, punto 54. 176 195 Ley Nº 15.265, artículo 53 y Decreto Nº 1684/93, artículo 7º, inciso s). 177 196 Ley Nº 15.265, artículo 54. 178 197 Ley Nº 20.626, artículo 1º, punto 55. 179 198 Ley Nº 15.265, artículo 56 y Decreto Nº 618/97. 180 199 Ley Nº 15.265, artículo 57 y Decreto Nº 618/97. 181 200 Leyes Nº 21.858, artículo 1º, punto 68, inciso a) y 24.073, 182 artículo 39 y Decreto Nº 618/97. 201 Ley Nº 23.928, artículo 10.  202 Ley Nº 21.858, artículo 1º, punto 68, inciso b) y Decreto 183 Nº 618/97. 203 Incorporado por el Decreto Nº 2861/78. 184 204 Ley Nº 20.626, artículo 10. 185"
         }
       },
-      "id-infojus": "LNS0004294"
+      "id-infojus": "LNS0004294",
+      "fecha-umod": 20260105105432
     }
   }
 }

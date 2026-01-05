@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-747-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1755613269849,
+      "timestamp": 1767611869464,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-08-19",
-      "fecha-mod": "2025-08-19",
-      "timestamp": "2025-08-19T11:06:42",
-      "timestamp-alta": "2025-08-19T11:06:42",
-      "timestamp-m": "2025-08-19T11:06:42",
+      "fecha-alta": "2026-01-05",
+      "fecha-mod": "2026-01-05",
+      "timestamp": "2026-01-05T08:08:42",
+      "timestamp-alta": "2026-01-05T08:08:42",
+      "timestamp-m": "2026-01-05T08:08:42",
       "generalidades": {
         "sintesis": "Se deroga la obligación del Estado de contratar los servicos de empresa públicas como Nación Seguros, Banco Nación, YPF y Aerolíneas Argentinas",
         "anexos-decreto": {
@@ -435,11 +435,18 @@
           "numero-articulo": 6,
           "texto": "ARTÍCULO 6°.- Las jurisdicciones y entidades del Sector Público Nacional comprendidas en los incisos a) y b) del artículo 8° de la Ley N°\u00A024.156 deberán rescindir, en un plazo no mayor a UN (1) año desde la entrada en vigencia del presente decreto todos los contratos y convenios que dispongan ventajas u otorguen preferencias o beneficios de acuerdo con lo expresado al momento de producir el informe previsto en el artículo 4° del presente.\n\nLas referidas jurisdicciones y entidades deberán impulsar procedimientos de selección competitivos y transparentes con el fin de procurar la provisión de bienes o servicios.",
           "observado-por": {
-            "referencia-normativa": {
-              "cr": "(B.O. 19/8/2025) plazo máximo previsto en el presente artículo prorrogado hasta el 31 de diciembre de 2025 con vigencia el día siguiente al de su publicación en el Boletín Oficial",
-              "id": "OBSERVADO_POR_0",
-              "ref": "DEC C 000591 2025 08 18 0001 000 0000 000"
-            }
+            "referencia-normativa": [
+              {
+                "cr": "(B.O. 19/8/2025) plazo máximo previsto en el presente artículo prorrogado hasta el 31 de diciembre de 2025 con vigencia el día siguiente al de su publicación en el Boletín Oficial .",
+                "id": "OBSERVADO_POR_0",
+                "ref": "DEC C 000591 2025 08 18 0001 000 0000 000"
+              },
+              {
+                "cr": "(B.O. 31/12/2025) plazo máximo previsto en el presente artículo prorrogado hasta el 30 de junio de 2026. Vigencia el día de su publicación en el Boletín Oficial",
+                "id": "OBSERVADO_POR_1",
+                "ref": "DEC C 000928 2025 12 30 0001 000 0000 000"
+              }
+            ]
           }
         },
         {
@@ -499,7 +506,7 @@
         "texto": "ANEXO"
       },
       "id-infojus": "DN20240000747",
-      "fecha-umod": 20250819112109
+      "fecha-umod": 20260105081749
     }
   }
 }
