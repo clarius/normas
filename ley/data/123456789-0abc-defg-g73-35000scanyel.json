@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g73-35000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1761742229836,
+      "timestamp": 1767724996328,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -64,11 +64,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-10-29",
-      "fecha-mod": "2025-10-29",
-      "timestamp": "2025-10-29T09:45:40",
-      "timestamp-alta": "2025-10-29T09:45:40",
-      "timestamp-m": "2025-10-29T09:45:40",
+      "fecha-alta": "2026-01-06",
+      "fecha-mod": "2026-01-06",
+      "timestamp": "2026-01-06T15:34:55",
+      "timestamp-alta": "2026-01-06T15:34:55",
+      "timestamp-m": "2026-01-06T15:34:55",
       "sumario": {
         "sumario": "BIOTECNOLOGIA MODERNA-INGENIERIA GENETICA-INVESTIGACIONES CIENTIFICAS Y TECNICAS-PROYECTOS DE INVESTIGACION Y DESARROLLO-PROYECTOS PRODUCTIVOS-REGISTRO NACIONAL PARA LA PROMOCION DE LA BIOTECNOLOGIA MODERNA:CREACION-PROMOCION INDUSTRIAL-BENEFICIOS PROMOCIONALES-BENEFICIOS TRIBUTARIOS-FONDO DE ESTIMULO A NUEVOS EMPRENDIMIENTOS EN BIOTECNOLOGIA MODERNA:CREACION-PROPIEDAD INDUSTRIAL"
       },
@@ -348,11 +348,18 @@
               }
             },
             "observado-por": {
-              "referencia-normativa": {
-                "cr": "(B.O. 1/12/2022) Se establece para el Ejercicio 2023 un cupo fiscal de pesos setecientos millones ($ 700.000.000) para ser asignado a los beneficios promocionales previstos en el presente artículo",
-                "id": "OBSERVADO_POR_0",
-                "ref": "LEY C 027701 2022 11 16 0027 000 0000 000"
-              }
+              "referencia-normativa": [
+                {
+                  "cr": "(B.O. 1/12/2022) Se establece para el Ejercicio 2023 un cupo fiscal de pesos setecientos millones ($ 700.000.000) para ser asignado a los beneficios promocionales previstos en el presente artículo",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "LEY C 027701 2022 11 16 0027 000 0000 000"
+                },
+                {
+                  "cr": "(B.O. 2/1/2026) fija para el Ejercicio 2026, el cupo fiscal ($30.000.000.000)",
+                  "id": "OBSERVADO_POR_1",
+                  "ref": "LEY C 027798 2025 12 26 0037 000 0000 000"
+                }
+              ]
             }
           }
         },
@@ -369,11 +376,18 @@
             "numero-articulo": 7,
             "texto": "Artículo 7º: Los y las titulares de los proyectos de producción de bienes y/o servicios aprobados en el marco de la presente ley gozarán de los siguientes beneficios:\n\na) Amortización acelerada en el impuesto a las ganancias por los bienes de capital, equipos especiales, partes o elementos componentes de dichos bienes, nuevos, adquiridos con destino al proyecto promovido.\n\nDichas amortizaciones serán practicadas a partir del período fiscal de habilitación del bien, de acuerdo con las normas previstas en el artículo 88 de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, en las condiciones que fije la reglamentación;\n\nb) Devolución anticipada del impuesto al valor agregado correspondiente a la adquisición de los bienes a los que alude el inciso a), que hubieran sido facturados a los o las titulares del proyecto. Será acreditado contra otros impuestos a cargo de la Administración Federal de Ingresos Públicos (AFIP), entidad autárquica en el ámbito del Ministerio de Economía, o en su defecto, será devuelto en ambos casos, en el plazo estipulado en el acto de aprobación del proyecto en las condiciones y con las garantías que al respecto establezca la reglamentación.\n\nDicha acreditación o devolución procederá en la medida en que el importe de las mismas no haya debido ser absorbido por los respectivos débitos fiscales originados por el desarrollo de la actividad.",
             "observado-por": {
-              "referencia-normativa": {
-                "cr": "(B.O. 1/12/2022) Se establece para el Ejercicio 2023 un cupo fiscal de pesos setecientos millones ($ 700.000.000) para ser asignado a los beneficios promocionales previstos en el presente artículo",
-                "id": "OBSERVADO_POR_0",
-                "ref": "LEY C 027701 2022 11 16 0027 000 0000 000"
-              }
+              "referencia-normativa": [
+                {
+                  "cr": "(B.O. 1/12/2022) Se establece para el Ejercicio 2023 un cupo fiscal de pesos setecientos millones ($ 700.000.000) para ser asignado a los beneficios promocionales previstos en el presente artículo",
+                  "id": "OBSERVADO_POR_0",
+                  "ref": "LEY C 027701 2022 11 16 0027 000 0000 000"
+                },
+                {
+                  "cr": "(B.O. 2/1/2026) fija para el Ejercicio 2026, el cupo fiscal ($30.000.000.000)",
+                  "id": "OBSERVADO_POR_1",
+                  "ref": "LEY C 027798 2025 12 26 0037 000 0000 000"
+                }
+              ]
             }
           }
         },
@@ -635,7 +649,7 @@
         }
       ],
       "id-infojus": "LNS0005337",
-      "fecha-umod": 20251029095029
+      "fecha-umod": 20260106154316
     }
   }
 }

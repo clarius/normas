@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g10-37000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1698103483364,
+      "timestamp": 1767722181085,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -53,31 +53,58 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2023-10-23",
-      "fecha-mod": "2023-10-23",
-      "timestamp": "2023-10-23T12:31:41",
-      "timestamp-alta": "2023-10-23T12:31:41",
-      "timestamp-m": "2023-10-23T12:31:41",
+      "fecha-alta": "2026-01-06",
+      "fecha-mod": "2026-01-06",
+      "timestamp": "2026-01-06T14:49:55",
+      "timestamp-alta": "2026-01-06T14:49:55",
+      "timestamp-m": "2026-01-06T14:49:55",
       "sumario": {
-        "sumario": "CIENCIA Y TECNOLOGIA"
+        "sumario": "CIENCIA Y TECNOLOGIA-INTELIGENCIA ARTIFICIAL"
       },
       "descriptores": {
-        "descriptor": {
-          "elegido": {
-            "termino": "ciencia y tecnología"
+        "descriptor": [
+          {
+            "elegido": {
+              "termino": "ciencia y tecnología"
+            },
+            "preferido": {
+              "termino": "Cultura y educación/ciencia y tecnología"
+            },
+            "sinonimos": {
+              "termino": "Educación y Cultura"
+            }
           },
-          "preferido": {
-            "termino": "Cultura y educación/ciencia y tecnología"
-          },
-          "sinonimos": {
-            "termino": "Educación y Cultura"
+          {
+            "elegido": {
+              "termino": "inteligencia artificial"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/inteligencia artificial"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "sistema experto",
+                "informática",
+                "IA"
+              ]
+            }
           }
-        },
+        ],
         "suggest": {
           "termino": [
             "ciencia y tecnología",
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
             "Educación y Cultura (Cultura y educación)",
-            "Cultura y educación"
+            "Cultura y educación",
+            "sistema experto (inteligencia artificial)",
+            "TIC (tecnología de la información)",
+            "informática (tecnología de la información)",
+            "IA (inteligencia artificial)",
+            "tecnología de la información",
+            "inteligencia artificial",
+            "Derecho informático"
           ]
         }
       },
@@ -107,7 +134,8 @@
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN EL ANEXO: 0",
         "texto": "PLAN"
       },
-      "id-infojus": "LNS0007301"
+      "id-infojus": "LNS0007301",
+      "fecha-umod": 20260106145621
     }
   }
 }

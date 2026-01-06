@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g76-17000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1767113240708,
+      "timestamp": 1767723670658,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -60,11 +60,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-12-30",
-      "fecha-mod": "2025-12-30",
-      "timestamp": "2025-12-30T11:33:40",
-      "timestamp-alta": "2025-12-30T11:33:40",
-      "timestamp-m": "2025-12-30T11:33:40",
+      "fecha-alta": "2026-01-06",
+      "fecha-mod": "2026-01-06",
+      "timestamp": "2026-01-06T15:15:54",
+      "timestamp-alta": "2026-01-06T15:15:54",
+      "timestamp-m": "2026-01-06T15:15:54",
       "sumario": {
         "sumario": "PRESUPUESTO ANUAL DE GASTOS PRESUPUESTO GENERAL DE LA NACION ADMINISTRACION NACIONAL"
       },
@@ -357,7 +357,14 @@
                     }
                   },
                   "numero-articulo": 21,
-                  "texto": "Artículo 21.- Prorrógase para el Ejercicio 2023 lo dispuesto en el artículo 25 de la ley 27.591."
+                  "texto": "Artículo 21.- Prorrógase para el Ejercicio 2023 lo dispuesto en el artículo 25 de la ley 27.591.",
+                  "observado-por": {
+                    "referencia-normativa": {
+                      "cr": "(B.O. 2/1/2026) Prorroga para el Ejercicio 2026 lo dispuesto en el presente artículo",
+                      "id": "OBSERVADO_POR_0",
+                      "ref": "LEY C 027798 2025 12 26 0034 000 0000 000"
+                    }
+                  }
                 },
                 {
                   "modifica-a": {
@@ -780,11 +787,18 @@
                   "numero-articulo": 41,
                   "texto": "Artículo 41.- Mantiénese el diferimiento de los pagos de los servicios de la deuda pública del Gobierno Nacional dispuesto en el artículo 46 de la ley 27.591 hasta la finalización del proceso de reestructuración de la totalidad de la deuda pública contraída originalmente con anterioridad al 31 de diciembre de 2001, o en virtud de normas dictadas antes de esa fecha.",
                   "observado-por": {
-                    "referencia-normativa": {
-                      "cr": "(B.O. 27/3/2024) Se mantiene durante el Ejercicio 2024 el diferimiento de los pagos de los servicios de la deuda pública del Gobierno Nacional dispuesto en el presente artículo",
-                      "id": "OBSERVADO_POR_0",
-                      "ref": "DNU C 000280 2024 03 26 0006 000 0000 000"
-                    }
+                    "referencia-normativa": [
+                      {
+                        "cr": "(B.O. 27/3/2024) Se mantiene durante el Ejercicio 2024 el diferimiento de los pagos de los servicios de la deuda pública del Gobierno Nacional dispuesto en el presente artículo",
+                        "id": "OBSERVADO_POR_0",
+                        "ref": "DNU C 000280 2024 03 26 0006 000 0000 000"
+                      },
+                      {
+                        "cr": "(B.O. 2/1/2026) Se mantiene el diferimiento de los pagos de los servicios de la deuda pública del Gobierno nacional dispuesto en el presente artículo hasta la finalización del proceso de reestructuración de la totalidad de la deuda pública contraída originalmente con anterioridad al 31 de diciembre de 2001, o en virtud de normas dictadas antes de esa fecha.",
+                        "id": "OBSERVADO_POR_1",
+                        "ref": "LEY C 027798 2025 12 26 0049 000 0000 000"
+                      }
+                    ]
                   }
                 },
                 {
@@ -1949,7 +1963,7 @@
         }
       },
       "id-infojus": "LNS0007167",
-      "fecha-umod": 20251230134720
+      "fecha-umod": 20260106152110
     }
   }
 }

@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-961-1000-8102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1650650593818,
+      "timestamp": 1767711390039,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 1169,
-      "timestamp": "2022-04-22T14:58:34",
-      "timestamp-alta": "2018-12-26T10:49:10",
-      "timestamp-m": "2022-04-22T14:58:34",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -46,11 +43,14 @@
         "texto": "Integridad y Transparencia"
       },
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2018-12-26",
-      "fecha-mod": "2022-04-22",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-01-06",
+      "fecha-mod": "2026-01-06",
+      "timestamp": "2026-01-06T11:27:59",
+      "timestamp-alta": "2026-01-06T11:27:59",
+      "timestamp-m": "2026-01-06T11:27:59",
       "generalidades": {
         "sintesis": "Se aprueban Disposiciones sobre Contrataciones Públicas",
         "anexos-decreto": {
@@ -86,26 +86,21 @@
               "termino": "obras públicas"
             },
             "preferido": {
-              "termino": "Derecho administrativo/contratos administrativos/contrato de obra pública/obras públicas"
+              "termino": "Infraestructura/obras públicas"
             },
-            "sinonimos": {
-              "termino": [
-                "contrataciones del Estado",
-                "contrataciones públicas"
-              ]
-            }
+            "sinonimos": null
           },
           {
             "elegido": {
-              "termino": "Administración Pública Nacional"
+              "termino": "Administración pública nacional"
             },
             "preferido": {
-              "termino": "Derecho administrativo/Administración Pública/Administración Pública Nacional"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/integridad y transparencia/transparencia de la gestión pública/atención pública/Administración pública/Administración pública nacional"
             },
             "sinonimos": {
               "termino": [
-                "Administración Nacional",
-                "función pública"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -120,17 +115,15 @@
           },
           {
             "elegido": {
-              "termino": "políticas públicas"
+              "termino": "politicas públicas"
             },
             "preferido": {
-              "termino": "Derecho constitucional/poderes del Estado/actos de los poderes públicos/políticas públicas"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas"
             },
             "sinonimos": {
               "termino": [
-                "poderes públicos",
-                "actos de imperio",
-                "actos de gobierno",
-                "actos de autoridad nacional"
+                "políticas de Estado",
+                "politicas públicas transversales"
               ]
             }
           },
@@ -150,21 +143,28 @@
           },
           {
             "elegido": {
-              "termino": "OFICINA NACIONAL DE CONTRATACIONES"
+              "termino": "Oficina Nacional de Contrataciones"
             },
             "preferido": {
-              "termino": "OFICINA NACIONAL DE CONTRATACIONES"
+              "termino": "Estado/Poderes del Estado/Poder Ejecutivo Nacional/Jefatura de Gabinete de Ministros/Oficina Nacional de Contrataciones"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": "ONC"
+            }
           },
           {
             "elegido": {
               "termino": "modernización del Estado"
             },
             "preferido": {
-              "termino": "Derecho administrativo/modernización del Estado"
+              "termino": "Estado/fortalecimiento de las instituciones/politicas públicas/modernización del Estado"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": [
+                "políticas de Estado",
+                "politicas públicas transversales"
+              ]
+            }
           },
           {
             "elegido": {
@@ -183,35 +183,30 @@
         ],
         "suggest": {
           "termino": [
+            "atención pública",
             "políticas de Estado (politicas públicas)",
             "politicas públicas transversales (politicas públicas)",
-            "Administración Pública Nacional",
-            "políticas públicas",
             "transparencia en las contrataciones públicas",
+            "politicas públicas",
+            "Poder Ejecutivo Nacional",
             "contrataciones del Estado (contratos administrativos)",
+            "obras públicas",
+            "ONC (Oficina Nacional de Contrataciones)",
+            "Jefatura de Gabinete de Ministros",
             "fortalecimiento de las instituciones",
-            "contrato de obra pública",
+            "Administración pública",
+            "Administración pública nacional",
+            "Estado",
             "integridad y transparencia",
+            "Poderes del Estado",
+            "Infraestructura",
             "Innovación administrativa",
             "modernización del Estado",
-            "poderes públicos (poderes del Estado)",
-            "Administración Nacional (Administración Pública Nacional)",
-            "actos de gobierno (actos de los poderes públicos)",
-            "Derecho administrativo",
-            "actos de imperio (actos de los poderes públicos)",
-            "función pública (Administración Pública)",
-            "actos de autoridad nacional (actos de los poderes públicos)",
-            "OFICINA NACIONAL DE CONTRATACIONES",
-            "politicas públicas",
-            "obras públicas",
-            "poderes del Estado",
-            "Administración Pública",
-            "Estado",
-            "actos de los poderes públicos",
-            "Derecho constitucional",
             "contrataciones públicas (contratos administrativos)",
+            "Oficina Nacional de Contrataciones",
             "contratos administrativos",
-            "transparencia de la gestión pública"
+            "transparencia de la gestión pública",
+            "Derecho administrativo"
           ]
         }
       },
@@ -265,7 +260,7 @@
             }
           ]
         },
-        "texto": "el Expediente N°\u00A0EX-2018-54991474-APN-DGDYD#JGM, las    Leyes Nros. 13.064 y sus modificatorias, 17.520 y 27.401 y sus modificatorias, los Decretos Nros. 1724 del 18 de agosto de 1993, 1023 del 13 de agosto de 2001 y sus modificatorios y complementarios, 691 del 17 de mayo de 2016 y su modificatorio, 1336 del 29 de diciembre de 2016, 174 del 2 de marzo de 2018 y sus modificatorios y 1117 del 7 de diciembre de 2018,\u00A0y"
+        "texto": "el Expediente N°\u00A0EX-2018-54991474-APN-DGDYD#JGM, las Leyes Nros. 13.064 y sus modificatorias, 17.520 y 27.401 y sus modificatorias, los Decretos Nros. 1724 del 18 de agosto de 1993, 1023 del 13 de agosto de 2001 y sus modificatorios y complementarios, 691 del 17 de mayo de 2016 y su modificatorio, 1336 del 29 de diciembre de 2016, 174 del 2 de marzo de 2018 y sus modificatorios y 1117 del 7 de diciembre de 2018,\u00A0y"
       },
       "considerando": {
         "referencias-normativas": {
@@ -353,7 +348,7 @@
           ]
         },
         "sancion": "EL\u00A0PRESIDENTE DE\u00A0LA\u00A0NACIÓN ARGENTINA DECRETA:",
-        "texto": "Que por la Ley N°\u00A013.064 se establece el régimen legal de Obras Públicas de la Nación.\n\nQue por la Ley N°\u00A017.520 se regula el régimen de concesiones de obra pública por un término fijo, a sociedades privadas o mixtas o a entes públicos para la construcción, conservación o explotación de obras públicas mediante el cobro de tarifas o peaje conforme a los procedimientos que fija dicha ley.\n\nQue por el Decreto N°\u00A01023/01 y su Decreto Reglamentario N°\u00A01030/16, ambos con sus modificatorios y complementarios, se regula el régimen general de contrataciones públicas.\n\nQue es política del Gobierno Nacional trabajar por el fortalecimiento continuo de las instituciones de la República, promoviendo la transparencia y la eficiencia en el gasto en todos los ámbitos donde desarrolla su actividad, a los fines de cumplir con los compromisos públicos asumidos ante los ciudadanos.\n\nQue la contratación pública -en general- y el régimen de contratación y ejecución de obra pública -en particular- constituyen un componente central de la actividad estatal y de la gobernanza estratégica, siendo instrumentos esenciales para la satisfacción de necesidades públicas tales como vivienda, energía, transporte, seguridad, comunicaciones, entre otras, que hacen al desarrollo económico con equidad social.\n\nQue, en efecto, dada la significancia de los recursos públicos afectados, la gestión adecuada de la obra pública tiene el potencial de desempeñar un papel de primer orden en el fomento de la eficiencia del sector público y como elemento que inspira confianza en los ciudadanos.\n\nQue, asimismo, un sistema de contratación y ejecución de obra pública diseñado desde un enfoque integral y estratégico coadyuva al logro de trascendentales objetivos de política, como la innovación, la protección ambiental, la creación de empleo, el fomento de la pequeña y mediana empresa y el desarrollo integral de las distintas regiones del país.\n\nQue, al mismo tiempo, por el enorme volumen de dinero que representa -entre un TRECE POR CIENTO (13 %) y un VEINTE POR CIENTO (20 %) del PBI en promedio, según estimaciones de la Organización para la Cooperación y el Desarrollo Económicos (OCDE)-, se trata de un sistema que se encuentra particularmente expuesto al riesgo de mala gestión, al fraude y a la corrupción.\n\nQue, respecto al costo económico de la corrupción, se estima que representa, en promedio, entre un VEINTE POR CIENTO (20 %) y un VEINTICINCO POR CIENTO (25 %) del valor de los contratos, derivando en impactos institucionales y macroeconómicos sustanciales para la REPÚBLICA ARGENTINA.\n\nQue resulta necesario adoptar medidas conforme a los estándares internacionales de transparencia y eficiencia en las contrataciones públicas, entre los que se destacan los receptados por la Recomendación del Consejo sobre Contratación Pública de la OCDE de 2015.\n\nQue el Gobierno Nacional ha adoptado importantes medidas en línea con dichas recomendaciones, constituyendo aquéllas manifestaciones claras de su compromiso con la mejora de la eficiencia y la transparencia del sistema de contrataciones y ejecución de obra pública.\n\nQue, entre ellas, cabe mencionar la aprobación del Régimen de Redeterminación de Precios de Contratos de Obra Pública y de Consultoría de Obra Pública, a través del Decreto N°\u00A0691/16, con el objeto de mantener el equilibrio económico financiero de los contratos de obra pública y consultoría de obra pública, garantizando de esta manera la continuidad de su ejecución aplicando el principio de esfuerzo compartido y permitiendo, a su vez, la celebración de nuevos contratos que otorguen mayor certeza y transparencia.\n\nQue, asimismo, mediante el Decreto N°\u00A0202/17 se estableció un mecanismo de autorregulación y publicidad para los casos en que pudiera existir un conflicto de interés o vinculación particular relevante entre uno de los interesados en contratar u obtener concesiones por parte del Estado, y el Presidente de la Nación, el Vicepresidente, el Jefe de Gabinete de Ministros, los ministros y/o autoridades de igual rango en el PODER EJECUTIVO NACIONAL, aunque estos no tuvieran competencia para decidir sobre la contratación o acto de que se trata, a fin de asegurar los más altos estándares de integridad, rectitud, transparencia y defensa del interés general, procurando, por un lado, la abstención del ejercicio de competencia por parte de las referidas autoridades en los casos de vinculación especial con los particulares interesados, y por el otro, proveer a la mayor transparencia posible en la gestión de las contrataciones y demás actos afectados por las situaciones descriptas.\n\nQue, a través del Mensaje N°\u00A0127 del 20 de octubre de 2016 el PODER EJECUTIVO NACIONAL sometió a consideración del HONORABLE CONGRESO DE LA NACIÓN un proyecto de ley tendiente a establecer un régimen de responsabilidad penal para las personas jurídicas por delitos cometidos contra la administración pública y por el cohecho transnacional tipificado en el artículo 258 bis del Código Penal y que diera lugar a la sanción de la Ley N°\u00A027.401 con el objeto de dotar de mayor eficacia a las políticas de prevención y lucha contra la corrupción a través de la generación de incentivos que prevengan la comisión de delitos contra la administración pública por medio de la implementación de programas de integridad y cooperen con las autoridades, de manera de coadyuvar a una mayor eficacia en la aplicación de la ley penal.\n\nQue, en materia de aprovechamiento de las tecnologías digitales para mejorar la accesibilidad, transparencia y eficiencia de los procesos de contratación, se destaca la progresiva implementación, a través del Decreto N°\u00A01336/16, del Sistema CONTRAT.AR para la contratación y seguimiento de ejecución de las Contrataciones de Obra Pública y Concesiones de Obra Pública.\n\nQue, no obstante los avances reseñados, es necesario continuar fortaleciendo el sistema de contrataciones y ejecución de obras públicas y atenuando el riesgo de que haya una mala administración, sobrecostos y corrupción que tanto han azotado a la REPÚBLICA ARGENTINA, obstaculizando, con ello, su desarrollo económico.\n\nQue, en primer lugar, se torna imperioso incorporar al sistema de contratación de obras públicas un\u00A0órgano rector y dotarlo con todas las facultades, necesarias que le permitan diseñar, formular, planificar, organizar, evaluar y controlar las políticas destinadas a satisfacer los objetivos señalados.\n\nQue, en particular y sin perjuicio de otras responsabilidades, deberán arbitrarse las medidas que fueran menester para administrar en forma transparente y eficiente el dinero de los contribuyentes que se canaliza a través del sistema de contrataciones, así como producir información y organizar las estadísticas sobre ese sistema\u00A0a fin de posibilitar la toma de decisiones fundadas y el control por parte del Estado y de la ciudadanía.\n\nQue en dicho contexto, también resulta conveniente establecer un régimen de sanciones adecuado, proporcional y gradual con el objetivo de disuadir y penalizar conductas disvaliosas por parte de los actores del sistema.\n\nQue, por razones de economía y especialización, se estima conveniente centralizar dichas funciones en la OFICINA NACIONAL DE CONTRATACIONES dependiente de la SECRETARÍA DE MODERNIZACIÓN ADMINISTRATIVA de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS.\n\nQue la aplicación de lo dispuesto en el artículo 1° del    Decreto N°\u00A01336/16, por el que se implementó el Sistema de Gestión Electrónica para las contrataciones de Obra Pública y Concesiones de Obra Pública y Servicios Públicos y Licencias CONTRAT.AR, se limitó a esas contrataciones que hubieran sido celebradas con posterioridad a su entrada en vigencia; resulta necesario prever su aplicación para el seguimiento de ejecución de las Contrataciones de Obra Pública y Concesiones de Obra Pública, que hayan estado en curso de ejecución en dicho momento, salvo en aquellas que por presentar un significativo grado de avance en la ejecución de la obra, resultare ineficiente la implementación del mencionado sistema o que existieran otras razones debidamente fundadas que desaconsejen la incorporación del contrato al sistema \"CONTRAT.AR\".\n\nQue a dicho fin, resulta pertinente facultar a la OFICINA NACIONAL DE CONTRATACIONES, para que establezca un cronograma de implementación del Sistema de Gestión Electrónica \"CONTRAT.AR\" para los referidos contratos.\n\nQue asimismo, teniendo en cuenta las ventajas que conlleva la implementación de un Sistema de Gestión Electrónica como el \"CONTRAT.AR\" en la administración de los recursos públicos y en la ejecución de la obra pública en general, resulta conveniente propiciar la implementación progresiva de CONTRAT.AR para la contratación y seguimiento de ejecución de las obras financiadas total o parcialmente con fondos del Tesoro Nacional que ejecuten las provincias -o municipios.\n\nQue en línea con las medidas de transparencia en materia de contrataciones públicas que viene implementando el Estado Nacional, se considera necesario establecer la obligación de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS de implementar también un plan de apertura de datos en materia de Contrataciones de Obra Pública y Concesiones de Obra Pública, que genere \"sets de datos abiertos\" sobre todos los hitos relevantes del proceso de contratación y gestión de los contratos, sin otras limitaciones que las previstas en la Ley Nº\u00A027.275 de Derecho de Acceso a la Información Pública.\n\nQue a los fines de generar una instancia para el estudio y proyección de otras modificaciones al sistema de contrataciones públicas para el logro de los objetivos de política expuestos, resulta conveniente instruir a la OFICINA NACIONAL DE CONTRATACIONES a que elabore y publique un Programa de Gobernanza del Sistema de Contrataciones de Obra Pública y Concesiones de Obra Pública, invitando a formular propuestas a organizaciones de la sociedad civil y a expertos de reconocido prestigio y trayectoria en la materia.\n\nQue, asimismo, con el objeto de establecer estándares comunes en materia de condiciones de integridad que deben reunir quienes participen en procesos de contratación con la Administración Nacional, se considera pertinente regular en la presente medida pautas de inelegibilidad para los oferentes, sin perjuicio de lo que se prevea en la correspondiente documentación licitatoria o en otra normativa que le resulte aplicable.\n\nQue, por otro lado, el artículo 24 de la Ley N°\u00A027.401 establece que es condición para contratar con el Estado Nacional acreditar la existencia de un Programa de Integridad adecuado conforme a lo previsto en los artículos 22, 23 y 24 de dicha norma, por lo cual resulta apropiado instrumentar un formulario estándar a fin de optimizar la verificación del cumplimiento de tal exigencia, así como determinar el monto a partir del cual necesariamente una contratación deba ser aprobada por una autoridad con rango no menor a Ministro, con el objeto de establecer un criterio uniforme en toda la Administración Nacional.\n\nQue a su vez, por el artículo 13 de la Ley N°\u00A013.064 y sus modificatorias se creó el Registro Nacional de Constructores de Obras Públicas, a los efectos de la calificación y capacitación de las empresas, el que se rige por el reglamento que como Anexo I ha sido aprobado por el Decreto N°\u00A01724/93 y su modificatorio y normas complementarias.\n\nQue el Decreto N°\u00A0174/18 y sus modificatorios establece entre las competencias de la SUBSECRETARÍA DE COORDINACIÓN DE OBRA PÚBLICA FEDERAL dependiente de la SECRETARÍA DE PLANIFICACIÓN TERRITORIAL Y COORDINACIÓN DE OBRA PÚBLICA del MINISTERIO DEL INTERIOR, OBRAS PÚBLICAS Y VIVIENDA la de intervenir en la formulación e implementación de las políticas en materia de inscripción y calificación de constructores y firmas consultoras de obras públicas y ejercer el contralor en todo lo relacionado con el accionar del Registro Nacional de Constructores y Firmas Consultoras de Obras Públicas.\n\nQue por el Decreto N°\u00A01117/18 se modificó la Ley de Ministerios (texto ordenado por Decreto N°\u00A0438 del 12 de marzo de 1992) y sus modificatorias estableciendo dentro de las atribuciones del JEFE DE GABINETE DE MINISTROS la de entender en la organización, dirección y fiscalización del registro de empresas contratistas de obras públicas y de consultorías, competencia que antes detentaba el MINISTERIO DEL INTERIOR, OBRAS PÚBLICAS Y VIVIENDA , por lo que resulta necesario modificar el organigrama de aplicación y los objetivos de las áreas involucradas previstos en el Decreto N°\u00A0174/18 y sus modificatorios.\n\nQue en el marco de lo expuesto y en línea con la propiciada consolidación de la OFICINA NACIONAL DE CONTRATACIONES como Órgano Rector del Régimen de Contrataciones de la Administración Nacional resulta pertinente que, asimismo dicho organismo asuma la competencia referida de la SUBSECRETARÍA DE COORDINACIÓN DE OBRA PÚBLICA FEDERAL y tenga a su cargo además la administración y la reglamentación del funcionamiento del REGISTRO NACIONAL DE CONSTRUCTORES DE OBRAS PÚBLICAS.\n\nQue el Servicio Jurídico Permanente de la JEFATURA DE GABINETE DE MINISTROS ha tomado la intervención de su competencia.\n\nQue la presente medida se dicta en ejercicio de las atribuciones conferidas por el artículo 99, incisos 1 y 2 de la CONSTITUCIÓN NACIONAL. Por ello,"
+        "texto": "Que por la Ley N°\u00A013.064 se establece el régimen legal de Obras Públicas de la Nación.\n\nQue por la Ley N°\u00A017.520 se regula el régimen de concesiones de obra pública por un término fijo, a sociedades privadas o mixtas o a entes públicos para la construcción, conservación o explotación de obras públicas mediante el cobro de tarifas o peaje conforme a los procedimientos que fija dicha ley.\n\nQue por el Decreto N°\u00A01023/01 y su Decreto Reglamentario N°\u00A01030/16, ambos con sus modificatorios y complementarios, se regula el régimen general de contrataciones públicas.\n\nQue es política del Gobierno Nacional trabajar por el fortalecimiento continuo de las instituciones de la República, promoviendo la transparencia y la eficiencia en el gasto en todos los ámbitos donde desarrolla su actividad, a los fines de cumplir con los compromisos públicos asumidos ante los ciudadanos.\n\nQue la contratación pública -en general- y el régimen de contratación y ejecución de obra pública -en particular- constituyen un componente central de la actividad estatal y de la gobernanza estratégica, siendo instrumentos esenciales para la satisfacción de necesidades públicas tales como vivienda, energía, transporte, seguridad, comunicaciones, entre otras, que hacen al desarrollo económico con equidad social.\n\nQue, en efecto, dada la significancia de los recursos públicos afectados, la gestión adecuada de la obra pública tiene el potencial de desempeñar un papel de primer orden en el fomento de la eficiencia del sector público y como elemento que inspira confianza en los ciudadanos.\n\nQue, asimismo, un sistema de contratación y ejecución de obra pública diseñado desde un enfoque integral y estratégico coadyuva al logro de trascendentales objetivos de política, como la innovación, la protección ambiental, la creación de empleo, el fomento de la pequeña y mediana empresa y el desarrollo integral de las distintas regiones del país.\n\nQue, al mismo tiempo, por el enorme volumen de dinero que representa -entre un TRECE POR CIENTO (13 %) y un VEINTE POR CIENTO (20 %) del PBI en promedio, según estimaciones de la Organización para la Cooperación y el Desarrollo Económicos (OCDE)-, se trata de un sistema que se encuentra particularmente expuesto al riesgo de mala gestión, al fraude y a la corrupción.\n\nQue, respecto al costo económico de la corrupción, se estima que representa, en promedio, entre un VEINTE POR CIENTO (20 %) y un VEINTICINCO POR CIENTO (25 %) del valor de los contratos, derivando en impactos institucionales y macroeconómicos sustanciales para la REPÚBLICA ARGENTINA.\n\nQue resulta necesario adoptar medidas conforme a los estándares internacionales de transparencia y eficiencia en las contrataciones públicas, entre los que se destacan los receptados por la Recomendación del Consejo sobre Contratación Pública de la OCDE de 2015.\n\nQue el Gobierno Nacional ha adoptado importantes medidas en línea con dichas recomendaciones, constituyendo aquéllas manifestaciones claras de su compromiso con la mejora de la eficiencia y la transparencia del sistema de contrataciones y ejecución de obra pública.\n\nQue, entre ellas, cabe mencionar la aprobación del Régimen de Redeterminación de Precios de Contratos de Obra Pública y de Consultoría de Obra Pública, a través del Decreto N°\u00A0691/16, con el objeto de mantener el equilibrio económico financiero de los contratos de obra pública y consultoría de obra pública, garantizando de esta manera la continuidad de su ejecución aplicando el principio de esfuerzo compartido y permitiendo, a su vez, la celebración de nuevos contratos que otorguen mayor certeza y transparencia.\n\nQue, asimismo, mediante el Decreto N°\u00A0202/17 se estableció un mecanismo de autorregulación y publicidad para los casos en que pudiera existir un conflicto de interés o vinculación particular relevante entre uno de los interesados en contratar u obtener concesiones por parte del Estado, y el Presidente de la Nación, el Vicepresidente, el Jefe de Gabinete de Ministros, los ministros y/o autoridades de igual rango en el PODER EJECUTIVO NACIONAL, aunque estos no tuvieran competencia para decidir sobre la contratación o acto de que se trata, a fin de asegurar los más altos estándares de integridad, rectitud, transparencia y defensa del interés general, procurando, por un lado, la abstención del ejercicio de competencia por parte de las referidas autoridades en los casos de vinculación especial con los particulares interesados, y por el otro, proveer a la mayor transparencia posible en la gestión de las contrataciones y demás actos afectados por las situaciones descriptas.\n\nQue, a través del Mensaje N°\u00A0127 del 20 de octubre de 2016 el PODER EJECUTIVO NACIONAL sometió a consideración del HONORABLE CONGRESO DE LA NACIÓN un proyecto de ley tendiente a establecer un régimen de responsabilidad penal para las personas jurídicas por delitos cometidos contra la administración pública y por el cohecho transnacional tipificado en el artículo 258 bis del Código Penal y que diera lugar a la sanción de la Ley N°\u00A027.401 con el objeto de dotar de mayor eficacia a las políticas de prevención y lucha contra la corrupción a través de la generación de incentivos que prevengan la comisión de delitos contra la administración pública por medio de la implementación de programas de integridad y cooperen con las autoridades, de manera de coadyuvar a una mayor eficacia en la aplicación de la ley penal.\n\nQue, en materia de aprovechamiento de las tecnologías digitales para mejorar la accesibilidad, transparencia y eficiencia de los procesos de contratación, se destaca la progresiva implementación, a través del Decreto N°\u00A01336/16, del Sistema CONTRAT.AR para la contratación y seguimiento de ejecución de las Contrataciones de Obra Pública y Concesiones de Obra Pública.\n\nQue, no obstante los avances reseñados, es necesario continuar fortaleciendo el sistema de contrataciones y ejecución de obras públicas y atenuando el riesgo de que haya una mala administración, sobrecostos y corrupción que tanto han azotado a la REPÚBLICA ARGENTINA, obstaculizando, con ello, su desarrollo económico.\n\nQue, en primer lugar, se torna imperioso incorporar al sistema de contratación de obras públicas un\u00A0órgano rector y dotarlo con todas las facultades, necesarias que le permitan diseñar, formular, planificar, organizar, evaluar y controlar las políticas destinadas a satisfacer los objetivos señalados.\n\nQue, en particular y sin perjuicio de otras responsabilidades, deberán arbitrarse las medidas que fueran menester para administrar en forma transparente y eficiente el dinero de los contribuyentes que se canaliza a través del sistema de contrataciones, así como producir información y organizar las estadísticas sobre ese sistema\u00A0a fin de posibilitar la toma de decisiones fundadas y el control por parte del Estado y de la ciudadanía.\n\nQue en dicho contexto, también resulta conveniente establecer un régimen de sanciones adecuado, proporcional y gradual con el objetivo de disuadir y penalizar conductas disvaliosas por parte de los actores del sistema.\n\nQue, por razones de economía y especialización, se estima conveniente centralizar dichas funciones en la OFICINA NACIONAL DE CONTRATACIONES dependiente de la SECRETARÍA DE MODERNIZACIÓN ADMINISTRATIVA de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS.\n\nQue la aplicación de lo dispuesto en el artículo 1° del Decreto N°\u00A01336/16, por el que se implementó el Sistema de Gestión Electrónica para las contrataciones de Obra Pública y Concesiones de Obra Pública y Servicios Públicos y Licencias CONTRAT.AR, se limitó a esas contrataciones que hubieran sido celebradas con posterioridad a su entrada en vigencia; resulta necesario prever su aplicación para el seguimiento de ejecución de las Contrataciones de Obra Pública y Concesiones de Obra Pública, que hayan estado en curso de ejecución en dicho momento, salvo en aquellas que por presentar un significativo grado de avance en la ejecución de la obra, resultare ineficiente la implementación del mencionado sistema o que existieran otras razones debidamente fundadas que desaconsejen la incorporación del contrato al sistema \"CONTRAT.AR\".\n\nQue a dicho fin, resulta pertinente facultar a la OFICINA NACIONAL DE CONTRATACIONES, para que establezca un cronograma de implementación del Sistema de Gestión Electrónica \"CONTRAT.AR\" para los referidos contratos.\n\nQue asimismo, teniendo en cuenta las ventajas que conlleva la implementación de un Sistema de Gestión Electrónica como el \"CONTRAT.AR\" en la administración de los recursos públicos y en la ejecución de la obra pública en general, resulta conveniente propiciar la implementación progresiva de CONTRAT.AR para la contratación y seguimiento de ejecución de las obras financiadas total o parcialmente con fondos del Tesoro Nacional que ejecuten las provincias -o municipios.\n\nQue en línea con las medidas de transparencia en materia de contrataciones públicas que viene implementando el Estado Nacional, se considera necesario establecer la obligación de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS de implementar también un plan de apertura de datos en materia de Contrataciones de Obra Pública y Concesiones de Obra Pública, que genere \"sets de datos abiertos\" sobre todos los hitos relevantes del proceso de contratación y gestión de los contratos, sin otras limitaciones que las previstas en la Ley Nº\u00A027.275 de Derecho de Acceso a la Información Pública.\n\nQue a los fines de generar una instancia para el estudio y proyección de otras modificaciones al sistema de contrataciones públicas para el logro de los objetivos de política expuestos, resulta conveniente instruir a la OFICINA NACIONAL DE CONTRATACIONES a que elabore y publique un Programa de Gobernanza del Sistema de Contrataciones de Obra Pública y Concesiones de Obra Pública, invitando a formular propuestas a organizaciones de la sociedad civil y a expertos de reconocido prestigio y trayectoria en la materia.\n\nQue, asimismo, con el objeto de establecer estándares comunes en materia de condiciones de integridad que deben reunir quienes participen en procesos de contratación con la Administración Nacional, se considera pertinente regular en la presente medida pautas de inelegibilidad para los oferentes, sin perjuicio de lo que se prevea en la correspondiente documentación licitatoria o en otra normativa que le resulte aplicable.\n\nQue, por otro lado, el artículo 24 de la Ley N°\u00A027.401 establece que es condición para contratar con el Estado Nacional acreditar la existencia de un Programa de Integridad adecuado conforme a lo previsto en los artículos 22, 23 y 24 de dicha norma, por lo cual resulta apropiado instrumentar un formulario estándar a fin de optimizar la verificación del cumplimiento de tal exigencia, así como determinar el monto a partir del cual necesariamente una contratación deba ser aprobada por una autoridad con rango no menor a Ministro, con el objeto de establecer un criterio uniforme en toda la Administración Nacional.\n\nQue a su vez, por el artículo 13 de la Ley N°\u00A013.064 y sus modificatorias se creó el Registro Nacional de Constructores de Obras Públicas, a los efectos de la calificación y capacitación de las empresas, el que se rige por el reglamento que como Anexo I ha sido aprobado por el Decreto N°\u00A01724/93 y su modificatorio y normas complementarias.\n\nQue el Decreto N°\u00A0174/18 y sus modificatorios establece entre las competencias de la SUBSECRETARÍA DE COORDINACIÓN DE OBRA PÚBLICA FEDERAL dependiente de la SECRETARÍA DE PLANIFICACIÓN TERRITORIAL Y COORDINACIÓN DE OBRA PÚBLICA del MINISTERIO DEL INTERIOR, OBRAS PÚBLICAS Y VIVIENDA la de intervenir en la formulación e implementación de las políticas en materia de inscripción y calificación de constructores y firmas consultoras de obras públicas y ejercer el contralor en todo lo relacionado con el accionar del Registro Nacional de Constructores y Firmas Consultoras de Obras Públicas.\n\nQue por el Decreto N°\u00A01117/18 se modificó la Ley de Ministerios (texto ordenado por Decreto N°\u00A0438 del 12 de marzo de 1992) y sus modificatorias estableciendo dentro de las atribuciones del JEFE DE GABINETE DE MINISTROS la de entender en la organización, dirección y fiscalización del registro de empresas contratistas de obras públicas y de consultorías, competencia que antes detentaba el MINISTERIO DEL INTERIOR, OBRAS PÚBLICAS Y VIVIENDA , por lo que resulta necesario modificar el organigrama de aplicación y los objetivos de las áreas involucradas previstos en el Decreto N°\u00A0174/18 y sus modificatorios.\n\nQue en el marco de lo expuesto y en línea con la propiciada consolidación de la OFICINA NACIONAL DE CONTRATACIONES como Órgano Rector del Régimen de Contrataciones de la Administración Nacional resulta pertinente que, asimismo dicho organismo asuma la competencia referida de la SUBSECRETARÍA DE COORDINACIÓN DE OBRA PÚBLICA FEDERAL y tenga a su cargo además la administración y la reglamentación del funcionamiento del REGISTRO NACIONAL DE CONSTRUCTORES DE OBRAS PÚBLICAS.\n\nQue el Servicio Jurídico Permanente de la JEFATURA DE GABINETE DE MINISTROS ha tomado la intervención de su competencia.\n\nQue la presente medida se dicta en ejercicio de las atribuciones conferidas por el artículo 99, incisos 1 y 2 de la CONSTITUCIÓN NACIONAL. Por ello,"
       },
       "articulo": [
         {
@@ -414,7 +409,14 @@
           },
           "numero-articulo": 5,
           "titulo-articulo": "PAUTAS DE INELEGIBILIDAD.",
-          "texto": "ARTÍCULO 5°.- En los procedimientos de Contrataciones de Obra Pública y Concesiones de Obra pública, deberá desestimarse la oferta, cuando de la información a la que se refiere el artículo 16 del Decreto N°\u00A01023/01, sus modificatorios y complementarios, sin perjuicio de lo que se establezca en la documentación licitatoria o de la normativa que le resulte aplicable, surja que se configura alguno de los siguientes supuestos:\n\na. Existan indicios que hicieran presumir que el oferente es una continuación, transformación, fusión o escisión de otras empresas no habilitadas para contratar con la Administración Nacional, de acuerdo a lo prescripto por el artículo 28 del    Decreto N°\u00A01023/01, sus modificatorios y complementarios, y de las controladas o controlantes de aquellas;\n\nb. Se trate de integrantes de empresas no habilitadas para contratar con la Administración Nacional, de acuerdo a lo prescripto por el artículo 28 del Decreto N°\u00A01023/01, sus modificatorios y complementarios;\n\nc. Existan indicios que por su precisión y concordancia hicieran presumir que los oferentes han concertado o coordinado posturas en el procedimiento de selección. Se entenderá configurada esta causal de inelegibilidad, entre otros supuestos, en ofertas presentadas por cónyuges, convivientes o parientes de primer grado en línea recta;\n\nd. Existan indicios que por su precisión y concordancia hicieran presumir que media simulación de competencia o concurrencia. Se entenderá configurada esta causal, entre otros supuestos, cuando un oferente participe en más de una oferta como integrante de un grupo, asociación o persona jurídica, o bien cuando se presente en nombre propio y como integrante de un grupo, asociación o persona jurídica;\n\ne. Existan indicios que por su precisión y concordancia hicieran presumir que media en el caso una simulación tendiente a eludir los efectos de las causales de inhabilidad para contratar con la Administración Nacional, de acuerdo a lo prescripto por el artículo 28 del Decreto N°\u00A01023/01, sus modificatorios y complementarios;\n\nf. Se haya dictado, dentro de los TRES (3) años calendario anteriores a su presentación, alguna sanción judicial o administrativa contra el oferente, por abuso de posición dominante o dumping, cualquier forma de competencia desleal o por concertar o coordinar posturas en los procedimientos de selección;\n\ng. Surjan incumplimientos en anteriores contratos, de acuerdo a lo que se disponga en los respectivos Pliegos de Bases y Condiciones Particulares;\n\nh. Se trate de personas jurídicas condenadas, con sentencia firme recaída en el extranjero, por prácticas de soborno o cohecho transnacional en los términos de la Convención de la ORGANIZACIÓN DE COOPERACIÓN Y DE DESARROLLO ECONÓMICOS (OCDE) para Combatir el Cohecho a Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales. En este supuesto serán inelegibles por un lapso igual al doble de la condena; o i. Se trate de personas humanas o jurídicas incluidas en las listas de inhabilitados del BANCO MUNDIAL y/o del BANCO INTERAMERICANO DE DESARROLLO (BID), a raíz de conductas o prácticas de corrupción contempladas en la Convención de la ORGANIZACIÓN DE COOPERACIÓN Y DE DESARROLLO ECONÓMICOS (OCDE) para Combatir el Cohecho a Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales. Al momento de evaluar las ofertas las jurisdicciones y entidades contratantes deberán verificar que los oferentes no se encuentren incluidos en las listas de inhabilitados referidas.\n\nEn caso de desestimarse una oferta por resultar inelegible, las jurisdicciones y entidades contratantes deberán comunicar dicha circunstancia a la OFICINA NACIONAL DE CONTRATACIONES a fin de aplicar la sanción prevista en el artículo 2.4 del inciso b) del artículo 1° del ANEXO II del presente."
+          "texto": "ARTÍCULO 5°.- En los procedimientos de Contrataciones de Obra Pública y Concesiones de Obra pública, deberá desestimarse la oferta, cuando de la información a la que se refiere el artículo 16 del Decreto N°\u00A01023/01, sus modificatorios y complementarios, sin perjuicio de lo que se establezca en la documentación licitatoria o de la normativa que le resulte aplicable, surja que se configura alguno de los siguientes supuestos:\n\na. Existan indicios que hicieran presumir que el oferente es una continuación, transformación, fusión o escisión de otras empresas no habilitadas para contratar con la Administración Nacional, de acuerdo a lo prescripto por el artículo 28 del Decreto N°\u00A01023/01, sus modificatorios y complementarios, y de las controladas o controlantes de aquellas;\n\nb. Se trate de integrantes de empresas no habilitadas para contratar con la Administración Nacional, de acuerdo a lo prescripto por el artículo 28 del Decreto N°\u00A01023/01, sus modificatorios y complementarios;\n\nc. Existan indicios que por su precisión y concordancia hicieran presumir que los oferentes han concertado o coordinado posturas en el procedimiento de selección. Se entenderá configurada esta causal de inelegibilidad, entre otros supuestos, en ofertas presentadas por cónyuges, convivientes o parientes de primer grado en línea recta;\n\nd. Existan indicios que por su precisión y concordancia hicieran presumir que media simulación de competencia o concurrencia. Se entenderá configurada esta causal, entre otros supuestos, cuando un oferente participe en más de una oferta como integrante de un grupo, asociación o persona jurídica, o bien cuando se presente en nombre propio y como integrante de un grupo, asociación o persona jurídica;\n\ne. Existan indicios que por su precisión y concordancia hicieran presumir que media en el caso una simulación tendiente a eludir los efectos de las causales de inhabilidad para contratar con la Administración Nacional, de acuerdo a lo prescripto por el artículo 28 del Decreto N°\u00A01023/01, sus modificatorios y complementarios;\n\nf. Se haya dictado, dentro de los TRES (3) años calendario anteriores a su presentación, alguna sanción judicial o administrativa contra el oferente, por abuso de posición dominante o dumping, cualquier forma de competencia desleal o por concertar o coordinar posturas en los procedimientos de selección;\n\ng. Surjan incumplimientos en anteriores contratos, de acuerdo a lo que se disponga en los respectivos Pliegos de Bases y Condiciones Particulares;\n\nh. Se trate de personas jurídicas condenadas, con sentencia firme recaída en el extranjero, por prácticas de soborno o cohecho transnacional en los términos de la Convención de la ORGANIZACIÓN DE COOPERACIÓN Y DE DESARROLLO ECONÓMICOS (OCDE) para Combatir el Cohecho a Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales. En este supuesto serán inelegibles por un lapso igual al doble de la condena; o .\n\ni. Las personas humanas o jurídicas incluidas en las listas de inhabilitados del BANCO MUNDIAL y/o del BANCO INTERAMERICANO DE DESARROLLO por prácticas corruptas, fraudulentas, colusorias, coercitivas, obstructivas, apropiación indebida, y/o por cualquier otra causal prevista para la integración de esas listas, serán inelegibles mientras subsista dicha condición. Al momento de evaluar las ofertas las jurisdicciones y entidades contratantes deberán verificar que los oferentes no se encuentren incluidos en las listas de inhabilitados referidas.\n\nEn caso de desestimarse una oferta por resultar inelegible, las jurisdicciones y entidades contratantes deberán comunicar dicha circunstancia a la OFICINA NACIONAL DE CONTRATACIONES a fin de aplicar la sanción prevista en el artículo 2.4 del inciso b) del artículo 1° del ANEXO II del presente.",
+          "modificado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 6/01/2026) INCISO i) SUSTITUIDO. VIGENCIA: A PARTIR DE LOS 15 DIAS CORRIDOS CONTADOS A PARTIR DEL DIA HABIL SIGUIENTE AL DE SU PUBLICACION OFICIAL",
+              "id": "MODIFICADO_POR_0",
+              "ref": "DEC C 000005 2026 01 05 0002 000 0000 000"
+            }
+          }
         },
         {
           "numero-articulo": 6,
@@ -431,7 +433,7 @@
           },
           "numero-articulo": 7,
           "titulo-articulo": "PROGRAMA DE INTEGRIDAD.",
-          "texto": "ARTÍCULO 7°.- Apruébase el Formulario del Programa de Integridad que como ANEXO III (IF-2018-67270042-APN-SFI#JGM) forma parte integrante del presente    decreto, el que será utilizado a fin de que los oferentes de las Contrataciones de Obra Pública y Concesiones de Obra Pública declaren la efectiva implementación de un Programa de Integridad adecuado conforme a lo previsto en los artículos 22, 23 y 24 de la Ley N°\u00A027.401."
+          "texto": "ARTÍCULO 7°.- Apruébase el Formulario del Programa de Integridad que como ANEXO III (IF-2018-67270042-APN-SFI#JGM) forma parte integrante del presente decreto, el que será utilizado a fin de que los oferentes de las Contrataciones de Obra Pública y Concesiones de Obra Pública declaren la efectiva implementación de un Programa de Integridad adecuado conforme a lo previsto en los artículos 22, 23 y 24 de la Ley N°\u00A027.401."
         },
         {
           "referencias-normativas": {
@@ -450,7 +452,7 @@
           },
           "numero-articulo": 8,
           "titulo-articulo": "AUTORIDADES COMPETENTES.",
-          "texto": "ARTÍCULO 8°.- Será competencia exclusiva de los Ministros, de los funcionarios con rango y jerarquía de ministros y de las máximas autoridades de los organismos descentralizados, según corresponda, en relación a los contratos previstos en el inciso b) del artículo 4° del    Decreto N°\u00A01023/01, sus modificatorios y complementarios, el dictado de los siguientes actos administrativos:\n\na. Autorización de la convocatoria y elección del procedimiento de selección;\n\nb. Aprobación de los Pliegos de Bases y Condiciones Particulares; c. Aprobación de la preselección de los oferentes en los procedimientos con etapa múltiple;\n\nd. Aprobación del procedimiento de selección;\n\ne. Adjudicación;\n\nf. Declaración de desierto;\n\ng. Declaración de fracasado;\u00A0y h. Decisión de dejar sin efecto un procedimiento.\n\nCuando el monto estimado de las contrataciones de Obra Pública sea inferior a MÓDULOS CIENTO VEINTICINCO MIL (M 125.000) los Ministros, los funcionarios con rango y jerarquía de ministros y las máximas autoridades de los organismos descentralizados podrán subdelegar las facultades en la materia en los Secretarios de Gobierno, Secretarios ministeriales y Subsecretarios de su jurisdicción, u órganos correspondientes del organismo descentralizado, en los términos de lo previsto en el artículo 2° de la Ley N°\u00A013.064 y sus modificatorias.\n\nLa autoridad con competencia para dictar los actos administrativos de aprobación de ampliaciones, disminuciones, prórrogas, suspensión, resolución, rescisión, rescate y declaración de caducidad, será la que haya dictado el acto administrativo de adjudicación o la autoridad en la que se hubiese delegado tal facultad.\n\nLa autoridad con competencia para revocar los actos administrativos del procedimiento de contratación será la que haya dictado el acto que se revoca o la autoridad en la que se hubiese delegado tal facultad."
+          "texto": "ARTÍCULO 8°.- Será competencia exclusiva de los Ministros, de los funcionarios con rango y jerarquía de ministros y de las máximas autoridades de los organismos descentralizados, según corresponda, en relación a los contratos previstos en el inciso b) del artículo 4° del Decreto N°\u00A01023/01, sus modificatorios y complementarios, el dictado de los siguientes actos administrativos:\n\na. Autorización de la convocatoria y elección del procedimiento de selección;\n\nb. Aprobación de los Pliegos de Bases y Condiciones Particulares; c. Aprobación de la preselección de los oferentes en los procedimientos con etapa múltiple;\n\nd. Aprobación del procedimiento de selección;\n\ne. Adjudicación;\n\nf. Declaración de desierto;\n\ng. Declaración de fracasado;\u00A0y h. Decisión de dejar sin efecto un procedimiento.\n\nCuando el monto estimado de las contrataciones de Obra Pública sea inferior a MÓDULOS CIENTO VEINTICINCO MIL (M 125.000) los Ministros, los funcionarios con rango y jerarquía de ministros y las máximas autoridades de los organismos descentralizados podrán subdelegar las facultades en la materia en los Secretarios de Gobierno, Secretarios ministeriales y Subsecretarios de su jurisdicción, u órganos correspondientes del organismo descentralizado, en los términos de lo previsto en el artículo 2° de la Ley N°\u00A013.064 y sus modificatorias.\n\nLa autoridad con competencia para dictar los actos administrativos de aprobación de ampliaciones, disminuciones, prórrogas, suspensión, resolución, rescisión, rescate y declaración de caducidad, será la que haya dictado el acto administrativo de adjudicación o la autoridad en la que se hubiese delegado tal facultad.\n\nLa autoridad con competencia para revocar los actos administrativos del procedimiento de contratación será la que haya dictado el acto que se revoca o la autoridad en la que se hubiese delegado tal facultad."
         },
         {
           "referencias-normativas": {
@@ -462,26 +464,26 @@
           },
           "numero-articulo": 9,
           "titulo-articulo": "VALOR DEL MÓDULO.",
-          "texto": "ARTÍCULO 9º.- A los efectos de lo establecido en la presente medida el valor del módulo será el establecido en el artículo 28 del Reglamento aprobado por el    Decreto Nº\u00A01030/16 y sus modificatorios."
+          "texto": "ARTÍCULO 9º.- A los efectos de lo establecido en la presente medida el valor del módulo será el establecido en el artículo 28 del Reglamento aprobado por el Decreto Nº\u00A01030/16 y sus modificatorios."
         },
         {
           "modifica-a": {
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000  A"
+              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000 A"
             }
           },
           "numero-articulo": 10,
           "titulo-articulo": "ORGANIGRAMA DE APLICACIÓN.",
-          "texto": "ARTÍCULO 10.- Sustitúyese, del   Anexo I -Organigrama de Aplicación de la Administración Nacional centralizada- aprobado por el artículo 1º del Decreto N°\u00A0174/18 y sus modificatorios, los Apartados IV, correspondiente a la JEFATURA DE GABINETE DE MINISTROS, y IV BIS, correspondiente a la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN por los siguientes:\n\n\"IV. - JEFATURA DE GABINETE DE MINISTROS · SUBSECRETARÍA DE COORDINACIÓN ADMINISTRATIVA SECRETARÍA DE EVALUACIÓN PRESUPUESTARIA, INVERSIÓN PÚBLICA Y PARTICIPACIÓN PÚBLICO PRIVADA · SUBSECRETARÍA DE PARTICIPACIÓN PÚBLICO PRIVADA COORDINACIÓN GENERAL UNIDAD TÉCNICA G20 SECRETARÍA DE COMUNICACIÓN PÚBLICA SECRETARÍA DE RELACIONES POLÍTICAS Y PARLAMENTARIAS SECRETARÍA DE ASUNTOS ESTRATÉGICOS SECRETARÍA DE FORTALECIMIENTO INSTITUCIONAL IV BIS.\n\n- SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN · SUBSECRETARÍA DE COORDINACIÓN ADMINISTRATIVA · SUBSECRETARÍA DE RELACIONES LABORALES Y FORTALECIMIENTO DEL SERVICIO CIVIL · SUBSECRETARÍA DE INNOVACIÓN PÚBLICA Y GOBIERNO ABIERTO · SUBSECRETARÍA PAÍS DIGITAL UNIDAD DE COORDINACIÓN GENERAL SECRETARÍA DE GOBIERNO DIGITAL E INNOVACIÓN TECNOLÓGICA · SUBSECRETARÍA DE GOBIERNO DIGITAL SECRETARÍA DE EMPLEO PÚBLICO · SUBSECRETARÍA DE PLANIFICACIÓN DE EMPLEO PÚBLICO · INSTITUTO NACIONAL DE LA ADMINISTRACIÓN PÚBLICA SECRETARÍA DE MODERNIZACIÓN ADMINISTRATIVA · SUBSECRETARÍA DE GESTIÓN ADMINISTRATIVA · OFICINA NACIONAL DE CONTRATACIONES SECRETARÍA DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES · SUBSECRETARÍA DE REGULACIÓN · SUBSECRETARÍA DE PLANEAMIENTO\""
+          "texto": "ARTÍCULO 10.- Sustitúyese, del Anexo I -Organigrama de Aplicación de la Administración Nacional centralizada- aprobado por el artículo 1º del Decreto N°\u00A0174/18 y sus modificatorios, los Apartados IV, correspondiente a la JEFATURA DE GABINETE DE MINISTROS, y IV BIS, correspondiente a la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN por los siguientes:\n\n\"IV. - JEFATURA DE GABINETE DE MINISTROS · SUBSECRETARÍA DE COORDINACIÓN ADMINISTRATIVA SECRETARÍA DE EVALUACIÓN PRESUPUESTARIA, INVERSIÓN PÚBLICA Y PARTICIPACIÓN PÚBLICO PRIVADA · SUBSECRETARÍA DE PARTICIPACIÓN PÚBLICO PRIVADA COORDINACIÓN GENERAL UNIDAD TÉCNICA G20 SECRETARÍA DE COMUNICACIÓN PÚBLICA SECRETARÍA DE RELACIONES POLÍTICAS Y PARLAMENTARIAS SECRETARÍA DE ASUNTOS ESTRATÉGICOS SECRETARÍA DE FORTALECIMIENTO INSTITUCIONAL IV BIS.\n\n- SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN · SUBSECRETARÍA DE COORDINACIÓN ADMINISTRATIVA · SUBSECRETARÍA DE RELACIONES LABORALES Y FORTALECIMIENTO DEL SERVICIO CIVIL · SUBSECRETARÍA DE INNOVACIÓN PÚBLICA Y GOBIERNO ABIERTO · SUBSECRETARÍA PAÍS DIGITAL UNIDAD DE COORDINACIÓN GENERAL SECRETARÍA DE GOBIERNO DIGITAL E INNOVACIÓN TECNOLÓGICA · SUBSECRETARÍA DE GOBIERNO DIGITAL SECRETARÍA DE EMPLEO PÚBLICO · SUBSECRETARÍA DE PLANIFICACIÓN DE EMPLEO PÚBLICO · INSTITUTO NACIONAL DE LA ADMINISTRACIÓN PÚBLICA SECRETARÍA DE MODERNIZACIÓN ADMINISTRATIVA · SUBSECRETARÍA DE GESTIÓN ADMINISTRATIVA · OFICINA NACIONAL DE CONTRATACIONES SECRETARÍA DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES · SUBSECRETARÍA DE REGULACIÓN · SUBSECRETARÍA DE PLANEAMIENTO\""
         },
         {
           "modifica-a": {
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000  B"
+              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000 B"
             }
           },
           "numero-articulo": 11,
@@ -493,7 +495,7 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000  B"
+              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000 B"
             }
           },
           "numero-articulo": 12,
@@ -505,7 +507,7 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000  B"
+              "ref": "DEC C 000174 2018 03 02 0000 000 0000 000 B"
             }
           },
           "numero-articulo": 13,
@@ -586,7 +588,8 @@
           "texto": "PLANILLA ANEXA ART. 13"
         }
       ],
-      "id-infojus": "DN20180001169"
+      "id-infojus": "DN20180001169",
+      "fecha-umod": 20260106115630
     }
   }
 }
