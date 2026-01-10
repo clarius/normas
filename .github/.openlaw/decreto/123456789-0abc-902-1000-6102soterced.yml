@@ -1,0 +1,229 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Document not found with ID '123456789-0abc-902-1000-6102soterced. (Parameter 'id')
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 237
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-902-1000-6102soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Individual, Solo Modificatoria o Sin Eficacia
+  Date: 2016-12-01
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-902-1000-6102soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 1209-nacional-renuncia-al-cargo-jueza-juzgado-nacional-menores-6-capital-federal-dn20160001209-2016-12-01
+      content:
+        mecanografico: 20160001209
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        numero-norma: 1209
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        fecha: 2016-12-01
+        standard-normativo: DEC C 001209 2016 12 01
+        titulo-norma: Renuncia al cargo de Jueza del Juzgado Nacional de Menores N° 6 de la Capital Federal
+        nombre-coloquial: DECRETO NACIONAL 1.209/2016
+        estado: Individual, Solo Modificatoria o Sin Eficacia
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: renuncia al cargo
+            preferido:
+              termino: Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/renuncia al empleo
+            sinonimos:
+              termino:
+              - distracto
+              - contrato laboral
+              - derecho del trabajo
+              - renuncia al trabajo
+              - dimisión
+              - renuncia del empleado
+              - distracto laboral
+              - renuncia al cargo
+              - renuncia del trabajador
+          - elegido:
+              termino: juez de menores
+            preferido:
+              termino: Derecho procesal/jurisdicción y competencia/competencia/competencia por la materia/Fuero de la niñez, la adolescencia y la familia/competencia de menores
+            sinonimos:
+              termino:
+              - competencia material
+              - justicia de menores
+              - juez incompetente
+              - juez de menores
+              - justicia de niñez, adolescencia y familia
+              - competencia por el fuero
+              - competencia en razón de la materia
+              - juez competente
+              - tribunal competente
+              - competencia jurisdiccional
+          suggest:
+            termino:
+            - distracto laboral (extinción del contrato de trabajo)
+            - distracto (extinción del contrato de trabajo)
+            - Fuero de la niñez, la adolescencia y la familia
+            - competencia por la materia
+            - contrato laboral (contrato de trabajo)
+            - competencia
+            - justicia de niñez, adolescencia y familia (Fuero de la niñez, la adolescencia y la familia)
+            - renuncia al cargo (renuncia al empleo)
+            - renuncia del empleado (renuncia al empleo)
+            - Derecho procesal
+            - juez de menores (competencia de menores)
+            - competencia en razón de la materia (competencia por la materia)
+            - renuncia al empleo
+            - justicia de menores (competencia de menores)
+            - competencia material (competencia por la materia)
+            - competencia de menores
+            - competencia jurisdiccional (competencia)
+            - dimisión (renuncia al empleo)
+            - contrato de trabajo
+            - derecho del trabajo (Derecho laboral)
+            - juez competente (competencia)
+            - Derecho laboral
+            - jurisdicción y competencia
+            - renuncia del trabajador (renuncia al empleo)
+            - tribunal competente (competencia)
+            - juez incompetente (competencia)
+            - renuncia al trabajo (renuncia al empleo)
+            - extinción del contrato de trabajo
+            - competencia por el fuero (competencia por la materia)
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-902-1000-6102soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "1209-nacional-renuncia-al-cargo-jueza-juzgado-nacional-menores-6-capital-federal-dn20160001209-2016-12-01"
+          }
+        },
+        "content": {
+          "mecanografico": 20160001209,
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "numero-norma": 1209,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "fecha": "2016-12-01",
+          "standard-normativo": "DEC C 001209 2016 12 01",
+          "titulo-norma": "Renuncia al cargo de Jueza del Juzgado Nacional de Menores N° 6 de la Capital Federal",
+          "nombre-coloquial": "DECRETO NACIONAL 1.209/2016",
+          "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "renuncia al cargo"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/renuncia al empleo"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "distracto",
+                    "contrato laboral",
+                    "derecho del trabajo",
+                    "renuncia al trabajo",
+                    "dimisión",
+                    "renuncia del empleado",
+                    "distracto laboral",
+                    "renuncia al cargo",
+                    "renuncia del trabajador"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "juez de menores"
+                },
+                "preferido": {
+                  "termino": "Derecho procesal/jurisdicción y competencia/competencia/competencia por la materia/Fuero de la niñez, la adolescencia y la familia/competencia de menores"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "competencia material",
+                    "justicia de menores",
+                    "juez incompetente",
+                    "juez de menores",
+                    "justicia de niñez, adolescencia y familia",
+                    "competencia por el fuero",
+                    "competencia en razón de la materia",
+                    "juez competente",
+                    "tribunal competente",
+                    "competencia jurisdiccional"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "distracto laboral (extinción del contrato de trabajo)",
+                "distracto (extinción del contrato de trabajo)",
+                "Fuero de la niñez, la adolescencia y la familia",
+                "competencia por la materia",
+                "contrato laboral (contrato de trabajo)",
+                "competencia",
+                "justicia de niñez, adolescencia y familia (Fuero de la niñez, la adolescencia y la familia)",
+                "renuncia al cargo (renuncia al empleo)",
+                "renuncia del empleado (renuncia al empleo)",
+                "Derecho procesal",
+                "juez de menores (competencia de menores)",
+                "competencia en razón de la materia (competencia por la materia)",
+                "renuncia al empleo",
+                "justicia de menores (competencia de menores)",
+                "competencia material (competencia por la materia)",
+                "competencia de menores",
+                "competencia jurisdiccional (competencia)",
+                "dimisión (renuncia al empleo)",
+                "contrato de trabajo",
+                "derecho del trabajo (Derecho laboral)",
+                "juez competente (competencia)",
+                "Derecho laboral",
+                "jurisdicción y competencia",
+                "renuncia del trabajador (renuncia al empleo)",
+                "tribunal competente (competencia)",
+                "juez incompetente (competencia)",
+                "renuncia al trabajo (renuncia al empleo)",
+                "extinción del contrato de trabajo",
+                "competencia por el fuero (competencia por la materia)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-902-1000-6102soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2016-12-01",
+      "status": "Individual, Solo Modificatoria o Sin Eficacia",
+      "timestamp": null
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
