@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-233-0000-2202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1716980973673,
+      "timestamp": 1767631411536,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,39 +16,46 @@
     },
     "content": {
       "mecanografico": 20220000332,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 332,
+      "fecha": "2022-06-16",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 332,
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2022-06-16",
       "standard-normativo": "DEC C 000332 2022 06 16",
       "titulo-norma": "Régimen de segmentación de subsidios de los servicios públicos de energía eléctrica y gas natural por red",
+      "nombre-coloquial": "DECRETO NACIONAL 332/2022",
+      "lugar-emision": "CAPITAL FEDERAL",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Suplemento Oficial",
           "fecha": "2022 06 16"
         }
       },
-      "lugar-emision": "CAPITAL FEDERAL",
-      "nombre-coloquial": "DECRETO NACIONAL 332/2022",
       "analista": "Mazza, Gustavo",
-      "estado": "Vigente, de alcance general",
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-05-29",
-      "fecha-mod": "2024-05-29",
-      "timestamp": "2024-05-29T08:02:22",
-      "timestamp-alta": "2024-05-29T08:02:22",
-      "timestamp-m": "2024-05-29T08:02:22",
+      "fecha-alta": "2026-01-05",
+      "fecha-mod": "2026-01-05",
+      "timestamp": "2026-01-05T13:37:08",
+      "timestamp-alta": "2026-01-05T13:37:08",
+      "timestamp-m": "2026-01-05T13:37:08",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(B.O. 2/1/2026) DEROGADO. VIGENCIA EL DIA DE SU PUBLICACION EN EL BOLETIN OFICIAL",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000943 2025 12 31 0020 000 0000 000"
+          }
+        },
         "sintesis": "Se establece un Régimen de segmentación de subsidios a usuarios y usuarias residenciales de los servicios públicos de energía eléctrica y gas natural por red.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 16.\n\nOBSERVACION: POR RESOLUCION 467/22 DE LA SECRETARIA DE ENERGIA (B.O. 28/6/2022) SE IMPLEMENTA LA SEGMENTACION DE LA ASIGNACION DE SUBSIDIOS DE ENERGIA ELECTRICA Y GAS NATURAL.",
         "adherida-por": {
@@ -133,9 +140,7 @@
               "termino": [
                 "industria gasífera",
                 "Derecho Minero",
-                "actividad minera",
-                "gas natural comprimido",
-                "GNC"
+                "actividad minera"
               ]
             }
           }
@@ -149,8 +154,6 @@
             "Hacienda y Finanzas (Economía y finanzas)",
             "actividad minera (minería)",
             "subsidio del Estado (subsidio estatal)",
-            "gas natural comprimido (gas natural)",
-            "GNC (gas natural)",
             "recursos energéticos",
             "electricidad (energía eléctrica)",
             "servicio público",
@@ -332,7 +335,7 @@
         "firmantes": "FERNÁNDEZ - Juan Luis Manzur - Martín Guzmán"
       },
       "id-infojus": "DN20220000332",
-      "fecha-umod": 20240529080933
+      "fecha-umod": 20260105134331
     }
   }
 }

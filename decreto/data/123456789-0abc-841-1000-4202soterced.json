@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-841-1000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1735840753780,
+      "timestamp": 1767632717456,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,7 +16,7 @@
     },
     "content": {
       "mecanografico": 20240001148,
-      "estado": "Vigente, de alcance general",
+      "estado": "Derogada",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,12 +43,19 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-01-02",
-      "fecha-mod": "2025-01-02",
-      "timestamp": "2025-01-02T14:54:29",
-      "timestamp-alta": "2025-01-02T14:54:29",
-      "timestamp-m": "2025-01-02T14:54:29",
+      "fecha-alta": "2026-01-05",
+      "fecha-mod": "2026-01-05",
+      "timestamp": "2026-01-05T14:00:03",
+      "timestamp-alta": "2026-01-05T14:00:03",
+      "timestamp-m": "2026-01-05T14:00:03",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": "(BO 2/1/2025) DEROGADO. VIGENCIA A PARTIR DEL 1 DE ENERO DE 2026.",
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000934 2025 12 31 0007 000 0000 000"
+          }
+        },
         "sintesis": "Se aprueban disposiciones sobre contrataciones de personal en el Sector Público Nacional",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 8.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 7.\n\nFECHA DE ENTRADA EN VIGENCIA: 1/1/2025."
       },
@@ -315,7 +322,7 @@
         "firmantes": "MILEI-Sturzenegger"
       },
       "id-infojus": "DN20240001148",
-      "fecha-umod": 20250102145913
+      "fecha-umod": 20260105140517
     }
   }
 }
