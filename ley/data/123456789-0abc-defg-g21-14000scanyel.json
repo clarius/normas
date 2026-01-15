@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g21-14000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1738844569987,
+      "timestamp": 1768492057043,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -94,11 +94,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-02-06",
-      "fecha-mod": "2025-02-06",
-      "timestamp": "2025-02-06T09:09:31",
-      "timestamp-alta": "2025-02-06T09:09:31",
-      "timestamp-m": "2025-02-06T09:09:31",
+      "fecha-alta": "2026-01-15",
+      "fecha-mod": "2026-01-15",
+      "timestamp": "2026-01-15T12:42:25",
+      "timestamp-alta": "2026-01-15T12:42:25",
+      "timestamp-m": "2026-01-15T12:42:25",
       "sumario": {
         "sumario": "PENA PRIVATIVA DE LA LIBERTAD-EJECUCION DE LA PENA- REGIMEN PENITENCIARIO-PERIODO DE OBSERVACION DEL CONDENADO- PERIODO DE TRATAMIENTO DEL CONDENADO- PERIODO DE PRUEBA DEL CONDENADO-CALIFICACION DE CONDUCTA DEL INTERNO- CALIFICACION DE CONCEPTO DEL INTERNO-TRABAJO PENITENCIARIO- VISITAS CARCELARIAS-ASISTENCIA SOCIAL-ASISTENCIA POSTPENITENCIARIA- PATRONATO DE LIBERADOS-ESTABLECIMIENTOS PENITENCIARIOS"
       },
@@ -348,11 +348,18 @@
         "informacion-vinculada": 1E+19,
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 231 OBSERVACION: POR ART. 1 DE LA LEY 26695 SE SUSTITUYE EL CAPITULO VIII (ARTS. 133 A 142)",
         "adherida-por": {
-          "referencia-normativa": {
-            "cr": null,
-            "id": "ADHERIDA_POR_0",
-            "ref": "LEY K 005776 2022 09 22 0000 000 0000 000"
-          }
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_0",
+              "ref": "LEY K 005776 2022 09 22 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_1",
+              "ref": "LEY D 001179 2025 11 18 0001 000 0000 000"
+            }
+          ]
         }
       },
       "segmento": [
@@ -2281,7 +2288,7 @@
         }
       ],
       "id-infojus": "LNS0004112",
-      "fecha-umod": 20250206092249
+      "fecha-umod": 20260115124737
     }
   }
 }
