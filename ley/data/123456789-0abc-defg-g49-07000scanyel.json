@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g49-07000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1699015237324,
+      "timestamp": 1768571195954,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -64,11 +64,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2023-11-03",
-      "fecha-mod": "2023-11-03",
-      "timestamp": "2023-11-03T09:34:54",
-      "timestamp-alta": "2023-11-03T09:34:54",
-      "timestamp-m": "2023-11-03T09:34:54",
+      "fecha-alta": "2026-01-16",
+      "fecha-mod": "2026-01-16",
+      "timestamp": "2026-01-16T10:35:26",
+      "timestamp-alta": "2026-01-16T10:35:26",
+      "timestamp-m": "2026-01-16T10:35:26",
       "sumario": {
         "sumario": "INTERES PUBLICO HIV HEPATITIS TRANSMISION DE ENFERMEDADES TUBERCULOSIS DERECHO A LA SALUD OBRAS SOCIALES MEDICINA PREPAGA JUBILACIONES Y PENSIONES LEY NACIONAL DE RESPUESTA INTEGRAL AL VIH HEPATITIS VIRALES OTRAS INFECCIONES DE TRANSMISION SEXUAL ITS Y TUBERCULOSIS TBC"
       },
@@ -255,11 +255,18 @@
       "generalidades": {
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 45.\n\nOBSERVACION: POR RESOLUCION 42/22 DEL MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL SECRETARÍA DE SEGURIDAD SOCIAL (B.O. 13/12/2022) SE DICTAN NORMAS ACLARATORIAS Y COMPLEMENTARIAS A FIN DE PRECISAR EL ALCANCE DE LAS PRESTACIONES A OTORGAR EN EL MARCO DE LA PRESENTE LEY.\n\nOBSERVACION: POR RESOLUCION 858/23 DEL MINISTERIO DE SALUD (B.O. 3/5/2023) SE CONFORMA LA COMISION NACIONAL DE VIH, HEPATITIS VIRALES, OTRAS INFECCIONES DE TRANSMISION SEXUAL Y TUBERCULOSIS ESTABLECIDAS EN EL ART. 22.\n\nOBSERVACION: POR RESOLUCION 3298/23 DEL MINISTERIO DE SALUD (B.O. 25/10/2023) SE APRUEBAN LOS CRITERIOS E INDICADORES OBJETIVABLES DE VIDA PARA LAS PERSONAS CON HEPATITIS B y/o C A FIN DE GARANTIZAR EL ACCESO A LOS BENEFICIOS DE LAS PRESTACIONES DE LA SEGURIDAD SOCIAL CONTEMPLADAS EN LA PRESENTE LEY.\n\nOBSERVACION: POR RESOLUCION 191/23 DEL INSTITUTO NACIONAL CONTRA LA DISCRIMINACIÓN, LA XENOFOBIA Y EL RACISMO (B.O. 3/11/2023) SE CONFORMA EL OBSERVATORIO NACIONAL SOBRE ESTIGMA Y DISCRIMINACION POR VIH, HEPATITIS VIRALES, OTRAS INFECCIONES DE TRANSMISIÓN SEXUAL Y TUBERCULOSIS CONFORME AL ART. 23 DE LA PRESENTE LEY.",
         "adherida-por": {
-          "referencia-normativa": {
-            "cr": null,
-            "id": "ADHERIDA_POR_0",
-            "ref": "LEY U 000740 2022 09 13 0000 000 0000 000"
-          }
+          "referencia-normativa": [
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_0",
+              "ref": "LEY U 000740 2022 09 13 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_1",
+              "ref": "LEY Z 003970 2025 11 13 0000 000 0000 000"
+            }
+          ]
         }
       },
       "segmento": [
@@ -672,7 +679,8 @@
           }
         }
       ],
-      "id-infojus": "LNS0007094"
+      "id-infojus": "LNS0007094",
+      "fecha-umod": 20260116104635
     }
   }
 }
