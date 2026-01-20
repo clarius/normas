@@ -1,0 +1,727 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Invalid document data'. (Parameter 'json')
+     at Clarius.OpenLaw.Argentina.Document.ParseAsync(String json) in /_/src/OpenLaw.Commands/Argentina/Document.cs:line 50
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 248
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-593-0000-5791soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Vigente, de alcance general
+  Date: 1975-02-20
+  Timestamp: 20251211115031
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-593-0000-5791soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 395-nacional-decreto-reglamentario-ley-20429-sobre-armas-explosivos-dn19750000395-1975-02-20
+      content:
+        mecanografico: 19750000395
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        numero-norma: 395
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        fecha: 1975-02-20
+        standard-normativo: DEC C 000395 1975 02 20
+        titulo-norma: Decreto Reglamentario de la Ley 20.429 sobre Armas y Explosivos
+        publicacion-codificada:
+          publicacion-decodificada:
+            organismo: Boletín Oficial
+            fecha: 1975 03 03
+        nombre-coloquial: DECRETO NACIONAL 395/1975
+        estado: Vigente, de alcance general
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: decreto reglamentario
+            preferido:
+              termino: Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario
+            sinonimos:
+              termino:
+              - reglamento ejecutivo
+              - actos de alcance general
+              - reglamento de ejecución
+              - reglamento administrativo
+          - elegido:
+              termino: armas
+            preferido:
+              termino: Defensa y seguridad/armas
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: explosivos
+            preferido:
+              termino: Defensa y seguridad/armas/explosivos
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: portación de armas
+            preferido:
+              termino: Defensa y seguridad/armas/portación de armas
+            sinonimos:
+              termino:
+              - defensa nacional
+              - portación de armas de fuego
+          - elegido:
+              termino: tenencia de armas de guerra
+            preferido:
+              termino: Defensa y seguridad/armas/tenencia de armas/tenencia de armas de guerra
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: permiso de tenencia de armas de guerra
+            preferido:
+              termino: Defensa y seguridad/armas/tenencia de armas/tenencia de armas de guerra/permiso de tenencia de armas de guerra
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: asociaciones de tiro
+            preferido:
+              termino: asociaciones de tiro
+          - elegido:
+              termino: pirotecnia
+            preferido:
+              termino: Defensa y seguridad/armas/explosivos/pirotecnia
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: importación temporaria
+            preferido:
+              termino: Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/importaciones/regímenes especiales de importación/destinaciones de importación/importación temporaria
+            sinonimos:
+              termino:
+              - admisión temporaria de mercaderías
+              - comercio internacional
+          - elegido:
+              termino: exportaciones
+            preferido:
+              termino: Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/exportaciones
+            sinonimos:
+              termino: comercio internacional
+          - elegido:
+              termino: armas
+            preferido:
+              termino: Defensa y seguridad/armas
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: decomiso
+            preferido:
+              termino: Derecho penal/Régimen Penal Administrativo/sanciones administrativas/decomiso
+            sinonimos:
+              termino:
+              - comiso
+              - Derecho Penal Administrativo
+          - elegido:
+              termino: transporte de valores
+            preferido:
+              termino: Transporte/contrato de transporte/transporte de carga/transporte de caudales
+            sinonimos:
+              termino:
+              - transporte de carga general
+              - transporte en contenedores
+              - transporte de valores
+              - transporte de mercaderías
+          - elegido:
+              termino: municiones
+            preferido:
+              termino: Defensa y seguridad/armas/municiones
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: armas de guerra
+            preferido:
+              termino: Defensa y seguridad/armas/armas de guerra
+            sinonimos:
+              termino:
+              - materiales de guerra
+              - defensa nacional
+          - elegido:
+              termino: armas de uso civil
+            preferido:
+              termino: Defensa y seguridad/armas/arma de fuego/armas de uso civil
+            sinonimos:
+              termino:
+              - defensa nacional
+              - tenencia de arma de fuego de uso civil
+              - armas de fuego de uso civil
+          - elegido:
+              termino: Gendarmería Nacional
+            preferido:
+              termino: Defensa y seguridad/seguridad pública/fuerzas de seguridad/Gendarmería Nacional
+            sinonimos:
+              termino:
+              - seguridad nacional
+              - defensa nacional
+              - personal de seguridad
+          - elegido:
+              termino: Prefectura Naval
+            preferido:
+              termino: Defensa y seguridad/seguridad pública/fuerzas de seguridad/Prefectura Naval
+            sinonimos:
+              termino:
+              - seguridad nacional
+              - defensa nacional
+              - Prefectura naval Argentina
+              - personal de seguridad
+          - elegido:
+              termino: Policía Federal Argentina
+            preferido:
+              termino: Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía federal
+            sinonimos:
+              termino:
+              - seguridad nacional
+              - defensa nacional
+              - Policía Federal Argentina
+              - personal de seguridad
+          - elegido:
+              termino: DIRECCIÓN GENERAL DE FABRICACIONES MILITARES
+            preferido:
+              termino: DIRECCIÓN GENERAL DE FABRICACIONES MILITARES
+            sinonimos:
+              termino: Fabricaciones Militares
+          - elegido:
+              termino: registro nacional de armas
+            preferido:
+              termino: Defensa y seguridad/armas/registro de armas/registro nacional de armas
+            sinonimos:
+              termino: defensa nacional
+          - elegido:
+              termino: MINISTERIO DE DEFENSA
+            preferido:
+              termino: MINISTERIO DE DEFENSA
+          - elegido:
+              termino: delegación de facultades
+            preferido:
+              termino: Derecho administrativo/Administración Pública/facultades de la administración/facultades reglamentarias/delegación de facultades a la Administración
+            sinonimos:
+              termino:
+              - potestad reglamentaria
+              - potestades administrativas
+              - función pública
+              - facultades de la administración pública
+              - delegación de facultades
+          suggest:
+            termino:
+            - facultades de la administración pública (facultades de la administración)
+            - Derecho Aduanero
+            - operaciones aduaneras
+            - tenencia de armas
+            - delegación de facultades (delegación de facultades a la Administración)
+            - reglamento de ejecución (decreto reglamentario)
+            - portación de armas de fuego (portación de armas)
+            - reglamento ejecutivo (decreto reglamentario)
+            - MINISTERIO DE DEFENSA
+            - Derecho tributario y aduanero
+            - comercio internacional (comercio exterior)
+            - personal de seguridad (fuerzas de seguridad)
+            - registro de armas
+            - fuerzas de seguridad
+            - Gendarmería Nacional
+            - policía federal
+            - sanciones administrativas
+            - admisión temporaria de mercaderías (importación temporaria)
+            - materiales de guerra (armas de guerra)
+            - Derecho administrativo
+            - comiso (decomiso)
+            - municiones
+            - potestades administrativas (facultades de la administración)
+            - Prefectura Naval
+            - facultades de la administración
+            - delegación de facultades a la Administración
+            - defensa nacional (Defensa y seguridad)
+            - contrato de transporte
+            - Policía Federal Argentina (policía federal)
+            - Fabricaciones Militares (DIRECCIÓN GENERAL DE FABRICACIONES MILITARES)
+            - exportaciones
+            - explosivos
+            - Administración Pública
+            - transporte de carga general (transporte de carga)
+            - seguridad pública
+            - acto administrativo
+            - destinaciones de importación
+            - actos de alcance general (acto administrativo de alcance general)
+            - importaciones
+            - facultades reglamentarias
+            - decreto reglamentario
+            - regímenes especiales de importación
+            - transporte de mercaderías (transporte de carga)
+            - tenencia de arma de fuego de uso civil (armas de uso civil)
+            - portación de armas
+            - reglamentos
+            - Defensa y seguridad
+            - armas de guerra
+            - comercio exterior
+            - importación temporaria
+            - potestad reglamentaria (facultades reglamentarias)
+            - Régimen Penal Administrativo
+            - Derecho penal
+            - acto administrativo de alcance general
+            - reglamento administrativo (reglamentos)
+            - transporte de valores (transporte de caudales)
+            - policía
+            - transporte en contenedores (transporte de carga)
+            - arma de fuego
+            - armas de fuego de uso civil (armas de uso civil)
+            - función pública (Administración Pública)
+            - Transporte
+            - tenencia de armas de guerra
+            - Derecho Penal Administrativo (Régimen Penal Administrativo)
+            - asociaciones de tiro
+            - permiso de tenencia de armas de guerra
+            - armas
+            - pirotecnia
+            - DIRECCIÓN GENERAL DE FABRICACIONES MILITARES
+            - Prefectura naval Argentina (Prefectura Naval)
+            - registro nacional de armas
+            - seguridad nacional (seguridad pública)
+            - decomiso
+            - transporte de caudales
+            - armas de uso civil
+            - transporte de carga
+        fecha-umod: 20251211115031
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-593-0000-5791soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "395-nacional-decreto-reglamentario-ley-20429-sobre-armas-explosivos-dn19750000395-1975-02-20"
+          }
+        },
+        "content": {
+          "mecanografico": 19750000395,
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "numero-norma": 395,
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "fecha": "1975-02-20",
+          "standard-normativo": "DEC C 000395 1975 02 20",
+          "titulo-norma": "Decreto Reglamentario de la Ley 20.429 sobre Armas y Explosivos",
+          "publicacion-codificada": {
+            "publicacion-decodificada": {
+              "organismo": "Boletín Oficial",
+              "fecha": "1975 03 03"
+            }
+          },
+          "nombre-coloquial": "DECRETO NACIONAL 395/1975",
+          "estado": "Vigente, de alcance general",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "decreto reglamentario"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/acto administrativo/acto administrativo de alcance general/reglamentos/decreto reglamentario"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "reglamento ejecutivo",
+                    "actos de alcance general",
+                    "reglamento de ejecución",
+                    "reglamento administrativo"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "armas"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "explosivos"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/explosivos"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "portación de armas"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/portación de armas"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "defensa nacional",
+                    "portación de armas de fuego"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "tenencia de armas de guerra"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/tenencia de armas/tenencia de armas de guerra"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "permiso de tenencia de armas de guerra"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/tenencia de armas/tenencia de armas de guerra/permiso de tenencia de armas de guerra"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "asociaciones de tiro"
+                },
+                "preferido": {
+                  "termino": "asociaciones de tiro"
+                },
+                "sinonimos": null
+              },
+              {
+                "elegido": {
+                  "termino": "pirotecnia"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/explosivos/pirotecnia"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "importación temporaria"
+                },
+                "preferido": {
+                  "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/importaciones/regímenes especiales de importación/destinaciones de importación/importación temporaria"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "admisión temporaria de mercaderías",
+                    "comercio internacional"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "exportaciones"
+                },
+                "preferido": {
+                  "termino": "Derecho tributario y aduanero/Derecho Aduanero/comercio exterior/operaciones aduaneras/exportaciones"
+                },
+                "sinonimos": {
+                  "termino": "comercio internacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "armas"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "decomiso"
+                },
+                "preferido": {
+                  "termino": "Derecho penal/Régimen Penal Administrativo/sanciones administrativas/decomiso"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "comiso",
+                    "Derecho Penal Administrativo"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "transporte de valores"
+                },
+                "preferido": {
+                  "termino": "Transporte/contrato de transporte/transporte de carga/transporte de caudales"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "transporte de carga general",
+                    "transporte en contenedores",
+                    "transporte de valores",
+                    "transporte de mercaderías"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "municiones"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/municiones"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "armas de guerra"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/armas de guerra"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "materiales de guerra",
+                    "defensa nacional"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "armas de uso civil"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/arma de fuego/armas de uso civil"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "defensa nacional",
+                    "tenencia de arma de fuego de uso civil",
+                    "armas de fuego de uso civil"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Gendarmería Nacional"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/Gendarmería Nacional"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "seguridad nacional",
+                    "defensa nacional",
+                    "personal de seguridad"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Prefectura Naval"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/Prefectura Naval"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "seguridad nacional",
+                    "defensa nacional",
+                    "Prefectura naval Argentina",
+                    "personal de seguridad"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Policía Federal Argentina"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/seguridad pública/fuerzas de seguridad/policía/policía federal"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "seguridad nacional",
+                    "defensa nacional",
+                    "Policía Federal Argentina",
+                    "personal de seguridad"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "DIRECCIÓN GENERAL DE FABRICACIONES MILITARES"
+                },
+                "preferido": {
+                  "termino": "DIRECCIÓN GENERAL DE FABRICACIONES MILITARES"
+                },
+                "sinonimos": {
+                  "termino": "Fabricaciones Militares"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "registro nacional de armas"
+                },
+                "preferido": {
+                  "termino": "Defensa y seguridad/armas/registro de armas/registro nacional de armas"
+                },
+                "sinonimos": {
+                  "termino": "defensa nacional"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "MINISTERIO DE DEFENSA"
+                },
+                "preferido": {
+                  "termino": "MINISTERIO DE DEFENSA"
+                },
+                "sinonimos": null
+              },
+              {
+                "elegido": {
+                  "termino": "delegación de facultades"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/facultades de la administración/facultades reglamentarias/delegación de facultades a la Administración"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "potestad reglamentaria",
+                    "potestades administrativas",
+                    "función pública",
+                    "facultades de la administración pública",
+                    "delegación de facultades"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "facultades de la administración pública (facultades de la administración)",
+                "Derecho Aduanero",
+                "operaciones aduaneras",
+                "tenencia de armas",
+                "delegación de facultades (delegación de facultades a la Administración)",
+                "reglamento de ejecución (decreto reglamentario)",
+                "portación de armas de fuego (portación de armas)",
+                "reglamento ejecutivo (decreto reglamentario)",
+                "MINISTERIO DE DEFENSA",
+                "Derecho tributario y aduanero",
+                "comercio internacional (comercio exterior)",
+                "personal de seguridad (fuerzas de seguridad)",
+                "registro de armas",
+                "fuerzas de seguridad",
+                "Gendarmería Nacional",
+                "policía federal",
+                "sanciones administrativas",
+                "admisión temporaria de mercaderías (importación temporaria)",
+                "materiales de guerra (armas de guerra)",
+                "Derecho administrativo",
+                "comiso (decomiso)",
+                "municiones",
+                "potestades administrativas (facultades de la administración)",
+                "Prefectura Naval",
+                "facultades de la administración",
+                "delegación de facultades a la Administración",
+                "defensa nacional (Defensa y seguridad)",
+                "contrato de transporte",
+                "Policía Federal Argentina (policía federal)",
+                "Fabricaciones Militares (DIRECCIÓN GENERAL DE FABRICACIONES MILITARES)",
+                "exportaciones",
+                "explosivos",
+                "Administración Pública",
+                "transporte de carga general (transporte de carga)",
+                "seguridad pública",
+                "acto administrativo",
+                "destinaciones de importación",
+                "actos de alcance general (acto administrativo de alcance general)",
+                "importaciones",
+                "facultades reglamentarias",
+                "decreto reglamentario",
+                "regímenes especiales de importación",
+                "transporte de mercaderías (transporte de carga)",
+                "tenencia de arma de fuego de uso civil (armas de uso civil)",
+                "portación de armas",
+                "reglamentos",
+                "Defensa y seguridad",
+                "armas de guerra",
+                "comercio exterior",
+                "importación temporaria",
+                "potestad reglamentaria (facultades reglamentarias)",
+                "Régimen Penal Administrativo",
+                "Derecho penal",
+                "acto administrativo de alcance general",
+                "reglamento administrativo (reglamentos)",
+                "transporte de valores (transporte de caudales)",
+                "policía",
+                "transporte en contenedores (transporte de carga)",
+                "arma de fuego",
+                "armas de fuego de uso civil (armas de uso civil)",
+                "función pública (Administración Pública)",
+                "Transporte",
+                "tenencia de armas de guerra",
+                "Derecho Penal Administrativo (Régimen Penal Administrativo)",
+                "asociaciones de tiro",
+                "permiso de tenencia de armas de guerra",
+                "armas",
+                "pirotecnia",
+                "DIRECCIÓN GENERAL DE FABRICACIONES MILITARES",
+                "Prefectura naval Argentina (Prefectura Naval)",
+                "registro nacional de armas",
+                "seguridad nacional (seguridad pública)",
+                "decomiso",
+                "transporte de caudales",
+                "armas de uso civil",
+                "transporte de carga"
+              ]
+            }
+          },
+          "fecha-umod": 20251211115031
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-593-0000-5791soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "1975-02-20",
+      "status": "Vigente, de alcance general",
+      "timestamp": 20251211115031
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
