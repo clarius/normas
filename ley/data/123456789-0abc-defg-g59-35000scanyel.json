@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g59-35000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1674845828338,
+      "timestamp": 1768922176799,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,13 +16,12 @@
     },
     "content": {
       "mecanografico": "S0005395",
-      "numero-norma": 26348,
-      "timestamp": "2023-01-27T15:10:23",
-      "timestamp-m": "2023-01-27T15:10:23",
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 26348,
       "fecha": "2007-12-19",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -31,12 +30,14 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 026348 2007 12 19",
+      "nombre-coloquial": "LEY 26.348",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "LEY 26.348",
           "BUENOS AIRES, 19 DE DICIEMBRE DE 2007"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
       "titulo-norma": "NORMAS SOBRE AUTOMOTORES ABANDONADOS, PERDIDOS, DECOMISADOS O SECUESTRADOS.",
       "publicacion-codificada": {
         "publicacion-decodificada": {
@@ -45,14 +46,15 @@
         }
       },
       "sancion": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "LEY 26.348",
-      "estado": "Vigente, de alcance general",
       "analista": "Quintana, Carolina",
-      "fecha-alta": "2008-01-21",
-      "fecha-mod": "2023-01-27",
       "responsable": "Quintana, Carolina",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-01-20",
+      "fecha-mod": "2026-01-20",
+      "timestamp": "2026-01-20T11:48:26",
+      "timestamp-alta": "2026-01-20T11:48:26",
+      "timestamp-m": "2026-01-20T11:48:26",
       "sumario": {
         "sumario": "AUTOMOTORES-DOMINIO-AUTOMOTOR ABANDONADO-AUTOMOTOR DECOMISADO-AUTOMOTOR SECUESTRADO-AERONAVES"
       },
@@ -148,6 +150,11 @@
               "cr": null,
               "id": "ADHERIDA_POR_2",
               "ref": "LEY K 005747 2022 05 23 0000 000 0000 000"
+            },
+            {
+              "cr": null,
+              "id": "ADHERIDA_POR_3",
+              "ref": "DEC D 001177 2025 11 12 0002 000 0000 000"
             }
           ]
         }
@@ -158,7 +165,7 @@
             "referencia-normativa": {
               "cr": null,
               "id": "REFERENCIAS_NORMATIVAS_0",
-              "ref": "CCI C 000340 1869 09 25 2342 000 0000 000  A"
+              "ref": "CCI C 000340 1869 09 25 2342 000 0000 000 A"
             }
           },
           "numero-articulo": 1,
@@ -173,7 +180,7 @@
             }
           },
           "numero-articulo": 2,
-          "texto": "ARTICULO 2º - Sustitúyese el artículo 10 del  Decreto Ley 6582/58 ratificado por la Ley 14.467 (t.o. 1997), con las modificaciones introducidas por las Leyes 25.232, 25.345 y 25.677 por el siguiente:\n\n'Artículo 10: En las inscripciones del dominio de automotores nuevos, de fabricación nacional o importados, el Registro deberá protocolizar con la solicitud respectiva, el certificado de origen del vehículo que a esos fines expedirá el organismo de aplicación, a petición de los respectivos fabricantes e importadores.\n\nEn el caso de automotores armados fuera de fábrica, o de sus plantas de montaje, deberá justificarse fehacientemente el origen de los elementos utilizados, los que podrán ser de fabricación artesanal, en la forma en que lo determine el organismo de aplicación, quien resolverá en definitiva acerca de la procedencia o no de las inscripciones de estos tipos de automotores.\n\nEn todos los casos deberá acreditarse asimismo el cumplimiento de las condiciones de seguridad activa y pasiva para circular en la forma que determine la normativa específica en la materia. El incumplimiento de este recaudo no impedirá la adquisición del dominio, sin perjuicio de lo cual el Registro no emitirá la correspondiente cédula de identificación a la que se refiere el    artículo 22 del presente.'"
+          "texto": "ARTICULO 2º - Sustitúyese el artículo 10 del Decreto Ley 6582/58 ratificado por la Ley 14.467 (t.o. 1997), con las modificaciones introducidas por las Leyes 25.232, 25.345 y 25.677 por el siguiente:\n\n'Artículo 10: En las inscripciones del dominio de automotores nuevos, de fabricación nacional o importados, el Registro deberá protocolizar con la solicitud respectiva, el certificado de origen del vehículo que a esos fines expedirá el organismo de aplicación, a petición de los respectivos fabricantes e importadores.\n\nEn el caso de automotores armados fuera de fábrica, o de sus plantas de montaje, deberá justificarse fehacientemente el origen de los elementos utilizados, los que podrán ser de fabricación artesanal, en la forma en que lo determine el organismo de aplicación, quien resolverá en definitiva acerca de la procedencia o no de las inscripciones de estos tipos de automotores.\n\nEn todos los casos deberá acreditarse asimismo el cumplimiento de las condiciones de seguridad activa y pasiva para circular en la forma que determine la normativa específica en la materia. El incumplimiento de este recaudo no impedirá la adquisición del dominio, sin perjuicio de lo cual el Registro no emitirá la correspondiente cédula de identificación a la que se refiere el artículo 22 del presente.'"
         },
         {
           "modifica-a": {
@@ -210,11 +217,11 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "CPP C 023984 1991 08 21 0238 000 0000 000  A"
+              "ref": "CPP C 023984 1991 08 21 0238 000 0000 000 A"
             }
           },
           "numero-articulo": 7,
-          "texto": "ARTICULO 7º - Sustitúyese el artículo 238 del Código Procesal Penal de la Nación por el siguiente:\n\nArtículo 238: Los objetos secuestrados que no estén sometidos a la confiscación, restitución, o embargo, serán devueltos tan pronto como no sean necesarios, a la persona de cuyo poder se sacaron. Esta devolución podrá ordenarse provisionalmente en calidad de depósito, e imponerse al poseedor la obligación de exhibirlos cada vez que le sea requerido.\n\nLos efectos sustraídos serán devueltos, en las mismas condiciones, al damnificado, salvo que se oponga a ello el poseedor de buena fe de cuyo poder hubieran sido secuestrados.\n\nCuando se trate de automotores, se aplicará lo dispuesto por el    artículo 10 ter de la  Ley 20.785."
+          "texto": "ARTICULO 7º - Sustitúyese el artículo 238 del Código Procesal Penal de la Nación por el siguiente:\n\nArtículo 238: Los objetos secuestrados que no estén sometidos a la confiscación, restitución, o embargo, serán devueltos tan pronto como no sean necesarios, a la persona de cuyo poder se sacaron. Esta devolución podrá ordenarse provisionalmente en calidad de depósito, e imponerse al poseedor la obligación de exhibirlos cada vez que le sea requerido.\n\nLos efectos sustraídos serán devueltos, en las mismas condiciones, al damnificado, salvo que se oponga a ello el poseedor de buena fe de cuyo poder hubieran sido secuestrados.\n\nCuando se trate de automotores, se aplicará lo dispuesto por el artículo 10 ter de la Ley 20.785."
         },
         {
           "numero-articulo": 8,
@@ -228,7 +235,8 @@
       "firmantes": {
         "firmantes": "FELLNER-COBOS-Hidalgo-Estrada"
       },
-      "id-infojus": "LNS0005395"
+      "id-infojus": "LNS0005395",
+      "fecha-umod": 20260120121616
     }
   }
 }
