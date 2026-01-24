@@ -1,0 +1,190 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Invalid document data'. (Parameter 'json')
+     at Clarius.OpenLaw.Argentina.Document.ParseAsync(String json) in /_/src/OpenLaw.Commands/Argentina/Document.cs:line 50
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 248
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-378-0000-5202soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Individual, Solo Modificatoria o Sin Eficacia
+  Date: 2025-12-11
+  Timestamp: 20251212111635
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-378-0000-5202soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 873-nacional-designacion-representante-poder-ejecutivo-nacional-directorio-instituto-nacional-yerba-mate-dn20250000873-2025-12-11
+      content:
+        mecanografico: 20250000873
+        estado: Individual, Solo Modificatoria o Sin Eficacia
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        numero-norma: 873
+        fecha: 2025-12-11
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        standard-normativo: DEC C 000873 2025 12 11
+        titulo-norma: Designación de Representante del Poder Ejecutivo Nacional en el Directorio del Instituto Nacional de la Yerba Mate
+        nombre-coloquial: DECRETO NACIONAL 873/2025
+        publicacion-codificada:
+          publicacion-decodificada:
+            organismo: Boletín Oficial
+            fecha: 2025 12 12
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: designación
+            preferido:
+              termino: Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/nombramiento
+            sinonimos:
+              termino:
+              - nombramiento de funcionarios
+              - nombramiento de empleados públicos
+              - nombramiento de funcionarios públicos
+              - relación de empleo público
+              - función pública
+              - designación de funcionarios
+              - designación de personal
+              - designación
+              - designación de funcionarios públicos
+          - elegido:
+              termino: INSTITUTO NACIONAL DE LA YERBA MATE
+            preferido:
+              termino: INSTITUTO NACIONAL DE LA YERBA MATE
+          suggest:
+            termino:
+            - ingreso a la función pública
+            - nombramiento de funcionarios (nombramiento)
+            - designación de personal (nombramiento)
+            - función pública (Administración Pública)
+            - designación de funcionarios públicos (nombramiento)
+            - nombramiento
+            - designación de funcionarios (nombramiento)
+            - Administración Pública
+            - nombramiento de funcionarios públicos (nombramiento)
+            - nombramiento de empleados públicos (nombramiento)
+            - designación (nombramiento)
+            - INSTITUTO NACIONAL DE LA YERBA MATE
+            - empleo público
+            - relación de empleo público (empleo público)
+            - Derecho administrativo
+        fecha-umod: 20251212111635
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-378-0000-5202soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "873-nacional-designacion-representante-poder-ejecutivo-nacional-directorio-instituto-nacional-yerba-mate-dn20250000873-2025-12-11"
+          }
+        },
+        "content": {
+          "mecanografico": 20250000873,
+          "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "numero-norma": 873,
+          "fecha": "2025-12-11",
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "standard-normativo": "DEC C 000873 2025 12 11",
+          "titulo-norma": "Designación de Representante del Poder Ejecutivo Nacional en el Directorio del Instituto Nacional de la Yerba Mate",
+          "nombre-coloquial": "DECRETO NACIONAL 873/2025",
+          "publicacion-codificada": {
+            "publicacion-decodificada": {
+              "organismo": "Boletín Oficial",
+              "fecha": "2025 12 12"
+            }
+          },
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "designación"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/nombramiento"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "nombramiento de funcionarios",
+                    "nombramiento de empleados públicos",
+                    "nombramiento de funcionarios públicos",
+                    "relación de empleo público",
+                    "función pública",
+                    "designación de funcionarios",
+                    "designación de personal",
+                    "designación",
+                    "designación de funcionarios públicos"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "INSTITUTO NACIONAL DE LA YERBA MATE"
+                },
+                "preferido": {
+                  "termino": "INSTITUTO NACIONAL DE LA YERBA MATE"
+                },
+                "sinonimos": null
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "ingreso a la función pública",
+                "nombramiento de funcionarios (nombramiento)",
+                "designación de personal (nombramiento)",
+                "función pública (Administración Pública)",
+                "designación de funcionarios públicos (nombramiento)",
+                "nombramiento",
+                "designación de funcionarios (nombramiento)",
+                "Administración Pública",
+                "nombramiento de funcionarios públicos (nombramiento)",
+                "nombramiento de empleados públicos (nombramiento)",
+                "designación (nombramiento)",
+                "INSTITUTO NACIONAL DE LA YERBA MATE",
+                "empleo público",
+                "relación de empleo público (empleo público)",
+                "Derecho administrativo"
+              ]
+            }
+          },
+          "fecha-umod": 20251212111635
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-378-0000-5202soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2025-12-11",
+      "status": "Individual, Solo Modificatoria o Sin Eficacia",
+      "timestamp": 20251212111635
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional

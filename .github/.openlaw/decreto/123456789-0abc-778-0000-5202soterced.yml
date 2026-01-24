@@ -1,0 +1,349 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Invalid document data'. (Parameter 'json')
+     at Clarius.OpenLaw.Argentina.Document.ParseAsync(String json) in /_/src/OpenLaw.Commands/Argentina/Document.cs:line 50
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 248
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-778-0000-5202soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Vigente, de alcance general
+  Date: 2025-12-11
+  Timestamp: 20251212111637
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-778-0000-5202soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 877-nacional-reduccion-derechos-exportacion-sector-agropecuario-dn20250000877-2025-12-11
+      content:
+        mecanografico: 20250000877
+        estado: Vigente, de alcance general
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        numero-norma: 877
+        fecha: 2025-12-11
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        standard-normativo: DEC C 000877 2025 12 11
+        titulo-norma: Reducción de derechos de exportación del sector agropecuario
+        nombre-coloquial: DECRETO NACIONAL 877/2025
+        publicacion-codificada:
+          publicacion-decodificada:
+            organismo: Boletín Oficial
+            fecha: 2025 12 12
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: derechos de exportación
+            preferido:
+              termino: Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/derechos de exportación
+            sinonimos:
+              termino:
+              - aranceles aduaneros
+              - derechos de aduana
+          - elegido:
+              termino: alícuota
+            preferido:
+              termino: Derecho tributario y aduanero/derecho tributario/tributos/impuestos/alícuota
+            sinonimos:
+              termino:
+              - gravámenes
+              - derecho fiscal
+              - derecho público fiscal
+          - elegido:
+              termino: nomenclatura común del Mercosur
+            preferido:
+              termino: Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/nomenclatura arancelaria aduanera/nomenclatura común del Mercosur
+            sinonimos:
+              termino:
+              - NCM
+              - aranceles aduaneros
+              - nomenclatura del Consejo de Cooperación Aduanera
+              - nomenclatura arancelaria
+              - NADI
+              - nomenclatura arancelaria y de derechos de importación
+              - derechos de aduana
+          - elegido:
+              termino: explotaciones agropecuarias
+            preferido:
+              termino: Actividades económicas/actividad agropecuaria/explotaciones agropecuarias
+            sinonimos:
+              termino:
+              - estancias
+              - establecimientos agricolaganaderos
+              - ganadería
+              - agricultura
+              - establecimientos rurales
+          - elegido:
+              termino: granos
+            preferido:
+              termino: Actividades económicas/actividad agropecuaria/productos agropecuarios/granos y semillas
+            sinonimos:
+              termino:
+              - semillas
+              - ganadería
+              - agricultura
+              - productos agrícolas
+              - granos
+          - elegido:
+              termino: decretos delegados
+            preferido:
+              termino: Derecho constitucional/jerarquía de las leyes/decretos/decretos delegados
+            sinonimos:
+              termino:
+              - orden de prelación de las leyes
+              - jerarquía normativa
+              - orden jerárquico de las leyes
+          suggest:
+            termino:
+            - derecho público fiscal (derecho tributario)
+            - Derecho Aduanero
+            - productos agropecuarios
+            - nomenclatura arancelaria (nomenclatura arancelaria aduanera)
+            - semillas (granos y semillas)
+            - nomenclatura común del Mercosur
+            - estancias (explotaciones agropecuarias)
+            - ganadería (actividad agropecuaria)
+            - jerarquía normativa (jerarquía de las leyes)
+            - NCM (nomenclatura común del Mercosur)
+            - Derecho tributario y aduanero
+            - derechos de aduana (tributos aduaneros)
+            - decretos delegados
+            - establecimientos agricolaganaderos (explotaciones agropecuarias)
+            - orden jerárquico de las leyes (jerarquía de las leyes)
+            - tributos
+            - nomenclatura del Consejo de Cooperación Aduanera (nomenclatura arancelaria aduanera)
+            - granos (granos y semillas)
+            - jerarquía de las leyes
+            - productos agrícolas (productos agropecuarios)
+            - agricultura (actividad agropecuaria)
+            - nomenclatura arancelaria aduanera
+            - derecho tributario
+            - alícuota
+            - derecho fiscal (derecho tributario)
+            - aranceles aduaneros (tributos aduaneros)
+            - decretos
+            - Actividades económicas
+            - tributos aduaneros
+            - gravámenes (tributos)
+            - establecimientos rurales (explotaciones agropecuarias)
+            - explotaciones agropecuarias
+            - derechos de exportación
+            - Derecho constitucional
+            - actividad agropecuaria
+            - orden de prelación de las leyes (jerarquía de las leyes)
+            - granos y semillas
+            - impuestos
+            - NADI (nomenclatura arancelaria aduanera)
+            - nomenclatura arancelaria y de derechos de importación (nomenclatura arancelaria aduanera)
+        fecha-umod: 20251212111637
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-778-0000-5202soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "877-nacional-reduccion-derechos-exportacion-sector-agropecuario-dn20250000877-2025-12-11"
+          }
+        },
+        "content": {
+          "mecanografico": 20250000877,
+          "estado": "Vigente, de alcance general",
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "numero-norma": 877,
+          "fecha": "2025-12-11",
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "standard-normativo": "DEC C 000877 2025 12 11",
+          "titulo-norma": "Reducción de derechos de exportación del sector agropecuario",
+          "nombre-coloquial": "DECRETO NACIONAL 877/2025",
+          "publicacion-codificada": {
+            "publicacion-decodificada": {
+              "organismo": "Boletín Oficial",
+              "fecha": "2025 12 12"
+            }
+          },
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "derechos de exportación"
+                },
+                "preferido": {
+                  "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/derechos de exportación"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "aranceles aduaneros",
+                    "derechos de aduana"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "alícuota"
+                },
+                "preferido": {
+                  "termino": "Derecho tributario y aduanero/derecho tributario/tributos/impuestos/alícuota"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "gravámenes",
+                    "derecho fiscal",
+                    "derecho público fiscal"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "nomenclatura común del Mercosur"
+                },
+                "preferido": {
+                  "termino": "Derecho tributario y aduanero/Derecho Aduanero/tributos aduaneros/nomenclatura arancelaria aduanera/nomenclatura común del Mercosur"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "NCM",
+                    "aranceles aduaneros",
+                    "nomenclatura del Consejo de Cooperación Aduanera",
+                    "nomenclatura arancelaria",
+                    "NADI",
+                    "nomenclatura arancelaria y de derechos de importación",
+                    "derechos de aduana"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "explotaciones agropecuarias"
+                },
+                "preferido": {
+                  "termino": "Actividades económicas/actividad agropecuaria/explotaciones agropecuarias"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "estancias",
+                    "establecimientos agricolaganaderos",
+                    "ganadería",
+                    "agricultura",
+                    "establecimientos rurales"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "granos"
+                },
+                "preferido": {
+                  "termino": "Actividades económicas/actividad agropecuaria/productos agropecuarios/granos y semillas"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "semillas",
+                    "ganadería",
+                    "agricultura",
+                    "productos agrícolas",
+                    "granos"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "decretos delegados"
+                },
+                "preferido": {
+                  "termino": "Derecho constitucional/jerarquía de las leyes/decretos/decretos delegados"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "orden de prelación de las leyes",
+                    "jerarquía normativa",
+                    "orden jerárquico de las leyes"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "derecho público fiscal (derecho tributario)",
+                "Derecho Aduanero",
+                "productos agropecuarios",
+                "nomenclatura arancelaria (nomenclatura arancelaria aduanera)",
+                "semillas (granos y semillas)",
+                "nomenclatura común del Mercosur",
+                "estancias (explotaciones agropecuarias)",
+                "ganadería (actividad agropecuaria)",
+                "jerarquía normativa (jerarquía de las leyes)",
+                "NCM (nomenclatura común del Mercosur)",
+                "Derecho tributario y aduanero",
+                "derechos de aduana (tributos aduaneros)",
+                "decretos delegados",
+                "establecimientos agricolaganaderos (explotaciones agropecuarias)",
+                "orden jerárquico de las leyes (jerarquía de las leyes)",
+                "tributos",
+                "nomenclatura del Consejo de Cooperación Aduanera (nomenclatura arancelaria aduanera)",
+                "granos (granos y semillas)",
+                "jerarquía de las leyes",
+                "productos agrícolas (productos agropecuarios)",
+                "agricultura (actividad agropecuaria)",
+                "nomenclatura arancelaria aduanera",
+                "derecho tributario",
+                "alícuota",
+                "derecho fiscal (derecho tributario)",
+                "aranceles aduaneros (tributos aduaneros)",
+                "decretos",
+                "Actividades económicas",
+                "tributos aduaneros",
+                "gravámenes (tributos)",
+                "establecimientos rurales (explotaciones agropecuarias)",
+                "explotaciones agropecuarias",
+                "derechos de exportación",
+                "Derecho constitucional",
+                "actividad agropecuaria",
+                "orden de prelación de las leyes (jerarquía de las leyes)",
+                "granos y semillas",
+                "impuestos",
+                "NADI (nomenclatura arancelaria aduanera)",
+                "nomenclatura arancelaria y de derechos de importación (nomenclatura arancelaria aduanera)"
+              ]
+            }
+          },
+          "fecha-umod": 20251212111637
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-778-0000-5202soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2025-12-11",
+      "status": "Vigente, de alcance general",
+      "timestamp": 20251212111637
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
