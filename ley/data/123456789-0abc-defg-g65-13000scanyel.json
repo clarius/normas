@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g65-13000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413583919510,
+      "timestamp": 1769521588102,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,20 +16,12 @@
     },
     "content": {
       "mecanografico": "S0003156",
-      "decreto-reglamentario": {
-        "referencia-normativa": {
-          "cr": "*REGLAMENTA ARTICULO 2",
-          "id": "DECRETO_REGLAMENTARIO_0",
-          "ref": "DEC C 000828 1984 03 16 0000 000 0000 000"
-        }
-      },
-      "numero-norma": 23052,
-      "timestamp": "2013-01-19T18:52:18",
-      "timestamp-m": "2013-01-19T18:52:18",
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 23052,
       "fecha": "1984-02-22",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -38,35 +30,45 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 023052 1984 02 22",
+      "nombre-coloquial": "Ley 23.052",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "LEY 23.052",
           "BUENOS AIRES, 22 DE FEBRERO DE 1984"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
       "titulo-norma": "CALIFICACION DE PELICULAS.",
-      "datos-publicacion": "BOLETIN OFICIAL   1984 03 21",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1984 03 21"
         }
       },
-      "publicacion-privada": "ADLA                                                  B004419840013",
-      "sancion": "EL  SENADO  Y LA CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC.  SANCIONAN CON FUERZA DE LEY",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 23.052",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-21",
-      "fecha-mod": "2013-01-19",
-      "uid-mod": "SASAIJ",
-      "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 4",
-        "informacion-vinculada": 1E+19
+      "decreto-reglamentario": {
+        "referencia-normativa": [
+          {
+            "cr": "*REGLAMENTA ARTICULO 2 . (DEROGADO POR DECRETO 50/26)",
+            "id": "DECRETO_REGLAMENTARIO_0",
+            "ref": "DEC C 000828 1984 03 16 0000 000 0000 000"
+          },
+          {
+            "cr": "(B.O. 27/1/2026) VIGENCIA: a partir de los (60) días corridos desde su publicación en el Boletín Oficial",
+            "id": "DECRETO_REGLAMENTARIO_1",
+            "ref": "DEC C 000050 2026 01 26 0001 000 0000 000"
+          }
+        ]
       },
-      "noticias-accesorias": {
-        "texto": "CANTIDAD    DE  ARTICULOS  QUE  COMPONEN  LA  NORMA  0004   TEXTO ART 2 CONFORME  MODIFICACION  (PARRAFO  2 SUSTITUIDO) POR ART 1 LEY 23076 (B.O. 24-7-84)   OBSERVACION  ART  2  LA COMPETENCIA DEL INSTITUTO  NACIONAL  DE CINEMATOGRAFIA PARA APLICAR  SANCIONES SE EFECTIVIZARA A PARTIR DE PROMULGACION DE LA LEY QUE  LA  ESTABLECE  POR SU ART 2, LEY 23076 (B.O. 24-7-84)"
-      },
+      "sancion": "EL SENADO Y LA CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC. SANCIONAN CON FUERZA DE LEY",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2026-01-27",
+      "fecha-mod": "2026-01-27",
+      "timestamp": "2026-01-27T10:22:56",
+      "timestamp-alta": "2026-01-27T10:22:56",
+      "timestamp-m": "2026-01-27T10:22:56",
       "sumario": {
         "sumario": "PRENSA Y DIFUSION-ESPECTACULOS PUBLICOS-CINEMATOGRAFIA-ENTE DE CALIFICACION CINEMATOGRAFICO:Disolución-INSTITUTO NACIONAL DE CINEMATOGRAFIA:Sistemas de calificación de Películas Cinematografícas-Competencias-Funciones-ESTADO-PODER EJECUTIVO NACIONAL:Funciones-Infracciones-Sanciones-Multas-MONEDA-MONEDA NACIONAL:ACTUALIZACION MONETARIA Deroga Ley 18.019"
       },
@@ -77,7 +79,7 @@
               "termino": "cinematografía"
             },
             "preferido": {
-              "termino": "Cultura y educación/cultura/arte/cinematografía"
+              "termino": "Cultura y educación/cultura/arte/artes visuales/cinematografía"
             },
             "sinonimos": {
               "termino": [
@@ -88,10 +90,10 @@
           },
           {
             "elegido": {
-              "termino": "Instituto Nacional de Cinematografía"
+              "termino": "INSTITUTO NACIONAL DE CINEMATOGRAFÍA"
             },
             "preferido": {
-              "termino": "Instituto Nacional de Cinematografía"
+              "termino": "INSTITUTO NACIONAL DE CINEMATOGRAFÍA"
             },
             "sinonimos": null
           },
@@ -100,10 +102,11 @@
               "termino": "calificación de películas"
             },
             "preferido": {
-              "termino": "Cultura y educación/cultura/arte/cinematografía/películas/calificación de películas"
+              "termino": "Cultura y educación/cultura/arte/artes visuales/cinematografía/películas/calificación de películas"
             },
             "sinonimos": {
               "termino": [
+                "largometrajes",
                 "obras cinematográficas",
                 "Educación y Cultura",
                 "industria cinematográfica",
@@ -115,20 +118,26 @@
         ],
         "suggest": {
           "termino": [
-            "Instituto Nacional de Cinematografía",
             "cinematografía",
             "Educación y Cultura (Cultura y educación)",
+            "artes visuales",
             "Cultura y educación",
-            "arte",
             "industria cinematográfica (cinematografía)",
-            "cultura",
             "obras cinematográficas (películas)",
             "películas",
             "obras audiovisuales (películas)",
-            "films (películas)",
-            "calificación de películas"
+            "calificación de películas",
+            "INSTITUTO NACIONAL DE CINEMATOGRAFÍA",
+            "largometrajes (películas)",
+            "arte",
+            "cultura",
+            "films (películas)"
           ]
         }
+      },
+      "generalidades": {
+        "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 4"
       },
       "articulo": [
         {
@@ -144,17 +153,17 @@
         },
         {
           "numero-articulo": 2,
-          "texto": "*ARTICULO  2.- En el Instituto Nacional de Cinematografía funcionará un sistema de   calificación  de  películas  cinematográficas  que pretenda exhibir  en   la  Capital  Federal  y  demás  territorios federales, el que deberá ser  integrado  por  representantes  de los organismos  competentes  del  Estado en lo que se refiere a cultura, educación y protección de la minoridad,  y  en  el caso de incluirse representantes    de   instituciones  privadas, por  personal   de reconocida idoneidad profesional,  asegurando  el  debido respeto al pluralismo  ideológico y religioso de la sociedad argentina,  a  los fines de:  a) Establecer  su  aptitud para ser vistas por menores, contemplando el  caso, si se lo considera  conveniente,  de  que  asistan  a  su exhibición en compañia de sus padres;  b)  Prevenir    a  los  adultos  sobre  su  contenido  mediante  una calificación específica.  El  Poder Ejecutivo  reglamentará  esta  disposición,  estableciendo sanciones que  no  superen los treinta días de clausura del local y los quinientos mil pesos argentinos de multa para los distribuidores  exhibidores  que  no cumplieran con las obligaciones impuestas  en  relación  a las calificaciones que  correspondan  al Instituto Nacional de Cinematografía.  Entenderá  en  el  juzgamiento  de  las  infracciones  el  Instituto Nacional de Cinematografía,  con  recurso  ante  los  jueces  en  lo correccional  de la Capital  Federal.  El monto de las multas será actualizado trimestralmente por el Instituto Nacional de Cinematografía sobre la base del aumento registrado  en el indice de precios  al  por mayor nivel general publicado oficialmente  por  el Instituto Nacional de Estadísticas y Censos. La primera actualización  será efectuada a los noventa (90) días a partir de la publicación de la presente ley.  Las normas reglamentarias  que  oportunamente  se dicten, incluso en su aspecto sancionatorio, así como las calificaciones  que  se hagan sobre  la  base de aquellas normas, serán aplicables a las películas que se pretendan  exhibir  en las jurisdicciones provinciales cuando en las mismas se dicten expresas  normas de adhesión a este régimen.",
+          "texto": "*ARTICULO 2.- En el Instituto Nacional de Cinematografía funcionará un sistema de calificación de películas cinematográficas que pretenda exhibir en la Capital Federal y demás territorios federales, el que deberá ser integrado por representantes de los organismos competentes del Estado en lo que se refiere a cultura, educación y protección de la minoridad, y en el caso de incluirse representantes de instituciones privadas, por personal de reconocida idoneidad profesional, asegurando el debido respeto al pluralismo ideológico y religioso de la sociedad argentina, a los fines de:\n\na) Establecer su aptitud para ser vistas por menores, contemplando el caso, si se lo considera conveniente, de que asistan a su exhibición en compañia de sus padres;\n\nb) Prevenir a los adultos sobre su contenido mediante una calificación específica.\n\nEl Poder Ejecutivo reglamentará esta disposición, estableciendo sanciones que no superen los treinta días de clausura del local y los quinientos mil pesos argentinos de multa para los distribuidores exhibidores que no cumplieran con las obligaciones impuestas en relación a las calificaciones que correspondan al Instituto Nacional de Cinematografía.\n\nEntenderá en el juzgamiento de las infracciones el Instituto Nacional de Cinematografía, con recurso ante los jueces en lo correccional de la Capital Federal. El monto de las multas será actualizado trimestralmente por el Instituto Nacional de Cinematografía sobre la base del aumento registrado en el indice de precios al por mayor nivel general publicado oficialmente por el Instituto Nacional de Estadísticas y Censos. La primera actualización será efectuada a los noventa (90) días a partir de la publicación de la presente ley.\n\nLas normas reglamentarias que oportunamente se dicten, incluso en su aspecto sancionatorio, así como las calificaciones que se hagan sobre la base de aquellas normas, serán aplicables a las películas que se pretendan exhibir en las jurisdicciones provinciales cuando en las mismas se dicten expresas normas de adhesión a este régimen.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 24-07-84). Segundo párrafo sustituido.",
+              "cr": "(B.O. 24-07-84). Segundo párrafo sustituido.  0000 000",
               "id": "MODIFICADO_POR_0",
               "ref": "LEY C 023076 1984 07 05 0001 000"
             }
           },
           "observado-por": {
             "referencia-normativa": {
-              "cr": "(B.O. 24-07-84). La competencia del Instituto Nacional de Cinematografía para aplicar sanciones se efectivizará a partir de la publicación de la ley que la establece.",
+              "cr": "(B.O. 24-07-84). La competencia del Instituto Nacional de Cinematografía para aplicar sanciones se efectivizará a partir de la publicación de la ley que la establece.  0000 000",
               "id": "OBSERVADO_POR_0",
               "ref": "LEY C 023076 1984 07 05 0002 000"
             }
@@ -169,7 +178,7 @@
             }
           },
           "numero-articulo": 3,
-          "texto": "ARTICULO  3.-  El  Poder  Ejecutivo  Nacional  está  facultado  para disponer  todas    las  medidas  administrativas  atinentes  a  la disolución del Ente de Calificación  Cinematográfica  que la ley 18 019 creara."
+          "texto": "ARTICULO 3.- El Poder Ejecutivo Nacional está facultado para disponer todas las medidas administrativas atinentes a la disolución del Ente de Calificación Cinematográfica que la ley 18 019 creara."
         },
         {
           "numero-articulo": 4,
@@ -179,7 +188,8 @@
       "firmantes": {
         "firmantes": "MARTINEZ - PUGLIESE - Macris - Belnicoff"
       },
-      "id-infojus": "LNS0003156"
+      "id-infojus": "LNS0003156",
+      "fecha-umod": 20260127104628
     }
   }
 }
