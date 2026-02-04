@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-711-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1770038242457,
+      "timestamp": 1770207751513,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,20 +43,27 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2026-02-02",
-      "fecha-mod": "2026-02-02",
-      "timestamp": "2026-02-02T10:02:30",
-      "timestamp-alta": "2026-02-02T10:02:30",
-      "timestamp-m": "2026-02-02T10:02:30",
+      "fecha-alta": "2026-02-04",
+      "fecha-mod": "2026-02-04",
+      "timestamp": "2026-02-04T09:16:17",
+      "timestamp-alta": "2026-02-04T09:16:17",
+      "timestamp-m": "2026-02-04T09:16:17",
       "generalidades": {
         "sintesis": "Se dispone la Intervención de Educ.Ar Sociedad del Estado, de Télam Sociedad Del Estado, de Radio y Televisión Argentina Sociedad Del Estado por el plazo de Un año",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 9.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 8.\n\nFECHA DE ENTRADA EN VIGENCIA: 5/2/2024.\n\nOBSERVACION: Por Decreto 498/25 (B.O. 25/7/2025) se dispone el cese de la intervención de la Agencia de Publicidad del Estado Sociedad Anónima Unipersonal (APE S.A.U.) ex TELAM SOCIEDAD DEL ESTADO.",
         "observado-por": {
-          "referencia-normativa": {
-            "cr": "(B.O. 2/2/2026) Prórroga de la intervención de Radio y Televisión Argentina Sociedad Anónima Unipersonal y de Contenidos Artísticos e Informativos Sociedad Anónima Unipersonal",
-            "id": "OBSERVADO_POR_0",
-            "ref": "DEC C 000079 2026 01 30 0001 000 0000 000"
-          }
+          "referencia-normativa": [
+            {
+              "cr": "(B.O. 2/2/2026) Prórroga de la intervención de Radio y Televisión Argentina Sociedad Anónima Unipersonal y de Contenidos Artísticos e Informativos Sociedad Anónima Unipersonal",
+              "id": "OBSERVADO_POR_0",
+              "ref": "DEC C 000079 2026 01 30 0001 000 0000 000"
+            },
+            {
+              "cr": "(B.O. 4/2/2026) Prórroga de la intervención de EDUC.AR Sociedad Anónima Unipersonal",
+              "id": "OBSERVADO_POR_1",
+              "ref": "DEC C 000082 2026 02 03 0000 000 0000 000"
+            }
+          ]
         }
       },
       "descriptores": {
@@ -392,7 +399,7 @@
         "firmantes": "MILEI-E/E Francos"
       },
       "id-infojus": "DN20240000117",
-      "fecha-umod": 20260202101722
+      "fecha-umod": 20260204092231
     }
   }
 }
