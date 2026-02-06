@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-172-2000-3102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1437055630769,
+      "timestamp": 1770396312550,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,42 +16,44 @@
     },
     "content": {
       "mecanografico": 20130002271,
+      "estado": "Vigente, de alcance general",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 2271,
+      "fecha": "2013-12-20",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 2271,
-      "timestamp": "2015-07-16T10:38:57",
-      "timestamp-alta": "2013-12-27T14:27:24",
-      "timestamp-m": "2015-07-16T10:38:57",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2013-12-20",
       "standard-normativo": "DEC C 002271 2013 12 20",
       "titulo-norma": "Aprueba reglamentación del Decreto Nº\u00A0637/13",
+      "nombre-coloquial": "DECRETO NACIONAL 2.271/2013",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2013 12 27"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 2.271/2013",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2013-12-27",
-      "fecha-mod": "2015-07-16",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-02-06",
+      "fecha-mod": "2026-02-06",
+      "timestamp": "2026-02-06T13:29:25",
+      "timestamp-alta": "2026-02-06T13:29:25",
+      "timestamp-m": "2026-02-06T13:29:25",
       "generalidades": {
         "sintesis": "Aprueba reglamentación del Decreto Nº\u00A0637/13",
         "anexos-decreto": {
           "anexo-ley": "A REGLAMENTACION DEL DECRETO Nº\u00A0637/13"
         },
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 0006 FECHA DE ENTRADA EN VIGENCIA : 2013 12 27 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA 5",
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 0006  FECHA DE ENTRADA EN VIGENCIA : 2013 12 27  NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA 5  OBSERVACION: Decreto derogado por DNU 88/2026 con efecto a partir de la disolución y liquidación del INSTITUTO DE OBRA SOCIAL DE LAS FUERZAS ARMADAS (IOSFA)",
         "reglamenta-a": {
           "referencia-normativa": {
             "cr": null,
@@ -75,10 +77,10 @@
           },
           {
             "elegido": {
-              "termino": "Ministerio de Defensa"
+              "termino": "MINISTERIO DE DEFENSA"
             },
             "preferido": {
-              "termino": "Ministerio de Defensa"
+              "termino": "MINISTERIO DE DEFENSA"
             },
             "sinonimos": null
           },
@@ -98,9 +100,11 @@
               "termino": "Fuerzas Armadas"
             },
             "preferido": {
-              "termino": "Defensa nacional/derecho militar/Fuerzas Armadas"
+              "termino": "Defensa y seguridad/derecho militar/Fuerzas Armadas"
             },
-            "sinonimos": null
+            "sinonimos": {
+              "termino": "defensa nacional"
+            }
           },
           {
             "elegido": {
@@ -124,14 +128,16 @@
         "suggest": {
           "termino": [
             "derecho previsional (derecho de los beneficios de la seguridad social)",
+            "defensa nacional (Defensa y seguridad)",
             "jerarquía normativa (jerarquía de las leyes)",
-            "Defensa nacional",
+            "MINISTERIO DE DEFENSA",
             "Seguridad social",
             "Poder Ejecutivo Nacional",
             "poderes del Estado",
             "obras sociales",
             "Régimen Nacional de Obras Sociales",
             "reglamentación (reglamentación de la ley)",
+            "Defensa y seguridad",
             "orden jerárquico de las leyes (jerarquía de las leyes)",
             "Derecho constitucional",
             "jerarquía de las leyes",
@@ -145,7 +151,6 @@
             "derecho de los beneficios de la seguridad social",
             "poderes públicos (poderes del Estado)",
             "norma jurídica (leyes)",
-            "Ministerio de Defensa",
             "Fuerzas Armadas"
           ]
         }
@@ -420,7 +425,8 @@
           }
         ]
       },
-      "id-infojus": "DN20130002271"
+      "id-infojus": "DN20130002271",
+      "fecha-umod": 20260206134512
     }
   }
 }
