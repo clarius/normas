@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-348-0000-5102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1432134450146,
+      "timestamp": 1770131777324,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,37 +16,46 @@
     },
     "content": {
       "mecanografico": 20150000843,
+      "estado": "Derogada",
+      "tipo-norma": {
+        "codigo": "DEC",
+        "texto": "Decreto"
+      },
+      "numero-norma": 843,
+      "fecha": "2015-05-18",
       "jurisdiccion": {
         "codigo": "C",
         "descripcion": "Nacional",
         "capital": "Capital Federal",
         "id-pais": 11
       },
-      "numero-norma": 843,
-      "timestamp": "2015-05-20T11:43:19",
-      "timestamp-alta": "2015-05-20T11:43:19",
-      "timestamp-m": "2015-05-20T11:43:19",
-      "tipo-norma": {
-        "codigo": "DEC",
-        "texto": "Decreto"
-      },
-      "fecha": "2015-05-18",
       "standard-normativo": "DEC C 000843 2015 05 18",
       "titulo-norma": "Traslado del Sable Corvo del Libertador General Don José de San Martín",
+      "nombre-coloquial": "DECRETO NACIONAL 843/2015",
+      "lugar-emision": "BUENOS AIRES",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "2015 05 20"
         }
       },
-      "lugar-emision": "BUENOS AIRES",
-      "nombre-coloquial": "DECRETO NACIONAL 843/2015",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "2015-05-20",
-      "fecha-mod": "2015-05-20",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-02-03",
+      "fecha-mod": "2026-02-03",
+      "timestamp": "2026-02-03T12:05:18",
+      "timestamp-alta": "2026-02-03T12:05:18",
+      "timestamp-m": "2026-02-03T12:05:18",
       "generalidades": {
+        "derogado-por": {
+          "referencia-normativa": {
+            "cr": null,
+            "id": "DEROGADO_POR_0",
+            "ref": "DEC C 000081 2026 02 02 0003 000 0000 000"
+          }
+        },
         "sintesis": "Se traslada el Sable Corvo del Libertador General Don José de San Martín",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 2"
       },
@@ -54,10 +63,10 @@
         "descriptor": [
           {
             "elegido": {
-              "termino": "San Martín"
+              "termino": "SAN MARTÍN"
             },
             "preferido": {
-              "termino": "San Martín"
+              "termino": "SAN MARTÍN"
             },
             "sinonimos": null
           },
@@ -81,10 +90,10 @@
           },
           {
             "elegido": {
-              "termino": "Museo Histórico Nacional"
+              "termino": "MUSEO HISTÓRICO NACIONAL"
             },
             "preferido": {
-              "termino": "Museo Histórico Nacional"
+              "termino": "MUSEO HISTÓRICO NACIONAL"
             },
             "sinonimos": null
           }
@@ -97,12 +106,12 @@
             "Educación y Cultura (Cultura y educación)",
             "Cultura y educación",
             "bienes culturales (patrimonio cultural)",
+            "SAN MARTÍN",
             "bienes de interés cultural (patrimonio cultural)",
-            "Museo Histórico Nacional",
             "patrimonio cultural",
             "museos municipales (museos)",
             "museos",
-            "San Martín",
+            "MUSEO HISTÓRICO NACIONAL",
             "cultura"
           ]
         }
@@ -134,7 +143,8 @@
       "firmantes": {
         "firmantes": "FERNANDEZ DE KIRCHNER-Fernández-Rossi-Sellarés"
       },
-      "id-infojus": "DN20150000843"
+      "id-infojus": "DN20150000843",
+      "fecha-umod": 20260203121617
     }
   }
 }
