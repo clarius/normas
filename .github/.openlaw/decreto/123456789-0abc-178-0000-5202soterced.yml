@@ -1,0 +1,302 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Invalid document data'. (Parameter 'json')
+     at Clarius.OpenLaw.Argentina.Document.ParseAsync(String json) in /_/src/OpenLaw.Commands/Argentina/Document.cs:line 50
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 248
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-178-0000-5202soterced
+  ContentType: Legislacion
+  DocumentType:
+    Code: DEC
+    Text: Decreto
+  Status: Individual, Solo Modificatoria o Sin Eficacia
+  Date: 2025-12-11
+  Timestamp: 20251212111629
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-178-0000-5202soterced
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: decreto
+          description: 871-nacional-designacion-secretario-comunicacion-prensa-jefatura-gabinete-ministros-dn20250000871-2025-12-11
+      content:
+        mecanografico: 20250000871
+        estado: Individual, Solo Modificatoria o Sin Eficacia
+        tipo-norma:
+          codigo: DEC
+          texto: Decreto
+        numero-norma: 871
+        fecha: 2025-12-11
+        jurisdiccion:
+          codigo: C
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        standard-normativo: DEC C 000871 2025 12 11
+        titulo-norma: Designación de Secretario de Comunicación y Prensa de la Jefatura de Gabinete de Ministros
+        nombre-coloquial: DECRETO NACIONAL 871/2025
+        publicacion-codificada:
+          publicacion-decodificada:
+            organismo: Boletín Oficial
+            fecha: 2025 12 12
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: renuncia al cargo
+            preferido:
+              termino: Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/renuncia al empleo
+            sinonimos:
+              termino:
+              - distracto
+              - contrato laboral
+              - derecho del trabajo
+              - renuncia al trabajo
+              - dimisión
+              - renuncia del empleado
+              - distracto laboral
+              - renuncia al cargo
+              - renuncia del trabajador
+          - elegido:
+              termino: Secretaría de Comunicación y Medios
+            preferido:
+              termino: Secretaría de Comunicación y Medios
+          - elegido:
+              termino: presidencia de la Nación
+            preferido:
+              termino: Derecho constitucional/poderes del Estado/Poder Ejecutivo/Poder Ejecutivo Nacional/presidencia de la Nación
+            sinonimos:
+              termino: poderes públicos
+          - elegido:
+              termino: Jefatura de Gabinete de Ministros
+            preferido:
+              termino: Derecho constitucional/poderes del Estado/Poder Ejecutivo/ministerios/Jefatura de Gabinete de Ministros
+            sinonimos:
+              termino: poderes públicos
+          - elegido:
+              termino: designación
+            preferido:
+              termino: Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/nombramiento
+            sinonimos:
+              termino:
+              - nombramiento de funcionarios
+              - nombramiento de empleados públicos
+              - nombramiento de funcionarios públicos
+              - relación de empleo público
+              - función pública
+              - designación de funcionarios
+              - designación de personal
+              - designación
+              - designación de funcionarios públicos
+          suggest:
+            termino:
+            - ingreso a la función pública
+            - distracto laboral (extinción del contrato de trabajo)
+            - nombramiento de funcionarios (nombramiento)
+            - distracto (extinción del contrato de trabajo)
+            - contrato laboral (contrato de trabajo)
+            - Jefatura de Gabinete de Ministros
+            - renuncia al cargo (renuncia al empleo)
+            - designación (nombramiento)
+            - renuncia del empleado (renuncia al empleo)
+            - poderes públicos (poderes del Estado)
+            - relación de empleo público (empleo público)
+            - Derecho administrativo
+            - Secretaría de Comunicación y Medios
+            - designación de personal (nombramiento)
+            - función pública (Administración Pública)
+            - renuncia al empleo
+            - designación de funcionarios públicos (nombramiento)
+            - presidencia de la Nación
+            - designación de funcionarios (nombramiento)
+            - nombramiento
+            - Poder Ejecutivo Nacional
+            - poderes del Estado
+            - ministerios
+            - Administración Pública
+            - nombramiento de funcionarios públicos (nombramiento)
+            - dimisión (renuncia al empleo)
+            - contrato de trabajo
+            - derecho del trabajo (Derecho laboral)
+            - Derecho constitucional
+            - nombramiento de empleados públicos (nombramiento)
+            - Derecho laboral
+            - Poder Ejecutivo
+            - empleo público
+            - renuncia del trabajador (renuncia al empleo)
+            - renuncia al trabajo (renuncia al empleo)
+            - extinción del contrato de trabajo
+        fecha-umod: 20251212111629
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-178-0000-5202soterced",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "decreto",
+            "description": "871-nacional-designacion-secretario-comunicacion-prensa-jefatura-gabinete-ministros-dn20250000871-2025-12-11"
+          }
+        },
+        "content": {
+          "mecanografico": 20250000871,
+          "estado": "Individual, Solo Modificatoria o Sin Eficacia",
+          "tipo-norma": {
+            "codigo": "DEC",
+            "texto": "Decreto"
+          },
+          "numero-norma": 871,
+          "fecha": "2025-12-11",
+          "jurisdiccion": {
+            "codigo": "C",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "standard-normativo": "DEC C 000871 2025 12 11",
+          "titulo-norma": "Designación de Secretario de Comunicación y Prensa de la Jefatura de Gabinete de Ministros",
+          "nombre-coloquial": "DECRETO NACIONAL 871/2025",
+          "publicacion-codificada": {
+            "publicacion-decodificada": {
+              "organismo": "Boletín Oficial",
+              "fecha": "2025 12 12"
+            }
+          },
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "renuncia al cargo"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/contrato de trabajo/extinción del contrato de trabajo/renuncia al empleo"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "distracto",
+                    "contrato laboral",
+                    "derecho del trabajo",
+                    "renuncia al trabajo",
+                    "dimisión",
+                    "renuncia del empleado",
+                    "distracto laboral",
+                    "renuncia al cargo",
+                    "renuncia del trabajador"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Secretaría de Comunicación y Medios"
+                },
+                "preferido": {
+                  "termino": "Secretaría de Comunicación y Medios"
+                },
+                "sinonimos": null
+              },
+              {
+                "elegido": {
+                  "termino": "presidencia de la Nación"
+                },
+                "preferido": {
+                  "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/Poder Ejecutivo Nacional/presidencia de la Nación"
+                },
+                "sinonimos": {
+                  "termino": "poderes públicos"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Jefatura de Gabinete de Ministros"
+                },
+                "preferido": {
+                  "termino": "Derecho constitucional/poderes del Estado/Poder Ejecutivo/ministerios/Jefatura de Gabinete de Ministros"
+                },
+                "sinonimos": {
+                  "termino": "poderes públicos"
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "designación"
+                },
+                "preferido": {
+                  "termino": "Derecho administrativo/Administración Pública/empleo público/ingreso a la función pública/nombramiento"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "nombramiento de funcionarios",
+                    "nombramiento de empleados públicos",
+                    "nombramiento de funcionarios públicos",
+                    "relación de empleo público",
+                    "función pública",
+                    "designación de funcionarios",
+                    "designación de personal",
+                    "designación",
+                    "designación de funcionarios públicos"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "ingreso a la función pública",
+                "distracto laboral (extinción del contrato de trabajo)",
+                "nombramiento de funcionarios (nombramiento)",
+                "distracto (extinción del contrato de trabajo)",
+                "contrato laboral (contrato de trabajo)",
+                "Jefatura de Gabinete de Ministros",
+                "renuncia al cargo (renuncia al empleo)",
+                "designación (nombramiento)",
+                "renuncia del empleado (renuncia al empleo)",
+                "poderes públicos (poderes del Estado)",
+                "relación de empleo público (empleo público)",
+                "Derecho administrativo",
+                "Secretaría de Comunicación y Medios",
+                "designación de personal (nombramiento)",
+                "función pública (Administración Pública)",
+                "renuncia al empleo",
+                "designación de funcionarios públicos (nombramiento)",
+                "presidencia de la Nación",
+                "designación de funcionarios (nombramiento)",
+                "nombramiento",
+                "Poder Ejecutivo Nacional",
+                "poderes del Estado",
+                "ministerios",
+                "Administración Pública",
+                "nombramiento de funcionarios públicos (nombramiento)",
+                "dimisión (renuncia al empleo)",
+                "contrato de trabajo",
+                "derecho del trabajo (Derecho laboral)",
+                "Derecho constitucional",
+                "nombramiento de empleados públicos (nombramiento)",
+                "Derecho laboral",
+                "Poder Ejecutivo",
+                "empleo público",
+                "renuncia del trabajador (renuncia al empleo)",
+                "renuncia al trabajo (renuncia al empleo)",
+                "extinción del contrato de trabajo"
+              ]
+            }
+          },
+          "fecha-umod": 20251212111629
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-178-0000-5202soterced",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "DEC",
+        "text": "Decreto"
+      },
+      "date": "2025-12-11",
+      "status": "Individual, Solo Modificatoria o Sin Eficacia",
+      "timestamp": 20251212111629
+    }
+  Query:
+    Tipo: Decreto
+    Jurisdiccion: Nacional
