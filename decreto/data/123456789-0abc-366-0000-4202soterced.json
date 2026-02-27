@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-366-0000-4202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1721829219663,
+      "timestamp": 1771593992568,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2024-07-24",
-      "fecha-mod": "2024-07-24",
-      "timestamp": "2024-07-24T10:31:46",
-      "timestamp-alta": "2024-07-24T10:31:46",
-      "timestamp-m": "2024-07-24T10:31:46",
+      "fecha-alta": "2026-02-20",
+      "fecha-mod": "2026-02-20",
+      "timestamp": "2026-02-20T10:17:57",
+      "timestamp-alta": "2026-02-20T10:17:57",
+      "timestamp-m": "2026-02-20T10:17:57",
       "generalidades": {
         "sintesis": "Se aprueba el Reglamento para la Aviación Civil no Tripulada",
         "anexos-decreto": {
@@ -102,18 +102,43 @@
                 "navegación aérea"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "inteligencia artificial"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/inteligencia artificial"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "sistema experto",
+                "informática",
+                "IA"
+              ]
+            }
           }
         ],
         "suggest": {
           "termino": [
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
             "aviación civil no tripulada",
-            "navegación aérea (circulación aérea)",
             "aeronavegación (circulación aérea)",
-            "aviación civil",
-            "aeronaves",
+            "informática (tecnología de la información)",
+            "IA (inteligencia artificial)",
+            "Derecho informático",
+            "circulación aérea",
+            "navegación aérea (circulación aérea)",
+            "sistema experto (inteligencia artificial)",
+            "TIC (tecnología de la información)",
             "Derecho aeronáutico",
+            "aeronaves",
+            "aviación civil",
+            "tecnología de la información",
             "código aeronáutico",
-            "circulación aérea"
+            "inteligencia artificial"
           ]
         }
       },
@@ -194,7 +219,7 @@
         "texto": "REGLAMENTO PARA LA AVIACIÓN CIVIL NO TRIPULADA"
       },
       "id-infojus": "DN20240000663",
-      "fecha-umod": 20240724105339
+      "fecha-umod": 20260220102632
     }
   }
 }

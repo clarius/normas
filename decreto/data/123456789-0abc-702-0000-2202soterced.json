@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-702-0000-2202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1651071941377,
+      "timestamp": 1771593994437,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 207,
-      "timestamp": "2022-04-27T11:15:47",
-      "timestamp-alta": "2022-04-27T11:15:47",
-      "timestamp-m": "2022-04-27T11:15:47",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,11 +40,14 @@
       "nombre-coloquial": "DECRETO NACIONAL 207/2022",
       "analista": "Rocca, Adriana",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2022-04-27",
-      "fecha-mod": "2022-04-27",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-02-20",
+      "fecha-mod": "2026-02-20",
+      "timestamp": "2026-02-20T10:17:57",
+      "timestamp-alta": "2026-02-20T10:17:57",
+      "timestamp-m": "2026-02-20T10:17:57",
       "generalidades": {
         "sintesis": "Se modifica el Estatuto Orgánico de la Sociedad Del Estado Casa De Moneda",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 4.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA: 3.\n\nFECHA DE ENTRADA EN VIGENCIA: 27/4/2022."
@@ -123,31 +123,56 @@
                 "derecho financiero"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "inteligencia artificial"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/inteligencia artificial"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "sistema experto",
+                "informática",
+                "IA"
+              ]
+            }
           }
         ],
         "suggest": {
           "termino": [
-            "derecho financiero (Economía y finanzas)",
             "empresas públicas (empresas del Estado)",
+            "moneda",
+            "informática (tecnología de la información)",
+            "IA (inteligencia artificial)",
+            "sociedades del Estado (empresas del Estado)",
+            "Derecho informático",
+            "CASA DE LA MONEDA",
+            "Derecho comercial",
+            "sujetos de derecho administrativo",
+            "Hacienda y Finanzas (Economía y finanzas)",
+            "sistema experto (inteligencia artificial)",
+            "tecnología de la información",
+            "inteligencia artificial",
+            "Economía y finanzas",
+            "Derecho administrativo",
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
+            "derecho financiero (Economía y finanzas)",
             "empresas del Estado",
             "estatuto social",
             "derecho económico financiero (Economía y finanzas)",
-            "moneda",
             "Casa de la Moneda de la Nación (CASA DE LA MONEDA)",
-            "sociedades del Estado (empresas del Estado)",
             "sociedades comerciales",
             "emisión de moneda (emisión monetaria)",
-            "CASA DE LA MONEDA",
             "sociedades (sociedades comerciales)",
-            "Derecho comercial",
             "sistema financiero",
-            "sujetos de derecho administrativo",
-            "Hacienda y Finanzas (Economía y finanzas)",
-            "emisión monetaria",
+            "TIC (tecnología de la información)",
             "modificación del estatuto social",
-            "estatuto societario (estatuto social)",
-            "Economía y finanzas",
-            "Derecho administrativo"
+            "emisión monetaria",
+            "estatuto societario (estatuto social)"
           ]
         }
       },
@@ -246,7 +271,8 @@
       "firmantes": {
         "firmantes": "FERNÁNDEZ-Manzur-Guzmán"
       },
-      "id-infojus": "DN20220000207"
+      "id-infojus": "DN20220000207",
+      "fecha-umod": 20260220102634
     }
   }
 }

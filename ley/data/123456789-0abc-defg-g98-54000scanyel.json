@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g98-54000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1600268643976,
+      "timestamp": 1771594001162,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -31,8 +31,6 @@
         ]
       },
       "numero-norma": 25467,
-      "timestamp": "2020-09-16T11:43:45",
-      "timestamp-m": "2020-09-16T11:43:45",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -63,21 +61,25 @@
       "nombre-coloquial": "LEY 25467",
       "estado": "Vigente, de alcance general",
       "analista": "Quintana, Carolina",
-      "fecha-alta": "2001-09-26",
-      "fecha-mod": "2020-09-16",
       "responsable": "Quintana, Carolina",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-02-20",
+      "fecha-mod": "2026-02-20",
+      "timestamp": "2026-02-20T10:17:57",
+      "timestamp-alta": "2026-02-20T10:17:57",
+      "timestamp-m": "2026-02-20T10:17:57",
       "sumario": {
-        "sumario": "CIENCIA Y TECNOLOGIA-POLITICA CIENTIFICA-POLITICA CULTURAL-GABINETE CIENTIFICO Y TECNOLOGICO-CONSEJO FEDERAL DE CIENCIA, TECNOLOGIA E INNOVACION-AGENCIA NACIONAL DE PROMOCION CIENTIFICA, TECNOLOGICA Y DE INNOVACION-CONSEJO INTERINSTITUCIONAL DE CIENCIA Y TECNOLOGIA-CONSEJO INTERUNIVERSITARIO NACIONAL"
+        "sumario": "CIENCIA Y TECNOLOGIA-POLITICA CIENTIFICA-POLITICA CULTURAL-GABINETE CIENTIFICO Y TECNOLOGICO-CONSEJO FEDERAL DE CIENCIA, TECNOLOGIA E INNOVACION-AGENCIA NACIONAL DE PROMOCION CIENTIFICA, TECNOLOGICA Y DE INNOVACION-CONSEJO INTERINSTITUCIONAL DE CIENCIA Y TECNOLOGIA-CONSEJO INTERUNIVERSITARIO NACIONAL-INTELIGENCIA ARTIFICIAL"
       },
       "descriptores": {
         "descriptor": [
           {
             "elegido": {
-              "termino": "Ley de Ciencia, Tecnología e Innovación"
+              "termino": "LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN"
             },
             "preferido": {
-              "termino": "Ley de Ciencia, Tecnología e Innovación"
+              "termino": "LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN"
             },
             "sinonimos": null
           },
@@ -124,10 +126,10 @@
           },
           {
             "elegido": {
-              "termino": "Gabinete Científico y Tecnológico"
+              "termino": "GABINETE CIENTÍFICO Y TECNOLÓGICO"
             },
             "preferido": {
-              "termino": "Gabinete Científico y Tecnológico"
+              "termino": "GABINETE CIENTÍFICO Y TECNOLÓGICO"
             },
             "sinonimos": {
               "termino": "GACTEC"
@@ -135,10 +137,10 @@
           },
           {
             "elegido": {
-              "termino": "Consejo Federal de Ciencia, Tecnología e Innovación"
+              "termino": "CONSEJO FEDERAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN"
             },
             "preferido": {
-              "termino": "Consejo Federal de Ciencia, Tecnología e Innovación"
+              "termino": "CONSEJO FEDERAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN"
             },
             "sinonimos": {
               "termino": "COFECYT"
@@ -146,19 +148,19 @@
           },
           {
             "elegido": {
-              "termino": "Agencia Nacional de Promoción Científica, Tecnológica y de Innovación"
+              "termino": "AGENCIA NACIONAL DE PROMOCIÓN CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN"
             },
             "preferido": {
-              "termino": "Agencia Nacional de Promoción Científica, Tecnológica y de Innovación"
+              "termino": "AGENCIA NACIONAL DE PROMOCIÓN CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN"
             },
             "sinonimos": null
           },
           {
             "elegido": {
-              "termino": "Consejo Interinstitucional de Ciencia y Tecnología"
+              "termino": "CONSEJO INTERINSTITUCIONAL DE CIENCIA Y TECNOLOGÍA"
             },
             "preferido": {
-              "termino": "Consejo Interinstitucional de Ciencia y Tecnología"
+              "termino": "CONSEJO INTERINSTITUCIONAL DE CIENCIA Y TECNOLOGÍA"
             },
             "sinonimos": {
               "termino": "CICYT"
@@ -166,32 +168,57 @@
           },
           {
             "elegido": {
-              "termino": "Consejo Interuniversitario Nacional"
+              "termino": "CONSEJO INTERUNIVERSITARIO NACIONAL"
             },
             "preferido": {
-              "termino": "Consejo Interuniversitario Nacional"
+              "termino": "CONSEJO INTERUNIVERSITARIO NACIONAL"
             },
             "sinonimos": null
+          },
+          {
+            "elegido": {
+              "termino": "inteligencia artificial"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/inteligencia artificial"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "sistema experto",
+                "informática",
+                "IA"
+              ]
+            }
           }
         ],
         "suggest": {
           "termino": [
             "ciencia y tecnología",
-            "Agencia Nacional de Promoción Científica, Tecnológica y de Innovación",
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
             "Educación y Cultura (Cultura y educación)",
             "Cultura y educación",
-            "GACTEC (Gabinete Científico y Tecnológico)",
+            "CONSEJO INTERINSTITUCIONAL DE CIENCIA Y TECNOLOGÍA",
+            "CONSEJO INTERUNIVERSITARIO NACIONAL",
+            "CONSEJO FEDERAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN",
+            "informática (tecnología de la información)",
+            "IA (inteligencia artificial)",
             "política tecnológica (política cultural)",
             "política científica (política cultural)",
-            "Ley de Ciencia, Tecnología e Innovación",
-            "CICYT (Consejo Interinstitucional de Ciencia y Tecnología)",
-            "Gabinete Científico y Tecnológico",
+            "Derecho informático",
             "política cultural",
-            "COFECYT (Consejo Federal de Ciencia, Tecnología e Innovación)",
-            "Consejo Interuniversitario Nacional",
+            "LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN",
+            "sistema experto (inteligencia artificial)",
+            "AGENCIA NACIONAL DE PROMOCIÓN CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN",
+            "TIC (tecnología de la información)",
+            "CICYT (CONSEJO INTERINSTITUCIONAL DE CIENCIA Y TECNOLOGÍA)",
+            "GABINETE CIENTÍFICO Y TECNOLÓGICO",
+            "tecnología de la información",
             "cultura",
-            "Consejo Federal de Ciencia, Tecnología e Innovación",
-            "Consejo Interinstitucional de Ciencia y Tecnología"
+            "inteligencia artificial",
+            "GACTEC (GABINETE CIENTÍFICO Y TECNOLÓGICO)",
+            "COFECYT (CONSEJO FEDERAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN)"
           ]
         }
       },
@@ -209,7 +236,7 @@
             },
             {
               "numero-articulo": 2,
-              "texto": "ARTICULO 2 - Se establecen los siguientes objetivos de la política científica y  tecnológica  nacional:\n\na) Impulsar,    fomentar  y consolidar la generación y aprovechamiento social de los conocimientos;\n\nb) Difundir,  transferir,  articular  y  diseminar dichos conocimientos;\n\nc) Contribuir al bienestar social, mejorando la calidad de la educación, la salud, la vivienda, las comunicaciones  y  los transportes;\n\nd) Estimular y garantizar la investigación  básica,  aplicada, el desarrollo tecnológico  y  la formación de investigadores/as  y tecnólogos/as;\n\ne) Desarrollar y fortalecer  la  capacidad  tecnológica  y competitiva del sistema productivo de bienes y servicios y, en particular,  de las pequeñas y medianas  empresas;\n\nf) Potenciar  y  orientar la investigación científica  y tecnológica, estableciendo  planes    y   programas prioritarios;\n\ng) Promover  mecanismos  de coordinación entre  los organismos del Sistema Nacional de Ciencia, Tecnología e Innovación;\n\nh) Garantizar  la  igualdad  en  oportunidades   para personas, organismos y regiones de la Nación;\n\ni) Impulsar acciones de cooperación  científica y tecnológica a nivel internacional, con especial énfasis  en  la región Mercosur;\n\nj) Promover el desarrollo armónico  de  las distintas  disciplinas y  de  las regiones  que integran el país,  teniendo  en cuenta la realidad geográfica en la que ésta se desenvuelve."
+              "texto": "ARTICULO 2 - Se establecen los siguientes objetivos de la política científica y tecnológica  nacional:\n\na) Impulsar,    fomentar  y consolidar la generación y aprovechamiento social de los conocimientos;\n\nb) Difundir,  transferir,  articular  y  diseminar dichos conocimientos;\n\nc) Contribuir al bienestar social, mejorando la calidad de la educación, la salud, la vivienda, las comunicaciones  y  los transportes;\n\nd) Estimular y garantizar la investigación  básica,  aplicada, el desarrollo tecnológico  y  la formación de investigadores/as  y tecnólogos/as;\n\ne) Desarrollar y fortalecer  la  capacidad  tecnológica  y competitiva del sistema productivo de bienes y servicios y, en particular,  de las pequeñas y medianas  empresas;\n\nf) Potenciar  y  orientar la investigación científica  y tecnológica, estableciendo  planes    y   programas prioritarios;\n\ng) Promover  mecanismos  de coordinación entre  los organismos del Sistema Nacional de Ciencia, Tecnología e Innovación;\n\nh) Garantizar  la  igualdad  en  oportunidades   para personas, organismos y regiones de la Nación;\n\ni) Impulsar acciones de cooperación  científica y tecnológica a nivel internacional, con especial énfasis  en  la región Mercosur;\n\nj) Promover el desarrollo armónico  de  las distintas  disciplinas y  de  las regiones  que integran el país,  teniendo  en cuenta la realidad geográfica en la que ésta se desenvuelve."
             },
             {
               "numero-articulo": 3,
@@ -243,7 +270,7 @@
             },
             {
               "numero-articulo": 8,
-              "texto": "ARTICULO 8° - Créase el Gabinete Científico y Tecnológico (GACTEC), en  el ámbito  de  la  Jefatura  de  Gabinete  de  Ministros. Será presidido  por el jefe de Gabinete de Ministros y estará  integrado por todos los  ministros  y por todos los secretarios de Estado que dependan directamente de la Presidencia  y  que tengan actividades que se vinculan con la ciencia y tecnología. El Gabinete Científico y  Tecnológico, con la asistencia del Consejo Federal  de Ciencia, Tecnología  e  Innovación (COFECYT), del Consejo Interinstitucional de Ciencia y Tecnología  (CICYT) y la Comisión Asesora para el Plan Nacional de Ciencia, Tecnología  e  Innovación, tendrá, entre otras que se determinen, las siguientes responsabilidades:\n\na) Establecer las políticas nacionales y las prioridades consiguientes,  bajo la forma  de un Plan Nacional de Ciencia, Tecnología e Innovación, que se incluirá  para su tratamiento y aprobación por el Congreso de la Nación como anexo  en  el proyecto de  ley  de  presupuesto de la administración  pública nacional;\n\nb) Proponer el presupuesto  anual de ingresos y gastos  de  la función  Ciencia y  Tecnología a ser incorporado al proyecto de ley de presupuesto de la administración pública  nacional  y/o  al Plan Nacional de Inversión Pública;\n\nc) Evaluar  anualmente la ejecución  del  Plan  Nacional  de Ciencia, Tecnología  e  Innovación  y  su grado de cumplimiento y remitir el informe correspondiente al Congreso de la Nación."
+              "texto": "ARTICULO 8° - Créase el Gabinete Científico y Tecnológico (GACTEC), en  el ámbito  de  la  Jefatura  de  Gabinete  de  Ministros. Será presidido  por el jefe de Gabinete de Ministros y estará  integrado por todos los  ministros  y por todos los secretarios de Estado que dependan directamente de la Presidencia y  que tengan actividades que se vinculan con la ciencia y tecnología. El Gabinete Científico y  Tecnológico, con la asistencia del Consejo Federal  de Ciencia, Tecnología  e  Innovación (COFECYT), del Consejo Interinstitucional de Ciencia y Tecnología  (CICYT) y la Comisión Asesora para el Plan Nacional de Ciencia, Tecnología  e  Innovación, tendrá, entre otras que se determinen, las siguientes responsabilidades:\n\na) Establecer las políticas nacionales y las prioridades consiguientes,  bajo la forma  de un Plan Nacional de Ciencia, Tecnología e Innovación, que se incluirá  para su tratamiento y aprobación por el Congreso de la Nación como anexo  en  el proyecto de  ley  de  presupuesto de la administración  pública nacional;\n\nb) Proponer el presupuesto  anual de ingresos y gastos  de  la función  Ciencia y  Tecnología a ser incorporado al proyecto de ley de presupuesto de la administración pública  nacional  y/o  al Plan Nacional de Inversión Pública;\n\nc) Evaluar  anualmente la ejecución  del  Plan  Nacional  de Ciencia, Tecnología  e  Innovación  y  su grado de cumplimiento y remitir el informe correspondiente al Congreso de la Nación."
             },
             {
               "numero-articulo": 9,
@@ -251,7 +278,7 @@
             },
             {
               "numero-articulo": 10,
-              "texto": "ARTICULO 10. - Créase el Consejo Federal de Ciencia,  Tecnología  e Innovación (COFECYT) integrado por los funcionarios de máximo nivel en el área de los gobiernos provinciales y de la Ciudad Autónoma de Buenos  Aires  que  adhieran a la presente ley. El COFECYT será un cuerpo de elaboración, asesoramiento  y articulación de políticas y prioridades  nacionales y regionales que  promuevan  el  desarrollo armónico de las actividades científicas, tecnológicas e innovadoras en todo el país.\n\nEl Consejo Federal tiene la facultad de fijar su propia organización y reglamento de funcionamiento, siendo su presidencia ejercida por el secretario para  la  Tecnología,  la  Ciencia y la Innovación Productiva. El COFECYT designará entre sus miembros,  un Coordinador  Ejecutivo,  quien, entre otras responsabilidades, será miembro informante ante el GACTEC."
+              "texto": "ARTICULO 10. - Créase el Consejo Federal de Ciencia,  Tecnología  e Innovación (COFECYT) integrado por los funcionarios de máximo nivel en el área de los gobiernos provinciales y de la Ciudad Autónoma de Buenos  Aires  que  adhieran a la presente ley. El COFECYT será un cuerpo de elaboración, asesoramiento  y articulación de políticas y prioridades  nacionales y regionales que  promuevan el  desarrollo armónico de las actividades científicas, tecnológicas e innovadoras en todo el país.\n\nEl Consejo Federal tiene la facultad de fijar su propia organización y reglamento de funcionamiento, siendo su presidencia ejercida por el secretario para  la  Tecnología,  la  Ciencia y la Innovación Productiva. El COFECYT designará entre sus miembros,  un Coordinador  Ejecutivo,  quien, entre otras responsabilidades, será miembro informante ante el GACTEC."
             },
             {
               "numero-articulo": 11,
@@ -289,7 +316,7 @@
             },
             {
               "numero-articulo": 16,
-              "texto": "ARTICULO 16. - Créase la Comisión Asesora para  el Plan Nacional de Ciencia, Tecnología  e Innovación. Esta comisión estará  integrada por personalidades destacadas  y  representativas de los diferentes actores del Sistema Nacional de Ciencia,  Tecnología  e Innovación, procurando  la  participación  de  las universidades  públicas   y privadas,  de los organismos científicos y tecnológicos, del sector financiero público  y  privado,  de  las unidades de interfase, la industria,  los servicios, las provincias y  el  Poder Legislativo nacional.\n\nLos miembros de la comisión serán designados por el Poder Ejecutivo nacional, a propuesta  de  cada sector representado. Durarán cuatro años en sus funciones, se renovarán  por mitades y podrán ocupar la función por más de un período."
+              "texto": "ARTICULO 16. - Créase la Comisión Asesora para  el Plan Nacional de Ciencia, Tecnología  e Innovación. Esta comisión estará  integrada por personalidades destacadas  y  representativas de los diferentes actores del Sistema Nacional de Ciencia,  Tecnología  e Innovación, procurando  la  participación  de  las universidades  públicas   y privadas,  de los organismos científicos y tecnológicos, del sector financiero público  y  privado,  de  las  unidades de interfase, la industria,  los servicios, las provincias y  el  Poder Legislativo nacional.\n\nLos miembros de la comisión serán designados por el Poder Ejecutivo nacional, a propuesta  de  cada sector representado. Durarán cuatro años en sus funciones, se renovarán  por mitades y podrán ocupar la función por más de un período."
             },
             {
               "numero-articulo": 17,
@@ -308,7 +335,7 @@
                 }
               },
               "numero-articulo": 19,
-              "texto": "ARTICULO 19. - Los organismos e instituciones públicas que componen el  Sistema  Nacional  de  Ciencia,  Tecnología  e Innovación  -sin perjuicio de lo establecido en su normativa de creación- podrán:\n\na) Disponer,  con autorización y control del ministerio  respectivo y los organismos competentes, de los  fondos  extrapresupuestarios originados   en contratos  celebrados  con  entidades  públicas  o privadas, empresas  o personas  físicas,  por  la  realización  de trabajos  de  carácter científico, asesoramiento técnico, cursos, derechos  de  propiedad intelectual  o industrial  y  donaciones, siempre  que  dichos  fondos  sean destinados  a  la ejecución  de programas y proyectos científicos  o tecnológicos específicos, o a la  realización  de  los  trabajos  mencionados anteriormente;\n\nb) Constituir Unidades de Vinculación Tecnológica  en  el  marco de la ley 23.877;  c) Participar en el capital de sociedades mercantiles o empresas  conjuntas, de empresas de base tecnológica o que  tengan como  objetivo  la  realización de actividades  de  investigación científica o desarrollo tecnológico, en la medida que no afecten el patrimonio del Estado  y  sean  aprobados  por  el Poder Ejecutivo nacional."
+              "texto": "ARTICULO 19. - Los organismos e instituciones públicas que componen el  Sistema Nacional  de  Ciencia,  Tecnología  e Innovación  -sin perjuicio de lo establecido en su normativa de creación- podrán:\n\na) Disponer,  con autorización y control del ministerio  respectivo y los organismos competentes, de los  fondos  extrapresupuestarios originados   en contratos  celebrados  con  entidades  públicas  o privadas, empresas  o personas  físicas,  por  la  realización  de trabajos  de  carácter científico, asesoramiento técnico, cursos, derechos  de  propiedad intelectual  o industrial  y  donaciones, siempre  que  dichos  fondos  sean destinados  a  la ejecución  de programas y proyectos científicos  o tecnológicos específicos, o a la  realización  de  los  trabajos  mencionados anteriormente;\n\nb) Constituir Unidades de Vinculación Tecnológica  en  el  marco de la ley 23.877;  c) Participar en el capital de sociedades mercantiles o empresas  conjuntas, de empresas de base tecnológica o que  tengan como  objetivo  la  realización de actividades  de  investigación científica o desarrollo tecnológico, en la medida que no afecten el patrimonio del Estado  y  sean  aprobados  por  el Poder Ejecutivo nacional."
             }
           ]
         },
@@ -341,7 +368,7 @@
             },
             {
               "numero-articulo": 24,
-              "texto": "ARTICULO 24. - Dentro del Sistema Nacional de Ciencia, Tecnología e Innovación,  sin perjuicio de las demás evaluaciones que establezca la legislación vigente, se aplicarán evaluaciones a los investigadores/as,  a  los  grupos de trabajo y laboratorios, a los proyectos y programas, a las  instituciones  y  al Plan Nacional de Ciencia, Tecnología e Innovación."
+              "texto": "ARTICULO 24. - Dentro del Sistema Nacional de Ciencia, Tecnología e Innovación, sin perjuicio de las demás evaluaciones que establezca la legislación vigente, se aplicarán evaluaciones a los investigadores/as,  a  los  grupos de trabajo y laboratorios, a los proyectos y programas, a las  instituciones  y  al Plan Nacional de Ciencia, Tecnología e Innovación."
             }
           ]
         },
@@ -375,7 +402,7 @@
             },
             {
               "numero-articulo": 28,
-              "texto": "ARTICULO  28.  -  La  participación  en  los  distintos    consejos instituidos    por   la  presente  ley  tendrá  carácter  honorario."
+              "texto": "ARTICULO  28.  -  La  participación  en  los  distintos    consejos instituidos   por   la  presente  ley  tendrá  carácter  honorario."
             },
             {
               "numero-articulo": 29,
@@ -391,7 +418,8 @@
           }
         }
       ],
-      "id-infojus": "LNS0004589"
+      "id-infojus": "LNS0004589",
+      "fecha-umod": 20260220102641
     }
   }
 }
