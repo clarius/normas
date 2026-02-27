@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-244-0000-5202soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1751466204947,
+      "timestamp": 1771593990851,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -43,11 +43,11 @@
       "responsable": "Mazza, Gustavo",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "fecha-alta": "2025-07-02",
-      "fecha-mod": "2025-07-02",
-      "timestamp": "2025-07-02T11:17:52",
-      "timestamp-alta": "2025-07-02T11:17:52",
-      "timestamp-m": "2025-07-02T11:17:52",
+      "fecha-alta": "2026-02-20",
+      "fecha-mod": "2026-02-20",
+      "timestamp": "2026-02-20T10:17:57",
+      "timestamp-alta": "2026-02-20T10:17:57",
+      "timestamp-m": "2026-02-20T10:17:57",
       "generalidades": {
         "sintesis": "Reconformación estructural y operativa de Casa de Moneda S.A.U.",
         "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 14"
@@ -130,6 +130,23 @@
                 "orden jerárquico de las leyes"
               ]
             }
+          },
+          {
+            "elegido": {
+              "termino": "inteligencia artificial"
+            },
+            "preferido": {
+              "termino": "Derecho informático/tecnología de la información/inteligencia artificial"
+            },
+            "sinonimos": {
+              "termino": [
+                "tecnología de la información y las comunicaciones",
+                "TIC",
+                "sistema experto",
+                "informática",
+                "IA"
+              ]
+            }
           }
         ],
         "suggest": {
@@ -138,9 +155,12 @@
             "telefonía móvil (telefonía celular)",
             "servicio de telefonía móvil (telefonía celular)",
             "servicio de telecomunicaciones (telecomunicaciones)",
+            "informática (tecnología de la información)",
             "jerarquía normativa (jerarquía de las leyes)",
+            "IA (inteligencia artificial)",
             "Derecho tributario y aduanero",
             "decretos delegados",
+            "Derecho informático",
             "CASA DE LA MONEDA",
             "app móvil (aplicaciones móviles)",
             "telefonía (servicio telefónico)",
@@ -151,13 +171,17 @@
             "servicio de telefonía celular (telefonía celular)",
             "jerarquía de las leyes",
             "billetera virtual",
+            "sistema experto (inteligencia artificial)",
             "derecho tributario",
+            "tecnología de la información",
             "derecho fiscal (derecho tributario)",
             "pasaporte",
             "decretos",
+            "inteligencia artificial",
             "Derecho civil",
             "Comunicaciones",
             "servicio de comunicaciones móviles (telefonía celular)",
+            "tecnología de la información y las comunicaciones (tecnología de la información)",
             "identificación de las personas",
             "monedero virtual (billetera virtual)",
             "gravámenes (tributos)",
@@ -173,6 +197,7 @@
             "orden de prelación de las leyes (jerarquía de las leyes)",
             "persona humana",
             "impuestos",
+            "TIC (tecnología de la información)",
             "servicio telefónico",
             "medios de comunicación (Comunicaciones)",
             "aplicaciones móviles"
@@ -502,7 +527,7 @@
             "referencia-normativa": {
               "cr": null,
               "id": "MODIFICA_A_0",
-              "ref": "DEC C 000296 1997 03 31 0001 000 0000 000 A"
+              "ref": "DEC C 000296 1997 03 31 0001 000 0000 000  A"
             }
           },
           "numero-articulo": 8,
@@ -544,7 +569,7 @@
         "firmantes": "MILEI-Francos-Caputo"
       },
       "id-infojus": "DN20250000442",
-      "fecha-umod": 20250702112324
+      "fecha-umod": 20260220102630
     }
   }
 }
