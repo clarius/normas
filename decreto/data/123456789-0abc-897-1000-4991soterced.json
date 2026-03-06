@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-897-1000-4991soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1502885593813,
+      "timestamp": 1772723429852,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,8 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 1798,
-      "timestamp": "2017-08-15T22:01:04",
-      "timestamp-m": "2017-08-15T22:01:04",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -48,16 +46,20 @@
       "lugar-emision": "BUENOS AIRES",
       "nombre-coloquial": "DECRETO NACIONAL 1.798/1994",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1995-04-05",
-      "fecha-mod": "2017-08-15",
-      "uid-alta": "SAUID",
-      "uid-mod": "SASAIJ",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2026-03-05",
+      "fecha-mod": "2026-03-05",
+      "timestamp": "2026-03-05T12:00:35",
+      "timestamp-alta": "2026-03-05T12:00:35",
+      "timestamp-m": "2026-03-05T12:00:35",
       "generalidades": {
         "sintesis": "SE DICTA LA REGLAMENTACION DE LA LEY 24240, SOBRE DEFENSA DEL CONSUMIDOR.",
         "anexos-decreto": {
           "anexo-ley": "A REGLAMENTACION"
         },
         "informacion-vinculada": 1E+19,
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 3.\n\nOBSERVACION: Por Disposición 362/26 del Ministerio de Economía- Subsecretaría de Defensa del Consumidor y Lealtad Comercial (B.O. 5/3/2026) se establecen los criterios, pautas y procedimientos necesarios para la efectiva implementación del Registro Nacional de Infractores (RENAI) creado conforme lo dispuesto en el Artículo 49 del presente Decreto.",
         "reglamenta-a": {
           "referencia-normativa": {
             "cr": null,
@@ -78,6 +80,7 @@
             "sinonimos": {
               "termino": [
                 "reglamento ejecutivo",
+                "actos de alcance general",
                 "reglamento de ejecución",
                 "reglamento administrativo"
               ]
@@ -187,6 +190,7 @@
             "compraventa",
             "acto administrativo",
             "contrataciones públicas (contratos administrativos)",
+            "actos de alcance general (acto administrativo de alcance general)",
             "contratos administrativos",
             "obligaciones y contratos (derechos personales)",
             "contratos",
@@ -202,11 +206,11 @@
             "ref": "LEY C 024240 1993 09 22 0000 000 0000 000"
           }
         },
-        "texto": "el  Expediente  N.612.529/94  del  Registro  del MINISTERIO DE ECONOMIA  Y  OBRAS  Y  SERVICIOS  PUBLICOS,  la Ley N.24.240  y lo señalado  por  la Dirección Nacional de Comercio  Interior,  de  la SUBSECRETARIA DE  COMERCIO  INTERIOR de la SECRETARIA DE COMERCIO E INVERSIONES  del  MINISTERIO  DE   ECONOMIA  Y  OBRAS  Y  SERVICIOS PUBLICOS, y"
+        "texto": "el  Expediente  N.612.529/94  del  Registro  del MINISTERIO DE ECONOMIA  Y OBRAS  Y  SERVICIOS  PUBLICOS,  la Ley N.24.240  y lo señalado  por  la Dirección Nacional de Comercio  Interior,  de  la SUBSECRETARIA DE  COMERCIO  INTERIOR de la SECRETARIA DE COMERCIO E INVERSIONES del  MINISTERIO  DE   ECONOMIA  Y  OBRAS  Y  SERVICIOS PUBLICOS, y"
       },
       "considerando": {
-        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA            DECRETA:",
-        "texto": "Que resulta necesaria la elaboración de normas que reglamenten la referida  Ley  a  los  efectos  de  su  efectiva  vigencia.\n\nQue  es  necesario  reglamentar  facultades  y obligaciones de las asociaciones de consumidores.\n\nQue la Dirección General de Asuntos Jurídicos  del  MINISTERIO  DE ECONOMIA  Y OBRAS  Y  SERVICIOS PUBLICOS ha tomado la intervención que le compete.\n\nQue el presente se dicta  en  uso de las facultades conferidas por el Artículo 99 inciso 2) de la Constitución Nacional."
+        "sancion": "EL PRESIDENTE DE LA NACION ARGENTINA DECRETA:",
+        "texto": "Que resulta necesaria la elaboración de normas que reglamenten la referida Ley  a  los  efectos  de  su  efectiva  vigencia.\n\nQue  es  necesario  reglamentar  facultades  y obligaciones de las asociaciones de consumidores.\n\nQue la Dirección General de Asuntos Jurídicos  del  MINISTERIO  DE ECONOMIA  Y OBRAS  Y  SERVICIOS PUBLICOS ha tomado la intervención que le compete.\n\nQue el presente se dicta  en  uso de las facultades conferidas por el Artículo 99 inciso 2) de la Constitución Nacional."
       },
       "articulo": [
         {
@@ -278,11 +282,11 @@
           },
           {
             "numero-articulo": 11,
-            "texto": "ARTICULO 11.- Si la cosa debiera trasladarse a fábrica o taller para efectivizar  la  garantía,  el consumidor deberá notificar al responsable de la misma para que en  el  plazo  de  CUARENTA Y OCHO (48)  horas de recibida la comunicación realice el transporte.\n\nCuando no se  realice  dentro  de  ese  lapso, el consumidor podrá disponer el traslado sin comunicación previa  al  responsable de la garantía, pero en tales casos éste no quedará obligado  sino  hasta los  importes  de  flete  y seguro corrientes en plaza. El traslado deberá hacerse al centro de  reparación  más próximo al lugar donde la  cosa se encuentre, si no indicare otro  el responsable  de  la garantía."
+            "texto": "ARTICULO 11.- Si la cosa debiera trasladarse a fábrica o taller para efectivizar  la  garantía,  el consumidor deberá notificar al responsable de la misma para que en  el  plazo  de  CUARENTA Y OCHO (48)  horas  de recibida la comunicación realice el transporte.\n\nCuando no se  realice  dentro  de  ese  lapso, el consumidor podrá disponer el traslado sin comunicación previa  al  responsable de la garantía, pero en tales casos éste no quedará obligado  sino  hasta los  importes  de  flete  y seguro corrientes en plaza. El traslado deberá hacerse al centro de  reparación  más próximo al lugar donde la  cosa se encuentre, si no indicare otro  el responsable  de  la garantía."
           },
           {
             "numero-articulo": 12,
-            "texto": "ARTICULO  12.- Los proveedores de cosas muebles no consumibles deben asegurar un  servicio  técnico  adecuado  y  el suministro de partes y repuestos durante el tiempo que indiquen las reglamentaciones    que   dicte la  Autoridad  de  Aplicación.\n\nDeberá  asegurarse el suministro  de  partes  y  repuestos  nuevos durante la vigencia  de  la  garantía.  La  utilización  de piezas usadas  será permitida sólo en aquellos casos en que no existan  en el mercado  nacional  piezas nuevas  o  cuando  medie autorización expresa del consumidor."
+            "texto": "ARTICULO  12.- Los proveedores de cosas muebles no consumibles deben asegurar un  servicio  técnico  adecuado  y  el suministro de partes y repuestos durante el tiempo que indiquen las reglamentaciones    que   dicte la Autoridad  de  Aplicación.\n\nDeberá  asegurarse el suministro  de  partes  y  repuestos  nuevos durante la vigencia  de  la  garantía.  La  utilización  de piezas usadas  será permitida sólo en aquellos casos en que no existan  en el mercado  nacional  piezas nuevas  o  cuando  medie autorización expresa del consumidor."
           },
           {
             "numero-articulo": 13,
@@ -302,7 +306,7 @@
           },
           {
             "numero-articulo": 17,
-            "texto": "ARTICULO  17.- Se entenderá por \"condiciones óptimas\" aquellas necesarias para  un  uso  normal,  mediando  un  trato  adecuado  y siguiendo  las  normas  de  uso  y  mantenimiento impartidas por el fabricante.\n\nLa sustitución de la cosa por otra de  \"idénticas características\" deberá realizarse  considerando el período  de  uso  y  el  estado general de la que se  reemplaza,  como  así  también  la cantidad y calidad de las reparaciones amparadas por la garantía que  debieron efectuársele.\n\nIgual  criterio se seguirá para evaluar el precio actual en  plaza de la cosa, cuando  el  consumidor  optare  por  el derecho que le otorga el inciso b) del Artículo 17 de la Ley.\n\nCon  carácter  previo  a  la  sustitución  de  la  cosa,  si  ésta estuviera compuesta  por  conjuntos,  subconjuntos  y/o  diversas piezas, el responsable de  la  garantía  podrá  reemplazar los que fueran defectuosos. La sustitución de partes de la  cosa  podrá ser viable  siempre  que  no se alteren las cualidades generales de  la misma  y  ésta  vuelva a ser  idónea  para  el  uso al  cual  está destinada."
+            "texto": "ARTICULO  17.- Se entenderá por \"condiciones óptimas\" aquellas necesarias para  un  uso  normal,  mediando  un  trato  adecuado  y siguiendo  las  normas de  uso  y  mantenimiento impartidas por el fabricante.\n\nLa sustitución de la cosa por otra de  \"idénticas características\" deberá realizarse  considerando el período  de  uso  y  el  estado general de la que se  reemplaza,  como  así  también  la cantidad y calidad de las reparaciones amparadas por la garantía que  debieron efectuársele.\n\nIgual  criterio se seguirá para evaluar el precio actual en  plaza de la cosa, cuando  el  consumidor  optare  por  el derecho que le otorga el inciso b) del Artículo 17 de la Ley.\n\nCon  carácter  previo  a  la  sustitución  de  la  cosa,  si  ésta estuviera compuesta  por  conjuntos,  subconjuntos  y/o  diversas piezas, el responsable de  la  garantía  podrá  reemplazar los que fueran defectuosos. La sustitución de partes de la  cosa  podrá ser viable  siempre  que  no se alteren las cualidades generales de  la misma  y  ésta  vuelva a ser  idónea  para  el  uso al  cual  está destinada."
           },
           {
             "numero-articulo": 18,
@@ -400,7 +404,7 @@
               }
             },
             "numero-articulo": 38,
-            "texto": "ARTICULO  38.-  La  Autoridad  de  Aplicación  notificará  al proveedor que  haya  incluido  cláusulas  de  las  previstas en el Artículo  37  que  las  mismas  se  tienen por no convenidas  y  lo emplazará a notificar tal circunstancia  al  consumidor  de  manera fehaciente y en el término que dicha autoridad le fije. En caso  de incumplimiento  será  pasible  de  las sanciones  previstas por el Artículo 47 de la Ley N.24.240."
+            "texto": "ARTICULO  38.-  La  Autoridad  de  Aplicación  notificará  al proveedor que  haya  incluido  cláusulas  de  las  previstas en el Artículo  37  que  las mismas  se  tienen por no convenidas  y  lo emplazará a notificar tal circunstancia  al  consumidor  de  manera fehaciente y en el término que dicha autoridad le fije. En caso  de incumplimiento  será  pasible  de  las sanciones previstas por el Artículo 47 de la Ley N.24.240."
           },
           {
             "numero-articulo": 39,
@@ -530,7 +534,8 @@
           }
         ]
       },
-      "id-infojus": "DN19940001798"
+      "id-infojus": "DN19940001798",
+      "fecha-umod": 20260305121029
     }
   }
 }
