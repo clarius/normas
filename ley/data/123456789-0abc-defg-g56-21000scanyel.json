@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g56-21000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1676642318437,
+      "timestamp": 1773062490991,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -16,13 +16,12 @@
     },
     "content": {
       "mecanografico": "S0001265",
-      "numero-norma": 22278,
-      "timestamp": "2023-02-17T10:51:08",
-      "timestamp-m": "2023-02-17T10:51:08",
+      "estado": "Vigente, de alcance general",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
       },
+      "numero-norma": 22278,
       "fecha": "1980-08-25",
       "jurisdiccion": {
         "codigo": "CAPITAL FEDERAL",
@@ -31,31 +30,31 @@
         "id-pais": 11
       },
       "standard-normativo": "LEY C 022278 1980 08 25",
+      "nombre-coloquial": "Ley 22.278",
       "identificacion-coloquial": {
         "identificacion-coloquial": [
           "LEY 22.278",
           "BUENOS AIRES, 25 DE AGOSTO DE 1980"
         ]
       },
+      "lugar-sancion": "BUENOS AIRES",
       "titulo-norma": "REGIMEN PENAL DE MENORES.",
-      "datos-publicacion": "BOLETIN OFICIAL   1980 08 28",
       "publicacion-codificada": {
         "publicacion-decodificada": {
           "organismo": "Boletín Oficial",
           "fecha": "1980 08 28"
         }
       },
-      "publicacion-privada": "ADLA                                                  C004019802573",
       "sancion": "En  uso  de  las  atribuciones  conferidas  por  el  artículo  5 del Estatuto    para    el  Proceso  de  Reorganización  Nacional,  EL PRESIDENTE DE LA NACION ARGENTINA  SANCIONA Y PROMULGA CON FUERZA DE LEY:",
-      "lugar-sancion": "BUENOS AIRES",
-      "nombre-coloquial": "Ley 22.278",
-      "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-21",
-      "fecha-mod": "2023-02-17",
+      "analista": "Rocca, Adriana",
+      "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
-      "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 13 OBSERVACION VER ART 3 L. 22.777 (B.O. 12-4-83)"
-      },
+      "fecha-alta": "2026-03-09",
+      "fecha-mod": "2026-03-09",
+      "timestamp": "2026-03-09T10:05:17",
+      "timestamp-alta": "2026-03-09T10:05:17",
+      "timestamp-m": "2026-03-09T10:05:17",
       "sumario": {
         "sumario": "DERECHO PENAL-REGIMEN PENAL DE LOS MENORES-- MODIFICA L. 14394- MODIFICA L. 21338"
       },
@@ -71,6 +70,7 @@
             "sinonimos": {
               "termino": [
                 "régimen penal de menores",
+                "régimen penal juvenil",
                 "responsabilidad penal del menor",
                 "responsabilidad penal juvenil"
               ]
@@ -101,6 +101,7 @@
             "sinonimos": {
               "termino": [
                 "régimen penal de menores",
+                "régimen penal juvenil",
                 "responsabilidad penal del menor",
                 "responsabilidad penal juvenil"
               ]
@@ -251,6 +252,7 @@
             "teoría del delito",
             "patronato de menores",
             "personal judicial (funcionarios judiciales)",
+            "régimen penal juvenil (régimen penal de la minoridad)",
             "establecimientos penitenciarios",
             "menor imputado (menor procesado)",
             "medidas tutelares",
@@ -292,13 +294,16 @@
           ]
         }
       },
+      "generalidades": {
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 13.\n\nOBSERVACION VER ART 3 L. 22.777 (B.O. 12-4-83).\n\nOBSERVACION: DEROGADA POR ARTICULO 48 DE LA LEY 27.801 (B.O. 9/3/2026) . VIGENCIA: A LOS 180 DIAS DE SU PUBLICACION EN EL BOLETIN OFICIAL."
+      },
       "articulo": [
         {
           "numero-articulo": 1,
           "texto": "*ARTICULO  1.- No es punible el menor que no haya cumplido DIECISEIS (16) años de  edad.  Tampoco lo es el que no haya cumplido DIECIOCHO (18) años, respecto de  delitos  de  acción privada o reprimidos con pena privativa de la libertad que no exceda  de  DOS  (2)  años, con multa o con inhabilitación.  Si   existiere  imputación  contra  alguno  de  ellos  la  autoridad judicial lo dispondrá provisionalmente, procederá a la comprobación del delito,  tomará conocimiento  directo del menor, de sus padres, tutor o guardador y ordenará los informes y peritaciones conducentes  al  estudio de su personalidad  y  de las  condiciones familiares y ambientales en que se encuentre.  En caso necesario  pondrá  al  menor en lugar adecuado para su mejor estudio durante el tiempo indispensable.  Si  de  los estudios realizados resultare  que  el  menor  se  halla abandonado,  falto  de  asistencia,  en  peligro material o moral, o presenta problemas  de conducta, el juez dispondrá  definitivamente del mismo por auto fundado,  previa audiencia de los padres, tutor o guardador.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "Sustituido. (B.O. 09-05-83).",
+              "cr": "Sustituido. (B.O. 09-05-83).  0000 000",
               "id": "MODIFICADO_POR_0",
               "ref": "LEY C 022803 1983 05 05 0001 000"
             }
@@ -306,10 +311,10 @@
         },
         {
           "numero-articulo": 2,
-          "texto": "*ARTICULO  2.-  Es  punible  el  menor de DIECISEIS (16) a DIECIOCHO (18) años de edad que incurriere en  delito  que  no  fuera  de  los enunciados en el artículo primero.  En  esos  casos  la  autoridad  judicial  lo  someterá al respectivo proceso y deberá disponerlo provisionalmente durante  su tramitación a fin de posibilitar la aplicación de las facultades conferidas  por el artículo cuarto.  Cualquiera  fuese  el  resultado  de  la  causa,  si de los estudios realizados apareciera  que el menor se halla abandonado,  falto  de asistencia, en peligro material  o  moral,  o  presenta problemas de conducta,  el  juez dispondrá definitivamente del  mismo  por  auto fundado,  previa  audiencia de los  padres,  tutor  o  guardador.",
+          "texto": "*ARTICULO  2.-  Es  punible  el  menor de DIECISEIS (16) a DIECIOCHO (18) años de edad que incurriere en  delito  que  no  fuera  de  los enunciados en el artículo primero.  En  esos  casos  la  autoridad  judicial  lo  someterá al respectivo proceso y deberá disponerlo provisionalmente durante  su tramitación a fin de posibilitar la aplicación de las facultades conferidas  por el artículo cuarto.  Cualquiera  fuese  el  resultado  de  la  causa,  si de los estudios realizados  apareciera  que el menor se halla abandonado,  falto  de asistencia, en peligro material  o  moral,  o  presenta problemas de conducta,  el  juez dispondrá definitivamente del  mismo  por  auto fundado,  previa  audiencia de los  padres,  tutor  o  guardador.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "Sustituido. (B.O. 09-05-83).",
+              "cr": "Sustituido. (B.O. 09-05-83).  0000 000",
               "id": "MODIFICADO_POR_0",
               "ref": "LEY C 022803 1983 05 05 0002 000"
             }
@@ -317,14 +322,14 @@
         },
         {
           "numero-articulo": 3,
-          "texto": "ARTICULO 3.- La disposición determinará:  a)  la obligada custodia del menor por parte del juez, para procurar la adecuada  formación  de  aquél  mediante  su protección integral.\n\nPara alcanzar tal finalidad el magistrado podrá  ordenar las medidas que  crea convenientes  respecto  del  menor,  que  siempre   serán modificables en su beneficio;  b) la consiguiente restricción al ejercicio de la patria potestad  o tutela, dentro de los límites impuestos y cumpliendo las indicaciones  impartidas por la autoridad judicial, sin perjuicio de la vigencia de  las obligaciones inherentes a los padres o al tutor;\n\nc) el discernimiento  de  la  guarda cuando así correspondiere.\n\nLa  disposición definitiva podrá  cesar  en  cualquier  momento  por resolución judicial  fundada y concluirá de pleno derecho cuando el menor alcance la mayoría de edad."
+          "texto": "ARTICULO 3.- La disposición determinará:  a)  la obligada custodia del menor por parte del juez, para procurar la adecuada  formación  de  aquél  mediante  su protección integral.\n\nPara alcanzar tal finalidad el magistrado podrá  ordenar las medidas que  crea convenientes  respecto  del  menor,  que  siempre   serán modificables en su beneficio;  b) la consiguiente restricción al ejercicio de la patria potestad  o tutela, dentro de los límites impuestos y cumpliendo las indicaciones  impartidas por la autoridad judicial, sin perjuicio de la vigencia de  las obligaciones inherentes a los padres o al tutor;\n\nc) el discernimiento  de  la  guarda cuando así correspondiere.\n\nLa  disposición definitiva podrá  cesar  en  cualquier  momento  por resolución  judicial  fundada y concluirá de pleno derecho cuando el menor alcance la mayoría de edad."
         },
         {
           "numero-articulo": "3 002",
           "texto": "*ARTICULO  3  BIS.-  En  jurisdicción  nacional la autoridad técnico administrativo  con  competencia en el ejercicio  del  patronato  de Menores se encargará de  las internaciones que por aplicación de los artículos 1 y 3 deben disponer los jueces.  En su caso, motivadamente, los jueces podrán ordenar las internaciones  en otras  instituciones    públicas    o   privadas.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "Incorporado. (B.O. 25-10-89).",
+              "cr": "Incorporado. (B.O. 25-10-89).  0000 000",
               "id": "MODIFICADO_POR_0",
               "ref": "LEY C 023742 1989 09 28 0001 000"
             }
@@ -332,7 +337,7 @@
         },
         {
           "numero-articulo": 4,
-          "texto": "ARTICULO  4.-  La  imposición  de  pena  respecto del menor a que se refiere el artículo  segundo estará supeditada  a  los  siguientes requisitos:\n\n1.- Que previamente haya  sido  declarada su responsabilidad penal y la civil si correspondiere, conforme  a  las normas procesales.\n\n2.- Que haya cumplido DIECIOCHO (18) años de edad.  3.- Que haya sido sometido a un período de  tratamiento  tutelar  no inferior a UN  (1)  año,  prorrogable  en  caso necesario hasta la mayoría de edad.\n\nUna  vez cumplidos estos requisitos, si las modalidades  del  hecho, los antecedentes  del  menor, el resultado del tratamiento tutelar y la  impresión directa  recogida  por  el  juez  hicieren  necesario aplicarle una sanción, así  lo  resolverá,  pudiendo reducirla en la forma prevista para la tentativa.\n\nContrariamente,  si  fuese  innecesario  aplicarle    sanción,    lo absolverá, en  cuyo  caso podrá prescindir del requisito del inciso segundo."
+          "texto": "ARTICULO  4.-  La  imposición  de  pena  respecto del menor a que se refiere el  artículo  segundo estará supeditada  a  los  siguientes requisitos:\n\n1.- Que previamente haya  sido  declarada su responsabilidad penal y la civil si correspondiere, conforme  a  las normas procesales.\n\n2.- Que haya cumplido DIECIOCHO (18) años de edad.  3.- Que haya sido sometido a un período de  tratamiento  tutelar  no inferior a  UN  (1)  año,  prorrogable  en  caso necesario hasta la mayoría de edad.\n\nUna  vez cumplidos estos requisitos, si las modalidades  del  hecho, los antecedentes  del  menor, el resultado del tratamiento tutelar y la  impresión directa  recogida  por  el  juez  hicieren  necesario aplicarle una sanción, así  lo  resolverá,  pudiendo reducirla en la forma prevista para la tentativa.  Contrariamente,  si  fuese  innecesario  aplicarle    sanción,    lo absolverá,  en  cuyo  caso podrá prescindir del requisito del inciso segundo."
         },
         {
           "numero-articulo": 5,
@@ -340,14 +345,14 @@
         },
         {
           "numero-articulo": 6,
-          "texto": "ARTICULO  6.-  Las  penas  privativas  de  libertad  que  los jueces impusieran   a   los  menores  se  harán  efectivas  en  institutos especializados. Si en esta situación alcanzaren la mayoría de edad, cumplirán el resto de  la condena en establecimientos para adultos."
+          "texto": "ARTICULO  6.-  Las  penas  privativas  de  libertad  que  los jueces impusieran    a   los  menores  se  harán  efectivas  en  institutos especializados. Si en esta situación alcanzaren la mayoría de edad, cumplirán el resto de  la condena en establecimientos para adultos."
         },
         {
           "numero-articulo": 7,
           "texto": "*ARTICULO  7.-  Respecto de los padres, tutores o guardadores de los menores a que se  refieren  los  artículos  1  y  2,  el  juez podrá declarar  la privación de la patria potestad o la suspensión,  o  la privación de la tutela o guarda, según correspondiere.",
           "modificado-por": {
             "referencia-normativa": {
-              "cr": "Sustituido. (B.O. 23-10-85).",
+              "cr": "Sustituido. (B.O. 23-10-85).  0000 000",
               "id": "MODIFICADO_POR_0",
               "ref": "LEY C 023264 1985 09 25 0020 000"
             }
@@ -460,7 +465,8 @@
       "firmantes": {
         "firmantes": "VIDELA - Rodríguez Varela"
       },
-      "id-infojus": "LNS0001265"
+      "id-infojus": "LNS0001265",
+      "fecha-umod": 20260309102130
     }
   }
 }
