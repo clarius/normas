@@ -1,0 +1,397 @@
+Attempts: 5
+Exception: >-
+  System.ArgumentException: Invalid document data'. (Parameter 'json')
+     at Clarius.OpenLaw.Argentina.Document.ParseAsync(String json) in /_/src/OpenLaw.Commands/Argentina/Document.cs:line 53
+     at Clarius.OpenLaw.Argentina.SaijClient.ReadDocument(String id, HttpClient http) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 248
+     at Clarius.OpenLaw.Argentina.SaijClient.LoadAsync(SearchResult item) in /_/src/OpenLaw.Commands/Argentina/SaijClient.cs:line 193
+     at Clarius.OpenLaw.Argentina.SyncAction.ExecuteAsync(SaijClient client, FileDocumentRepository targetRepository, Boolean noDebugger) in /_/src/OpenLaw.Commands/Argentina/SyncAction.cs:line 31
+Item:
+  Id: 123456789-0abc-defg-g23-85000scanyel
+  ContentType: Legislacion
+  DocumentType:
+    Code: LEY
+    Text: Ley
+  Status: Vigente, de alcance general
+  Date: 2013-03-13
+  Timestamp: 20251211144331
+  Data:
+    document:
+      metadata:
+        uuid: 123456789-0abc-defg-g23-85000scanyel
+        document-content-type: legislacion
+        friendly-url:
+          subdomain: ley
+          description: 26844-nacional-regimen-especial-contrato-trabajo-para-personal-casas-particulares-lns0005832-2013-03-13
+      content:
+        mecanografico: S0005832
+        estado: Vigente, de alcance general
+        tipo-norma:
+          codigo: LEY
+          texto: Ley
+        numero-norma: 26844
+        fecha: 2013-03-13
+        jurisdiccion:
+          codigo: CAPITAL FEDERAL
+          descripcion: Nacional
+          capital: Capital Federal
+          id-pais: 11
+        standard-normativo: LEY C 026844 2013 03 13
+        nombre-coloquial: LEY 26.844
+        titulo-norma: REGIMEN ESPECIAL DE CONTRATO DE TRABAJO PARA EL PERSONAL DE CASAS PARTICULARES
+        publicacion-codificada:
+          publicacion-decodificada:
+            organismo: Boletín Oficial
+            fecha: 2013 04 12
+        sumario: PERSONAL DE CASAS PARTICULARES-SERVICIO DOMESTICO-SERVICIO DOMESTICO CON RETIRO-SERVICIO DOMESTICO SIN RETIRO-CONTRATO DE TRABAJO-TRABAJO INFANTIL-ADOLESCENTES-TRIBUNAL DE TRABAJO PARA EL PERSONAL DE CASAS PARTICULARES-COMISION NACIONAL DE TRABAJO...
+        descriptores:
+          descriptor:
+          - elegido:
+              termino: personal de casas particulares
+            preferido:
+              termino: Derecho laboral/actividades laborales/personal de casas particulares
+            sinonimos:
+              termino:
+              - derecho del trabajo
+              - trabajadores de casas particulares
+              - trabajo doméstico
+              - servicio doméstico
+          - elegido:
+              termino: servicio doméstico
+            preferido:
+              termino: Derecho laboral/actividades laborales/personal de casas particulares
+            sinonimos:
+              termino:
+              - derecho del trabajo
+              - trabajadores de casas particulares
+              - trabajo doméstico
+              - servicio doméstico
+          - elegido:
+              termino: servicio doméstico con retiro
+            preferido:
+              termino: Derecho laboral/actividades laborales/personal de casas particulares/servicio doméstico con retiro
+            sinonimos:
+              termino:
+              - derecho del trabajo
+              - trabajadores de casas particulares
+              - trabajo doméstico
+              - servicio doméstico
+          - elegido:
+              termino: servicio doméstico sin retiro
+            preferido:
+              termino: Derecho laboral/actividades laborales/personal de casas particulares/servicio doméstico sin retiro
+            sinonimos:
+              termino:
+              - derecho del trabajo
+              - trabajadores de casas particulares
+              - trabajo doméstico
+              - servicio doméstico con cama
+              - servicio doméstico
+          - elegido:
+              termino: contrato de trabajo
+            preferido:
+              termino: Derecho laboral/contrato de trabajo
+            sinonimos:
+              termino:
+              - derecho del trabajo
+              - contrato laboral
+          - elegido:
+              termino: trabajo infantil
+            preferido:
+              termino: Derecho laboral/contrato de trabajo/trabajo de menores/trabajo infantil
+            sinonimos:
+              termino:
+              - contrato laboral
+              - derecho del trabajo
+          - elegido:
+              termino: adolescentes
+            preferido:
+              termino: Derecho civil/persona humana/menores/adolescentes
+            sinonimos:
+              termino:
+              - menores de edad
+              - personas de existencia visible
+              - personas físicas
+          - elegido:
+              termino: tribunal de trabajo para el personal de casas particulares
+            preferido:
+              termino: Derecho laboral/actividades laborales/personal de casas particulares/tribunal de trabajo para el personal de casas particulares
+            sinonimos:
+              termino:
+              - derecho del trabajo
+              - trabajadores de casas particulares
+              - trabajo doméstico
+              - Consejo del Servicio Doméstico
+              - Consejo de Trabajo Doméstico
+              - servicio doméstico
+          - elegido:
+              termino: Comisión Nacional de Trabajo en Casas Particulares
+            preferido:
+              termino: Derecho laboral/actividades laborales/personal de casas particulares/Comisión Nacional de Trabajo en Casas Particulares
+            sinonimos:
+              termino:
+              - derecho del trabajo
+              - trabajadores de casas particulares
+              - CNTCP
+              - trabajo doméstico
+              - servicio doméstico
+          suggest:
+            termino:
+            - trabajo infantil
+            - servicio doméstico con cama (servicio doméstico sin retiro)
+            - contrato laboral (contrato de trabajo)
+            - Consejo de Trabajo Doméstico (tribunal de trabajo para el personal de casas particulares)
+            - personas de existencia visible (persona humana)
+            - actividades laborales
+            - personal de casas particulares
+            - Derecho civil
+            - CNTCP (Comisión Nacional de Trabajo en Casas Particulares)
+            - tribunal de trabajo para el personal de casas particulares
+            - servicio doméstico (personal de casas particulares)
+            - servicio doméstico con retiro
+            - contrato de trabajo
+            - derecho del trabajo (Derecho laboral)
+            - personas físicas (persona humana)
+            - adolescentes
+            - menores
+            - trabajo de menores
+            - trabajadores de casas particulares (personal de casas particulares)
+            - persona humana
+            - menores de edad (menores)
+            - Consejo del Servicio Doméstico (tribunal de trabajo para el personal de casas particulares)
+            - servicio doméstico sin retiro
+            - Derecho laboral
+            - trabajo doméstico (personal de casas particulares)
+            - Comisión Nacional de Trabajo en Casas Particulares
+        fecha-umod: 20251211144331
+  Json: >-
+    {
+      "document": {
+        "metadata": {
+          "uuid": "123456789-0abc-defg-g23-85000scanyel",
+          "document-content-type": "legislacion",
+          "friendly-url": {
+            "subdomain": "ley",
+            "description": "26844-nacional-regimen-especial-contrato-trabajo-para-personal-casas-particulares-lns0005832-2013-03-13"
+          }
+        },
+        "content": {
+          "mecanografico": "S0005832",
+          "estado": "Vigente, de alcance general",
+          "tipo-norma": {
+            "codigo": "LEY",
+            "texto": "Ley"
+          },
+          "numero-norma": 26844,
+          "fecha": "2013-03-13",
+          "jurisdiccion": {
+            "codigo": "CAPITAL FEDERAL",
+            "descripcion": "Nacional",
+            "capital": "Capital Federal",
+            "id-pais": 11
+          },
+          "standard-normativo": "LEY C 026844 2013 03 13",
+          "nombre-coloquial": "LEY 26.844",
+          "titulo-norma": "REGIMEN ESPECIAL DE CONTRATO DE TRABAJO PARA EL PERSONAL DE CASAS PARTICULARES",
+          "publicacion-codificada": {
+            "publicacion-decodificada": {
+              "organismo": "Boletín Oficial",
+              "fecha": "2013 04 12"
+            }
+          },
+          "sumario": "PERSONAL DE CASAS PARTICULARES-SERVICIO DOMESTICO-SERVICIO DOMESTICO CON RETIRO-SERVICIO DOMESTICO SIN RETIRO-CONTRATO DE TRABAJO-TRABAJO INFANTIL-ADOLESCENTES-TRIBUNAL DE TRABAJO PARA EL PERSONAL DE CASAS PARTICULARES-COMISION NACIONAL DE TRABAJO...",
+          "descriptores": {
+            "descriptor": [
+              {
+                "elegido": {
+                  "termino": "personal de casas particulares"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/actividades laborales/personal de casas particulares"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "derecho del trabajo",
+                    "trabajadores de casas particulares",
+                    "trabajo doméstico",
+                    "servicio doméstico"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "servicio doméstico"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/actividades laborales/personal de casas particulares"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "derecho del trabajo",
+                    "trabajadores de casas particulares",
+                    "trabajo doméstico",
+                    "servicio doméstico"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "servicio doméstico con retiro"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/actividades laborales/personal de casas particulares/servicio doméstico con retiro"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "derecho del trabajo",
+                    "trabajadores de casas particulares",
+                    "trabajo doméstico",
+                    "servicio doméstico"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "servicio doméstico sin retiro"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/actividades laborales/personal de casas particulares/servicio doméstico sin retiro"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "derecho del trabajo",
+                    "trabajadores de casas particulares",
+                    "trabajo doméstico",
+                    "servicio doméstico con cama",
+                    "servicio doméstico"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "contrato de trabajo"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/contrato de trabajo"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "derecho del trabajo",
+                    "contrato laboral"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "trabajo infantil"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/contrato de trabajo/trabajo de menores/trabajo infantil"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "contrato laboral",
+                    "derecho del trabajo"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "adolescentes"
+                },
+                "preferido": {
+                  "termino": "Derecho civil/persona humana/menores/adolescentes"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "menores de edad",
+                    "personas de existencia visible",
+                    "personas físicas"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "tribunal de trabajo para el personal de casas particulares"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/actividades laborales/personal de casas particulares/tribunal de trabajo para el personal de casas particulares"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "derecho del trabajo",
+                    "trabajadores de casas particulares",
+                    "trabajo doméstico",
+                    "Consejo del Servicio Doméstico",
+                    "Consejo de Trabajo Doméstico",
+                    "servicio doméstico"
+                  ]
+                }
+              },
+              {
+                "elegido": {
+                  "termino": "Comisión Nacional de Trabajo en Casas Particulares"
+                },
+                "preferido": {
+                  "termino": "Derecho laboral/actividades laborales/personal de casas particulares/Comisión Nacional de Trabajo en Casas Particulares"
+                },
+                "sinonimos": {
+                  "termino": [
+                    "derecho del trabajo",
+                    "trabajadores de casas particulares",
+                    "CNTCP",
+                    "trabajo doméstico",
+                    "servicio doméstico"
+                  ]
+                }
+              }
+            ],
+            "suggest": {
+              "termino": [
+                "trabajo infantil",
+                "servicio doméstico con cama (servicio doméstico sin retiro)",
+                "contrato laboral (contrato de trabajo)",
+                "Consejo de Trabajo Doméstico (tribunal de trabajo para el personal de casas particulares)",
+                "personas de existencia visible (persona humana)",
+                "actividades laborales",
+                "personal de casas particulares",
+                "Derecho civil",
+                "CNTCP (Comisión Nacional de Trabajo en Casas Particulares)",
+                "tribunal de trabajo para el personal de casas particulares",
+                "servicio doméstico (personal de casas particulares)",
+                "servicio doméstico con retiro",
+                "contrato de trabajo",
+                "derecho del trabajo (Derecho laboral)",
+                "personas físicas (persona humana)",
+                "adolescentes",
+                "menores",
+                "trabajo de menores",
+                "trabajadores de casas particulares (personal de casas particulares)",
+                "persona humana",
+                "menores de edad (menores)",
+                "Consejo del Servicio Doméstico (tribunal de trabajo para el personal de casas particulares)",
+                "servicio doméstico sin retiro",
+                "Derecho laboral",
+                "trabajo doméstico (personal de casas particulares)",
+                "Comisión Nacional de Trabajo en Casas Particulares"
+              ]
+            }
+          },
+          "fecha-umod": 20251211144331
+        }
+      }
+    }
+  JQ: >-
+    {
+      "id": "123456789-0abc-defg-g23-85000scanyel",
+      "contentType": "legislacion",
+      "documentType": {
+        "code": "LEY",
+        "text": "Ley"
+      },
+      "date": "2013-03-13",
+      "status": "Vigente, de alcance general",
+      "timestamp": 20251211144331
+    }
+  Query:
+    Tipo: Ley
+    Jurisdiccion: Nacional
