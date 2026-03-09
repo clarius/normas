@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g43-42000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1493312851295,
+      "timestamp": 1773074194040,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,8 +17,6 @@
     "content": {
       "mecanografico": "S0002434",
       "numero-norma": 12908,
-      "timestamp": "2017-04-27T13:12:26",
-      "timestamp-m": "2017-04-27T13:12:26",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -52,10 +50,14 @@
       "nombre-coloquial": "Ley 12.908",
       "estado": "Vigente, de alcance general",
       "analista": "Rocca, Adriana",
-      "fecha-alta": "1997-07-21",
-      "fecha-mod": "2017-04-27",
       "responsable": "Rocca, Adriana",
+      "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-03-09",
+      "fecha-mod": "2026-03-09",
+      "timestamp": "2026-03-09T12:47:54",
+      "timestamp-alta": "2026-03-09T12:47:54",
+      "timestamp-m": "2026-03-09T12:47:54",
       "sumario": {
         "sumario": "RATIFICA EL DECRETO LEY 7618/44 Y SUSTITUYE SU ESTATUTO POR EL TEXTO DADO POR EL ART 2 TRABAJO-REGIMENES ESPECIALES-PERIODISTAS- ESTATUTO DEL PERIODISTA PROFESIONAL-Ratifica D.L. 7618/44-TRABAJO- REGIMENES ESPECIALES-PERIODISTAS-ESTATUTO DEL PERIODISTA PROFESIONAL-"
       },
@@ -80,12 +82,13 @@
               "termino": "estatuto del periodista"
             },
             "preferido": {
-              "termino": "Derecho laboral/actividades laborales/periodistas y empleados administrativos de empresas periodísticas/periodistas/estatuto del periodista"
+              "termino": "Derecho laboral/actividades laborales/trabajadores de prensa/periodistas/estatuto del periodista"
             },
             "sinonimos": {
               "termino": [
                 "derecho del trabajo",
-                "estatuto del periodista profesional"
+                "estatuto del periodista profesional",
+                "periodistas y empleados administrativos de empresas periodísticas"
               ]
             }
           },
@@ -94,10 +97,13 @@
               "termino": "periodista profesional"
             },
             "preferido": {
-              "termino": "Derecho laboral/actividades laborales/periodistas y empleados administrativos de empresas periodísticas/periodistas/periodista profesional"
+              "termino": "Derecho laboral/actividades laborales/trabajadores de prensa/periodistas/periodista profesional"
             },
             "sinonimos": {
-              "termino": "derecho del trabajo"
+              "termino": [
+                "derecho del trabajo",
+                "periodistas y empleados administrativos de empresas periodísticas"
+              ]
             }
           },
           {
@@ -105,10 +111,13 @@
               "termino": "carnet de periodista"
             },
             "preferido": {
-              "termino": "Derecho laboral/actividades laborales/periodistas y empleados administrativos de empresas periodísticas/periodistas/carnet de periodista"
+              "termino": "Derecho laboral/actividades laborales/trabajadores de prensa/periodistas/carnet de periodista"
             },
             "sinonimos": {
-              "termino": "derecho del trabajo"
+              "termino": [
+                "derecho del trabajo",
+                "periodistas y empleados administrativos de empresas periodísticas"
+              ]
             }
           },
           {
@@ -187,6 +196,7 @@
             "estatuto del periodista profesional (estatuto del periodista)",
             "accidentes de trabajo",
             "distracto (extinción del contrato de trabajo)",
+            "trabajadores de prensa",
             "contrato laboral (contrato de trabajo)",
             "ambiente de trabajo (condiciones de trabajo)",
             "obligaciones del empleador",
@@ -195,11 +205,10 @@
             "periodista profesional",
             "obligaciones del patrón (obligaciones del empleador)",
             "salario (remuneración)",
-            "estatuto del periodista",
             "deberes del empleador (obligaciones del empleador)",
+            "estatuto del periodista",
             "remuneración",
             "patrón (empleador)",
-            "periodistas y empleados administrativos de empresas periodísticas",
             "condiciones de trabajo",
             "accidentes y enfermedades de trabajo (accidentes de trabajo)",
             "derecho del trabajo (Derecho laboral)",
@@ -208,6 +217,7 @@
             "trabajo",
             "objeto del contrato de trabajo",
             "higiene y seguridad del trabajo",
+            "periodistas y empleados administrativos de empresas periodísticas (trabajadores de prensa)",
             "empleador",
             "periodistas",
             "Derecho laboral",
@@ -221,7 +231,7 @@
         }
       },
       "generalidades": {
-        "observaciones-generales": "OBSERVACION ERRATA PUBLICADA EN BO 11/2/47 CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 3 OBSERVACION RATIFICA EL DECRETO LEY 7618/44 DESDE EL 27/4/44; Y SUSTITUYE SU ESTATUTO POR EL TEXTO DADO POR EL ART 2 CON VIGENCIA ESPECIAL A PARTIR DEL 24/12/46 OBSERVACION VER DE. 9649/59 (B.O. 20/08/59) POR EL CUAL SE ESTABLECE QUE LAS AGENCIAS NOTICIOSAS ARGENTINAS QUEDAN ENCUADRADAS EN LA 2DA. CATEGORIA."
+        "observaciones-generales": ".- ERRATA PUBLICADA EN BO 11/2/47.\n\n.- CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 3.\n\n.- RATIFICA EL DECRETO LEY 7618/44 DESDE EL 27/4/44; Y SUSTITUYE SU ESTATUTO POR EL TEXTO DADO POR EL ART 2 CON VIGENCIA ESPECIAL A PARTIR DEL 24/12/46.\n\n.- VER DE. 9649/59 (B.O. 20/08/59) POR EL CUAL SE ESTABLECE QUE LAS AGENCIAS NOTICIOSAS ARGENTINAS QUEDAN ENCUADRADAS EN LA 2DA. CATEGORIA.\n\n.- POR ART. 197 DE LA LEY 27.802 (B.O. 6/3/2026) SE DEROGA LA PRESENTE NORMA Y SUS MODIFICATORIAS A PARTIR DEL 1 DE ENERO DE 2027."
       },
       "articulo": [
         {
@@ -311,7 +321,7 @@
                   },
                   {
                     "numero-articulo": "A 0010",
-                    "texto": "ARTICULO  10. - Para entender en los casos señalados precedentemente se constituirá  un tribunal formado por cinco miembros: dos de ellos designados por la  comisión  local  de  la asociación con personería jurídica  y  gremial numéricamente  más  representativa    de   los periodistas a  que  pertenezca el interesado, y los otros dos, por los empleados del lugar. Ejercerá  la presidencia el funcionario que designe la autoridad administrativa  del trabajo,  con voto en caso de  empate.  Las  resoluciones  de  este cuerpo, que serán  dictadas dentro  de los treinta días, serán apelables  dentro  de  los cinco días siguientes  por  ante  los  tribunales del trabajo o el juez de primera instancia que corresponda,  en  las  provincias,  según  las respectivas Leyes procesales."
+                    "texto": "ARTICULO  10. - Para entender en los casos señalados precedentemente se constituirá  un tribunal formado por cinco miembros: dos de ellos designados por la  comisión  local  de  la asociación con personería jurídica  y  gremial numéricamente  más  representativa    de   los periodistas  a  que  pertenezca el interesado, y los otros dos, por los empleados del lugar. Ejercerá  la presidencia el funcionario que designe la autoridad administrativa  del trabajo,  con voto en caso de  empate.  Las  resoluciones  de  este cuerpo, que serán  dictadas dentro  de los treinta días, serán apelables  dentro  de  los cinco días siguientes  por  ante  los  tribunales del trabajo o el juez de primera instancia que corresponda,  en  las  provincias,  según  las respectivas Leyes procesales."
                   }
                 ]
               },
@@ -328,7 +338,7 @@
                   },
                   {
                     "numero-articulo": "A 0013",
-                    "texto": "ARTICULO  13.  - EL carnet profesional es obligatorio y será exigido por las autoridades  y  dependencias  del  Estado  a los efectos del ejercicio  de  los  siguientes derechos, sin otras limitaciones  que las expresamente determinadas  por  la  autoridad  competente;\n\na)  Al  libre  tránsito por la vía pública cuando acontecimientos de excepción impidan el ejercicio de este derecho;\n\nb) Al acceso libre  a toda fuente de información de interés público;\n\nc)  Al  acceso  libre a  las  estaciones  ferroviarias,  aeródromos, puertos marítimos  y  fluviales  y cualquier dependencia del Estado, ya sea nacional, provincial o municipal.\n\nEsta facultad sólo podrá usarse para  el  ejercicio de la profesión."
+                    "texto": "ARTICULO  13.  - EL carnet profesional es obligatorio y será exigido por las autoridades  y  dependencias  del  Estado  a los efectos del ejercicio  de  los siguientes derechos, sin otras limitaciones  que las expresamente determinadas por  la  autoridad  competente;\n\na)  Al  libre  tránsito por la vía pública cuando acontecimientos de excepción impidan el ejercicio de este derecho;\n\nb) Al acceso libre  a toda fuente de información de interés público;\n\nc)  Al  acceso  libre a  las  estaciones  ferroviarias,  aeródromos, puertos marítimos  y  fluviales  y cualquier dependencia del Estado, ya sea nacional, provincial o municipal.\n\nEsta facultad sólo podrá usarse para  el  ejercicio de la profesión."
                   },
                   {
                     "numero-articulo": "A 0014",
@@ -396,15 +406,15 @@
                 "articulo": [
                   {
                     "numero-articulo": "A 0021",
-                    "texto": "ARTICULO   21.  -  Para  ejercer  la  profesión  de  periodista  son necesarias  la inscripción en la Matrícula Nacional de Periodistas y la obtención del carnet profesional."
+                    "texto": "ARTICULO   21.  -  Para  ejercer  la  profesión  de  periodista  son necesarias la inscripción en la Matrícula Nacional de Periodistas y la obtención del carnet profesional."
                   },
                   {
                     "numero-articulo": "A 0022",
-                    "texto": "ARTICULO  22.  -  A  los  efectos  de  determinar las condiciones de admisibilidad  del  personal,  así como para  fijar  el  régimen de sueldos mínimos iniciales y básicos  en  las  escalas  progresivas, según sus funciones,  se establecen tres categorías de empleadores, que serán clasificadas,  atendiendo  a  su  capacidad  económica  de pago, por el Poder Ejecutivo Nacional."
+                    "texto": "ARTICULO  22.  -  A  los  efectos  de  determinar las condiciones de admisibilidad  del  personal,  así como para  fijar  el  régimen  de sueldos mínimos iniciales y básicos  en  las  escalas  progresivas, según sus funciones,  se establecen tres categorías de empleadores, que serán clasificadas,  atendiendo  a  su  capacidad  económica  de pago, por el Poder Ejecutivo Nacional."
                   },
                   {
                     "numero-articulo": "A 0023",
-                    "texto": "ARTICULO 23. - La admisión del personal en las empresas periodisticas, editoriales  de  revistas,  semanarios,  anuarios  y agencias    noticiosas, se  hará  de  acuerdo  con  las  siguientes clasificaciones:\n\na) Aspirante: el que se inicia en las tareas propias del periodismo;\n\nb) Reportero:  el encargado  de  recoger  en las fuentes privadas o públicas  las  noticias  o los elementos de información  necesarios para el diario, periódico, revista, semanario,  anuario  y  agencia noticiosa;\n\nc)  Cronista:  el  encargado de redactar exclusivamente, información objetiva en forma de  noticias o crónicas. Cableros: el encargado de preparar, aumentando, sintetizando  o corrigiendo, las informaciones telegráficas, telefónicas o radiotelefónicas;\n\nd)  Redactor: el  encargado de redactar  notas  que  aparte  de  su aspecto  informativo, contengan apreciaciones    subjetivas  o comentarios objetivos de índole general;\n\ne) Colaborador   permanente:  el  que  escribe  notas,  retratos, paralelos, narraciones,        descripciones,    ensayos,  cuentos, bibliografías y otros escritos de carácter literario  o científico o especializados  de cualquier otra materia en un número no  menor  de veinticuatro  anuales   y  que  por  la índole  de  los  mismos  no corresponde a las tareas  habituales  a  los órganos periodísticos;\n\nf) Editorialista:  el  encargado  de  redactar  comentarios    de orientación y crítica  de  las  diversas  actividades  de  la vida colectiva;\n\ng) Encargado o  jefe de sección, prosecretario de redacción o jefe de  noticias, secretario   de  redacción,  secretario  general  de redacción, jefe de redacción; subdirector,  director  o codirector:\n\nel  encargado  de las tareas técnicas particularmente señaladas  por su designación;\n\nh) Traductor; reportero  gráfico,  corrector  de pruebas; archivero:\n\nencargado  de realizar la tarea que indica su nombre.  Dictafonista:\n\nencargado de  recibir  informaciones  mediante  el  dictáfono;\n\ni)  Letrista; retocador; cartógrafos, dibujantes: encargados de las tareas técnicas especialmente  señaladas  por  su designación;\n\nj)    Retratista; caricaturista;  ilustrador;  diagramador:    los dibujantes  encargados    de  las  tareas técnicas  especialmente señaladas por su designación."
+                    "texto": "ARTICULO 23. - La admisión del personal en las empresas periodisticas, editoriales  de  revistas,  semanarios,  anuarios  y agencias    noticiosas, se hará  de  acuerdo  con  las  siguientes clasificaciones:\n\na) Aspirante: el que se inicia en las tareas propias del periodismo;\n\nb) Reportero:  el encargado  de  recoger  en las fuentes privadas o públicas  las  noticias  o los elementos de información  necesarios para el diario, periódico, revista, semanario,  anuario  y  agencia noticiosa;\n\nc)  Cronista:  el  encargado de redactar exclusivamente, información objetiva en forma de  noticias o crónicas. Cableros: el encargado de preparar, aumentando, sintetizando  o corrigiendo, las informaciones telegráficas, telefónicas o radiotelefónicas;\n\nd)  Redactor: el  encargado de redactar  notas  que  aparte  de  su aspecto  informativo, contengan apreciaciones    subjetivas  o comentarios objetivos de índole general;\n\ne) Colaborador   permanente:  el  que  escribe  notas,  retratos, paralelos, narraciones,        descripciones,    ensayos,  cuentos, bibliografías y otros escritos de carácter literario  o científico o especializados  de cualquier otra materia en un número no  menor  de veinticuatro  anuales   y  que  por  la índole  de  los  mismos  no corresponde a las tareas  habituales  a  los órganos periodísticos;\n\nf) Editorialista:  el  encargado  de  redactar  comentarios    de orientación y crítica  de  las  diversas  actividades  de  la vida colectiva;\n\ng) Encargado o  jefe de sección, prosecretario de redacción o jefe de  noticias, secretario   de  redacción,  secretario  general  de redacción, jefe de redacción; subdirector,  director  o codirector:\n\nel  encargado  de las tareas técnicas particularmente señaladas  por su designación;\n\nh) Traductor; reportero  gráfico,  corrector  de pruebas; archivero:\n\nencargado  de realizar la tarea que indica su nombre.  Dictafonista:\n\nencargado de  recibir  informaciones  mediante  el  dictáfono;\n\ni)  Letrista; retocador; cartógrafos, dibujantes: encargados de las tareas técnicas especialmente  señaladas  por  su designación;\n\nj)    Retratista; caricaturista;  ilustrador;  diagramador:    los dibujantes  encargados    de  las  tareas técnicas  especialmente señaladas por su designación."
                   },
                   {
                     "numero-articulo": "A 0024",
@@ -412,7 +422,7 @@
                   },
                   {
                     "numero-articulo": "A 0025",
-                    "texto": "ARTICULO  25.  -  Todo  personal periodistico podrá ser sometido, si así lo desea el empleador  para  su  ingreso, a un período de prueba que  no  deberá ser mayor de treinta días.  Probada  su  idoneidad, comenzará a ganar  el sueldo mínimo o básico, según el caso y se le considerará definitivamente incorporado  al  personal  permanente, debiendo computarse  el período  de prueba para todos sus efectos."
+                    "texto": "ARTICULO  25.  -  Todo  personal periodistico podrá ser sometido, si así lo desea el empleador  para  su  ingreso, a un período de prueba que  no  deberá ser mayor de treinta días.  Probada  su  idoneidad, comenzará a ganar  el sueldo mínimo o básico, según el caso y se le considerará  definitivamente incorporado  al  personal  permanente, debiendo computarse  el  período  de prueba para todos sus efectos."
                   },
                   {
                     "numero-articulo": "A 0026",
@@ -610,7 +620,7 @@
               },
               {
                 "numero-articulo": "A 0055",
-                "texto": "*ARTICULO 55.- Sobre la base de las mínimas fijadas en los artículos 53 y 54, las personas comprendidas en la presente Ley gozarán de un aumento mensual de sus retribuciones, progresivo por antiguedad, según la siguiente escala:\n\n   Años de        Empresas     Empresas      Empresas     antiguedad         de 1°       de 2°          de 3°                             $ m/n. mensuales     A los 2 años           25           20             15     A los 4 años           50           40             30     A los 6 años           75           60             45     A los 8 años          100           80             60     A los 10 años         125          100             75     A los 13 años         150          120             90     A los 16 años         175          140            105     A los 19 años         195          155            120     A los 22 años         215          170            135 A los 25 años         235          185            150",
+                "texto": "*ARTICULO 55.- Sobre la base de las mínimas fijadas en los artículos 53 y 54, las personas comprendidas en la presente Ley gozarán de un aumento mensual de sus retribuciones, progresivo por antiguedad, según la siguiente escala:\n\n            Años de        Empresas     Empresas      Empresas           antiguedad         de 1°       de 2°          de 3°                             $ m/n. mensuales                                 A los 2 años         25           20           15            A los 4 años           50           40         30           A los 6 años           75           60         45            A los 8 años          100           80         60           A los 10 años         125          100         75            A los 13 años         150          120         90           A los 16 años         175          140         105            A los 19 años         195          155         120           A los 22 años         215          170         135            A los 25 años         235          185         150",
                 "observado-por": {
                   "referencia-normativa": {
                     "cr": "(B.O. 20-10-48). Aumenta en un 40% las escalas por antigüedad para las categorías primera y segunda, suprimiéndose la 3ra. categoría.  0000 000",
@@ -804,7 +814,8 @@
           }
         ]
       },
-      "id-infojus": "LNS0002434"
+      "id-infojus": "LNS0002434",
+      "fecha-umod": 20260309133634
     }
   }
 }
