@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g18-36000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1598475738143,
+      "timestamp": 1773149968546,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,9 +17,6 @@
     "content": {
       "mecanografico": "S0006381",
       "numero-norma": 27423,
-      "timestamp": "2020-08-26T17:44:38",
-      "timestamp-alta": "2017-12-22T10:39:48",
-      "timestamp-m": "2020-08-26T17:44:38",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -50,11 +47,14 @@
       "nombre-coloquial": "LEY 27.423",
       "estado": "Vigente, de alcance general",
       "analista": "Rocca, Adriana",
-      "fecha-alta": "2017-12-22",
-      "fecha-mod": "2020-08-26",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-03-10",
+      "fecha-mod": "2026-03-10",
+      "timestamp": "2026-03-10T10:31:23",
+      "timestamp-alta": "2026-03-10T10:31:23",
+      "timestamp-m": "2026-03-10T10:31:23",
       "sumario": {
         "sumario": "HONORARIOS-HONORARIOS DEL ABOGADO-HONORARIOS DEL PROCURADOR-AUXILIARES DE JUSTICIA"
       },
@@ -613,11 +613,36 @@
             },
             {
               "numero-articulo": 60,
-              "texto": "ARTÍCULO 60.- En los procesos no susceptibles de apreciación pecuniaria, los honorarios de los peritos y de los peritos liquidadores de averías serán fijados conforme a las pautas valorativas del artículo 16 y en un mínimo de seis (6) UMA, siendo suficiente para la fijación de los honorarios mínimos, la aceptación del cargo conferido. En el caso de los demás auxiliares de la Justicia, se aplicarán las normas específicas."
+              "texto": "ARTÍCULO 60.- En los procesos no susceptibles de apreciación pecuniaria, los honorarios de los peritos y de los peritos liquidadores de averías serán fijados conforme a las pautas valorativas del artículo 16 y en un mínimo de dos (2) UMA, siendo suficiente para la fijación de los honorarios mínimos, la aceptación del cargo conferido. En el caso de los demás auxiliares de la Justicia, se aplicarán las normas específicas.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 6/3/2026) Artículo sustituido. Vigencia: a partir de su publicación en el Boletín Oficial.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 027802 2026 02 27 0095 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 61,
-              "texto": "ARTÍCULO 61.- En los procesos susceptibles de apreciación pecuniaria, por las actuaciones de primera instancia hasta la sentencia, los honorarios del perito y del perito liquidador de averías serán fijados conforme lo establece el artículo 32. Para tales casos los honorarios mínimos a regular alcanzan a seis (6) UMA. En el caso de los demás auxiliares de la Justicia se aplicarán las normas específicas."
+              "texto": "ARTÍCULO 61.- En los procesos susceptibles de apreciación pecuniaria, por las actuaciones de primera instancia hasta la sentencia, los honorarios del perito y del perito liquidador de averías serán fijados conforme lo establece el artículo 32. Para tales casos los honorarios mínimos a regular alcanzan a dos (2) UMA. En el caso de los demás auxiliares de la Justicia se aplicarán las normas específicas.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 6/3/2026) Artículo sustituido. Vigencia: a partir de su publicación en el Boletín Oficial.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 027802 2026 02 27 0096 000 0000 000"
+                }
+              }
+            },
+            {
+              "numero-articulo": "61 002",
+              "texto": "Artículo 61 bis: Los honorarios de los peritos que intervengan en las controversias judiciales, no estarán vinculados a la cuantía del respectivo juicio, ni al porcentaje de incapacidad que se dictamine en caso de producirse una pericia médica. Su regulación responderá exclusivamente a la apreciación judicial de la labor técnica realizada en el pleito y su relevancia; calidad y extensión en lo concreto y deberá fijarse en un monto que asegure una adecuada retribución al perito.\n\nPor cada pericia, se fijará un monto mínimo de dos (2) UMA.\n\nEn caso de finalizar el proceso por transacción, avenimiento y conciliación, sin que el perito haya presentado la pericia encargada, se le regulará un cuarto (1/4) de UMA en tanto el perito haya aceptado el cargo.",
+              "modificado-por": {
+                "referencia-normativa": {
+                  "cr": "(B.O. 6/3/2026) Artículo incorporado. Vigencia: a partir de su publicación en el Boletín Oficial.",
+                  "id": "MODIFICADO_POR_0",
+                  "ref": "LEY C 027802 2026 02 27 0097 000 0000 000"
+                }
+              }
             },
             {
               "numero-articulo": 62,
@@ -670,7 +695,8 @@
           }
         }
       ],
-      "id-infojus": "LNS0006381"
+      "id-infojus": "LNS0006381",
+      "fecha-umod": 20260310103928
     }
   }
 }
