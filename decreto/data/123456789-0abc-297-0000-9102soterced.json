@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-297-0000-9102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1574946012775,
+      "timestamp": 1773231710438,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 792,
-      "timestamp": "2019-11-28T09:17:07",
-      "timestamp-alta": "2019-11-28T09:17:07",
-      "timestamp-m": "2019-11-28T09:17:07",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,14 +40,17 @@
       "nombre-coloquial": "DECRETO NACIONAL 792/2019",
       "analista": "Rocca, Adriana",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2019-11-28",
-      "fecha-mod": "2019-11-28",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-03-11",
+      "fecha-mod": "2026-03-11",
+      "timestamp": "2026-03-11T09:13:18",
+      "timestamp-alta": "2026-03-11T09:13:18",
+      "timestamp-m": "2026-03-11T09:13:18",
       "generalidades": {
         "sintesis": "Se Reglamenta la Ley 26.858 sobre el derecho de acceso, deambulación y permanencia a lugares públicos y privados de acceso público y a los servicios de transporte público de toda persona con discapacidad acompañada por un perro guía o de asistencia y designación como Autoridad de Aplicación a la Agencia Nacional de Discapacidad (ANDIS)",
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA: 6.\n\nOBSERVACION: Por Resolución 376/26 del Ministerio de Salud (B.O. 10/3/2026) se delegan en la Secretaría Nacional de Discapacidad las facultades emergentes del artículo 3."
       },
       "descriptores": {
         "descriptor": [
@@ -98,7 +98,7 @@
               "termino": "perro guía"
             },
             "preferido": {
-              "termino": "Derechos humanos/derechos humanos de las personas con discapacidad/personas con discapacidad/personas con discapacidad visual/perro guía"
+              "termino": "Derechos humanos/derechos humanos de las personas con discapacidad/personas con discapacidad/personas con discapacidad sensorial/personas con discapacidad visual/perro guía"
             },
             "sinonimos": {
               "termino": [
@@ -200,6 +200,7 @@
             "régimen legal aplicable (aplicación de la ley)",
             "discapacidad (personas con discapacidad)",
             "contrataciones públicas (contratos administrativos)",
+            "personas con discapacidad sensorial",
             "actos de alcance general (acto administrativo de alcance general)",
             "fuentes del derecho",
             "contratos administrativos",
@@ -297,7 +298,8 @@
       "firmantes": {
         "firmantes": "MACRI-Peña"
       },
-      "id-infojus": "DN20190000792"
+      "id-infojus": "DN20190000792",
+      "fecha-umod": 20260311092150
     }
   }
 }

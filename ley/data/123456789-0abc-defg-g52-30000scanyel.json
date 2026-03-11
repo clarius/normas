@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g52-30000scanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413584356940,
+      "timestamp": 1773249044248,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,8 +17,6 @@
     "content": {
       "mecanografico": "S0000325",
       "numero-norma": 21074,
-      "timestamp": "2013-01-19T18:52:52",
-      "timestamp-m": "2013-01-19T18:52:52",
       "tipo-norma": {
         "codigo": "LEY",
         "texto": "Ley"
@@ -48,11 +46,15 @@
       "lugar-sancion": "BUENOS AIRES",
       "nombre-coloquial": "Ley 21.074",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-22",
-      "fecha-mod": "2013-01-19",
-      "uid-mod": "SASAIJ",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2026-03-11",
+      "fecha-mod": "2026-03-11",
+      "timestamp": "2026-03-11T13:37:59",
+      "timestamp-alta": "2026-03-11T13:37:59",
+      "timestamp-m": "2026-03-11T13:37:59",
       "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 9 NRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA 8"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 9.\n\nNRO. DE ART. QUE ESTABLECE LA ENTRADA EN VIGENCIA 8.\n\nOBSERVACION: Por Resolución 376/26 del ministerio de Salud (B.O. 10/3/2026) se delega en la Secretaría Nacional de Discapacidad la facultad prevista en el artículo 5."
       },
       "sumario": {
         "sumario": "SEGURIDAD-SOCIAL-SUBSIDIOS-Sepelios-Ambito de Aplicación-MONTO- Beneficiarios-PRESCRIPCION.\n\nMODIFICA L.14370"
@@ -93,6 +95,7 @@
               "termino": [
                 "haber previsional",
                 "jubilaciones y pensiones",
+                "pensión universal para el adulto mayor",
                 "previsión social",
                 "prestaciones previsionales",
                 "derechos previsionales"
@@ -148,6 +151,7 @@
             "Seguridad social",
             "previsión social (sistema previsional)",
             "pensión a la vejez",
+            "pensión universal para el adulto mayor (pensión a la vejez)",
             "prestaciones previsionales (beneficios previsionales)",
             "derechos previsionales (beneficios previsionales)",
             "sistema previsional",
@@ -205,7 +209,8 @@
       "firmantes": {
         "firmantes": "GARCIA - Sánchez Toranzo - Caressi - Lavia"
       },
-      "id-infojus": "LNS0000325"
+      "id-infojus": "LNS0000325",
+      "fecha-umod": 20260311141044
     }
   }
 }
