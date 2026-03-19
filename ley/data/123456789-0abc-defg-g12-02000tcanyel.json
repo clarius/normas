@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-defg-g12-02000tcanyel",
       "document-content-type": "legislacion",
-      "timestamp": 1413583739398,
+      "timestamp": 1773926012074,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -17,8 +17,6 @@
     "content": {
       "mecanografico": "T0002021",
       "numero-norma": 13211,
-      "timestamp": "2013-01-19T19:05:42",
-      "timestamp-m": "2013-01-19T19:05:42",
       "tipo-norma": {
         "codigo": "TRA",
         "texto": "Tratado"
@@ -55,11 +53,15 @@
       "lugar-sancion": "BUENOS AIRES",
       "nombre-coloquial": "Ley 13.211",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "1997-07-21",
-      "fecha-mod": "2013-01-19",
-      "uid-mod": "SASAIJ",
+      "uid-alta": "ABM",
+      "uid-mod": "ABM",
+      "fecha-alta": "2026-03-19",
+      "fecha-mod": "2026-03-19",
+      "timestamp": "2026-03-19T10:02:42",
+      "timestamp-alta": "2026-03-19T10:02:42",
+      "timestamp-m": "2026-03-19T10:02:42",
       "generalidades": {
-        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 2\n\nOBSERVACION ARTS. 24 Y 25 MODIFICADOS POR ENMIENDA ADOPTADA EN LA XII ASAMBLEA MUNDIAL DE LA SALUD, APROBADA POR LEY 15911 (B.O. 27-9-61)\n\nOBSERVACION ARTS, 24 Y 25 MODIFICADOS POR ENMIENDA ADOPTADA POR RESOLUCION WHA DE LA ASAMBLEA MUNDIAL DE LA SALUD, APROBADA POR LEY 18812 (B.O. 20-10-70)\n\nOBSERVACION CONVENIO MODIFICADO EN SUS ARTS. 34 Y 55 POR ENMIENDAS ADOPTADAS POR LA 26A. ASAMBLEA MUNDIAL DE LA SALUD, APROBADA POR LEY 21406 (B.O. 9-9-76).\n\nOBSERVACION POR LEY 25.185 SE APRUEBA UNA ENMIENDA AL ARTICULO 74 DE DE LA CONSTITUCION APROBADA POR ESTA LEY (B.O. 28-10-99).\n\nOBSERVACION: VER LEY 25330 QUE APRUEBA MODIFICACIONES A LOS ARTS. 24 Y 25 DE LA CONSTITUCION APROBADA POR LA PRESENTE LEY (B.O. 13/11/00)"
+        "observaciones-generales": "CANTIDAD DE ARTICULOS QUE COMPONEN LA NORMA 2.\n\nOBSERVACION: ARTS. 24 Y 25 MODIFICADOS POR ENMIENDA ADOPTADA EN LA XII ASAMBLEA MUNDIAL DE LA SALUD, APROBADA POR LEY 15911 (B.O. 27-9-61).\n\nOBSERVACION: ARTS, 24 Y 25 MODIFICADOS POR ENMIENDA ADOPTADA POR RESOLUCION WHA DE LA ASAMBLEA MUNDIAL DE LA SALUD, APROBADA POR LEY 18812 (B.O. 20-10-70).\n\nOBSERVACION: CONVENIO MODIFICADO EN SUS ARTS. 34 Y 55 POR ENMIENDAS ADOPTADAS POR LA 26A. ASAMBLEA MUNDIAL DE LA SALUD, APROBADA POR LEY 21406 (B.O. 9-9-76).\n\nOBSERVACION: POR LEY 25.185 SE APRUEBA UNA ENMIENDA AL ARTICULO 74 DE DE LA CONSTITUCION APROBADA POR ESTA LEY (B.O. 8-10-99).\n\nOBSERVACION: VER LEY 25330 QUE APRUEBA MODIFICACIONES A LOS ARTS. 24 Y 25 DE LA CONSTITUCION APROBADA POR LA PRESENTE LEY (B.O. 13/11/00).\n\nOBSERVACION: FECHA DE ENTRADA EN VIGOR EL 22 DE OCTUBRE DE 1948; DENUNCIA EL 17/3/2025 Y FECHA DE TERMINACION PARA LA REPUBLICA EL 17/3/2026 PUBLICADO EN EL BOLETIN OFICIAL DEL 19/03/2026 CONFORME LEY 24.080."
       },
       "sumario": {
         "sumario": "RELACIONES EXTERIORES-CONVENIOS INTERNACIONALES-SALUD PUBLICA- ORGANISMOS INTERNACIONALES-ORGANIZACION MUNDIAL DE LA SALUD- Organización Mundial de la Salud-constitución de la Organización Mundial de la Salud y Protocolo concerniente a la Oficina Internacional de Higiene Pública,firmado en Nueva York por los delegados Argentinos,el 22 de Julio de 1946-"
@@ -75,8 +77,8 @@
             },
             "sinonimos": {
               "termino": [
-                "convenciones internacionales",
-                "convenios internacionales"
+                "convenios internacionales",
+                "convenciones internacionales"
               ]
             }
           },
@@ -113,10 +115,10 @@
           },
           {
             "elegido": {
-              "termino": "Oficina Internacional de Higiene Pública"
+              "termino": "OFICINA INTERNACIONAL DE HIGIENE PÚBLICA"
             },
             "preferido": {
-              "termino": "Oficina Internacional de Higiene Pública"
+              "termino": "OFICINA INTERNACIONAL DE HIGIENE PÚBLICA"
             },
             "sinonimos": null
           }
@@ -127,6 +129,7 @@
             "Naciones Unidas",
             "ONU (Naciones Unidas)",
             "Organización Mundial de la Salud",
+            "OFICINA INTERNACIONAL DE HIGIENE PÚBLICA",
             "Organización de las Naciones Unidas (Naciones Unidas)",
             "organismos especializados de las Naciones Unidas",
             "derecho de los tratados",
@@ -137,8 +140,7 @@
             "organismos internacionales",
             "entidades internacionales (organismos internacionales)",
             "derecho internacional público",
-            "tratados internacionales",
-            "Oficina Internacional de Higiene Pública"
+            "tratados internacionales"
           ]
         }
       },
@@ -707,7 +709,8 @@
           }
         }
       ],
-      "id-infojus": "LNT0002021"
+      "id-infojus": "LNT0002021",
+      "fecha-umod": 20260319101332
     }
   }
 }
