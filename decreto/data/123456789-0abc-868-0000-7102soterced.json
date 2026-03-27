@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-868-0000-7102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1601056976199,
+      "timestamp": 1774613857565,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 868,
-      "timestamp": "2020-09-25T14:46:55",
-      "timestamp-alta": "2017-10-27T11:25:39",
-      "timestamp-m": "2020-09-25T14:46:55",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,11 +40,14 @@
       "nombre-coloquial": "DECRETO NACIONAL 868/2017",
       "analista": "Rocca, Adriana",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2017-10-27",
-      "fecha-mod": "2020-09-25",
       "responsable": "Rocca, Adriana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-03-27",
+      "fecha-mod": "2026-03-27",
+      "timestamp": "2026-03-27T08:49:07",
+      "timestamp-alta": "2026-03-27T08:49:07",
+      "timestamp-m": "2026-03-27T08:49:07",
       "generalidades": {
         "sintesis": "Se crea el Programa Nacional \"Plan Nacional De Discapacidad\" en la órbita de la Agencia Nacional De Discapacidad y Aprobación de la Estructura Orgánica de la Agencia Nacional de Discapacidad.",
         "anexos-decreto": {
@@ -483,8 +483,15 @@
               "ref": "LEY C 024657 1996 06 05 0011 000 0000 000"
             }
           },
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 26/03/2026)  ARTICULO DEROGADO. VIGENCIA EL DIA DE SU DICTADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000193 2026 03 25 0011 000 0000 000"
+            }
+          },
           "numero-articulo": 18,
-          "texto": "ARTÍCULO 18.- Créase, con dependencia del Director Ejecutivo de la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARIA GENERAL de la PRESIDENCIA DE LA NACIÓN, el cargo extraescalafonario de Secretario General, con una remuneración equivalente al Nivel A, Grado 1 del Convenio Colectivo de Trabajo Sectorial del Personal del SISTEMA NACIONAL DE EMPLEO PÚBLICO (SINEP), homologado por el Decreto Nº 2098 de fecha 3 de diciembre de 2008 y sus modificatorios, que ejercerá la secretaría administrativa permanente del CONSEJO FEDERAL DE DISCAPACIDAD (COFEDIS), prevista en el artículo 11 de laLey Nº 24.657 y coordinará el accionar del Comité Técnico, del Comité Asesor y del DIRECTORIO del SISTEMA DE PRESTACIONES BÁSICAS DE ATENCIÓN INTEGRAL DE PERSONAS CON DISCAPACIDAD."
+          "texto": "ARTÍCULO 18.- NOTA DE REDACCION: DEROGADO POR DECRETO 193/2026.\n\nCréase, con dependencia del Director Ejecutivo de la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARIA GENERAL de la PRESIDENCIA DE LA NACIÓN, el cargo extraescalafonario de Secretario General, con una remuneración equivalente al Nivel A, Grado 1 del Convenio Colectivo de Trabajo Sectorial del Personal del SISTEMA NACIONAL DE EMPLEO PÚBLICO (SINEP), homologado por el Decreto Nº 2098 de fecha 3 de diciembre de 2008 y sus modificatorios, que ejercerá la secretaría administrativa permanente del CONSEJO FEDERAL DE DISCAPACIDAD (COFEDIS), prevista en el artículo 11 de laLey Nº 24.657 y coordinará el accionar del Comité Técnico, del Comité Asesor y del DIRECTORIO del SISTEMA DE PRESTACIONES BÁSICAS DE ATENCIÓN INTEGRAL DE PERSONAS CON DISCAPACIDAD."
         },
         {
           "numero-articulo": 19,
@@ -694,7 +701,8 @@
           "texto": "Planilla Anexa Al Artículo 31"
         }
       ],
-      "id-infojus": "DN20170000868"
+      "id-infojus": "DN20170000868",
+      "fecha-umod": 20260327091737
     }
   }
 }
