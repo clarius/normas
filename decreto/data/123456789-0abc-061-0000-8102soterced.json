@@ -3,7 +3,7 @@
     "metadata": {
       "uuid": "123456789-0abc-061-0000-8102soterced",
       "document-content-type": "legislacion",
-      "timestamp": 1519823352526,
+      "timestamp": 1774613852080,
       "operation": "ADD",
       "target-document-repository-id": "infojus",
       "target-index-id": "index",
@@ -23,9 +23,6 @@
         "id-pais": 11
       },
       "numero-norma": 160,
-      "timestamp": "2018-02-28T09:17:23",
-      "timestamp-alta": "2018-02-28T09:17:23",
-      "timestamp-m": "2018-02-28T09:17:23",
       "tipo-norma": {
         "codigo": "DEC",
         "texto": "Decreto"
@@ -43,11 +40,14 @@
       "nombre-coloquial": "DECRETO NACIONAL 160/2018",
       "analista": "Belloro, Mariana",
       "estado": "Vigente, de alcance general",
-      "fecha-alta": "2018-02-28",
-      "fecha-mod": "2018-02-28",
       "responsable": "Belloro, Mariana",
       "uid-alta": "ABM",
       "uid-mod": "ABM",
+      "fecha-alta": "2026-03-27",
+      "fecha-mod": "2026-03-27",
+      "timestamp": "2026-03-27T08:49:07",
+      "timestamp-alta": "2026-03-27T08:49:07",
+      "timestamp-m": "2026-03-27T08:49:07",
       "generalidades": {
         "sintesis": "Se aprueba la Estructura Organizativa de la Agencia Nacional de Discapacidad.",
         "anexos-decreto": {
@@ -63,10 +63,10 @@
         "descriptor": [
           {
             "elegido": {
-              "termino": "Agencia Nacional de discapacidad"
+              "termino": "Agencia Nacional de Discapacidad"
             },
             "preferido": {
-              "termino": "Derechos humanos/derechos humanos de las personas con discapacidad/personas con discapacidad/Agencia Nacional de discapacidad"
+              "termino": "Derechos humanos/derechos humanos de las personas con discapacidad/personas con discapacidad/Agencia Nacional de Discapacidad"
             },
             "sinonimos": {
               "termino": [
@@ -75,6 +75,7 @@
                 "derechos fundamentales",
                 "discapacidad",
                 "personas discapacitadas",
+                "ANDIS",
                 "minusválidos"
               ]
             }
@@ -102,6 +103,7 @@
         ],
         "suggest": {
           "termino": [
+            "ANDIS (Agencia Nacional de Discapacidad)",
             "organismos centralizados (administración centralizada)",
             "organismos públicos (organismos del Estado)",
             "administración centralizada",
@@ -113,6 +115,7 @@
             "personas con discapacidad",
             "Administración Pública",
             "organismos administrativos (organismos del Estado)",
+            "Agencia Nacional de Discapacidad",
             "derechos fundamentales (Derechos humanos)",
             "estructura orgánica",
             "minusválidos (personas con discapacidad)",
@@ -120,7 +123,6 @@
             "discapacidad (personas con discapacidad)",
             "derechos humanos de las personas con discapacidad",
             "discapacitados (personas con discapacidad)",
-            "Agencia Nacional de discapacidad",
             "reparticiones nacionales (organismos del Estado)",
             "órgano administrativo (organismos del Estado)",
             "Derecho administrativo",
@@ -200,12 +202,26 @@
       },
       "articulo": [
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 26/03/2026)  ARTICULO DEROGADO. VIGENCIA EL DIA DE SU DICTADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000193 2026 03 25 0011 000 0000 000"
+            }
+          },
           "numero-articulo": 1,
-          "texto": "ARTÍCULO 1°.- Apruébase la estructura organizativa de primer nivel operativo de la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARÍA GENERAL de la PRESIDENCIA DE LA NACIÓN, de conformidad con el Organigrama y Responsabilidad Primaria y Acciones que, como Anexos I (IF-2018-08576386-APN-SGP) y II (IF-2018-08576764-APN-SGP), forman parte integrante de la presente medida."
+          "texto": "ARTÍCULO 1°.- NOTA DE REDACCION: DEROGADO POR DECRETO 193/2026.\n\nApruébase la estructura organizativa de primer nivel operativo de la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARÍA GENERAL de la PRESIDENCIA DE LA NACIÓN, de conformidad con el Organigrama y Responsabilidad Primaria y Acciones que, como Anexos I (IF-2018-08576386-APN-SGP) y II (IF-2018-08576764-APN-SGP), forman parte integrante de la presente medida."
         },
         {
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 26/03/2026)  ARTICULO DEROGADO. VIGENCIA EL DIA DE SU DICTADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000193 2026 03 25 0011 000 0000 000"
+            }
+          },
           "numero-articulo": 2,
-          "texto": "ARTÍCULO 2°.- Incorpóranse, homológanse y deróganse en el Nomenclador de Funciones Ejecutivas, los cargos pertenecientes a la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARÍA GENERAL de la PRESIDENCIA DE LA NACIÓN, según el detalle obrante en Planilla Anexa al presente artículo (IF-2018-08577083-APN-SGP), que forma parte integrante de la presente medida."
+          "texto": "ARTÍCULO 2°.- NOTA DE REDACCION: DEROGADO POR DECRETO 193/2026.\n\nIncorpóranse, homológanse y deróganse en el Nomenclador de Funciones Ejecutivas, los cargos pertenecientes a la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARÍA GENERAL de la PRESIDENCIA DE LA NACIÓN, según el detalle obrante en Planilla Anexa al presente artículo (IF-2018-08577083-APN-SGP), que forma parte integrante de la presente medida."
         },
         {
           "referencias-normativas": {
@@ -215,8 +231,15 @@
               "ref": "DEC C 002098 2008 12 03 0000 000 0000 000"
             }
           },
+          "derogado-por": {
+            "referencia-normativa": {
+              "cr": "(B.O. 26/03/2026)  ARTICULO DEROGADO. VIGENCIA EL DIA DE SU DICTADO",
+              "id": "DEROGADO_POR_0",
+              "ref": "DEC C 000193 2026 03 25 0011 000 0000 000"
+            }
+          },
           "numero-articulo": 3,
-          "texto": "ARTÍCULO 3°.- Facúltase al Director Ejecutivo de la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARÍA GENERAL de la PRESIDENCIA DE LA NACIÓN, a aprobar, previa intervención de la SECRETARÍA DE COORDINACIÓN INTERMINISTERIAL de la JEFATURA DE GABINETE DE MINISTROS, la estructura organizativa de nivel inferior a la aprobada por el presente Decreto, la que deberá prever un máximo de QUINCE (15) Direcciones, SIETE (7) Coordinaciones y CUATRO (4) Responsables de Auditoría del SISTEMA NACIONAL DE EMPLEO PÚBLICO (SINEP), aprobado por el CONVENIO COLECTIVO DE TRABAJO SECTORIAL DEL PERSONAL homologado por el Decreto N° 2098/08, sus modificatorios y complementarios, los que a través de dicho acto serán incorporadas, ratificadas u homologadas, según corresponda, en el Nomenclador de Funciones Ejecutivas de la Jurisdicción, con Nivel III (Dirección) y IV (Coordinación y Responsable de Auditoría)."
+          "texto": "ARTÍCULO 3°.- NOTA DE REDACCION: DEROGADO POR DECRETO 193/2026.\n\nFacúltase al Director Ejecutivo de la AGENCIA NACIONAL DE DISCAPACIDAD, organismo descentralizado en la órbita de la SECRETARÍA GENERAL de la PRESIDENCIA DE LA NACIÓN, a aprobar, previa intervención de la SECRETARÍA DE COORDINACIÓN INTERMINISTERIAL de la JEFATURA DE GABINETE DE MINISTROS, la estructura organizativa de nivel inferior a la aprobada por el presente Decreto, la que deberá prever un máximo de QUINCE (15) Direcciones, SIETE (7) Coordinaciones y CUATRO (4) Responsables de Auditoría del SISTEMA NACIONAL DE EMPLEO PÚBLICO (SINEP), aprobado por el CONVENIO COLECTIVO DE TRABAJO SECTORIAL DEL PERSONAL homologado por el Decreto N° 2098/08, sus modificatorios y complementarios, los que a través de dicho acto serán incorporadas, ratificadas u homologadas, según corresponda, en el Nomenclador de Funciones Ejecutivas de la Jurisdicción, con Nivel III (Dirección) y IV (Coordinación y Responsable de Auditoría)."
         },
         {
           "numero-articulo": 4,
@@ -271,7 +294,8 @@
           "texto": "ANEXO III"
         }
       ],
-      "id-infojus": "DN20180000160"
+      "id-infojus": "DN20180000160",
+      "fecha-umod": 20260327091732
     }
   }
 }
